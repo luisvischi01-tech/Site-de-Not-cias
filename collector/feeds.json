@@ -1,0 +1,19 @@
+[
+  {"source": "G1", "category": "brasil", "url": "http://g1.globo.com/dynamo/politica/rss2.xml"},
+  {"source": "G1", "category": "economia", "url": "http://g1.globo.com/dynamo/economia/rss2.xml"},
+
+  {"source": "CNN Brasil", "category": "classify", "default": "brasil", "url": "https://www.cnnbrasil.com.br/feed/"},
+
+  {"source": "BBC News Brasil", "category": "classify", "default": "brasil", "url": "http://feeds.bbci.co.uk/portuguese/rss.xml"},
+
+  {"source": "The Guardian", "category": "internacional", "url": "https://www.theguardian.com/world/rss"},
+  {"source": "The Guardian", "category": "economia", "url": "https://www.theguardian.com/business/rss"},
+
+  {"source": "El País", "category": "classify", "default": "internacional", "url": "https://elpais.com/rss/elpais/portada.xml"},
+
+  {"source": "BBC News", "category": "internacional", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+
+  {"source": "CNN", "category": "internacional", "url": "http://rss.cnn.com/rss/edition_world.rss"},
+
+  {"source": "Le Monde Diplomatique", "category": "classify", "default": "internacional", "url": "https://diplomatique.org.br/feed/"}
+]
