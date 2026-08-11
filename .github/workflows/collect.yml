@@ -1,0 +1,38 @@
+name: Coletar notícias (RSS)
+
+# Roda a cada 30 minutos, e também manualmente pelo botão "Run workflow" no GitHub.
+# Ajuste o cron abaixo se quiser outra frequência (formato: minuto hora dia mês dia-da-semana, em UTC).
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências do coletor
+        working-directory: collector
+        run: npm install
+
+      - name: Rodar o coletor de RSS
+        working-directory: collector
+        run: node collect.js
+
+      - name: Salvar items.json atualizado (se mudou algo)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add collector/output/items.json
+          git diff --staged --quiet && echo "Sem mudanças." || (git commit -m "Atualiza notícias (coleta automática)" && git push)
