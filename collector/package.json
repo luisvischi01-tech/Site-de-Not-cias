@@ -1,0 +1,13 @@
+{
+  "name": "despacho-collector",
+  "version": "1.0.0",
+  "description": "Coletor de feeds RSS para o portal Despacho",
+  "private": true,
+  "main": "collect.js",
+  "scripts": {
+    "collect": "node collect.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
