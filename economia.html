@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Economia · Despacho</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker-track" id="tickerTrack"></div>
+</div>
+
+<div class="masthead">
+  <div class="brand">
+    <a href="index.html"><h1>Despacho</h1></a>
+    <span class="kicker">Política &amp; Economia</span>
+  </div>
+  <div class="dateline">
+    <span id="fullDate"></span>
+    <span class="edition">Brasil · Internacional · Mercados</span>
+  </div>
+</div>
+
+<div class="topnav">
+  <span class="label">Editorias</span>
+  <a class="nav-link" href="index.html">Início</a>
+  <a class="nav-link" href="brasil.html">Brasil — Política</a>
+  <a class="nav-link" href="internacional.html">Internacional</a>
+  <a class="nav-link active" href="economia.html">Economia</a>
+  <a class="nav-link" href="comercio.html">Comércio Internacional</a>
+</div>
+
+<div class="page-header">
+  <h2><span class="cat-dot c-economia"></span>Economia</h2>
+  <p id="pageDesc">—</p>
+</div>
+
+<div class="filterbar">
+  <span class="label">Filtrar</span>
+  <select class="source-select" id="dateSelect">
+    <option value="todas">Todas as datas</option>
+  </select>
+  <select class="source-select" id="sourceSelect">
+    <option value="todas">Todas as fontes</option>
+  </select>
+  <div class="filter-spacer"></div>
+  <span class="count" id="totalCount">— despachos</span>
+</div>
+
+<div class="section" style="padding-top:22px;">
+  <div class="date-groups" id="groupsRoot"><p class="loading-note">Carregando despachos…</p></div>
+</div>
+
+<footer>
+  <span>Despacho — protótipo de agregador de notícias · dados de demonstração</span>
+  <span>Fontes de exemplo: BBC · CNN · G1 · The Guardian · El País · Le Monde Diplomatique · Reuters</span>
+</footer>
+
+<script src="data.js"></script>
+<script src="category.js" data-cat="economia"></script>
+
+</body>
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Despacho — Política &amp; Economia, Brasil e Mundo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker-track" id="tickerTrack"></div>
+</div>
+
+<div class="masthead">
+  <div class="brand">
+    <a href="index.html"><h1>Despacho</h1></a>
+    <span class="kicker">Política &amp; Economia</span>
+  </div>
+  <div class="dateline">
+    <span id="fullDate"></span>
+    <span class="edition">Brasil · Internacional · Mercados</span>
+  </div>
+</div>
+
+<div class="topnav">
+  <span class="label">Editorias</span>
+  <a class="nav-link active" href="index.html">Início</a>
+  <a class="nav-link" href="brasil.html">Brasil — Política</a>
+  <a class="nav-link" href="internacional.html">Internacional</a>
+  <a class="nav-link" href="economia.html">Economia</a>
+  <a class="nav-link" href="comercio.html">Comércio Internacional</a>
+</div>
+
+<div class="hero">
+  <div class="hero-card">
+    <div>
+      <span class="hero-tag">Destaque do dia</span>
+      <h2 id="heroHeadline">—</h2>
+      <p class="dek" id="heroDek">—</p>
+      <span class="stamp"><span class="src" id="heroSrc">—</span> · <span id="heroTime">—</span> · <a href="#" id="heroLink" target="_blank" rel="noopener">ler no site original →</a></span>
+    </div>
+    <div class="hero-side" id="heroSide"></div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-head">
+    <h3>Últimos despachos</h3>
+    <span class="count" id="latestCount">— despachos</span>
+  </div>
+  <div class="date-groups" id="latestGroups"><p class="loading-note">Carregando despachos…</p></div>
+</div>
+
+<div class="howitworks">
+  <div>
+    <h3>Como este portal funciona</h3>
+    <p>Este é um <strong>protótipo de agregador</strong>. Ele não copia nem republica o conteúdo das matérias — reúne manchete, um resumo curto e a fonte, e sempre leva você para ler a íntegra no veículo original.</p>
+  </div>
+  <div>
+    <ol>
+      <li>Um coletor lê periodicamente os <strong>feeds RSS públicos</strong> de cada veículo (BBC News Brasil, CNN Brasil, G1, The Guardian, El País, Reuters, Le Monde Diplomatique Brasil, entre outros).</li>
+      <li>As notícias são classificadas por editoria — Brasil, Internacional, Economia, Comércio Internacional — cada uma com sua própria página.</li>
+      <li>Cada card leva direto para a fonte original, com o crédito sempre visível.</li>
+    </ol>
+    <div class="note">Nota: as manchetes são dados de exemplo (mock). Os links "ler no original" apontam para o portal real de cada fonte — numa versão com RSS ao vivo, apontariam para a URL exata de cada matéria.</div>
+  </div>
+</div>
+
+<footer>
+  <span>Despacho — protótipo de agregador de notícias · dados de demonstração</span>
+  <span>Fontes de exemplo: BBC · CNN · G1 · The Guardian · El País · Le Monde Diplomatique · Reuters</span>
+</footer>
+
+<script src="data.js"></script>
+<script>
+document.getElementById('fullDate').textContent = NOW.toLocaleDateString('pt-BR', {
+  weekday:'long', day:'2-digit', month:'long', year:'numeric'
+});
+
+window.addEventListener('itemsready', () => {
+  const ITEMS = window.ITEMS;
+
+  // Ticker: notícias de hoje, de todas as editorias
+  const tickerTrack = document.getElementById('tickerTrack');
+  const tickerItems = ITEMS.filter(i=>dateKey(i.time)===dateKey(NOW)).sort((a,b)=>a.time-b.time);
+  tickerTrack.innerHTML = tickerItems.map(i=>`<span><b>${i.src}</b> — ${i.h}</span>`).join('');
+
+  // Hero: manchete mais recente de Brasil ou Internacional
+  const hero = ITEMS.filter(i=>i.cat==='brasil'||i.cat==='internacional').sort((a,b)=>b.time-a.time)[0];
+  document.getElementById('heroHeadline').textContent = hero.h;
+  document.getElementById('heroDek').textContent = hero.d;
+  document.getElementById('heroSrc').textContent = hero.src;
+  document.getElementById('heroTime').textContent = fmtTime(hero.time);
+  document.getElementById('heroLink').href = hero.link || SOURCE_URLS[hero.src] || '#';
+
+  const heroSide = document.getElementById('heroSide');
+  ITEMS.filter(i=>i!==hero).sort((a,b)=>b.time-a.time).slice(0,4).forEach(i=>{
+    const div = document.createElement('div');
+    div.className='side-item';
+    const url = i.link || SOURCE_URLS[i.src] || '#';
+    div.innerHTML = `<h3>${i.h}</h3><span class="stamp"><span class="src">${i.src}</span> · ${fmtTime(i.time)} · <a href="${url}" target="_blank" rel="noopener">ler no original →</a></span>`;
+    heroSide.appendChild(div);
+  });
+
+  // Últimos despachos: as notícias mais recentes de TODAS as editorias, agrupadas por data
+  const latest = [...ITEMS].sort((a,b)=>b.time-a.time).slice(0,15);
+  document.getElementById('latestCount').textContent = latest.length + ' despachos';
+
+  const byDate = new Map();
+  latest.forEach(i=>{
+    const k = dateKey(i.time);
+    if(!byDate.has(k)) byDate.set(k, []);
+    byDate.get(k).push(i);
+  });
+
+  const groupsRoot = document.getElementById('latestGroups');
+  groupsRoot.innerHTML = '';
+  [...byDate.entries()].forEach(([k, dayItems])=>{
+    const group = document.createElement('div');
+    group.className = 'date-group';
+    group.innerHTML = `<div class="date-subhead">${dateLabel(dayItems[0].time)} <span class="n">— ${dayItems.length}</span></div><div class="grid"></div>`;
+    const grid = group.querySelector('.grid');
+    dayItems.forEach(i=>{
+      const meta = CATS[i.cat];
+      const card = document.createElement('div');
+      card.className='card';
+      const url = i.link || SOURCE_URLS[i.src] || '#';
+      card.innerHTML = `
+        <div class="card-top">
+          <a href="${meta.page}" class="tag ${meta.class}" style="text-decoration:none;">${meta.label}</a>
+          <time>${fmtTime(i.time)}</time>
+        </div>
+        <h4>${i.h}</h4>
+        <p>${i.d}</p>
+        <div class="card-foot">
+          <span class="src">${i.src}</span>
+          <a class="readlink" href="${url}" target="_blank" rel="noopener">ler no original →</a>
+        </div>
+      `;
+      grid.appendChild(card);
+    });
+    groupsRoot.appendChild(group);
+  });
+});
+</script>
+
+</body>
+</html>
