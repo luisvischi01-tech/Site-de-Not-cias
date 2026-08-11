@@ -1,35 +1,163 @@
 [
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Petróleo fecha em alta com negociações para reabertura de Ormuz",
-    "d": "Brent para outubro encerrou com avanço de 1,36%, a US$ 88,91 por barril",
-    "link": "https://www.cnnbrasil.com.br/economia/mercado/petroleo-fecha-em-alta-com-negociacoes-para-reabertura-de-ormuz/",
-    "time": "2026-08-11T20:16:09.000Z"
+    "src": "G1",
+    "h": "Luis César Bueno declara R$ 884 mil ao TSE; vice informa R$ 328 mil",
+    "d": "Luis Cesar Bueno vai disputar o governo de Goiás pelo PT O candidato a governador de Goiás pelo Partido dos Trabalhadores (PT) Luis César Bueno declarou patrimônio de R$ 884 mil ao Tribunal Superior Eleitoral (TSE), d…",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/11/luis-cesar-bueno-declara-r-884-mil-ao-tse-vice-informa-r-328-mil.ghtml",
+    "time": "2026-08-11T22:11:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A doutrina do século 19 que orienta política externa do governo Trump para a América Latina",
+    "d": "Doutrina criada em 1823 teve várias reinterpretações ao longo do tempo e, atualmente, tem como o 'mais recente defensor' Donald Trump, segundo vídeo divulgado por seu governo.",
+    "link": "https://www.bbc.com/portuguese/articles/cwyev4yw89po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-11T22:08:41.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Passa de 250 o número de mortos na Colômbia após terremotos, diz autoridade",
-    "d": "Relatórios separados das cidades estimam que ao menos 254 pessoas morreram; equipes de resgate continuam esforços em busca de sobreviventes",
-    "link": "https://www.cnnbrasil.com.br/internacional/sobe-numero-de-mortos-na-colombia-apos-terremotos-diz-autoridade/",
-    "time": "2026-08-11T20:14:52.000Z"
+    "h": "Senado aprova PL que altera regras sobre o pagamento de custas judiciais",
+    "d": "Novo modelo rearranja valores a serem pagos durante processos e cria o Fejufe (Fundo Especial da Justiça Federal), além de alterar o direcionamento dos recursos",
+    "link": "https://www.cnnbrasil.com.br/politica/senado-aprova-pl-que-altera-regras-sobre-o-pagamento-de-custas-judiciais/",
+    "time": "2026-08-11T21:58:31.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Sem renovação, Corinthians terá que pagar a Memphis mais de R$ 77 milhões",
-    "d": "Clube alvinegro confirmou, na tarde desta terça-feira (11), a desistência das negociações para renovar o contrato de Memphis Depay",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/sem-renovacao-corinthians-tera-que-pagar-a-memphis-mais-de-r-77-milhoes/",
-    "time": "2026-08-11T20:12:26.000Z"
+    "h": "Tratamento para rastrear câncer colorretal será aplicado no SUS",
+    "d": "Medida foi incluída pelo Ministério da Saúdes e será destinada a homens e mulheres assintomáticos de 50 a 75 anos",
+    "link": "https://www.cnnbrasil.com.br/saude/tratamento-para-rastrear-cancer-colorretal-sera-aplicado-no-sus/",
+    "time": "2026-08-11T21:44:50.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Relembre passagem de Memphis Depay pelo Corinthians",
-    "d": "Passagem do holandês pelo Timão chegou ao fim na tarde desta terça-feira (11)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/relembre-passagem-de-memphis-depay-pelo-corinthians/",
-    "time": "2026-08-11T20:10:46.000Z"
+    "h": "Família e artistas se despedem de Anita Nobre em velório; veja fotos",
+    "d": "Cerimônia aconteceu nesta terça-feira (11), no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/familia-e-artistas-se-despedem-de-anita-nobre-em-velorio-veja-fotos/",
+    "time": "2026-08-11T21:43:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Motta cancela sessão da Câmara após líder do PT passar mal em reunião",
+    "d": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), cancelou a sessão de votações prevista para esta terça-feira (11) depois que o líder do PT na Casa, deputado Pedro Uczai (PT-SC), passou mal durante…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/11/motta-cancela-sessao-da-camara-apos-lider-do-pt-passar-mal-em-reuniao.ghtml",
+    "time": "2026-08-11T21:42:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Candidata do PSOL de TO declara R$ 2 bilhões em bens e partido admite erro",
+    "d": "Federação PSOL/Rede afirmou que houve uma falha na inserção dos dados no site da Justiça Eleitoral, mas que já pediu retificação",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/candidata-do-psol-de-to-declara-r-2-bilhoes-em-bens-e-partido-admite-erro/",
+    "time": "2026-08-11T21:41:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Copa do Brasil: chance dos três clássicos em sorteio era menor do que 1%",
+    "d": "Quartas de final terá duelos entre paulistas, gaúchos e mineiros",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-chance-dos-tres-classicos-em-sorteio-era-menor-do-que-1/",
+    "time": "2026-08-11T21:38:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vasco anuncia oficialmente a contratação de Facundo Colidio; veja detalhes",
+    "d": "Atacante já tinha desembarcado no Brasil na última semana, mas agora foi confirmado como reforço até 2029",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-anuncia-oficialmente-a-contratacao-de-facundo-colidio-veja-detalhes/",
+    "time": "2026-08-11T21:36:53.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Senado aprova projeto que incentiva produção nacional de fertilizantes",
+    "d": "Profert (Programa de Desenvolvimento da Indústria de Fertilizantes) é visto pelo setor como uma alternativa para diminuir a dependência do setor da importação de fertilizantes",
+    "link": "https://www.cnnbrasil.com.br/agro/senado-aprova-projeto-que-incentiva-producao-nacional-de-fertilizantes/",
+    "time": "2026-08-11T21:36:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Casal é preso pela morte da própria filha de 1 ano e 9 meses no RJ",
+    "d": "Depoimentos descrevem barulhos de impacto e filhos do casal com lesões visíveis nos corredores do prédio em que residiam",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/casal-e-preso-pela-morte-da-propria-filha-de-1-ano-e-9-meses-no-rj/",
+    "time": "2026-08-11T21:35:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio priorizará Sudeste em início oficial de campanha",
+    "d": "Senador e pré-candidato começará agendas oficiais de propaganda eleitoral no Rio de Janeiro e em Minas Gerais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-priorizara-sudeste-em-inicio-oficial-de-campanha/",
+    "time": "2026-08-11T21:34:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jornal espanhol repercute saída de Memphis do Corinthians: “Vexame”",
+    "d": "Clube alvinegro decidiu não renovar o contrato com o atacante holandês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/jornal-espanhol-repercute-saida-de-memphis-do-corinthians-vexame/",
+    "time": "2026-08-11T21:34:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ações do BTG Pactual caem após apresentação de balanço e puxam Ibovespa",
+    "d": "Maior banco de investimentos da América Latina encerrou 2º trimestre com lucro líquido ajustado de R$ 5,1 bilhões, um aumento de 23% em 12 meses",
+    "link": "https://www.cnnbrasil.com.br/economia/mercado/acoes-da-btg-pactual-caem-apos-apresentacao-de-balanco-e-puxam-ibovespa/",
+    "time": "2026-08-11T21:30:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Síria carece de legitimidade em meio à condenação de ditador",
+    "d": "Tribunal sírio condenou o líder deposto à morte por assassinatos e tortura; a analista de Internacional da CNN Fernanda Magnotta aponta dilemas políticos e geopolíticos da decisão",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-siria-carece-de-legitimidade-em-meio-a-condenacao-de-ditador/",
+    "time": "2026-08-11T21:29:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Senado aprova linha de crédito para indústria de fertilizantes, mas sem estipular valores",
+    "d": "O Senado aprovou nesta terça-feira (11) um projeto que cria um programa, com oferta de financiamentos, para fomentar a indústria de fertilizantes em meio à guerra no Oriente Médio. O texto segue para sanção do preside…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/11/senado-aprova-linha-de-credito-para-industria-de-fertilizantes-mas-sem-estipular-valores.ghtml",
+    "time": "2026-08-11T21:21:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+    "d": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-11T21:14:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+    "d": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-11T20:39:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "CNJ afasta juiz que bebeu e fumou em julgamento",
+    "d": "Juiz Milton Lívio Lemos Salles, que apareceu em sessão do TJMG bebendo vinho e fumando, gravou vídeo após repercussão de caso Reprodução/Redes sociais O Conselho Nacional de Justiça (CNJ) afastou o juiz Milton Lívio L…",
+    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/11/cnj-afasta-juiz-que-bebeu-e-fumou-em-julgamento.ghtml",
+    "time": "2026-08-11T20:29:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula começa a gravar vídeos para a campanha com candidatos aliados nesta semana",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) vai começar a fazer nesta semana as primeiras gravações de vídeos e fotos com candidatos aliados. O presidente brasileiro Luiz Inácio Lula da Silva discursa durante sua nome…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/lula-comeca-a-gravar-videos-com-candidatos-aliados-nesta-semana.ghtml",
+    "time": "2026-08-11T20:25:02.000Z"
   },
   {
     "cat": "brasil",
@@ -38,70 +166,6 @@
     "d": "'Taxa das blusinhas' pode voltar em setembro se medida provisória não for aprovada O Congresso Nacional convocou para quarta-feira (12) a sessão para instalar a comissão mista para analisar a medida provisória (MP) qu…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/11/taxa-das-blusinhas-congresso-vai-instalar-comissao-para-analisar-mp-na-quarta-feira.ghtml",
     "time": "2026-08-11T20:09:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Casal em situação análoga à escravidão é resgatado no Rio de Janeiro",
-    "d": "Vítimas residiam em imóvel interditado pela Defesa Civil, sem o recebimento de salário e sem usufruir de direitos trabalhistas básicos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/casal-em-situacao-analoga-a-escravidao-e-resgatado-no-rio-de-janeiro/",
-    "time": "2026-08-11T20:09:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Aneel nega recurso da Enel SP e mantém processo que pode levar à caducidade",
-    "d": "Diretoria colegiada rejeitou recurso da distribuidora de São Paulo e mantém aberta apuração sobre eventual perda da concessão após sequência de falhas no atendimento e de sequência de apagões",
-    "link": "https://www.cnnbrasil.com.br/infra/aneel-nega-recurso-da-enel-sp-e-mantem-processo-que-pode-levar-a-caducidade/",
-    "time": "2026-08-11T20:05:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Federação de Cafeicultores cria plano de auxílio ao produtor após terremoto",
-    "d": "Entidade fará levantamento de famílias para avaliar danos em moradias, propriedades e infraestrutura nas regiões produtoras de café",
-    "link": "https://www.cnnbrasil.com.br/agro/federacao-de-cafeicultores-cria-plano-de-auxilio-ao-produtor-apos-terremoto/",
-    "time": "2026-08-11T20:05:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "BTS é maior fenômeno musical desde Michael Jackson, diz The New York Times",
-    "d": "Jornal destacou trajetória de grupo sul-coreano",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/bts-e-maior-fenomeno-musical-desde-michael-jackson-diz-the-new-york-times/",
-    "time": "2026-08-11T20:05:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Reencontro de Michelle e Flávio anima aliados da campanha",
-    "d": "Reencontro entre Michelle Bolsonaro e Flávio Bolsonaro anima aliados e deve render material para TV e redes sociais; a apuração é da âncora da CNN Débora Bergamasco ao CNN 360°",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/analise-reencontro-de-michelle-e-flavio-anima-aliados-da-campanha/",
-    "time": "2026-08-11T20:02:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sem dragagem, governo monitora diariamente nível da Hidrovia do Tapajós",
-    "d": "Ministério afirma que profundidade ainda está acima dos níveis críticos de anos anteriores",
-    "link": "https://www.cnnbrasil.com.br/infra/sem-dragagem-governo-monitora-diariamente-nivel-da-hidrovia-do-tapajos/",
-    "time": "2026-08-11T20:01:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "BC voltou a ter ata do Copom mais sucinta, diz economista",
-    "d": "Elisa Machado analisa redução da ata do Copom, projeções de inflação e riscos do preço do petróleo para a política monetária",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/bc-voltou-a-ter-ata-do-copom-mais-sucinta-diz-economista/",
-    "time": "2026-08-11T20:01:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após não renovar com Memphis, Corinthians deve ganhar novo transfer ban",
-    "d": "Sem renovação, clube terá que pagar cerca de R$ 80 milhões para o holandês",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/apos-nao-renovar-com-memphis-corinthians-deve-ganhar-novo-transfer-ban/",
-    "time": "2026-08-11T19:54:13.000Z"
   },
   {
     "cat": "brasil",
@@ -138,16 +202,8 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-    "d": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T19:27:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
-    "d": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
+    "h": "Luigi Mangione murder trial to have anonymous jury",
+    "d": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
     "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-11T19:12:54.000Z"
   },
@@ -224,14 +280,6 @@
     "time": "2026-08-11T17:22:52.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Conselho de Ética aprova continuidade de processo contra Erika Hilton, mas calendário da Câmara pode impedir conclusão",
-    "d": "O Conselho de Ética da Câmara dos Deputados voltou aos trabalhos nesta terça-feira (11) e aprovou, por 10 a 5, um parecer que recomenda a continuidade de uma apuração contra a deputada Erika Hilton (Psol-SP). Erika Hi…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/11/conselho-de-etica-aprova-continuidade-de-processo-contra-erika-hilton-mas-calendario-da-camara-pode-impedir-conclusao.ghtml",
-    "time": "2026-08-11T17:18:11.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "'Não é intromissão': presidente da ApexBrasil elogia entrada da China em debate sobre tarifaço na OMC",
@@ -262,14 +310,6 @@
     "d": "Durante décadas, as botas verde-limão de um homem indiano têm sido um marco sombrio na trilha para muitos que escalam o pico mais alto do mundo. Agora, há um plano (arriscado) para trazer o corpo para a casa.",
     "link": "https://www.bbc.com/portuguese/articles/c3v07p6q24lo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-11T16:44:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Ele quer falar e quer colaborar', diz novo advogado de Daniel Vorcaro",
-    "d": "'Ele quer falar e quer colaborar', diz novo advogado de Daniel Vorcaro O novo advogado de Daniel Vorcaro, Daniel Bialski, afirmou, em entrevista ao 'Estúdio i' nesta terça-feira (11), que o ex-banqueiro do Master “que…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/11/entrevista-bialski-novo-advogado-de-daniel-vorcaro.ghtml",
-    "time": "2026-08-11T16:44:09.000Z"
   },
   {
     "cat": "economia",
@@ -304,7 +344,7 @@
     "time": "2026-08-11T16:14:10.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Governo concede subsídio a produtores de cana do Nordeste afetados pelo tarifaço",
     "d": "Produção de cana-de-açúcar com irrigação por gotejamento fica no Vale do Açu, no Oeste potiguar Reprodução/Inter TV Cabugi O governo federal publicou, nesta terça-feira (11), uma medida que concede, em caráter extraor…",
@@ -328,14 +368,6 @@
     "time": "2026-08-11T15:24:07.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PEC da Segurança é prioridade do governo no Senado para criar novo ministério antes de eleição",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) definiu como prioridade, junto com o ministro das Relações Institucionais, José Guimarães, a votação no Senado da Proposta de Emenda à Constituição (PEC) da Segurança Públic…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/11/pec-da-seguranca-e-prioridade-do-governo-no-senado-para-criar-ministerio-da-seguranca-antes-de-eleicao.ghtml",
-    "time": "2026-08-11T15:21:11.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Thailand suspends new gun permits after mass shooting",
@@ -344,7 +376,7 @@
     "time": "2026-08-11T15:11:54.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Em meio ao tarifaço dos EUA, ministro se reúne com chefe de bloco asiático para ampliar comércio",
     "d": "O ministro das Relações Exteriores, Mauro Vieira, se reuniu nesta terça-feira (11) em Brasília com a secretária de Negócios Estrangeiros das Filipinas, Maria Theresa Lazaro. O governo das Filipinas preside atualmente…",
@@ -358,14 +390,6 @@
     "d": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
     "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-11T14:50:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-    "d": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T14:47:28.000Z"
   },
   {
     "cat": "internacional",
@@ -398,22 +422,6 @@
     "d": "Previdência Social Marco Favero/ Agencia RBS O Ministério da Previdência Social ampliou a lista de doenças e condições que dão direito ao auxílio por incapacidade temporária — o antigo auxílio-doença — sem a exigência…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-amplia-lista-de-doencas-que-dao-auxilio-doenca-sem-carencia-veja-quais.ghtml",
     "time": "2026-08-11T13:41:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Presidente do Bradesco vê espaço para novos cortes de juros, mas alerta para riscos de guerra, eleições e El Niño",
-    "d": "Ilustração de logo do Bradesco. Reuters O presidente do Bradesco, Marcelo Noronha, afirmou nesta terça-feira (11) que vê espaço para novos cortes na taxa básica de juros ainda neste ano, apesar de riscos como as eleiç…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/11/presidente-do-bradesco.ghtml",
-    "time": "2026-08-11T13:19:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A sociedade secreta fundada por alemão enterrado na Faculdade de Direito da USP",
-    "d": "Nascido em 1808, ele migrou para o Brasil em 1828 e criou a Burschenschaft Paulista, mais conhecida como Bucha.",
-    "link": "https://www.bbc.com/portuguese/articles/c98vmqrqlq9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T11:09:32.000Z"
   },
   {
     "cat": "economia",
