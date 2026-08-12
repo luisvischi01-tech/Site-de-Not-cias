@@ -1,11 +1,243 @@
 [
   {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – business live",
+    "d": "The International Energy Agency calls for urgent reopening of the strait of Homuz amid ongoing pressure on global oil supplies Opec has lowered its full-year forecast for world oil demand growth for the fourth month i…",
+    "link": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+    "time": "2026-08-12T12:26:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Campanha de Flávio Bolsonaro comemora fala de Michelle ao declarar que crise é 'página virada'",
+    "d": "A cúpula da campanha de Flávio Bolsonaro (PL), candidato à Presidência da República, comemorou principalmente a fala de Michelle Bolsonaro após a gravação de uma participação para a campanha do enteado. Segundo relato…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/12/cupula-da-campanha-de-flavio-bolsonaro-comemora-fala-de-michelle-ao-dizer-que-crise-e-pagina-virada.ghtml",
+    "time": "2026-08-12T12:18:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Israeli settlers besieging Palestinian families in West Bank village",
+    "d": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T12:16:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+    "d": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
+    "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T12:10:45.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Cinco anos sem Tarcísio Meira: relembre carreira do ator",
-    "d": "Ícone da dramaturgia morreu em 2021, aos 95 anos, vítima de Covid-19",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/cinco-anos-sem-tarcisio-meira-relembre-carreira-do-ator/",
-    "time": "2026-08-12T09:30:44.000Z"
+    "h": "AIE: impasse em Ormuz reduz demanda global de petróleo acima do esperado",
+    "d": "De acordo com a entidade, a demanda deve encolher 2,8 milhões de bpd no terceiro trimestre",
+    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/aie-impasse-em-ormuz-reduz-demanda-global-de-petroleo-acima-do-esperado/",
+    "time": "2026-08-12T12:10:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Aliados tratam reencontro de Flávio e Michelle como “leve”",
+    "d": "Ex-primeira-dama circulou à vontade e passou cerca de duas horas em QG de campanha do senador",
+    "link": "https://www.cnnbrasil.com.br/politica/aliados-tratam-reencontro-de-flavio-e-michelle-como-leve/",
+    "time": "2026-08-12T12:04:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Idosos a partir de 60 anos já podem se vacinar contra Covid-19 no Rio",
+    "d": "Nova etapa da vacinação começa nesta quarta-feira (12) no capital, com doses atualizadas para a cepa LP.8.1",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/idosos-a-partir-de-60-anos-ja-podem-se-vacinar-contra-covid-19-no-rio/",
+    "time": "2026-08-12T12:04:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeo: Juiz que bebeu vinho e fumou em sessão diz ser alvo de “difamação”",
+    "d": "Milton Lívio Lemos Salles, afastado do cargo, ainda usou gravação para proferir ataques à cúpula do Judiciário, incluindo o TJMG, o STJ (Superior Tribunal de Justiça) e o STF (Supremo Tribunal Federal)",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-juiz-que-bebeu-vinho-e-fumou-em-sessao-diz-ser-alvo-de-difamacao/",
+    "time": "2026-08-12T12:01:43.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
+    "d": "The vessel is said to have overturned after being hit by strong waves.",
+    "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T12:01:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ana Castela é anunciada no Jaguariúna Rodeo Festival; veja line-up completo",
+    "d": "Cantora se apresentará no dia 25 de setembro no tradicional festival do interior de São Paulo",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/ana-castela-e-anunciada-no-jaguariuna-rodeo-festival-veja-line-up-completo/",
+    "time": "2026-08-12T12:00:55.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar abre em queda, com inflação dos EUA e Oriente Médio no foco",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quarta-feira (12) em queda, com um recuo de 0,10% perto das 9h, cotado a R$ 5,1556. Já as negociações do Ibovespa, principal índice da bols…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml",
+    "time": "2026-08-12T12:00:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Filho de Robin Williams homenageia pai 12 anos após morte dele: “Propósito”",
+    "d": "Zak Williams diz que pedir ajuda foi uma forma de salvação ao longo dos anos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-robin-williams-homenageia-pai-12-anos-apos-morte-dele-proposito/",
+    "time": "2026-08-12T11:58:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Passageiro é retirado de avião após denúncia falsa de bomba no Paraná",
+    "d": "Polícia Federal foi acionada e constatou que não havia uma bomba na caixa de som citada pelo passageiro; além do homem, outros três viajantes foram ouvidos",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/passageiro-e-retirado-de-aviao-apos-denuncia-falsa-de-bomba-no-parana/",
+    "time": "2026-08-12T11:57:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jornalista investigado no STF diz que querem sua destruição profissional",
+    "d": "Luís Pablo afirma que fontes terão medo de passar informações e seu trabalho será prejudicado",
+    "link": "https://www.cnnbrasil.com.br/politica/jornalista-investigado-no-stf-diz-que-querem-sua-destruicao-profissional/",
+    "time": "2026-08-12T11:53:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia do RJ mira esquema que movimentou R$ 4 milhões para o TCP",
+    "d": "Grupo usava anúncios falsos de veículos e imóveis para aplicar golpes e, segundo a investigação, lavar dinheiro da facção",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-do-rj-mira-esquema-que-movimentou-r-4-milhoes-para-o-tcp/",
+    "time": "2026-08-12T11:52:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mulher é resgatada com vida na Colômbia após 36 horas sob escombros",
+    "d": "Colombiana foi retirada dos destroços de um hotel na cidade de Pereira, onde mais de 40 pessoas ainda são procuradas",
+    "link": "https://www.cnnbrasil.com.br/internacional/mulher-e-resgatada-com-vida-na-colombia-apos-36-horas-sob-escombros/",
+    "time": "2026-08-12T11:48:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio Bolsonaro na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T11:48:25.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Escândalo de serviços sexuais abala futebol sul-coreano; entenda",
+    "d": "Relatório revela que a KFA gastou milhares de dólares com árbitros estrangeiros no início dos anos 2010",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/escandalo-de-servicos-sexuais-abala-futebol-sul-coreano-entenda/",
+    "time": "2026-08-12T11:44:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Longe da TV, quem é o ex-ator da Globo que vive em ônibus adaptado",
+    "d": "Angel Ferreira, 38, esteve no elenco de novelas como \"O Outro Lado do Paraíso\" e \"Terra e Paixão\"",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/longe-da-tv-quem-e-o-ex-ator-da-globo-que-vive-em-onibus-adaptado/",
+    "time": "2026-08-12T11:44:44.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Wisconsin result dents winning streak for Democratic Party's left wing",
+    "d": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+    "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T11:32:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+    "d": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T11:28:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Woman pulled alive from rubble 36 hours after Colombia quake",
+    "d": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T11:28:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais",
+    "d": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais Foto de setengah lima sore Os pedidos de recuperação judicial no agronegócio somaram 474 no primeiro trimestre deste ano, alta de 21,9% em…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml",
+    "time": "2026-08-12T11:25:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Tomar cerveja com proteína e refrigerante com fibra funciona?",
+    "d": "Novos lançamentos mostram que a febre dos alimentos funcionais, com apelo de bem-estar, entrou em uma nova fase, em que as empresas disputam os produtos mais improváveis para adicionar nutrientes.",
+    "link": "https://www.bbc.com/portuguese/articles/c62vjqwzvg7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T11:03:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "‘Unrig the economy for working people’: the California candidate who wrote updated labor laws",
+    "d": "Marni von Wilpert helped draft Protecting the Right to Organize act, and now wants work toward implementing it Legislation that would modernize federal labor law began with a handful of lawyers meeting, of all places,…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race",
+    "time": "2026-08-12T11:00:28.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+    "d": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pest Hearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued…",
+    "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+    "time": "2026-08-12T11:00:27.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "At least 15 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+    "d": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 15 people have died and 27 are missing after an overcrowded ferry capsized on Lake Kariba in Zimb…",
+    "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+    "time": "2026-08-12T10:34:40.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Austrália cria proteção inédita para entregadores de aplicativo",
+    "d": "Motoristas e entregadores por aplicativo na Austrália terão condições mais justas no trabalho Rafael Ben Ari/Avalon/IMAGO Entregadores de alimentos e compras na Austrália receberão pelo menos 31,30 dólares australiano…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
+    "time": "2026-08-12T10:34:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A desesperada busca por sobreviventes na Colômbia: 'Cada vez que anunciam uma pessoa com vida, espero ser meu irmão'",
+    "d": "Na zona sul da terceira cidade mais populosa da Colômbia — e uma das áreas mais atingidas pelo terremoto —, centenas de pessoas correm contra o tempo para encontrar sobreviventes sob os escombros.",
+    "link": "https://www.bbc.com/portuguese/articles/c1512z32jkeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T10:06:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que é o Cinturão de Fogo do Pacífico em que está a Colômbia — e por que 90% dos terremotos do mundo ocorrem nesta região",
+    "d": "O Cinturão de Fogo do Pacífico, também conhecido como Anel de Fogo, abrange um grande número de países da América e da Ásia.",
+    "link": "https://www.bbc.com/portuguese/articles/c24m2nge2g1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T09:42:09.000Z"
   },
   {
     "cat": "brasil",
@@ -16,14 +248,6 @@
     "time": "2026-08-12T09:02:01.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Platense x Coquimbo Unido: horário e onde assistir ao jogo da Libertadores",
-    "d": "Jogo acontece em Buenos Aires nesta quarta (12) pela ida das oitavas de final",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/platense-x-coquimbo-unido-horario-e-onde-assistir-ao-jogo-da-libertadores/",
-    "time": "2026-08-12T09:00:08.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Tata Group Chairman N Chandrasekaran to step down in February",
@@ -32,36 +256,12 @@
     "time": "2026-08-12T08:50:52.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Além de Lula e Flávio: o que mostram as pesquisas sobre situação dos outros candidatos",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio Bolsonaro na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T08:49:02.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Os trabalhadores que 'dão adeus à CLT' atrás do sonho de viver fazendo vídeos de IA",
     "d": "Henrique Batista, de 36 anos, deixou o trabalho de entregas para se dedicar a canais dark no YouTube e mentorias Arquivo Pessoal Henrique Batista, de 36 anos, estava cansado de trabalhar entregando hambúrgueres. Ele e…",
     "link": "https://g1.globo.com/empreendedorismo/noticia/2026/08/12/os-trabalhadores-que-dao-adeus-a-clt-atras-do-sonho-de-viver-fazendo-videos-de-ia.ghtml",
     "time": "2026-08-12T08:47:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians: como foi o dia de Stabile que marcou não renovação com Memphis",
-    "d": "Presidente passou pelo CT e sede social do clube e teve dia com reuniões",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-como-foi-o-dia-de-stabile-que-marcou-nao-renovacao-com-memphis/",
-    "time": "2026-08-12T08:30:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como controlar os cabelos oleosos; veja dicas de especialistas",
-    "d": "Banhos muito quentes, uso do secador próximo ao couro cabeludo, aplicar condicionador, máscaras ou óleos diretamente na raiz contribuem para fios ficarem mais oleosos",
-    "link": "https://www.cnnbrasil.com.br/style/beleza/como-controlar-os-cabelos-oleosos-veja-dicas-de-especialistas/",
-    "time": "2026-08-12T08:30:12.000Z"
   },
   {
     "cat": "economia",
@@ -80,46 +280,6 @@
     "time": "2026-08-12T08:02:17.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Festival de Gramado 2026: saiba tudo sobre a programação deste ano",
-    "d": "54ª edição do evento acontece de 12 a 22 de agosto, no Palácio dos Festivais (RS)",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/festival-de-gramado-2026-saiba-tudo-sobre-a-programacao-deste-ano/",
-    "time": "2026-08-12T08:00:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como remover calcário de torneiras e vasos sanitários?",
-    "d": "Acúmulo pode deixar torneiras opacas, manchar vasos sanitários e até comprometer o funcionamento de alguns equipamentos",
-    "link": "https://www.cnnbrasil.com.br/comportamento/casa-e-decoracao/como-remover-calcario-de-torneiras-e-vasos-sanitarios/",
-    "time": "2026-08-12T08:00:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pedidos de recuperação judicial no agro sobem 22% no 1º trimestre",
-    "d": "Entre os grupos analisados pela Serasa Experian, produtores rurais que atuam como pessoa jurídica concentraram a alta",
-    "link": "https://www.cnnbrasil.com.br/agro/pedidos-de-recuperacao-judicial-no-agro-sobem-22-no-1o-trimestre/",
-    "time": "2026-08-12T08:00:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo e Cruzeiro voltam a fazer duelo decisivo; veja histórico",
-    "d": "Clubes brasileiros se enfrentam nas oitavas de final da Libertadores 2026",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-e-cruzeiro-voltam-a-fazer-duelo-decisivo-veja-historico/",
-    "time": "2026-08-12T08:00:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tigre x Montevideo City: horário e onde assistir ao jogo da Sul-Americana",
-    "d": "Equipes se enfrentam nesta quarta-feira (12), às 19h (de Brasília), pelas oitavas de final",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/tigre-x-montevideo-city-horario-e-onde-assistir-ao-jogo-da-sul-americana/",
-    "time": "2026-08-12T07:45:59.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
@@ -136,44 +296,12 @@
     "time": "2026-08-12T07:44:18.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians estuda acordo com Memphis por dívida após não renovação",
-    "d": "Timão deve cerca de R$ 77 milhões ao atacante holandês",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-estuda-acordo-com-memphis-por-divida-apos-nao-renovacao/",
-    "time": "2026-08-12T07:30:50.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Conta Global Inter: como funciona o envio e o recebimento de moedas",
-    "d": "Com a internacionalização do trabalho, dos investimentos e das viagens, contas globais tornam mais simples enviar, receber e administrar recursos em dólar e euro. Entenda como funciona esse tipo de serviço",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/conta-global-inter-como-funciona-o-envio-e-o-recebimento-de-moedas/",
-    "time": "2026-08-12T07:30:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil coloca três elétricos entre os 10 mais vendidos pela primeira vez",
-    "d": "O Dolphin Mini foi o elétrico mais vendido e ficou na sexta posição geral do ranking com 7.265 emplacamentos durante o mês",
-    "link": "https://www.cnnbrasil.com.br/auto/brasil-coloca-tres-eletricos-entre-os-10-mais-vendidos-pela-primeira-vez/",
-    "time": "2026-08-12T07:30:07.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
-    "h": "Transpetro publica edital de concurso com 4.171 vagas e salários de até R$ 15 mil; veja como participar",
-    "d": "Terminal da Transpetro em Brasília, no DF. TV Globo A Transpetro, empresa de transporte da Petrobras, publicou nesta quarta-feira (12) o edital do seu novo concurso público. Ao todo, são ofertadas 281 vagas imediatas,…",
+    "h": "Transpetro publica editais de concurso com 4.171 vagas e salários de até R$ 15 mil; veja como participar",
+    "d": "Terminal da Transpetro em Brasília, no DF. TV Globo A Transpetro, empresa de transporte da Petrobras, publicou nesta quarta-feira (12), no Diário Oficial da União (DOU), os editais de seu novo concurso público. Ao tod…",
     "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/12/transpetro-publica-edital-de-concurso-com-4171-vagas-e-salarios-de-ate-r-15-mil-veja-como-participar.ghtml",
     "time": "2026-08-12T07:22:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
-    "d": "The vessel is said to have overturned after being hit by strong waves.",
-    "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T07:16:44.000Z"
   },
   {
     "cat": "economia",
@@ -195,7 +323,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Adesivo de campanha eleitoral no carro pode afetar cobertura do seguro; entenda",
-    "d": "Adesivo de campanha eleitoral no carro pode afetar cobertura do seguro Com a proximidade do início oficial da campanha eleitoral, entidades do setor de seguros fizeram um alerta aos motoristas que pretendem colocar pr…",
+    "d": "Adesivo de campanha eleitoral no carro pode afetar cobertura do seguro Com a proximidade do início oficial da campanha eleitoral, o setor de seguros faz um alerta para os motoristas que pretendem colocar propaganda de…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/adesivo-de-campanha-eleitoral-no-carro-pode-afetar-cobertura-do-seguro-entenda.ghtml",
     "time": "2026-08-12T06:00:21.000Z"
   },
@@ -259,7 +387,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Eleições 2026: Quanto ganham presidente, deputados e senadores?",
-    "d": "Urna eletrônica Reprodução/TV Globo Apesar de ser, em tese, o cargo mais importante da República, o presidente no Brasil ganha o mesmo que os 513 deputados federais. Isso é determinado pela lei do país. O valor é de R…",
+    "d": "Praça dos Três Poderes, em Brasília, com vista para o Congresso Nacional Tony Winston/Agência Brasília/Divulgação Apesar de ser, em tese, o cargo mais importante da República, o presidente no Brasil ganha o mesmo que…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/eleicoes-2026-quanto-ganham-presidente-deputados-e-senadores.ghtml",
     "time": "2026-08-12T03:01:01.000Z"
   },
@@ -299,25 +427,9 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Câmara deve instalar nesta quarta comissão especial para debater PEC da redução da maioridade penal",
-    "d": "A Câmara dos Deputados deve instalar nesta quarta-feira (12) uma comissão especial para analisar a proposta de Emenda à Constituição (PEC) que reduz a maioridade penal de 18 para 16 anos. A proposta altera o artigo 22…",
+    "d": "A Câmara dos Deputados deve instalar nesta quarta-feira (12) uma comissão especial para analisar a Proposta de Emenda à Constituição (PEC) que reduz a maioridade penal de 18 para 16 anos. A proposta altera o artigo 22…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/12/camara-deve-instalar-nesta-quarta-comissao-especial-para-debater-pec-da-reducao-da-maioridade-penal.ghtml",
     "time": "2026-08-12T03:00:14.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Bondi Beach shooting hero's assault charges dropped by police",
-    "d": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
-    "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T02:59:51.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "New Zealand PM survives second leadership challenge ahead of election",
-    "d": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T02:51:02.000Z"
   },
   {
     "cat": "brasil",
@@ -336,36 +448,12 @@
     "time": "2026-08-12T00:14:42.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Uma aposta acerta as seis dezenas e leva o prêmio do concurso 3043 da Mega-Sena; confira os números",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.043 da Mega-Sena foi realizado na noite desta terça-feira (11), em São Paulo. Uma aposta simples de Alvorada d'Oeste, em Rondônia, acertou as seis dezenas e levou o p…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/11/mega-sena-concurso-3043-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-08-12T00:02:41.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Associações de imprensa manifestam 'profunda preocupação' com buscas contra ex-secretário do Maranhão",
     "d": "A Associação Brasileira de Emissoras de Rádio e Televisão (ABERT), a Associação Nacional de Jornais (ANJ) e a Associação Nacional de Editores de Revistas (ANER) divulgaram nesta terça-feira (11) uma nota conjunta em q…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/11/associacoes-de-imprensa-manifestam-profunda-preocupacao-com-busca-e-apreensao-contra-ex-secretario-do-maranhao.ghtml",
     "time": "2026-08-11T22:58:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Desemprego entre jovens sobe no mundo e já atinge 67 milhões; IA pode agravar cenário, diz OIT",
-    "d": "Taxa de desemprego fica em 5,4%, em junho O desemprego entre os jovens aumentou no mundo em 2025, em meio ao crescimento econômico mais fraco, às tensões geopolíticas e à criação lenta de empregos. O cenário tem dific…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/desemprego-entre-jovens-sobe-no-mundo-e-ja-atinge-67-milhoes-ia-pode-agravar-cenario-diz-oit.ghtml",
-    "time": "2026-08-11T22:54:06.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Justiça autoriza recuperação extrajudicial da Alliança Saúde, que tem dívida de R$ 1,1 bilhão",
-    "d": "Recuperação extrajudicial: empresa garante operação normal e sem demissões A Alliança Saúde informou nesta terça-feira (11) que a 2ª Vara de Falências e Recuperações Judiciais de São Paulo autorizou o início do proces…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/11/justica-autoriza-recuperacao-extrajudicial-da-allianca-saude-que-tem-divida-de-r-11-bilhao.ghtml",
-    "time": "2026-08-11T22:31:57.000Z"
   },
   {
     "cat": "brasil",
@@ -392,22 +480,6 @@
     "time": "2026-08-11T22:11:38.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A doutrina do século 19 que orienta política externa do governo Trump para a América Latina",
-    "d": "Doutrina criada em 1823 teve várias reinterpretações ao longo do tempo e, atualmente, tem como o 'mais recente defensor' Donald Trump, segundo vídeo divulgado por seu governo.",
-    "link": "https://www.bbc.com/portuguese/articles/cwyev4yw89po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T22:08:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Motta cancela sessão da Câmara após líder do PT passar mal em reunião",
-    "d": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), cancelou a sessão de votações prevista para esta terça-feira (11) depois que o líder do PT na Casa, deputado Pedro Uczai (PT-SC), passou mal durante…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/11/motta-cancela-sessao-da-camara-apos-lider-do-pt-passar-mal-em-reuniao.ghtml",
-    "time": "2026-08-11T21:42:44.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US says helicopter fired missiles to disable ship breaking Iran blockade",
@@ -432,52 +504,12 @@
     "time": "2026-08-11T19:40:32.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-    "d": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-    "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T19:09:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que o ex-ditador sírio Bashar al-Assad foi condenado à morte — e o que acontece agora",
-    "d": "O ex-presidente foi condenado por cometer crimes de guerra e crimes contra a humanidade durante a guerra civil do país",
-    "link": "https://www.bbc.com/portuguese/articles/c98vm21zgz2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T16:55:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como 'Botas Verdes', congelado há 30 anos no Everest, deve finalmente voltar para casa",
-    "d": "Durante décadas, as botas verde-limão de um homem indiano têm sido um marco sombrio na trilha para muitos que escalam o pico mais alto do mundo. Agora, há um plano (arriscado) para trazer o corpo para a casa.",
-    "link": "https://www.bbc.com/portuguese/articles/c3v07p6q24lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T16:44:30.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O fenômeno que causou terremoto devastador na Colômbia — e não tem relação com tremores na Venezuela",
     "d": "Abalo sísmico nesta segunda-feira (10/8) deixou ao menos 169 mortos e mais de 900 feridos, segundo autoridades locais.",
     "link": "https://www.bbc.com/portuguese/articles/ckg3e7dy4z1o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-11T16:14:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Lebanon parliament votes to abolish death penalty",
-    "d": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-    "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T15:24:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "France bans unsolicited telemarketing calls",
-    "d": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T14:19:45.000Z"
   },
   {
     "cat": "internacional",
@@ -598,13 +630,5 @@
     "d": "Domestic flights cost 26.5% more than last year, data shows, amid demand for travel and reduced oil refining capacity Even if a lasting ceasefire between the US and Iran lowers oil prices, travelers hoping to snag che…",
     "link": "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
     "time": "2026-08-07T13:00:18.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Bari Weiss’s overhaul of CBS News has been rocky. But her 60 Minutes revamp will be the ultimate test",
-    "d": "Ten months into her tenure as editor in chief, Weiss’s biggest – and riskiest – bet is getting closer to taking flight Bari Weiss is 10 months into her tenure as editor-in-chief of CBS News, but her biggest test is ri…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/07/bari-weiss-cbs-news-60-minutes",
-    "time": "2026-08-07T11:00:17.000Z"
   }
 ]
