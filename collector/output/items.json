@@ -1,91 +1,203 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula assina decreto que abre mercado livre de energia para consumidores residenciais e pequenos estabelecimentos",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quarta-feira (12) decreto que regulamenta a abertura de mercado livre de energia elétrica para consumidores de baixa tensão (inferior a 2,3 kV) a partir de nov…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/lula-assina-decreto-que-abre-mercado-livre-de-energia-para-consumidores-residenciais-e-pequenos-estabelecimentos.ghtml",
+    "time": "2026-08-12T22:05:51.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Câmara aprova projeto que cria o 'aluguel consignado', sem fiador e com desconto de até 30% no salário",
+    "d": "A Câmara dos Deputados aprovou nesta quarta-feira (12) um projeto de lei que cria uma nova modalidade de garantia para a locação de imóveis através da consignação de parte do salário. 🏠 O limite estabelecido no proje…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/camara-aprova-projeto-que-cria-o-aluguel-consignado-sem-fiador-e-com-desconto-direto-de-ate-30percent-no-salario.ghtml",
+    "time": "2026-08-12T22:02:40.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "STF valida moratória da soja e mantém leis que restringem benefícios fiscais a empresas",
+    "d": "Lei do Mato Groso pode enfranquecer moratória da soja na Amazônia O Supremo Tribunal Federal (STF) validou nesta quarta-feira (12) a moratória da soja, acordo entre as empresas do setor e que proíbe a aquisição do grã…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/stf-valida-moratoria-da-soja-e-mantem-leis-que-restringem-beneficios-fiscais-a-empresas.ghtml",
+    "time": "2026-08-12T22:00:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Favela do Moinho vira tema de corrida eleitoral de São Paulo",
+    "d": "Remoção de moradores da Favela do Moinho em abril de 2025 acirra embate entre Tarcísio de Freitas e Fernando Haddad nas eleições de 2026; o analista de Polítca da CNN Pedro Venceslau comenta o caso ao CNN 360°",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/analise-favela-do-moinho-vira-tema-de-corrida-eleitoral-de-sao-paulo/",
+    "time": "2026-08-12T21:55:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CNN entrevista Tarcísio de Freitas, candidato ao governo de SP",
+    "d": "Sabatina com o chefe do Executivo paulista será a segunda da CNN Brasil com candidatos aos governos estaduais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/cnn-entrevista-tarcisio-de-freitas-candidato-ao-governo-de-sp/",
+    "time": "2026-08-12T21:53:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "ICE plans to equip agents with gloves that can deliver electric shocks",
+    "d": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+    "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T21:53:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após terremoto, Brasil anuncia envio de ajuda humanitária à Colômbia",
+    "d": "",
+    "link": "https://www.cnnbrasil.com.br/politica/apos-terremoto-brasil-anuncia-envio-de-ajuda-humanitaria-a-colombia/",
+    "time": "2026-08-12T21:52:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Plano de governo de Zucco para o RS será lançado nesta sexta-feira (14)",
+    "d": "Documento será apresentado em evento em Porto Alegre após meses de reuniões com setores da sociedade; entre as prioridades estão infraestrutura, educação, ambiente de negócios, saúde e agropecuária",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/plano-de-governo-de-zucco-para-o-rs-sera-lancado-nesta-sexta-feira-14/",
+    "time": "2026-08-12T21:51:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Recordista e MVP da NBA, Russell Westbrook anuncia a aposentadoria",
+    "d": "Atleta foi campeão olímpico (2012) e é o recordista de triplos duplos da maior liga de basquete do mundo",
+    "link": "https://www.cnnbrasil.com.br/esportes/basquete/recordista-e-mvp-da-nba-russell-westbrook-anuncia-a-aposentadoria/",
+    "time": "2026-08-12T21:50:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Minerva registra queda de 57% no lucro líquido do segundo trimestre de 2026",
+    "d": "A companhia de alimentos reportou R$ 196,9 milhões de lucro, ante R$ 458,3 milhões do mesmo período em 2025",
+    "link": "https://www.cnnbrasil.com.br/agro/minerva-registra-queda-de-57-no-lucro-liquido-do-segundo-trimestre-de-2026/",
+    "time": "2026-08-12T21:50:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025",
+    "d": "Cidade de Londrina, no Paraná, teve \"série\" de avistamento com cinco casos",
+    "link": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
+    "time": "2026-08-12T21:48:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Câmara aprova projeto que abre caminho para incentivos a minerais críticos",
+    "d": "Texto retira exigências fiscais e orçamentárias para futuros benefícios ao setor; incentivos ainda dependem da aprovação do marco de minerais críticos no Senado",
+    "link": "https://www.cnnbrasil.com.br/infra/camara-aprova-projeto-que-abre-caminho-para-incentivos-a-minerais-criticos/",
+    "time": "2026-08-12T21:47:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: EUA querem retomar primazia sobre a América Latina",
+    "d": "Governo americano publicou vídeo afirmando que domínio sobre o Hemisfério Ocidental \"nunca mais será questionado\"; Fernanda Magnotta analisa postura americana ao CNN 360º",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-eua-querem-retomar-primazia-sobre-a-america-latina/",
+    "time": "2026-08-12T21:47:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Influenciador com doença genética rara morre aos 28 anos",
+    "d": "Gamer e ativista, ele vivia com progeria, uma síndrome genética ultrarrara de envelhecimento precoce que tem expectativa de vida de 13 anos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/influenciador-com-doenca-genetica-rara-morre-aos-28-anos/",
+    "time": "2026-08-12T21:45:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caiado quer secretário de Tarcísio em ministério",
+    "d": "Candidato do PSD à Presidência tem revelado nomes de eventual governo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-quer-secretario-de-tarcisio-em-ministerio/",
+    "time": "2026-08-12T21:41:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Carteira de crédito do agro no BB cresce 4,1%, mas inadimplência pressiona",
+    "d": "Saldo das operações com o agronegócio alcançou R$ 421,6 bilhões em junho; banco aponta aumento da inadimplência rural como principal fator para avanço das perdas esperadas",
+    "link": "https://www.cnnbrasil.com.br/agro/carteira-de-credito-do-agro-no-bb-cresce-41-mas-inadimplencia-pressiona/",
+    "time": "2026-08-12T21:41:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Após terremoto, Brasil atende a pedido da Colômbia e anuncia envio de ajuda humanitária ao país",
+    "d": "O Ministério das Relações Exteriores anunciou nesta quarta-feira (12) o envio de ajuda humanitária à Colômbia. O país enfrenta uma tragédia após um terremoto de magnitude 7,4 ter atingido a região nesta segunda-feira…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/brasil-atende-a-pedido-da-colombia-e-anuncia-envio-de-ajuda-humanitaria-ao-pais-apos-terremoto.ghtml",
+    "time": "2026-08-12T21:34:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Associação Internacional de Radiodifusão pede proteção ao exercício do jornalismo em caso de suposta perseguição a Dino",
+    "d": "Blogueiro Luís Pablo, Flávio Dino e Alexandre de Moraes. Arte: g1 A Associação Internacional de Radiodifusão (AIR) publicou nesta quarta-feira (12) uma nota em que manifesta preocupação diante das medidas judiciais ap…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/associacao-internacional-de-radiodifusao-pede-protecao-ao-exercicio-do-jornalismo-em-caso-de-suposta-perseguicao-a-dino.ghtml",
+    "time": "2026-08-12T21:26:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Mente no currículo' e 'constrangedor': adversários criticam Flávio por pós-graduação que não fez",
+    "d": "Páginas oficiais de Flávio Bolsonaro incluem curso de pós-graduação que ele não fez Adversários de Flávio Bolsonaro (PL) na corrida presidencial criticaram o candidato após reportagem do g1 revelar, nesta quarta-feira…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/adversarios-criticam-flavio-por-pos-graduacao-que-nao-fez.ghtml",
+    "time": "2026-08-12T21:22:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "STJ decide que testemunho indireto pode ser considerado em casos de criminalidade organizada",
+    "d": "A Terceira Seção do Superior Tribunal de Justiça reconheceu nesta quarta-feira (12) que o testemunho indireto qualificado, como os depoimentos de policiais, pode ser considerado como provas para o envio de uma acusaçã…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/stj-decide-que-testemunho-indireto-pode-ser-considerado-em-casos-de-criminalidade-organizada.ghtml",
+    "time": "2026-08-12T21:09:28.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "d": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T20:58:39.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Trump says White House press secretary Karoline Leavitt to leave post",
     "d": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
     "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T20:02:33.000Z"
+    "time": "2026-08-12T20:57:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Woman pulled alive from rubble 36 hours after Colombia quake",
+    "d": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T20:56:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Câmara instala comissão para debater PEC da redução da maioridade; votação será depois das eleições",
+    "d": "A Câmara dos Deputados instalou nesta quarta-feira (12) uma comissão especial para analisar a Proposta de Emenda à Constituição (PEC) que reduz a maioridade penal de 18 para 16 anos. A votação deve acontecer após as e…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/camara-instala-comissao-para-debater-pec-da-reducao-da-maioridade-votacao-sera-depois-das-eleicoes.ghtml",
+    "time": "2026-08-12T20:13:52.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
     "h": "STJ reconhece crimes de maio de 2006 como grave violação de direitos humanos e vota contra prescrição",
-    "d": "Mães de Maio fazem protesto durante lançamento do livro ‘Memorial dos Nossos Filhos Vivos’, na Faculdade de Direito da USP Leticia Gomes/Arquivo Pessoal O Superior Tribunal de Justiça (STJ) votou nesta quarta-feira (1…",
+    "d": "Seção do STJ que votou contra a prescrição dos crimes de maio de 2006 Reprodução O Superior Tribunal de Justiça (STJ) votou nesta quarta-feira (12) contra a prescrição dos crimes de maio de 2006, em São Paulo, por rec…",
     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/12/stj-reconhece-crimes-de-maio-de-2006-como-grave-violacao-de-direitos-humanos-e-vota-contra-prescricao.ghtml",
     "time": "2026-08-12T19:55:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump anuncia que secretária da Casa Branca deixará o cargo no fim do mês",
-    "d": "",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-anuncia-que-secretaria-da-casa-branca-deixara-o-cargo-no-fim-do-mes/",
-    "time": "2026-08-12T19:53:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eletrificados batem recorde com 21% de participação de mercado no Brasil",
-    "d": "Expectativa da ABVE é de mais de 450 mil unidades vendidas até o fim do ano",
-    "link": "https://www.cnnbrasil.com.br/auto/eletrificados-batem-recorde-com-21-de-participacao-de-mercado-no-brasil/",
-    "time": "2026-08-12T19:51:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ações da SpaceX sobem 9,3% após reunião geral de Elon Musk sobre IA",
-    "d": "Musk projeta que o tráfego de internet baseado em IA será 1.000 vezes o tráfego humano em cinco anos",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/acoes-da-spacex-sobem-93-apos-reuniao-geral-de-elon-musk-sobre-ia/",
-    "time": "2026-08-12T19:50:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Barbie 2” está em crise em meio a disputa salarial, diz site",
-    "d": "Negociações entre equipe criativa e Warner Bros. estariam ameaçando sequência do filme de 2023",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/barbie-2-esta-em-crise-em-meio-a-disputa-salarial-diz-site/",
-    "time": "2026-08-12T19:48:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Boom da soja acabou’: margem deve cair a 2,8% em MT, diz Cogo",
-    "d": "",
-    "link": "https://www.cnnbrasil.com.br/agro/boom-da-soja-acabou-margem-deve-cair-a-28-em-mt-diz-cogo/",
-    "time": "2026-08-12T19:46:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Transporte público cobra novo modelo de custeio, dizem especialistas",
-    "d": "Executivos apontam queda da demanda, redução da oferta de viagens e dificuldade para renovar frotas; BNDES defende novo ciclo de investimentos em mobilidade urbana",
-    "link": "https://www.cnnbrasil.com.br/infra/transporte-publico-cobra-novo-modelo-de-custeio-dizem-especialistas/",
-    "time": "2026-08-12T19:43:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CEO da Nvidia tranquiliza mercado sobre endividamento com IA e ações sobem",
-    "d": "Por volta das 15h10 (no horário de Brasília), papéis avançaram 2,7% em Nova York",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/ceo-da-nvidia-tranquiliza-mercado-sobre-endividamento-com-ia-e-acoes-sobem/",
-    "time": "2026-08-12T19:41:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Milho sobe 4,40% em Chicago após realtório de oferta e demanda do USDA",
-    "d": "Mercado também acompanhou o aumento das tensões entre Rússia e Ucrânia",
-    "link": "https://www.cnnbrasil.com.br/agro/milho-sobe-440-em-chicago-apos-realtorio-de-oferta-e-demanda-do-usda/",
-    "time": "2026-08-12T19:41:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Barcelona aumenta proposta por Rodri, craque do Manchester City",
-    "d": "Clube catalão oferece mais de 51 milhões de libras pelo meio-campista, eleito o melhor jogador da última Copa do Mundo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/barcelona-aumenta-proposta-por-rodri-craque-do-manchester-city/",
-    "time": "2026-08-12T19:40:43.000Z"
   },
   {
     "cat": "brasil",
@@ -97,35 +209,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Influenciadoras de beleza e bem-estar compartilham vivências da maternidade",
-    "d": "Niina Secrets, Taciele Alcolea, Karol Pinheiro, Lu Ferreira e Rayza Nicácio revelam valores que querem transmitir tanto para os filhos quanto para os internautas",
-    "link": "https://www.cnnbrasil.com.br/comportamento/influenciadoras-de-beleza-e-bem-estar-compartilham-vivencias-da-maternidade/",
-    "time": "2026-08-12T19:36:03.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "'Diálogo restabelecido', diz Alcolumbre sobre reunião com Lula",
     "d": "Presidente da República, Luiz Inácio Lula da Silva, e presidente do Senado, Davi Alcolumbre Ricardo Stuckert / PR O presidente do Senado, Davi Alcolumbre (União Brasil-AP), disse nesta quarta-feira (12) que conversou…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/12/dipalogo-restabelecido-diz-alcolumbre-sobre-reuniao-com-lula.ghtml",
     "time": "2026-08-12T19:34:08.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Café arábica sobe 1,35% em Nova York com atenção ao terremoto na Colômbia",
-    "d": "Contrato para dezembro fechou a US$ 3,19 por libra-peso, enquanto mercado monitora possíveis impactos do terremoto sobre a produção e as exportações colombianas.",
-    "link": "https://www.cnnbrasil.com.br/agro/cafe-arabica-sobe-135-em-nova-york-com-atencao-ao-terremoto-na-colombia/",
-    "time": "2026-08-12T19:32:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lukaku é anunciado pelo Fenerbahçe",
-    "d": "Atacante belga de 33 anos desembarca na Turquia após passagem pelo Napoli",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/lukaku-e-anunciado-pelo-fenerbahce/",
-    "time": "2026-08-12T19:32:09.000Z"
   },
   {
     "cat": "brasil",
@@ -136,18 +224,10 @@
     "time": "2026-08-12T19:21:35.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US immigration officers to be equipped with gloves that deliver electric shocks",
-    "d": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
-    "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T19:21:22.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
-    "h": "Relatora amplia projeto sobre combustíveis e inclui gastos fora do teto e benefícios a fertilizantes e minerais críticos",
-    "d": "A deputada Marussa Boldrin (Republicanos-GO) incluiu benefícios fiscais para outros setores, como o de minerais críticos e a produção de fertilizantes em seu parecer para o projeto que permite o uso de receita extra d…",
+    "h": "Câmara aprova projeto que permite uso de receita de petróleo para reduzir preço de combustível e amplia gastos fora do teto",
+    "d": "A Câmara dos Deputados aprovou nesta quarta-feira (12) um projeto que permite ao governo usar a receita extra obtida pela União com a venda de petróleo para reduzir impostos sobre combustíveis e retira dos limites do…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/12/relatora-amplia-projeto-sobre-combustiveis-e-inclui-gastos-fora-do-teto-e-beneficios-a-fertilizantes-e-minerais-criticos.ghtml",
     "time": "2026-08-12T18:57:46.000Z"
   },
@@ -178,7 +258,7 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Haddad diz que motorista foi abordado por PMs com fuzis após deixá-lo em casa em SP",
+    "h": "Haddad diz que motorista foi abordado por PMs após deixá-lo em casa em SP: 'estava abalado, tinham 3 fuzis na viatura'",
     "d": "Haddad participa da Hora do Voto da OAB SP Divulgação/Diogo Zacarias O candidato ao governo de São Paulo Fernando Haddad (PT) afirmou que seu motorista foi abordado de forma ostensiva por policiais militares após deix…",
     "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/12/haddad-diz-que-motorista-foi-abordado-por-pms-com-fuzis-apos-deixa-lo-em-casa-em-sp.ghtml",
     "time": "2026-08-12T18:15:46.000Z"
@@ -232,14 +312,6 @@
     "time": "2026-08-12T17:31:47.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Suspensão do Discord: empresa chama decisão da ANPD de 'prematura' e diz que crimes foram coordenados fora da plataforma",
-    "d": "Discord Discord é uma plataforma de mensagens popular entre os jovens e jogadores de videogame — Foto: Ivan Radic/Flickr O Discord classificou como \"prematura\" a decisão anunciada nesta quarta-feira (12) pela Agência…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-anpd.ghtml",
-    "time": "2026-08-12T17:31:25.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
@@ -250,7 +322,7 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Projeto de lei quer suspender por 10 anos CNH de motorista alcoolizado que causar morte",
+    "h": "Projeto de lei quer suspender por 10 anos CNH de motorista alcoolizado que causar morte; multa pode chegar a R$ 14,6 mil",
     "d": "Mortes por álcool no trânsito têm queda de quase 20%, mas trajetória de queda não é mantida Adobe Stock A Comissão de Viação e Transportes da Câmara dos Deputados deu, nesta quarta-feira (12), parecer favorável a um p…",
     "link": "https://g1.globo.com/carros/noticia/2026/08/12/projeto-de-lei-quer-suspender-por-10-anos-cnh-de-motorista-alcoolizado-que-causar-morte.ghtml",
     "time": "2026-08-12T17:07:31.000Z"
@@ -272,44 +344,12 @@
     "time": "2026-08-12T16:55:28.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Discord no Brasil: a decisão que suspende lives da rede social no país e o que acontece agora",
-    "d": "Entenda a decisão que suspendeu lives do Discord no Brasil As transmissões ao vivo realizadas dentro plataforma Discord terão que ser suspensos no Brasil, após determinação a Agência Nacional de Proteção de Dados (ANP…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-no-brasil-a-decisao-que-suspende-lives-da-rede-social-no-pais-e-o-que-acontece-agora.ghtml",
-    "time": "2026-08-12T16:43:43.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Thousands of Canadians call for US ambassador's expulsion",
     "d": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
     "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-12T16:35:52.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-    "d": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T16:34:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Páginas oficiais de Flávio Bolsonaro incluem curso de pós-graduação que ele não fez; campanha diz que houve 'equívoco'",
-    "d": "O senador Flávio Bolsonaro é pré-candidato à Presidência pelo PL Callaghan O'Hare/Reuters Perfis do senador Flávio Bolsonaro (PL), candidato à Presidência, publicados nas páginas oficiais do Senado e da Assembleia Leg…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml",
-    "time": "2026-08-12T16:33:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Discord: reportagem revelou como lives na plataforma eram usadas para envolver adolescentes em violência extrema; relembre",
-    "d": "Desafios perversos: como o aplicativo Discord virou ferramenta para envolver adolescentes em um submundo de violência extrema Na última semana, o caso de uma adolescente de 13 anos que teria sido induzida por outros u…",
-    "link": "https://g1.globo.com/fantastico/noticia/2026/08/12/discord-reportagem-revelou-como-lives-na-plataforma-eram-usadas-para-envolver-adolescentes-em-violencia-extrema-relembre.ghtml",
-    "time": "2026-08-12T16:23:13.000Z"
   },
   {
     "cat": "economia",
@@ -350,22 +390,6 @@
     "d": "Bob Iger, ex-CEO da Disney Reuters O empresário americano Josh Kushner e Bob Iger, ex-CEO da Disney, estão comprando o Los Angeles Lakers, uma das equipes mais tradicionais e populares da NBA, principal liga de basque…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/12/ex-ceo-da-disney-e-empresario-compram-los-angeles-lakers-por-us-125-bilhoes.ghtml",
     "time": "2026-08-12T15:22:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest divulga nova pesquisa da eleição presidencial na sexta (14)",
-    "d": "Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado e Romeu Zema Ricardo Stuckert, Vittor Sales e João Cotta A Quaest divulga, na próxima sexta-feira (14), os resultados de uma nova pesquisa sobre a corrida presidenc…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/12/quaest-divulga-nova-pesquisa-da-eleicao-presidencial.ghtml",
-    "time": "2026-08-12T15:09:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "O que acontece com o Discord após suspensão de transmissões ao vivo no Brasil a pedido da ANPD",
-    "d": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil A Agência Nacional de Proteção de Dados (ANPD) determinou nesta quarta-feira (12) a suspensão das transmissões ao v…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/12/o-que-acontece-com-o-discord-apos-suspensao-de-transmissoes-ao-vivo-no-brasil-a-pedido-da-anpd.ghtml",
-    "time": "2026-08-12T15:01:05.000Z"
   },
   {
     "cat": "economia",
@@ -409,14 +433,6 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Milhares de concurseiros tomam as ruas em nova onda de protestos na Índia; entenda",
-    "d": "Aprovado em 1º lugar no CNU 2025 tem posse negada por divergência sobre a formação Milhares de manifestantes no estado de Jharkhand, no leste da Índia, estão realizando marchas até a assembleia legislativa estaudal pa…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/milhares-de-concurseiros-tomam-as-ruas-em-nova-onda-de-protestos-na-india-entenda.ghtml",
-    "time": "2026-08-12T13:02:23.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "US inflation cooled slightly to 3.4% in July but prices still elevated",
     "d": "Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran war US consumer prices cooled slightly in July as the annualized inflation rate dipped down to…",
@@ -440,14 +456,6 @@
     "time": "2026-08-12T12:10:45.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar sobe, com inflação dos EUA e Oriente Médio no foco; Ibovespa cai",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar passou a subir nesta quarta-feira (12), com um avanço de 0,11% perto das 15h30, cotado a R$ 5,1662. Já o Ibovespa, principal índice da bolsa brasileira, caía 0,…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml",
-    "time": "2026-08-12T12:00:31.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
@@ -462,22 +470,6 @@
     "d": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
     "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-12T11:28:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Woman pulled alive from rubble 36 hours after Colombia quake",
-    "d": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T11:28:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais",
-    "d": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais Foto de setengah lima sore Os pedidos de recuperação judicial no agronegócio somaram 474 no primeiro trimestre deste ano, alta de 21,9% em…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml",
-    "time": "2026-08-12T11:25:43.000Z"
   },
   {
     "cat": "brasil",
@@ -606,13 +598,5 @@
     "d": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK Chinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs i…",
     "link": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
     "time": "2026-08-09T14:30:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Spain to introduce temporary border checks on visitors from Italy",
-    "d": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar mea…",
-    "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-    "time": "2026-08-07T21:44:38.000Z"
   }
 ]
