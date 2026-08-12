@@ -1,19 +1,211 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "d": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T15:57:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "BNDES registra lucro líquido recorrente de R$ 9,2 bi no 1º semestre",
+    "d": "Crescimento anual do banco doi de 25% sobre o mesmo período de 2025",
+    "link": "https://www.cnnbrasil.com.br/economia/negocios/bndes-registra-lucro-liquido-recorrente-de-r-92-bi-no-1o-semestre/",
+    "time": "2026-08-12T15:53:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Discord no Brasil: a decisão que suspende lives da rede social no país e o que acontece agora",
+    "d": "A medida acontece após a primeira-dama Janja da Silva defender, na semana passada, que o Discord deveria ser retirado \"imediatamente\" do ar no Brasil, citando o caso de uma menina de 13 anos que teria sido coagida por…",
+    "link": "https://www.bbc.com/portuguese/articles/cd69p29eq6go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T15:52:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil chega ao Mundial de Ginástica Rítmica com expectativa pelo ouro",
+    "d": "Após duas pratas históricas, equipe chega a Frankfurt com grandes chances de pódio",
+    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/brasil-chega-ao-mundial-de-ginastica-ritmica-com-expectativa-pelo-ouro/",
+    "time": "2026-08-12T15:50:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Islam Makhachev pode quebrar recorde de Anderson Silva no UFC 330",
+    "d": "Lutador russo enfrenta Ian Garry na Filadélfia e busca 17ª vitória consecutiva para se isolar no topo",
+    "link": "https://www.cnnbrasil.com.br/esportes/lutas/islam-makhachev-pode-quebrar-recorde-de-anderson-silva-no-ufc-330/",
+    "time": "2026-08-12T15:47:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ariana Grande e Ricky Álvarez posam juntos pela 1ª vez após reatarem namoro",
+    "d": "Cantora compartilhou fotos com namorado nas redes sociais nesta quarta-feira (12)",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ariana-grande-e-ricky-alvarez-posam-juntos-pela-1a-vez-apos-reatarem-namoro/",
+    "time": "2026-08-12T15:43:48.000Z"
+  },
+  {
     "cat": "economia",
-    "src": "The Guardian",
-    "h": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – business live",
-    "d": "The International Energy Agency calls for urgent reopening of the strait of Homuz amid ongoing pressure on global oil supplies Opec has lowered its full-year forecast for world oil demand growth for the fourth month i…",
-    "link": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
-    "time": "2026-08-12T12:26:45.000Z"
+    "src": "G1",
+    "h": "Trump é processado por plano de vender acesso antecipado a posts do Truth Social",
+    "d": "Trump admite que fez voo secreto O presidente dos Estados Unidos, Donald Trump, foi processado por duas organizações de mídia, divulgou a Bloomberg. O motivo foi o plano da Trump Media & Technology Group, empresa cont…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/trump-e-processado-por-plano-de-vender-acesso-antecipado-a-posts-do-truth-social.ghtml",
+    "time": "2026-08-12T15:42:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Globo demite jornalista esportiva após duas décadas na emissora",
+    "d": "Comunicadora esportiva, Joanna de Assis está de saída após 20 anos no Grupo Globo",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/globo-demite-jornalista-apos-duas-decadas-na-emissora/",
+    "time": "2026-08-12T15:41:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fundo da TRX compra mais de 9% em participação de shopping da Multiplan",
+    "d": "Em investimento de R$ 250 milhões, empresa passa a contar com 124 imóveis, o que equivale a cerca de ​R$ 12,5 bilhões de valor investido em ​imóveis",
+    "link": "https://www.cnnbrasil.com.br/economia/negocios/fundo-da-trx-compra-mais-de-9-em-participacao-de-shopping-da-multiplan/",
+    "time": "2026-08-12T15:39:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eclipse solar total começa agora; acompanhe ao vivo",
+    "d": "Fenômeno é o primeiro eclipse solar total em mais de dois anos e poderá ser observado em partes da Groenlândia, Islândia, Espanha e Portugal",
+    "link": "https://www.cnnbrasil.com.br/ciencia/eclipse-solar-total-ao-vivo/",
+    "time": "2026-08-12T15:38:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Filha de Michael Jackson dá detalhes de infância: “Sem televisão”",
+    "d": "Paris Jackson passou os primeiros anos em Neverland e diz que família era rigorosa com estudos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filha-de-michael-jackson-da-detalhes-de-infancia-sem-televisao/",
+    "time": "2026-08-12T15:29:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tecnologia é capaz de detectar anemia a partir dos olhos, diz estudo",
+    "d": "Técnica utiliza inteligência artificial capaz de identificar dados sobre o fluxo sanguíneo; objetivo é substituir métodos invasivos",
+    "link": "https://www.cnnbrasil.com.br/saude/tecnologia-e-capaz-de-detectar-anemia-a-partir-dos-olhos-diz-estudo/",
+    "time": "2026-08-12T15:29:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cristiano Ronaldo se solidariza a Messi após morte do pai",
+    "d": "Craque português usa as redes sociais para enviar condolências ao argentino em momento de luto familiar",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-se-solidariza-a-messi-apos-morte-do-pai/",
+    "time": "2026-08-12T15:27:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "João Fonseca é “beneficiado” e subirá no ranking da ATP",
+    "d": "Tenista de 19 anos sobe no ranking após 100 pontos conquistados no Masters 1000 de Montreal e se prepara para Cincinnati",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-e-beneficiado-e-subira-no-ranking-da-atp/",
+    "time": "2026-08-12T15:23:09.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ex-CEO da Disney e empresário compram Los Angeles Lakers por US$ 12,5 bilhões",
+    "d": "Bob Iger, ex-CEO da Disney Reuters O empresário americano Josh Kushner e Bob Iger, ex-CEO da Disney, estão comprando o Los Angeles Lakers, uma das equipes mais tradicionais e populares da NBA, principal liga de basque…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/ex-ceo-da-disney-e-empresario-compram-los-angeles-lakers-por-us-125-bilhoes.ghtml",
+    "time": "2026-08-12T15:22:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mulher é baleada dentro de ônibus durante tiroteio no Rio",
+    "d": "Passageira da linha 629 foi atingida por disparo em Vicente de Carvalho e levada ao Hospital Estadual Getúlio Vargas",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/mulher-e-baleada-dentro-de-onibus-durante-tiroteio-no-rio/",
+    "time": "2026-08-12T15:19:08.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Campanha de Flávio Bolsonaro comemora fala de Michelle ao declarar que crise é 'página virada'",
-    "d": "A cúpula da campanha de Flávio Bolsonaro (PL), candidato à Presidência da República, comemorou principalmente a fala de Michelle Bolsonaro após a gravação de uma participação para a campanha do enteado. Segundo relato…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/12/cupula-da-campanha-de-flavio-bolsonaro-comemora-fala-de-michelle-ao-dizer-que-crise-e-pagina-virada.ghtml",
-    "time": "2026-08-12T12:18:49.000Z"
+    "h": "Quaest divulga nova pesquisa da eleição presidencial na sexta (14)",
+    "d": "Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado e Romeu Zema Ricardo Stuckert, Vittor Sales e João Cotta A Quaest divulga, na próxima sexta-feira (14), os resultados de uma nova pesquisa sobre a corrida presidenc…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/12/quaest-divulga-nova-pesquisa-da-eleicao-presidencial.ghtml",
+    "time": "2026-08-12T15:09:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "O que acontece com o Discord após suspensão de transmissões ao vivo no Brasil a pedido da ANPD",
+    "d": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil A Agência Nacional de Proteção de Dados (ANPD) determinou nesta quarta-feira (12) a suspensão das transmissões ao v…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/o-que-acontece-com-o-discord-apos-suspensao-de-transmissoes-ao-vivo-no-brasil-a-pedido-da-anpd.ghtml",
+    "time": "2026-08-12T15:01:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+    "d": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment…",
+    "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+    "time": "2026-08-12T14:40:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Graves violações de direitos de crianças': por que o Discord teve lives suspensas no Brasil",
+    "d": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil As transmissões ao vivo do Discord foram suspensas no Brasil após a Agência Nacional de Proteção de Dados (ANPD) id…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/por-que-o-discord-teve-lives-suspensas-no-brasil.ghtml",
+    "time": "2026-08-12T14:38:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Discord: o que é a rede social que terá transmissões ao vivo suspensas no Brasil após decisão da ANPD",
+    "d": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil A Agência Nacional de Proteção de Dados (ANPD) determinou, nesta quarta-feira (12), que o Discord suspenda as trans…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-o-que-e-a-rede-social-que-tera-lives-suspensas-no-brasil-apos-decisao-da-anpd.ghtml",
+    "time": "2026-08-12T14:29:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Eclipse solar total e eclipse da lua: que horas começa e como observar",
+    "d": "Nesta quarta-feira (12/08) ocorrerá um eclipse solar, que poderá ser visto no hemisfério norte — em alguns locais como Islândia e Espanha, ele será total.",
+    "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T14:29:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "CNJ e BC firmam parceria para criar sistema de rastreamento para compra e venda de precatórios",
+    "d": "O Conselho Nacional de Justiça (CNJ) e o Banco Central (BC) firmaram nesta quarta-feira (12) um convênio que cria um grupo de trabalho para desenvolver uma sistemática nacional de registro e rastreamento das transferê…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/cnj-e-banco-central-firmam-convenio-para-criar-estrutura-nacional-de-rastreamento-da-compra-e-venda-de-precatorios.ghtml",
+    "time": "2026-08-12T14:25:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Agência Nacional de Proteção de Dados suspende transmissões ao vivo do Discord no Brasil",
+    "d": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil A Agência Nacional de Proteção de Dados (ANPD) determinou, nesta quarta-feira (12), a suspensão das transmissões ao…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/agencia-de-protecao-de-dados-suspende-lives-do-discord-no-brasil.ghtml",
+    "time": "2026-08-12T14:18:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US inflation eases as food and fuel costs cool",
+    "d": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T14:09:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O gráfico que mostra como o mundo está dividido sobre Infantino",
+    "d": "Após a polêmica proposta de abertura da Copa do Mundo para investidores privados, a BBC Sport detalha onde está o apoio e a oposição à liderança de Gianni Infantino entre os membros da Fifa.",
+    "link": "https://www.bbc.com/portuguese/articles/czekxzd2j2zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T14:05:12.000Z"
   },
   {
     "cat": "internacional",
@@ -21,111 +213,143 @@
     "h": "Israeli settlers besieging Palestinian families in West Bank village",
     "d": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
     "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T12:16:22.000Z"
+    "time": "2026-08-12T14:03:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula recebe Alcolumbre no Alvorada para tentar destravar pautas no Senado; ministro fala em 'institucionalidade reconstruída'",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) recebeu nesta quarta-feira (12) o presidente do Senado, Davi Alcolumbre (União-AP), no Palácio da Alvorada para tentar destravar pautas do governo na Casa. O encontro durou…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/lula-recebe-alcolumbre-no-alvorada-para-tentar-destravar-pautas-no-senado-ministro-fala-em-institucionalidade-reconstruida.ghtml",
+    "time": "2026-08-12T14:02:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+    "d": "The vessel is said to have overturned after being hit by strong waves.",
+    "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T13:55:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – as it happened",
+    "d": "The International Energy Agency calls for urgent reopening of the strait of Homuz amid ongoing pressure on global oil supplies Opec has lowered its full-year forecast for world oil demand growth for the fourth month i…",
+    "link": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+    "time": "2026-08-12T13:54:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Amorim diz que EUA agiram de forma 'bizarra' e 'às pressas' ao indicar embaixador para o Brasil: 'Não foi por acaso'",
+    "d": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12) que o governo dos Estados Unidos agiu de forma \"bizarra\" ao anunciar e dar andamento à indicação de Daniel…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/amorim-diz-que-eua-agiram-de-forma-bizarra-e-as-pressas-ao-indicar-embaixador-para-o-brasil-nao-foi-por-acaso.ghtml",
+    "time": "2026-08-12T13:50:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Juízes receberam, em média, R$ 90 mil por mês em 2025, aponta estudo",
+    "d": "Moraes determina devolução de 'penduricalhos' Os 25,9 mil juízes e pensionistas brasileiros receberam, em média, R$ 1.085.070 no ano de 2025, ou cerca de R$ 90,4 mil por mês. O valor é quase o dobro do teto mensal do…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/juizes-receberam-em-media-r-90-mil-por-mes-em-2025-aponta-estudo.ghtml",
+    "time": "2026-08-12T13:47:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Wisconsin result dents winning streak for Democratic Party's left wing",
+    "d": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+    "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T13:35:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Penduricalhos': STF manda 7 tribunais devolverem valores; ministros citam 'pagamentos exorbitantes'",
+    "d": "Moraes determina devolução de 'penduricalhos' O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), apontou nesta quarta-feira (12) que tribunais continuam realizando o pagamento de \"verbas exorbitantes\"…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/moraes-diz-que-tribunais-mantiveram-pagamentos-exorbitantes-e-manda-suspender-penduricalhos.ghtml",
+    "time": "2026-08-12T13:19:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Em meio a sanções dos EUA, Irã vai integrar banco criado pelo Brasil e outros países do Brics",
+    "d": "Trump diz que Irã quer matá-lo e jornalistas ‘vão junto’, mas não avisa equipe e imprensa O Irã deve se tornar em breve membro do Novo Banco de Desenvolvimento (NDB), conhecido como o banco dos Brics, segundo o presid…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/12/ira-banco-do-brics.ghtml",
+    "time": "2026-08-12T13:14:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Na Câmara, Amorim diz que classificação de facções como terroristas ameaça soberania e não traz 'ganhos concretos'",
+    "d": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12), em audiência na Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados, que o gover…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/12/na-camara-amorim-diz-que-governo-brasileiro-nao-tem-complacencia-com-faccoes-criminosas.ghtml",
+    "time": "2026-08-12T13:08:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Milhares de concurseiros tomam as ruas em nova onda de protestos na Índia; entenda",
+    "d": "Aprovado em 1º lugar no CNU 2025 tem posse negada por divergência sobre a formação Milhares de manifestantes no estado de Jharkhand, no leste da Índia, estão realizando marchas até a assembleia legislativa estaudal pa…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/milhares-de-concurseiros-tomam-as-ruas-em-nova-onda-de-protestos-na-india-entenda.ghtml",
+    "time": "2026-08-12T13:02:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Chefe da campanha de Flávio Bolsonaro, Marinho pede a Fachin que STF julgue ações sobre a Lei da Dosimetria",
+    "d": "Campanha de Flávio pede julgamento da dosimetria no STF O senador Rogério Marinho (PL-RN), chefe da campanha de Flávio Bolsonaro à Presidência, pediu ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fac…",
+    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/12/chefe-da-campanha-de-flavio-bolsonaro-marinho-pede-a-fachin-que-stf-julgue-acoes-sobre-a-lei-da-dosimetria.ghtml",
+    "time": "2026-08-12T12:47:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Equipe de Lula vê plano de Marco Rubio para impedir reeleição após vídeo dos EUA sobre domínio nas Américas",
+    "d": "A equipe do presidente Luiz Inácio Lula da Silva (PT) avalia que nunca ficou tão claro que o secretário de Estado dos Estados Unidos, Marco Rubio, quer evitar a reeleição do petista. A convicção foi reforçada depois q…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/12/equipe-de-lula-ve-plano-de-marco-rubio-para-impedir-reeleicao-apos-video-dos-eua-sobre-dominio-nas-americas.ghtml",
+    "time": "2026-08-12T12:42:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "US inflation cooled slightly to 3.4% in July but prices still elevated",
+    "d": "Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran war US consumer prices cooled slightly in July as the annualized inflation rate dipped down to…",
+    "link": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
+    "time": "2026-08-12T12:39:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Candidatas ao Miss Universo no Canadá pedem desculpas por usar trajes indígenas",
+    "d": "Organização do concurso também pediu desculpas pelo ocorrido durante etapa onde candidatas exibem trajes típicos do Canadá.",
+    "link": "https://www.bbc.com/portuguese/articles/cn8nplynkvno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-12T12:33:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+    "d": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.…",
+    "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+    "time": "2026-08-12T12:21:08.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-    "d": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
+    "d": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
     "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-12T12:10:45.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "AIE: impasse em Ormuz reduz demanda global de petróleo acima do esperado",
-    "d": "De acordo com a entidade, a demanda deve encolher 2,8 milhões de bpd no terceiro trimestre",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/aie-impasse-em-ormuz-reduz-demanda-global-de-petroleo-acima-do-esperado/",
-    "time": "2026-08-12T12:10:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Aliados tratam reencontro de Flávio e Michelle como “leve”",
-    "d": "Ex-primeira-dama circulou à vontade e passou cerca de duas horas em QG de campanha do senador",
-    "link": "https://www.cnnbrasil.com.br/politica/aliados-tratam-reencontro-de-flavio-e-michelle-como-leve/",
-    "time": "2026-08-12T12:04:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Idosos a partir de 60 anos já podem se vacinar contra Covid-19 no Rio",
-    "d": "Nova etapa da vacinação começa nesta quarta-feira (12) no capital, com doses atualizadas para a cepa LP.8.1",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/idosos-a-partir-de-60-anos-ja-podem-se-vacinar-contra-covid-19-no-rio/",
-    "time": "2026-08-12T12:04:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: Juiz que bebeu vinho e fumou em sessão diz ser alvo de “difamação”",
-    "d": "Milton Lívio Lemos Salles, afastado do cargo, ainda usou gravação para proferir ataques à cúpula do Judiciário, incluindo o TJMG, o STJ (Superior Tribunal de Justiça) e o STF (Supremo Tribunal Federal)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-juiz-que-bebeu-vinho-e-fumou-em-sessao-diz-ser-alvo-de-difamacao/",
-    "time": "2026-08-12T12:01:43.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
-    "d": "The vessel is said to have overturned after being hit by strong waves.",
-    "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T12:01:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ana Castela é anunciada no Jaguariúna Rodeo Festival; veja line-up completo",
-    "d": "Cantora se apresentará no dia 25 de setembro no tradicional festival do interior de São Paulo",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/ana-castela-e-anunciada-no-jaguariuna-rodeo-festival-veja-line-up-completo/",
-    "time": "2026-08-12T12:00:55.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar abre em queda, com inflação dos EUA e Oriente Médio no foco",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quarta-feira (12) em queda, com um recuo de 0,10% perto das 9h, cotado a R$ 5,1556. Já as negociações do Ibovespa, principal índice da bols…",
+    "h": "Dólar sobe, com inflação dos EUA e Oriente Médio no foco; Ibovespa cai",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar passou a subir nesta quarta-feira (12), com um avanço de 0,10% perto das 12h30, cotado a R$ 5,1656. Já o Ibovespa, principal índice da bolsa brasileira, caía 0,…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml",
     "time": "2026-08-12T12:00:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Filho de Robin Williams homenageia pai 12 anos após morte dele: “Propósito”",
-    "d": "Zak Williams diz que pedir ajuda foi uma forma de salvação ao longo dos anos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-robin-williams-homenageia-pai-12-anos-apos-morte-dele-proposito/",
-    "time": "2026-08-12T11:58:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Passageiro é retirado de avião após denúncia falsa de bomba no Paraná",
-    "d": "Polícia Federal foi acionada e constatou que não havia uma bomba na caixa de som citada pelo passageiro; além do homem, outros três viajantes foram ouvidos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/passageiro-e-retirado-de-aviao-apos-denuncia-falsa-de-bomba-no-parana/",
-    "time": "2026-08-12T11:57:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jornalista investigado no STF diz que querem sua destruição profissional",
-    "d": "Luís Pablo afirma que fontes terão medo de passar informações e seu trabalho será prejudicado",
-    "link": "https://www.cnnbrasil.com.br/politica/jornalista-investigado-no-stf-diz-que-querem-sua-destruicao-profissional/",
-    "time": "2026-08-12T11:53:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Polícia do RJ mira esquema que movimentou R$ 4 milhões para o TCP",
-    "d": "Grupo usava anúncios falsos de veículos e imóveis para aplicar golpes e, segundo a investigação, lavar dinheiro da facção",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-do-rj-mira-esquema-que-movimentou-r-4-milhoes-para-o-tcp/",
-    "time": "2026-08-12T11:52:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mulher é resgatada com vida na Colômbia após 36 horas sob escombros",
-    "d": "Colombiana foi retirada dos destroços de um hotel na cidade de Pereira, onde mais de 40 pessoas ainda são procuradas",
-    "link": "https://www.cnnbrasil.com.br/internacional/mulher-e-resgatada-com-vida-na-colombia-apos-36-horas-sob-escombros/",
-    "time": "2026-08-12T11:48:45.000Z"
   },
   {
     "cat": "brasil",
@@ -134,30 +358,6 @@
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio Bolsonaro na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-12T11:48:25.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Escândalo de serviços sexuais abala futebol sul-coreano; entenda",
-    "d": "Relatório revela que a KFA gastou milhares de dólares com árbitros estrangeiros no início dos anos 2010",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/escandalo-de-servicos-sexuais-abala-futebol-sul-coreano-entenda/",
-    "time": "2026-08-12T11:44:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Longe da TV, quem é o ex-ator da Globo que vive em ônibus adaptado",
-    "d": "Angel Ferreira, 38, esteve no elenco de novelas como \"O Outro Lado do Paraíso\" e \"Terra e Paixão\"",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/longe-da-tv-quem-e-o-ex-ator-da-globo-que-vive-em-onibus-adaptado/",
-    "time": "2026-08-12T11:44:44.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Wisconsin result dents winning streak for Democratic Party's left wing",
-    "d": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
-    "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T11:32:17.000Z"
   },
   {
     "cat": "internacional",
@@ -202,18 +402,10 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+    "h": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
     "d": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pest Hearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued…",
     "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
     "time": "2026-08-12T11:00:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "At least 15 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-    "d": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 15 people have died and 27 are missing after an overcrowded ferry capsized on Lake Kariba in Zimb…",
-    "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-    "time": "2026-08-12T10:34:40.000Z"
   },
   {
     "cat": "economia",
@@ -222,14 +414,6 @@
     "d": "Motoristas e entregadores por aplicativo na Austrália terão condições mais justas no trabalho Rafael Ben Ari/Avalon/IMAGO Entregadores de alimentos e compras na Austrália receberão pelo menos 31,30 dólares australiano…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
     "time": "2026-08-12T10:34:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A desesperada busca por sobreviventes na Colômbia: 'Cada vez que anunciam uma pessoa com vida, espero ser meu irmão'",
-    "d": "Na zona sul da terceira cidade mais populosa da Colômbia — e uma das áreas mais atingidas pelo terremoto —, centenas de pessoas correm contra o tempo para encontrar sobreviventes sob os escombros.",
-    "link": "https://www.bbc.com/portuguese/articles/c1512z32jkeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T10:06:12.000Z"
   },
   {
     "cat": "brasil",
@@ -272,14 +456,6 @@
     "time": "2026-08-12T08:03:51.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "É #FAKE que eleições de 2026 terão novo modelo de urna eletrônica",
-    "d": "TSE não adotará nova urna para 2026 g1 Circulam nas redes sociais publicações afirmando que o Tribunal Superior Eleitoral (TSE) adotará um novo modelo de urna eletrônica nas eleições de 2026. É #FAKE. Selo Fake (Horiz…",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/12/e-fake-que-eleicoes-de-2026-terao-novo-modelo-de-urna-eletronica.ghtml",
-    "time": "2026-08-12T08:02:17.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
@@ -304,52 +480,12 @@
     "time": "2026-08-12T07:22:11.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Defesa do Consumidor do ES propõe à Fazenda que bets mostrem risco de perda para apostadores",
-    "d": "Órgãos de defesa do consumidor do Espírito Santo querem que bets sejam obrigadas a informar risco de perda para apostadores. Arquivo/Agência Brasil Um grupo de trabalho formado por representantes de diferentes órgãos…",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/12/defesa-do-consumidor-do-es-propoe-a-fazenda-que-bets-mostrem-risco-de-perda-para-apostadores.ghtml",
-    "time": "2026-08-12T07:01:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Álcool, cigarro e home office: caso de juiz afastado expõe limites da postura no trabalho remoto",
-    "d": "Juiz vira garrafa de vinho durante sessão de julgamento em MG; TJMG investiga caso Bastaram alguns segundos de uma sessão virtual para desencadear uma investigação disciplinar no Tribunal de Justiça de Minas Gerais. O…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/alcool-cigarro-e-home-office-caso-de-juiz-afastado-expoe-limites-da-postura-no-trabalho-remoto.ghtml",
-    "time": "2026-08-12T06:00:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Adesivo de campanha eleitoral no carro pode afetar cobertura do seguro; entenda",
-    "d": "Adesivo de campanha eleitoral no carro pode afetar cobertura do seguro Com a proximidade do início oficial da campanha eleitoral, o setor de seguros faz um alerta para os motoristas que pretendem colocar propaganda de…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/adesivo-de-campanha-eleitoral-no-carro-pode-afetar-cobertura-do-seguro-entenda.ghtml",
-    "time": "2026-08-12T06:00:21.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Presenteísmo': por que tantos profissionais continuam trabalhando mesmo doentes?",
-    "d": "'Presenteísmo': por que tantos profissionais continuam trabalhando mesmo doentes? Trabalhar mesmo doente, ignorar sintomas e seguir a rotina apesar da recomendação médica é uma realidade para muitos brasileiros. 🗒️ T…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/presenteismo-por-que-tantos-profissionais-continuam-trabalhando-mesmo-doentes.ghtml",
-    "time": "2026-08-12T06:00:08.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
     "d": "Prime minister Anutin Charnvirakul calls for tighter gun controls and ‘decisive penalties’ after nine dead in school shooting Thailand has suspended firearms licences after the deadly Nonthaburi school shooting, as th…",
     "link": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
     "time": "2026-08-12T05:28:05.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Projeto de 'avião-arraia' promete tornar voos mais baratos; veja como ele será",
-    "d": "Fabricante americana JetZero está projetando o avião Z4 Divulgação/JetZero O projeto de uma nova aeronave tem atraído investidores com um visual que integra a área central às asas em um único componente. A promessa é…",
-    "link": "https://g1.globo.com/inovacao/noticia/2026/08/12/projeto-de-aviao-arraia-promete-tornar-voos-mais-baratos-veja-como-ele-sera.ghtml",
-    "time": "2026-08-12T05:00:21.000Z"
   },
   {
     "cat": "internacional",
@@ -368,116 +504,12 @@
     "time": "2026-08-12T04:29:02.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump confirms he switched planes after Nato summit because of possible threat",
-    "d": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-    "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T03:44:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Pra que lado aponta o pêndulo do Centrão? - O Assunto #1781",
-    "d": "Nos últimos quatro anos, a relação entre Executivo e Legislativo foi atribulada, marcada por atritos nos bastidores e até por críticas públicas de lado a lado. O governo Lula e o Centrão, bloco formado por partidos qu…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/12/pra-que-lado-aponta-o-pendulo-do-centrao-o-assunto-1781.ghtml",
-    "time": "2026-08-12T03:30:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Quanto ganham presidente, deputados e senadores?",
-    "d": "Praça dos Três Poderes, em Brasília, com vista para o Congresso Nacional Tony Winston/Agência Brasília/Divulgação Apesar de ser, em tese, o cargo mais importante da República, o presidente no Brasil ganha o mesmo que…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/eleicoes-2026-quanto-ganham-presidente-deputados-e-senadores.ghtml",
-    "time": "2026-08-12T03:01:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Jeep lança o Avenger nesta quarta, mirando disputa entre SUVs compactos; veja o que se sabe",
-    "d": "Jeep lança o Avenger no Brasil Divulgação / Stellantis A Jeep do Brasil vai lançar nesta quarta-feira (12) o Avenger. O modelo mais importante da marca chega com motor T200 híbrido leve (MHEV) de 12V em todas as versõ…",
-    "link": "https://g1.globo.com/carros/noticia/2026/08/12/jeep-lanca-o-avenger-nesta-quarta-veja-o-que-se-sabe.ghtml",
-    "time": "2026-08-12T03:00:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Candidato tem que declarar tudo o que possui? Entenda as regras da declaração de bens nas eleições",
-    "d": "Urna eletrônica Reprodução/TV Globo A declaração de bens é um dos requisitos obrigatórios para o registro de uma candidatura e permite que os eleitores consultem o patrimônio informado por quem disputa as eleições. At…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/candidato-tem-que-declarar-tudo-o-que-possui-entenda-as-regras-da-declaracao-de-bens-nas-eleicoes.ghtml",
-    "time": "2026-08-12T03:00:54.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bônus da usina de Itaipu deve dar alívio temporário para as contas de luz em agosto; entenda",
-    "d": "O dinheiro do bônus da usina de Itaipu deve ajudar dar um alívio temporário nas contas de luz em agosto e reduzir o impacto da energia sobre a inflação do mês, avalia o Instituto Brasileiro de Geografia e Estatística…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/12/bonus-da-usina-de-itaipu-deve-dar-alivio-temporario-para-as-contas-de-luz-em-agosto-entenda.ghtml",
-    "time": "2026-08-12T03:00:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Planalto aprecia gesto de Alcolumbre de instalar comissão para analisar MP que acaba com taxa das blusinhas",
-    "d": "O governo apreciou o gesto do presidente do Senado, Davi Alcolumbre (União-AP), de marcar para esta quarta-feira (12) a instalação de uma comissão para analisar a medida provisória (MP) que acaba com o imposto de impo…",
-    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/08/12/planalto-aprecia-gesto-de-alcolumbre-de-instalar-comissao-para-analisar-mp-que-acaba-com-taxa-das-blusinhas.ghtml",
-    "time": "2026-08-12T03:00:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Câmara deve instalar nesta quarta comissão especial para debater PEC da redução da maioridade penal",
-    "d": "A Câmara dos Deputados deve instalar nesta quarta-feira (12) uma comissão especial para analisar a Proposta de Emenda à Constituição (PEC) que reduz a maioridade penal de 18 para 16 anos. A proposta altera o artigo 22…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/12/camara-deve-instalar-nesta-quarta-comissao-especial-para-debater-pec-da-reducao-da-maioridade-penal.ghtml",
-    "time": "2026-08-12T03:00:14.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Trump confirma que trocou secretamente de avião devido a possível ameaça",
-    "d": "Segundo imprensa americana, presidente dos Estados Unidos deixou o antigo Air Force One e embarcou em uma aeronave militar ao sair de uma cúpula da Otan na Turquia, no mês passado.",
-    "link": "https://www.bbc.com/portuguese/articles/c1m1kj89gero?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T02:30:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-    "d": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-12T00:14:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Associações de imprensa manifestam 'profunda preocupação' com buscas contra ex-secretário do Maranhão",
-    "d": "A Associação Brasileira de Emissoras de Rádio e Televisão (ABERT), a Associação Nacional de Jornais (ANJ) e a Associação Nacional de Editores de Revistas (ANER) divulgaram nesta terça-feira (11) uma nota conjunta em q…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/11/associacoes-de-imprensa-manifestam-profunda-preocupacao-com-busca-e-apreensao-contra-ex-secretario-do-maranhao.ghtml",
-    "time": "2026-08-11T22:58:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula liga para agradecer declaração de voto de Motta e o convida para encontro nesta semana",
-    "d": "12.05.2026 - Presidente da República, Luiz Inácio Lula da Silva, e deputado federal Hugo Motta durante Lançamento do Programa Brasil Contra o Crime Organizado, no Palácio do Planalto. Brasília-DF. SEAUD/PR O president…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/lula-liga-para-agradecer-declaracao-de-voto-de-motta-e-o-convida-para-encontro-nesta-semana.ghtml",
-    "time": "2026-08-11T22:31:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Daniel Vilela declara R$ 5,6 milhões ao TSE; vice informa R$ 10,4 milhões",
-    "d": "Daniel Vilela declara R$ 5,6 milhões ao TSE; vice informa R$ 10,4 milhões Reprodução/Instagram Daniel Vilela O candidato a governador Daniel Vilela (MDB) declarou R$ 5,6 milhões em patrimônio à Justiça Eleitoral. O ca…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/11/daniel-vilela-declara-r-56-milhoes-ao-tse-vice-informa-r-104-milhoes.ghtml",
-    "time": "2026-08-11T22:26:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Luis César Bueno declara R$ 884 mil ao TSE; vice informa R$ 328 mil",
-    "d": "Luis Cesar Bueno vai disputar o governo de Goiás pelo PT O candidato a governador de Goiás pelo Partido dos Trabalhadores (PT) Luis César Bueno declarou patrimônio de R$ 884 mil ao Tribunal Superior Eleitoral (TSE), d…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/11/luis-cesar-bueno-declara-r-884-mil-ao-tse-vice-informa-r-328-mil.ghtml",
-    "time": "2026-08-11T22:11:38.000Z"
+    "h": "A doutrina do século 19 que orienta política externa do governo Trump para a América Latina",
+    "d": "Doutrina criada em 1823 teve várias reinterpretações ao longo do tempo e, atualmente, tem como o 'mais recente defensor' Donald Trump, segundo vídeo divulgado por seu governo.",
+    "link": "https://www.bbc.com/portuguese/articles/cwyev4yw89po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-11T22:08:41.000Z"
   },
   {
     "cat": "internacional",
@@ -494,22 +526,6 @@
     "d": "A Colômbia fica na região de interação de três placas tectônicas. É um dos países com maior atividade sísmica da América Latina e já foi cenário de potentes terremotos como o de 10 de agosto de 2026.",
     "link": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-11T19:53:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Equipes de resgate buscam sobreviventes após terremoto na Colômbia deixar 181 mortos e mais de 2.500 feridos",
-    "d": "Abalo foi sentido em praticamente todo o país e em partes do Panamá e do Equador, incluindo a região de Quito. No Brasil, moradores de Manaus relataram nas redes que também sentiram os tremores.",
-    "link": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T19:40:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O fenômeno que causou terremoto devastador na Colômbia — e não tem relação com tremores na Venezuela",
-    "d": "Abalo sísmico nesta segunda-feira (10/8) deixou ao menos 169 mortos e mais de 900 feridos, segundo autoridades locais.",
-    "link": "https://www.bbc.com/portuguese/articles/ckg3e7dy4z1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-11T16:14:10.000Z"
   },
   {
     "cat": "internacional",
@@ -568,14 +584,6 @@
     "time": "2026-08-10T14:00:45.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Eclipse solar e lunar: quando e como observar os dois fenômenos previstos para agosto",
-    "d": "O mês de agosto terá dois eclipses — e um deles poderá ser visto do Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-10T13:12:18.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Not your imagination: from backpacks to food, consumer goods are getting worse",
@@ -590,14 +598,6 @@
     "d": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken temples and bones vi…",
     "link": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
     "time": "2026-08-10T10:00:43.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’",
-    "d": "Exclusive: Film-maker Gabar Choli describes how he endured coercive treatment over eight months in detention in Texas A Kurdish man who was force-fed over the course of eight months while on hunger strike in US immigr…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding",
-    "time": "2026-08-10T10:00:40.000Z"
   },
   {
     "cat": "economia",
@@ -622,13 +622,5 @@
     "d": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to e…",
     "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
     "time": "2026-08-07T18:34:34.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say",
-    "d": "Domestic flights cost 26.5% more than last year, data shows, amid demand for travel and reduced oil refining capacity Even if a lasting ceasefire between the US and Iran lowers oil prices, travelers hoping to snag che…",
-    "link": "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
-    "time": "2026-08-07T13:00:18.000Z"
   }
 ]
