@@ -1,5 +1,261 @@
 [
   {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘Unprecedented’ rain kills four in Japan as thousands stranded at airport",
+    "d": "Evacuation orders issued for 400,000 as torrential rains hit Chiba prefecture as flooding risks remain high despite rainfall easing At least four people died in eastern Japan after “unprecedented” heavy rain that left…",
+    "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
+    "time": "2026-08-14T04:14:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
+    "d": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centre Orangutans rescued from wildlife traffickers face a new threat from the record number of fires that have brok…",
+    "link": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
+    "time": "2026-08-14T04:00:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Hugo Souza comenta racismo de argentinos: “Parece comum, e não pode ser”",
+    "d": "Goleiro corintiano foi alvo de insultos racistas na partida contra o Rosario Central nesta quinta-feira, pela Libertadores",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/hugo-souza-comenta-racismo-de-argentinos-parece-comum-e-nao-pode-ser/",
+    "time": "2026-08-14T03:20:14.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US says dozens of countries helped China dodge Trump's tariffs",
+    "d": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T03:09:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trem descarrila perto da Estação Júlio Prestes em São Paulo",
+    "d": "Veículo da Linha 8-Diamante estava fora de serviço e sem passageiros, segundo a ViaMobilidade",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trem-descarrila-perto-da-estacao-julio-prestes-em-sao-paulo/",
+    "time": "2026-08-14T03:02:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Como tirar segunda via do título de eleitor?",
+    "d": "Prazo para regularização do Título de Eleitor termina nesta quarta-feira (6) Divulgação/TSE Quem perdeu o título de eleitor ou precisa de uma nova cópia do documento pode emitir a segunda via pela internet. Na maioria…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/eleicoes-2026-como-tirar-segunda-via-do-titulo-de-eleitor.ghtml",
+    "time": "2026-08-14T03:00:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula de chapéu na urna: o que dizem as regras do TSE e especialistas em direito eleitoral",
+    "d": "Presidente Lula usará foto com chapéu na urna eletrônica em 2026 Ricardo Stuckert O presidente Lula (PT) divulgou nesta semana a foto escolhida para a urna eletrônica na eleição de 2026, em que aparece usando um chapé…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/lula-de-chapeu-na-urna-o-que-dizem-as-regras-do-tse-e-especialistas-em-direito-eleitoral.ghtml",
+    "time": "2026-08-14T03:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest divulga pesquisa da eleição presidencial nesta sexta-feira",
+    "d": "Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado e Romeu Zema Ricardo Stuckert, Vittor Sales e João Cotta A Quaest divulga nesta sexta-feira (14) os resultados de uma nova pesquisa de intenções de voto para a corr…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-divulga-pesquisa-da-eleicao-presidencial-nesta-sexta-feira.ghtml",
+    "time": "2026-08-14T03:00:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "O que é a Lei da Reciprocidade Econômica, que Brasil aciona contra os EUA",
+    "d": "Brasil inicia processo para adotar medidas de reciprocidade em resposta ao tarifaço americano O governo brasileiro informou nesta quinta-feira (13) que iniciou o processo para adotar medidas de reciprocidade contra os…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/14/o-que-e-a-lei-da-reciprocidade-economica-brasil-eua.ghtml",
+    "time": "2026-08-14T03:00:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Brasil dá início ao processo de reciprocidade contra EUA: veja os próximos passos",
+    "d": "O governo brasileiro informou nesta quinta-feira (13) que deu início ao processo para aplicar medidas de reciprocidade contra os Estados Unidos por conta das tarifas impostas pelo governo norte-americano a produtos br…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/14/brasil-da-inicio-ao-processo-de-reciprocidade-contra-eua-veja-os-proximos-passos.ghtml",
+    "time": "2026-08-14T03:00:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Kassab diz que Centrão está com Lula e que chance de Flávio Bolsonaro ser eleito é 'zero'",
+    "d": "Ronaldo Caiado (à esq.) e Gilberto Kassab em encontro com empresários Júlia Zaremba/GloboNews O presidente do PSD e candidato a vice-presidente, Gilberto Kassab, afirmou nesta quinta (13) que, na avaliação dele, os pa…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/14/kassab-centrao-lula-flavio-bolsonaro.ghtml",
+    "time": "2026-08-14T03:00:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Veja os melhores momentos de Cienciano 6 x 1 Botafogo pela Sul-Americana",
+    "d": "Clube carioca sofreu goleada histórica nas oitavas de final da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-os-melhores-momentos-de-cienciano-6-x-1-botafogo-pela-sul-americana/",
+    "time": "2026-08-14T02:59:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sátira é a melhor maneira de responder ultradireita europeia, diz professor",
+    "d": "Vinícius Rodrigues Vieira analisa candidatura do comediante \"Cara de Lata de Lixo\" contra Nigel Farage no Reino Unido",
+    "link": "https://www.cnnbrasil.com.br/internacional/satira-e-a-melhor-maneira-de-responder-ultradireita-europeia-diz-professor/",
+    "time": "2026-08-14T02:40:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Corinthians segura a pressão do Rosario Central e empata pela Libertadores",
+    "d": "Time alvinegro teve um jogador expulso no segundo tempo, mas conseguiu segurar a igualdade",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-segura-a-pressao-do-rosario-central-e-empata-pela-libertadores/",
+    "time": "2026-08-14T02:35:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Botafogo leva baile na altitude e é goleado pelo Cienciano na Sul-Americana",
+    "d": "Clube carioca perde por 6 a 1 e se complica nas oitavas de final da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-leva-baile-na-altitude-e-e-goleado-pelo-cienciano-na-sul-americana/",
+    "time": "2026-08-14T02:30:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jana Nelson: EUA focam em convencer México a permitir ataques em território",
+    "d": "Ao WW, a ex-subsecretária de Defesa para a América Latina dos EUA Jana Nelson afirma que convencer o México é o \"grande prêmio\" que o Pentágono busca com sua estratégia na América Latina",
+    "link": "https://www.cnnbrasil.com.br/internacional/jana-nelson-eua-focam-em-convencer-mexico-a-permitir-ataques-em-territorio/",
+    "time": "2026-08-14T02:27:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Hugo Souza denuncia, e árbitro ativa protocolo antirracismo na Libertadores",
+    "d": "Goleiro do Corinthians relatou uma situação vinda da torcida durante a partida contra o Rosário Central, e arbitragem adotou procedimento previsto para casos de suspeita de discriminação",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/hugo-souza-denuncia-e-arbitro-ativa-protocolo-antirracismo-na-libertadores/",
+    "time": "2026-08-14T02:17:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Venezuela enfrenta mais cortes de energia e água com aproximação do El Niño",
+    "d": "Com seca se aproximando, população espera cortes generalizados na eletricidade e menor abastecimento hídrico",
+    "link": "https://www.cnnbrasil.com.br/internacional/venezuela-enfrenta-mais-cortes-de-energia-e-agua-com-aproximacao-do-el-nino/",
+    "time": "2026-08-14T02:13:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Moura Dubeux deve adotar cautela de olho no cenário macro, diz CEO",
+    "d": "Construtora registrou lucro líquido de R$ 174 mi no 2º trimestre de 2026, alta de 44%; CEO aponta postura mais conservadora",
+    "link": "https://www.cnnbrasil.com.br/economia/negocios/moura-dubeux-deve-adotar-cautela-de-olho-no-cenario-macro-diz-ceo/",
+    "time": "2026-08-14T02:12:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grêmio anuncia Danilo Barbosa, ex-Palmeiras e Botafogo",
+    "d": "Meio-campista estava no Al-Ula, da Arábia Saudita, e assinou contrato com o Tricolor até 2028",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-anuncia-danilo-barbosa-ex-palmeiras-e-botafogo/",
+    "time": "2026-08-14T02:09:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Meta é levar 5G a todo Nordeste até 2030, diz presidente da Brisanet",
+    "d": "Operadora registrou lucro líquido de R$ 26,1 milhões no 2º trimestre, alta de 320% na comparação anual",
+    "link": "https://www.cnnbrasil.com.br/economia/negocios/meta-e-levar-5g-a-todo-nordeste-ate-2030-diz-presidente-da-brisanet/",
+    "time": "2026-08-14T02:09:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "EUA pretendem atacar em terra cartéis de droga na América Latina: 'Alvo como Estado Islâmico e Al-Qaeda'",
+    "d": "'Em qualquer lugar que você traficar drogas, em que você ameaçar o povo americano e nossos parceiros, você é um alvo, assim como o Estado Islâmico ou a Al-Qaeda', afirmou o secretário de Defesa dos EUA, Pete Hegseth.",
+    "link": "https://www.bbc.com/portuguese/articles/ckge4n1427eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T02:09:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro declara R$ 8,2 milhões em bens ao TSE; vice informa R$ 565 mil",
+    "d": "Alfredo Gaspar e Flávio Bolsonaro em evento que anunciou o deputado como candidato a vice-presidente na chapa de Flávio, em Brasília Vittor Sales/Divulgação O senador Flávio Bolsonaro (PL) declarou R$ 8,2 milhões em b…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-alfredo-gaspar-bens-declarados-tse.ghtml",
+    "time": "2026-08-14T00:49:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE suspende sistema de filiação partidária após caso Flávio e tentativa de alterar partido de Lula",
+    "d": "O Tribunal Superior Eleitoral (TSE) suspendeu nesta quinta-feira (13) o processamento de novas filiações partidárias no Sistema de Filiação Partidária (FILIA) após identificar tentativas de alterar partidos do preside…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/tse-suspende-sistema-de-filiacao-partidaria-apos-identificar-tentativas-de-alterar-partidos-de-candidatos.ghtml",
+    "time": "2026-08-14T00:17:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena, concurso 3044: confira os números sorteados",
+    "d": "Mega-Sena, concurso 3044: confira os números sorteados O sorteio do concurso 3.044 da Mega-Sena foi realizado na noite desta quinta-feira (13), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/13/mega-sena-concurso-3044.ghtml",
+    "time": "2026-08-14T00:02:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "STF dá prazo de 24 meses para Congresso regular mineração em terras indígenas",
+    "d": "O Supremo Tribunal Federal (STF) fixou um prazo de 24 meses para que o Congresso regule a mineração em terras indígenas. O plenário do tribunal validou nesta quinta-feira (13) uma decisão do ministro Flávio Dino que r…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/13/stf-confirma-prazo-de-24-meses-para-congresso-regular-mineracao-em-terras-indigenas.ghtml",
+    "time": "2026-08-13T23:59:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Candidato a presidente pelo Democrata, Wilson Grassi declara R$ 50 milhões em bens; vice informa R$ 460 mil",
+    "d": "O candidato à Presidência pelo Democrata, Wilson Grassi, declarou R$ 50 milhões em bens à Justiça Eleitoral. Vice em sua chapa, Suêd Haidar declarou R$ 460 mil. Somados, os bens declarados pelos dois integrantes da ch…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/wilson-grassi-declara-r-50-milhoes-em-bens-vice-informa-r-460-mil.ghtml",
+    "time": "2026-08-13T23:58:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Processo de reciprocidade contra EUA 'não prejudica o desejo de negociar', diz o ministro Márcio Elias Rosa",
+    "d": "Brasil abre processo de reciprocidade contra EUA O ministro do Desenvolvimento, Indústria e Comércio Exterior, Márcio Elias Rosa, disse nesta quinta-feira (13) que o início do processo de reciprocidade contra os Estad…",
+    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/08/13/processo-de-reciprocidade-contra-eua-nao-prejudica-o-desejo-de-negociar-diz-ministro-marcio-elias-rosa.ghtml",
+    "time": "2026-08-13T23:16:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+    "d": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-13T23:06:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Tarifaço: Governo dá início a processo de reciprocidade contra os Estados Unidos",
+    "d": "Brasil inicia processo para adotar medidas de reciprocidade em resposta ao tarifaço americano O governo brasileiro informou nesta quinta-feira (13) que deu início ao processo para aplicar medidas de reciprocidade cont…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/13/tarifaco-governo-da-inicio-a-processo-de-reciprocidade-contra-os-estados-unidos.ghtml",
+    "time": "2026-08-13T22:36:50.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Nubank tem lucro líquido acima de US$ 1 bilhão pela primeira vez",
+    "d": "Logo do Nubank na Bolsa de Valores de Nova York. Brendan McDermid/ Reuters O Nubank informou nesta quinta-feira (13) que, pela primeira vez em sua história, registrou lucro líquido bilionário em um trimestre. Segundo…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/13/nubank-tem-lucro-liquido-acima-de-us-1-bilhao-pela-primeira-vez.ghtml",
+    "time": "2026-08-13T22:29:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "IFI do Senado estima perda de R$ 4,7 bi para saúde em 2027 com gatilho em projeto de lei; ministro da Fazenda nega que haja 'prejuízo'",
+    "d": "A Instituição Fiscal Independente (IFI), ligada ao Senado Federal, estimou nesta quinta-feira (13) que um \"gatilho\" incluído em um projeto de lei aprovado pelo Congresso Nacional vai gerar uma perda de R$ 4,7 bilhões…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/13/ifi-do-senado-estima-perda-de-r-47-bi-para-saude-em-2027-com-gatilho-em-projeto-de-lei-ministro-da-fazenda-nega-que-haja-prejuizo.ghtml",
+    "time": "2026-08-13T22:28:47.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
     "h": "H&M acelera expansão no Brasil e abre 4 lojas, incluindo estreia no Nordeste",
@@ -16,148 +272,12 @@
     "time": "2026-08-13T22:09:46.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro propõe 'tesouraço' de gastos, limite para decisões do STF, revisão da reforma tributária e app para atendimento a mulheres",
-    "d": "Flávio Bolsonaro com equipe durante live nesta quinta-feira (13) Reprodução/YouTube O candidato à Presidência Flávio Bolsonaro (PL) apresenta o plano de governo de sua chapa na disputa pelo Palácio do Planalto em uma…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
-    "time": "2026-08-13T22:06:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio Bolsonaro propõe destravar exploração de gás por fracking no Brasil",
-    "d": "Programa de governo prevê permitir produção de gás não convencional por fraturamento hidráulico e associa medida à busca por maior segurança energética e redução de custos; técnica é criticada por ambientalistas",
-    "link": "https://www.cnnbrasil.com.br/infra/flavio-bolsonaro-propoe-destravar-exploracao-de-gas-por-fracking-no-brasil/",
-    "time": "2026-08-13T22:04:14.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-    "d": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T22:02:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Renan diz ver “indícios de má-fé” em filiação de Flávio ao Missão",
-    "d": "Candidato do Missão à Presidência mencionou a possibilidade de Flávio \"querer fazer um barulho\" para dar holofote ao lançamento oficial de sua campanha",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/renan-diz-ver-indicios-de-ma-fe-em-filiacao-de-flavio-ao-missao/",
-    "time": "2026-08-13T21:58:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiros presos na Islândia: STJ é acionado para medidas diplomáticas",
-    "d": "Mandado de segurança busca medidas diplomáticas e consulares urgentes para libertar ativistas detidos desde julho de 2026",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasileiros-presos-na-islandia-stj-e-acionado-para-medidas-diplomatica/",
-    "time": "2026-08-13T21:58:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ministério da Saúde permite doação de sangue para maiores de 70 anos",
-    "d": "A medida vale a partir de outubro para quem já era doador e passa por avaliação médica para aumentar estoques",
-    "link": "https://www.cnnbrasil.com.br/saude/ministerio-da-saude-permite-doacao-de-sangue-para-maiores-de-70-anos/",
-    "time": "2026-08-13T21:57:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nelson Wilians: escritório emitiu notas de R$ 37 mi para empresa fantasma",
-    "d": "Segundo apurado pela reportagem, emissões eram feitas em um esquema de lavagem de dinheiro envolvendo jogos de azar online e evasão de divisas",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pb/nelson-wilians-escritorio-emitiu-notas-de-r-37-mi-para-empresa-fantasma/",
-    "time": "2026-08-13T21:56:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Estamos todos juntos”, diz Abel Ferreira sobre falha de Carlos Miguel",
-    "d": "Em coletiva, Abel Ferreira defendeu o goleiro Carlos Miguel após falha que permitiu gol do Cerro Porteño na partida contra o Palmeiras",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/estamos-todos-juntos-diz-abel-ferreira-sobre-falha-de-carlos-miguel/",
-    "time": "2026-08-13T21:47:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jardim rebate vaias do Cruzeiro: “Não posso dizer não ao Flamengo”",
-    "d": "Técnico português afirmou que planos iniciais eram ficar no Oriente Médio, mas que \"não se pode dizer não ao Flamengo\"",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/jardim-rebate-vaias-do-cruzeiro-nao-posso-dizer-nao-ao-flamengo/",
-    "time": "2026-08-13T21:45:06.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
     "d": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
     "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-13T21:43:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rafinha, do São Paulo, e dirigente do Grêmio são punidos pelo STJD",
-    "d": "Decisões de primeira instância ainda podem ser contestadas com recursos ao Tribunal",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/rafinha-do-sao-paulo-e-dirigente-do-gremio-sao-punidos-pelo-stjd/",
-    "time": "2026-08-13T21:40:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "BRB: Audiência no STF termina sem acordo, e GDF e União seguem negociando",
-    "d": "Esforço busca viabilizar acordo para um empréstimo de até R$ 6,6 bilhões para Banco de Brasília",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/brb-audiencia-no-stf-termina-sem-acordo-e-gdf-e-uniao-seguem-negociando/",
-    "time": "2026-08-13T21:40:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cristiano Ronaldo se reapresenta ao Al-Nassr com visual acaju; veja fotos",
-    "d": "Time saudita estreia na liga local no próximo sábado, contra a equipe do Al-Fateh",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-se-reapresenta-ao-al-nassr-com-visual-acaju-veja-fotos/",
-    "time": "2026-08-13T21:40:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA avaliam operações terrestres contra traficantes na América Latina",
-    "d": "Informações foram divulgadas pelo secretário de Defesa americano, Pete Hegseth, durante visita ao Panamá",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-avaliam-operacoes-terrestres-contra-traficantes-na-america-latina/",
-    "time": "2026-08-13T21:38:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em plano, Flávio fala em “buscar soluções eficazes contra sanções dos EUA”",
-    "d": "Candidato do PL promete atuação diplomática contra barreiras a produtos brasileiros e defende reaproximação com EUA, Argentina e Israel",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/em-plano-flavio-fala-em-buscar-solucoes-eficazes-contra-sancoes-dos-eua/",
-    "time": "2026-08-13T21:35:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TSE torna vereador inelegível por violência política de gênero pela primeira vez",
-    "d": "O Tribunal Superior Eleitoral (TSE) tornou, pela primeira vez, um político inelegível por violência política de gênero. Por unanimidade, os ministros condenaram o vereador de Nova Friburgo (RJ) José Sebastião Rabello,…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/13/tse-torna-vereador-inelegivel-por-violencia-politica-de-genero-pela-primeira-vez.ghtml",
-    "time": "2026-08-13T21:30:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em meio à crise, embaixador da Argentina no Brasil retorna a Buenos Aires; Mauro Vieira se reúne com brasileiro",
-    "d": "O embaixador da Argentina no Brasil, Daniel Raimondi, retornou a Buenos Aires e, com isso, a representação diplomática da Argentina em Brasília passa a ser comandada pela encarregada de negócios, María Cortés. O retor…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/13/em-meio-a-crise-embaixador-argentino-no-brasil-retorna-a-buenos-aires-mauro-vieira-se-reune-com-brasileiro.ghtml",
-    "time": "2026-08-13T21:21:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caiado compara casos de Lula e Bolsonaro e volta a defender anistia ao ex-presidente",
-    "d": "Ronaldo Caiado participa do Fórum Caminhos da Liberdade, nesta quinta-feira (13), em São Paulo. LEANDRO CHEMALLE/ESTADÃO CONTEÚDO O candidato à Presidência Ronaldo Caiado (PSD) afirmou nesta quinta-feira (13) que o pr…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/caiado-compara-casos-de-lula-e-bolsonaro.ghtml",
-    "time": "2026-08-13T21:13:06.000Z"
   },
   {
     "cat": "economia",
@@ -176,36 +296,12 @@
     "time": "2026-08-13T20:39:30.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro fala em 'valores inegociáveis' e defende reforma do judiciário em programa de governo",
-    "d": "O candidato Flávio Bolsonaro (PL) discursa no palco da convenção do partido neste sábado (25) Jean Carniel/Reuters A coligação de Flávio Bolsonaro (PL), com Alfredo Gaspar (PL) como vice-presidente, anunciou nesta qui…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/13/flavio-bolsonaro-fala-em-alternativa-liberal-conservadora-e-defende-reforma-do-judiciario.ghtml",
-    "time": "2026-08-13T20:30:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Auditoria revela indícios de irregularidades de R$ 4,5 milhões em programa estadual de enfrentamento à violência contra a mulher em 2025",
-    "d": "Uma auditoria realizada pelo governo interino do Rio de Janeiro na execução do Programa Empoderadas, de enfrentamento à violência contra a mulher, no ano passado, encontrou indícios de pagamentos indevidos e desvio de…",
-    "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/08/13/auditoria-revela-indicios-de-irregularidades-de-r-45-milhoes-em-programa-estadual-de-enfrentamento-a-violencia-contra-a-mulher-em-2025.ghtml",
-    "time": "2026-08-13T20:26:35.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
     "d": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
     "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-13T20:12:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Gustavo Mendanha (PRD) declara patrimônio de R$ 2,3 milhões; veja patrimônio de candidato ao Senado em Goiás",
-    "d": "Gustavo Mendanha (PRD) declara patrimônio de R$ 2,3 milhões; veja patrimônio de candidato ao Senado em Goiás Fábio Lima/O Popular O candidato do PRD ao Senado em Goiás Gustavo Mendanha declarou um patrimônio de R$ 2,3…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/13/gustavo-mendanha-prd-declara-patrimonio-de-r-23-milhoes-veja-patrimonio-de-candidato-ao-senado-em-goias.ghtml",
-    "time": "2026-08-13T20:12:05.000Z"
   },
   {
     "cat": "brasil",
@@ -232,14 +328,6 @@
     "time": "2026-08-13T20:07:21.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "OEA anuncia que irá observar as eleições do Brasil",
-    "d": "g1 em 1 Minuto: Guia do eleitor mostra principais informações e regras para as eleições A Organização dos Estados Americanos (OEA) vai enviar uma missão para acompanhar as eleições de 2026 no Brasil. Os observadores e…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/08/13/oea-anuncia-que-ira-observar-as-eleicoes-do-brasil.ghtml",
-    "time": "2026-08-13T19:52:43.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
@@ -248,28 +336,12 @@
     "time": "2026-08-13T19:46:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro volta a ser filiado ao PL; TSE cancelou vínculo com o Missão",
-    "d": "TSE diz que credenciado do Missão filiou Flávio ao partido e nega ataque hacker O senador Flávio Bolsonaro (PL-RJ) teve sua filiação ao PL restabelecida nesta quinta-feira (13), a volta do político ao Partido Liberal…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-volta-a-ser-filiado-ao-pl-tse-cancelou-vinculo-com-o-missao.ghtml",
-    "time": "2026-08-13T19:40:02.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Instagram ganha nova identidade visual após 10 anos; veja o que mudou",
     "d": "Instagram muda sua identidade visual pela primeira vez em 10 anos Divulgação/Instagram O Instagram anunciou nesta quinta-feira (13) uma renovação de sua identidade visual, que inclui uma nova tipografia, ajustes nas c…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/08/13/instagram-muda-logo-pela-1a-vez-em-10-anos-veja-como-ficou.ghtml",
     "time": "2026-08-13T19:25:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Endereço atribuído a Flávio Bolsonaro na filiação ao Missão foi 'Rua dos Bandidos' e 'Bairro dos Milicianos'",
-    "d": "Nunes Marques restabelece filiação de Flávio ao PL Um documento feito pela área de tecnologia do Missão e enviado à imprensa pelo partido mostra os dados usados pela pessoa, ainda desconhecida, que filiou Flávio Bolso…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/endereco-flavio-bolsonaro-filiacao-missao-rua-bandidos-bairro-milicianos.ghtml",
-    "time": "2026-08-13T19:15:01.000Z"
   },
   {
     "cat": "internacional",
@@ -281,35 +353,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Nunes Marques restabelece filiação de Flávio ao PL e determina exclusão do vínculo com o Missão",
-    "d": "Flávio aparece filiado ao Missão e não consegue registrar candidatura no TSE O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, determinou nesta quinta-feira (13) o restabelecimento da f…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/nunes-marques-determina-restabelecimento-da-filiacao-de-flavio-ao-pl-e-exclusao-do-vinculo-com-o-missao.ghtml",
-    "time": "2026-08-13T18:49:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-    "d": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T18:45:51.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Três homens executados no mesmo dia: o que explica o aumento na aplicação da pena de morte nos EUA",
     "d": "Apesar da crescente oposição à pena de morte, um Estado está por trás do aumento no número de execuções",
     "link": "https://www.bbc.com/portuguese/articles/c07r24928klo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-13T18:42:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin defende sigilo da fonte jornalística e indica que decisão de Moraes para investigar jornalista deve ser levada ao plenário do STF",
-    "d": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, defendeu nesta quinta-feira (13) a liberdade de imprensa, o direito constitucional ao sigilo da fonte e indicou que deve levar para análise pelo p…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/13/fachin-defende-sigilo-da-fonte-jornalistica-e-indica-que-decisao-de-moraes-para-investigar-jornalista-deve-ser-levada-ao-plenario-do-stf.ghtml",
-    "time": "2026-08-13T18:36:31.000Z"
   },
   {
     "cat": "economia",
@@ -318,22 +366,6 @@
     "d": "Governo prorroga Desenrola até 31 de agosto O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (13) que cerca de 800 mil pessoas foram excluídas de bets por terem aderido ao Desenrola 2.0. Pelas regra do…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/13/durigan-diz-que-cerca-de-800-mil-pessoas-foram-excluidas-de-bets-por-terem-aderido-ao-desenrola-20.ghtml",
     "time": "2026-08-13T18:20:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Jeep Avenger: 6 motivos para comprar e 6 motivos para não comprar o novo SUV de R$ 114.990",
-    "d": "Jeep lança o Avenger no Brasil Divulgação / Stellantis A Jeep apresentou o Avenger, novo SUV da marca, que começa a ser vendido com preço promocional de R$ 114.990. Com isso, o lançamento é o híbrido mais barato do Br…",
-    "link": "https://g1.globo.com/carros/noticia/2026/08/13/jeep-avenger-motivos-para-comprar.ghtml",
-    "time": "2026-08-13T17:40:45.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Canetas emagrecedoras viram febre: 1,3 milhão de pedidos movimentam R$ 2,3 bilhões em 6 meses",
-    "d": "Canetas emagrecedoras exigem mudança de hábitos e acompanhamento O número de pedidos online de medicamentos associados ao GLP-1, as famosas \"canetas emagrecedoras\" utilizadas no tratamento do diabetes e sobrepeso, cre…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/13/canetas-emagrecedoras-viram-febre-13-milhao-de-pedidos-movimentam-r-23-bilhoes-em-6-meses.ghtml",
-    "time": "2026-08-13T17:11:01.000Z"
   },
   {
     "cat": "brasil",
@@ -353,35 +385,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Internacional oferece trator à Justiça como garantia por dívida com empresário; entenda",
-    "d": "Vitória e Internacional avançam às quartas da Copa do Brasil Um trator agrícola avaliado em R$ 80.488 foi oferecido pelo Internacional, time de futebol do Rio Grande do Sul, como garantia em uma disputa judicial por u…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/13/internacional-oferece-trator-a-justica-como-garantia-por-divida-com-empresario-entenda.ghtml",
-    "time": "2026-08-13T16:50:29.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Câmara aprova projeto para converter milhas em dinheiro",
-    "d": "A Câmara dos Deputados aprovou nesta quinta-feira (13), em votação simbólica, um projeto para regulamentar programas de fidelidade, milhas e pontos. Um dos principais objetivos da proposta é criar regras para a conver…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/13/camara-aprova-projeto-para-converter-milhas-em-dinheiro.ghtml",
-    "time": "2026-08-13T16:46:18.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
     "d": "Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies Elon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, accord…",
     "link": "https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers",
     "time": "2026-08-13T16:31:14.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "OpenAI, do ChatGPT, diz que IA pode adicionar R$ 1 trilhão ao PIB do Brasil em três anos",
-    "d": "Inteligência artificial impulsiona produtividade nas empresas A adoção de inteligência artificial (IA) pode adicionar até R$ 986,7 bilhões ao Produto Interno Bruto (PIB) brasileiro entre 2027 e 2030, segundo estudo do…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/13/openai-do-chatgpt-diz-que-ia-pode-adicionar-r-1-trilhao-ao-pib-do-brasil-em-tres-anos.ghtml",
-    "time": "2026-08-13T16:12:24.000Z"
   },
   {
     "cat": "internacional",
@@ -457,27 +465,11 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-    "d": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin’s first visit to the disputed Kuril Isl…",
-    "link": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-    "time": "2026-08-13T12:56:57.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
     "d": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
     "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-13T11:10:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Travis Kelce faz primeiras revelações sobre casamento com Taylor Swift: 'Melhor noite da minha vida'",
-    "d": "Em entrevista à imprensa, Kelce chamou Swift de sua 'esposa' pela primeira vez e disse que era um 'sonho de infância' ter estado no Madison Square Garden.",
-    "link": "https://www.bbc.com/portuguese/articles/cm2gp034z7ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T10:00:58.000Z"
   },
   {
     "cat": "economia",
@@ -488,7 +480,7 @@
     "time": "2026-08-13T10:00:55.000Z"
   },
   {
-    "cat": "internacional",
+    "cat": "economia",
     "src": "The Guardian",
     "h": "South Korean airport becomes busiest in world for global traffic amid Iran war",
     "d": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea’s Incheon airport has become the world’s busiest airport for international passengers, i…",
@@ -497,19 +489,19 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-    "d": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T04:55:58.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
     "d": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hang…",
     "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
     "time": "2026-08-13T04:00:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+    "d": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-13T01:19:23.000Z"
   },
   {
     "cat": "internacional",
