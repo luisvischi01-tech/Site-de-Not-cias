@@ -1,19 +1,163 @@
 [
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 14 de agosto",
-    "d": "🧶Veja o fio: 1/Nova pesquisa Quaest mostra uma eleição ainda polarizada, mas não totalmente decidida. A distância entre Lula e Flávio caiu no 1º turno e no 2º turno. Vamos mergulhar nos resultados! 2/No cenário estim…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/fio-do-professor-felipe-nunes-analise-da-pesquisa-quaest-para-presidente-de-14-de-agosto.ghtml",
-    "time": "2026-08-14T21:40:39.000Z"
+    "src": "BBC News Brasil",
+    "h": "'Liberdade de imprensa não está em questão no Brasil', diz Cármen Lúcia",
+    "d": "Ministra do STF participa de evento promovido pela BBC World Service e BBC News Brasil que discute os desafios do combate à desinformação.",
+    "link": "https://www.bbc.com/portuguese/articles/cp3r67p3q7do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T22:48:29.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Apple desenvolve modelo próprio de IA para o mercado chinês",
-    "d": "Mudança de estratégia busca maior controle sobre a inteligência artificial generativa em seu segundo maior mercado global",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/apple-desenvolve-modelo-proprio-de-ia-para-o-mercado-chines/",
-    "time": "2026-08-14T21:29:23.000Z"
+    "h": "Corinthians: polícia recupera camisa de Yuri Alberto furtada do Memorial",
+    "d": "Item do atacante estava exposto no Parque São Jorge e será devolvido ao departamento cultural do clube",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corinthians-policia-recupera-camisa-de-yuri-alberto-furtada-do-memorial/",
+    "time": "2026-08-14T22:46:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é o bilionário brasileiro que comprou parte do Liverpool",
+    "d": "Durante seus estudos na Universidade de Harvard, Eduardo Saverin conheceu Mark Zuckerberg e investiu na criação do Facebook",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/quem-e-o-bilionario-brasileiro-que-comprou-parte-do-liverpool/",
+    "time": "2026-08-14T22:44:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ouro fecha em alta e encerra semana de ganhos com perspectivas de Fed",
+    "d": "Commodity para dezembro encerrou em alta de 038%, a US$ 4.437,3 por onça-troy",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-fecha-em-alta-e-encerra-semana-de-ganhos-com-perspectivas-de-fed/",
+    "time": "2026-08-14T22:44:32.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bitcoin opera em queda após dados de inflação mais brandos",
+    "d": "Criptomoeda operava em baixa de 0,70%, a US$ 62.885,86, enquanto o Ethereum tinha queda de 0,54%, a US$ 1.875,71",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-queda-apos-dados-de-inflacao-mais-brandos/",
+    "time": "2026-08-14T22:44:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Filipe Luís sofre derrota antes de estreia oficial pelo Monaco",
+    "d": "Clube francês perde para time recém-promovido à Premier League em último amistoso da pré-temporada",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/filipe-luis-sofre-derrota-antes-de-estreia-oficial-pelo-monaco/",
+    "time": "2026-08-14T22:43:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Petróleo fecha em alta devido aos ataques no Mar Vermelho",
+    "d": "Brent para outubro encerrou em alta de 1,67% (US$ 1,45), a US$ 88,52 o barril",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-fecha-em-alta-devido-aos-ataques-no-mar-vermelho/",
+    "time": "2026-08-14T22:41:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EQI Investimentos adquiri plataforma TC por R$ 3 milhões",
+    "d": "Com a transação, a corretora incorpora a tecnologia, a base de usuários cadastrados e os ativos digitais do ecossistema, ampliando sua atuação no segmento de trading",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/eqi-investimentos-conclui-aquisicao-da-plataforma-tc-por-r-3-milhoes/",
+    "time": "2026-08-14T22:39:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "ANP: preços do diesel, gasolina e gás de cozinha caem ante semana anterior",
+    "d": "Cidade de São Paulo foi a capital com os preços mais altos para os três combustíveis",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/anp-precos-do-diesel-gasolina-e-gas-de-cozinha-caem-ante-semana-anterior/",
+    "time": "2026-08-14T22:39:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Wall Street fecha queda com perspectivas para inflação e gastos com IA",
+    "d": "Dow Jones caiu 0,20%, S&P 500 fechou em baixa de 0,17% e Nasdaq recuou 0,28%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-queda-com-perspectivas-para-inflacao-e-gastos-com-ia/",
+    "time": "2026-08-14T22:38:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Futuro de Tifanny Abreu no vôlei fica ameaçado após decisão da CBV",
+    "d": "Jogadora do Osasco é a primeira atleta transgênero na elite do vôlei brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/volei/futuro-de-tifanny-abreu-no-volei-fica-ameacado-apos-decisao-da-cbv/",
+    "time": "2026-08-14T22:37:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Weverton nega interferência em investigação e fala em “forçação de barra”",
+    "d": "Senador afirma que relação com o ministro do STJ, Humberto Martins, era \"institucional\"",
+    "link": "https://www.cnnbrasil.com.br/politica/weverton-nega-interferencia-em-investigacao-e-fala-em-forcacao-de-barra/",
+    "time": "2026-08-14T22:35:14.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Pautas governistas devem ficar para depois das eleições",
+    "d": "Segundo apuração de Edilene Lopes ao CNN 360º, base governista acredita que, mesmo após reunião entre Lula e Alcolumbre, votações importantes só ocorrerão após o pleito de outubro",
+    "link": "https://www.cnnbrasil.com.br/politica/pautas-governistas-devem-ficar-para-depois-das-eleicoes/",
+    "time": "2026-08-14T22:19:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Bolsonaro pede autorização para deixar prisão domiciliar e ir ao dentista; nome indicado pela defesa é esposa de Flávio",
+    "d": "O ex-presidente Jair Bolsonaro pediu ao ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes para deixar a prisão domiciliar e ir ao dentista na próxima sexta-feira (21). A dentista indicada pela defesa do e…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/14/bolsonaro-pede-para-deixar-prisao-domiciliar-para-consulta-com-dentista.ghtml",
+    "time": "2026-08-14T22:19:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest, 1º turno: veja como está a disputa na divisão por posicionamento político",
+    "d": "Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado e Romeu Zema Ricardo Stuckert, Vittor Sales e João Cotta Pesquisa Quaest divulgada nesta sexta-feira (14) mostra a intenção de voto para presidente no 1º turno, de…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-14-agosto-posicionamento-politico.ghtml",
+    "time": "2026-08-14T22:13:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest, 1º turno: veja como está a disputa entre católicos e evangélicos",
+    "d": "Quaest: Católicos preferem Lula; evangélicos, Flávio Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado e Romeu Zema Ricardo Stuckert, Vittor Sales e João Cotta Pesquisa Quaest divulgada nesta sexta-feira (14) mostr…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-veja-como-esta-a-disputa-entre-catolicos-e-evangelicos.ghtml",
+    "time": "2026-08-14T22:07:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest, 1º turno: veja como está a disputa entre homens e mulheres",
+    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que o presidente Lula (PT) tem vantagem entre as mulheres, enquanto empata com Flávio Bolsonaro (PL) entre os homen…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-veja-como-esta-a-disputa-entre-homens-e-mulheres.ghtml",
+    "time": "2026-08-14T22:03:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Iure Castro Lemos (Cidadania) declara patrimônio de R$ 3,2 milhões; veja patrimônio de candidato ao Senado em Goiás",
+    "d": "O procurador-geral da Alego, Iure de Castro, foi confirmado candidato ao Senado em Goiás Reprodução/ Perfil do Instagram de Iure de Castro O candidato ao Senado em Goiás pelo Cidadania, Iure Castro Lemos, declarou um…",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/14/iure-castro-lemos-cidadania-declara-patrimonio-de-r-32-milhoes-veja-patrimonio-de-candidato-ao-senado-em-goias.ghtml",
+    "time": "2026-08-14T21:57:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás na Foz do Amazonas",
+    "d": "Petrobras Foto Divulgação A Petrobras anunciou nesta sexta-feira (14) que encontrou indícios de petróleo e gás natural em um poço exploratório na Bacia da Foz do Amazonas, no litoral do Amapá. A descoberta indica que…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/14/petrobras-anuncia-descoberta-de-hidrocarbonetos-em-poco-exploratorio-na-foz-do-amazonas.ghtml",
+    "time": "2026-08-14T21:56:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 14 de agosto",
+    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% 🧶Veja o fio: 1/Nova pesquisa Quaest mostra uma eleição ainda polarizada, mas não totalmente decidida. A distância entre Lula e Flávio caiu no 1º turno e no 2º turno. Vamo…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/fio-do-professor-felipe-nunes-analise-da-pesquisa-quaest-para-presidente-de-14-de-agosto.ghtml",
+    "time": "2026-08-14T21:40:39.000Z"
   },
   {
     "cat": "brasil",
@@ -40,100 +184,12 @@
     "time": "2026-08-14T21:25:38.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Irã diz que não vai se intimidar por ameaça dos EUA sobre Estreito de Ormuz",
-    "d": "Vice-ministro das Relações Exteriores afirmou que via navegável será aberta ou fechada sob autoridade iraniana",
-    "link": "https://www.cnnbrasil.com.br/internacional/ira-diz-que-nao-vai-se-intimidar-por-ameaca-dos-eua-sobre-estreito-de-ormuz/",
-    "time": "2026-08-14T21:25:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PM recupera R$ 800 mil em carga de medicamentos e produtos hospitalares",
-    "d": "Homem foi preso em flagrante em Campinas (SP), enquanto descarregava os itens do caminhão para colocar em um ônibus",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/pm-recupera-r-800-mil-em-carga-de-medicamentos-e-produtos-hospitalares/",
-    "time": "2026-08-14T21:23:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "São Paulo anuncia a renovação de contrato de Calleri; veja detalhes",
-    "d": "Antigo vínculo do atacante argentino com o clube era válido até 31 de dezembro de 2026",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-anuncia-a-renovacao-de-contrato-de-calleri-veja-detalhes/",
-    "time": "2026-08-14T21:21:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Yesteryear”: vendas do livro começam na próxima segunda-feira (17)",
-    "d": "História já tem adaptação confirmada com Anne Hathaway no papel principal",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/yesteryear-vendas-do-livro-comecam-na-proxima-segunda-feira-17/",
-    "time": "2026-08-14T21:21:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "João Fonseca conhece adversário na estreia do Masters 1000 de Cincinnati",
-    "d": "Brasileiro enfrenta o holandês Botic van de Zandschulp na segunda rodada do torneio, neste domingo (16), em horário ainda a ser definido",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-conhece-adversario-na-estreia-do-masters-1000-de-cincinnati/",
-    "time": "2026-08-14T21:20:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest: governo Lula é desaprovado por 48% dos brasileiros; 46% aprovam",
-    "d": "Foram ouvidos 2.004 eleitores entre os dias 10 e 13 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/politica/quaest-governo-lula-e-desaprovado-por-48-dos-brasileiros-46-aprovam/",
-    "time": "2026-08-14T21:19:17.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Análise: Reciprocidade nas tarifas não será uma retaliação aos EUA",
-    "d": "Governo brasileiro formaliza processo de reciprocidade contra tarifas americanas, mas assessores de Lula evitam tom belicoso nas negociações; a analista de Política da CNN Clarissa Oliveira comenta o tema ao Bastidore…",
-    "link": "https://www.cnnbrasil.com.br/politica/analise-reciprocidade-nas-tarifas-nao-sera-uma-retaliacao-aos-eua/",
-    "time": "2026-08-14T21:17:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Liberdade de imprensa não está em questão no Brasil', diz Cármen Lúcia",
-    "d": "Ministra do STF participa de evento promovido pela BBC World Service e BBC News Brasil que discute os desafios do combate à desinformação.",
-    "link": "https://www.bbc.com/portuguese/articles/cp3r67p3q7do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T21:15:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mendonça reafirma apoio a código de ética no STF",
-    "d": "Ministro do Supremo disse estar à disposição do presidente da Corte para a elaboração do manual de conduta",
-    "link": "https://www.cnnbrasil.com.br/politica/mendonca-reafirma-apoio-a-codigo-de-etica-no-stf/",
-    "time": "2026-08-14T21:11:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trem da Linha 8-Diamante volta a descarrilar em São Paulo",
-    "d": "Caso aconteceu entre as estações Osasco e Comandante Sampaio, na tarde desta sexta-feira (14)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trem-da-linha-8-diamante-volta-a-descarrilar-em-sao-paulo/",
-    "time": "2026-08-14T21:11:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest: Lula tem 43%, e Flávio, 40% no 2º turno",
-    "d": "Foram ouvidos 2.004 eleitores entre os dias 10 e 13 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-lula-tem-43-e-flavio-40-no-2o-turno/",
-    "time": "2026-08-14T21:08:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bruno Henrique vira dúvida no Flamengo para enfrentar o Mirassol",
-    "d": "Jogador segue com dores no tornozelo após o jogo contra o Cruzeiro, pela Libertadores",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/bruno-henrique-vira-duvida-no-flamengo-para-enfrentar-o-mirassol/",
-    "time": "2026-08-14T21:07:57.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+    "d": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the preside…",
+    "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+    "time": "2026-08-14T21:05:47.000Z"
   },
   {
     "cat": "internacional",
@@ -146,7 +202,7 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Quaest: 46% aprovam e 48% desaprovam governo Lula",
+    "h": "Quaest: 48% desaprovam e 46% aprovam governo Lula",
     "d": "Presidente Lula discursa durante convenção do PT na Bahia, em 1º de agosto Ricardo Stuckert/Presidência Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que a percepção dos eleitores sobre o governo Lula. Aprov…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-avaliacao-governo-14-agosto.ghtml",
     "time": "2026-08-14T21:02:01.000Z"
@@ -155,7 +211,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest, 2º turno: Lula, 43%; Flávio Bolsonaro, 40%",
-    "d": "Lula (PT) e Flávio Bolsonaro (PL) Ricardo Stuckert e Vittor Sales Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que o presidente Lula (PT) tem 43% das intenções de voto em um eventual 2º turno contra Flávio…",
+    "d": "Quaest: Lula tem 43% no 2° turno; Flávio soma 40% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que o presidente Lula (PT) tem 43% das intenções de voto em um eventual 2º turno contra Flávio Bolsonaro (PL),…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-presidente-2o-turno-14-agosto.ghtml",
     "time": "2026-08-14T21:01:41.000Z"
   },
@@ -163,7 +219,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest, 1º turno: Lula, 38%; Flávio Bolsonaro, 31%; Renan Santos, 4%;  Caiado, 4%; Augusto Cury, 2%; e Zema, 2%",
-    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra Lula (PT) com 38% das intenções de voto no 1º turno, e Flávio Bolsonaro (PL), com 31%. Veja os números da pesquisa…",
+    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra Lula (PT) com 38% das intenções de voto no 1º turno, e Flávio Bolsonaro (PL), com 31%. A pesquisa é a primeira enco…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-presidente-1o-turno-14-agosto.ghtml",
     "time": "2026-08-14T21:00:14.000Z"
   },
@@ -182,22 +238,6 @@
     "d": "Após aviso da polícia, Discord demorou 25 minutos para derrubar live que vitimou menina O Discord foi avisado pela Polícia Civil de São Paulo e demorou 25 minutos para derrubar a sala em que ocorria a live que vitimou…",
     "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/14/discord-aviso-policia-sp-live.ghtml",
     "time": "2026-08-14T20:20:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TSE discutirá em plenário decisão de Mendonça que mandou governo informar gastos com publicidade",
-    "d": "Sessão plenária do Tribunal Superior Eleitoral desta terça-feira (30). Reila Silva/TSE A decisão do ministro André Mendonça que determinou que o governo Lula (PT) informe seus gastos com publicidade entre 2023 e 2026…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/tse-discutira-em-plenario-decisao-de-mendonca-que-mandou-governo-informar-gastos-com-publicidade.ghtml",
-    "time": "2026-08-14T20:17:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Discord: em quatro anos, ao menos sete operações policiais envolveram o uso da plataforma, diz Ministério da Justiça",
-    "d": "Discord tem até esta sexta (14) para concluir respostas Entre 2023 e 2026, ao menos sete operações policiais envolveram o uso da plataforma Discord. É o que mostra documento do Ministério da Justiça (MJ). \"O CIBERLAB…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/14/discord-em-tres-anos-ao-menos-sete-operacoes-policiais-envolveram-o-uso-da-plataforma-diz-ministerio-da-justica.ghtml",
-    "time": "2026-08-14T20:09:24.000Z"
   },
   {
     "cat": "economia",
@@ -222,22 +262,6 @@
     "d": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
     "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T19:05:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Brasil notifica governo dos EUA sobre início de processo de reciprocidade contra tarifas",
-    "d": "O governo dos Estados Unidos foi notificado nesta sexta-feira (14) sobre a abertura do processo de para aplicar medidas de reciprocidade por conta das tarifas impostas pelo governo norte-americano a produtos brasileir…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/14/governo-dos-eua-e-notificado-sobre-abertura-de-processo-de-reciprocidade-pelo-brasil.ghtml",
-    "time": "2026-08-14T18:55:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Bandeira de Lula contra tarifaço e pelo PIX, soberania é usada por equipe de Flávio para tratar de segurança pública",
-    "d": "Bandeira do presidente Lula (PT) na campanha pela reeleição, a soberania entrou no radar do candidato e senador Flávio Bolsonaro (PL). Bandeira de Lula contra tarifaço e pelo PIX, soberania é usada por equipe de Flávi…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/bandeira-de-lula-contra-tarifaco-e-pelo-pix-soberania-e-usada-por-equipe-de-flavio-para-tratar-de-seguranca-publica.ghtml",
-    "time": "2026-08-14T18:47:18.000Z"
   },
   {
     "cat": "internacional",
@@ -270,14 +294,6 @@
     "d": "Imigrantes menores de idade fazem fila em frente a delegacia de Ceuta para serem registradas REUTERS/Violeta Santos Moura Neste fim de semana, Mohammed quer ir do Marrocos para o enclave espanhol vizinho de Ceuta, no…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/08/14/instagram-impulsiona-rede-de-golpes-que-promete-ajudar-migrantes-a-chegar-a-ceuta-por-ate-r-28-mil.ghtml",
     "time": "2026-08-14T17:35:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Gustavo Gayer (PL) declara patrimônio de R$ 908 mil; veja patrimônio de candidato ao Senado em Goiás",
-    "d": "Deputado Gustavo Gayer (PL - GO) Reprodução/Câmara dos Deputados O candidato do PL ao Senado Federal em Goiás, Gustavo Gayer, declarou R$ 908.561,00 mil em bens à Justiça Eleitoral. Os dados estão no pedido de registr…",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/08/14/gustavo-gayer-pl-declara-patrimonio-de-r-908-mil-veja-patrimonio-de-candidato-ao-senado-em-goias.ghtml",
-    "time": "2026-08-14T17:27:55.000Z"
   },
   {
     "cat": "economia",
@@ -368,14 +384,6 @@
     "time": "2026-08-14T15:50:24.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
-    "d": "Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001 Andy Burnham looks to cut new EV sales targets Insurer Aviva said it is helping customers affected by t…",
-    "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
-    "time": "2026-08-14T15:41:04.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Deepfake decide eleição? O que revelam 6 exemplos de outros países",
@@ -446,14 +454,6 @@
     "d": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
     "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T12:19:21.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar vai a R$ 5,21 e Ibovespa tem 9ª queda seguida à espera de pesquisa eleitoral",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,52% nesta sexta-feira (14), a R$ 5,2194, após chegar a R$ 5,2489 na máxima do pregão. Já o Ibovespa, principal índice da bolsa brasileira, r…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/14/dolar-ibovespa.ghtml",
-    "time": "2026-08-14T12:16:49.000Z"
   },
   {
     "cat": "brasil",
