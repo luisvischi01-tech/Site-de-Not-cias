@@ -1,5 +1,165 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A causa do acidente em que homem quase foi sugado para fora de avião pela janela, segundo relatório preliminar",
+    "d": "Relatório preliminar de investigadores americanos afirma que uma das pás de uma turbina se partiu durante um voo da Grécia para a Alemanha no mês passado.",
+    "link": "https://www.bbc.com/portuguese/articles/c70gy6l9xj1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T09:22:50.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "BBC News Brasil",
+    "h": "Ele contou ao ChatGPT que queria matar o filho e foi preso — conversas com IA podem ser prova de crime no Brasil?",
+    "d": "Mensagens trocadas com ferramenta de IA estão no centro da investigação, mas especialistas questionam os limites desse tipo de evidência e a importância de analisar o contexto completo das conversas.",
+    "link": "https://www.bbc.com/portuguese/articles/c8dn1l7vr6ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T08:51:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Israel alertou EUA sobre planos do Irã para matar Trump, diz agência",
+    "d": "Avisos não verificados indicavam intenção de assassinar o presidente dos EUA com atirador ou faca em evento público",
+    "link": "https://www.cnnbrasil.com.br/internacional/israel-alertou-eua-sobre-planos-do-ira-para-matar-trump-diz-agencia/",
+    "time": "2026-08-14T08:49:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US says dozens of countries helped China dodge Trump's tariffs",
+    "d": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T08:39:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Stolen Matisse artworks recovered by police in Brazil",
+    "d": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T08:34:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "SP: Caiado pede engajamento de empresários e distribui boletos de R$ 20 mil",
+    "d": "Candidato do PSD ao Planalto defendeu reformas, mudanças nas emendas parlamentares e participação de adversários em debates presidenciais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-evento-empresarios-sp/",
+    "time": "2026-08-14T08:30:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Renault Boreal Techno: saiba os prós e contras do SUV médio",
+    "d": "Percorremos mais de 1.500 quilômetros com o SUV médio da Renault, ao longo de uma semana, onde a maior parte do trajeto foi realizada em rodovia",
+    "link": "https://www.cnnbrasil.com.br/auto/renault-boreal-techno-saiba-os-pros-e-contras-do-suv-medio/",
+    "time": "2026-08-14T08:30:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caças da Otan abatem drone que entrou no espaço aéreo da Letônia",
+    "d": "Forças Armadas da Letônia não forneceram imediatamente detalhes sobre o projétil ou sua origem",
+    "link": "https://www.cnnbrasil.com.br/internacional/cacas-da-otan-abatem-drone-que-entrou-no-espaco-aereo-da-letonia/",
+    "time": "2026-08-14T08:28:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Workslop': os trabalhos malfeitos por IA que geram retrabalho, roubam tempo e custam milhões às empresas",
+    "d": "Workslop pode ser traduzido livremente como \"trabalho desleixado\". Pexels A pressa das empresas em incorporar ferramentas de inteligência artificial ao dia a dia dos trabalhadores criou um novo problema: o relatório c…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/14/workslop-como-trabalhos-malfeitos-por-ia-estao-roubando-tempo-e-dinheiro-das-empresas.ghtml",
+    "time": "2026-08-14T08:04:08.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "JBS destaca mercado interno e diversificação de vendas no Brasil",
+    "d": "Companhia amplia iniciativas comerciais com grandes redes e busca equilibrar vendas domésticas e exportações de carne bovina",
+    "link": "https://www.cnnbrasil.com.br/agro/jbs-destaca-mercado-interno-e-diversificacao-de-vendas-no-brasil/",
+    "time": "2026-08-14T08:00:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlético-MG x Grêmio: horário e onde assistir ao Brasileirão Feminino",
+    "d": "Equipes se enfrentam nesta sexta (14) em situações opostas no campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mg-x-gremio-horario-e-onde-assistir-ao-brasileirao-feminino/",
+    "time": "2026-08-14T08:00:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Não tira a maquiagem para dormir? Veja por que você não deve fazer isso",
+    "d": "Dormir com resíduos de maquiagem pode favorecer o surgimento de problemas que vão desde acne até irritações e envelhecimento precoce",
+    "link": "https://www.cnnbrasil.com.br/style/beleza/nao-tira-a-maquiagem-para-dormir-veja-porque-voce-nao-deve-fazer-isso/",
+    "time": "2026-08-14T08:00:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sport x Londrina: horário e onde assistir ao Brasileirão Série B",
+    "d": "Equipes se enfrentam nesta sexta-feira (14), pela 22ª rodada da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sport-x-londrina-horario-e-onde-assistir-ao-brasileirao-serie-b/",
+    "time": "2026-08-14T08:00:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Bernardo x Botafogo-SP: horário e onde assistir ao Brasileirão Série B",
+    "d": "Equipes se enfrentam nesta sexta-feira (14), no Primeiro de Maio, pela 22ª rodada do torneio",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-bernardo-x-botafogo-sp-horario-e-onde-assistir-ao-brasileirao-serie-b/",
+    "time": "2026-08-14T07:45:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "STF começa a julgar hoje regras para pagamento de R$ 6,1 bi a poupadores",
+    "d": "Plenário Virtual analisa pedido para dispensar adesão individual ao acordo sobre perdas provocadas por planos econômicos",
+    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/stf-comeca-a-julgar-hoje-regras-para-pagamento-de-r-61-bi-a-poupadores/",
+    "time": "2026-08-14T07:45:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ponte Preta x Náutico: horário e onde assistir ao Brasileirão Série B",
+    "d": "Equipes se enfrentam nesta sexta-feira (14), em Campinas, pela 22ª rodada do torneio",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/ponte-preta-x-nautico-horario-e-onde-assistir-ao-brasileirao-serie-b/",
+    "time": "2026-08-14T07:30:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Demanda de energia de data centers dispara na CPFL, mas rede trava expansão",
+    "d": "Alta de 35,8% no segundo trimestre reforça avanço do setor, mas limitações da infraestrutura elétrica impedem novas conexões e restringem o potencial de expansão",
+    "link": "https://www.cnnbrasil.com.br/infra/demanda-de-energia-de-data-centers-dispara-na-cpfl-mas-rede-trava-expansao/",
+    "time": "2026-08-14T07:30:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'Unprecedented' rain in Japan kills six people",
+    "d": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-14T07:00:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Peixes têm 'impressão digital' que revela de onde vieram, mostra estudo; entenda",
+    "d": "Tainha Conservação Internacional/Átila Ximenes Peixes também têm impressão digital. É o que mostrou uma pesquisa da Empresa Brasileira de Pesquisa Agropecuária (Embrapa), feita com a tainha brasileira. Os pesquisadore…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/14/peixes-tem-impressao-digital-que-revela-de-onde-vieram-mostra-estudo-entenda.ghtml",
+    "time": "2026-08-14T06:00:47.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Como o super El Niño pode afetar a América Latina, principal região exportadora de alimentos do mundo",
+    "d": "Plantação de soja pronta para colheita em Roraima Raquel Maia/Amazônia Agro A América Latina se prepara para o que especialistas avaliam poder ser o El Niño mais forte já registrado, o que levanta dúvidas sobre os imp…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/14/como-o-super-el-nino-pode-afetar-a-america-latina-principal-regiao-exportadora-de-alimentos-do-mundo.ghtml",
+    "time": "2026-08-14T06:00:13.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘Unprecedented’ rain kills four in Japan as thousands stranded at airport",
@@ -14,30 +174,6 @@
     "d": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centre Orangutans rescued from wildlife traffickers face a new threat from the record number of fires that have brok…",
     "link": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
     "time": "2026-08-14T04:00:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hugo Souza comenta racismo de argentinos: “Parece comum, e não pode ser”",
-    "d": "Goleiro corintiano foi alvo de insultos racistas na partida contra o Rosario Central nesta quinta-feira, pela Libertadores",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/hugo-souza-comenta-racismo-de-argentinos-parece-comum-e-nao-pode-ser/",
-    "time": "2026-08-14T03:20:14.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US says dozens of countries helped China dodge Trump's tariffs",
-    "d": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T03:09:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trem descarrila perto da Estação Júlio Prestes em São Paulo",
-    "d": "Veículo da Linha 8-Diamante estava fora de serviço e sem passageiros, segundo a ViaMobilidade",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trem-descarrila-perto-da-estacao-julio-prestes-em-sao-paulo/",
-    "time": "2026-08-14T03:02:38.000Z"
   },
   {
     "cat": "brasil",
@@ -86,86 +222,6 @@
     "d": "Ronaldo Caiado (à esq.) e Gilberto Kassab em encontro com empresários Júlia Zaremba/GloboNews O presidente do PSD e candidato a vice-presidente, Gilberto Kassab, afirmou nesta quinta (13) que, na avaliação dele, os pa…",
     "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/14/kassab-centrao-lula-flavio-bolsonaro.ghtml",
     "time": "2026-08-14T03:00:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Veja os melhores momentos de Cienciano 6 x 1 Botafogo pela Sul-Americana",
-    "d": "Clube carioca sofreu goleada histórica nas oitavas de final da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-os-melhores-momentos-de-cienciano-6-x-1-botafogo-pela-sul-americana/",
-    "time": "2026-08-14T02:59:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sátira é a melhor maneira de responder ultradireita europeia, diz professor",
-    "d": "Vinícius Rodrigues Vieira analisa candidatura do comediante \"Cara de Lata de Lixo\" contra Nigel Farage no Reino Unido",
-    "link": "https://www.cnnbrasil.com.br/internacional/satira-e-a-melhor-maneira-de-responder-ultradireita-europeia-diz-professor/",
-    "time": "2026-08-14T02:40:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians segura a pressão do Rosario Central e empata pela Libertadores",
-    "d": "Time alvinegro teve um jogador expulso no segundo tempo, mas conseguiu segurar a igualdade",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-segura-a-pressao-do-rosario-central-e-empata-pela-libertadores/",
-    "time": "2026-08-14T02:35:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Botafogo leva baile na altitude e é goleado pelo Cienciano na Sul-Americana",
-    "d": "Clube carioca perde por 6 a 1 e se complica nas oitavas de final da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-leva-baile-na-altitude-e-e-goleado-pelo-cienciano-na-sul-americana/",
-    "time": "2026-08-14T02:30:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jana Nelson: EUA focam em convencer México a permitir ataques em território",
-    "d": "Ao WW, a ex-subsecretária de Defesa para a América Latina dos EUA Jana Nelson afirma que convencer o México é o \"grande prêmio\" que o Pentágono busca com sua estratégia na América Latina",
-    "link": "https://www.cnnbrasil.com.br/internacional/jana-nelson-eua-focam-em-convencer-mexico-a-permitir-ataques-em-territorio/",
-    "time": "2026-08-14T02:27:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hugo Souza denuncia, e árbitro ativa protocolo antirracismo na Libertadores",
-    "d": "Goleiro do Corinthians relatou uma situação vinda da torcida durante a partida contra o Rosário Central, e arbitragem adotou procedimento previsto para casos de suspeita de discriminação",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/hugo-souza-denuncia-e-arbitro-ativa-protocolo-antirracismo-na-libertadores/",
-    "time": "2026-08-14T02:17:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Venezuela enfrenta mais cortes de energia e água com aproximação do El Niño",
-    "d": "Com seca se aproximando, população espera cortes generalizados na eletricidade e menor abastecimento hídrico",
-    "link": "https://www.cnnbrasil.com.br/internacional/venezuela-enfrenta-mais-cortes-de-energia-e-agua-com-aproximacao-do-el-nino/",
-    "time": "2026-08-14T02:13:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Moura Dubeux deve adotar cautela de olho no cenário macro, diz CEO",
-    "d": "Construtora registrou lucro líquido de R$ 174 mi no 2º trimestre de 2026, alta de 44%; CEO aponta postura mais conservadora",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/moura-dubeux-deve-adotar-cautela-de-olho-no-cenario-macro-diz-ceo/",
-    "time": "2026-08-14T02:12:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Grêmio anuncia Danilo Barbosa, ex-Palmeiras e Botafogo",
-    "d": "Meio-campista estava no Al-Ula, da Arábia Saudita, e assinou contrato com o Tricolor até 2028",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-anuncia-danilo-barbosa-ex-palmeiras-e-botafogo/",
-    "time": "2026-08-14T02:09:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Meta é levar 5G a todo Nordeste até 2030, diz presidente da Brisanet",
-    "d": "Operadora registrou lucro líquido de R$ 26,1 milhões no 2º trimestre, alta de 320% na comparação anual",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/meta-e-levar-5g-a-todo-nordeste-ate-2030-diz-presidente-da-brisanet/",
-    "time": "2026-08-14T02:09:32.000Z"
   },
   {
     "cat": "brasil",
@@ -312,14 +368,6 @@
     "time": "2026-08-13T20:10:42.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Empréstimo do BRB: após reunião tensa no STF, governo do DF e órgãos federais decidem manter negociação de R$ 6,6 bilhões",
-    "d": "Governadora do Distrito Federal, Celina Leão, em audiência de conciliação no STF sobre o empréstimo do BRB Gustavo Moreno/STF Terminou sem avanços concretos a nova reunião de conciliação no Supremo Tribunal Federal (S…",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/reuniao-conciliacao-emprestimo-brb-celina-durigan.ghtml",
-    "time": "2026-08-13T20:08:46.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Filha rebelde de Fidel Castro fala da relação com pai: 'Ele me deu um boneco vestido como ele'",
@@ -336,36 +384,12 @@
     "time": "2026-08-13T19:46:27.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Instagram ganha nova identidade visual após 10 anos; veja o que mudou",
-    "d": "Instagram muda sua identidade visual pela primeira vez em 10 anos Divulgação/Instagram O Instagram anunciou nesta quinta-feira (13) uma renovação de sua identidade visual, que inclui uma nova tipografia, ajustes nas c…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/13/instagram-muda-logo-pela-1a-vez-em-10-anos-veja-como-ficou.ghtml",
-    "time": "2026-08-13T19:25:18.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Family of Irish plane crash victim awarded $29m in damages",
-    "d": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-    "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T19:08:49.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Três homens executados no mesmo dia: o que explica o aumento na aplicação da pena de morte nos EUA",
     "d": "Apesar da crescente oposição à pena de morte, um Estado está por trás do aumento no número de execuções",
     "link": "https://www.bbc.com/portuguese/articles/c07r24928klo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-13T18:42:31.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Durigan diz que cerca de 800 mil pessoas foram excluídas de bets por terem aderido ao Desenrola 2.0",
-    "d": "Governo prorroga Desenrola até 31 de agosto O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (13) que cerca de 800 mil pessoas foram excluídas de bets por terem aderido ao Desenrola 2.0. Pelas regra do…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/13/durigan-diz-que-cerca-de-800-mil-pessoas-foram-excluidas-de-bets-por-terem-aderido-ao-desenrola-20.ghtml",
-    "time": "2026-08-13T18:20:41.000Z"
   },
   {
     "cat": "brasil",
@@ -424,14 +448,6 @@
     "time": "2026-08-13T15:17:13.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Decisão de Moraes sobre fonte de jornalista: entidades internacionais veem 'precedente perigoso' e 'grave ameaça' à imprensa no Brasil",
-    "d": "Entidades internacionais de defesa da liberdade de imprensa criticam a medida autorizada pelo ministro em 11 de agosto e alertam para riscos ao sigilo das fontes jornalísticas",
-    "link": "https://www.bbc.com/portuguese/articles/cj9dpdy98g2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T15:15:10.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
@@ -454,14 +470,6 @@
     "d": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republic over allegatio…",
     "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
     "time": "2026-08-13T14:21:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Lula sem 'frente ampla' e Flávio isolado: por que líderes nas pesquisas têm apoio reduzido nesta eleição",
-    "d": "Grandes partidos do Centrão optaram por neutralidade na disputa presidencial, de olho na disputa pelo Congresso.",
-    "link": "https://www.bbc.com/portuguese/articles/cy4kxjg99k0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T14:14:03.000Z"
   },
   {
     "cat": "internacional",
@@ -494,14 +502,6 @@
     "d": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hang…",
     "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
     "time": "2026-08-13T04:00:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-    "d": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-13T01:19:23.000Z"
   },
   {
     "cat": "internacional",
