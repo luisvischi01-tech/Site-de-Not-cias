@@ -1,6 +1,94 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Discord responde à ANPD e diz que atua para 'ambiente digital saudável'",
+    "d": "O Discord enviou à Agência Nacional de Proteção de Dados (ANPD), na noite desta sexta-feira (14), os esclarecimentos solicitados pela agência após a determinação de suspensão das transmissões ao vivo da plataforma no…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/15/discord-responde-a-anpd.ghtml",
+    "time": "2026-08-15T11:33:02.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+    "d": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T11:24:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CEO da CPFL Energia: Conseguimos entregar resultado robusto no 2º tri",
+    "d": "Executivo destaca resultado robusto, crescimento de data centers e desafios climáticos na operação da companhia",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/ceo-da-cpfl-energia-conseguimos-entregar-resultado-robusto-no-2o-tri/",
+    "time": "2026-08-15T11:20:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Lula tem 47% entre os católicos; Flávio, 43% entre os evangélicos",
+    "d": "Pesquisa foi realizada entre os dias 10 e 13 de agosto; intervalo de confiança é de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-lula-tem-47-entre-os-catolicos-flavio-43-entre-os-evangelicos/",
+    "time": "2026-08-15T11:19:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Defesa Civil emite alerta severo para chuva forte, raios e ventos em SP",
+    "d": "Mensagem foi recebida nos celulares de moradores da capital paulista por volta das 8h05",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-chuva-forte-raios-e-ventos-em-sp/",
+    "time": "2026-08-15T11:11:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Para 33%, violência é a principal preocupação dos eleitores",
+    "d": "Foram ouvidos 2.004 entre os dias 10 e 13 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/politica/quaest-para-33-violencia-e-a-principal-preocupacao-dos-eleitores/",
+    "time": "2026-08-15T11:10:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "De volta ao Morumbis, São Paulo tenta acabar com jejum na temporada",
+    "d": "Tricolor não consegue vencer uma partida desde maio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/de-volta-ao-morumbis-sao-paulo-tenta-acabar-com-jejum-na-temporada/",
+    "time": "2026-08-15T11:00:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Veja quem é Josh Kushner, bilionário que comprou os Lakers",
+    "d": "Transação registra a maior venda da história para uma equipe esportiva",
+    "link": "https://www.cnnbrasil.com.br/esportes/basquete/veja-quem-e-josh-kushner-bilionario-que-comprou-os-lakers/",
+    "time": "2026-08-15T11:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tailândia reforça o controle de armas após ataque a tiros em uma escola",
+    "d": "Primeiro-ministro ordena revisão de licenças e suspensão de programas de desconto após tragédia com adolescente de 14 anos",
+    "link": "https://www.cnnbrasil.com.br/internacional/tailandia-reforca-o-controle-de-armas-apos-ataque-a-tiros-em-uma-escola/",
+    "time": "2026-08-15T11:00:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Edifício desaba e deixa quatro vítimas em São Bernardo do Campo (SP)",
+    "d": "Até o momento, três pessoas já foram socorridas e uma ainda está sob os escombros",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/edificio-desaba-e-deixa-quatro-vitimas-em-sao-bernardo-do-campo-sp/",
+    "time": "2026-08-15T10:58:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+    "d": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T10:56:22.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Patinho Feio, Cobra e clone do Mac: a pré-história da tecnologia 100% brasileira de computadores",
     "d": "No Dia da Informática, relembre como a indústria viveu seu auge em décadas passadas, após anos de pesquisas em universidades e nas Forças Armadas.",
@@ -10,8 +98,8 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
-    "d": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing w…",
+    "h": "Powerful earthquake kills at least 38 in eastern Indonesia",
+    "d": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake struck eastern Indonesia early on Saturday, killing at least 38 people, causing…",
     "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
     "time": "2026-08-15T10:24:36.000Z"
   },
@@ -49,30 +137,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Crise Brasil-EUA expõe divergências entre política e economia no governo",
-    "d": "Ala política defende tom duro contra Trump com vistas às eleições, enquanto equipe econômica e diplomatas temem escalada das tensões",
-    "link": "https://www.cnnbrasil.com.br/internacional/crise-brasil-eua-cria-racha-entre-politica-e-economia-no-governo-lula/",
-    "time": "2026-08-15T10:00:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Da rejeição à escolha: início da campanha testa projetos de presidenciáveis",
-    "d": "Após meses marcados por crises e críticas, com o começo da propaganda eleitoral a partir deste domingo (16), os candidatos à Presidência entram na fase em que terão de mostrar por que merecem o voto dos eleitores",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/da-rejeicao-a-escolha-inicio-da-campanha-testa-projetos-de-presidenciaveis/",
-    "time": "2026-08-15T10:00:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Volta do Talibã ao poder no Afeganistão completa 5 anos; veja o que mudou",
-    "d": "Combatentes do grupo entraram na capital Cabul em 15 de agosto de 2021, enquanto forças estrangeiras lideradas pelos Estados Unidos se retiravam do país após 20 anos de guerra",
-    "link": "https://www.cnnbrasil.com.br/internacional/volta-do-taliba-ao-poder-no-afeganistao-completa-5-anos-veja-o-que-mudou/",
-    "time": "2026-08-15T10:00:18.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O passado da Vila Euclides, lugar escolhido por Lula e pelo PT para lançar campanha neste domingo",
     "d": "Partido dos Trabalhadores realiza comício no primeiro dia oficial da campanha, em São Bernardo do Campo, onde o presidente comandou a “Grande Greve do ABC”. Ato será teste para apoiadores em disputa acirrada.",
@@ -89,51 +153,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda a crise que envolve marinheiros pulando de porta-aviões dos EUA",
-    "d": "Veículos especializados reportaram relatos de integrantes da tripulação pularam no mar por não aguentarem ficar tantos meses embarcados",
-    "link": "https://www.cnnbrasil.com.br/internacional/entenda-a-crise-que-envolve-marinheiros-pulando-de-porta-avioes-dos-eua/",
-    "time": "2026-08-15T09:30:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "USP desenvolve IA para identificar cárie em radiografias",
-    "d": "Sistema analisa radiografias panorâmicas e oferece uma \"segunda opinião\" para cirurgiões-dentistas.",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/usp-desenvolve-ia-para-identificar-carie-em-radiografias/",
-    "time": "2026-08-15T09:15:07.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-15T09:07:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Futebol europeu de volta: veja agenda de jogos do fim de semana",
-    "d": "LaLiga, Campeonato Turco e Copa da Itália iniciam suas disputas",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-europeu-de-volta-veja-agenda-de-jogos-do-fim-de-semana/",
-    "time": "2026-08-15T09:00:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Embaixadas dos EUA no Oriente Médio reduzem equipes durante guerra com Irã",
-    "d": "O departamento de Estado americano não prevê que os níveis normais de pessoal sejam retomados em breve, diante da ameaça de uma guerra em larga escala",
-    "link": "https://www.cnnbrasil.com.br/internacional/embaixadas-dos-eua-no-oriente-medio-reduzem-equipes-durante-guerra-com-ira/",
-    "time": "2026-08-15T09:00:38.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Reciprocidade tenta fazer EUA negociarem tarifas novamente, diz Arko Advice",
-    "d": "Michael Lopez Stewart afirma que acionamento da lei é instrumento de pressão diplomática, sem intenção de escalar tensões comerciais com Washington",
-    "link": "https://www.cnnbrasil.com.br/economia/reciprocidade-tenta-fazer-eua-negociarem-tarifas-novamente-diz-arko-advice/",
-    "time": "2026-08-15T09:00:32.000Z"
   },
   {
     "cat": "internacional",
@@ -336,14 +360,6 @@
     "time": "2026-08-14T21:26:29.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: 33% apontam violência como principal preocupação",
-    "d": "Violência é maior preocupação de brasileiros, diz Quaest Reprodução/Imagem Ilustrativa Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que a violência é a principal preocupação dos eleitores, citada por 33% do…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/violencia-e-maior-preocupacao-entre-eleitores-mostra-quaest.ghtml",
-    "time": "2026-08-14T21:26:07.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
@@ -394,14 +410,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-    "d": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T18:54:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
     "d": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
     "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
@@ -446,14 +454,6 @@
     "d": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
     "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T16:35:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-    "d": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
-    "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T16:28:59.000Z"
   },
   {
     "cat": "internacional",
