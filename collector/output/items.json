@@ -1,5 +1,69 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five injured, one critically, in shooting at Virginia State University",
+    "d": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T14:58:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Powerful earthquake kills dozens in eastern Indonesia",
+    "d": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread…",
+    "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+    "time": "2026-08-15T14:43:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "South Korea proposes talks to officially end war with North",
+    "d": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+    "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T14:40:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os livros que passaram décadas encalhados e agora têm um misterioso comprador — a inteligência artificial",
+    "d": "Livreiros relatam pedidos suspeitos em grandes quantidades. Acredita-se que as obras estejam sendo usadas ​​para treinar chats de IAs como o Claude.",
+    "link": "https://www.bbc.com/portuguese/articles/cn9nnd20pv8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T14:26:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE inicia elaboração de plano voltado ao horário eleitoral no rádio e TV",
+    "d": "Justiça Eleitoral iniciou, neste sábado (15), a convocação de partidos, federações, coligações e emissoras",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-inicia-elaboracao-de-plano-voltado-ao-horario-eleitoral-no-radio-e-tv/",
+    "time": "2026-08-15T14:12:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Adam Driver, anunciado como Sr. Sinistro em reboot de “X-Men”",
+    "d": "Ator dará vida ao vilão da história em quadrinhos na nova franquia dos mutantes nos cinemas",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/quem-e-adam-driver-anunciado-como-sr-sinistro-em-reboot-de-x-men/",
+    "time": "2026-08-15T14:11:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Espanhola estabelece 1º recorde mundial na marcha atlética de meia maratona",
+    "d": "María Pérez completou a prova em 1h30m06s e conquistou a medalha de ouro no campeonato europeu",
+    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/espanhola-estabelece-1o-recorde-mundial-na-marcha-atletica-de-meia-maratona/",
+    "time": "2026-08-15T14:02:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Quem poderá ser a nova secretária de imprensa do governo Trump?",
+    "d": "Funcionários e estrategistas especulam se presidente nomeará substituto para Karoline Leavitt antes das eleições",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-quem-podera-ser-a-nova-secretaria-de-imprensa-do-governo-trump/",
+    "time": "2026-08-15T14:00:43.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "A tragédia de Ana María Saavedra, a jovem que perdeu as duas irmãs e os pais no terremoto na Colômbia",
@@ -14,6 +78,14 @@
     "d": "Fabiana Torquato e Clariana Barão em convenção do DC que oficializou chapa à Presidência da República Divulgação/Democracia Cristã A candidata à Presidência da República Clariana Barão (DC) oficializou seu registro ju…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/declaracao-bens-clariana-barao-fabiana-torquato.ghtml",
     "time": "2026-08-15T13:48:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "MC Ryan SP é condenado em R$ 20 mil por não creditar autor em 34 músicas",
+    "d": "Funkeiro teria omitido nome do compositor Luska em produções",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/mc-ryan-sp-e-condenado-em-r-20-mil-por-nao-creditar-autor-em-34-musicas/",
+    "time": "2026-08-15T13:41:36.000Z"
   },
   {
     "cat": "internacional",
@@ -32,20 +104,20 @@
     "time": "2026-08-15T13:38:53.000Z"
   },
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Forte chuva deixa cerca de 60 mil imóveis sem energia na Grande SP",
+    "d": "Dados da Enel apontam que cerca de 45 mil clientes paulistanos estão sem luz nesta manhã; Defesa Civil emitiu alerta severo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/forte-chuva-deixa-quase-50-mil-imoveis-sem-energia-na-grande-sp/",
+    "time": "2026-08-15T13:37:49.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
     "d": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
     "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-15T13:35:57.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Powerful earthquake kills dozens in eastern Indonesia",
-    "d": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia, has killed at least 40 people, causing widespread…",
-    "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-    "time": "2026-08-15T13:33:35.000Z"
   },
   {
     "cat": "brasil",
@@ -96,30 +168,6 @@
     "time": "2026-08-15T13:00:50.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Exportações de milho da Argentina batem recorde em julho, diz bolsa",
-    "d": "País embarcou 5,14 milhões de toneladas em julho, superando o marco anterior de abril e reafirmando-se como fornecedor global",
-    "link": "https://www.cnnbrasil.com.br/agro/exportacoes-de-milho-da-2/",
-    "time": "2026-08-15T13:00:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dar o filho à adoção ou viver escondido: o dilema dos imigrantes nos EUA",
-    "d": "A incerteza leva famílias a planejarem um futuro para os filhos, com um padre de Maryland atuando como tutor legal emergencial para dezenas de menores",
-    "link": "https://www.cnnbrasil.com.br/internacional/dar-o-filho-a-adocao-ou-viver-escondido-o-dilema-dos-imigrantes-nos-eua/",
-    "time": "2026-08-15T13:00:05.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Arsenal terá retornos importantes para duelo contra o Manchester City",
-    "d": "Clube londrino inicia sua campanha na Premier League contra o Coventry City em 21 de agosto",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/arsenal-tera-retornos-importantes-para-duelo-contra-o-manchester-city/",
-    "time": "2026-08-15T12:56:36.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os pedreiros que encontraram tesouro de R$ 54 milhões em moedas e barras de ouro em parede de casa na Bélgica",
@@ -129,35 +177,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Romário deixa PL após 5 anos e declara apoio a Paes no Rio",
-    "d": "Senador diz que tomou a decisão ao longo dos últimos meses e ressalta que deixa o partido \"sem rompimentos pessoais\"",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/romario-deixa-pl-apos-5-anos-e-declara-apoio-a-paes-no-rio/",
-    "time": "2026-08-15T12:48:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cristian Romero deixa Tottenham e assina com Atlético de Madrid até 2031",
-    "d": "Zagueiro argentino de 28 anos foi peça chave no elenco campeão da Copa do Mundo de 2022",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristian-romero-deixa-tottenham-e-assina-com-atletico-de-madrid-ate-2031/",
-    "time": "2026-08-15T12:32:52.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Edmilson Costa declara R$ 454 mil em bens ao TSE; Cleusa Santos, vice na chapa, informa R$ 1,7 milhão",
     "d": "Cleusa Santos e Edmilson Costa durante convenção do PCB. Reprodução/Instagram O candidato à Presidência Edmilson Costa (PCB) registrou sua candidatura no Tribunal Superior Eleitoral (TSE) e declarou um patrimônio de R…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/declaracao-bens-edmilson-costa-cleusa-santos.ghtml",
     "time": "2026-08-15T12:24:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PSG anuncia contratação de Ferran Torres, herói da Espanha na Copa do Mundo",
-    "d": "Atacante espanhol assina com o clube francês e volta a ser comandado por Luis Enrique, técnico com quem já trabalhou na seleção nacional",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-anuncia-contratacao-de-ferran-torres-heroi-da-espanha-na-copa-do-mundo/",
-    "time": "2026-08-15T12:21:30.000Z"
   },
   {
     "cat": "brasil",
@@ -198,14 +222,6 @@
     "d": "Partido dos Trabalhadores realiza comício no primeiro dia oficial da campanha, em São Bernardo do Campo, onde o presidente comandou a “Grande Greve do ABC”. Ato será teste para apoiadores em disputa acirrada.",
     "link": "https://www.bbc.com/portuguese/articles/c3302x6gm5yo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-15T09:36:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "South Korea proposes talks to officially end war with North",
-    "d": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-    "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T09:35:23.000Z"
   },
   {
     "cat": "brasil",
@@ -294,14 +310,6 @@
     "d": "Bloqueio de ligações indesejadas gera disputa entre operadoras na Anatel O sistema da Vivo contra ligações indesejadas que foi alvo de reclamações da TIM foi autorizado pela Agência Nacional de Telecomunicações (Anate…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/08/15/bloqueio-de-ligacoes-indesejadas-anatel-autoriza-anti-spam-e-estuda-levar-sistema-a-todos-os-clientes.ghtml",
     "time": "2026-08-15T03:00:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Petrobras encontra sinais de petróleo na bacia da Foz do Amazonas - por que projeto de exploração ali é controverso?",
-    "d": "Sinais de petróleo foram encontrados a cerca de 175 km da costa do Amapá durante prospecção, que continuará.",
-    "link": "https://www.bbc.com/portuguese/articles/cq561131yq0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T02:37:26.000Z"
   },
   {
     "cat": "internacional",
@@ -526,14 +534,6 @@
     "d": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity (D…",
     "link": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
     "time": "2026-08-14T11:00:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'Unprecedented' rain in Japan kills eight people",
-    "d": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T10:36:14.000Z"
   },
   {
     "cat": "economia",
