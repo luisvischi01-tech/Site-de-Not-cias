@@ -1,19 +1,75 @@
 [
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five injured, one critically, in shooting at Virginia State University",
-    "d": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T14:58:46.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Powerful earthquake kills dozens in eastern Indonesia",
     "d": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread…",
     "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-    "time": "2026-08-15T14:43:05.000Z"
+    "time": "2026-08-15T15:34:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Incêndio florestal na Alemanha está sob controle, dizem autoridades",
+    "d": "Mais de 2.000 pessoas foram retiradas da vila de Gey, perto da fronteira com a Bélgica, na sexta-feira",
+    "link": "https://www.cnnbrasil.com.br/internacional/incendio-florestal-na-alemanha-esta-sob-controle-dizem-autoridades/",
+    "time": "2026-08-15T15:23:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Terremoto de magnitude 7,7 mata ao menos 47 pessoas na Indonésia",
+    "d": "Uma operação de busca e resgate está em andamento para encontrar sobreviventes na Ilha das Flores, no leste do país.",
+    "link": "https://www.bbc.com/portuguese/articles/cpq88dz14epo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T15:23:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "STF suspende condenação de Romero Jucá e ex-senador pode concorrer às eleições",
+    "d": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), suspendeu a condenação do ex-senador Romero Jucá (MDB) por corrupção passiva e lavagem de dinheiro, e afastou a inelegibilidade. Com isso, o político poderá d…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/15/stf-suspende-condenacao-de-romero-juca-e-ex-senador-pode-concorrer-as-eleicoes.ghtml",
+    "time": "2026-08-15T15:18:16.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five injured, one critically, in shooting at Virginia State University",
+    "d": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T15:09:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Terremoto de magnitude 7,7 deixa ao menos 47 mortos na Indonésia",
+    "d": "Tremor atingiu a Ilha de Flores, no leste do país; alerta de tsunami foi emitido e posteriormente suspenso após ondas de 1 metro",
+    "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-77-deixa-mortos-na-indonesia-2/",
+    "time": "2026-08-15T15:08:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Disney surpreende com resultados e ações sobem após balanço",
+    "d": "Empresa projeta crescimento de 16% e ganha espaço entre as alternativas para diversificar a carteira do investidor",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/disney-surpreende-com-resultados-e-acoes-sobem-apos-balanco/",
+    "time": "2026-08-15T15:00:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio come pão com leite condensado para reforçar associação a Bolsonaro",
+    "d": "Candidato à Presidência foi a uma padaria, promoveu transmissão ao vivo e fará mais gravações no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-come-pao-com-leite-condensado-para-reforcar-associacao-a-bolsonaro/",
+    "time": "2026-08-15T14:51:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sem Endrick, Real Madrid divulga relacionados para último amistoso",
+    "d": "Equipe espanhola joga contra o Schalke 04 na Alemanha; três novos reforços podem estrear",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/real-madrid-divulga-relacionados-sem-endrick-para-amistoso/",
+    "time": "2026-08-15T14:41:49.000Z"
   },
   {
     "cat": "internacional",
@@ -126,46 +182,6 @@
     "d": "Baixa oscilação costuma anteceder movimentos fortes no mercado cripto, mas indicador não aponta se próxima grande movimentação será de alta ou de baixa",
     "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-pouco-volatil-pode-antecipar-explosao/",
     "time": "2026-08-15T13:30:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mulher desaparece após carro cair em rio no Paraná; homem morreu",
-    "d": "Homem de 30 anos também estava no veículo e foi encontrado sem vida pelos bombeiros; buscas acontecem na manhã deste sábado (15)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/mulher-desaparece-apos-carro-cair-em-rio-no-parana-homem-morreu/",
-    "time": "2026-08-15T13:28:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leapmotor B10 Ultra-híbrido será lançado no Festival Interlagos este mês",
-    "d": "O modelo híbrido será apresentado ao público brasileiro durante o Festival Interlagos 2026, entre 27 e 30 de agosto, no Autódromo de Interlagos, em São Paulo",
-    "link": "https://www.cnnbrasil.com.br/auto/leapmotor-b10-ultra-hibrido-sera-lancado-no-festival-interlagos-este-mes/",
-    "time": "2026-08-15T13:24:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Terremoto de magnitude 5 atinge sul da Espanha e danifica casas e carros",
-    "d": "Autoridades declararam estado de emergência na região",
-    "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-5-atinge-sul-da-espanha-e-danifica-casas-e-carros/",
-    "time": "2026-08-15T13:15:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Incêndio de grandes proporções atinge galpão de materiais recicláveis em BH",
-    "d": "Perícia da Polícia Civil de Minas Gerais foi acionada por conta da possibilidade de crime",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/incendio-de-grandes-proporcoes-atinge-galpao-de-materiais-reciclaveis-em-bh/",
-    "time": "2026-08-15T13:09:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Estética masculina: entenda por que a procura entre homens disparou 116%",
-    "d": "Mudança cultural na percepção dos cuidados estéticos impulsiona corrida de homens por tratamentos não invasivos no Brasil e no mundo",
-    "link": "https://www.cnnbrasil.com.br/style/beleza/estetica-masculina-entenda-por-que-a-procura-entre-homens-disparou-116/",
-    "time": "2026-08-15T13:00:50.000Z"
   },
   {
     "cat": "brasil",
@@ -376,28 +392,12 @@
     "time": "2026-08-14T22:07:45.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest, 1º turno: intenção de voto entre homens e mulheres",
-    "d": "Os números da pesquisa Quaest para presidente Pesquisa Quaest divulgada nesta sexta-feira (14) mostra como está a disputa pela Presidência da República quando o eleitorado é dividido entre homens e mulheres. O levanta…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-veja-como-esta-a-disputa-entre-homens-e-mulheres.ghtml",
-    "time": "2026-08-14T22:03:44.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas",
     "d": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas A Petrobras anunciou nesta sexta-feira (14) que encontrou hidrocarbonetos em um poço exploratório na bacia da Foz do Amazonas, no lit…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/14/petrobras-anuncia-descoberta-de-hidrocarbonetos-em-poco-exploratorio-na-foz-do-amazonas.ghtml",
     "time": "2026-08-14T21:56:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Ministra do TSE que vai julgar  uso de 'Bolsonaro de IA' por campanha de Flávio: 'Autenticidade é um direito básico'",
-    "d": "'Daqui a pouco a gente só vai ter candidato de IA\", afirmou Estela Aranha. TSE julgará, ainda sem data confirmada, uso de avatar de Jair Bolsonaro em convenção do PL no fim de julho.",
-    "link": "https://www.bbc.com/portuguese/articles/ceqed2992ppo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T21:26:29.000Z"
   },
   {
     "cat": "economia",
