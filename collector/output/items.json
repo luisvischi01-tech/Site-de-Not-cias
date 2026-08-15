@@ -1,5 +1,53 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "d": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T23:34:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pablo Marçal registra candidatura a presidente apesar de inelegibilidade",
+    "d": "Candidato tem questões com a Justiça Eleitoral e pode enfrentar problemas ao longo da campanha",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/pablo-marcal-registra-candidatura-a-presidente-no-tse/",
+    "time": "2026-08-15T23:15:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Abel Ferreira pede calma após derrota: “Parece que está em último”",
+    "d": "Treinador português admite momento ruim após virada do Fluminense por 3 a 2",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-ferreira-pede-calma-apos-derrota-parece-que-esta-em-ultimo/",
+    "time": "2026-08-15T23:11:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Paulo x Coritiba: escalações e onde assistir ao jogo do Brasileirão",
+    "d": "Times se enfrentam no Morumbis, neste sábado (15), pela 23ª rodada",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-coritiba-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-08-15T23:06:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Nunca cogitamos não lançar': o relato de cientista que ajudou a fabricar a bomba atômica que devastou Nagasaki",
+    "d": "Em 9 de agosto de 1945, uma bomba de plutônio foi lançada sobre a cidade japonesa de Nagasaki, pondo fim à Segunda Guerra Mundial. Um dos físicos que ajudaram a montá-la falou com a BBC 30 anos depois",
+    "link": "https://www.bbc.com/portuguese/articles/crrvvdpxlv5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T22:58:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Roberto Carlos cancela show e fãs ficam na porta; veja fotos",
+    "d": "Devido a problema técnico, apresentação deste sábado (15) foi remarcada para o dia 27 de agosto",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/roberto-carlos-cancela-show-e-fas-ficam-na-porta-veja-fotos/",
+    "time": "2026-08-15T22:51:07.000Z"
+  },
+  {
     "cat": "comercio",
     "src": "CNN Brasil",
     "h": "Presidente da Colômbia solicita a Trump fim de tarifas após terremoto",
@@ -70,46 +118,6 @@
     "d": "Atacante argentino foi autor do gol da virada tricolor no Maracanã, em jogo eletrizante pelo Brasileirão",
     "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/decisivo-em-virada-do-fluminense-cano-exalta-torcida-nosso-animo/",
     "time": "2026-08-15T22:07:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Petrobras estima começar a extrair petróleo da Margem Equatorial em 7 anos",
-    "d": "Na sexta-feira, estatal informou que encontrou indícios de reservas e novos estudos serão conduzidos",
-    "link": "https://www.cnnbrasil.com.br/politica/petrobras-estima-comecar-a-extrair-petroleo-da-margem-equatorial-em-7-anos/",
-    "time": "2026-08-15T21:57:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-    "d": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T21:56:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com mais dois desfalques, Flamengo viaja para enfrentar o Mirassol",
-    "d": "Rubro-Negro enfrenta time paulista neste domingo (16) pela 23ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/com-mais-dois-desfalques-flamengo-viaja-para-enfrentar-o-mirassol/",
-    "time": "2026-08-15T21:54:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça manda bloquear R$ 1 bi por suspeita de fraude na iluminação de SP",
-    "d": "Decisão atinge presidente da SP Regula, ex-gestores municipais e empresas investigadas e atende parcialmente pedido do MP-SP",
-    "link": "https://www.cnnbrasil.com.br/nacional/justica-manda-bloquear-r-1-bi-por-suspeita-de-fraude-na-iluminacao-de-sp/",
-    "time": "2026-08-15T21:53:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Viih Tube e Eliezer fazem casamento religioso; veja fotos",
-    "d": "Os ex-BBBs celebraram a união em cerimônia religiosa ao ar livre neste sábado (15), após casamento civil",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/viih-tube-e-eliezer-fazem-casamento-religioso-veja-fotos/",
-    "time": "2026-08-15T21:53:05.000Z"
   },
   {
     "cat": "internacional",
@@ -542,14 +550,6 @@
     "d": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity (D…",
     "link": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
     "time": "2026-08-14T11:00:27.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "Ele contou ao ChatGPT que queria matar o filho e foi preso — conversas com IA podem ser prova de crime no Brasil?",
-    "d": "Mensagens trocadas com ferramenta de IA estão no centro da investigação, mas especialistas questionam os limites desse tipo de evidência e a importância de analisar o contexto completo das conversas.",
-    "link": "https://www.bbc.com/portuguese/articles/c8dn1l7vr6ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T08:51:48.000Z"
   },
   {
     "cat": "economia",
