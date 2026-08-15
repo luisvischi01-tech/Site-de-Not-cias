@@ -1,107 +1,139 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Petrobras encontra sinais de petróleo na bacia da Foz do Amazonas - por que projeto de exploração ali é controverso?",
+    "d": "Sinais de petróleo foram encontrados a cerca de 175 km da costa do Amapá durante prospecção, que continuará.",
+    "link": "https://www.bbc.com/portuguese/articles/cq561131yq0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T02:37:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bruna Biancardi mostra festa de 87 anos de avó do Neymar; veja",
+    "d": "Influenciadora registrou o aniversário da matriarca da família do marido",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-biancardi-mostra-festa-de-87-anos-de-avo-do-neymar-veja/",
+    "time": "2026-08-15T01:45:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CNN Brasil começa série de sabatinas com candidatos ao governo do DF",
+    "d": "Conversas ao vivo serão realizadas entre 17 e 20 de agosto, com os quatro nomes mais bem posicionados nas pesquisas segundo o Índice CNN",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/cnn-brasil-comeca-serie-de-sabatinas-com-candidatos-ao-governo-do-df/",
+    "time": "2026-08-15T01:34:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grammy pode reconsiderar categoria de K-Pop após boicote de BTS",
+    "d": "CEO da premiação disse que organização busca servir músicos e que o tópico entrou em discussão entre partes interessadas",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/grammy-pode-reconsider-categoria-de-k-pop-apos-boicote-de-bts/",
+    "time": "2026-08-15T01:32:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Domínio americano sobre Ormuz está fora de cogitação",
+    "d": "O analista de Internacional da CNN Lourival Sant'Anna avalia, ao CNN Prime Time, que, apesar do poderio militar dos EUA, assumir o controle de Ormuz teria consequências inaceitáveis",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-dominio-americano-sobre-ormuz-esta-fora-de-cogitacao/",
+    "time": "2026-08-15T01:31:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Robbie Williams revela diagnóstico de autismo: “Explica muita coisa”",
+    "d": "Músico desabafou sobre diagnóstico e disse que luta contra “pensamentos intrusivos”",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/robbie-williams-revela-diagnostico-de-autismo-explica-muita-coisa/",
+    "time": "2026-08-15T01:18:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Miss Earth Indonésia tem morte anunciada no aniversário de 26 anos",
+    "d": "Putri Andriani Juficha também foi a vice colocada do Miss Grand Indonesia 2025",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/miss-earth-indonesia-tem-morte-anunciada-no-aniversario-de-26-anos/",
+    "time": "2026-08-15T01:03:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Boa Safra lucra R$ 2,67 milhões em segundo trimestre atípico",
+    "d": "Empresa atribui resultado a nova estratégia de recuperação de margens e vê vantagem frente a concorrentes",
+    "link": "https://www.cnnbrasil.com.br/agro/boa-safra-lucra-r-267-milhoes-em-segundo-trimestre-atipico/",
+    "time": "2026-08-15T01:03:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Campeão do UFC mira quebrar recorde de Anderson Silva e manda recado",
+    "d": "Islam Makhachev enfrenta Ian Garry na luta principal do UFC 330, neste sábado (15), na Filadélfia",
+    "link": "https://www.cnnbrasil.com.br/esportes/lutas/campeao-do-ufc-mira-quebrar-recorde-de-anderson-silva-e-manda-recado/",
+    "time": "2026-08-15T00:56:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE derruba decisão de Nunes Marques sobre vídeo de Flávio contra Lula",
+    "d": "Maioria do plenário virtual rejeitou liminar que havia negado pedido para retirar publicação com críticas do senador ao petista",
+    "link": "https://www.cnnbrasil.com.br/politica/tse-derruba-decisao-de-nunes-marques-sobre-video-de-flavio-contra-lula/",
+    "time": "2026-08-15T00:50:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em ascensão na temporada, Arroyo retorna a palco do seu “ápice” no Cruzeiro",
+    "d": "Jovem equatoriano vive grande fase e volta ao estádio onde marcou dois gols em semifinal da Copa do Brasil",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/em-ascensao-na-temporada-arroyo-retorna-a-palco-do-seu-apice-no-cruzeiro/",
+    "time": "2026-08-15T00:43:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "BC anuncia leilões de linha de no valor de até US$ 1 bi nesta segunda (17)",
+    "d": "Objetivo é a rolagem do vencimento de 2 de setembro",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-anuncia-leiloes-de-linha-de-no-valor-de-ate-us-1-bi-nesta-segunda-17/",
+    "time": "2026-08-15T00:41:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Questão ambiental permanece “desafio” na Foz do Amazonas, diz ABESPetro",
+    "d": "Telmo Ghiorzi, CEO da ABESPetro, avalia descoberta de petróleo no Amapá e alerta para entraves ambientais e tributários que podem frear exploração na região",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/questao-ambiental-permanece-desafio-na-foz-do-amazonas-diz-abespetro/",
+    "time": "2026-08-15T00:40:18.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "VÍDEO mostra sonda da Petrobras em área com sinais de petróleo e gás na Foz do Amazonas",
+    "d": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas Um vídeo divulgado nesta sexta-feira (14) mostra uma sonda da Petrobras na bacia do Foz Amazonas, no litoral do Amapá, após a empresa…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/14/video-mostra-sonda-da-petrobras-em-area-com-sinais-de-petroleo-e-gas-na-foz-do-amazonas.ghtml",
+    "time": "2026-08-14T23:48:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Ronaldo Caiado declara R$ 52,5 milhões em bens; Kassab informa R$ 21 milhões",
+    "d": "O presidente nacional do PSD, Gilberto Kassab, e o governador do Goiás, Ronaldo Caiado, em encontro do partido em São Paulo. Divulgação/PSD O ex-governador de Goiás Ronaldo Caiado (PSD) declarou R$ 52,5 milhões em ben…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml",
+    "time": "2026-08-14T23:47:04.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
-    "d": "Quake hit Indonesia’s Flores region with a depth of 10km early on Saturday morning A powerful 7.7-magnitude quake has struck off the coast of Indonesia, the US Geological Survey said. No immediate casualties or damage…",
+    "h": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two",
+    "d": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing two people, causing widesprea…",
     "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
     "time": "2026-08-14T23:43:18.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Mundo vive 'epidemia de estupidez', afirma Drauzio Varella",
+    "h": "Mundo vive 'epidemia de estupidez', diz Drauzio Varella",
     "d": "Durante o evento BBC World Service: Trust is Earned – O Desafio da Credibilidade, o médico e escritor fez duras críticas à empresa Meta e falou da decepção em lidar com a desinformação em pleno século 21, na pandemia…",
     "link": "https://www.bbc.com/portuguese/articles/cedj4e8ljyyo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T23:14:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Novas imagens contradizem abordagem a motorista de Haddad, diz PM",
-    "d": "Registros obtidos pela Polícia Militar mostram motorista parado no ponto indicado por ele, mas não registram contato ou abordagem de policiais",
-    "link": "https://www.cnnbrasil.com.br/politica/novas-imagens-contradizem-abordagem-a-motorista-de-haddad-diz-pm/",
-    "time": "2026-08-14T23:11:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Estávamos certos”, diz Alcolumbre sobre descoberta de petróleo no Amapá",
-    "d": "O presidente do Congresso Nacional vê a identificação de petróleo como resultado de \"anos de luta\" e oportunidade para emprego e renda na região",
-    "link": "https://www.cnnbrasil.com.br/politica/estavamos-certos-diz-alcolumbre-sobre-descoberta-de-petroleo-no-amapa/",
-    "time": "2026-08-14T23:08:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula e Alcolumbre se unem contra PL e PSD no Amapá",
-    "d": "Encontros entre os dois líderes revelam interesses convergentes, incluindo aliança eleitoral contra PL e PSD nas eleições locais do Amapá; Pedro Venceslau explica cenário ao Hora H",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-e-alcolumbre-se-unem-contra-pl-e-psd-no-amapa/",
-    "time": "2026-08-14T23:08:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Anne Hathaway diz que filmes com morte de cães deveriam ser +18",
-    "d": "Atriz enxerga que cenas com esse tipo de abordagem são impróprias para menores de idade",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/anne-hathaway-diz-que-filmes-com-morte-de-caes-deveriam-ser-18/",
-    "time": "2026-08-14T23:07:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "SP define limite de 20 km/h para bicicletas elétricas em ciclovias",
-    "d": "Prefeitura estabeleceu nova velocidade máxima para equipamentos autopropelidos em ciclovias e ciclofaixas não compartilhadas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-define-limite-de-20-km-h-para-bicicletas-eletricas-em-ciclovias/",
-    "time": "2026-08-14T23:03:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Felipe Melo afirma estar “pronto” para assumir o Fluminense",
-    "d": "Comentarista negou contato com a diretoria, mas se mostrou honrado e preparado para assumir o comando técnico do clube",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/felipe-melo-afirma-estar-pronto-para-assumir-o-fluminense/",
-    "time": "2026-08-14T23:01:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "BNDES não apresenta proposta e fica fora da renegociação de dívidas rurais",
-    "d": "Banco não apresentou proposta para operar linhas com juros equalizados; recursos de R$ 25,8 bilhões já foram distribuídos entre instituições que manifestaram interesse",
-    "link": "https://www.cnnbrasil.com.br/agro/bndes-nao-apresenta-proposta-e-fica-fora-da-renegociacao-de-dividas-rurais/",
-    "time": "2026-08-14T22:58:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Viih Tube e Eliezer se casam no civil; veja fotos",
-    "d": "Os influenciadores fizeram primeira celebração nesta sexta (14) e devem fazer uma festa religiosa no sábado (15)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/viih-tube-e-eliezer-se-casam-no-civil/",
-    "time": "2026-08-14T22:58:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Virginia mostra novo piercing no umbigo e filhas reagem: “Virou um evento”",
-    "d": "Influenciadora compartilhou a reação de Maria Aline e Maria Flor",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-mostra-novo-piercing-no-umbigo-e-filhas-reagem-virou-um-evento/",
-    "time": "2026-08-14T22:56:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump pode declarar o Estreito de Ormuz como território dos EUA? Entenda",
-    "d": "Ameaça do presidente conflita diretamente com normas do direito internacional, após meses de guerra com o Irã e de impasse sobre a navegação em uma das principais rotas de petróleo do mundo",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-pode-declarar-o-estreito-de-ormuz-como-territorio-dos-eua-entenda/",
-    "time": "2026-08-14T22:54:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiros presos na Islândia têm data para voltar para casa após pressão",
-    "d": "Necessidade de acompanhamento policial retarda a deportação dos ativistas; quarto brasileiro ainda aguarda a confirmação de retorno",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasileiros-presos-na-islandia-tem-data-para-voltar-ao-brasil-apos-pressao/",
-    "time": "2026-08-14T22:52:30.000Z"
   },
   {
     "cat": "brasil",
@@ -110,14 +142,6 @@
     "d": "Ministra do STF participa de evento promovido pela BBC World Service e BBC News Brasil que discute os desafios do combate à desinformação.",
     "link": "https://www.bbc.com/portuguese/articles/cp3r67p3q7do?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T22:48:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians: polícia recupera camisa de Yuri Alberto furtada do Memorial",
-    "d": "Item do atacante estava exposto no Parque São Jorge e será devolvido ao departamento cultural do clube",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corinthians-policia-recupera-camisa-de-yuri-alberto-furtada-do-memorial/",
-    "time": "2026-08-14T22:46:50.000Z"
   },
   {
     "cat": "brasil",
@@ -131,7 +155,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest, 1º turno: intenção de voto por posicionamento político",
-    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra como fica a disputa pela Presidência da República na divisão do eleitorado pelo posicionamento político. A classifi…",
+    "d": "Os números da pesquisa Quaest para presidente Pesquisa Quaest divulgada nesta sexta-feira (14) mostra como fica a disputa pela Presidência da República na divisão do eleitorado pelo posicionamento político. A classifi…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-14-agosto-posicionamento-politico.ghtml",
     "time": "2026-08-14T22:13:24.000Z"
   },
@@ -139,7 +163,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest, 1º turno: intenção de votos entre católicos e evangélicos",
-    "d": "Quaest: Católicos preferem Lula; evangélicos, Flávio Pesquisa Quaest divulgada nesta sexta-feira (14) mostra como está a intenção de votos para o primeiro turno entre católicos e evangélicos. Lula (PT) lidera entre ca…",
+    "d": "Os números da pesquisa Quaest para presidente Pesquisa Quaest divulgada nesta sexta-feira (14) mostra como está a intenção de votos para o primeiro turno entre católicos e evangélicos. Lula (PT) lidera entre católicos…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-veja-como-esta-a-disputa-entre-catolicos-e-evangelicos.ghtml",
     "time": "2026-08-14T22:07:45.000Z"
   },
@@ -147,7 +171,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest, 1º turno: intenção de voto entre homens e mulheres",
-    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra como está a disputa pela Presidência da República quando o eleitorado é dividido entre homens e mulheres. O levanta…",
+    "d": "Os números da pesquisa Quaest para presidente Pesquisa Quaest divulgada nesta sexta-feira (14) mostra como está a disputa pela Presidência da República quando o eleitorado é dividido entre homens e mulheres. O levanta…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-veja-como-esta-a-disputa-entre-homens-e-mulheres.ghtml",
     "time": "2026-08-14T22:03:44.000Z"
   },
@@ -163,7 +187,7 @@
     "cat": "economia",
     "src": "G1",
     "h": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas",
-    "d": "Petrobras Foto Divulgação A Petrobras anunciou nesta sexta-feira (14) que encontrou hidrocarbonetos em um poço exploratório na bacia da Foz do Amazonas, no litoral do Amapá. A descoberta indica a presença de petróleo…",
+    "d": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas A Petrobras anunciou nesta sexta-feira (14) que encontrou hidrocarbonetos em um poço exploratório na bacia da Foz do Amazonas, no lit…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/14/petrobras-anuncia-descoberta-de-hidrocarbonetos-em-poco-exploratorio-na-foz-do-amazonas.ghtml",
     "time": "2026-08-14T21:56:18.000Z"
   },
@@ -171,7 +195,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 14 de agosto",
-    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% 🧶Veja o fio: 1/Nova pesquisa Quaest mostra uma eleição ainda polarizada, mas não totalmente decidida. A distância entre Lula e Flávio caiu no 1º turno e no 2º turno. Vamo…",
+    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% 🧶Veja o fio: 1. A nova pesquisa Quaest mostra uma eleição ainda polarizada, mas não totalmente decidida. A distância entre Lula e Flávio caiu no 1º turno e no 2º turno. V…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/fio-do-professor-felipe-nunes-analise-da-pesquisa-quaest-para-presidente-de-14-de-agosto.ghtml",
     "time": "2026-08-14T21:40:39.000Z"
   },
@@ -186,7 +210,7 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Quaest: violência é maior preocupação entre os eleitores, mostra pesquisa",
+    "h": "Quaest: 33% apontam violência como principal preocupação",
     "d": "Violência é maior preocupação de brasileiros, diz Quaest Reprodução/Imagem Ilustrativa Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que a violência é a principal preocupação dos eleitores, citada por 33% do…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/violencia-e-maior-preocupacao-entre-eleitores-mostra-quaest.ghtml",
     "time": "2026-08-14T21:26:07.000Z"
@@ -195,7 +219,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest: Flávio Bolsonaro tem rejeição de 54%, e Lula, de 52%",
-    "d": "Quaest: 54% rejeitam Flávio; 52% rejeitam Lula Pesquisa Quaest divulgada nesta sexta-feira (14) mostra os índices de rejeição dos candidatos à Presidência da República. A pesquisa foi contratada pela Globo em parceria…",
+    "d": "Os números da pesquisa Quaest para presidente Pesquisa Quaest divulgada nesta sexta-feira (14) mostra os índices de rejeição dos candidatos à Presidência da República. A pesquisa foi contratada pela Globo em parceria…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-flavio-bolsonaro-tem-rejeicao-de-54percent-e-de-lula-52percent.ghtml",
     "time": "2026-08-14T21:25:38.000Z"
   },
@@ -219,7 +243,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest: 48% desaprovam e 46% aprovam governo Lula",
-    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra a percepção dos eleitores sobre o governo Lula. 48% desaprovam o governo, enquanto 46% aprovam. A pesquisa é a prim…",
+    "d": "Os números da pesquisa Quaest para presidente Pesquisa Quaest divulgada nesta sexta-feira (14) mostra a percepção dos eleitores sobre o governo Lula. 48% desaprovam o governo, enquanto 46% aprovam. A pesquisa é a prim…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-avaliacao-governo-14-agosto.ghtml",
     "time": "2026-08-14T21:02:01.000Z"
   },
@@ -227,7 +251,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest, 2º turno: Lula, 43%; Flávio Bolsonaro, 40%",
-    "d": "Quaest: Lula tem 43% no 2° turno; Flávio soma 40% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que o presidente Lula (PT) tem 43% das intenções de voto em um eventual 2º turno contra Flávio Bolsonaro (PL),…",
+    "d": "Os números da pesquisa Quaest para presidente Pesquisa Quaest divulgada nesta sexta-feira (14) mostra que o presidente Lula (PT) tem 43% das intenções de voto em um eventual 2º turno contra Flávio Bolsonaro (PL), que…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-presidente-2o-turno-14-agosto.ghtml",
     "time": "2026-08-14T21:01:41.000Z"
   },
@@ -235,7 +259,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest, 1º turno: Lula, 38%; Flávio Bolsonaro, 31%; Renan Santos, 4%;  Caiado, 4%; Augusto Cury, 2%; e Zema, 2%",
-    "d": "Quaest: Lula tem 38% no 1° turno; Flávio, 31% Pesquisa Quaest divulgada nesta sexta-feira (14) mostra Lula (PT) com 38% das intenções de voto no 1º turno, e Flávio Bolsonaro (PL), com 31%. A pesquisa é a primeira enco…",
+    "d": "Pesquisa Quaest divulgada nesta sexta-feira (14) mostra Lula (PT) com 38% das intenções de voto no 1º turno, e Flávio Bolsonaro (PL), com 31%. A pesquisa é a primeira encomendada pela Globo, em parceria com o jornal O…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-presidente-1o-turno-14-agosto.ghtml",
     "time": "2026-08-14T21:00:14.000Z"
   },
@@ -246,14 +270,6 @@
     "d": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
     "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T20:22:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Após alerta da polícia, Discord demorou 25 minutos para derrubar live que vitimou menina de 13 anos",
-    "d": "Após aviso da polícia, Discord demorou 25 minutos para derrubar live que vitimou menina O Discord foi avisado pela Polícia Civil de São Paulo e demorou 25 minutos para derrubar a sala em que ocorria a live que vitimou…",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/14/discord-aviso-policia-sp-live.ghtml",
-    "time": "2026-08-14T20:20:11.000Z"
   },
   {
     "cat": "economia",
@@ -286,6 +302,14 @@
     "d": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
     "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T19:05:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "ONG brasileira denuncia à ANPD contas do Telegram com indícios de abuso sexual infantil",
+    "d": "Logo do Telegram. REUTERS/Dado Ruvic/Ilustração/Arquivo A SaferNet, ONG que atua na defesa dos direitos humanos na internet, anunciou nesta sexta-feira (14) que protocolou na Agência Nacional de Proteção de Dados (ANP…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/14/ong-brasileira-denuncia-a-anpd-contas-do-telegram-com-indicios-de-abuso-sexual-infantil.ghtml",
+    "time": "2026-08-14T19:00:08.000Z"
   },
   {
     "cat": "internacional",
@@ -456,22 +480,6 @@
     "time": "2026-08-14T13:11:48.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Chef premiado retorna a restaurante após denúncias de agressões e humilhações",
-    "d": "Noma, comandado pelo chef dinamarquês René Redzepi, se tornou um dos nomes mais celebrados da alta gastronomia internacional. Noma/ Divulgação Menos de cinco meses depois de anunciar sua saída do Noma, um dos restaura…",
-    "link": "https://g1.globo.com/empreendedorismo/noticia/2026/08/14/chef-premiado-retorna-a-restaurante-apos-denuncias-de-agressoes-e-humilhacoes.ghtml",
-    "time": "2026-08-14T13:09:13.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Vendas de carros chineses estão em alta, exceto na própria China",
-    "d": "JN na China: série especial mostra Cantão, cidade que virou polo da produção de carros elétricos A indústria automotiva chinesa está em franca expansão no exterior, conquistando mercados da Europa ao Sudeste Asiático…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/14/vendas-de-carros-chineses.ghtml",
-    "time": "2026-08-14T12:44:17.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
@@ -486,14 +494,6 @@
     "d": "Brasileiro, que contou sua experiência no livro 'Aconteceu com minha filha', celebra decisão da ANPD de suspender transmissões ao vivo na plataforma: 'Precisam sentir as consequências'.",
     "link": "https://www.bbc.com/portuguese/articles/c77gyl834dvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T11:48:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Obras de Matisse roubadas de biblioteca em São Paulo são recuperadas; veja o que se sabe",
-    "d": "Outras cinco obras de Cândido Portinari, que também foram levadas durante o roubo, continuam com paradeiro desconhecido.",
-    "link": "https://www.bbc.com/portuguese/articles/c0ejyp5j1j4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T11:10:12.000Z"
   },
   {
     "cat": "economia",
