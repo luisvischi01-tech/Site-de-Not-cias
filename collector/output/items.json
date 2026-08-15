@@ -1,6 +1,110 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A tragédia de Ana María Saavedra, a jovem que perdeu as duas irmãs e os pais no terremoto na Colômbia",
+    "d": "A jovem de 23 anos perdeu tudo no terremoto que atingiu o oeste do país em 10 de agosto: o prédio onde morava com os pais e as duas irmãs, em Cali, desabou, deixando-a como a única sobrevivente de sua família.",
+    "link": "https://www.bbc.com/portuguese/articles/cz977wdeg55o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T13:50:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Clariana Barão declara R$ 1,8 milhão em bens ao TSE; Fabiana Torquato, vice na chapa, informa R$ 2,2 milhões",
+    "d": "Fabiana Torquato e Clariana Barão em convenção do DC que oficializou chapa à Presidência da República Divulgação/Democracia Cristã A candidata à Presidência da República Clariana Barão (DC) oficializou seu registro ju…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/declaracao-bens-clariana-barao-fabiana-torquato.ghtml",
+    "time": "2026-08-15T13:48:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+    "d": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T13:41:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+    "d": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T13:38:53.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+    "d": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-15T13:35:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Powerful earthquake kills dozens in eastern Indonesia",
+    "d": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia, has killed at least 40 people, causing widespread…",
+    "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+    "time": "2026-08-15T13:33:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bitcoin pouco volátil pode antecipar “explosão”",
+    "d": "Baixa oscilação costuma anteceder movimentos fortes no mercado cripto, mas indicador não aponta se próxima grande movimentação será de alta ou de baixa",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-pouco-volatil-pode-antecipar-explosao/",
+    "time": "2026-08-15T13:30:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mulher desaparece após carro cair em rio no Paraná; homem morreu",
+    "d": "Homem de 30 anos também estava no veículo e foi encontrado sem vida pelos bombeiros; buscas acontecem na manhã deste sábado (15)",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/mulher-desaparece-apos-carro-cair-em-rio-no-parana-homem-morreu/",
+    "time": "2026-08-15T13:28:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Leapmotor B10 Ultra-híbrido será lançado no Festival Interlagos este mês",
+    "d": "O modelo híbrido será apresentado ao público brasileiro durante o Festival Interlagos 2026, entre 27 e 30 de agosto, no Autódromo de Interlagos, em São Paulo",
+    "link": "https://www.cnnbrasil.com.br/auto/leapmotor-b10-ultra-hibrido-sera-lancado-no-festival-interlagos-este-mes/",
+    "time": "2026-08-15T13:24:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Terremoto de magnitude 5 atinge sul da Espanha e danifica casas e carros",
+    "d": "Autoridades declararam estado de emergência na região",
+    "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-5-atinge-sul-da-espanha-e-danifica-casas-e-carros/",
+    "time": "2026-08-15T13:15:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Incêndio de grandes proporções atinge galpão de materiais recicláveis em BH",
+    "d": "Perícia da Polícia Civil de Minas Gerais foi acionada por conta da possibilidade de crime",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/incendio-de-grandes-proporcoes-atinge-galpao-de-materiais-reciclaveis-em-bh/",
+    "time": "2026-08-15T13:09:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estética masculina: entenda por que a procura entre homens disparou 116%",
+    "d": "Mudança cultural na percepção dos cuidados estéticos impulsiona corrida de homens por tratamentos não invasivos no Brasil e no mundo",
+    "link": "https://www.cnnbrasil.com.br/style/beleza/estetica-masculina-entenda-por-que-a-procura-entre-homens-disparou-116/",
+    "time": "2026-08-15T13:00:50.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Exportações de milho da Argentina batem recorde em julho, diz bolsa",
+    "d": "País embarcou 5,14 milhões de toneladas em julho, superando o marco anterior de abril e reafirmando-se como fornecedor global",
+    "link": "https://www.cnnbrasil.com.br/agro/exportacoes-de-milho-da-2/",
+    "time": "2026-08-15T13:00:48.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Dar o filho à adoção ou viver escondido: o dilema dos imigrantes nos EUA",
     "d": "A incerteza leva famílias a planejarem um futuro para os filhos, com um padre de Maryland atuando como tutor legal emergencial para dezenas de menores",
@@ -40,22 +144,6 @@
     "time": "2026-08-15T12:32:52.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
-    "d": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T12:31:55.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-    "d": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T12:25:11.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Edmilson Costa declara R$ 454 mil em bens ao TSE; Cleusa Santos, vice na chapa, informa R$ 1,7 milhão",
@@ -73,59 +161,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Adriana e Pedro têm 1ª vez juntos em “Quem Ama Cuida” e público vibra; veja",
-    "d": "Casal teve momento quente após advogado deixar a casa onde mora com Bruna",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/adriana-e-pedro-tem-1a-vez-juntos-em-quem-ama-cuida-e-publico-vibra-veja/",
-    "time": "2026-08-15T12:18:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caiado declara R$ 52 milhões em bens ao TSE; Kassab informa R$ 20,9 milhões",
-    "d": "Bens do candidato à Presidência pelo PSD aumentaram 111%, em relação a última eleição",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-declara-r-52-milhoes-em-bens-ao-tse-kassab-divulga-r-209-milhoes/",
-    "time": "2026-08-15T12:15:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Capital paulista está toda em atenção para alagamentos neste sábado",
-    "d": "Bairros do Jabaquara e de Santo Amaro, na zona Sul da capital paulista, estão em estado de alerta",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/capital-paulista-esta-toda-em-atencao-para-alagamentos-neste-sabado/",
-    "time": "2026-08-15T12:03:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Milhões de livros são queimados na Ucrânia em “guerra da resistência”",
-    "d": "Ataque russo ao depósito da editora Ranok, em Kharkiv, destruiu cerca de oito milhões de obras",
-    "link": "https://www.cnnbrasil.com.br/internacional/milhoes-de-livros-sao-queimados-na-ucrania-em-guerra-da-resistencia/",
-    "time": "2026-08-15T12:00:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Copa do Mundo Feminina: 750 mil pessoas manifestam interesse por ingressos",
-    "d": "Mundial de 2027 será sediado em oito cidades brasileiras com expectativa de recorde de público",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo-feminina-750-mil-pessoas-manifestam-interesse-por-ingressos/",
-    "time": "2026-08-15T12:00:17.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como a Austrália, conhecida por sua fauna exuberante, tornou-se o epicentro das extinções no planeta",
     "d": "Lista oficial tem 67 registros de extinsão, mas pesquisadores estimam que ao menos cem espécies de plantas e animais já tenham desaparecido para sempre.",
     "link": "https://www.bbc.com/portuguese/articles/c9d8ndz4ezpo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-15T11:49:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rosario Central rebate Hugo Souza e acusa torcida do Corinthians de racismo",
-    "d": "Clube argentino contesta denúncia do goleiro e afirma que torcedores brasileiros exibiram cédulas de pesos argentinos e camisa da Espanha de forma \"discriminatória\"",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/rosario-central-rebate-hugo-souza-e-acusa-torcida-do-corinthians-de-racismo/",
-    "time": "2026-08-15T11:33:43.000Z"
   },
   {
     "cat": "brasil",
@@ -137,35 +177,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CEO da CPFL Energia: Conseguimos entregar resultado robusto no 2º tri",
-    "d": "Executivo destaca resultado robusto, crescimento de data centers e desafios climáticos na operação da companhia",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/ceo-da-cpfl-energia-conseguimos-entregar-resultado-robusto-no-2o-tri/",
-    "time": "2026-08-15T11:20:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-    "d": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T10:56:22.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Patinho Feio, Cobra e clone do Mac: a pré-história da tecnologia 100% brasileira de computadores",
     "d": "No Dia da Informática, relembre como a indústria viveu seu auge em décadas passadas, após anos de pesquisas em universidades e nas Forças Armadas.",
     "link": "https://www.bbc.com/portuguese/articles/cre4pr13nv5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-15T10:44:45.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Powerful earthquake kills at least 38 in eastern Indonesia",
-    "d": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake struck eastern Indonesia early on Saturday, killing at least 38 people, causing…",
-    "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-    "time": "2026-08-15T10:24:36.000Z"
   },
   {
     "cat": "economia",
@@ -282,7 +298,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Petrobras encontra sinais de petróleo na bacia da Foz do Amazonas — por que projeto de exploração ali é controverso?",
+    "h": "Petrobras encontra sinais de petróleo na bacia da Foz do Amazonas - por que projeto de exploração ali é controverso?",
     "d": "Sinais de petróleo foram encontrados a cerca de 175 km da costa do Amapá durante prospecção, que continuará.",
     "link": "https://www.bbc.com/portuguese/articles/cq561131yq0o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-15T02:37:26.000Z"
@@ -360,14 +376,6 @@
     "time": "2026-08-14T22:03:44.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Iure Castro Lemos (Cidadania) declara patrimônio de R$ 3,2 milhões; veja patrimônio de candidato ao Senado em Goiás",
-    "d": "O procurador-geral da Alego, Iure de Castro, foi confirmado candidato ao Senado em Goiás Reprodução/ Perfil do Instagram de Iure de Castro O candidato ao Senado em Goiás pelo Cidadania, Iure Castro Lemos, declarou um…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/14/iure-castro-lemos-cidadania-declara-patrimonio-de-r-32-milhoes-veja-patrimonio-de-candidato-ao-senado-em-goias.ghtml",
-    "time": "2026-08-14T21:57:04.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas",
@@ -430,14 +438,6 @@
     "d": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
     "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-14T18:25:38.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "O que o Brasil ganha e o que arrisca ao acionar lei para revidar 'tarifaço' dos EUA?",
-    "d": "Instrumento criado para responder a barreiras comerciais pode fortalecer a posição do país diante dos EUA, mas também elevar tensões e custos econômicos.",
-    "link": "https://www.bbc.com/portuguese/articles/clyqr3xl765o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-14T17:57:08.000Z"
   },
   {
     "cat": "economia",
