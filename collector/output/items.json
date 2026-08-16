@@ -1,123 +1,131 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Presença militar israelense acompanha tensão na Cisjordânia",
+    "d": "Moradores palestinos relatam que a ação visa pressionar famílias a deixar suas terras em um esforço para tomar novas áreas",
+    "link": "https://www.cnnbrasil.com.br/internacional/presenca-militar-israelense-acompanha-tensao-na-cisjordania/",
+    "time": "2026-08-16T17:25:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cristiano Ronaldo afirma que o próximo ano pode marcar fim da carreira",
+    "d": "Jogador português, de 41 anos, falou sobre seus planos futuros em entrevista, aumentando especulações sobre sua aposentadoria",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-afirma-que-o-proximo-ano-pode-marcar-fim-da-carreira/",
+    "time": "2026-08-16T17:23:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlético-MG e Grêmio se enfrentam buscando aumentar sequência invicta",
+    "d": "Apenas quatro pontos separam as equipes na tabela do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-e-gremio-se-enfrentam-buscando-aumentar-sequencia-invicta/",
+    "time": "2026-08-16T17:19:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+    "d": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-16T17:18:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Arthur Aguiar e Jheny Santucci anunciam segunda gravidez: “Uma nova vida”",
+    "d": "A notícia vem pouco tempo após o casamento civil do casal, que está junto desde 2023",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/arthur-aguiar-e-jheny-santucci-anunciam-segunda-gravidez-uma-nova-vida/",
+    "time": "2026-08-16T17:17:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Kim Jong-Un e Putin reafirmam laços no Dia da Libertação da Coreia",
+    "d": "Relação dos dois países se estreitou após apoio coreano à Rússia na guerra contra a Ucrânia",
+    "link": "https://www.cnnbrasil.com.br/internacional/kim-jong-un-e-putin-reafirmam-lacos-no-dia-da-libertacao-da-coreia/",
+    "time": "2026-08-16T17:17:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Irã oferece 30 mil dólares por soldados americanos mortos ou capturados",
+    "d": "Comentário de comandante militar iraniano acontece em meio a paralisação das negociações de paz",
+    "link": "https://www.cnnbrasil.com.br/internacional/ira-oferece-30-mil-dolares-por-soldados-americanos-mortos-ou-capturados/",
+    "time": "2026-08-16T17:16:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Migrantes marroquinos protestam em Ceuta e pedem asilo à Espanha",
+    "d": "Com cartazes e bandeiras, marroquinos que permaneceram no enclave reivindicam oportunidade e melhores condições",
+    "link": "https://www.cnnbrasil.com.br/internacional/migrantes-marroquinos-protestam-em-ceuta-e-pedem-asilo-a-espanha/",
+    "time": "2026-08-16T17:14:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "1º dia de campanha: Lula fala de mulheres; Flávio cita de INSS e Lulinha",
+    "d": "Candidatos abriram campanha eleitoral apresentando propostas para a segurança pública e economia",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/1o-dia-de-campanha-lula-fala-de-mulheres-flavio-cita-de-inss-e-lulinha/",
+    "time": "2026-08-16T17:13:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Campanha de Flávio articula encontro com aliados e artistas em Barretos",
+    "d": "Aliados do candidato apostam na Festa do Peão para reunir lideranças e nomes populares e produzir imagens de força eleitoral",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-flavio-articula-encontro-com-aliados-e-artistas-em-barretos/",
+    "time": "2026-08-16T17:03:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sabonete em barra realmente reduz o odor no vaso sanitário?",
+    "d": "Truque caseiro que promete deixar o banheiro perfumado sem gastar com produtos específicos voltou a circular nas redes",
+    "link": "https://www.cnnbrasil.com.br/comportamento/casa-e-decoracao/sabonete-em-barra-realmente-reduz-o-odor-no-vaso-sanitario/",
+    "time": "2026-08-16T17:00:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: veja a agenda de Lenilda Luna neste domingo (16)",
+    "d": "Lenilda Luna Erik Maia A candidata ao Governo de Alagoas Lenilda Luna (UP) inicia a campanha eleitoral neste domingo (16) com um ato no bairro do Vergel do Lago, em Maceió. A atividade está marcada para as 16h. 📱Part…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/16/eleicoes-2026-veja-a-agenda-de-lenilda-luna-neste-domingo-16.ghtml",
+    "time": "2026-08-16T16:59:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Candidatos a governo começam campanha nos estados; veja as agendas",
+    "d": "Confira a programação dos candidatos aos governos de São Paulo, Rio de Janeiro, Minas Gerais, Paraná, Rio Grande do Sul, Bahia e Ceará para este domingo (16)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/candidatos-a-governo-comecam-campanha-nos-estados-veja-as-agendas/",
+    "time": "2026-08-16T16:58:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ao lançar campanha, Tarcísio afirma que pauta da mulher dominará debates",
+    "d": "Candidato à reeleição, o governador de São Paulo iniciou sua campanha com roda de conversa em Osasco, na região metropolitana da capital paulista",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/ao-lancar-campanha-tarcisio-afirma-que-pauta-da-mulher-dominara-debates/",
+    "time": "2026-08-16T16:56:46.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha presidencial; veja como foram os atos",
-    "d": "Petista fez discurso em São Bernardo do Campo (SP), enquanto seu principal adversário no pleito de outubro subiu em trio elétrico em Copacabana, no Rio de Janeiro.",
+    "h": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha; veja como foram os atos",
+    "d": "Petista fez discurso em São Bernardo do Campo (SP), enquanto seu principal adversário no pleito de outubro subiu em trio elétrico no Rio de Janeiro.",
     "link": "https://www.bbc.com/portuguese/articles/clyjj0ykp55o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-16T16:49:16.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lutador brasileiro Edson Barboza é nocauteado no UFC e se aposenta",
-    "d": "Aos 40 anos, o lutador carioca fez sua última luta no octógono, com derrota para Esteban Ribovics na Filadélfia",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/lutador-brasileiro-edson-barboza-e-nocauteado-no-ufc-e-se-aposenta/",
-    "time": "2026-08-16T16:48:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Matthew McConaughey diz que não quer filhos “exatamente como ele”; entenda",
-    "d": "Em entrevista, ator falou sobre paternidade e sobre o legado que pretende deixar para os filhos Levi, Vida e Livingston",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/matthew-mcconaughey-diz-que-nao-quer-filhos-exatamente-como-ele-entenda/",
-    "time": "2026-08-16T16:42:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Colombianas mortas em acidente de helicóptero são veladas no Rio",
-    "d": "Após a cerimônia, os corpos de Rocío Cubillos, Wendy Manrique e Sofía Murillo serão levados para sepultamento no Colômbia",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/colombianas-mortas-em-acidente-de-helicoptero-sao-veladas-no-rio/",
-    "time": "2026-08-16T16:37:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mackenzie Dern mantém cinturão do UFC com vitória incontestável",
-    "d": "Lutadora brasileira venceu por decisão unânime, consolidando seu reinado na categoria peso-palha",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/mackenzie-dern-mantem-cinturao-do-ufc-com-vitoria-incontestavel/",
-    "time": "2026-08-16T16:34:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "João Fonseca x Zandschulp: siga ao vivo o duelo do Masters de Cincinnati",
-    "d": "Brasileiro número 26 do mundo busca repetir a campanha do ano passado contra o holandês, que venceu o último duelo entre os dois",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-zandschulp-siga-ao-vivo-o-duelo-do-masters-de-cincinnati/",
-    "time": "2026-08-16T16:31:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio abre campanha com ataques a Lula, falas sobre corrupção e INSS",
-    "d": "Senador também prometeu endurecimento de leis para combater a violência",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-abre-campanha-com-ataques-a-lula-falas-sobre-corrupcao-e-inss/",
-    "time": "2026-08-16T16:29:53.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
-    "h": "Haddad lança campanha ao governo de SP em comício de Lula em São Bernardo do Campo",
-    "d": "Haddad lança campanha ao governo de SP em comício de Lula em São Bernardo do Campo. Reprodução/TV Globo O candidato ao governo de São Paulo Fernando Haddad (PT) deu início à campanha neste domingo (16), durante o comí…",
+    "h": "Ao lado de Lula, Haddad faz primeiro ato de campanha ao governo de SP em São Bernardo do Campo",
+    "d": "Haddad lança campanha ao governo de SP em comício de Lula em São Bernardo do Campo. Reprodução/TV Globo O candidato ao governo de São Paulo Fernando Haddad (PT) participou neste domingo (16) do primeiro ato de sua cam…",
     "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/16/haddad-lanca-campanha-ao-governo-de-sp-em-comicio-de-lula-em-sao-bernardo-do-campo.ghtml",
     "time": "2026-08-16T16:27:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Makhachev quebra recorde de Anderson Silva no UFC",
-    "d": "Lutador mantém cinturão dos meio-médios e alcança 17 vitórias seguidas",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/makhachev-quebra-recorde-de-anderson-silva-no-ufc/",
-    "time": "2026-08-16T16:24:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nicole Bahls nomea cabrito como Vini Jr.: “Com muito carinho”",
-    "d": "Batizado do animal contou com a presença da mãe e irmão do jogador",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nicole-bahls-nomea-cabrito-como-vini-jr-com-muito-carinho/",
-    "time": "2026-08-16T16:23:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: Veja momento em que empresário agride a esposa em SP",
-    "d": "Giullia relatou ter sido atingida na mão direita com um golpe de taco de beisebol desferido pelo empresário",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-veja-momento-em-que-empresario-agride-a-esposa-em-sp/",
-    "time": "2026-08-16T16:21:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Magda Chambriard confirma que descoberta na Foz do Amazonas é de petróleo",
-    "d": "Presidente afirmou à CNN Brasil, neste domingo (16), que a estatal possui amostras da commodity em mãos",
-    "link": "https://www.cnnbrasil.com.br/infra/magda-chambriard-confirma-que-descoberta-na-foz-do-amazonas-e-de-petroleo/",
-    "time": "2026-08-16T16:17:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Two dead and evacuation under way as fires break out on Greek island",
-    "d": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
-    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T16:14:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Quem Ama Cuida”: web reage ao beijo de Dora e André",
-    "d": "Cena entre Mariana Ximenes e Henrique Barreira na novela gera repercussão e celebração dos fãs",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-web-reage-ao-beijo-de-dora-e-andre/",
-    "time": "2026-08-16T16:08:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Enviado de Trump deve se reunir com líder do Hamas e presidente do Egito",
-    "d": "Kushner e Mladenov também devem se reunir com o primeiro-ministro Benjamin Netanyahu em Israel na segunda-feira",
-    "link": "https://www.cnnbrasil.com.br/internacional/enviado-de-trump-deve-se-reunir-com-lider-do-hamas-e-presidente-do-egito/",
-    "time": "2026-08-16T16:04:46.000Z"
   },
   {
     "cat": "internacional",
@@ -147,7 +155,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Em primeiro discurso de campanha, Lula exalta trajetória pessoal e promete combate ao crime organizado",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) fez seu primeiro discurso da campanha eleitoral de 2026 neste domingo (16), com críticas à direita e propostas para a segurança pública, escola integral, exploração de miner…",
+    "d": "'É fácil matar bandido em favela. Agora o cara que manda está em uma cobertura' , diz Lula O presidente Luiz Inácio Lula da Silva (PT) fez seu primeiro discurso da campanha eleitoral de 2026 neste domingo (16), com cr…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/16/lula-discursa-em-primeiro-dia-de-campanha-veja-principais-frases.ghtml",
     "time": "2026-08-16T15:40:50.000Z"
   },
@@ -179,7 +187,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Flávio Bolsonaro inicia campanha à Presidência no Rio de Janeiro: ‘Eu sou o único que pode sentar com os Estados Unidos’",
-    "d": "Campanha eleitoral começa neste domingo (16) O candidato à Presidência da República Flávio Bolsonaro (PL) iniciou a campanha eleitoral neste domingo (16) no Rio de Janeiro. O 1º compromisso foi um comício na Praia de…",
+    "d": "'Não temos mais soberania sobre o celular, o carro, a casa e a própria vida', diz Flávio O candidato à Presidência da República Flávio Bolsonaro (PL) iniciou a campanha eleitoral neste domingo (16) no Rio de Janeiro.…",
     "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/16/flavio-bolsonaro-inicia-campanha-a-presidencia-no-rio-de-janeiro.ghtml",
     "time": "2026-08-16T14:32:04.000Z"
   },
@@ -414,14 +422,6 @@
     "d": "Campanha eleitoral começa neste domingo (16) A campanha eleitoral começa neste domingo (16), e os candidatos agora já podem fazer propaganda nas ruas e na internet. Na TV e no rádio, a propaganda só começa em 28 de ag…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/16/campanha-eleitoral-comeca-neste-domingo-entenda-o-que-muda.ghtml",
     "time": "2026-08-16T03:00:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Candidatos à Presidência iniciam campanha neste domingo; veja eventos programados",
-    "d": "Começam campanhas eleitorais dos candidatos a presidente A campanha eleitoral começa oficialmente neste domingo (16), e os candidatos à Presidência já podem pedir votos explicitamente e organizar comícios, carreatas e…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/16/candidatos-a-presidencia-iniciam-campanha-neste-domingo-veja-eventos-programados.ghtml",
-    "time": "2026-08-16T03:00:08.000Z"
   },
   {
     "cat": "brasil",
