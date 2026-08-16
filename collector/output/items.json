@@ -1,11 +1,83 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Entrada da China na ação do Brasil na OMC ajuda a combater guerra tarifária contra os EUA?",
+    "d": "Miriam Leitão: Brasil defende multilateralismo na OMC O Brasil ganhou um reforço importante no seu enfrentamento ao tarifaço dos Estados Unidos nesta semana — depois que a China pediu para participar das consultas na…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/16/entrada-da-china-na-acao-do-brasil-na-omc-ajuda-a-combater-guerra-tarifaria-contra-os-eua.ghtml",
+    "time": "2026-08-16T08:00:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Trilionário por 2 meses: a ‘marcha à ré’ da SpaceX que fez Elon Musk perder bilhões de dólares",
+    "d": "Uma transmissão ao vivo mostra o CEO da SpaceX, Elon Musk, no dia da oferta pública inicial (IPO) da SpaceX no Nasdaq MarketSite, na cidade de Nova York, EUA, 12 de junho de 2026. REUTERS/Jeenah Moon Dizem que foguete…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/16/trilionario-por-2-meses-a-marcha-a-re-da-spacex-que-fez-elon-musk-perder-bilhoes-de-dolares.ghtml",
+    "time": "2026-08-16T08:00:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+    "d": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-16T07:58:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda nova ordem de Trump que reformula vacinação infantil",
+    "d": "Principais associações médicas rejeitaram a medida, afirmando que não há novas evidências científicas que justifiquem a mudança",
+    "link": "https://www.cnnbrasil.com.br/internacional/entenda-nova-ordem-de-trump-que-reformula-vacinacao-infantil/",
+    "time": "2026-08-16T07:18:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil aciona Lei da Reciprocidade contra EUA e setor produtivo vê riscos",
+    "d": "Entidades defendem cautela e diálogo para evitar escalada comercial",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-aciona-lei-da-reciprocidade-contra-eua-e-setor-produtivo-ve-riscos/",
+    "time": "2026-08-16T07:12:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mirassol x Flamengo: horário e onde assistir ao Brasileirão Série A",
+    "d": "Equipes vão a campo neste domingo (16), pela 23ª rodada do campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-x-flamengo-horario-e-onde-assistir-ao-brasileirao-serie-a/",
+    "time": "2026-08-16T07:09:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com campanha nas ruas, PF reforça segurança de presidenciáveis",
+    "d": "Monitoramento das redes também será ampliado e nível de risco de cada candidato passará por avaliação diária; corporação prevê gastar R$ 95 milhões na operação",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/com-campanha-nas-ruas-pf-reforca-seguranca-de-presidenciaveis/",
+    "time": "2026-08-16T07:05:45.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Twelve killed as Polish bus veers off Hungarian motorway",
     "d": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
     "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-16T07:04:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Começa hoje autorização para propaganda eleitoral nas ruas e na internet",
+    "d": "Novidade neste ano é a proibição do uso de IA em propagandas no período que começa 72 horas antes da votação e termina 24 horas após o encerramento do pleito",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/comeca-hoje-autorizacao-para-propaganda-eleitoral-nas-ruas-e-na-internet/",
+    "time": "2026-08-16T07:03:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Candidatos escolhem berço político para início da campanha eleitoral",
+    "d": "Corrida pela cadeira da Presidência da República começa neste domingo com agendas pelo Brasil inteiro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/candidatos-escolhem-berco-politico-para-inicio-da-campanha-eleitoral/",
+    "time": "2026-08-16T07:02:20.000Z"
   },
   {
     "cat": "economia",
@@ -24,68 +96,52 @@
     "time": "2026-08-16T07:01:18.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-    "d": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T06:53:22.000Z"
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vitória x Botafogo: onde assistir ao jogo do Campeonato Brasileiro",
+    "d": "Equipes vão a campo campo neste domingo (16), pela 23ª rodada do Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-x-botafogo-onde-assistir-ao-campeonato-brasileiro-serie-a/",
+    "time": "2026-08-16T07:00:58.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Especialistas projetam “novo pré-sal” no Norte do país; entenda",
-    "d": "Segundo o analista Caio Junqueira, especialistas estimam entre 6 e 10 bilhões de barris na região Norte; Ibama concedeu licença para pesquisa da Petrobras após pressões",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/especialistas-projetam-novo-pre-sal-no-norte-do-pais-entenda/",
-    "time": "2026-08-16T06:45:40.000Z"
+    "h": "Chapecoense x Bahia: horário e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes se enfrentam neste domingo (16), em Chapecó, pela 23ª rodada da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-bahia-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-08-16T07:00:54.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Celulite pós-septal: entenda infecção de ganhador do MasterChef Confeitaria",
-    "d": "César Yukio precisou ser internado após diagnóstico; problema pode gerar complicações, incluindo perda da visão e disseminação da infecção para estruturas próximas, como o cérebro",
-    "link": "https://www.cnnbrasil.com.br/saude/celulite-pos-septal-entenda-infeccao-de-ganhador-do-masterchef-confeitaria/",
-    "time": "2026-08-16T06:38:53.000Z"
+    "h": "DNA artesanal: a fórmula da Fuel Eyewear para ganhar o mercado de óculos",
+    "d": "A marca nacional de óculos aposta na identidade nacional, design artesanal de peças e coleções limitadas como diferencial competitivo",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/dna-artesanal-a-formula-da-fuel-eyewear-para-ganhar-o-mercado-de-oculos/",
+    "time": "2026-08-16T07:00:54.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Robôs e jogos são destaque na 4º edição do Festival da Matemática no Rio",
-    "d": "Evento explora os mundos da matemática através de exposições interativas, palestras e atrações artísticas para todas as idades",
-    "link": "https://www.cnnbrasil.com.br/ciencia/robos-e-jogos-sao-destaque-na-4o-edicao-do-festival-da-matematica-no-rio/",
-    "time": "2026-08-16T06:37:26.000Z"
+    "h": "Corinthians x Cruzeiro: horário e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes vão a campo neste domingo (16), pela 23ª rodada do campeonato nacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-x-cruzeiro-horario-e-onde-assistir-ao-brasileirao-serie-a/",
+    "time": "2026-08-16T07:00:52.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Negros são os mais afetados com desemprego, fome e falta de saneamento",
-    "d": "Apesar da melhora nos índices, Observatório Brasileiro das Desigualdades 2026 aponta que grupo ainda sofre mais em trabalho, renda e serviços básicos",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/negros-sao-os-mais-afetados-com-desemprego-fome-e-falta-de-saneamento/",
-    "time": "2026-08-16T06:34:09.000Z"
+    "h": "Vasco x Santos: horário e onde assistir ao jogo da Série B",
+    "d": "Clássico entre gigantes do futebol brasileiro envolve a briga contra o rebaixamento",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-x-santos-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+    "time": "2026-08-16T07:00:17.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Eclipse solar total “mais longo da vida” ocorrerá em 2027: veja detalhes",
-    "d": "Austrália, África, Ásia e Nova Zelândia serão palcos de diversos fenômenos astronômicos, alguns atravessando grandes cidades",
-    "link": "https://www.cnnbrasil.com.br/ciencia/eclipse-solar-total-mais-longo-da-vida-ocorrera-em-2027-veja-detalhes/",
-    "time": "2026-08-16T06:33:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Operário-PR x Avaí: horário e onde assistir ao jogo do Brasileirão Série B",
-    "d": "Equipes se enfrentam neste domingo (16), no Estádio Germano Krüger, pela 22ª rodada da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/operario-pr-x-avai-horario-e-onde-assistir-ao-jogo-do-brasileirao-serie-b/",
-    "time": "2026-08-16T06:30:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sigilo da fonte: “STF não é ministro X ou Y; é uma Corte”, diz especialista",
-    "d": "Ao Agora CNN, especialista em Direito Constitucional defende que o Supremo, como corte, se manifeste sobre operação contra jornalista Luís Pablo e suas fontes",
-    "link": "https://www.cnnbrasil.com.br/politica/sigilo-da-fonte-stf-nao-e-ministro-x-ou-y-e-uma-corte-diz-especialista/",
-    "time": "2026-08-16T06:12:46.000Z"
+    "h": "Candidatos começam campanha hoje; veja como serão eventos",
+    "d": "Lula escolhe lugar histórico e Flávio Bolsonaro busca reduto eleitoral da família",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/candidatos-comecam-campanha-hoje-veja-como-serao-eventos/",
+    "time": "2026-08-16T07:00:16.000Z"
   },
   {
     "cat": "economia",
@@ -94,46 +150,6 @@
     "d": "Feira da Indústria tem exposição de robôs humanóides A fabricante chinesa de robôs humanoides e quadrúpedes Unitree Robotics abriu na segunda-feira (10) as inscrições para sua oferta pública inicial de ações na Bolsa…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/08/16/china-domina-mercado-de-robos-humanoides-entenda-por-que-os-eua-decidiram-barra-los.ghtml",
     "time": "2026-08-16T06:00:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Controlar a dívida pública não é ideologia, é necessidade, diz economista",
-    "d": "No WW Especial, Ana Paula Vescovi defende responsabilidade fiscal como base da gestão pública",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ww-especial-brasil-discussao-ana-paula-vescovi/",
-    "time": "2026-08-16T06:00:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sobreviventes de terremoto na Indonésia acampam à espera de ajuda",
-    "d": "Suprimentos começaram a chegar lentamente a área atingida pelo tremor no sábado (15)",
-    "link": "https://www.cnnbrasil.com.br/internacional/sobreviventes-de-terremoto-na-indonesia-acampam-a-espera-de-ajuda/",
-    "time": "2026-08-16T05:57:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Furacão Lala atinge Havaí com ventos fortes e chuva intensa",
-    "d": "Tempestade não deve tocar o solo, mas provoca estragos e cortes generalizados de energia",
-    "link": "https://www.cnnbrasil.com.br/internacional/furacao-lala-atinge-havai-com-ventos-fortes-e-chuva-intensa/",
-    "time": "2026-08-16T05:33:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Liverpool x Como: horário e onde assistir ao amistoso",
-    "d": "Equipes se enfrentam neste domingo (16) em Anfield, na Inglaterra",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/liverpool-x-como-horario-e-onde-assistir-ao-amistoso/",
-    "time": "2026-08-16T05:20:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Schalke 04 x Real Madrid: horário e onde assistir ao amistoso",
-    "d": "Equipes se enfrentam neste domingo (16) na Veltins Arena, em Gelsenkirchen, na Alemanha",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/schalke-04-x-real-madrid-horario-e-onde-assistir-ao-amistoso/",
-    "time": "2026-08-16T05:00:51.000Z"
   },
   {
     "cat": "internacional",
@@ -155,7 +171,7 @@
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Rescue teams search for survivors in Indonesia after powerful earthquake",
-    "d": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 47 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searche…",
+    "d": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searche…",
     "link": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
     "time": "2026-08-16T03:57:34.000Z"
   },
@@ -470,22 +486,6 @@
     "d": "Abono salarial PIS/Pasep 2026: veja datas de pagamento e novas regras O pagamento do abono salarial PIS/Pasep 2026, referente ao ano-base 2024, terá o último lote liberado neste sábado (15). Nesta etapa, o benefício s…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/15/abono-salarial-pispasep-2026-paga-ultimo-lote-neste-sabado-veja-quem-recebe.ghtml",
     "time": "2026-08-15T03:00:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Queda da fila do INSS acelera nos últimos meses; benefícios negados sobem e chegam a quase 1 milhão em junho",
-    "d": "Mutirão do INSS em Rio Branco Lucas Thadeu/Rede Amazônica A chamada fila de espera por benefícios do Instituto Nacional do Seguro Social (INSS) vem recuando sistematicamente neste ano após determinação do presidente L…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/15/queda-da-fila-do-inss-acelera-nos-ultimos-meses-beneficios-negados-sobem-e-chegam-a-quase-1-milhao-em-junho.ghtml",
-    "time": "2026-08-15T03:00:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bloqueio de ligações indesejadas: Anatel autoriza anti-spam e estuda levar sistema a todos os clientes",
-    "d": "Bloqueio de ligações indesejadas gera disputa entre operadoras na Anatel O sistema da Vivo contra ligações indesejadas que foi alvo de reclamações da TIM foi autorizado pela Agência Nacional de Telecomunicações (Anate…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/15/bloqueio-de-ligacoes-indesejadas-anatel-autoriza-anti-spam-e-estuda-levar-sistema-a-todos-os-clientes.ghtml",
-    "time": "2026-08-15T03:00:11.000Z"
   },
   {
     "cat": "brasil",
