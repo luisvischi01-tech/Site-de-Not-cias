@@ -2,6 +2,46 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
+    "h": "Unicamp realiza feira de profissionalização para jovens pretos e pardos",
+    "d": "Evento discute mercado de trabalho e oportunidades de carreira para estudantes e público externo",
+    "link": "https://www.cnnbrasil.com.br/educacao/unicamp-realiza-feira-de-profissionalizacao-para-jovens-pretos-e-pardos/",
+    "time": "2026-08-16T11:15:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Defesa Civil envia dois alertas vermelhos para chuvas em quatro horas no RS",
+    "d": "Moradores do estado gaúcho receberam mensagens nos celulares por volta das 23h deste sábado e pouco antes das 3h deste domingo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-envia-dois-alertas-vermelhos-para-chuvas-em-quatro-horas-no-rs/",
+    "time": "2026-08-16T11:09:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Contra o Santos, Vasco retoma foco na fuga do rebaixamento no Brasileirão",
+    "d": "Clube carioca está na zona de rebaixamento e tem confronto decisivo",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/contra-o-santos-vasco-retoma-foco-na-fuga-do-rebaixamento-no-brasileirao/",
+    "time": "2026-08-16T11:00:23.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Twelve killed as Polish bus veers off Hungarian motorway",
+    "d": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-16T10:53:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+    "d": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-16T10:52:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
     "h": "Resultados na rodada podem colocar Santos em penúltimo lugar no Brasileirão",
     "d": "Última vitória do Peixe na competição foi antes da pausa para a Copa do Mundo",
     "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/resultados-na-rodada-podem-colocar-santos-em-penultimo-lugar-no-brasileirao/",
@@ -46,14 +86,6 @@
     "d": "Imagens geolocalizadas mostraram um grande incêndio em um armazém da Wildberries na região de Moscou; equivalente russo da Amazon tem sido alvo frequente no conflito",
     "link": "https://www.cnnbrasil.com.br/internacional/ucrania-lanca-centenas-de-drones-em-um-dos-maiores-ataques-contra-a-russia/",
     "time": "2026-08-16T10:17:09.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-    "d": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
-    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T10:09:10.000Z"
   },
   {
     "cat": "brasil",
@@ -136,22 +168,6 @@
     "time": "2026-08-16T09:00:08.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O que difere a dieta restrita do transtorno, com Dr. Kalil e especialistas",
-    "d": "Psiquiatra e nutricionista detalham quando a relação com a comida deixa de ser saudável e passa a indicar um transtorno alimentar, no Sinais Vitais com Dr. Kalil",
-    "link": "https://www.cnnbrasil.com.br/saude/o-que-difere-a-dieta-restrita-do-transtorno-com-dr-kalil-e-especialistas/",
-    "time": "2026-08-16T09:00:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo aposta na reputação do agro para abrir mercados no mundo",
-    "d": "Próximo a ultrapassar as 700 aberturas de novos mercados para produtos agropecuários, Ministério da Agricultura amplia participação em feiras internacionais e intensifica diálogo técnico com parceiros comerciais; gove…",
-    "link": "https://www.cnnbrasil.com.br/agro/governo-aposta-na-reputacao-do-agro-para-abrir-mercados-no-mundo/",
-    "time": "2026-08-16T08:57:46.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
@@ -168,14 +184,6 @@
     "time": "2026-08-16T08:23:38.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Acidente com ônibus deixa ao menos 12 mortos na Hungria",
-    "d": "Motorista foi detido; Polícia afirma que ele teria dormido ao volante",
-    "link": "https://www.cnnbrasil.com.br/internacional/acidente-com-onibus-deixa-ao-menos-12-mortos-na-hungria/",
-    "time": "2026-08-16T08:14:46.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Entrada da China na ação do Brasil na OMC ajuda a combater guerra tarifária contra os EUA?",
@@ -190,14 +198,6 @@
     "d": "Uma transmissão ao vivo mostra o CEO da SpaceX, Elon Musk, no dia da oferta pública inicial (IPO) da SpaceX no Nasdaq MarketSite, na cidade de Nova York, EUA, 12 de junho de 2026. REUTERS/Jeenah Moon Dizem que foguete…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/16/trilionario-por-2-meses-a-marcha-a-re-da-spacex-que-fez-elon-musk-perder-bilhoes-de-dolares.ghtml",
     "time": "2026-08-16T08:00:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Twelve killed as Polish bus veers off Hungarian motorway",
-    "d": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T07:04:17.000Z"
   },
   {
     "cat": "economia",
