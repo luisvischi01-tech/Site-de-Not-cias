@@ -1,19 +1,147 @@
 [
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Heroes actress Hayden Panettiere dies aged 36",
-    "d": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T05:15:46.000Z"
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Se Pablo Marçal está inelegível por 8 anos, por que foi anunciado como candidato à Presidência?",
+    "d": "Para especialistas, as situações de inelegibilidade de Pablo Marçal são claras: \"A chance de ele ser candidato é zero\"",
+    "link": "https://www.bbc.com/portuguese/articles/c5ywwwy4qx4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T07:57:31.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+    "h": "Ukrainian strikes kill six in Russia, acting governor says",
+    "d": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T07:41:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A vida em El Salvador 4 anos sob Bukele: 'O medo agora é outro'",
+    "d": "Documentário da BBC News Brasil retrata os efeitos da política de segurança de Nayib Bukele no cotidiano dos salvadorenhos, divididos entre o alívio pelo fim do domínio das facções e temores diante da concentração de…",
+    "link": "https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T07:30:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Empresas de mobilidade querem fomento a investimentos na reforma tributária",
+    "d": "Novos incentivos passariam por mudança no regime especial das companhias de transporte",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/empresas-de-mobilidade-querem-fomento-a-investimentos-na-reforma-tributaria/",
+    "time": "2026-08-17T07:30:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Partidos têm até quarta para responder Dino sobre gestão de emendas",
+    "d": "Ministro do STF cobrou de 21 legendas informações sobre eventual participação de dirigentes na definição e distribuição de emendas",
+    "link": "https://www.cnnbrasil.com.br/politica/partidos-tem-ate-quarta-para-responder-dino-sobre-gestao-de-emendas/",
+    "time": "2026-08-17T07:16:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fuvest abre inscrições para vestibular 2027 nesta segunda (17); saiba mais",
+    "d": "Período de aplicação começa às 12h e vai até o dia 9 de outubro",
+    "link": "https://www.cnnbrasil.com.br/educacao/fuvest-abre-inscricoes-para-vestibular-2027-nesta-segunda-17-saiba-mais/",
+    "time": "2026-08-17T07:15:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "42 mulheres participaram da corrida presidencial desde a redemocratização",
+    "d": "Somente nas eleições de 1989 foram 43 homens como cabeça de chapa ou vice; neste ano, sete mulheres estão na disputa",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/42-mulheres-participaram-da-corrida-presidencial-desde-a-redemocratizacao/",
+    "time": "2026-08-17T07:15:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE deve se reunir nesta semana para esclarecer regra sobre deepfakes",
+    "d": "Ministros devem reforçar proibição da tecnologia e alinhar entendimento antes de julgar caso envolvendo vídeo de Bolsonaro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-deve-se-reunir-nesta-semana-para-esclarecer-regra-sobre-deepfakes/",
+    "time": "2026-08-17T07:11:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mercado pede responsabilidade fiscal no centro da discussão para 2027",
+    "d": "Economistas citam despesas obrigatórias, indexação do salário mínimo e programas sociais como fatores de influência na dívida e déficit primário bilionário do Governo Federal",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-pede-responsabilidade-fiscal-no-centro-da-discussao-para-2027/",
+    "time": "2026-08-17T07:10:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após reviravoltas, 33 senadores miram reeleição e 10 governo estadual",
+    "d": "Candidaturas em Minas Gerais e Alagoas foram definidas perto do fim do prazo de registro; senadores titulares também disputam vagas de suplentes e cadeiras na Câmara dos Deputados",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apos-reviravoltas-33-senadores-miram-reeleicao-e-10-governo-estadual/",
+    "time": "2026-08-17T07:09:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio e Zema propõem mudanças no STF em planos de governo",
+    "d": "Planos dos dois candidatos defendem limitar decisões individuais de ministros e reduzir competências da Suprema Corte",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-zema-propoem-mudancas-no-stf-em-planos-de-governo/",
+    "time": "2026-08-17T07:06:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Termina hoje prazo do Discord para suspender lives; entenda proibição",
+    "d": "Plataforma pediu revogação da decisão da ANPD que determinou a suspensão das transmissões ao vivo no Brasil após morte de adolescente de 13 anos",
+    "link": "https://www.cnnbrasil.com.br/politica/termina-hoje-prazo-do-discord-para-suspender-lives-entenda-proibicao/",
+    "time": "2026-08-17T07:05:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caramuru eleva área de girassol em 5% na safra 2025/26",
+    "d": "Empresa introduziu o cultivo comercial no cerrado há 27 anos e atingirá 55,8 mil hectares mesmo com desafios climáticos",
+    "link": "https://www.cnnbrasil.com.br/agro/caramuru-eleva-area-de-girassol-em-5-na-safra-2025-26/",
+    "time": "2026-08-17T07:04:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula vai ao Amapá e adversários concentram agendas no sudeste",
+    "d": "Enquanto presidente visitará o Amapá por após anúncio da Petrobras, outros candidatos estarão em Minas Gerais e São Paulo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-vai-ao-amapa-e-adversarios-concentram-agendas-no-sudeste/",
+    "time": "2026-08-17T07:01:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "BC realiza leilões de linha de até US$ 1 bilhão nesta segunda (17)",
+    "d": "Operações de venda do BC ⁠serão ⁠liquidadas em 2 de setembro",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-realiza-leiloes-de-linha-de-ate-us-1-bilhao-nesta-segunda-17/",
+    "time": "2026-08-17T07:00:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
     "d": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
     "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T05:06:47.000Z"
+    "time": "2026-08-17T06:24:31.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Usar o ChatGPT prejudica o cérebro? O que sabemos, e o que não sabemos, sobre a 'dívida cognitiva'",
+    "d": "Homem pede conselho médico ao ChatGPT e IA manda ele 'entregar para Deus' Os seres humanos têm criado ferramentas para resolver problemas desde tempos imemoriais. Mas o ritmo dos avanços está se tornando cada vez mais…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/17/usar-o-chatgpt-prejudica-o-cerebro-o-que-sabemos-e-o-que-nao-sabemos-sobre-a-divida-cognitiva.ghtml",
+    "time": "2026-08-17T06:00:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Aussie rules footy players under investigation as police probe sexual assault claim",
+    "d": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T05:46:45.000Z"
   },
   {
     "cat": "economia",
@@ -40,14 +168,6 @@
     "time": "2026-08-17T04:41:31.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tumulto em templo deixa ao menos seis mortos e vários feridos na Índia",
-    "d": "Episódio aconteceu no complexo de Ashok Dham, no distrito de Lakhisarai, em Bihar",
-    "link": "https://www.cnnbrasil.com.br/internacional/tumulto-em-templo-deixa-mortos-e-varios-feridos-na-india/",
-    "time": "2026-08-17T04:37:22.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Record rains drench South Korean city as landslide kills one",
@@ -57,27 +177,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-    "d": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
-    "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T04:30:15.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
     "d": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US mili…",
     "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
     "time": "2026-08-17T04:07:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hayden Panettiere, atriz de Heroes e Nashville, morre aos 36 anos",
-    "d": "Circunstâncias da morte não foram divulgadas",
-    "link": "https://www.cnnbrasil.com.br/pop/hayden-panettiere-atriz-de-heroes-e-nashville-morre-aos-36-anos/",
-    "time": "2026-08-17T04:02:47.000Z"
   },
   {
     "cat": "brasil",
@@ -104,60 +208,12 @@
     "time": "2026-08-17T03:00:08.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após descoberta da Petrobras e reunião com Alcolumbre, Lula vai ao Amapá",
-    "d": "O presidente visitará o navio-sonda da empresa em Oiapoque para ver de perto o local em que foram descobertos os hidrocarbonetos na Margem Equatorial",
-    "link": "https://www.cnnbrasil.com.br/politica/apos-descoberta-da-petrobras-e-reuniao-com-alcolumbre-lula-vai-ao-amapa/",
-    "time": "2026-08-17T02:36:04.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Ferrari's first ever electric car sold for record $40m at auction",
+    "h": "Ferrari's first ever electric car sold for record $40m",
     "d": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
     "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-17T02:22:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dívidas, impostos e privatizações marcam primeiro debate em Minas",
-    "d": "Alexandre Kalil (PDT), Cleitinho Azevedo (Republicanos), Flávio Roscoe (PL), Gabriel Azevedo (MDB) e Mateus Simões (PSD) se enfrentaram pela primeira vez neste domingo (16)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/dividas-impostos-e-privatizacoes-marcam-primeiro-debate-em-minas/",
-    "time": "2026-08-17T02:04:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Vai ser bem ruim para você”: veja mensagens de ameças de Ivo Kos à esposa",
-    "d": "Giullia relatou ter sido atingida na mão direita pelo empresário com um golpe de taco de beisebol; Ivo foi preso em flagrante na madrugada de sábado (15)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/vai-ser-bem-ruim-para-voce-veja-mensagens-de-amecas-de-ivo-kos-a-esposa/",
-    "time": "2026-08-17T01:53:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Saneamento e combate ao crime organizado marcam 3 bloco de debate em Minas",
-    "d": "Alexandre Kalil (PDT), Cleitinho Azevedo (Republicanos), Flávio Roscoe (PL), Gabriel Azevedo (MDB) e Mateus Simões (PSD) se enfrentaram pela primeira vez neste domingo (16)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/saneamento-e-combate-ao-crime-organizado-marcam-3-bloco-de-debate-em-minas/",
-    "time": "2026-08-17T01:48:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fisiculturista Dwayne Quamina, ex-top 10 do Mr. Olympia, morre aos 40 anos",
-    "d": "Atleta e veterano das Forças Armadas competiu há poucos dias no Lenda Murray Atlanta Pro; causa da morte não foi divulgada",
-    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/dwayne-quamina-ex-top-10-do-mr-olympia-morre-aos-40-anos/",
-    "time": "2026-08-17T01:20:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chuva forte deixa um morto e causa estragos em ao menos 10 cidades de SC",
-    "d": "Em Santo Amaro da Imperatriz, na região metropolitana de Florianópolis, casa foi atingida por um deslizamento de terra; duas outras cidades decretaram estado de emergência no estado",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/chuva-forte-deixa-um-morto-e-causa-estragos-em-ao-menos-10-cidades-de-sc/",
-    "time": "2026-08-17T01:16:43.000Z"
   },
   {
     "cat": "brasil",
@@ -166,38 +222,6 @@
     "d": "Os planos para a primeira fazenda de polvos do mundo foram abandonados. Enquanto isso, vários países e estados dos EUA estão proibindo a criação de polvos.",
     "link": "https://www.bbc.com/portuguese/articles/clyjj8v218eo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-17T01:09:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jair Ventura se desculpa e nega provocação ao Botafogo",
-    "d": "Técnico do Vitória causou irritação no final da partida com jogadores do clube carioca",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/jair-ventura-se-desculpa-e-nega-provocacao-ao-botafogo/",
-    "time": "2026-08-17T01:01:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Filho de Xanddy e Carla Perez se casa na Bahia; veja detalhes",
-    "d": "O fisiculturista Victor Alexandre e a dominicana Jarline Batista oficializaram a união em cerimônia neste domingo (16)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-xanddy-e-carla-perez-se-casa-na-bahia-veja-detalhes/",
-    "time": "2026-08-17T00:58:26.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Beatriz Souza conquista medalha de ouro no Grand Prix de Judô",
-    "d": "Equipe brasileira encerra participação em Lima, no Peru, somando importantes pontos no ranking",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/beatriz-souza-conquista-medalha-de-ouro-no-grand-prix-de-judo/",
-    "time": "2026-08-17T00:48:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Álvaro José aponta força dos esportes coletivos brasileiros: “País da bola”",
-    "d": "Ao CNN Esportes S/A deste domingo (16), jornalista e locutor esportivo valoriza esportes individuais, mas destaca o Brasil como o país dos esportes coletivos",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/alvaro-jose-aponta-forca-dos-esportes-coletivos-brasileiros-pais-da-bola/",
-    "time": "2026-08-17T00:45:47.000Z"
   },
   {
     "cat": "internacional",
@@ -270,14 +294,6 @@
     "d": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
     "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-16T19:50:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-    "d": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T19:03:04.000Z"
   },
   {
     "cat": "internacional",
@@ -358,6 +374,14 @@
     "d": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
     "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-16T13:34:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+    "d": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-16T12:37:21.000Z"
   },
   {
     "cat": "brasil",
@@ -472,22 +496,6 @@
     "time": "2026-08-16T03:00:32.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Inelegível até 2032, Pablo Marçal é lançado como candidato à Presidência pelo PRTB",
-    "d": "Empresário teve filiação ao partido liberada por decisão judicial; candidatura ainda precisa ser aprovada pela Tribunal Superior Eleitoral",
-    "link": "https://www.bbc.com/portuguese/articles/c1511ney4w1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T02:31:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
-    "d": "Em 2026, estamos cercados por tecnologias mais avançadas. Então por que os jovens estão voltando ao básico?",
-    "link": "https://www.bbc.com/portuguese/articles/cp8edx0yy44o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T21:14:11.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -502,14 +510,6 @@
     "d": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of…",
     "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
     "time": "2026-08-15T18:08:21.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Presidente da Petrobras diz que Amapá vai produzir petróleo em águas ‘ultraprofundas’ em até sete anos",
-    "d": "Presidente da Petrobras, Magda Chambriard na refinaria da Petrobras Gabriel Passos (REGAP) Washington Alves/Reuters A presidente da Petrobras, Magda Chambriard, afirmou neste sábado (15) em entrevista à Globonews que…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/15/presidente-da-petrobras-diz-que-amapa-esta-produzindo-petroleo-em-aguas-ultraprofundas-em-ate-sete-anos.ghtml",
-    "time": "2026-08-15T16:34:47.000Z"
   },
   {
     "cat": "economia",
