@@ -1,19 +1,179 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Samara Martins declara R$ 33 mil em bens ao TSE",
+    "d": "Samara Martins, candidata do UP à Presidência da República, e a vice dela, Raquel Brício Divulgação/UP A candidata à Presidência Samara Martins pelo partido Unidade Popular registrou sua candidatura no Tribunal Superi…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/17/samara-martins-bens-tse.ghtml",
+    "time": "2026-08-17T11:41:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Teresina terá semana de calor intenso e baixa umidade do ar; veja previsão",
+    "d": "Temperaturas máximas podem chegar a 41°C com altos índices ultravioleta até domingo (23)",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pi/teresina-tera-semana-de-calor-intenso-e-baixa-umidade-do-ar-veja-previsao/",
+    "time": "2026-08-17T11:36:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Organizada do Botafogo faz cobranças no aeroporto e pede a saída do técnico",
+    "d": "Integrantes da Fúria Jovem aguardavam a equipe carioca para protestar pelas atuações na goleada por 6 a 1 para o Cienciano, pela Sul-Americana, além da derrota por 1 a 0 para o Vitória, no Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/organizada-do-botafogo-faz-cobrancas-no-aeroporto-e-pede-a-saida-do-tecnico/",
+    "time": "2026-08-17T11:36:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Natal terá chuva e sol com temperaturas estáveis na semana; veja previsão",
+    "d": "Previsão indica mínima de 22°C e máxima de 30°C entre 17 e 23 de agosto de 2026, com quinta-feira de maior precipitação",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/rn/natal-tera-chuva-e-sol-com-temperaturas-estaveis-na-semana-veja-previsao/",
+    "time": "2026-08-17T11:33:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Previsão para Aracaju indica semana de chuvas e apenas um dia de céu limpo",
+    "d": "As temperaturas mínimas ficam entre 21°C e 24°C, e as máximas entre 25°C e 28°C ao longo do período",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/se/previsao-para-aracaju-indica-semana-de-chuvas-e-apenas-um-dia-de-ceu-limpo/",
+    "time": "2026-08-17T11:30:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Ásia fecham em alta com PIB japonês e alívio relativo no petróleo",
+    "d": "Índice Nikkei subiu 0,74%, a 69.220,25 pontos, após os dados do crescimento da economia do Japão mostrarem aumento de 1,1% na taxa anualizada no trimestre de abrila a junho",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-em-alta-com-pib-japones-e-alivio-relativo-no-petroleo/",
+    "time": "2026-08-17T11:26:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Professores da USP lançam livro sobre desigualdade no Direito Penal",
+    "d": "Obra organizada por Pierpaolo Cruz Bottini e Renato de Mello Jorge Silveira reúne estudos sobre como fatores sociais, econômicos e raciais podem influenciar a interpretação e a aplicação das normas penais no Brasil",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/professores-da-usp-lancam-livro-sobre-desigualdade-no-direito-penal/",
+    "time": "2026-08-17T11:23:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça de SP condena pai que matou filha de 4 anos em casa",
+    "d": "Decisão foi tomada pelo Tribunal do Júri da Capital; criança foi encontrada com machucados espalhados pelo corpo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-de-sp-condena-pai-que-matou-filha-de-4-anos-em-casa/",
+    "time": "2026-08-17T11:20:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+    "d": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T11:16:31.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ukrainian strikes kill six in Russia, acting governor says",
+    "d": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T11:14:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grupo dono da Tok&Stok eleva prejuízo líquido no 2º tri para R$ 232 milhões",
+    "d": "Conforme balanço, a receita operacional líquida caiu 37,3% para R$ 207,1 milhões no trimestre",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/grupo-dono-da-tokstok-eleva-prejuizo-liquido-no-2o-tri-para-r-232-milhoes/",
+    "time": "2026-08-17T11:14:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Deslizamento na Coreia do Sul deixa um morto em meio a fortes chuvas",
+    "d": "Rios transbordaram e estradas ficaram alagadas, interrompendo tráfego e deixando moradores ilhados",
+    "link": "https://www.cnnbrasil.com.br/internacional/deslizamento-na-coreia-do-sul-deixa-morto-em-meio-a-fortes-chuvas/",
+    "time": "2026-08-17T11:11:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Neymar debocha de Thiago Mendes após vitória do Santos: “Soberba”",
+    "d": "Jogador do clube carioca evitou cumprimentar o camisa 10 do Peixe antes do início da partida neste domingo (16)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-debocha-de-thiago-mendes-apos-vitoria-do-santos-soberba/",
+    "time": "2026-08-17T11:10:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Filha de Cindy Crawford revela já ter passado por exorcismo",
+    "d": "Kaia Gerber, 24, disse que episódio ocorreu na infância, após ser informada de que estaria \"possuída\"",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filha-de-cindy-crawford-revela-ja-ter-passado-por-exorcismo/",
+    "time": "2026-08-17T11:02:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "A Margem Equatorial e o dever constitucional de desenvolver",
+    "d": "Em artigo à CNN Infra, Felipe Boechem e Rafael Martins, sócios do Lefosse, defendem que a exploração da Margem Equatorial, com rigor ambiental, pode cumprir o dever constitucional de promover o desenvolvimento e abrir…",
+    "link": "https://www.cnnbrasil.com.br/infra/a-margem-equatorial-e-o-dever-constitucional-de-desenvolver/",
+    "time": "2026-08-17T11:00:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Top Zambian opposition figures arrested days after presidential vote",
+    "d": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T10:57:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T10:52:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que julgamento da Meta pode mudar o futuro do Facebook e do Instagram",
+    "d": "Estados americanos estão processando a gigante das redes sociais para forçar uma reformulação de suas plataformas para usuários jovens.",
+    "link": "https://www.bbc.com/portuguese/articles/c36dlprdk8go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T10:49:21.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+    "d": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T10:39:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Hayden Panettiere: o que se sabe sobre a morte da atriz de 'Heroes' aos 36 anos",
+    "d": "Ela atuou nas séries de TV 'Heroes' e 'Nashville', além dos filmes 'Duelo de Titãs' e 'Um Presente para Helen'.",
+    "link": "https://www.bbc.com/portuguese/articles/ckg3vnmrx7mo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T10:24:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Casas Bahia entra com pedido de recuperação judicial",
+    "d": "Casas Bahia entra com pedido de recuperação judicial O Grupo Casas Bahia anunciou na noite deste domingo (16) que entrou com um pedido de recuperação judicial na Justiça de São Paulo. A medida inclui a própria companh…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
+    "time": "2026-08-17T10:15:09.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "EUA consideram novas sanções contra Alexandre de Moraes, diz jornal britânico",
     "d": "O jornal britânico Financial Times noticiou que o governo dos EUA está discutindo novas sanções contra o ministro do Supremo Tribunal Federal.",
     "link": "https://www.bbc.com/portuguese/articles/cy5dzl6e09ko?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-17T10:05:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Copacol cria cooperativa de crédito para associados",
-    "d": "A CrediSIS Copacol nasce de um desejo antigo dos 1.430 sócios fundadores da cooperativa paranaense do agronegócio",
-    "link": "https://www.cnnbrasil.com.br/agro/copacol-cria-cooperativa-de-credito-para-associados/",
-    "time": "2026-08-17T09:30:31.000Z"
   },
   {
     "cat": "internacional",
@@ -25,46 +185,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Casas Bahia pede recuperação judicial após confirmar fechamento de lojas",
-    "d": "Após atrasar divulgação de resultados, companhia registrou prejuízo de R$ 10 bilhões no 2º trimestre, 18 vezes maior ante mesmo período do ano passado",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/casas-bahia-pede-recuperacao-judicial-apos-confirmar-fechamento-de-lojas/",
-    "time": "2026-08-17T09:02:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Top Zambian opposition figures arrested days after presidential vote",
-    "d": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T09:01:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Morte de Silvio Santos completa 2 anos nesta segunda (17)",
-    "d": "Apresentador que se tornou um dos maiores empresários de comunicação do país faleceu aos 93 anos",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/morte-de-silvio-santos-completa-2-anos-nesta-segunda-17/",
-    "time": "2026-08-17T09:00:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dr. Kalil: Saiba fatores que aumentam as chances de transtornos alimentares",
-    "d": "Especialistas do Ambulim do HC-FMUSP explicam ao CNN Sinais Vitais como biologia, genética e redes sociais influenciam o desenvolvimento de transtornos alimentares",
-    "link": "https://www.cnnbrasil.com.br/saude/dr-kalil-saiba-fatores-que-aumentam-as-chances-de-transtornos-alimentares/",
-    "time": "2026-08-17T09:00:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Etanol e biometano avançam no transporte de cargas no Brasil",
-    "d": "Novos mercados para biocombustíveis ampliam alternativas para descarbonizar setores de difícil eletrificação",
-    "link": "https://www.cnnbrasil.com.br/agro/etanol-e-biometano-avancam-no-transporte-de-cargas/",
-    "time": "2026-08-17T09:00:34.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como a vida em El Salvador mudou nos 4 anos de regime de exceção de Bukele: 'O medo agora é outro'",
     "d": "Documentário da BBC News Brasil retrata os efeitos da política de segurança de Nayib Bukele no cotidiano dos salvadorenhos, divididos entre o alívio pelo fim do domínio das facções e temores diante da concentração de…",
@@ -73,51 +193,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ukrainian strikes kill six in Russia, acting governor says",
-    "d": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T08:47:19.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
     "d": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the countr…",
     "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
     "time": "2026-08-17T08:47:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Anne Hathaway e Jonas Brothers se tornam lendas da Disney; veja como foi",
-    "d": "Cerimônia foi realizada neste domingo (16) durante a D23; várias artistas subiram ao palco",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/anne-hathaway-e-jonas-brothers-se-tornam-lendas-da-disney-veja-como-foi/",
-    "time": "2026-08-17T08:44:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-    "d": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T08:43:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Hayden Panettiere: o que se sabe sobre a morte da atriz de 'Heroes' aos 36 anos",
-    "d": "Ela atuou nas séries de TV 'Heroes' e 'Nashville', além dos filmes 'Duelo de Titãs' e 'Um Presente para Helen'.",
-    "link": "https://www.bbc.com/portuguese/articles/ckg3vnmrx7mo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T08:40:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-    "d": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T08:38:41.000Z"
   },
   {
     "cat": "internacional",
@@ -137,59 +217,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lei do Bem: empresas do agro têm até 31 de agosto para reduzir impostos",
-    "d": "",
-    "link": "https://www.cnnbrasil.com.br/agro/lei-do-bem-empresas-do-agro-tem-ate-31-de-agosto-para-reduzir-impostos/",
-    "time": "2026-08-17T08:00:15.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Se Pablo Marçal está inelegível por 8 anos, por que foi anunciado como candidato à Presidência?",
     "d": "Para especialistas, as situações de inelegibilidade de Pablo Marçal são claras: \"A chance de ele ser candidato é zero\"",
     "link": "https://www.bbc.com/portuguese/articles/c5ywwwy4qx4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-17T07:57:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Empresas de mobilidade querem fomento a investimentos na reforma tributária",
-    "d": "Novos incentivos passariam por mudança no regime especial das companhias de transporte",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/empresas-de-mobilidade-querem-fomento-a-investimentos-na-reforma-tributaria/",
-    "time": "2026-08-17T07:30:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Partidos têm até quarta para responder Dino sobre gestão de emendas",
-    "d": "Ministro do STF cobrou de 21 legendas informações sobre eventual participação de dirigentes na definição e distribuição de emendas",
-    "link": "https://www.cnnbrasil.com.br/politica/partidos-tem-ate-quarta-para-responder-dino-sobre-gestao-de-emendas/",
-    "time": "2026-08-17T07:16:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fuvest abre inscrições para vestibular 2027 nesta segunda (17); saiba mais",
-    "d": "Período de aplicação começa às 12h e vai até o dia 9 de outubro",
-    "link": "https://www.cnnbrasil.com.br/educacao/fuvest-abre-inscricoes-para-vestibular-2027-nesta-segunda-17-saiba-mais/",
-    "time": "2026-08-17T07:15:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "42 mulheres participaram da corrida presidencial desde a redemocratização",
-    "d": "Somente nas eleições de 1989 foram 43 homens como cabeça de chapa ou vice; neste ano, sete mulheres estão na disputa",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/42-mulheres-participaram-da-corrida-presidencial-desde-a-redemocratizacao/",
-    "time": "2026-08-17T07:15:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TSE deve se reunir nesta semana para esclarecer regra sobre deepfakes",
-    "d": "Ministros devem reforçar proibição da tecnologia e alinhar entendimento antes de julgar caso envolvendo vídeo de Bolsonaro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-deve-se-reunir-nesta-semana-para-esclarecer-regra-sobre-deepfakes/",
-    "time": "2026-08-17T07:11:37.000Z"
   },
   {
     "cat": "internacional",
@@ -270,14 +302,6 @@
     "d": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
     "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-17T02:22:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A onda de protestos que conseguiu barrar a primeira fazenda de polvos do mundo",
-    "d": "Os planos para a primeira fazenda de polvos do mundo foram abandonados. Enquanto isso, vários países e estados dos EUA estão proibindo a criação de polvos.",
-    "link": "https://www.bbc.com/portuguese/articles/clyjj8v218eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T01:09:00.000Z"
   },
   {
     "cat": "brasil",
@@ -377,14 +401,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: veja a agenda de Lenilda Luna neste domingo (16)",
-    "d": "Lenilda Luna Erik Maia A candidata ao Governo de Alagoas Lenilda Luna (UP) inicia a campanha eleitoral neste domingo (16) com um ato no bairro do Vergel do Lago, em Maceió. A atividade está marcada para as 16h. 📱Part…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/16/eleicoes-2026-veja-a-agenda-de-lenilda-luna-neste-domingo-16.ghtml",
-    "time": "2026-08-16T16:59:49.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha; veja como foram os atos",
     "d": "Petista fez discurso em São Bernardo do Campo (SP), enquanto seu principal adversário no pleito de outubro subiu em trio elétrico no Rio de Janeiro.",
@@ -480,14 +496,6 @@
     "time": "2026-08-16T07:01:18.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "China domina mercado de robôs humanoides; entenda por que os EUA decidiram barrá-los",
-    "d": "Feira da Indústria tem exposição de robôs humanóides A fabricante chinesa de robôs humanoides e quadrúpedes Unitree Robotics abriu na segunda-feira (10) as inscrições para sua oferta pública inicial de ações na Bolsa…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/16/china-domina-mercado-de-robos-humanoides-entenda-por-que-os-eua-decidiram-barra-los.ghtml",
-    "time": "2026-08-16T06:00:35.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
@@ -518,14 +526,6 @@
     "d": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump’s One Big Beautiful Bill Act (OBBBA) last year – the one that pai…",
     "link": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
     "time": "2026-08-15T10:00:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-15T09:07:27.000Z"
   },
   {
     "cat": "economia",
@@ -646,13 +646,5 @@
     "d": "Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran war US consumer prices cooled slightly in July as the annualized inflation rate dipped down to…",
     "link": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
     "time": "2026-08-12T12:39:46.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘Unrig the economy for working people’: the California candidate who wrote updated labor laws",
-    "d": "Marni von Wilpert helped draft Protecting the Right to Organize act, and now wants work toward implementing it Legislation that would modernize federal labor law began with a handful of lawyers meeting, of all places,…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race",
-    "time": "2026-08-12T11:00:28.000Z"
   }
 ]
