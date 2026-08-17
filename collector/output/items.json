@@ -1,5 +1,93 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Heroes actress Hayden Panettiere dies aged 36",
+    "d": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T05:15:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+    "d": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T05:06:47.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Correios: balanço prévio aponta prejuízo de R$ 5,4 bilhões no 1º semestre de 2026",
+    "d": "Dados prévios do balancete contábil dos Correios, obtidos com exclusividade pelo g1, apontam um prejuízo de R$ 5,4 bilhões no 1º semestre de 2026. Para o segundo trimestre, o prejuízo acumulado é de cerca de R$ 2,2 bi…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/17/correios-balanco-previo-aponta-prejuizo-de-r-54-bilhoes-no-1o-semestre-de-2026.ghtml",
+    "time": "2026-08-17T05:00:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+    "d": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T04:50:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ebola outbreak in DR Congo becomes deadliest in its history",
+    "d": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T04:41:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tumulto em templo deixa ao menos seis mortos e vários feridos na Índia",
+    "d": "Episódio aconteceu no complexo de Ashok Dham, no distrito de Lakhisarai, em Bihar",
+    "link": "https://www.cnnbrasil.com.br/internacional/tumulto-em-templo-deixa-mortos-e-varios-feridos-na-india/",
+    "time": "2026-08-17T04:37:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Record rains drench South Korean city as landslide kills one",
+    "d": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T04:34:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+    "d": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-17T04:30:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+    "d": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US mili…",
+    "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+    "time": "2026-08-17T04:07:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Hayden Panettiere, atriz de Heroes e Nashville, morre aos 36 anos",
+    "d": "Circunstâncias da morte não foram divulgadas",
+    "link": "https://www.cnnbrasil.com.br/pop/hayden-panettiere-atriz-de-heroes-e-nashville-morre-aos-36-anos/",
+    "time": "2026-08-17T04:02:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "O voto da maioria: o que pensa e o que quer o eleitor da Classe C - O Assunto #1784",
+    "d": "Começou neste domingo (16) a corrida eleitoral para o pleito que será realizado no dia 4 de outubro. A partir desta semana, candidatos e partidos podem pedir voto aos eleitores – e, nesta missão, vão encontrar um país…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/17/o-voto-da-maioria-o-que-pensa-e-o-que-quer-o-eleitor-da-classe-c-o-assunto-1784.ghtml",
+    "time": "2026-08-17T03:30:08.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "Pretos e pardos representam 49,9% das candidaturas registradas para as eleições de 2026",
@@ -14,14 +102,6 @@
     "d": "Discord admite falha em sistema de alerta em live que vitimou menina de 13 anos O prazo para a plataforma Discord desativar a funcionalidade de transmissão ao vivo no Brasil termina nesta segunda-feira (17). A Agência…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/17/discord-tem-ate-esta-segunda-para-suspender-lives-no-brasil-especialistas-avaliam-protecao-a-menores.ghtml",
     "time": "2026-08-17T03:00:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-    "d": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T02:51:27.000Z"
   },
   {
     "cat": "brasil",
@@ -54,14 +134,6 @@
     "d": "Giullia relatou ter sido atingida na mão direita pelo empresário com um golpe de taco de beisebol; Ivo foi preso em flagrante na madrugada de sábado (15)",
     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/vai-ser-bem-ruim-para-voce-veja-mensagens-de-amecas-de-ivo-kos-a-esposa/",
     "time": "2026-08-17T01:53:03.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
-    "d": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US mili…",
-    "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-    "time": "2026-08-17T01:49:36.000Z"
   },
   {
     "cat": "brasil",
@@ -128,30 +200,6 @@
     "time": "2026-08-17T00:45:47.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeos mostram momento em que filho de policial é atingido em SP; veja",
-    "d": "Pai e filho foram abordados por dois suspeitos em uma moto neste domingo (16); agente do Deic (Departamento Estadual de Investigações Criminais) foi atingido de raspão, mas a criança não resistiu",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/videos-mostram-momento-em-que-filho-de-policial-e-atingido-em-sp-veja/",
-    "time": "2026-08-17T00:30:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cruzeiro vence Corinthians e se aproxima do G4 do Brasileirão",
-    "d": "Raposa faz 2 a 1 na Neo Química Arena, sobe para quinto e fica a dois pontos do Fluminense; Timão permanece em nono",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-vence-corinthians-e-se-aproxima-do-g-4-do-brasileirao/",
-    "time": "2026-08-17T00:28:57.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-    "d": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
-    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T00:20:51.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
@@ -192,14 +240,6 @@
     "time": "2026-08-16T21:23:44.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US commander says mental health a 'priority' on USS Lincoln",
-    "d": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
-    "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T21:04:27.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Polícia Federal localiza avião de Vorcaro no Paraguai",
@@ -222,14 +262,6 @@
     "d": "Mulher vota na urna eleitoral em cabina de votação Roberto Jayme/Ascom/TSE Mulheres representam 34,8% das candidaturas registradas para as eleições de 2026, segundo dados do Tribunal Superior Eleitoral (TSE) atualizad…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/16/mulheres-candidaturas-eleicoes-2026.ghtml",
     "time": "2026-08-16T20:46:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "d": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T19:58:14.000Z"
   },
   {
     "cat": "internacional",
@@ -304,14 +336,6 @@
     "time": "2026-08-16T16:49:16.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ao lado de Lula em 1º ato da campanha, Haddad diz que presidente 'não abaixou a cabeça' para nenhum banqueiro",
-    "d": "Haddad lança campanha ao governo de SP em comício de Lula em São Bernardo do Campo. Reprodução/TV Globo O candidato ao governo de São Paulo Fernando Haddad (PT) afirmou neste domingo (16), durante seu primeiro ato de…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/16/haddad-lanca-campanha-ao-governo-de-sp-em-comicio-de-lula-em-sao-bernardo-do-campo.ghtml",
-    "time": "2026-08-16T16:27:29.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Agência de classificação de risco Fitch eleva nota de crédito do município do Rio de Janeiro para o grau mais alto",
@@ -336,14 +360,6 @@
     "time": "2026-08-16T13:34:38.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-    "d": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T12:37:21.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Quem são os candidatos à Presidência na Eleição 2026",
@@ -358,14 +374,6 @@
     "d": "Os críticos da BBC Caryn James e Nicholas Barber selecionam 12 destaques do primeiro semestre.",
     "link": "https://www.bbc.com/portuguese/articles/clyv7l6y4gjo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-16T11:47:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-    "d": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-16T11:35:25.000Z"
   },
   {
     "cat": "internacional",
@@ -518,14 +526,6 @@
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-15T09:07:27.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "China tenta reduzir dependência de alimentos importados; o que isso significa para o agro brasileiro",
-    "d": "Segurança alimentar: um desafio de estratégia e sobrevivência entre EUA e China \"A tigela de arroz do povo chinês tem que estar firme nas próprias mãos, cheia principalmente de comida chinesa.\" A frase, repetida há ma…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/15/china-tenta-reduzir-dependencia-de-alimentos-importados.ghtml",
-    "time": "2026-08-15T08:00:13.000Z"
   },
   {
     "cat": "economia",
