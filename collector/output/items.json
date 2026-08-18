@@ -1,27 +1,203 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Famosos e familiares se despedem de Laura Cardoso em velório; veja fotos",
+    "d": "Ícone da TV brasileira, atriz morreu aos 98 anos; informação foi divulgada na madrugada desta terça (18)",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-e-familiares-se-despedem-de-laura-cardoso-em-velorio-veja-fotos/",
+    "time": "2026-08-18T16:48:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Medicamentos para perder peso podem ser considerados doping no esporte?",
+    "d": "As medicações para emagrecer à base de GLP-1 podem causar perda de peso e melhorar a saúde. Mas será que elas podem também melhorar o rendimento dos atletas?",
+    "link": "https://www.bbc.com/portuguese/articles/c4g6m2e4ylro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T16:44:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Operação da PF mira rede de contrabando de cosméticos e lavagem de dinheiro",
+    "d": "Ação cumpre 30 mandados de busca e apreensão em oito cidades e bloqueia até R$ 37,8 milhões dos investigados",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/operacao-da-pf-mira-rede-de-contrabando-de-cosmeticos-e-lavagem-de-dinheiro/",
+    "time": "2026-08-18T16:43:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Ministério da Fazenda suspende ZeroumBet, criada pela influenciadora Deolane Bezerra, e outras empresas de apostas online",
+    "d": "O Ministério da Fazenda suspendeu na última sexta-feira (14) a empresa de apostas online ZeroumBet, criada pela advogada, influenciadora digital e empresária Deolane Bezerra, por não encaminhar as informações exigidas…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/18/ministerio-da-fazenda-suspende-zeroumbet-criada-pela-influenciadora-deolane-bezerra-e-outras-empresas-de-apostas-online.ghtml",
+    "time": "2026-08-18T16:41:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vale vê oportunidade de “melhorias” em PL dos minerais críticos, diz CEO",
+    "d": "Gustavo Pimenta avalia que proposta traz avanços, mas defende atenção à regulamentação e pede mecanismos para acelerar licenciamento de projetos estratégicos",
+    "link": "https://www.cnnbrasil.com.br/infra/vale-ve-oportunidade-de-melhorias-em-pl-dos-minerais-criticos-diz-ceo/",
+    "time": "2026-08-18T16:40:02.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "VPJ quer transformar hambúrguer Angus em marca nacional e mira exportação",
+    "d": "Empresa investe em tecnologia, amplia presença no varejo e food service e prepara entrada do produto brasileiro no mercado norte-americano",
+    "link": "https://www.cnnbrasil.com.br/agro/vpj-quer-transformar-hamburguer-angus-em-marca-nacional-e-mira-exportacao/",
+    "time": "2026-08-18T16:39:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Presidente do Equador se reúne com Xi Jinping na China",
+    "d": "Presidente equatoriano endossou a soberania chinesa e a posição de Pequim sobre a questão de Taiwan durante reunião bilateral",
+    "link": "https://www.cnnbrasil.com.br/internacional/presidente-do-equador-se-reune-com-xi-jinping-na-china/",
+    "time": "2026-08-18T16:37:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Bill Rasmussen, fundador da ESPN, morre aos 93 anos",
+    "d": "Bill Rasmussen, fundador da ESPN, morre aos 93 anos. Divulgação/ESPN Bill Rasmussen, fundador da ESPN e responsável pela criação da primeira rede de televisão esportiva 24 horas do mundo, morreu nesta terça-feira (18)…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/18/bill-rasmussen-fundador-da-espn-morre-aos-93-anos.ghtml",
+    "time": "2026-08-18T16:35:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Vorcaro e Master vão a julgamento na CVM em processo que apura fraudes em mercado de capitais",
+    "d": "A Comissão de Valores Mobiliários (CVM) marcou para 8 de setembro o julgamento do processo administrativo que apura supostas fraudes relacionadas ao mercado de capitais. Entre os acusados no processo estão o Banco Mas…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/18/vorcaro-e-master-vao-a-julgamento-na-cvm-em-processo-que-apura-fraudes-em-mercado-de-capitais.ghtml",
+    "time": "2026-08-18T16:34:29.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Recuperação judicial da Casas Bahia preocupa investidores de renda fixa",
+    "d": "Crise da varejista expõe impacto dos juros elevados sobre empresas endividadas",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/recuperacao-judicial-da-casas-bahia-preocupa-investidores-de-renda-fixa/",
+    "time": "2026-08-18T16:33:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Conheça Alex Arce, atacante do Independiente Rivadavia especulado no Vasco",
+    "d": "Jogador de 31 anos vem tendo uma temporada sólida com gols decisivos; pelo clube argentino, ele busca uma vaga nas quartas de final da Libertadores em duelo contra o Fluminense",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/conheca-alex-arce-atacante-do-independiente-rivadavia-especulado-no-vasco/",
+    "time": "2026-08-18T16:31:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem são os candidatos a governador da Bahia em 2026",
+    "d": "Cerca de 11,3 milhões de eleitores decidirão entre seis candidatos para comandar o estado no pleito deste ano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-a-governador-da-bahia-em-2026/",
+    "time": "2026-08-18T16:30:30.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Efeito dominó: crises de Casas Bahia e Marabraz podem deixar crédito mais difícil ao varejo",
+    "d": "Crise das Casas Bahia pode limitar crédito Os pedidos de recuperação judicial das Casas Bahia e Marabraz nesta semana reacenderam uma preocupação no mercado financeiro: a ameaça de um novo aperto generalizado nas linh…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/18/efeito-domino-crises-de-casas-bahia-e-marabraz-podem-deixar-credito-mais-dificil-ao-varejo.ghtml",
+    "time": "2026-08-18T16:30:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Romero Jucá desiste de disputar vaga de deputado federal por Roraima nas eleições 2026",
+    "d": "Presidente do MDB Roraima e ex-senador, Romero Jucá. Andressa Anholete/Agência Senado O ex-senador Romero Jucá (MDB) desistiu de disputar uma vaga de deputado federal por Roraima nas eleições de 2026. Em nota divulgad…",
+    "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/18/romero-juca-desiste-de-disputar-vaga-de-deputado-federal-por-roraima-nas-eleicoes-2026.ghtml",
+    "time": "2026-08-18T16:28:23.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+    "d": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
+    "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T16:26:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Anitta é indicada ao VMA 2026 ao lado de Shakira",
+    "d": "Brasileira e colombiana foram destaque na categoria de Música Latina na Premiação",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/anitta-e-indicada-ao-vma-2026-ao-lado-de-shakira/",
+    "time": "2026-08-18T16:24:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+    "d": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T16:22:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Especialista defende política integral no combate à violência contra mulher",
+    "d": "Em entrevista ao Live CNN, Beatriz Accioly afirmou que combate à violência de gênero deve envolver diferentes setores da política pública",
+    "link": "https://www.cnnbrasil.com.br/nacional/especialista-defende-politica-integral-no-combate-a-violencia-contra-mulher/",
+    "time": "2026-08-18T16:22:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Garoto de 13 anos recolheu 1,5 milhão de latinhas; veja o que ele salvou",
+    "d": "Iniciativa de jovem britânico evitou a extração de dezenas de toneladas de bauxita e gerou recursos financeiros para instituições sociais",
+    "link": "https://www.cnnbrasil.com.br/ciencia/garoto-de-13-anos-recolheu-15-milhao-de-latinhas-veja-o-que-ele-salvou/",
+    "time": "2026-08-18T16:18:28.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Crise na Apex: justiça decreta bloqueio de bens e quebra de sigilo bancário de presidente afastado",
+    "d": "MPES se manifesta sobre caso Apex no processo Os bens de Fernando Antonio Kulnig Cinelli, ex-presidente afastado do grupo Apex, foram bloqueados nesta segunda-feira (17) pela Justiça do Espírito Santo. A decisão parti…",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/18/crise-na-apex-justica-decreta-bloqueio-de-bens-e-quebra-de-sigilo-bancario-de-presidente-afastado.ghtml",
+    "time": "2026-08-18T16:18:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caiado defende vacinas e modernizar o SUS ao lançar medidas para saúde",
+    "d": "Programa estabelece metas para vacinação, SAMU e digitalização do SUS",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-defende-vacinas-e-modernizar-o-sus-ao-lancar-medidas-para-saude/",
+    "time": "2026-08-18T16:09:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+    "d": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T16:00:30.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Robôs que dançam, lutam e trabalham: gigante chinesa estreia na bolsa após levantar quase US$ 1 bilhão",
+    "d": "Robôs humanoides chineses superam humanos em meia-maratona em Pequim A Unitree, uma das maiores fabricantes de robôs humanoides do mundo em volume de vendas, estreia nesta quarta-feira (19) na bolsa de Xangai, na Chin…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/18/robos-que-dancam-lutam-e-trabalham-gigante-chinesa-estreia-na-bolsa-apos-levantar-quase-us-1-bilhao.ghtml",
+    "time": "2026-08-18T15:58:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Cury defende 'impostos altíssimos' para bets, escala 5x2 e prazo de 8 anos para ministros no STF",
+    "d": "O candidato do Avante à Presidência da República, Augusto Cury, defendeu nesta terça-feira (18) a aplicação de \"impostos altíssimos\" para empresas que operam bets no Brasil. Ele também disse ser favorável a uma escala…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/cury-defende-impostos-altissimos-para-bets-escala-5x2-e-prazo-de-8-anos-no-stf-para-ministros.ghtml",
+    "time": "2026-08-18T15:58:17.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Pablo Marçal corrige declaração de bens e registra no TSE que tem R$ 149,9 milhões",
-    "d": "O candidato do PRTB à Presidência da República, Pablo Marçal, entregou uma nova declaração de bens à Justiça Eleitoral e passou a informar um patrimônio de R$ 149,9 milhões. Na declaração anterior, o valor informado h…",
+    "d": "O candidato do PRTB à Presidência da República, Pablo Marçal, entregou uma nova declaração de bens à Justiça Eleitoral e passou a informar um patrimônio de R$ 149,9 milhões. Ele corrigiu a declaração anterior, na qual…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/pablo-marcal-corrige-declaracao-de-bens-e-registra-no-tse-que-tem-r-1499-milhoes.ghtml",
     "time": "2026-08-18T15:46:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "IAs dão informações falsas sobre eleições e recomendam votos, diz estudo",
-    "d": "Levantamento da Ekō realizado com sistemas da Meta IA, ChatGPT, Google Gemini e Grok mostrou descumprimento da resolução do TSE que proíbe chatbots de sugerir candidatos a eleitores",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/ias-dao-informacoes-falsas-sobre-eleicoes-e-recomendam-votos-diz-estudo/",
-    "time": "2026-08-18T15:44:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Santos acerta venda de Adonis Frías para futebol mexicano; veja detalhes",
-    "d": "Defensor estava perto do Racing, mas proposta superior do Atlas fez Santos mudar de planos",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/santos-acerta-venda-de-adonis-frias-para-futebol-mexicano-veja-detalhes/",
-    "time": "2026-08-18T15:43:05.000Z"
   },
   {
     "cat": "economia",
@@ -33,91 +209,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lesão de João Fonseca exige “evolução física”, diz comentarista",
-    "d": "Ex-jogador Fernando Meligeni avalia situação do jovem atleta após desistência do Masters 1000 de Cincinnati, EUA",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/lesao-de-joao-fonseca-exige-evolucao-fisica-diz-comentarista/",
-    "time": "2026-08-18T15:40:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Funcionária será indenizada por se queimar ao fazer batata frita; entenda",
-    "d": "Acidente de trabalho ocorreu em janeiro de 2020 em restaurante de Santos (SP); mulher foi atingida por óleo que fervia em tacho onde eram feitas as batatas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/funcionaria-sera-indenizada-por-se-queimar-ao-fazer-batata-frita-entenda/",
-    "time": "2026-08-18T15:37:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ao lado de Nikolas, Flávio diz que “quem vence em Minas ganha as eleições”",
-    "d": "Fala ocorre em palanque de estado estratégico para Lula e Flávio, que aparecem empatados nas pesquisas regionais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/ao-lado-de-nikolas-flavio-diz-que-quem-vence-em-minas-ganha-as-eleicoes/",
-    "time": "2026-08-18T15:34:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Motorista parado na blitz sem CNH física e bateria no celular: o que fazer?",
-    "d": "A ausência do documento impresso e a impossibilidade de apresentar a versão digital por falta de carga no aparelho podem resultar em sanções previstas no Código de Trânsito Brasileiro.",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/motorista-parado-na-blitz-sem-cnh-fisica-e-bateria-no-celular-o-que-fazer/",
-    "time": "2026-08-18T15:31:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vale “segue estudando” entrada em mercados de lítio e terras raras, diz CEO",
-    "d": "Mineradora ainda não tomou decisão sobre novas commodities e avalia escala, refino e competitividade das cadeias",
-    "link": "https://www.cnnbrasil.com.br/infra/vale-segue-estudando-entrada-em-mercados-de-litio-e-terras-raras-diz-ceo/",
-    "time": "2026-08-18T15:31:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Petróleo sobe pela 3ª sessão seguida com aumento das tensões EUA-Irã",
-    "d": "No início das negociações, contratos futuros do Brent e WTI alcançaram seus níveis mais altos desde o final de julho",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-18-agosto-2026/",
-    "time": "2026-08-18T15:29:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cinco adolescentes são apreendidos por estupro coletivo em escola de PE",
-    "d": "Jovens são suspeitos por dois casos diferentes de estupros de meninas de 14 anos, ocorridos em julho e agosto",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pe/cinco-adolescentes-sao-apreendidos-por-estupro-coletivo-em-escola-de-pe/",
-    "time": "2026-08-18T15:22:25.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Renan diz que acabar com 6x1 é 'maluquice', afirma que CLT 'já era' e defende fim da Justiça do Trabalho",
     "d": "O candidato do Missão à Presidência da República, Renan Santos, afirmou nesta terça-feira (18) que acabar com a escala de trabalho 6x1 no Brasil é uma \"maluquice\". Ele também disse que a Consolidação das Leis do Traba…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/renan-diz-que-acabar-com-6x1-e-maluquice-afirma-que-clt-ja-era-e-defende-fim-da-justica-do-trabalho.ghtml",
     "time": "2026-08-18T15:20:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em Heliópolis, Haddad promete “choque de modernidade” na educação",
-    "d": "Candidato ao governo de São Paulo defendeu uso de Inteligência Artificial nas escolas e mais tecnologia na segurança pública",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/em-heliopolis-haddad-promete-choque-de-modernidade-na-educacao/",
-    "time": "2026-08-18T15:19:44.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Economista-chefe do BCE afirma que inflação de 3% é “muito”",
-    "d": "Philip Lane também argumentou que apesar de ser um índice baixo comparado a 10%, ainda é muito quando se pensa em calibrar as taxas de juros em resposta a um choque",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/economista-chefe-do-bce-afirma-que-inflacao-de-3-e-muito/",
-    "time": "2026-08-18T15:19:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiro é solto após passar 10 meses detido pelo ICE",
-    "d": "Marcos Gaspar da Silva foi liberado após decisão judicial; família denuncia condições desumanas no centro de detenção",
-    "link": "https://www.cnnbrasil.com.br/internacional/brasileiro-e-solto-apos-passar-10-meses-detido-pelo-ice/",
-    "time": "2026-08-18T15:16:58.000Z"
   },
   {
     "cat": "economia",
@@ -179,7 +275,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Executor de homicídio no MA diz que Daniel Brandão participou de 'emboscada' e que versão foi 'ensaiada' na polícia",
-    "d": "Em depoimento à Polícia Federal (PF), Gilbson Júnior — condenado a 13 anos de prisão pelo assassinato do empresário João Bosco Sobrinho Pereira de Oliveira em 2022 — afirmou que o crime ocorreu após uma espécie de \"em…",
+    "d": "Em depoimento à Polícia Federal (PF), Gilbson Júnior — condenado a 13 anos de prisão por um assassinato em São Luís — afirmou que o crime ocorreu após uma espécie de \"emboscada\" que contou com a participação direta de…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/18/executor-de-homicidio-no-ma-diz-que-daniel-brandao-participou-de-emboscada-e-que-versao-foi-ensaiada-na-policia.ghtml",
     "time": "2026-08-18T14:23:44.000Z"
   },
@@ -240,7 +336,7 @@
     "time": "2026-08-18T13:13:54.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "STF decide que municípios não podem cobrar IPTU com alíquota maior por causa do tamanho do imóvel",
     "d": "O Supremo Tribunal Federal (STF) decidiu nesta segunda-feira (177), por unanimidade, que municípios não podem fixar alíquotas do Imposto Predial e Territorial Urbano (IPTU) com base apenas na área do imóvel, isto é, n…",
@@ -254,22 +350,6 @@
     "d": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T12:36:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça manda Lula tirar do ar trechos de discurso com pedido de voto em convenção na Bahia",
-    "d": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), determinou que as equipes do presidente Luiz Inácio Lula da Silva (PT) e de candidatos do PT retirem do ar trechos de um discurso do petista em que ele…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/mendonca-manda-lula-tirar-do-ar-trechos-de-discurso-com-pedido-de-voto-em-convencao-na-bahia.ghtml",
-    "time": "2026-08-18T12:29:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Governo está otimista com aprovação, mas Alcolumbre ainda não enviou PECs da Segurança e do fim da 6x1 para a CCJ",
-    "d": "Lula e Alcolumbre em visita ao navio-sonda da Petrobras no Oiapoque, no Amapá Divulgação Depois dos últimos encontros e dos afagos públicos nesta segunda-feira (17) no Amapá entre o presidente Lula e o presidente do S…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/18/governo-esta-otimista-com-aprovacao-das-pecs-da-seguranca-e-do-fim-da-6x1-antes-das-eleicoes.ghtml",
-    "time": "2026-08-18T12:13:47.000Z"
   },
   {
     "cat": "comercio",
@@ -304,36 +384,12 @@
     "time": "2026-08-18T11:50:40.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "ChatGPT anuncia versão para adolescentes com limites de conteúdo, uso e controle dos pais",
-    "d": "Agente do ChatGPT reserva restaurante, faz compra, mas erra ao insistir demais A OpenAI anunciou uma versão do ChatGPT desenvolvida especificamente para adolescentes. A experiência, chamada de ChatGPT para Adolescente…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/18/chatgpt-anuncia-versao-para-adolescentes-com-limites-de-conteudo-uso-e-controle-dos-pais.ghtml",
-    "time": "2026-08-18T11:42:49.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T11:13:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-    "d": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T10:59:22.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Meta enfrenta julgamento que pode forçar mudanças em Facebook e Instagram",
-    "d": "Logotipo da Meta no Meta Lab, em Los Angeles, Califórnia (EUA), em 20 de maio de 2026 REUTERS/Daniel Cole/Foto de arquivo Uma coalizão de 29 estados dos EUA começa a apresentar nesta terça-feira (18), em um tribunal f…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/18/meta-julgamento.ghtml",
-    "time": "2026-08-18T10:54:46.000Z"
   },
   {
     "cat": "economia",
@@ -350,22 +406,6 @@
     "d": "Confirmação de que há petróleo na região abre uma nova etapa de exploração para o Brasil, mas há dúvidas sobre o volume encontrado, a viabilidade econômica da operação e os possíveis impactos para a região.",
     "link": "https://www.bbc.com/portuguese/articles/ckg90w38xn3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T10:43:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Empresas de AI prometem menos horas de trabalho — mas seus funcionários afirmam trabalhar até 90 horas",
-    "d": "As empresas de tecnologia não estão comprovando suas próprias alegações de que a tecnologia proporcionaria mais tempo livre às pessoas.",
-    "link": "https://www.bbc.com/portuguese/articles/cy5dz17vzpro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T10:26:22.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
-    "d": "Petrobras anuncia descoberta de petróleo na Bacia da Foz do Amazonas, na costa do Amapá A Petrobras confirmou a existência de petróleo no poço Morpho, na bacia da Foz do Amazonas, no litoral do Amapá, nesta segunda-fe…",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/18/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.ghtml",
-    "time": "2026-08-18T09:52:48.000Z"
   },
   {
     "cat": "brasil",
@@ -400,22 +440,6 @@
     "time": "2026-08-18T08:03:49.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Crise econômica, 'santinho' nas redes e mais: casos na Justiça mostram formas mais comuns de assédio eleitoral no trabalho",
-    "d": "Crescem os números de processos e denúncias por assédio moral no trabalho Pressão para compartilhar propaganda política no WhatsApp, exigência de \"santinhos\" em perfis pessoais, vigilância das redes sociais e ameaças…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/crise-economica-santinho-nas-redes-e-mais-casos-na-justica-mostram-formas-mais-comuns-de-assedio-eleitoral-no-trabalho.ghtml",
-    "time": "2026-08-18T08:03:06.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Empregos em tecnologia crescem mais fora do Sul e Sudeste; salários chegam a R$ 40,5 mil",
-    "d": "Empregos formais em tecnologia da informação e comunicação (TIC) estão crescendo fora das regiões Sul e Sudeste do Brasil. Reprodução/Unsplash Os empregos formais em tecnologia da informação e comunicação (TIC) estão…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/empregos-em-tecnologia-crescem-mais-fora-do-sul-e-sudeste.ghtml",
-    "time": "2026-08-18T08:02:41.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Indian student leader ends hunger strike after 16 days",
@@ -432,28 +456,12 @@
     "time": "2026-08-18T07:17:07.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados",
-    "d": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados Pexels O chefe grita, expõe funcionários, faz cobranças excessivas e cria um clima de medo na equipe. Mesmo assim, continua sendo elogiado…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/trabalhadores-veem-empresas-tolerarem-abusos-de-chefes-que-entregam-resultados.ghtml",
-    "time": "2026-08-18T07:03:11.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
     "d": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un ‘Inane, haphazard decision’ by Trump to gut South Korea alliance South…",
     "link": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
     "time": "2026-08-18T05:50:33.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-    "d": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-    "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T05:24:15.000Z"
   },
   {
     "cat": "internacional",
@@ -470,14 +478,6 @@
     "d": "The alleged shooter, also a student, later took his own life.",
     "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T03:43:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Norway's king admitted to hospital and put on sick leave",
-    "d": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T21:34:26.000Z"
   },
   {
     "cat": "brasil",
