@@ -1,59 +1,195 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Pablo Marçal corrige declaração de bens e registra no TSE que tem R$ 149,9 milhões",
+    "d": "O candidato do PRTB à Presidência da República, Pablo Marçal, entregou uma nova declaração de bens à Justiça Eleitoral e passou a informar um patrimônio de R$ 149,9 milhões. Na declaração anterior, o valor informado h…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/pablo-marcal-corrige-declaracao-de-bens-e-registra-no-tse-que-tem-r-1499-milhoes.ghtml",
+    "time": "2026-08-18T15:46:41.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Vou usar no limite da lei, diz Flávio sobre imagem de Jair na campanha",
-    "d": "Fala ocorre horas antes de reunião do TSE para decidir sobre IA nas eleições, que deve impactar julgamento sobre imagem simulada de Bolsonaro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/vou-usar-no-limite-da-lei-diz-flavio-sobre-imagem-de-jair-na-campanha/",
-    "time": "2026-08-18T13:53:16.000Z"
+    "h": "IAs dão informações falsas sobre eleições e recomendam votos, diz estudo",
+    "d": "Levantamento da Ekō realizado com sistemas da Meta IA, ChatGPT, Google Gemini e Grok mostrou descumprimento da resolução do TSE que proíbe chatbots de sugerir candidatos a eleitores",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/ias-dao-informacoes-falsas-sobre-eleicoes-e-recomendam-votos-diz-estudo/",
+    "time": "2026-08-18T15:44:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos acerta venda de Adonis Frías para futebol mexicano; veja detalhes",
+    "d": "Defensor estava perto do Racing, mas proposta superior do Atlas fez Santos mudar de planos",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/santos-acerta-venda-de-adonis-frias-para-futebol-mexicano-veja-detalhes/",
+    "time": "2026-08-18T15:43:05.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Disney processa governo Trump para barrar ameaça contra emissoras da ABC",
+    "d": "Disney corta empregos em meio à crise REUTERS/Dado Ruvic/Illustration/File Photo A Disney e sua unidade ABC processaram a Comissão Federal de Comunicações (FCC) dos Estados Unidos nesta terça-feira (18) para impedir a…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/18/disney-processa-governo-trump-para-barrar-ameaca-contra-emissoras-da-abc.ghtml",
+    "time": "2026-08-18T15:40:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lesão de João Fonseca exige “evolução física”, diz comentarista",
+    "d": "Ex-jogador Fernando Meligeni avalia situação do jovem atleta após desistência do Masters 1000 de Cincinnati, EUA",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/lesao-de-joao-fonseca-exige-evolucao-fisica-diz-comentarista/",
+    "time": "2026-08-18T15:40:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Funcionária será indenizada por se queimar ao fazer batata frita; entenda",
+    "d": "Acidente de trabalho ocorreu em janeiro de 2020 em restaurante de Santos (SP); mulher foi atingida por óleo que fervia em tacho onde eram feitas as batatas",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/funcionaria-sera-indenizada-por-se-queimar-ao-fazer-batata-frita-entenda/",
+    "time": "2026-08-18T15:37:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ao lado de Nikolas, Flávio diz que “quem vence em Minas ganha as eleições”",
+    "d": "Fala ocorre em palanque de estado estratégico para Lula e Flávio, que aparecem empatados nas pesquisas regionais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/ao-lado-de-nikolas-flavio-diz-que-quem-vence-em-minas-ganha-as-eleicoes/",
+    "time": "2026-08-18T15:34:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Motorista parado na blitz sem CNH física e bateria no celular: o que fazer?",
+    "d": "A ausência do documento impresso e a impossibilidade de apresentar a versão digital por falta de carga no aparelho podem resultar em sanções previstas no Código de Trânsito Brasileiro.",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/motorista-parado-na-blitz-sem-cnh-fisica-e-bateria-no-celular-o-que-fazer/",
+    "time": "2026-08-18T15:31:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vale “segue estudando” entrada em mercados de lítio e terras raras, diz CEO",
+    "d": "Mineradora ainda não tomou decisão sobre novas commodities e avalia escala, refino e competitividade das cadeias",
+    "link": "https://www.cnnbrasil.com.br/infra/vale-segue-estudando-entrada-em-mercados-de-litio-e-terras-raras-diz-ceo/",
+    "time": "2026-08-18T15:31:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Petróleo sobe pela 3ª sessão seguida com aumento das tensões EUA-Irã",
+    "d": "No início das negociações, contratos futuros do Brent e WTI alcançaram seus níveis mais altos desde o final de julho",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-18-agosto-2026/",
+    "time": "2026-08-18T15:29:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cinco adolescentes são apreendidos por estupro coletivo em escola de PE",
+    "d": "Jovens são suspeitos por dois casos diferentes de estupros de meninas de 14 anos, ocorridos em julho e agosto",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pe/cinco-adolescentes-sao-apreendidos-por-estupro-coletivo-em-escola-de-pe/",
+    "time": "2026-08-18T15:22:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Renan diz que acabar com 6x1 é 'maluquice', afirma que CLT 'já era' e defende fim da Justiça do Trabalho",
+    "d": "O candidato do Missão à Presidência da República, Renan Santos, afirmou nesta terça-feira (18) que acabar com a escala de trabalho 6x1 no Brasil é uma \"maluquice\". Ele também disse que a Consolidação das Leis do Traba…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/renan-diz-que-acabar-com-6x1-e-maluquice-afirma-que-clt-ja-era-e-defende-fim-da-justica-do-trabalho.ghtml",
+    "time": "2026-08-18T15:20:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em Heliópolis, Haddad promete “choque de modernidade” na educação",
+    "d": "Candidato ao governo de São Paulo defendeu uso de Inteligência Artificial nas escolas e mais tecnologia na segurança pública",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/em-heliopolis-haddad-promete-choque-de-modernidade-na-educacao/",
+    "time": "2026-08-18T15:19:44.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Economista-chefe do BCE afirma que inflação de 3% é “muito”",
+    "d": "Philip Lane também argumentou que apesar de ser um índice baixo comparado a 10%, ainda é muito quando se pensa em calibrar as taxas de juros em resposta a um choque",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/economista-chefe-do-bce-afirma-que-inflacao-de-3-e-muito/",
+    "time": "2026-08-18T15:19:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasileiro é solto após passar 10 meses detido pelo ICE",
+    "d": "Marcos Gaspar da Silva foi liberado após decisão judicial; família denuncia condições desumanas no centro de detenção",
+    "link": "https://www.cnnbrasil.com.br/internacional/brasileiro-e-solto-apos-passar-10-meses-detido-pelo-ice/",
+    "time": "2026-08-18T15:16:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Lei Seca: nova regra vai detectar uso de drogas e fazer pré-teste em motorista para indicar álcool",
+    "d": "'Operação Lei Seca' Divulgação/Detran-AM O Conselho Nacional de Trânsito (Contran) aprovou nesta segunda-feira (17) novas regras para a fiscalização da Lei Seca. A resolução atualiza os procedimentos usados pelos agen…",
+    "link": "https://g1.globo.com/carros/noticia/2026/08/18/novas-regras-lei-seca-teste-uso-de-drogas.ghtml",
+    "time": "2026-08-18T15:12:50.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Elogiou, ganhou? Clientes acusam maior bet do Brasil de dar bônus por avaliações positivas",
+    "d": "Na plataforma do Reclame Aqui, usuários relatam que a Betano ofereceu bônus em troca de avaliações positivas. Órgãos de defesa do consumidor alegam que suposta prática pode violar o Código de Defesa do Consumidor (CDC…",
+    "link": "https://g1.globo.com/noticia/2026/08/18/elogiou-ganhou-clientes-acusam-maior-bet-do-brasil-de-dar-bonus-por-avaliacoes-positivas.ghtml",
+    "time": "2026-08-18T14:56:07.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "De Casas Bahia ao Grupo Pão de Açúcar: por que grandes varejistas estão revendo o modelo de lojas físicas",
+    "d": "Recuperação judicial: entenda o instrumento usado pelo Grupo Casas Bahia Casas Bahia, Marabraz, Tok&Stok, GPA, Dia, St Marche. A lista de grandes redes que, nos últimos anos, recorreram à recuperação judicial ou extra…",
+    "link": "https://g1.globo.com/empreendedorismo/noticia/2026/08/18/de-casas-bahia-ao-grupo-pao-de-acucar-por-que-grandes-varejistas-estao-revendo-o-modelo-de-lojas-fisicas.ghtml",
+    "time": "2026-08-18T14:55:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Laura Cardoso morreu aos 98 anos sem nunca se aposentar, com método 'doído' e 'trabalhoso' de atuação",
+    "d": "Artista já havia reduzido o ritmo de trabalho e fez sua última novela em 2019, mas continuou na ativa e, no ano passado, estrelou um curta-metragem em que interpretava uma idosa abandonada.",
+    "link": "https://www.bbc.com/portuguese/articles/cp874rrvld3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T14:40:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Defesa de Carlos Brandão pede ao STF suspensão de inquérito relatado por Flávio Dino",
+    "d": "A defesa do governador do Maranhão, Carlos Brandão (MDB), pediu ao Supremo Tribunal Federal (STF) a suspensão da investigação conduzida pelo ministro Flávio Dino que apura suspeitas reveladas no âmbito do caso que lev…",
+    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/18/defesa-de-carlos-brandao-pede-ao-stf-suspensao-de-inquerito-relatado-por-flavio-dino.ghtml",
+    "time": "2026-08-18T14:32:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quem é Fernando Cerimedo, o influencer argentino próximo a Eduardo Bolsonaro que preso na Bolívia",
+    "d": "O argentino Fernando Cerimedo, que chegou a ser indiciado pela PF pela trama golpista no Brasil, durante entrevista coletiva do então candidato à presidência de Honduras, Nasry Asfura REUTERS/Leonel Estrada O influenc…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/08/18/saiba-quem-e-fernando-cerimedo-ex-estrategista-de-milei-preso-na-bolivia.ghtml",
+    "time": "2026-08-18T14:29:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Elogiou, ganhou? Clientes acusam maior bet do Brasil de dar bônus por avaliações positivas",
+    "d": "Apostadores relatam que Betano ofereceu bônus em troca de avaliações positivas no Reclame Aqui; órgãos defesa do consumidor criticam suposta conduta",
+    "link": "https://www.bbc.com/portuguese/articles/cglj7ewd6xzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T14:25:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Executor de homicídio no MA diz que Daniel Brandão participou de 'emboscada' e que versão foi 'ensaiada' na polícia",
+    "d": "Em depoimento à Polícia Federal (PF), Gilbson Júnior — condenado a 13 anos de prisão pelo assassinato do empresário João Bosco Sobrinho Pereira de Oliveira em 2022 — afirmou que o crime ocorreu após uma espécie de \"em…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/18/executor-de-homicidio-no-ma-diz-que-daniel-brandao-participou-de-emboscada-e-que-versao-foi-ensaiada-na-policia.ghtml",
+    "time": "2026-08-18T14:23:44.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
     "h": "Fachin lança cartilha sobre remuneração de magistrados, defende Judiciário e diz que é preciso separar 'joio do trigo'",
-    "d": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), Edson Fachin, lançou nesta terça-feira (18) uma cartilha para responder dúvidas da população sobre a remuneração dos ministros e…",
+    "d": "‘É preciso separar o joio do trigo’, diz Fachin durante lançamento de cartilha no CNJ O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), Edson Fachin, lançou nesta terça-feira (18)…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/18/fachin-lanca-cartilha-sobre-remuneracao-de-magistrados-defende-judiciario-e-diz-que-e-preciso-separar-joio-do-trigo.ghtml",
     "time": "2026-08-18T13:46:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que não há negociações com o Irã em andamento",
-    "d": "Presidente dos Estados Unidos acrescentou que bloqueio naval continua em vigor e que Estreito de Ormuz está aberto",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-nao-ha-negociacoes-com-o-ira-em-andamento/",
-    "time": "2026-08-18T13:46:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Baidu tem lucro 68% menor no 2º tri e receita cai, apesar de aposta em IA",
-    "d": "Resultado fraco ocorre em meio à desvalorização de mais de um quinto das ações da Baidu listadas em Hong Kong neste ano",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/baidu-tem-lucro-68-menor-no-2o-tri-e-receita-cai-apesar-de-aposta-em-ia/",
-    "time": "2026-08-18T13:46:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vin Diesel celebra 25 anos de “Velozes e Furiosos” com filha de Paul Walker",
-    "d": "Ator prestou homenagem ao amigo, morto em 2013 após sofrer um grave acidente de carro",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/vin-diesel-celebra-25-anos-de-velozes-e-furiosos-com-filha-de-paul-walker/",
-    "time": "2026-08-18T13:45:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Laura Cardoso reencontrou estrelas da TV em gravação recente",
-    "d": "Artista faleceu aos 98 anos; morte foi confirmada na madrugada desta terça-feira (18)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/laura-cardoso-reencontrou-estrelas-da-tv-em-gravacao-recente/",
-    "time": "2026-08-18T13:42:14.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Alta dos fertilizantes coloca inflação de alimentos no radar do Brasil",
-    "d": "País importou 7,4% menos adubos até julho, mas gastou 7,3% mais; J.P. Morgan alerta que menor aplicação do insumo pode reduzir a produtividade e pressionar preços no próximo ciclo",
-    "link": "https://www.cnnbrasil.com.br/agro/alta-dos-fertilizantes-coloca-inflacao-de-alimentos-no-radar-do-brasil/",
-    "time": "2026-08-18T13:38:41.000Z"
   },
   {
     "cat": "economia",
@@ -64,44 +200,12 @@
     "time": "2026-08-18T13:38:23.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Exportações de café solúvel sobem 20% em julho",
-    "d": "Embarques avançam 10,9% no acumulado do ano, enquanto receita recua 2,5%; setor espera impulso de EUA e União Europeia no segundo semestre",
-    "link": "https://www.cnnbrasil.com.br/agro/exportacoes-de-cafe-soluvel-sobem-20-em-julho/",
-    "time": "2026-08-18T13:38:03.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como a expectativa de petróleo na Foz do Amazonas já está mudando o Oiapoque: 'É um bairro atrás do outro'",
     "d": "Expectativa dos royalties com a exploração do combustível na Foz do Amazonas alimenta especulação imobiliária e desmatamento em cidade do Amapá, no extremo norte.",
     "link": "https://www.bbc.com/portuguese/articles/c1k1x28mw2vo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T13:36:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rússia diz que Reino Unido sofrerá consequências por fornecer drones a Kiev",
-    "d": "Londres anunciou em junho que forneceria 150 mil drones à Ucrânia até o final de 2026",
-    "link": "https://www.cnnbrasil.com.br/internacional/russia-diz-que-reino-unido-sofrera-consequencias-por-fornecer-drones-a-kiev/",
-    "time": "2026-08-18T13:35:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Semaglutida no Brasil: como atua substância genérica aprovada pela Anvisa?",
-    "d": "Primeira substância genérica de semaglutida foi desenvolvida pela farmacêutica EMS",
-    "link": "https://www.cnnbrasil.com.br/saude/semaglutida-no-brasil-como-atua-substancia-generica-aprovada-pela-anvisa/",
-    "time": "2026-08-18T13:35:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Xiaomi registra outro tri fraco, com maior concorrência e custos de memória",
-    "d": "Sediada em Pequim, a empresa informou que o lucro líquido caiu 20,5% no segundo trimestre, para 9,46 bilhões de yuans (US$ 1,40 bilhão)",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/xiaomi-registra-outro-tri-fraco-com-maior-concorrencia-e-custos-de-memoria/",
-    "time": "2026-08-18T13:33:11.000Z"
   },
   {
     "cat": "internacional",
@@ -113,27 +217,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eleições 2026: Mulheres são 27% das candidaturas presidenciáveis",
-    "d": "Na corrida presidencial deste ano, duas candidatas disputam como cabeça de chapa e cinco como vice",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-mulheres-sao-27-das-candidaturas-presidenciaveis/",
-    "time": "2026-08-18T13:21:29.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Zema diz que, se eleito, primeiro ato será 'acabar com as bets'",
     "d": "Romeu Zema participa do Fórum Caminhos da Liberdade, nesta quinta-feira (13), em São Paulo. LEANDRO CHEMALLE/ESTADÃO CONTEÚDO O candidato à Presidência Romeu Zema (Novo) afirmou nesta terça-feira (18) que pretende pro…",
     "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/18/zema-diz-que-se-eleito-primeiro-ato-sera-acabar-com-as-bets.ghtml",
     "time": "2026-08-18T13:21:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Virginia Fonseca exibe resultado de treino intenso de abdômen; veja",
-    "d": "Influenciadora tem apostado pesado em exercícios físicos após abrir a própria academia",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-fonseca-exibe-resultado-de-treino-intenso-de-abdomen-veja/",
-    "time": "2026-08-18T13:19:15.000Z"
   },
   {
     "cat": "brasil",
@@ -144,20 +232,20 @@
     "time": "2026-08-18T13:14:46.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Brazil's President Lula hails oil discovery near Amazon river",
+    "d": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T13:13:54.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "STF decide que municípios não podem cobrar IPTU com alíquota maior por causa do tamanho do imóvel",
     "d": "O Supremo Tribunal Federal (STF) decidiu nesta segunda-feira (177), por unanimidade, que municípios não podem fixar alíquotas do Imposto Predial e Territorial Urbano (IPTU) com base apenas na área do imóvel, isto é, n…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/18/stf-decide-que-municipios-nao-podem-cobrar-iptu-com-aliquota-maior-por-causa-do-tamanho-do-imovel.ghtml",
     "time": "2026-08-18T12:52:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Laura Cardoso morreu aos 98 anos sem nunca se aposentar, com método 'doído' e 'trabalhoso' de atuação",
-    "d": "Artista já havia reduzido o ritmo de trabalho e fez sua última novela em 2019, mas continuou na ativa e, no ano passado, estrelou um curta-metragem em que interpretava uma idosa abandonada.",
-    "link": "https://www.bbc.com/portuguese/articles/cp874rrvld3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T12:48:01.000Z"
   },
   {
     "cat": "internacional",
@@ -202,8 +290,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar opera em alta, de olho em petróleo e dados de atividade nos EUA; Ibovespa sobe",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta terça-feira (18), com um avanço de 0,03% perto das 10h45, cotado a R$ 5,2022. Já o Ibovespa, principal índice da bolsa brasileira, subia 0,8…",
+    "h": "Dólar inverte e passa a cair, de olho em petróleo e dados de atividade nos EUA; Ibovespa sobe",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar inverteu o sinal positivo visto no início da sessão e passou a operar em queda nesta terça-feira (18), com um recuo de 0,11% perto das 11h30, cotado a R$ 5,1947…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/18/dolar-ibovespa.ghtml",
     "time": "2026-08-18T12:00:09.000Z"
   },
@@ -328,14 +416,6 @@
     "time": "2026-08-18T08:02:41.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "VÍDEO: como são feitas as pesquisas eleitorais e como os entrevistados são escolhidos",
-    "d": "Pesquisas: como os institutos escolhem quantos, quem e onde entrevistar? Como os institutos de pesquisas eleitorais decidem quantas pessoas entrevistar? Como escolhem quem vai responder? E por que é tão comum alguém d…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/18/video-como-sao-feitas-as-pesquisas-eleitorais-e-como-os-entrevistados-sao-escolhidos.ghtml",
-    "time": "2026-08-18T08:02:01.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Indian student leader ends hunger strike after 16 days",
@@ -358,38 +438,6 @@
     "d": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados Pexels O chefe grita, expõe funcionários, faz cobranças excessivas e cria um clima de medo na equipe. Mesmo assim, continua sendo elogiado…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/trabalhadores-veem-empresas-tolerarem-abusos-de-chefes-que-entregam-resultados.ghtml",
     "time": "2026-08-18T07:03:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Doctors remove 3.1kg stone from man's bladder and claim record",
-    "d": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-    "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T06:53:11.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
-    "d": "Emaranhados de fio dos fones de ouvido são vistos por alguns como um símbolo cultural Moritz Scholz/Getty Images via BBC É sábado à tarde e quase tropecei no primeiro obstáculo: deixei a bateria da minha câmera digita…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/18/por-que-cameras-digitais-e-fones-com-fio-estao-de-volta.ghtml",
-    "time": "2026-08-18T06:02:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Limões 'alienígenas' intrigam produtora; entenda o que causa a deformação",
-    "d": "Limão nasce deformado, parecendo 'alienígena'; entenda o que causa Os limões da produtora Viviane Marques chamaram a atenção pelo formato incomum: alguns nasceram deformados, parecendo até \"alienígenas\". Intrigada, el…",
-    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/18/limoes-alienigenas-intrigam-produtora-entenda-o-que-causa-a-deformacao.ghtml",
-    "time": "2026-08-18T06:00:18.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Como o 'Super El Niño' pode afetar economia global e fazer subir os preços de alimentos",
-    "d": "Cientistas monitoram formação de 'Super El Niño' e alertam para impactos no Brasil O Super El Niño que está se formando no Oceano Pacífico não deve trazer apenas mudanças no clima. O fenômeno também pode provocar impa…",
-    "link": "https://g1.globo.com/fantastico/noticia/2026/08/18/como-o-super-el-nino-pode-afetar-economia-global-e-fazer-subir-os-precos-de-alimentos.ghtml",
-    "time": "2026-08-18T06:00:10.000Z"
   },
   {
     "cat": "internacional",
@@ -424,46 +472,6 @@
     "time": "2026-08-18T03:43:53.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "O que fizeram e disseram os candidatos à Presidência no lançamento das campanhas - O Assunto #1785",
-    "d": "Começou oficialmente neste domingo (16) a corrida eleitoral. E os nomes que concorrem à Presidência lançaram suas candidaturas. Lula (PT) discursou em um evento realizado em São Bernardo do Campo, onde iniciou sua car…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/18/o-que-fizeram-e-disseram-os-candidatos-a-presidencia-no-lancamento-das-campanhas-o-assunto-1785.ghtml",
-    "time": "2026-08-18T03:30:08.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena pode pagar prêmio de R$ 45 milhões nesta terça-feira; g1 transmite ao vivo",
-    "d": "Como funciona a Mega-Sena? O concurso 3.046 da Mega-Sena pode pagar um prêmio de R$ 45 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (18), em São Paulo. 📱Favorit…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/18/mega-sena-pode-pagar-premio-de-r-45-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-    "time": "2026-08-18T03:00:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mais de 3 mil candidatos trocaram de partido desde 2022; veja as legendas que mais ganharam e perderam nomes",
-    "d": "Levantamento do g1 feito com base nos registros de candidatura no Tribunal Superior Eleitoral (TSE) mostra que 3.681 candidatos que disputaram as eleições de 2022 estão concorrendo em 2026 por um partido diferente. O…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/troca-partidos-eleicoes-2026.ghtml",
-    "time": "2026-08-18T03:00:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'O Brasil pronto pra mais'; 'O Brasil vai vencer' e mais: veja slogans dos candidatos à Presidência do Brasil",
-    "d": "Imagens oficiais da campanha presidencial de Lula (PT) e Flávio Bolsonaro (PL) Divulgação A campanha eleitoral começou oficialmente neste domingo (16). Antes mesmo do início da disputa, os candidatos à Presidência da…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/o-brasil-pronto-pra-mais-o-brasil-vai-vencer-e-mais-veja-slogans-dos-candidatos-a-presidencia-do-brasil.ghtml",
-    "time": "2026-08-18T03:00:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Número de mulheres candidatas à Presidência cai pela metade em 2026",
-    "d": "O número de mulheres que encabeçam as chapas presidenciais caiu pela metade nas eleições de 2026. São duas candidatas à Presidência. Em 2022, eram quatro. Ao todo, sete mulheres compõem as chapas neste ano: além das d…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/numero-de-mulheres-candidatas-a-presidencia-cai-pela-metade-em-2026.ghtml",
-    "time": "2026-08-18T03:00:40.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Norway's king admitted to hospital and put on sick leave",
@@ -486,14 +494,6 @@
     "d": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Eu…",
     "link": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
     "time": "2026-08-17T16:01:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Mergulhei no meu próprio inferno': a vida difícil da atriz Hayden Panettiere enquanto fazia sucesso na televisão",
-    "d": "A atriz, que atuou nas séries de TV 'Heroes' e 'Nashville', além dos filmes 'Duelo de Titãs' e 'Um Presente para Helen', foi encontrada morta no domingo.",
-    "link": "https://www.bbc.com/portuguese/articles/cn4nky282r8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T15:48:21.000Z"
   },
   {
     "cat": "economia",
@@ -622,13 +622,5 @@
     "d": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity (D…",
     "link": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
     "time": "2026-08-14T11:00:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-    "d": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials hav…",
-    "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-    "time": "2026-08-13T15:17:13.000Z"
   }
 ]
