@@ -1,5 +1,117 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Judge swapped in Trump's defamation case against BBC",
+    "d": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T19:52:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dino defende soberania e critica países que se veem como “régua moral”",
+    "d": "Ministro fez declaração durante julgamento de extradição na 1ª Turma do STF, em meio à possibilidade de novas sanções dos EUA a Moraes",
+    "link": "https://www.cnnbrasil.com.br/politica/dino-defende-soberania-e-critica-paises-que-se-veem-como-regua-moral/",
+    "time": "2026-08-18T19:38:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Advogado acusa Meta de ter crianças como alvo em julgamento sobre vício",
+    "d": "Grupo suprapartidário de 29 estados americanos está processando big tech",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/advogado-acusa-meta-de-ter-criancas-como-alvo-em-julgamento-sobre-vicio/",
+    "time": "2026-08-18T19:36:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dino e Moraes sugerem reavaliar dispensa de diploma para jornalista",
+    "d": "Ministros fizeram declarações dias após decisão de Moraes que autorizou busca contra fonte de jornalista do Maranhão",
+    "link": "https://www.cnnbrasil.com.br/politica/dino-e-moraes-sugerem-reavaliar-dispensa-de-diploma-para-jornalista/",
+    "time": "2026-08-18T19:34:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "STF decide que área do imóvel não pode definir alíquota do IPTU",
+    "d": "Corte derrubou lei de Chapecó e reafirmou que a progressividade do imposto deve considerar o valor do imóvel, a localização e o uso da propriedade",
+    "link": "https://www.cnnbrasil.com.br/politica/stf-decide-que-area-do-imovel-nao-pode-definir-aliquota-do-iptu/",
+    "time": "2026-08-18T19:31:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil entra em alerta com ciclone extratropical que se forma nesta quarta",
+    "d": "Fenômeno se formará na noite de quarta-feira (19) sobre o Uruguai e o Rio Grande do Sul e avançará pelo país para outras regiões até sábado (22)",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/brasil-entra-em-alerta-com-ciclone-extratropical-se-forma-nesta-quarta/",
+    "time": "2026-08-18T19:30:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caiado chama de “desespero” reação de aliados de Flávio a fala de Kassab",
+    "d": "Candidato rebateu interpretação de fala de presidente nacional do PSD sobre Centrão e Lula",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-chama-de-desespero-reacao-de-aliados-de-flavio-a-fala-de-kassab/",
+    "time": "2026-08-18T19:30:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fagner quer Cruzeiro “pilhado” para decisão da Libertadores",
+    "d": "Lateral-direito pede concentração máxima para vencer no Maracanã e garantir vaga nas quartas de final",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/fagner-quer-cruzeiro-pilhado-para-decisao-da-libertadores/",
+    "time": "2026-08-18T19:28:53.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Designer da McLaren F1 lança releitura do carro com a própria marca",
+    "d": "GMA S1 traz V12 aspirado de 12.100 rpm, câmbio manual e posição central de pilotagem em tiragem limitada a 64 unidades",
+    "link": "https://www.cnnbrasil.com.br/auto/designer-da-mclaren-f1-lanca-releitura-do-carro-com-a-propria-marca/",
+    "time": "2026-08-18T19:26:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "À CNN, Arruda comenta crise no BRB: “Meteram os pés pelas mãos”",
+    "d": "Ex-governador criticou postura de Celina Leão no enfrentamento à crise e prometeu uma diminuição no tamanho do banco",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-arruda-comenta-crise-no-brb-meteram-os-pes-pelas-maos/",
+    "time": "2026-08-18T19:26:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio anuncia especialistas para detalhar pontos de programa de governo",
+    "d": "Nomes anunciados são Lyvia Montezano, Carolina Ragazzi, Adolfo Sachsida, Adriano Pires e Alexandre Chequer",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-anuncia-especialistas-para-detalhar-pontos-de-programa-de-governo/",
+    "time": "2026-08-18T19:24:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Callum Turner diz que “começar uma família” com Dua Lipa é uma prioridade",
+    "d": "Ator e cantora se casaram oficialmente no dia 31 de maio em Londres, Inglaterra",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/callum-turner-diz-que-comecar-uma-familia-com-dua-lipa-e-uma-prioridade/",
+    "time": "2026-08-18T19:22:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Secretário da Asean vê margem para Brasil ser incluído em rol de parceiros",
+    "d": "Kao Kim Hourn fala em incluir o país entre “parceiros de diálogo”, permitindo que sejam fechados acordos comerciais",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/secretario-da-asean-ve-margem-para-brasil-ser-incluido-em-rol-de-parceiros/",
+    "time": "2026-08-18T19:20:51.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US announces new sanctions on top ICC figures",
+    "d": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+    "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T19:18:30.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O julgamento que pode mudar como Facebook e Instagram funcionam para mais jovens",
@@ -16,100 +128,12 @@
     "time": "2026-08-18T18:57:15.000Z"
   },
   {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "PIB da Colômbia cresce 3,5% no 2º trimestre ante mesmo período de 2025",
-    "d": "De acordo com o Departamento Administrativo de Estatísticas Nacionais, as maiores expansões foram observadas na administração pública e defesa",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pib-da-colombia-cresce-35-no-2o-trimestre-ante-mesmo-periodo-de-2025/",
-    "time": "2026-08-18T18:55:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA sancionam autoridades do TPI em campanha para desmantelar tribunal",
-    "d": "A medida atingiu a presidente Tomoko Akane e o advogado Abdoulaye Seye, por investigarem nações sem consentimento de jurisdição",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-sancionam-autoridades-do-tpi-em-campanha-para-desmantelar-tribunal/",
-    "time": "2026-08-18T18:55:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians anuncia renovação de contrato com Memphis Depay até 2028",
-    "d": "Holandês chegou ao clube de Parque São Jorge em 2024 e, após longas negociações, ampliou o vínculo com a equipe alvinegra",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-anuncia-renovacao-de-contrato-com-memphis-depay-ate-2028/",
-    "time": "2026-08-18T18:53:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Novas ferramentas digitais enfrentam resistência de Lula na campanha do PT",
-    "d": "Além de rejeitar o uso de IA, petista resiste a gravar conteúdos em “selfie” para as redes sociais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/novas-ferramentas-digitais-enfrentam-resistencia-de-lula-na-campanha-do-pt/",
-    "time": "2026-08-18T18:52:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Diplomata do Equador é indicada como candidata para chefiar ONU",
-    "d": "Ivonne Baki, nomeada ao cargo pela nação insular de Tonga, é segundo nome equatoriano a entrar na disputa para substituir o secretário-geral António Guterres",
-    "link": "https://www.cnnbrasil.com.br/internacional/diplomata-do-equador-e-indicada-como-candidata-para-chefiar-onu/",
-    "time": "2026-08-18T18:50:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bortoleto se diz “ansioso para voltar” na segunda metade da F1",
-    "d": "Piloto brasileiro retorna das férias de verão para o GP da Holanda e busca consistência com a Audi na sequência do campeonato",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/bortoleto-se-diz-ansioso-para-voltar-na-segunda-metade-da-f1/",
-    "time": "2026-08-18T18:49:45.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O caso da menina de 10 anos traficada do Peru para o Equador para se casar com um homem de 50",
     "d": "Uma a cada quatro meninas latino-americanas passou por casamento infantil ou união precoce e a América Latina é a única região do mundo onde esta prática não foi significativamente reduzida.",
     "link": "https://www.bbc.com/portuguese/articles/c07rlrrvgz7o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T18:48:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Juliano reage a fã sobre fim com Marina Sena: “Ressaca sentimental”",
-    "d": "Juliano Floss e Marina Sena anunciaram o fim do relacionamento na noite da última segunda (17)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/juliano-reage-a-fa-sobre-fim-com-marina-sena-ressaca-sentimental/",
-    "time": "2026-08-18T18:43:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cade abre espaço para Maersk e MSC participarem do leilão do Tecon 10",
-    "d": "Parecer considera que eventual desinvestimento na BTP afasta riscos concorrenciais relevantes e permite que as empresas avancem na disputa pelo novo terminal",
-    "link": "https://www.cnnbrasil.com.br/infra/cade-abre-espaco-para-maersk-e-msc-participarem-do-leilao-do-tecon-10/",
-    "time": "2026-08-18T18:43:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Marina Sena se pronuncia sobre término com Juliano Floss; confira",
-    "d": "Equipe da artista divulgou que os dois \"entenderam que a relação se transformou\"",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/marina-sena-se-pronuncia-sobre-termino-com-juliano-floss-confira/",
-    "time": "2026-08-18T18:42:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Milei acumula tropeços e complica planos para reeleição",
-    "d": "Em pouco mais de um mês, governo argentino atravessou uma série de turbulências que, até o momento, não foram superadas",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-milei-acumula-tropecos-e-complica-planos-para-reeleicao/",
-    "time": "2026-08-18T18:39:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Memphis aparece no BID e pode jogar contra o Rosario pela Libertadores",
-    "d": "Atacante holandês renovou contrato com o Corinthians e está regularizado para disputar o jogo de volta das oitavas de final",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/memphis-aparece-no-bid-e-pode-jogar-contra-o-rosario-pela-libertadores/",
-    "time": "2026-08-18T18:39:14.000Z"
   },
   {
     "cat": "economia",
@@ -144,18 +168,10 @@
     "time": "2026-08-18T18:30:49.000Z"
   },
   {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Eleições e cenário fiscal afastam investidor estrangeiro",
-    "d": "Saída de investidores na bolsa brasileira é impulsionada pela política monetária e maior aversão a risco no mercado",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/eleicoes-e-cenario-fiscal-afastam-investidor-estrangeiro/",
-    "time": "2026-08-18T18:30:38.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Autor de assassinato no Maranhão disse em depoimento que tinha reuniões com governador no palácio do governo",
-    "d": "Pivô de um escândalo que lançou suspeitas sobre autoridades do Maranhão, Gilbson Júnior, condenado por homicídio, afirmou em depoimento que frequentava o Palácio dos Leões, sede do Executivo estadual, para fazer reuni…",
+    "d": "Dino afasta presidente do Tribunal de Contas do Maranhão por 180 dias Gilbson Cutrim Júnior narrou, em depoimento à PF, sua versão sobre o homicídio Reprodução/JN Pivô de um escândalo que lançou suspeitas sobre autori…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/18/autor-de-assassinato-no-maranhao-disse-em-depoimento-que-tinha-reunioes-com-governador-no-palacio.ghtml",
     "time": "2026-08-18T18:00:08.000Z"
   },
@@ -182,14 +198,6 @@
     "d": "Senado Federal - plenário Ton Molina/Agência Senado As eleições de 2026 têm 315 candidatos ao Senado Federal para 54 vagas. O número é 16% menor que o registrado em 2018, quando 385 pessoas disputaram o cargo. Naquele…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/perfil-candidatos-senado-tse.ghtml",
     "time": "2026-08-18T17:52:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US announces new sanctions on top ICC figures",
-    "d": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-    "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T17:40:09.000Z"
   },
   {
     "cat": "economia",
@@ -454,14 +462,6 @@
     "d": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
     "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T08:44:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-    "d": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-    "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T08:07:37.000Z"
   },
   {
     "cat": "brasil",
