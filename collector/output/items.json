@@ -1,51 +1,155 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "ChatGPT anuncia versão para adolescentes com limites de conteúdo, uso e controle dos pais",
+    "d": "Agente do ChatGPT reserva restaurante, faz compra, mas erra ao insistir demais A OpenAI anunciou uma versão do ChatGPT desenvolvida especificamente para adolescentes. A experiência, chamada de ChatGPT para Adolescente…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/18/chatgpt-anuncia-versao-para-adolescentes-com-limites-de-conteudo-uso-e-controle-dos-pais.ghtml",
+    "time": "2026-08-18T11:42:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+    "d": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T11:41:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Positivo diz que exposição à Casas Bahia é baixa e não deve impactar contas",
+    "d": "Segundo a companhia, o saldo atual de contas a receber do grupo Casas Bahia é de cerca de R$ 19 milhões",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/positivo-diz-que-exposicao-a-casas-bahia-e-baixa-e-nao-deve-impactar-contas/",
+    "time": "2026-08-18T11:35:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Houthis reivindicam ataque a refinaria de petróleo na Arábia Saudita",
+    "d": "Confrontos no Estreito de Bab al-Mandeb se intensificaram no último mês após grupo declarar um bloqueio ao transporte marítimo saudita no Mar Vermelho",
+    "link": "https://www.cnnbrasil.com.br/internacional/houthis-reivindicam-ataque-a-refinaria-de-petroleo-na-arabia-saudita/",
+    "time": "2026-08-18T11:35:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Técnico do Egito na Copa do Mundo desmaia durante briga entre suas esposas",
+    "d": "Segundo imprensa egípcia, Hossam Hassan foi hospitalizado após o incidente",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/tecnico-do-egito-na-copa-do-mundo-desmaia-durante-briga-entre-suas-esposas/",
+    "time": "2026-08-18T11:33:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Técnicos trocam socos após empate entre Vélez e Defensa pelo Argentino",
+    "d": "Guillermo Barros Schelotto e Julio Vaccari se desentenderam durante a partida e brigaram no túnel dos vestiários",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/tecnicos-trocam-socos-apos-empate-entre-velez-e-defensa-pelo-argentino/",
+    "time": "2026-08-18T11:33:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Álvarez é barrado por Simeone em meio a interesse do Barcelona",
+    "d": "Atacante argentino vive indefinição sobre o futuro em meio ao interesse do Barcelona",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/alvarez-e-barrado-por-simeone-em-meio-a-interesse-do-barcelona/",
+    "time": "2026-08-18T11:29:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Famosos lamentam morte de Laura Cardoso, ícone da TV brasileira",
+    "d": "Artistas fizeram posts em homenagem ou comentaram no anúncio do perfil da artista",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-lamentam-morte-de-laura-cardoso-icone-da-tv-brasileira/",
+    "time": "2026-08-18T11:28:15.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Ásia recuam com petróleo e inflação; Nikkei lidera perdas",
+    "d": "Índice japonês Nikkei recuou 2,54% em Tóquio, a 67.460,73 pontos, enquanto Hang Seng teve ligeira alta de 0,07% em Hong Kong, a 25.471,15 pontos",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-recuam-com-petroleo-e-inflacao-nikkei-lidera-perdas/",
+    "time": "2026-08-18T11:24:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Compra de joias liga amiga de Lulinha a ex-assessor de Lula; entenda",
+    "d": "Operação que apura fraudes no INSS investiga a lobista por suspeita de tráfico de influência",
+    "link": "https://www.cnnbrasil.com.br/politica/compra-de-joias-liga-amiga-de-lulinha-a-ex-assessor-de-lula-entenda/",
+    "time": "2026-08-18T11:23:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Laura Cardoso deixa duas filhas; veja quem são",
+    "d": "Veterana morreu nesta terça-feira (18), aos 98 anos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/laura-cardoso-deixa-duas-filhas-veja-quem-sao/",
+    "time": "2026-08-18T11:20:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T11:13:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EUA deixam na mão seus principais parceiros, diz especialista",
+    "d": "Mestre em Ciências Militares avalia declarações de Trump sobre Omã e Coreia do Sul e alerta para graves repercussões geopolíticas globais",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-deixam-na-mao-seus-principais-parceiros-diz-especialista/",
+    "time": "2026-08-18T11:07:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fluminense e Palmeiras lutam para não “desnivelar” a Libertadores 2026",
+    "d": "Tricolor das Laranjeiras e Alviverde paulista vão em busca da classificação em jogos complicados fora do Brasil",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/fluminense-e-palmeiras-lutam-para-nao-desnivelar-a-libertadores-2026/",
+    "time": "2026-08-18T11:00:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Setor elétrico brasileiro viaja no túnel do tempo?",
+    "d": "Em artigo à CNN Infra, Edson Silva, membro do Conselho de Administração da Jirau Energia e do Conselho Fiscal do ONS, defende que a abertura plena do mercado de energia precisa ser acompanhada por sinais de preços mai…",
+    "link": "https://www.cnnbrasil.com.br/infra/setor-eletrico-brasileiro-viaja-no-tunel-do-tempo/",
+    "time": "2026-08-18T11:00:16.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+    "d": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-18T10:59:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Meta enfrenta julgamento que pode forçar mudanças em Facebook e Instagram",
+    "d": "Logotipo da Meta no Meta Lab, em Los Angeles, Califórnia (EUA), em 20 de maio de 2026 REUTERS/Daniel Cole/Foto de arquivo Uma coalizão de 29 estados dos EUA começa a apresentar nesta terça-feira (18), em um tribunal f…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/18/meta-julgamento.ghtml",
+    "time": "2026-08-18T10:54:46.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
+    "d": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb Oman Business live – latest updates Government borrowing costs continued to rise to levels not seen in decades on T…",
+    "link": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
+    "time": "2026-08-18T10:54:43.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
     "d": "Confirmação de que há petróleo na região abre uma nova etapa de exploração para o Brasil, mas há dúvidas sobre o volume encontrado, a viabilidade econômica da operação e os possíveis impactos para a região.",
     "link": "https://www.bbc.com/portuguese/articles/ckg90w38xn3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T10:43:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time Big Data: governo do PR é aprovado por 80%",
-    "d": "Pesquisa entrevistou 1.600 eleitores no estado entre os dias 13 e 17 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-governo-do-pr-e-aprovado-por-80/",
-    "time": "2026-08-18T10:34:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time Big Data: Moro lidera cenários para o governo do PR",
-    "d": "Pesquisa entrevistou 1.600 eleitores no estado entre os dias 13 e 17 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-moro-lidera-cenarios-para-o-governo-do-pr-2/",
-    "time": "2026-08-18T10:33:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time Big Data: No PR, Flávio tem 52% contra 35% de Lula no 2º turno",
-    "d": "Foram ouvidas 1.600 pessoas no Paraná, entre os dias 13 e 17 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-no-pr-flavio-tem-52-contra-35-de-lula-no-2o-turno/",
-    "time": "2026-08-18T10:32:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time Big Data: No PR, Flávio tem 44% e Lula, 31% no 1º turno",
-    "d": "Foram ouvidas 1.600 pessoas no Paraná, entre os dias 13 e 17 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-no-pr-flavio-tem-44-e-lula-31-no-1o-turno/",
-    "time": "2026-08-18T10:31:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Memphis enfrenta o Rosario? Presidente do Corinthians fala sobre situação",
-    "d": "Timão enfrenta equipe argentina na próxima quinta-feira (20) no jogo de volta das oitavas da Libertadores",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/memphis-enfrenta-o-rosario-presidente-do-corinthians-fala-sobre-situacao/",
-    "time": "2026-08-18T10:28:10.000Z"
   },
   {
     "cat": "brasil",
@@ -56,76 +160,12 @@
     "time": "2026-08-18T10:26:22.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Granizo e ventos: o que sabemos sobre novo ciclone que vai atingir o Brasil",
-    "d": "Sistema deve se organizar entre quarta (19) e quinta-feira (20), com previsão de temporais, rajadas de vento, queda de temperatura no Sul e avanço da frente fria para o Sudeste",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/granizo-e-ventos-o-que-sabemos-sobre-novo-ciclone-que-vai-atingir-o-brasil/",
-    "time": "2026-08-18T10:19:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corredor de rua morre após ter mal súbito no Parque Bruno Covas, em SP",
-    "d": "Esta é a segunda morte de um corredor de rua na cidade de São Paulo em menos de um mês",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corredor-de-rua-morre-apos-ter-mal-subito-no-parque-bruno-covas-em-sp/",
-    "time": "2026-08-18T10:04:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Colheita de café chega a 81% no Cerrado Mineiro, aponta Expocacer",
-    "d": "Tempo seco favorece avanço dos trabalhos; 63% da produção colhida já foi beneficiada e rendimento médio está em 500 litros por saca de 60 kg",
-    "link": "https://www.cnnbrasil.com.br/agro/colheita-de-cafe-chega-a-81-no-cerrado-mineiro-aponta-expocacer/",
-    "time": "2026-08-18T10:00:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Copa Sul-Americana vira “bote salva-vidas” do São Paulo em 2026",
-    "d": "Competição é a última chance do Tricolor de conquistar um título na temporada",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/copa-sul-americana-vira-bote-salva-vidas-do-sao-paulo-em-2026/",
-    "time": "2026-08-18T10:00:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cabelos brancos: entenda por que eles aparecem com o avançar da idade",
-    "d": "A mudança na cor dos cabelos também tem influência da genética, do estilo de vida e de algumas condições de saúde",
-    "link": "https://www.cnnbrasil.com.br/style/beleza/cabelos-brancos-entenda-porque-eles-aparecem-com-o-avancar-da-idade/",
-    "time": "2026-08-18T10:00:03.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia warns UK will pay for supplying drones to Ukraine",
-    "d": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T09:55:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "‘Golpe de fé’: Operação mira esquema de falso banco ligado a igreja no Rio",
-    "d": "Investigação aponta que esquema prometia rendimentos de até 10% ao mês e teria causado prejuízo de mais de R$ 1 milhão",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/golpe-de-fe-operacao-mira-esquema-de-falso-banco-ligado-a-igreja-no-rio/",
-    "time": "2026-08-18T09:53:59.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
     "d": "Petrobras anuncia descoberta de petróleo na Bacia da Foz do Amazonas, na costa do Amapá A Petrobras confirmou a existência de petróleo no poço Morpho, na bacia da Foz do Amazonas, no litoral do Amapá, nesta segunda-fe…",
     "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/18/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.ghtml",
     "time": "2026-08-18T09:52:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“PQD”, líder do Comando Vermelho, é preso no Rio de Janeiro",
-    "d": "Pierry Sá da Silva é apontado como responsável por coordenar expansão territorial da facção, além de exercer a função de \"frente\" de bocas de fumo nas comunidades da Gardênia Azul e da Cidade de Deus",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pqd-lider-do-comando-vermelho-e-preso-no-rio-de-janeiro/",
-    "time": "2026-08-18T09:50:25.000Z"
   },
   {
     "cat": "brasil",
@@ -186,14 +226,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Zambia's president wins second term with 60% of the vote",
-    "d": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T07:46:55.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Indian student leader ends hunger strike after 16 days",
     "d": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
     "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
@@ -206,6 +238,14 @@
     "d": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
     "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T07:17:07.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+    "d": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again after the two-month window to negotiate a p…",
+    "link": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
+    "time": "2026-08-18T07:04:12.000Z"
   },
   {
     "cat": "economia",
@@ -392,14 +432,6 @@
     "time": "2026-08-17T22:43:31.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Rede social X diz que deixou de sugerir postagens de candidatos para cumprir lei eleitoral",
-    "d": "Rede social X, do bilionário Elon Musk AP Photo/Rick Rycroft A rede social X anunciou que, durante o período de campanha eleitoral, deixará de recomendar perfis e postagens de candidatos na aba \"Para Você\", voltada a…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/17/rede-social-x-diz-que-deixou-de-sugerir-postagens-de-candidatos-para-cumprir-lei-eleitoral.ghtml",
-    "time": "2026-08-17T22:33:54.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Norway's king admitted to hospital and put on sick leave",
@@ -414,14 +446,6 @@
     "d": "Pesquisa indica os melhores locais para construir uma vida nova no exterior em 2026 e as pessoas que fizeram a mudança explicam por quê.",
     "link": "https://www.bbc.com/portuguese/articles/c86nxjqg2x8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-17T20:05:57.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Petrobras confirma descoberta de petróleo na Foz do Amazonas, no litoral do Amapá",
-    "d": "Presidente da Petrobras, Magda Chambriard, conduz visita de Lula e Alexandre Silveira à sonda NS-42, na Margem Equatorial Divulgação/Ricardo Stuckert A Petrobras confirmou nesta segunda-feira (17) a descoberta de petr…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/17/petrobras-foz-do-amazonas.ghtml",
-    "time": "2026-08-17T19:57:15.000Z"
   },
   {
     "cat": "internacional",
@@ -464,14 +488,6 @@
     "time": "2026-08-17T15:56:45.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
-    "d": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked US gas prices this month are so far the highest ever recorded for August as peace talks between the US and Iran…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
-    "time": "2026-08-17T15:51:46.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Mergulhei no meu próprio inferno': a vida difícil da atriz Hayden Panettiere enquanto fazia sucesso na televisão",
@@ -502,14 +518,6 @@
     "d": "Exclusive: Raúl Torrez is drafting two bills with state lawmakers to bolster consumer protections and child safety online, building on state’s landmark case against Meta New Mexico’s attorney general is mounting a ful…",
     "link": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
     "time": "2026-08-17T11:00:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-17T10:52:07.000Z"
   },
   {
     "cat": "brasil",
