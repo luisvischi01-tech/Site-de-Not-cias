@@ -1,5 +1,69 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Sacked Ukrainian defence minister calls for presidential election",
+    "d": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-19T10:49:25.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Descoberta na Foz do Amazonas só será 'passaporte para o futuro' se modelo adotado no pré-sal mudar, diz ex-diretor da Petrobras",
+    "d": "Por que tanto otimismo com a descoberta na Bacia da Foz do Amazonas? A descoberta de petróleo em um poço na bacia da Foz do Amazonas, no litoral do Amapá, é uma notícia \"animadora\" e que tem potencial de alavancar o p…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/19/descoberta-na-foz-do-amazonas-so-sera-passaporte-para-o-futuro-se-modelo-adotado-no-pre-sal-mudar-diz-ex-diretor-da-petrobras.ghtml",
+    "time": "2026-08-19T10:17:04.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Apparent human remains found in US reservoir as water levels hit record low",
+    "d": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+    "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-19T10:10:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US charges 17 Iranians over 'massive' cyber theft campaign",
+    "d": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
+    "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-19T09:48:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Acidente entre ônibus e carreta deixa pelo menos 22 mortos no Paraná",
+    "d": "Batida ocorreu no km 10 da BR-373, em Imbituva, na região dos Campos Gerais",
+    "link": "https://www.cnnbrasil.com.br/nacional/acidente-entre-onibus-e-carreta-deixa-pelo-menos-21-mortos-no-parana/",
+    "time": "2026-08-19T09:43:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Libertadores: Palmeiras encara o Cerro para evitar pior campanha da década",
+    "d": "Clube paulista ficou apenas no empate contra os paraguaios no jogo de ida das oitavas de final do torneio continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/libertadores-palmeiras-encara-o-cerro-para-evitar-pior-campanha-da-decada/",
+    "time": "2026-08-19T09:30:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tenista Nick Kyrgios é suspenso após testar positivo para cocaína",
+    "d": "Ex-número 13 do mundo, australiano usou suas redes sociais para pedir desculpas após suspensão provisória",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/tenista-nick-kyrgios-e-suspenso-apos-testar-positivo-para-cocaina/",
+    "time": "2026-08-19T09:30:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Coquimbo Unido x Platense: horário e onde assistir ao jogo da Libertadores",
+    "d": "Equipes se enfrentam nesta quarta-feira (19) pelo jogo de volta das oitavas de final da competição continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/coquimbo-unido-x-platense-horario-e-onde-assistir-ao-jogo-da-libertadores/",
+    "time": "2026-08-19T09:15:29.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'O feminicídio gera órfãos como eu todos os dias': como irmãos que viram mãe ser assassinada e foram baleados pelo próprio pai lutaram durante 20 anos por Justiça",
@@ -8,12 +72,20 @@
     "time": "2026-08-19T09:04:22.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Sacked Ukrainian defence minister calls for presidential election",
-    "d": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T09:02:08.000Z"
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Brasil projeta alta de 20% nas exportações de etanol",
+    "d": "Volume esperado para a safra 2026/27 pode chegar a 1,53 bilhão de litros, impulsionado pela produção recorde",
+    "link": "https://www.cnnbrasil.com.br/agro/brasil-projeta-alta-de-20-nas-exportacoes-de-etanol/",
+    "time": "2026-08-19T09:00:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Di María em Itaquera: argentino volta ao palco de seu primeiro gol em Copas",
+    "d": "Craque do Rosario Central enfrentará o Corinthians nesta quinta-feira (20), na Neo Química Arena, pela Libertadores",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/di-maria-em-itaquera-argentino-volta-ao-palco-de-seu-primeiro-gol-em-copas/",
+    "time": "2026-08-19T09:00:14.000Z"
   },
   {
     "cat": "internacional",
@@ -120,62 +192,6 @@
     "time": "2026-08-19T07:49:58.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Amapá mira retomada da mineração com aporte e expansão da produção de ouro",
-    "d": "Retomada da mina Tucano e novos projetos de ouro e minério de ferro colocam setor mineral no centro da estratégia de atração de investimentos do estado",
-    "link": "https://www.cnnbrasil.com.br/infra/amapa-mira-retomada-da-mineracao-com-aporte-e-expansao-da-producao-de-ouro/",
-    "time": "2026-08-19T07:45:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Geração distribuída entra em ajuste e acende alerta para reestruturações",
-    "d": "Excesso de oferta, descontos agressivos e bilhões de reais em créditos de energia acumulados pressionam empresas e aumentam o risco de consolidação no setor",
-    "link": "https://www.cnnbrasil.com.br/infra/geracao-distribuida-entra-em-ajuste-e-acende-alerta-para-reestruturacoes/",
-    "time": "2026-08-19T07:30:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cuiabá x Operário-PR: horário e onde assistir ao jogo da Série B",
-    "d": "Equipes se enfrentam nesta quarta-feira (19), na Arena Pantanal, pela 23ª rodada da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cuiaba-x-operario-pr-horario-e-onde-assistir-ao-jogo-da-serie-b/",
-    "time": "2026-08-19T07:30:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Amapá prepara infraestrutura para nova fronteira de petróleo e gás no Norte",
-    "d": "Estado amplia planejamento logístico, capacitação e incentivos para atender possível expansão da cadeia de óleo e gás na Margem Equatorial",
-    "link": "https://www.cnnbrasil.com.br/noticias/amapa-prepara-infraestrutura-para-nova-fronteira-de-petroleo-e-gas-no-norte/",
-    "time": "2026-08-19T07:30:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "IA e TikTok estão comprometendo preparo real para vestibular e Enem",
-    "d": "Professores brasileiros notam que alunos aprendem com vídeos curtos e respostas de IA, mas travam na hora de interpretar e argumentar nas provas",
-    "link": "https://www.cnnbrasil.com.br/educacao/ia-e-tiktok-estao-comprometendo-preparo-real-para-vestibular-e-enem/",
-    "time": "2026-08-19T07:30:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "NFL inicia parceria para desenvolvimento do flag football no Paraná",
-    "d": "Construção da iniciativa com o Governo do Estado e a Prefeitura de Curitiba segue o plano de expansão para a modalidade no Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/nfl-inicia-parceria-para-desenvolvimento-do-flag-football-no-parana/",
-    "time": "2026-08-19T07:30:03.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Alleged sexual assault by local official and businessman sparks outrage in China",
-    "d": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-    "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T07:21:51.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Canetas emagrecedoras já mudam gastos com comida e até o PIB de países; entenda os efeitos",
@@ -274,14 +290,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-    "d": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T03:12:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Husband and mother-in-law charged over Indian bride's death",
     "d": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
     "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
@@ -318,6 +326,14 @@
     "d": "Plenário da Câmara dos Deputados Kayo Magalhães / Câmara dos Deputados Dos 513 deputados federais eleitos em 2022, 410 vão tentar a reeleição para a Câmara dos Deputados. O número representa 79,92% dos parlamentares q…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/deputados-federais-reeleicao-2026.ghtml",
     "time": "2026-08-19T03:00:45.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+    "d": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-19T03:00:35.000Z"
   },
   {
     "cat": "brasil",
@@ -465,27 +481,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Bill Rasmussen, fundador da ESPN, morre aos 93 anos",
-    "d": "Bill Rasmussen, fundador da ESPN, morre aos 93 anos. Divulgação/ESPN Bill Rasmussen, fundador da ESPN e responsável pela criação da primeira rede de televisão esportiva 24 horas do mundo, morreu nesta terça-feira (18)…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/18/bill-rasmussen-fundador-da-espn-morre-aos-93-anos.ghtml",
-    "time": "2026-08-18T16:35:11.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "ABC sues Trump’s media regulator over demand for TV license renewals",
     "d": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), arguing that it is being retaliated again…",
     "link": "https://www.theguardian.com/us-news/2026/aug/18/abc-sues-trump-federal-communications-commission",
     "time": "2026-08-18T13:38:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Brazil's President Lula hails oil discovery near Amazon river",
-    "d": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T13:13:54.000Z"
   },
   {
     "cat": "economia",
