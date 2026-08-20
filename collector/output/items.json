@@ -1,59 +1,227 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Former Liberian vice president charged in drug-trafficking probe",
+    "d": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
+    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T03:09:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 50 milhões nesta quinta-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.047 da Mega-Sena pode pagar um prêmio de R$ 50 milhões para os acertadores das seis dezenas. O sorteio ocorre às 21h desta quinta-feira (20), em São Paulo. No concurso da última…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/20/mega-sena-pode-pagar-r-50-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-08-20T03:01:04.000Z"
+  },
+  {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mãe e filho morrem após queda de passarela: quem responde por tragédia?",
-    "d": "Acidente na Rodovia Fernão Dias levanta discussões jurídicas sobre as responsabilidades criminais e cíveis do motorista, da transportadora e da concessionária da pista",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mae-e-filho-morrem-apos-queda-de-passarela-quem-responde-por-tragedia/",
-    "time": "2026-08-19T23:44:48.000Z"
+    "src": "G1",
+    "h": "Apesar de queda na fila no INSS, pessoas relatam espera de até 8 meses por resposta a pedido de benefício",
+    "d": "A fila de espera por benefícios do Instituto Nacional do Seguro Social (INSS) vem recuando e atingiu o menor patamar em 21 meses, segundo dados do Ministério da Previdência Social. Apesar da redução, pessoas ouvidas p…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/20/apesar-de-queda-na-fila-no-inss-pessoas-relatam-espera-de-ate-8-meses-por-resposta-a-pedido-de-beneficio.ghtml",
+    "time": "2026-08-20T03:00:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Um terço dos candidatos afirma não ter bens a declarar ao TSE",
+    "d": "Fachada do prédio do Tribunal Superior Eleitoral (TSE) Luiz Roberto/TSE Pouco mais de um terço dos candidatos registrados para as eleições de 2026 afirmou ao Tribunal Superior Eleitoral (TSE) não ter bens a declarar.…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/um-terco-dos-candidatos-afirma-nao-ter-bens-a-declarar-ao-tse.ghtml",
+    "time": "2026-08-20T03:00:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Escolas em tempo integral, prontuário eletrônico no SUS e ferrovias: veja propostas em comum de Lula, Flávio Bolsonaro e outros 4 candidatos a presidente",
+    "d": "Adversários na eleição presidencial de 2026, os seis candidatos mais bem colocados nas pesquisas de intenção de voto apresentam propostas em comum para temas detalhados em seus planos de governo. Tanto o presidente Lu…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/propostas-em-comum-candidatos-presidente.ghtml",
+    "time": "2026-08-20T03:00:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula inicia viagens de campanha nesta quinta com agenda em Natal",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) cumpre a primeira agenda de campanha nesta quinta-feira (20) em Natal, no Rio Grande do Norte. Será o primeiro ato em campo do petista após o lançamento oficial da campanha…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/lula-inicia-viagens-de-campanha-nesta-quinta-com-agenda-em-natal.ghtml",
+    "time": "2026-08-20T03:00:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vazamento de dados na Latam: entenda o que foi exposto e como se proteger",
+    "d": "Latam não revelou quantos clientes foram afetados Latam/Divulgação Clientes da companhia aérea Latam tiveram dados pessoais e parte de números de cartões de crédito expostos após um incidente de segurança que permitiu…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/20/vazamento-de-dados-na-latam-entenda-o-que-foi-exposto-e-como-se-proteger.ghtml",
+    "time": "2026-08-20T03:00:34.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Trump anuncia medida econômica “mais devastadora” já tomada contra o Irã",
-    "d": "Presidente americano afirmou que qualquer país que fornecer apoio a Teerã sofrerá \"graves consequências\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-anuncia-medida-economica-mais-devastadora-ja-tomada-contra-o-ira/",
-    "time": "2026-08-19T23:43:55.000Z"
+    "h": "Veja quanto o Flamengo faturou com a classificação na Libertadores",
+    "d": "Rubro-Negro garantiu premiação milionária ao se classificar para as quartas de final do torneio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/veja-quanto-o-flamengo-faturou-com-a-classificacao-na-libertadores/",
+    "time": "2026-08-20T02:51:01.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Santa Fe x River Plate: escalações e onde assistir à Copa Sul-Americana",
-    "d": "Equipes se enfrentam nesta quarta-feira (19), no Estádio El Campín, em Bogotá, pelas oitavas de final da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/santa-fe-x-river-plate-escalacoes-e-onde-assistir-a-copa-sul-americana/",
-    "time": "2026-08-19T23:41:58.000Z"
+    "h": "Leila Pereira provoca após vaga do Palmeiras: “Posso perguntar?”",
+    "d": "Presidente escreveu nas redes sociais depois de o time alviverde eliminar o Cerro Porteño e avançar para as quartas de final da Libertadores",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/leila-pereira-provoca-apos-vaga-do-palmeiras-posso-perguntar/",
+    "time": "2026-08-20T02:50:17.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Trígono Capital reduz participação na Kepler Weber para 14,94%",
-    "d": "Gestora informou que a movimentação acionária visa apenas os objetivos de seus fundos, mantendo a estrutura administrativa da empresa",
-    "link": "https://www.cnnbrasil.com.br/agro/trigono-capital-reduz-participacao-na-kepler-weber-para-1494/",
-    "time": "2026-08-19T23:40:24.000Z"
+    "h": "Flamengo 2 x 1 Cruzeiro: veja os melhores momentos pela Libertadores",
+    "d": "Duelo brasileiro foi protagonizado por golaços no Maracanã",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-2-x-1-cruzeiro-veja-os-melhores-momentos-pela-libertadores/",
+    "time": "2026-08-20T02:46:32.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Paulo Bonamigo desiste de cargo no Botafogo por questões pessoais",
-    "d": "Profissional havia sido anunciado esta semana como novo coordenador técnico",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/paulo-bonamigo-desiste-de-cargo-no-botafogo-por-questoes-pessoais/",
-    "time": "2026-08-19T23:39:38.000Z"
+    "h": "Quem são os candidatos a governador do Rio Grande do Sul em 2026",
+    "d": "Estado conta com 8,5 milhões de eleitores aptos a votar e tem sete candidatos ao governo estadual no pleito deste ano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-a-governador-do-rio-grande-do-sul-em-2026/",
+    "time": "2026-08-20T02:44:23.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Lula se reúne com advogado de Lulinha em meio a investigações da PF",
-    "d": "O encontro ocorreu no Palácio da Alvorada em Brasília",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-se-reune-com-advogado-de-lulinha-em-meio-a-investigacoes-da-pf/",
-    "time": "2026-08-19T23:37:07.000Z"
+    "h": "River segura empate com Santa Fe e decide vaga em casa na Sul-Americana",
+    "d": "Times voltam a se enfrentar na próxima quarta-feira, no Estádio Monumental de Núñez, em Buenos Aires",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/river-segura-empate-com-santa-fe-e-decide-vaga-em-casa-na-sul-americana/",
+    "time": "2026-08-20T02:33:23.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Eleições 2026: Tarcísio de Freitas participa de encontro do TRE-SP",
-    "d": "Candidato à reeleição pelo Republicanos assinou memorando contra desinformação; Márcio França alertou sobre uso da máquina pública",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-tarcisio-de-freitas-participa-de-encontro-do-tre-sp/",
-    "time": "2026-08-19T23:36:34.000Z"
+    "h": "Em noite de golaços, Flamengo elimina Cruzeiro e segue na Libertadores",
+    "d": "Rubro-Negro venceu a Raposa por 2 a 1 no Maracanã e está nas quartas de final",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/em-noite-de-golacos-flamengo-elimina-cruzeiro-e-segue-na-libertadores/",
+    "time": "2026-08-20T02:25:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+    "d": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T02:16:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Não tivemos golpe porque Forças Armadas não aderiram”, diz general à CNN",
+    "d": "Sergio Etchegoyen, ex-ministro do Gabinete de Segurança Institucional, comenta os desdobramentos da tentativa de golpe de Estado em 8 de janeiro de 2023",
+    "link": "https://www.cnnbrasil.com.br/politica/nao-tivemos-golpe-porque-forcas-armadas-nao-aderiram-diz-general-a-cnn/",
+    "time": "2026-08-20T02:10:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ouvir menos pode estar deixando você mais lento ao caminhar",
+    "d": "Segundo a otorrinolaringologista Dra. Adriana Gonzaga Chaves, a audição influencia mais do que você imagina: ela afeta orientação, equilíbrio e até a velocidade do seu passo, especialmente com o avanço da idade",
+    "link": "https://www.cnnbrasil.com.br/saude/ouvir-menos-pode-estar-deixando-voce-mais-lento-ao-caminhar/",
+    "time": "2026-08-20T02:10:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Giant whales move into Greenland waters as ice disappears",
+    "d": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T02:05:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após vitória do Palmeiras, Arias deixa recado: “Acham que é fácil”",
+    "d": "Jogador colombiano reconhece instabilidade do time, mas exalta esforço em classificação na Libertadores",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/apos-vitoria-do-palmeiras-arias-deixa-recado-acham-que-e-facil/",
+    "time": "2026-08-20T02:03:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Orlando Luz e Rafael Matos eliminam Zverev pela 2ª vez no dia em Cincinnati",
+    "d": "Tenista alemão, que faz parceria com o brasileiro Marcelo Melo, caiu tanto nas simples quanto nas duplas",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/orlando-luz-e-rafael-matos-eliminam-zverev-pela-2a-vez-no-dia-em-cincinnati/",
+    "time": "2026-08-20T02:00:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Veja o golaço de Arrascaeta em Flamengo x Cruzeiro, pela Libertadores",
+    "d": "Duelo desta quarta-feira, no Maracanã, é válido pelo confronto de volta das oitavas de final da competição continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/veja-o-golaco-de-arrascaeta-em-flamengo-x-cruzeiro-pela-libertadores/",
+    "time": "2026-08-20T01:54:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Família anuncia data de missa de 7º dia de Laura Cardoso",
+    "d": "Cerimônia será aberta ao público no dia 23 de agosto, domingo, em São Paulo",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/familia-anuncia-data-de-missa-de-7o-dia-de-laura-cardoso/",
+    "time": "2026-08-20T01:47:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "MPF pede ao Discord informações sobre riscos a crianças e adolescentes",
+    "d": "O Ministério Público Federal no Distrito Federal (MPF-DF) pediu ao Discord que informe as medidas adotadas para garantir a segurança de crianças e adolescentes na plataforma. O procurador Paulo Thadeu Gomes da Silva p…",
+    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/19/mpf-pede-a-discord-informacoes-sobre-riscos-a-criancas-e-adolescentes.ghtml",
+    "time": "2026-08-20T01:12:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘Like a miracle’: 84-year-old woman pulled alive from rubble three days after Indonesian quake",
+    "d": "A landslide triggered by the quake had blocked access to the village where Paulina Pobi had lived, leaving her buried under the collapsed remains An 84-year-old woman has been discovered alive in the flattened remains…",
+    "link": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
+    "time": "2026-08-20T00:57:42.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Israel opens up bids for highly-sensitive West Bank settlement project",
+    "d": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+    "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T00:53:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+    "d": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T00:48:57.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Maior térmica do Brasil é paralisada após falha em equipamento",
+    "d": "Usina GNA II, no complexo portuário do Açu, no Rio de Janeiro, é a maior termelétrica do país Divulgação/GNA A usina GNA II, maior termelétrica do país, interrompeu a operação em 10 de agosto após uma falha no disjunt…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/19/maior-termica-do-brasil-e-paralisada-apos-falha-em-equipamento.ghtml",
+    "time": "2026-08-20T00:22:34.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "More than 100 dead after goldmine collapses in Central African Republic",
+    "d": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western…",
+    "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+    "time": "2026-08-20T00:14:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Veja o que é #FATO ou #FAKE na entrevista de Fernando Haddad ao 'Globo', 'Valor' e CBN",
+    "d": "Fernando Haddad, candidato do PT ao governo de São Paulo, durante sabatina O Globo/CBN/Valor Maria Isabel Oliveira / O Globo O candidato do PT ao governo de São Paulo, Fernando Haddad, foi entrevistado por \"O Globo\",…",
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/19/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-ao-globo-valor-e-cbn.ghtml",
+    "time": "2026-08-19T23:42:48.000Z"
   },
   {
     "cat": "brasil",
@@ -62,54 +230,6 @@
     "d": "Publicação feita por Michelle Bolsonaro em suas redes sociais Reprodução A ex-primeira-dama Michelle Bolsonaro (PL) publicou em suas redes sociais, na noite desta quarta-feira (19), um vídeo em que mostra bastidores d…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/michelle-video-gravacao-flavio-bolsonaro.ghtml",
     "time": "2026-08-19T23:36:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corpo de Bombeiros resgata mais de 18 mil animais no Rio em oito meses",
-    "d": "Levantamento aponta o trabalho do Corpo de Bombeiros no salvamento de diversas espécies de janeiro a agosto",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/corpo-de-bombeiros-resgata-mais-de-18-mil-animais-no-rio-em-oito-meses/",
-    "time": "2026-08-19T23:35:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Canada and US say they are finalising a trade deal, but details remain murky",
-    "d": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T23:32:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mais de 750 militares dos EUA foram feridos na guerra contra o Irã",
-    "d": "Informações foram registradas no banco de dados do Departamento de Defesa dos Estados Unidos",
-    "link": "https://www.cnnbrasil.com.br/internacional/mais-de-750-militares-dos-eua-foram-feridos-na-guerra-contra-o-ira/",
-    "time": "2026-08-19T23:21:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bernardo Silva é apresentado no Real Madrid: “Não é para qualquer um”",
-    "d": "Meia chega ao clube espanhol após fase vitoriosa no Manchester City e diz realizar \"sonho de criança\"",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/bernardo-silva-e-apresentado-no-real-madrid-nao-e-para-qualquer-um/",
-    "time": "2026-08-19T23:17:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Foguete sul-coreano lançado do Brasil cai no mar após erro de rota",
-    "d": "SEBIT decolou às 16h30 e, de acordo com a empresa, deixou a plataforma normalmente; foi detectada uma anomalia que fez o foguete se desviar da trajetória planejada",
-    "link": "https://www.cnnbrasil.com.br/ciencia/foguete-sul-coreano-lancado-do-brasil-cai-no-mar-apos-erro-de-rota/",
-    "time": "2026-08-19T23:16:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo x Cruzeiro: escalações e onde assistir ao jogo pela Libertadores",
-    "d": "Após empate no Mineirão, times se enfrentam no Maracanã por uma vaga nas quartas de final",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-x-cruzeiro-escalacoes-e-onde-assistir-ao-jogo-pela-libertadores/",
-    "time": "2026-08-19T23:15:19.000Z"
   },
   {
     "cat": "economia",
@@ -126,14 +246,6 @@
     "d": "O Ministério Público Eleitoral (MPE) pediu que o Tribunal Superior Eleitoral (TSE) rejeite o registro de candidatura de Pablo Marçal (PRTB) à Presidência e que conceda uma decisão provisória o impedindo de realizar ca…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/19/ministerio-publico-eleitoral-pede-que-tse-rejeite-registro-de-candidatura-de-pablo-marcal.ghtml",
     "time": "2026-08-19T23:03:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-    "d": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T22:55:37.000Z"
   },
   {
     "cat": "brasil",
@@ -184,14 +296,6 @@
     "time": "2026-08-19T21:51:08.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Candidatos a presidente intensificam gravações a nove dias do início da propaganda em rádio e televisão",
-    "d": "Lula, Flávio Bolsonaro, Augusto Cury e Ronaldo Caiado terão tempo em rádio e TV Divulgação A nove dias do início da propaganda eleitoral no rádio e na televisão, os principais candidatos à presidência intensificam as…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/candidatos-presidente-gravacoes-campanha-tv.ghtml",
-    "time": "2026-08-19T21:38:49.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Foguete dá ré? China consegue feito inédito ao fazer propulsor voltar e pousar em terra firme; VÍDEO",
@@ -209,19 +313,19 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Latam diz que falha de segurança expôs nome, endereço e parte do cartão de crédito de clientes",
-    "d": "Aeroporto da Zona da Mata terá retomada de operações da Latam com novos voos para Guarulhos (SP) Gabriel Magacho/Divulgação Aeroporto da Zona da Mata A companhia aérea Latam informou nesta quarta-feira (19) que uma fa…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/19/latam-incidente-seguranca-dados.ghtml",
-    "time": "2026-08-19T21:26:49.000Z"
+    "src": "The Guardian",
+    "h": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+    "d": "Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the safety of children on its soc…",
+    "link": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+    "time": "2026-08-19T21:30:11.000Z"
   },
   {
     "cat": "economia",
-    "src": "The Guardian",
-    "h": "US gross national debt tops $40tn for first time",
-    "d": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
-    "time": "2026-08-19T21:24:01.000Z"
+    "src": "G1",
+    "h": "Latam diz que falha de segurança expôs nome, endereço e parte do cartão de crédito de clientes",
+    "d": "Latam não revelou quantos clientes foram afetados por vazamento de dados Gabriel Magacho/Divulgação Aeroporto da Zona da Mata A companhia aérea Latam informou nesta quarta-feira (19) que uma falha em seu sistema permi…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/19/latam-incidente-seguranca-dados.ghtml",
+    "time": "2026-08-19T21:26:49.000Z"
   },
   {
     "cat": "brasil",
@@ -230,14 +334,6 @@
     "d": "A menina de cinco anos, moradora de Gaza, sobreviveu inicialmente ao ataque e pediu ajuda, mas seu corpo foi encontrado posteriormente junto aos de seis de seus familiares.",
     "link": "https://www.bbc.com/portuguese/articles/cp8xgw0p3p6o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-19T21:00:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caiado evita declarar posição sobre fim da escala 6x1, mas diz que PEC no Congresso é 'medida eleitoreira'",
-    "d": "O candidato à presidência da República, Ronaldo Caiado (PSD), se esquivou, nesta quarta-feira (19) de um posicionamento sobre a Proposta de Emenda à Constituição (PEC) que propõe acabar com a escala 6x1 dos trabalhado…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/caiado-evita-declarar-posicao-sobre-fim-da-escala-6x1-mas-diz-que-pec-no-congresso-e-medida-eleitoreira.ghtml",
-    "time": "2026-08-19T20:57:12.000Z"
   },
   {
     "cat": "internacional",
@@ -256,20 +352,12 @@
     "time": "2026-08-19T20:17:39.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Candidaturas envelhecem em 2026, e cresce a participação de candidatos com 60 anos ou mais",
-    "d": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE Os candidatos que disputam as eleições de 2026 estão mais velhos do que os que concorreram em 2022. A idade média aumentou em todos os cargos analisados,…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/candidaturas-envelhecem-em-2026.ghtml",
-    "time": "2026-08-19T19:23:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "STF amplia Lei Maria da Penha e determina aplicação de medidas protetivas em casos sem vínculo doméstico",
-    "d": "Lei Maria da Penha completa 20 anos e detalha cinco tipos de violência contra a mulher O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (19) para ampliar e garantir a aplicação das medidas protetivas de urg…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/19/stf-forma-maioria-para-aplicar-medidas-protetivas-da-lei-maria-da-penha-em-casos-sem-vinculo-domestico.ghtml",
-    "time": "2026-08-19T19:10:23.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Can Andy Burnham rewire the ‘Treasury brain’ to boost growth?",
+    "d": "PM wants to reduce department’s stranglehold on public purse and bring long-term thinking to economic policy Andy Burnham is far from the first prime minister to dream of taming the power of the mighty Treasury. Boris…",
+    "link": "https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth",
+    "time": "2026-08-19T18:46:22.000Z"
   },
   {
     "cat": "brasil",
@@ -278,6 +366,14 @@
     "d": "Francis Smith era considerado o prisioneiro que cumpriu a pena mais longa nos EUA, antes de falecer de causas naturais.",
     "link": "https://www.bbc.com/portuguese/articles/c62ey90gn86o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-19T18:40:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "What has Burnham promised since he became PM, and when will it happen?",
+    "d": "From cutting household bills to moving power out of Westminster, how will the measures announced unfold? Andy Burnham has floated a number of policies, ideas and ambitions for his government since becoming prime minis…",
+    "link": "https://www.theguardian.com/politics/2026/aug/19/since-becoming-pm-what-has-burnham-promised-and-when-will-it-happen",
+    "time": "2026-08-19T18:30:05.000Z"
   },
   {
     "cat": "internacional",
@@ -296,20 +392,12 @@
     "time": "2026-08-19T18:25:12.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Ministro do Desenvolvimento diz que tarifaço dos EUA é 'ilegal' e espera amenizar efeitos até dezembro",
     "d": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Marcio Elias Rosa, afirmou nesta quarta-feira (20) que o governo brasileira espera \"aplacar minimamente\", ou seja, amenizar os efeitos do tarifaço imposto…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/19/ministro-do-desenvolvimento-diz-que-tarifaco-dos-eua-e-ilegal-e-espera-amenizar-efeitos-ate-dezembro.ghtml",
     "time": "2026-08-19T18:18:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "De aliados a adversários: entenda a disputa entre Brandão e Dino no Maranhão",
-    "d": "De aliados a adversários: entenda a disputa entre Brandão e Dino no Maranhão Reprodução/Site Oficial/Carlos Brandão Por quase duas décadas, o governador do Maranhão, Carlos Brandão (MDB), e o ministro do Supremo Tribu…",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/08/19/de-aliados-a-adversarios-entenda-a-disputa-entre-brandao-e-dino-no-maranhao.ghtml",
-    "time": "2026-08-19T17:59:43.000Z"
   },
   {
     "cat": "internacional",
@@ -320,20 +408,12 @@
     "time": "2026-08-19T17:39:56.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "South Korea shortens war games with US, citing Washington request",
-    "d": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T17:39:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Israel opens up bids for highly-sensitive West Bank settlement project",
-    "d": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-    "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T17:16:28.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "All power to the UK competition watchdog’s war on ‘drip pricing’",
+    "d": "Competition and Markets Authority on message with PM’s planned purge of hidden fees and add-on charges Trainline, Virgin Atlantic and Red Driving School face investigation The Competition and Markets Authority (CMA) i…",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/19/all-power-to-the-uk-competition-watchdogs-war-on-drip-pricing",
+    "time": "2026-08-19T17:39:16.000Z"
   },
   {
     "cat": "economia",
@@ -369,43 +449,11 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Is the US actually too chicken to take on China for trade?",
-    "d": "A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports Since China offered a truce in the trade war last October following its threat to deprive the United Stat…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
-    "time": "2026-08-19T16:42:08.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
     "d": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
     "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-19T16:31:48.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Google paga US$ 10 milhões por dados de companhia aérea falida para treinar IA",
-    "d": "Logotipo do Google é visto em escritório da empresa em Mountain View, na Califórnia Paresh Dave/Reuters O Google vai pagar US$ 10 milhões (R$ 51,7 milhões) pelos dados internos da Spirit Airlines, companhia aérea conh…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/19/google-paga-us-10-milhoes-por-dados-de-companhia-aerea-falida-para-treinar-ia.ghtml",
-    "time": "2026-08-19T16:18:17.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Exportações de carne bovina caem 26% em agosto com temor de tarifa maior na China",
-    "d": "As exportações brasileiras de carne bovina registraram queda de 26% no balanço parcial de agosto, segundo dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). 🔎Os cálculos levam em considera…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/19/exportacoes-de-carne-bovina-caem-26percent-em-agosto-com-temor-de-tarifa-maior-na-china.ghtml",
-    "time": "2026-08-19T16:17:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Lei Seca: Brasil já tem teste para flagrar motorista que usou drogas; veja substâncias detectadas",
-    "d": "Lei Seca em Itaperuna Redes sociais O Conselho Nacional de Trânsito (Contran) determinou novas regras para a fiscalização da Lei Seca. A resolução estabelece, entre outras mudanças, o uso de equipamentos destinados à…",
-    "link": "https://g1.globo.com/carros/noticia/2026/08/19/lei-seca-brasil-teste-brasil-drogas.ghtml",
-    "time": "2026-08-19T16:10:08.000Z"
   },
   {
     "cat": "internacional",
@@ -416,14 +464,6 @@
     "time": "2026-08-19T16:04:39.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trump anuncia acordo com o Canadá e diz que tarifas serão zeradas para agricultores",
-    "d": "Donald Trump anuncia tarifas. AFP Os Estados Unidos e o Canadá anunciaram nesta quarta-feira (19) um acordo comercial que interrompe a escalada da guerra tarifária entre os dois países. O presidente Donald Trump afirm…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/19/trump-anuncia-acordo-com-o-canada-e-diz-que-tarifas-serao-zeradas-para-agricultores.ghtml",
-    "time": "2026-08-19T15:33:53.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -432,12 +472,20 @@
     "time": "2026-08-19T15:33:32.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
-    "d": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
-    "link": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T15:12:41.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
+    "d": "Owner of firm behind ‘Temu Range Rover’ will open facility in Bedfordshire in autumn The Chinese carmaker behind the irreverently nicknamed “Temu Range Rover” is plotting further UK expansion with a major research and…",
+    "link": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
+    "time": "2026-08-19T15:12:36.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Reform says we need to choose between climate and economy. It's wrong | Larry Elliott",
+    "d": "The party’s deputy leader Richard Tice says we should stop worrying about extreme heat and enjoy it. This dangerous nonsense will wreck our finances and the planet So now we know: the smart response to the UK’s summer…",
+    "link": "https://www.theguardian.com/commentisfree/2026/aug/19/reform-says-we-need-to-choose-between-climate-and-economy-its-wrong",
+    "time": "2026-08-19T15:10:12.000Z"
   },
   {
     "cat": "economia",
@@ -448,12 +496,36 @@
     "time": "2026-08-19T14:57:21.000Z"
   },
   {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Lewes derailment: images show track defect before incident on hottest day",
+    "d": "Network Rail and Southern owner GTR apologise after investigators reveal picture of possible heat-buckled track Rail operators have apologised after a report into last Thursday’s derailment in East Sussex found a trac…",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/19/lewes-derailment-network-rail-gtr-images-track-defect-before-incident",
+    "time": "2026-08-19T14:45:03.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
     "d": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back Europe live – latest updates The Spanish government has U-turned and said it will allow 500 migrant ch…",
     "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
     "time": "2026-08-19T14:33:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "British energy bills forecast to hit three-year high this winter",
+    "d": "Expected quarterly price cap rise of 4% likely to wipe out benefits of Andy Burnham’s VAT cut on electricity bills Household energy bills across Great Britain are expected to climb to a three-year high this winter as…",
+    "link": "https://www.theguardian.com/money/2026/aug/19/forecast-energy-price-cap-rise-britain-winter",
+    "time": "2026-08-19T14:29:50.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Calls for urgent law change as UK’s largest water reuse system cannot be switched on",
+    "d": "Recycling system in Cambridgeshire that could save thousands of litres a day is deemed not in line with rules The largest water reuse system in the UK, which could save thousands of litres of water a day for people li…",
+    "link": "https://www.theguardian.com/environment/2026/aug/19/water-reuse-recycling-law-cambridgeshire",
+    "time": "2026-08-19T14:00:14.000Z"
   },
   {
     "cat": "internacional",
@@ -482,18 +554,18 @@
   {
     "cat": "economia",
     "src": "The Guardian",
-    "h": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-    "d": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal, Microsoft…",
-    "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-    "time": "2026-08-19T11:00:13.000Z"
+    "h": "Trainline, Virgin Atlantic and Red Driving School investigated over hidden fees",
+    "d": "UK competition watchdog investigation is part of broader clampdown on illegal ‘drip pricing’ Nils Pratley: all power to UK watchdog’s war on ‘drip pricing’ The UK’s competition watchdog has launched investigations int…",
+    "link": "https://www.theguardian.com/business/2026/aug/19/trainline-virgin-atlantic-driving-school-investigated-hidden-ticket-fees",
+    "time": "2026-08-19T11:14:33.000Z"
   },
   {
     "cat": "economia",
     "src": "The Guardian",
-    "h": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
-    "d": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
-    "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
-    "time": "2026-08-19T10:00:13.000Z"
+    "h": "Dog food recalled in UK after reports of pets losing their sight",
+    "d": "Move by Years, which provides personalised meals in subscription-based service, follows recipe change A dog food brand has recalled all of its fresh meals after reports that a recipe change may have caused some animal…",
+    "link": "https://www.theguardian.com/money/2026/aug/19/dog-food-recalled-after-reports-of-pets-losing-their-sight-years",
+    "time": "2026-08-19T11:03:02.000Z"
   },
   {
     "cat": "brasil",
@@ -544,14 +616,6 @@
     "time": "2026-08-18T18:48:02.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
-    "d": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live – latest updates Oil prices have risen again after the two-month window to negotiate a p…",
-    "link": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
-    "time": "2026-08-18T11:50:40.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
@@ -560,44 +624,12 @@
     "time": "2026-08-18T11:13:05.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
-    "d": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb Oman Business live – latest updates Government borrowing costs in several advanced economies continued to rise to l…",
-    "link": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
-    "time": "2026-08-18T10:54:43.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-    "d": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Eu…",
-    "link": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-    "time": "2026-08-17T16:01:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "China’s economy showing signs that slowdown may be extending",
-    "d": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sal…",
-    "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-    "time": "2026-08-17T15:36:25.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
     "d": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the countr…",
     "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
     "time": "2026-08-17T14:07:31.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "After Hormuz, China looks to the promise – and peril – of the Arctic’s ‘ice silk road’",
-    "d": "China has established the first scheduled transit through the northern sea route, but questions remain over the environmental and political risks When Marco Rubio suggested that the world should look to new shipping l…",
-    "link": "https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road",
-    "time": "2026-08-17T00:09:23.000Z"
   },
   {
     "cat": "internacional",
@@ -614,21 +646,5 @@
     "d": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The fer…",
     "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
     "time": "2026-08-15T19:39:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
-    "d": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of…",
-    "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-    "time": "2026-08-15T18:08:21.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-    "d": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump’s One Big Beautiful Bill Act (OBBBA) last year – the one that pai…",
-    "link": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-    "time": "2026-08-15T10:00:54.000Z"
   }
 ]
