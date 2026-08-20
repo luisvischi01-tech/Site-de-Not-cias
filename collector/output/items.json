@@ -1,11 +1,203 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alerta intensificado: ciclone vai provocar ventos de 100 km/h em SP e no RJ",
+    "d": "Aviso do Inmet vale para esta sexta-feira (21) e pega principalmente litorais paulista e fluminense",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/alerta-intensificado-ciclone-vai-provocar-ventos-de-100-km-h-em-sp-e-no-rj/",
+    "time": "2026-08-20T20:58:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "LDU x Mirassol: escalações e onde assistir ao jogo da Libertadores",
+    "d": "Equipes entram em campo nesta quinta-feira (20), disputando vaga na próxima fase da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/ldu-x-mirassol-escalacoes-e-onde-assistir-ao-jogo-da-libertadores-2/",
+    "time": "2026-08-20T20:57:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Eleições 2026: ONS planeja operação especial para acompanhar desempenho do sistema elétrico",
+    "d": "Torres de transmissão de energia REUTERS/Manon Cruz O diretor-geral do Operador Nacional do Sistema Elétrico (ONS), Márcio Rea, afirmou que, neste momento, não vê risco de falta de energia elétrica durante as eleições…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/eleicoes-2026-ons-planeja-operacao-especial-para-acompanhar-desempenho-do-sistema-eletrico.ghtml",
+    "time": "2026-08-20T20:57:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeo: incêndio atinge hotel Ritz Suítes em Maceió (AL)",
+    "d": "Fogo ficou restrito à caixa de máquinas do ar-condicionado na cobertura; duas pessoas inalaram fumaça e foram atendidas por bombeiros",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/al/video-incendio-atinge-hotel-ritz-suites-em-maceio-al/",
+    "time": "2026-08-20T20:56:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Falha de equipamento para operação da GNA II, maior termelétrica do Brasil",
+    "d": "Usina GNA II fica em Porto do Açu (RJ) e tem 1,7 gigawatt (GW) de potência instalada",
+    "link": "https://www.cnnbrasil.com.br/infra/falha-de-equipamento-para-operacao-da-gna-ii-maior-termeletrica-do-brasil/",
+    "time": "2026-08-20T20:53:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo supera 1 milhão de torcedores e R$ 69 milhões em bilheteria no ano",
+    "d": "Vitória sobre o Cruzeiro levou 72.400 pessoas ao estádio e estabeleceu o maior público do Flamengo na temporada; clube também registra forte desempenho financeiro nos jogos como mandante",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-supera-1-milhao-de-torcedores-e-r-69-milhoes-em-bilheteria-no-ano/",
+    "time": "2026-08-20T20:52:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ex-BBB Tia Milena posa ao lado de ex-RBD Christian Chávez; veja fotos",
+    "d": "Influenciadora acompanhou ensaio do show do artista e tirou fotos junto ao ídolo",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-bbb-tia-milena-posa-ao-lado-de-ex-rbd-christian-chavez-veja-fotos/",
+    "time": "2026-08-20T20:51:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Proliferação de satélites deixa astrônomos loucos com erros em observações",
+    "d": "“Cada um desses satélites, ao cruzar o campo de visão de um telescópio, deixa uma linha brilhante”, disse o astrônomo do ESO Olivier Hainaut, autor do estudo publicado na revista Astronomy & Astrophysics",
+    "link": "https://www.cnnbrasil.com.br/ciencia/proliferacao-de-satelites-deixa-astronomos-loucos-com-erros-em-observacoes/",
+    "time": "2026-08-20T20:51:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tiago Leifert: “Quase chorei” com fala de Pedrinho do Cruzeiro",
+    "d": "Para o apresentador do SBT, presidente do Cruzeiro demonstrou um raro espírito esportivo ao aceitar a derrota para o Flamengo na Libertadores",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/tiago-leifert-quase-chorei-com-fala-de-pedrinho-do-cruzeiro/",
+    "time": "2026-08-20T20:50:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Trump declara “guerra econômica” contra o Irã",
+    "d": "Ao CNN 360º. Fernanda Magnotta alerta que sanções secundárias podem ampliar conflito e afetar relação entre EUA e China",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-trump-declara-guerra-economica-contra-o-ira/",
+    "time": "2026-08-20T20:49:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mulher é acusada por plano de explodir Capitólio de Nova York, diz FBI",
+    "d": "Segundo agentes federais, Jessica Bowie, de 35 anos, teria sido radicalizada pelo ISIS (Estado Islâmico) por meio da internet",
+    "link": "https://www.cnnbrasil.com.br/internacional/mulher-e-acusada-por-plano-de-explodir-capitolio-de-nova-york-diz-fbi/",
+    "time": "2026-08-20T20:48:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Macará x Santos: escalações e onde assistir ao jogo da Sul-Americana",
+    "d": "Equipes vão a campo nesta quinta-feira (20), pelo jogo de volta das oitavas de final da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/macara-x-santos-escalacoes-e-onde-assistir-ao-jogo-da-sul-americana/",
+    "time": "2026-08-20T20:47:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cuello celebra artilharia e fase goleadora no Atlético-MG",
+    "d": "Argentino se tornou o artilheiro do Galo na temporada ao marcar o gol decisivo da classificação na Sul-Americana",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/cuello-celebra-artilharia-e-fase-goleadora-no-atletico-mg/",
+    "time": "2026-08-20T20:45:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Haddad diz que impeachment de ministro do STF exige cautela e não pode ser usado por 'conveniência política'",
+    "d": "Haddad em campanha no Capão Redondo Marília Barbosa/g1 O candidato do PT ao governo de São Paulo, Fernando Haddad, afirmou nesta quinta-feira (20), durante caminhada no Capão Redondo, na Zona Sul da capital, que minis…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/haddad-diz-que-impeachment-de-ministro-do-stf-exige-cautela-e-nao-pode-ser-usado-por-conveniencia-politica.ghtml",
+    "time": "2026-08-20T20:40:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+    "d": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T20:40:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Dozens dead after boat capsizes in north-western Nigeria",
+    "d": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+    "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T20:27:36.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+    "d": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
+    "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T20:08:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+    "d": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+    "time": "2026-08-20T19:57:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Receita Federal tem até 14 de setembro para entregar proposta de cálculo da CBS ao TCU",
+    "d": "Reforma Tributária vai mexer na forma como impostos são cobrados no país A Receita Federal tem até 14 de setembro para enviar ao Tribunal de Contas da União (TCU) uma proposta de cálculo da alíquota de referência da C…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/20/receita-federal-tem-ate-14-de-setembro-para-entregar-proposta-de-calculo-da-cbs-ao-tcu.ghtml",
+    "time": "2026-08-20T19:55:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Advogado diz que se Lulinha não fosse filho do presidente caso teria sido arquivado",
+    "d": "Advogado diz que se Lulinha não fosse filho do presidente caso teria sido arquivado O advogado Marco Aurélio Carvalho, que atua na defesa de Fábio Luís Lula da Silva, o Lulinha, afirmou em entrevista ao GloboNews Mais…",
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/20/advogado-diz-que-se-lulinha-nao-fosse-filho-do-presidente-caso-teria-sido-arquivado.ghtml",
+    "time": "2026-08-20T19:54:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+    "d": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+    "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T19:52:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Marçal diz esperar que decisão proibindo debates, campanha na TV e acesso a fundos 'seja revista'",
+    "d": "O candidato à Presidência da República pelo PRTB, Pablo Marçal, em entrevista ao Brasil Paralelo. Reprodução/Youtube A equipe do candidato à Presidência pelo PRTB Pablo Marçal afirmou nesta quinta-feira (20) esperar q…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/marcal-decisao-tse.ghtml",
+    "time": "2026-08-20T19:52:14.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ele vendia carros sem saber que era filho de um príncipe; DNA revelou a verdade aos 26 anos",
+    "d": "Clément Vandenkerckhove (à direita) com seu pai, o príncipe Laurent. Divulgação/BBC O príncipe Laurent da Bélgica reconheceu legalmente Clément Vandenkerckhove, um ex-vendedor de carros de 26 anos, como seu filho e he…",
+    "link": "https://g1.globo.com/carros/noticia/2026/08/20/ele-vendia-carros-sem-saber-que-era-filho-de-um-principe-dna-revelou-a-verdade-aos-26-anos.ghtml",
+    "time": "2026-08-20T19:50:59.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Minha prioridade era tirar as crianças dali': a história de uma das imagens mais comoventes do terremoto na Colômbia",
     "d": "Em meio ao caos, a equipe do Hospital Universitário del Valle reagiu com rapidez e dedicação, salvando vidas e se reorganizando contra o relógio",
     "link": "https://www.bbc.com/portuguese/articles/crrvg57ver4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-20T19:41:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Salles se descreve como liberal na economia, conservador nos costumes e diz que 8 de janeiro 'foi uma baderna'",
+    "d": "Ricardo Salles (Novo), candidato ao Senado por São Paulo, durante entrevista ao programa Mathias TV, exibido no YouTube nesta quinta-feira (20) Reprodução/Youtube Mathias TV O deputado federal Ricardo Salles (Novo), c…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/salles-se-descreve-como-liberal-na-economia-conservador-nos-costumes-e-diz-que-8-de-janeiro-foi-uma-baderna.ghtml",
+    "time": "2026-08-20T19:35:42.000Z"
   },
   {
     "cat": "brasil",
@@ -16,116 +208,12 @@
     "time": "2026-08-20T19:27:48.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-    "d": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\".",
-    "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T19:19:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cacau fecha em alta impulsionado por temor de safra menor em Gana",
-    "d": "Previsão ocorre mesmo com recuperação da oferta, superávit e enfraquecimento da demanda industrial",
-    "link": "https://www.cnnbrasil.com.br/agro/cacau-fecha-em-alta-impulsionado-por-temor-de-safra-menor-em-gana/",
-    "time": "2026-08-20T19:14:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pesquisa da UFG mostra desempenho positivo de DDGS de sorgo em bovinos",
-    "d": "Estudo com 200 animais avalia níveis de inclusão do coproduto do etanol e aponta desempenho promissor no consumo e na adaptação dos animais",
-    "link": "https://www.cnnbrasil.com.br/agro/pesquisa-da-ufg-mostra-desempenho-positivo-de-ddgs-de-sorgo-em-bovinos/",
-    "time": "2026-08-20T19:13:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Outer Banks”: atores se despedem da série após estreia de quinta temporada",
-    "d": "Os dez episódios finais da narrativa já estão disponíveis no catálogo da Netflix",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/outer-banks-atores-se-despedem-da-serie-apos-estreia-de-quinta-temporada/",
-    "time": "2026-08-20T19:13:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TSE sorteia ordem e discute regras da propaganda eleitoral gratuita",
-    "d": "Avante será o primeiro partido a veicular propaganda; tribunal ouviu nesta quinta as últimas sugestões de partidos à norma que regula o horário eleitoral gratuito em rádio e TV",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-sorteia-ordem-e-discute-regras-da-propaganda-eleitoral-gratuita/",
-    "time": "2026-08-20T19:10:52.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Frigoríficos Uniaves e Pif Paf são condenados por jornada excessiva e ausência de descanso semanal de funcionários no ES",
     "d": "Imagem de frigorífico Divulgação A Justiça do Trabalho condenou a Companhia de Alimentos Uniaves Ltda. e a Rio Branco Alimentos S/A (Pif Paf) por jornada excessiva e ausência de descanso semanal de funcionários no Esp…",
     "link": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/08/20/frigorificos-uniaves-e-pif-paf-sao-condenados-por-jornada-excessiva-e-ausencia-de-descanso-semanal-de-funcionarios-no-es.ghtml",
     "time": "2026-08-20T19:09:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cruzeiro: Artur Jorge foca em “vencer próximos jogos”",
-    "d": "Técnico português avalia desafios do time celeste após eliminação na Libertadores e traça metas para o Campeonato Brasileiro e Copa do Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/cruzeiro-artur-jorge-foca-em-vencer-proximos-jogos/",
-    "time": "2026-08-20T19:09:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Polícia Civil prende falso entregador que é autor de roubo de celular no RJ",
-    "d": "Suspeito se passava por entregador, utilizando uma bicicleta e uma bag de entrega para cometer crimes sem levantar suspeitas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-civil-prende-falso-entregador-que-e-autor-de-roubo-de-celular-no-rj/",
-    "time": "2026-08-20T19:06:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Roubos em São Paulo: veja ranking das ruas com mais assaltos na cidade",
-    "d": "Vias da região central lideram lista de ocorrências; primeiro semestre de 2026 teve redução nos crimes registrados na capital, segundo a SSP",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/roubos-em-sao-paulo-veja-ranking-das-ruas-com-mais-assaltos-na-cidade/",
-    "time": "2026-08-20T19:04:50.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Membro do Fed aponta que recomendaria elevar juros em setembro",
-    "d": "Presidente do Federal Reserve de St. Louis citou possibilidade se inflação americana continuar elevada",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/membro-do-fed-diz-que-recomendaria-elevar-juros-em-setembro-se-inflacao-continuar-elevada/",
-    "time": "2026-08-20T19:04:49.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Candidaturas indígenas bate recorde nas eleições de 2026, diz Apib",
-    "d": "Levantamento da Articulação dos Povos Indígenas do Brasil, com bases nos dados do Tribunal Superior Eleitoral, aponta 191 candidatos que se declaram indígenas",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/candidaturas-indigenas-bate-recorde-nas-eleicoes-de-2026-diz-apib/",
-    "time": "2026-08-20T19:04:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hayden Panettiere: agência antidrogas dos EUA passa a investigar morte",
-    "d": "Possível overdose faz parte da linha investigativa das autoridades americanas",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/hayden-panettiere-agencia-antidrogas-dos-eua-passa-a-investigar-morte/",
-    "time": "2026-08-20T19:04:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arthur Elias não garante Marta na Copa de 2027",
-    "d": "Técnico da Seleção Brasileira confia na preparação da craque, mas exige alto nível no Orlando Pride para vaga no Mundial",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/arthur-elias-nao-garante-marta-na-copa-de-2027/",
-    "time": "2026-08-20T19:02:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça libera cremação de colombianas mortas em queda de helicóptero no RJ",
-    "d": "Decisão judicial autoriza o procedimento para as três vítimas do acidente aeronáutico ocorrido na região da Vista Chinesa",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-libera-cremacao-de-colombianas-mortas-em-queda-de-helicoptero-no-rj/",
-    "time": "2026-08-20T19:02:03.000Z"
   },
   {
     "cat": "internacional",
@@ -176,14 +264,6 @@
     "time": "2026-08-20T17:01:15.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Como mayor bans 'beasts' in city centre after being hit by bike",
-    "d": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T16:53:20.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Veja plano de governo de Luciana Amorim (UP), candidata ao governo de Goiás",
@@ -232,14 +312,6 @@
     "time": "2026-08-20T15:43:41.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-    "d": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the A…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-    "time": "2026-08-20T15:42:39.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Tarcísio contraria Flávio Bolsonaro e defende urnas eletrônicas: 'foram elas que me elegeram'",
@@ -254,14 +326,6 @@
     "d": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You could pin the US’s staggering $40tn in…",
     "link": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
     "time": "2026-08-20T15:21:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Landslide at unlicensed Colombian gold mine kills 13",
-    "d": "Four members of an indigenous family are among the dead, witnesses said.",
-    "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T15:07:57.000Z"
   },
   {
     "cat": "brasil",
@@ -352,22 +416,6 @@
     "time": "2026-08-20T12:58:50.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Como o g1 identificou 9 candidatos com mandados de prisão em aberto",
-    "d": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE Na quarta-feira (19), o g1 publicou um levantamento exclusivo que revelou que nove candidatos das eleições de 2026 eram alvos de mandados de prisão em ab…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/como-o-g1-identificou-9-candidatos-com-mandados-de-prisao-em-aberto.ghtml",
-    "time": "2026-08-20T12:48:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula quer investigação sobre vazamentos de caso envolvendo filho, mas também defende depoimento rápido à PF",
-    "d": "Irritado tanto com o filho quanto com os vazamentos de informações sigilosas da investigação que envolve Fábio Luís Lula da Silva, o Lulinha, o presidente Luiz Inácio Lula da Silva (PT) passou a defender duas frentes…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-quer-investigacao-sobre-vazamentos-de-caso-envolvendo-filho-mas-tambem-defende-depoimento-rapido-a-pf.ghtml",
-    "time": "2026-08-20T12:41:41.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Assad officer extradited to Syria on war crimes charges for first time",
@@ -376,52 +424,12 @@
     "time": "2026-08-20T12:38:35.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PGR pede que caso Lulinha deixe STF e seja encaminhado para primeira instância",
-    "d": "PGR pede que caso Lulinha deixe STF e vá pra 1ª instância A Procuradoria-Geral da República (PGR) defendeu, em manifestação enviada ao Supremo Tribunal Federal (STF), que os inquéritos envolvendo o empresário Fábio Lu…",
-    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/20/pgr-pede-que-caso-lulinha-deixe-stf-e-va-pra-1a-instancia-diz-defesa.ghtml",
-    "time": "2026-08-20T12:29:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caso Lulinha: o jogo de empurra sobre acesso de lobista ao governo e a preocupação com desgaste para a campanha de Lula",
-    "d": "Sadi: Lulinha vira jogo de empurra no governo e PT Há um jogo de empurra dentro do PT e do governo Lula para definir de quem é a responsabilidade por explicar o trânsito que a lobista Roberta Luchsinger tinha dentro d…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/20/caso-lulinha-bastidores-governo-campanha-lula.ghtml",
-    "time": "2026-08-20T12:20:27.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
     "d": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentence…",
     "link": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
     "time": "2026-08-20T12:03:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar opera em alta, mesmo após anúncio do Tesouro americano e de olho no petróleo; Ibovespa oscila",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quinta-feira (20), com um avanço de 0,33% perto das 15h40, cotado a R$ 5,1932. O Ibovespa, principal índice da bolsa brasileira, oscilava en…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
-    "time": "2026-08-20T12:00:30.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Em nome da campanha de Lula, Durigan acena com ajuste gradual das contas públicas para reduzir taxa de juros",
-    "d": "O ministro da Fazenda, Dario Durigan, informou nesta quinta-feira (20) que, em um eventual novo mandato do presidente Luiz Inácio Lula da Silva (PT), que concorre novamente à reeleição, a equipe econômica promoverá um…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml",
-    "time": "2026-08-20T11:34:12.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Orcas' da Polymarket: mais de 150 apostadores podem ter lucrado com segredos militares",
-    "d": "Mercado de previsão Polymarket AP Photo/Wyatte Grantham-Philips Mais de 150 carteiras na casa de apostas Polymarket International podem ter operado com base em informações priviligiadas das Forças Armadas dos Estados…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/08/20/usuarios-de-site-de-apostas-nos-eua-tiveram-acesso-a-informacoes-das-forcas-armadas-diz-pesquisa.ghtml",
-    "time": "2026-08-20T11:12:54.000Z"
   },
   {
     "cat": "economia",
@@ -446,14 +454,6 @@
     "d": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, S…",
     "link": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
     "time": "2026-08-20T10:25:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ex-Zambian minister killed in security raid on opposition",
-    "d": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
-    "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T10:07:48.000Z"
   },
   {
     "cat": "brasil",
