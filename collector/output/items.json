@@ -1,51 +1,171 @@
 [
   {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+    "d": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentence…",
+    "link": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+    "time": "2026-08-20T11:38:54.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Ásia fecham em alta após ganhos em WS; Kospi salta quase 6%",
+    "d": "Ações da Samsung Electronics avançaram 9,5% enquando a fabricanta de memória SK Hynix disparou mais de 12% após anunciar recompra significativa de ações",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-em-alta-apos-ganhos-em-wall-street-kospi-salta-quase-6/",
+    "time": "2026-08-20T11:36:45.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Operação mira suspeitos de roubarem R$ 5 milhões de empresário de SP",
-    "d": "Criminosos conseguiram acessar aplicativos de bancos e corretoras instalados no telefone do homem, transferindo dinheiro e criptomoedas através de múltiplas transações",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pe/operacao-mira-suspeitos-de-roubarem-r-5-milhoes-de-empresario-de-sp/",
-    "time": "2026-08-20T10:39:05.000Z"
+    "h": "PM faz operação no Complexo do Chapadão, na zona Norte do Rio",
+    "d": "Dois homens foram presos durante a madrugada; um fuzil, munições e drogas foram apreendidos na região",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pm-faz-operacao-no-complexo-do-chapadao-na-zona-norte-do-rio/",
+    "time": "2026-08-20T11:36:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Não será possível combater facções sem cooperação internacional, diz ex-GSI",
+    "d": "Sergio Etchegoyen, ex-ministro-chefe do GSI, afirma que o Brasil não conseguirá enfrentar o crime organizado sem cooperar com outros países, incluindo os EUA",
+    "link": "https://www.cnnbrasil.com.br/internacional/nao-sera-possivel-combater-faccoes-sem-cooperacao-internacional-diz-ex-gsi/",
+    "time": "2026-08-20T11:35:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em nome de Lula, Durigan acena com ajuste gradual das contas públicas para reduzir juros",
+    "d": "O ministro da Fazenda, Dario Durigan, informou nesta quinta-feira (20) que, em um eventual novo mandato do presidente Luiz Inácio Lula da Silva, que concorre novamente à reeleição, a equipe econômica promoverá um ajus…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml",
+    "time": "2026-08-20T11:34:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TRF-1: norma que permite dentistas realizarem harmonização facial é ilegal",
+    "d": "Decisão da 8ª Turma, por maioria de votos, acolheu recursos de entidades médicas e considerou que o Conselho Federal de Odontologia extrapolou sua competência ao ampliar a atuação dos profissionais",
+    "link": "https://www.cnnbrasil.com.br/saude/trf-1-norma-que-permite-dentistas-realizarem-harmonizacao-facial-e-ilegal/",
+    "time": "2026-08-20T11:30:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O que o Corinthians precisa fazer para avançar às quartas da Libertadores",
+    "d": "Timão recebe o Rosario Central nesta quinta-feira (20)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/o-que-o-corinthians-precisa-fazer-para-avancar-as-quartas-da-libertadores/",
+    "time": "2026-08-20T11:29:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fabrício Bruno reage às vaias da torcida do Flamengo para Gerson: “Triste”",
+    "d": "Mesmo multicampeão, o meia viu sua relação com o clube estremecer após saída para o Zenit e ação judicial de R$ 42 milhões",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/fabricio-bruno-reage-as-vaias-da-torcida-do-flamengo-para-gerson-triste/",
+    "time": "2026-08-20T11:21:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Japão acusa Coreia do Norte de disparar suposto míssil balístico",
+    "d": "Projétil teria caído no mar, fora da zona econômica do país, segundo emissora",
+    "link": "https://www.cnnbrasil.com.br/internacional/japao-acusa-coreia-do-norte-de-disparar-suposto-missil-balistico/",
+    "time": "2026-08-20T11:20:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Voos são suspensos no aeroporto de Guarulhos após presença de drones",
+    "d": "Operações já foram normalizadas e voos foram alterados para outros aeroportos",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/voos-sao-suspensos-no-aeroporto-de-guarulhos-apos-presenca-de-drones/",
+    "time": "2026-08-20T11:16:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Colisão entre helicóptero e avião nos EUA deixa um morto e dois feridos",
+    "d": "Ao menos policiais policiais estaduais ficaram feridos; piloto morreu",
+    "link": "https://www.cnnbrasil.com.br/internacional/colisao-entre-helicoptero-nos-eua-e-aviao-causa-morte-e-deixa-feridos/",
+    "time": "2026-08-20T11:15:33.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Usuários de site de apostas nos EUA tiveram acesso a informações privilegiadas das Forças Armadas, diz pesquisa",
+    "d": "Mercado de previsão Polymarket AP Photo/Wyatte Grantham-Philips Mais de 150 carteiras na casa de apostas Polymarket International podem ter operado com base em informações priviligiadas das Forças Armadas dos Estados…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/08/20/usuarios-de-site-de-apostas-nos-eua-tiveram-acesso-a-informacoes-das-forcas-armadas-diz-pesquisa.ghtml",
+    "time": "2026-08-20T11:12:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mina de ouro desaba e deixa mais de 100 mortos na República Centro-Africana",
+    "d": "Acidente ocorreu em vila perto da fronteira com Camarõesna terça-feira (18)",
+    "link": "https://www.cnnbrasil.com.br/internacional/mina-de-ouro-desaba-e-deixa-mortos-na-republica-centro-africana/",
+    "time": "2026-08-20T11:09:09.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Só 3% das casas do Reino Unido têm ar-condicionado; veja por que instalar o aparelho pode ser caro e 'piorar calor'",
+    "d": "Com mais de dois terços do Reino Unido em situação de seca, a histórica ponte de pedra sobre o reservatório de Baitings está exposta devido à queda do nível da água em todo o país. Imagem de 13 de agosto de 2026. AP/J…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/20/so-3percent-das-casas-do-reino-unido-tem-ar-condicionado-veja-por-que-instalar-o-aparelho-pode-ser-caro-e-piorar-calor.ghtml",
+    "time": "2026-08-20T11:08:33.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+    "h": "Former Liberian vice-president charged in drug-trafficking probe",
+    "d": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T11:08:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
     "d": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T10:34:33.000Z"
+    "time": "2026-08-20T11:06:54.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Four workers dead after being hit by train in Japan",
-    "d": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T10:32:31.000Z"
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo vai “esperar” para conhecer adversário das quartas; entenda",
+    "d": "Equipe carioca aguarda o vencedor do confronto entre Independiente del Valle e Tolima, que foi adiado",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-vai-esperar-para-conhecer-adversario-das-quartas-entenda/",
+    "time": "2026-08-20T11:06:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Promotora de Justiça do Amazonas morre afogada em praia turística na Bahia",
+    "d": "Ela viajou para participar de um congresso em Salvador; amiga também se afogou e foi resgatada com vida",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/promotora-de-justica-do-amazonas-morre-afogada-em-praia-turistica-na-bahia/",
+    "time": "2026-08-20T11:05:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O alerta de médicos sobre o risco de cigarros eletrônicos para crianças e jovens",
+    "d": "Uso de cigarros eletrônicos pode ser porta de entrada para tabagismo, segundo Royal College of Paediatrics and Child Health, do Reino Unido.",
+    "link": "https://www.bbc.com/portuguese/articles/clyj37x7nk0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T10:56:08.000Z"
   },
   {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-    "d": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea launched about 10 short-range ballistic missiles towards the sea on Thu…",
+    "d": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, S…",
     "link": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
     "time": "2026-08-20T10:25:29.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Flamengo foi superior”, reconhece dono da SAF do Cruzeiro após eliminação",
-    "d": "Dono da SAF celeste surpreendeu e revelou que vai torcer para o rubro-negro \"chegar na final\"",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/flamengo-foi-superior-reconhece-presidente-do-cruzeiro-apos-eliminacao/",
-    "time": "2026-08-20T10:23:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: ônibus bate na asa de avião durante embarque em Guarulhos (SP)",
-    "d": "Passageiros conseguiram viagem em outra aeronave quase uma hora após o tempo programado; ainda não há informações sobre dinâmica do acidente",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-onibus-bate-na-asa-de-aviao-durante-embarque-em-guarulhos-sp/",
-    "time": "2026-08-20T10:21:13.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Belgian car salesman becomes prince after royal parentage confirmed",
+    "d": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T10:14:47.000Z"
   },
   {
     "cat": "economia",
@@ -58,90 +178,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Former Liberian vice-president charged in drug-trafficking probe",
-    "d": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T10:11:26.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Ex-Zambian minister killed in security raid on opposition",
     "d": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
     "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-20T10:07:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time/CE: Cid, Capitão Wagner e Luizianne lideram corrida ao Senado",
-    "d": "Pesquisa foi feita com 1.600 eleitores cearenses entre os dias 15 e 19 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-cid-capitao-wagner-e-luizianne-lideram-corrida-ao-senado/",
-    "time": "2026-08-20T10:06:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time/CE: Elmano é aprovado por 58% dos eleitores; 39% desaprovam",
-    "d": "Ao mesmo tempo, 39% dos cearenses avaliam o governo do petista como “ótimo/bom” e 24% como “ruim/péssimo”",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-elmano-e-aprovado-por-58-dos-eleitores-39-desaprovam/",
-    "time": "2026-08-20T10:05:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Braço financeiro de facção ligada ao PCC é alvo de operação interestadual",
-    "d": "Operação Véu de Areia cumpre ordens de prisão preventiva e de busca e apreensão em Salvador e em cidades de São Paulo, Rio de Janeiro, Paraná e Pará",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/braco-financeiro-de-faccao-ligada-ao-pcc-e-alvo-de-operacao-interestadual/",
-    "time": "2026-08-20T10:04:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time: Elmano e Ciro empatam no 1º e no 2º turnos ao governo do CE",
-    "d": "No 1º turno, ambos aparecem com 44% das intenções; no 2º, atual governador é a escolha de 46% dos eleitores, enquanto o ex-ministro tem 45%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-elmano-e-ciro-empatam-no-1o-e-no-2o-turnos-ao-governo-do-ce/",
-    "time": "2026-08-20T10:04:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time/CE: governo Lula é aprovado por 67% dos eleitores; 32% desaprovam",
-    "d": "Ao mesmo tempo, 43% dos cearenses avaliam o terceiro mandato do petista como \"ótimo/bom\" e 27% como \"ruim/péssimo\"",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-governo-lula-e-aprovado-por-67-dos-eleitores-32-desaprovam/",
-    "time": "2026-08-20T10:03:36.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Café brasileiro é “insubstituível” nos EUA, após batalha contra tarifaço",
-    "d": "Presidente de associação do setor nos EUA, Bill Murray afirma que nenhum outro país reúne volume, qualidade e eficiência para ocupar espaço do Brasil",
-    "link": "https://www.cnnbrasil.com.br/agro/cafe-brasileiro-e-insubstituivel-nos-eua-apos-batalha-contra-tarifaco/",
-    "time": "2026-08-20T10:02:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time/CE: Flávio é rejeitado por 57% dos eleitores; Lula, por 28%",
-    "d": "Pesquisa foi feita com 1.600 eleitores cearenses entre os dias 15 e 19 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-flavio-e-rejeitado-por-57-dos-eleitores-lula-por-28/",
-    "time": "2026-08-20T10:02:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "LDU X Mirassol: horário e onde assistir ao jogo da Libertadores",
-    "d": "Equipes vão a campo nesta quinta-feira (20), em partida de volta pelas oitavas de final da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/ldu-x-mirassol-horario-e-onde-assistir-ao-jogo-da-libertadores-2/",
-    "time": "2026-08-20T10:00:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Time: Lula lidera cenários de 1º e 2º turnos no Ceará",
-    "d": "Pesquisa foi feita com 1.600 eleitores cearenses entre os dias 15 e 19 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-lula-lidera-cenarios-de-1o-e-2o-turnos-no-ceara/",
-    "time": "2026-08-20T10:00:28.000Z"
   },
   {
     "cat": "brasil",
@@ -282,7 +322,7 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Fundador da Evergrande é condenado a prisão perpétua na China; penas de outros cinco executivos vão de 6 a 18 anos",
+    "h": "Fundador da Evergrande é condenado à prisão perpétua na China; penas de outros cinco executivos vão de 6 a 18 anos",
     "d": "Fundador da Evergrande é condenado a prisão perpétua por fraude financeira na China O bilionário fundador da Evergrande, a incorporadora imobiliária mais endividada do mundo, foi condenado à prisão perpétua na quinta-…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/20/fundador-da-evergrande-e-condenado-a-prisao-perpetua.ghtml",
     "time": "2026-08-20T05:26:30.000Z"
@@ -336,14 +376,6 @@
     "time": "2026-08-20T03:00:35.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Vazamento de dados na Latam: entenda o que foi exposto e como se proteger",
-    "d": "Latam não revelou quantos clientes foram afetados Latam/Divulgação Clientes da companhia aérea Latam tiveram dados pessoais e parte de números de cartões de crédito expostos após um incidente de segurança que permitiu…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/20/vazamento-de-dados-na-latam-entenda-o-que-foi-exposto-e-como-se-proteger.ghtml",
-    "time": "2026-08-20T03:00:34.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Giant whales move into Greenland waters as ice disappears",
@@ -358,22 +390,6 @@
     "d": "O Ministério Público Federal (MPF) pediu ao Discord que informe as medidas adotadas para garantir a segurança de crianças e adolescentes na plataforma. O procurador Paulo Thadeu Gomes da Silva pediu dados especialment…",
     "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/19/mpf-pede-a-discord-informacoes-sobre-riscos-a-criancas-e-adolescentes.ghtml",
     "time": "2026-08-20T01:12:12.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "‘Like a miracle’: 84-year-old woman pulled alive from rubble three days after Indonesian quake",
-    "d": "A landslide triggered by the quake had blocked access to the village where Paulina Pobi had lived, leaving her buried under the collapsed remains An 84-year-old woman has been discovered alive in the flattened remains…",
-    "link": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
-    "time": "2026-08-20T00:57:42.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Maior térmica do Brasil é paralisada após falha em equipamento",
-    "d": "Usina GNA II, no complexo portuário do Açu, no Rio de Janeiro, é a maior termelétrica do país Divulgação/GNA A usina GNA II, maior termelétrica do país, interrompeu a operação em 10 de agosto após uma falha no disjunt…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/19/maior-termica-do-brasil-e-paralisada-apos-falha-em-equipamento.ghtml",
-    "time": "2026-08-20T00:22:34.000Z"
   },
   {
     "cat": "internacional",
@@ -400,14 +416,6 @@
     "time": "2026-08-19T23:36:18.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trump anuncia 'guerra econômica' contra o Irã e ameaça países que ajudarem o regime",
-    "d": "Trump diz que não há perspectiva de negociações com o Irã O presidente dos Estados Unidos, Donald Trump, anunciou nesta quarta-feira (19) que está lançando uma \"guerra econômica\" contra o Irã. Ele também ameaçou punir…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/08/19/trump-anuncia-guerra-economica-contra-o-ira-e-ameaca-paises-que-ajudarem-o-regime.ghtml",
-    "time": "2026-08-19T23:06:34.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Ministério Público Eleitoral pede que TSE rejeite registro de candidatura de Pablo Marçal",
@@ -425,14 +433,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Lula se reúne com advogado de Lulinha no Palácio da Alvorada",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) se reuniu na noite desta quarta-feira (19) no Palácio da Alvorada com o advogado que defende o filho do petista, o empresário Fábio Luís Lula da Silva, o Lulinha. O advogado…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/19/lula-se-reune-com-advogado-de-lulinha-no-palacio-da-alvorada.ghtml",
-    "time": "2026-08-19T22:31:21.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Príncipe Harry e Meghan vão voltar a morar no Reino Unido",
     "d": "Os filhos do casal, príncipe Archie e princesa Lilibet, estão matriculados em uma escola britânica para iniciar os estudos em setembro.",
@@ -446,14 +446,6 @@
     "d": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled…",
     "link": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
     "time": "2026-08-19T21:24:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Israel confirma que soldados atiraram contra o carro em que palestina de 5 anos foi morta e abre investigação",
-    "d": "A menina de cinco anos, moradora de Gaza, sobreviveu inicialmente ao ataque e pediu ajuda, mas seu corpo foi encontrado posteriormente junto aos de seis de seus familiares.",
-    "link": "https://www.bbc.com/portuguese/articles/cp8xgw0p3p6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T21:00:47.000Z"
   },
   {
     "cat": "internacional",
