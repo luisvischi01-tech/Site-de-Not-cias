@@ -1,11 +1,171 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Operação mira suspeitos de roubarem R$ 5 milhões de empresário de SP",
+    "d": "Criminosos conseguiram acessar aplicativos de bancos e corretoras instalados no telefone do homem, transferindo dinheiro e criptomoedas através de múltiplas transações",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pe/operacao-mira-suspeitos-de-roubarem-r-5-milhoes-de-empresario-de-sp/",
+    "time": "2026-08-20T10:39:05.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
     "d": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T09:14:56.000Z"
+    "time": "2026-08-20T10:34:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Four workers dead after being hit by train in Japan",
+    "d": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T10:32:31.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+    "d": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea launched about 10 short-range ballistic missiles towards the sea on Thu…",
+    "link": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+    "time": "2026-08-20T10:25:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Flamengo foi superior”, reconhece dono da SAF do Cruzeiro após eliminação",
+    "d": "Dono da SAF celeste surpreendeu e revelou que vai torcer para o rubro-negro \"chegar na final\"",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/flamengo-foi-superior-reconhece-presidente-do-cruzeiro-apos-eliminacao/",
+    "time": "2026-08-20T10:23:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeo: ônibus bate na asa de avião durante embarque em Guarulhos (SP)",
+    "d": "Passageiros conseguiram viagem em outra aeronave quase uma hora após o tempo programado; ainda não há informações sobre dinâmica do acidente",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-onibus-bate-na-asa-de-aviao-durante-embarque-em-guarulhos-sp/",
+    "time": "2026-08-20T10:21:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que fundador de gigante do setor imobiliário foi condenado à prisão perpétua na China",
+    "d": "Hui Ka Yan, ao centro, é fundador do grupo chinês Evergrande Shenzhen Intermediate People’s Court/WeChat via BBC O fundador da Evergrande — gigante do setor imobiliário no centro de uma grande crise do mercado imobili…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/20/por-que-fundador-de-gigante-do-setor-imobiliario-foi-condenado-a-prisao-perpetua-na-china.ghtml",
+    "time": "2026-08-20T10:14:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Former Liberian vice-president charged in drug-trafficking probe",
+    "d": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T10:11:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ex-Zambian minister killed in security raid on opposition",
+    "d": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+    "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T10:07:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time/CE: Cid, Capitão Wagner e Luizianne lideram corrida ao Senado",
+    "d": "Pesquisa foi feita com 1.600 eleitores cearenses entre os dias 15 e 19 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-cid-capitao-wagner-e-luizianne-lideram-corrida-ao-senado/",
+    "time": "2026-08-20T10:06:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time/CE: Elmano é aprovado por 58% dos eleitores; 39% desaprovam",
+    "d": "Ao mesmo tempo, 39% dos cearenses avaliam o governo do petista como “ótimo/bom” e 24% como “ruim/péssimo”",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-elmano-e-aprovado-por-58-dos-eleitores-39-desaprovam/",
+    "time": "2026-08-20T10:05:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Braço financeiro de facção ligada ao PCC é alvo de operação interestadual",
+    "d": "Operação Véu de Areia cumpre ordens de prisão preventiva e de busca e apreensão em Salvador e em cidades de São Paulo, Rio de Janeiro, Paraná e Pará",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/braco-financeiro-de-faccao-ligada-ao-pcc-e-alvo-de-operacao-interestadual/",
+    "time": "2026-08-20T10:04:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time: Elmano e Ciro empatam no 1º e no 2º turnos ao governo do CE",
+    "d": "No 1º turno, ambos aparecem com 44% das intenções; no 2º, atual governador é a escolha de 46% dos eleitores, enquanto o ex-ministro tem 45%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-elmano-e-ciro-empatam-no-1o-e-no-2o-turnos-ao-governo-do-ce/",
+    "time": "2026-08-20T10:04:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time/CE: governo Lula é aprovado por 67% dos eleitores; 32% desaprovam",
+    "d": "Ao mesmo tempo, 43% dos cearenses avaliam o terceiro mandato do petista como \"ótimo/bom\" e 27% como \"ruim/péssimo\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-governo-lula-e-aprovado-por-67-dos-eleitores-32-desaprovam/",
+    "time": "2026-08-20T10:03:36.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Café brasileiro é “insubstituível” nos EUA, após batalha contra tarifaço",
+    "d": "Presidente de associação do setor nos EUA, Bill Murray afirma que nenhum outro país reúne volume, qualidade e eficiência para ocupar espaço do Brasil",
+    "link": "https://www.cnnbrasil.com.br/agro/cafe-brasileiro-e-insubstituivel-nos-eua-apos-batalha-contra-tarifaco/",
+    "time": "2026-08-20T10:02:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time/CE: Flávio é rejeitado por 57% dos eleitores; Lula, por 28%",
+    "d": "Pesquisa foi feita com 1.600 eleitores cearenses entre os dias 15 e 19 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-ce-flavio-e-rejeitado-por-57-dos-eleitores-lula-por-28/",
+    "time": "2026-08-20T10:02:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "LDU X Mirassol: horário e onde assistir ao jogo da Libertadores",
+    "d": "Equipes vão a campo nesta quinta-feira (20), em partida de volta pelas oitavas de final da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/ldu-x-mirassol-horario-e-onde-assistir-ao-jogo-da-libertadores-2/",
+    "time": "2026-08-20T10:00:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time: Lula lidera cenários de 1º e 2º turnos no Ceará",
+    "d": "Pesquisa foi feita com 1.600 eleitores cearenses entre os dias 15 e 19 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-lula-lidera-cenarios-de-1o-e-2o-turnos-no-ceara/",
+    "time": "2026-08-20T10:00:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que existe o Dia Mundial do Mosquito — e o que isso tem a ver com o Nobel",
+    "d": "Dia 20 de agosto marca a descoberta dos mecanismos de transmissão da malária — algo que pode ter salvado milhões de vidas.",
+    "link": "https://www.bbc.com/portuguese/articles/c8xnwz8g48zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T09:57:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que fundador de gigante do setor imobiliário foi condenado à prisão perpétua na China",
+    "d": "Sentença de Hui marca momento crucial nas consequências do colapso da Evergrande, que abalou economia da China.",
+    "link": "https://www.bbc.com/portuguese/articles/cwy49zqk7zgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T09:38:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda, em cinco pontos, a nova regra da Anac",
+    "d": "Medida entra em vigor em setembro e também prevê multas de R$ 17,5 mil para casos de conflitos menos graves durante o voo ou o embarque.",
+    "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-20T09:23:31.000Z"
   },
   {
     "cat": "internacional",
@@ -17,91 +177,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Deep tech brasileira usa IA para definir alvos de terras raras no Nordeste",
-    "d": "Neominera obteve três alvarás de pesquisa em Pernambuco e Alagoas e tem outros 11 requerimentos em análise; empresa usa tecnologia para reduzir risco nas etapas iniciais da exploração mineral",
-    "link": "https://www.cnnbrasil.com.br/infra/deep-tech-brasileira-usa-ia-para-definir-alvos-de-terras-raras-no-nordeste/",
-    "time": "2026-08-20T09:00:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Frigoríficos habilitados à UE já adotam protocolo de segregação, diz Abiec",
-    "d": "Segundo a entidade, empresas certificadoras e frigoríficos habilitados para o mercado europeu já aderiram aos procedimentos; cerca de 220 fazendas também participam",
-    "link": "https://www.cnnbrasil.com.br/agro/frigorificos-habilitados-a-ue-ja-adotam-protocolo-de-segregacao-diz-abiec/",
-    "time": "2026-08-20T09:00:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "64,8% dos alunos saem do ensino médio sem aprender português adequadamente",
-    "d": "Apesar de evolução nos últimos 20 anos, defasagem escolar ainda é alta no ensino da língua portuguesa",
-    "link": "https://www.cnnbrasil.com.br/educacao/648-dos-alunos-saem-do-ensino-medio-sem-aprender-portugues-adequadamente/",
-    "time": "2026-08-20T09:00:12.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Converter dólar em real: como fazer a melhor escolha e pagar menos taxas",
-    "d": "Entenda como as diferenças entre bancos, casas de câmbio e contas globais ajuda a reduzir custos e aproveitar melhor o seu dinheiro em viagens, compras internacionais e investimentos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/converter-dolar-em-real-como-fazer-a-melhor-escolha-e-pagar-menos-taxas/",
-    "time": "2026-08-20T08:45:40.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
     "d": "Getty/BBC Durante os últimos anos, poucos temas despertaram tanta preocupação entre autoridades eleitorais, pesquisadores e empresas de tecnologia quanto o potencial da inteligência artificial generativa para distorce…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/por-que-impacto-da-ia-em-eleicoes-pode-estar-sendo-exagerado-segundo-pesquisador-de-oxford.ghtml",
     "time": "2026-08-20T08:43:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Novorizontino x América-MG: horário e onde assistir ao jogo da Série B",
-    "d": "Clubes se enfrentam nesta quinta (20) vivendo situações diferentes na tabela",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/novorizontino-x-america-mg-horario-e-onde-assistir-ao-jogo-da-serie-b-3/",
-    "time": "2026-08-20T08:30:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fiat quer Argo X na liderança e revela estratégia contra chinesas",
-    "d": "Novo hatch será produzido em Betim, terá inspiração no Grande Panda europeu e chega com foco em tecnologia, estilo e segurança",
-    "link": "https://www.cnnbrasil.com.br/auto/fiat-quer-argo-x-na-lideranca-e-revela-estrategia-contra-chinesas/",
-    "time": "2026-08-20T08:30:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mais de 90% terminam ensino médio sem nível adequado em matemática",
-    "d": "Evolução percentual na disciplina é baixa no 9º ano do ensino fundamental e no 3º ano do médio",
-    "link": "https://www.cnnbrasil.com.br/educacao/mais-de-90-terminam-ensino-medio-sem-nivel-adequado-em-matematica/",
-    "time": "2026-08-20T08:30:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Four workers dead after being hit by train in Japan",
-    "d": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T08:14:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena: quanto rendem R$ 50 milhões na poupança, Tesouro Direto ou CDB",
-    "d": "Sorteio desta quinta-feira (20) será realizado às 21h; apostas podem ser feitas até 20h",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-50-milhoes-na-poupanca-tesouro-direto-ou-cdb-4/",
-    "time": "2026-08-20T08:05:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "6 a cada 10 alunos terminam ensino médio com aprendizado abaixo do esperado",
-    "d": "Maior parte dos estudantes encerra a fase escolar sem aprender Português e Matemática",
-    "link": "https://www.cnnbrasil.com.br/educacao/6-a-cada-10-alunos-terminam-ensino-medio-com-aprendizado-abaixo-do-esperado/",
-    "time": "2026-08-20T08:05:11.000Z"
   },
   {
     "cat": "brasil",
@@ -126,30 +206,6 @@
     "d": "Recuperação judicial: entenda o instrumento usado pelo Grupo Casas Bahia Fechamento de lojas, recuperações judiciais e falências deixaram de ser episódios isolados no varejo. Da Europa aos Estados Unidos e ao Brasil,…",
     "link": "https://g1.globo.com/empreendedorismo/noticia/2026/08/20/por-que-grandes-redes-de-varejo-estao-fechando-lojas-e-pedindo-recuperacao-judicial.ghtml",
     "time": "2026-08-20T08:03:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com Memphis, Corinthians busca avançar às quartas de final da Libertadores",
-    "d": "Timão recebe o Rosario Central na Neo Química Arena nesta quinta (20)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/com-memphis-corinthians-busca-avancar-as-quartas-de-final-da-libertadores/",
-    "time": "2026-08-20T08:01:54.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Fazendas especializadas em produzir gado para a UE é a alternativa",
-    "d": "Mais de 200 pecuaristas já demonstraram interesse em participar do programa que certifica animais para exportação à União Europeia, sem uso de antimicrobianos",
-    "link": "https://www.cnnbrasil.com.br/agro/fazendas-especializadas-em-produzir-gado-para-a-ue-e-a-alternativa/",
-    "time": "2026-08-20T08:01:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tráfico de emagrecedores cresce enquanto o de cigarros cai no mesmo período",
-    "d": "Especialista avalia a presença do crime organizado e risco menor em contrabando das “canetas do Paraguai”",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/trafico-de-emagrecedores-cresce-enquanto-o-de-cigarros-cai-no-mesmo-periodo/",
-    "time": "2026-08-20T08:00:44.000Z"
   },
   {
     "cat": "brasil",
@@ -227,7 +283,7 @@
     "cat": "economia",
     "src": "G1",
     "h": "Fundador da Evergrande é condenado a prisão perpétua na China; penas de outros cinco executivos vão de 6 a 18 anos",
-    "d": "O ex-presidente da Evergrande, Xu Jiayin, também conhecido como Hui Ka Yan, em 2012 AFP O bilionário fundador da Evergrande, a incorporadora imobiliária mais endividada do mundo, foi condenado à prisão perpétua na qui…",
+    "d": "Fundador da Evergrande é condenado a prisão perpétua por fraude financeira na China O bilionário fundador da Evergrande, a incorporadora imobiliária mais endividada do mundo, foi condenado à prisão perpétua na quinta-…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/20/fundador-da-evergrande-e-condenado-a-prisao-perpetua.ghtml",
     "time": "2026-08-20T05:26:30.000Z"
   },
@@ -238,14 +294,6 @@
     "d": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
     "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-20T04:17:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Former Liberian vice president charged in drug-trafficking probe",
-    "d": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
-    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T03:09:24.000Z"
   },
   {
     "cat": "economia",
@@ -307,7 +355,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "MPF pede ao Discord informações sobre riscos a crianças e adolescentes",
-    "d": "O Ministério Público Federal no Distrito Federal (MPF-DF) pediu ao Discord que informe as medidas adotadas para garantir a segurança de crianças e adolescentes na plataforma. O procurador Paulo Thadeu Gomes da Silva p…",
+    "d": "O Ministério Público Federal (MPF) pediu ao Discord que informe as medidas adotadas para garantir a segurança de crianças e adolescentes na plataforma. O procurador Paulo Thadeu Gomes da Silva pediu dados especialment…",
     "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/19/mpf-pede-a-discord-informacoes-sobre-riscos-a-criancas-e-adolescentes.ghtml",
     "time": "2026-08-20T01:12:12.000Z"
   },
@@ -393,22 +441,6 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Após descoberta de petróleo na Foz do Amazonas, Marina Silva defende estudos para 'evitar impactos indesejáveis'",
-    "d": "Após descoberta de petróleo, Marina defende estudos para 'evitar impactos indesejáveis' Candidata ao Senado Federal por São Paulo, Marina Silva (Rede Sustentabilidade) defendeu nesta quarta-feira (19), em São Carlos (…",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/08/19/apos-descoberta-de-petroleo-na-foz-do-amazonas-marina-silva-defende-estudos-para-evitar-impactos-indesejaveis.ghtml",
-    "time": "2026-08-19T21:51:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-    "d": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-    "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T21:32:15.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "US gross national debt tops $40tn for first time",
     "d": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled…",
@@ -438,14 +470,6 @@
     "d": "Francis Smith era considerado o prisioneiro que cumpriu a pena mais longa nos EUA, antes de falecer de causas naturais.",
     "link": "https://www.bbc.com/portuguese/articles/c62ey90gn86o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-19T18:40:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Kim Jong-un’s sister casts doubt on Trump’s claims of secret US-North Korea talks",
-    "d": "President says he plans to meet dictator this year but Kim Yo-jong says Washington remains Pyongyang’s enemy Donald Trump has said he is planning to meet North Korea’s Kim Jong-un later this year, though the reclusive…",
-    "link": "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks",
-    "time": "2026-08-19T17:39:56.000Z"
   },
   {
     "cat": "brasil",
@@ -488,14 +512,6 @@
     "time": "2026-08-19T13:44:57.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A indignação com os danos ambientais causados ​​por um homem com sua caminhonete em ecossistema único na Argentina",
-    "d": "A Pampa del Leoncito é uma extensa planície esbranquiçada que corresponde ao leito de um antigo lago que secou há milhares de anos.",
-    "link": "https://www.bbc.com/portuguese/articles/cq56nw6105go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T12:25:21.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
@@ -512,14 +528,6 @@
     "time": "2026-08-19T10:00:13.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'O feminicídio gera órfãos como eu todos os dias': como irmãos que viram mãe ser assassinada e foram baleados pelo próprio pai lutaram durante 20 anos por Justiça",
-    "d": "O assassino de Maristela Just, seu ex-marido, só foi preso 23 anos após o crime, após uma longa batalha judicial em que os filhos lutaram publicamente pela prisão do pai. Baleado no rosto, Zaldo Just lançou livro em q…",
-    "link": "https://www.bbc.com/portuguese/articles/cy9w01pd0vwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-19T09:04:22.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Activist forced out of US after criticising Trump-aligned Colombian politician",
@@ -534,14 +542,6 @@
     "d": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump a…",
     "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
     "time": "2026-08-19T03:47:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira",
-    "d": "A atriz morreu nesta terça-feira (18/8), aos 91 anos, no Rio de Janeiro, por causas naturais, segundo sua assessoria de imprensa.",
-    "link": "https://www.bbc.com/portuguese/articles/cm2g729w9j9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-18T22:31:44.000Z"
   },
   {
     "cat": "comercio",
@@ -622,13 +622,5 @@
     "d": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The fer…",
     "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
     "time": "2026-08-15T19:39:07.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-    "d": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump’s One Big Beautiful Bill Act (OBBBA) last year – the one that pai…",
-    "link": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-    "time": "2026-08-15T10:00:54.000Z"
   }
 ]
