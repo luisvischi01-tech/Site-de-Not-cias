@@ -1,43 +1,163 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ações de bancos caem em meio a preocupações com inadimplência e juro alto",
+    "d": "Setor perde mais de R$ 100 bilhões em valor de mercado, enquanto investidores avaliam impacto da inadimplência sobre lucros e dividendos",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-de-bancos-caem-em-meio-a-preocupacoes-com-inadimplencia-e-juro-alto/",
+    "time": "2026-08-21T17:00:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Palmeiras: Lito quis tirar medo de voar de atletas e elogiou avião de Leila",
+    "d": "Influenciador e torcedor do Alviverde, ele foi diagnosticado com uma doença rara e sem tratamento",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-lito-quis-tirar-medo-de-voar-de-atletas-e-elogiou-aviao-de-leila/",
+    "time": "2026-08-21T16:58:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula evita promessas em comícios e levará propostas a TV e rádio",
+    "d": "Plano para eventual quarto mandato é tido como desafio para a campanha, e mandatário exige propostas factíveis de equipe petista",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-evita-promessas-em-comicios-e-levara-propostas-a-tv-e-radio/",
+    "time": "2026-08-21T16:55:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ataque russo a shopping na Ucrânia deixa 6 mortos e cerca de 90 feridos",
+    "d": "Ofensiva atingiu Kryvyi Rih, no centro da Ucrânia, cidade natal do presidente Volodymyr Zelensky",
+    "link": "https://www.cnnbrasil.com.br/internacional/ataque-russo-a-shopping-na-ucrania-deixa-mortos-e-feri/",
+    "time": "2026-08-21T16:53:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mãe de Hayden Panettiere diz que filha “se envolveu com a pessoa errada”",
+    "d": "Lesley Vogel falou sobre o afastamento da atriz nos últimos anos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/mae-de-hayden-panettiere-diz-que-filha-se-envolveu-com-a-pessoa-errada/",
+    "time": "2026-08-21T16:53:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "OBMEP: mais de 600 estudantes brasileiros receberam medalha de ouro",
+    "d": "Cerimônia de entrega das certificações ocorreu em meados de junho deste ano",
+    "link": "https://www.cnnbrasil.com.br/educacao/obmep-mais-de-600-estudantes-brasileiros-receberam-medalha-de-ouro/",
+    "time": "2026-08-21T16:50:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Células-tronco do nariz abrem caminho para tratar lesões na medula espinhal",
+    "d": "Estudo da USP utiliza células da mucosa olfativa e apresenta resultados positivos na recuperação de funções motoras em testes com animais",
+    "link": "https://www.cnnbrasil.com.br/ciencia/celulas-tronco-do-nariz-abrem-caminho-para-tratar-lesoes-na-medula-espinhal/",
+    "time": "2026-08-21T16:50:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vírus letal provoca redução de 83% de pererecas em reserva de SC",
+    "d": "Estudo comprova mortandade em massa de anfíbios por ranavirose em reserva da Mata Atlântica paulista e catarinense",
+    "link": "https://www.cnnbrasil.com.br/ciencia/virus-letal-provoca-reducao-de-83-de-pererecas-em-reserva-de-sc/",
+    "time": "2026-08-21T16:45:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Terremoto no Peru: por que América do Sul está vendo tantos abalos sísmicos em sequência?",
+    "d": "Sequência recente de terremotos levantam questionamentos: mundo está passando por mais tremores ou nossa capacidade de registrá-los apenas melhorou?",
+    "link": "https://www.bbc.com/portuguese/articles/c4gjn30x817o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T16:44:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sandália sem sola? Conheça modelo da Chanel usado por Margaret Qualley",
+    "d": "O calçado polêmico e inusitado da grife foi visto nos pés da atriz durante a estreia do filme \"Ponto Sem Retorno\", na última quinta-feira (20), em Londres",
+    "link": "https://www.cnnbrasil.com.br/style/moda/sandalia-sem-sola-conheca-modelo-da-chanel-usado-por-margaret-qualley/",
+    "time": "2026-08-21T16:36:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Di María insinua aposentadoria após eliminação na Libertadores",
+    "d": "Campeão do mundo com a Argentina afirma que precisa pensar melhor em qual decisão tomar para seu futuro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/di-maria-insinua-aposentadoria-apos-eliminacao-na-libertadores/",
+    "time": "2026-08-21T16:32:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Two teenagers seriously injured after sword attack at Swedish school",
+    "d": "Police say one man has been arrested, while several other local schools were locked down.",
+    "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T16:32:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ana Castela mostra camping com piscina e futevôlei em Barretos; confira",
+    "d": "Artista comanda programação da festa nesta sexta-feira (21)",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/ana-castela-mostra-camping-com-piscina-e-futevolei-em-barretos-confira/",
+    "time": "2026-08-21T16:29:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Consórcio Fla-Flu nega Maracanã ao Vasco para Copa do Brasil",
+    "d": "Clube carioca queria usar o estádio para partida contra o Vitória pela Copa do Brasil, mas foi impedido pelos gestores, mesmo com acordo",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/consorcio-fla-flu-nega-maracana-ao-vasco-para-copa-do-brasil/",
+    "time": "2026-08-21T16:27:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+    "d": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
+    "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T16:20:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula diz a Trump que Brasil não precisa de 'classificação' para combater crime organizado",
+    "d": "Lula e Trump se encontraram pela última vez na Casa Branca em maio Ricardo Stuckert / PR O presidente Luiz Inácio Lula da Silva (PT) afirmou, em conversa com Donald Trump nesta sexta-feira (13), que o país não precisa…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/21/lula-diz-a-trump-que-brasil-nao-precisa-de-classificacao-para-combater-crime-organizado.ghtml",
+    "time": "2026-08-21T16:12:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que é a doença de Creutzfeldt-Jakob, diagnosticada no influenciador Lito Sousa",
+    "d": "Neurologista explica à BBC News Brasil os quatro tipos da doença rara e por que ela não deve ser confundida com o 'mal da vaca louca'.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2j8ylddrdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T16:09:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em conversa por telefone, Lula diz a Trump que alegações dos EUA para tarifaço são 'infundadas'",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) conversou por telefone, na manhã desta sexta-feira (21), com o presidente dos Estados Unidos, Donald Trump. Ao longo de 1 hora e 20 minutos de diálogo, descrito pelo Palácio…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/21/lula-conversa-com-trump.ghtml",
+    "time": "2026-08-21T16:07:57.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
+    "d": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortage People in the US: how much do you spend on food per month? Tyson Foods, the largest meatpacking comp…",
+    "link": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
+    "time": "2026-08-21T16:01:43.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Marina diz que redução da maioridade penal é proposta populista 'para lacrar' e não resolve violência juvenil",
     "d": "A ministra Marina Silva durante participação em audiência da Comissão de Meio Ambiente da Câmara dos Deputados Bruno Spada/Câmara dos Deputados A candidata ao Senado por São Paulo Marina Silva (Rede) criticou proposta…",
     "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/marina-diz-que-reducao-da-maioridade-penal-e-proposta-populista-para-lacrar-e-nao-resolve-violencia-juvenil.ghtml",
     "time": "2026-08-21T15:43:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Several injured after sword attack at Swedish school",
-    "d": "Police say one man has been arrested, while several other local schools have been locked down.",
-    "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-21T15:42:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arsenal anuncia contratação de zagueiro da seleção inglesa",
-    "d": "Ezri Konsa chega do Aston Villa e defesa dos atuais campeões ingleses",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/arsenal-anuncia-contratacao-de-zagueiro-da-selecao-inglesa/",
-    "time": "2026-08-21T15:40:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda o que é a ‘síndrome do coração feliz’ e seus sintomas",
-    "d": "Caso clínico de miocardiopatia de Takotsubo ativada por emoções positivas foi registrado após festa de casamento",
-    "link": "https://www.cnnbrasil.com.br/saude/entenda-o-que-e-a-sindrome-do-coracao-feliz-e-seus-sintomas/",
-    "time": "2026-08-21T15:38:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "STF analisa recurso de ex-secretário alvo da Operação Sem Refino",
-    "d": "Juliano Pasqual, ex-secretário de Fazenda do Rio de Janeiro nomeado por Cláudio Castro, pede anulação de busca e apreensão realizada em maio",
-    "link": "https://www.cnnbrasil.com.br/politica/stf-analisa-recurso-de-ex-secretario-alvo-da-operacao-sem-refino/",
-    "time": "2026-08-21T15:37:32.000Z"
   },
   {
     "cat": "economia",
@@ -48,84 +168,12 @@
     "time": "2026-08-21T15:27:36.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-noivo de Hayden Panettiere faz homenagem no dia em que ela faria 37 anos",
-    "d": "Atriz de \"Heroes\" morreu há menos de uma semana, dias antes de seu aniversário",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-noivo-de-hayden-panettiere-faz-homenagem-no-dia-em-que-ela-faria-37-anos/",
-    "time": "2026-08-21T15:26:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Iraola admite que Liverpool ainda busca reforços para o ataque",
-    "d": "Técnico espanhol vê necessidade de contratações antes do fim da janela, mas confia em elenco competitivo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/iraola-admite-que-liverpool-ainda-busca-reforcos-para-o-ataque/",
-    "time": "2026-08-21T15:25:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Apple pagou 40% dos seus impostos globais à Irlanda no último ano",
-    "d": "Empresa de Tecnologia foi condenada pelo Tribunal de Justiça da União Europeia a pagar mais de US$ 15 bilhões em impostos atrasados",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/apple-pagou-40-dos-seus-impostos-globais-a-irlanda-no-ultimo-ano/",
-    "time": "2026-08-21T15:24:56.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
     "d": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for…",
     "link": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
     "time": "2026-08-21T15:22:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mais de 4,2 toneladas de drogas são apreendidas em ação integrada no Paraná",
-    "d": "Homem de 51 anos foi preso após ação conjunta de forças de segurança na BR-277, em Santa Terezinha de Itaipu, nesta sexta-feira (21)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/mais-de-42-toneladas-de-drogas-sao-apreendidas-em-acao-integrada-no-parana/",
-    "time": "2026-08-21T15:22:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "STF rejeita pedido para suspender megaprojeto de potássio no Amazonas",
-    "d": "Decisão de Edson Fachin mantém efeitos de decisões do TRF-1; empreendimento de US$ 2,5 bilhões prevê produzir 2,4 milhões de toneladas por ano",
-    "link": "https://www.cnnbrasil.com.br/infra/stf-rejeita-pedido-para-suspender-megaprojeto-de-potassio-no-amazonas/",
-    "time": "2026-08-21T15:20:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ofertas de petróleo do Irã à China caem enquanto bloqueio dos EUA aumenta",
-    "d": "Washington ameaça Teerã com novas sanções para forçar reabertura do Estreito de Ormuz",
-    "link": "https://www.cnnbrasil.com.br/internacional/ofertas-de-petroleo-do-ira-a-china-caem-enquanto-bloqueio-dos-eua-aumenta/",
-    "time": "2026-08-21T15:16:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem são os candidatos a governador de Rondônia em 2026",
-    "d": "Embate terá seis candidatos e eleitorado de 1,2 milhão de pessoas em 52 municípios",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-a-governador-de-rondonia-em-2026/",
-    "time": "2026-08-21T15:15:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Haddad quer transformar Desenvolve SP em banco para reindustrializar estado",
-    "d": "Em Mauá, candidato defendeu fim da guerra fiscal e disse que São Paulo pode voltar a ser “hub” industrial do país",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/haddad-quer-transformar-desenvolve-sp-em-banco-para-reindustrializar-estado/",
-    "time": "2026-08-21T15:14:03.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Ações globais devem registrar maior queda semanal no mercado desde julho",
-    "d": "No cenário internacional, o impasse diplomático no Golfo elevou os preços do petróleo a máximas de um mês e manteve os riscos de inflação em evidência, que influenciaram no comportamento de baixa",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-globais-devem-registrar-maior-queda-semanal-no-mercado-desde-julho/",
-    "time": "2026-08-21T15:10:46.000Z"
   },
   {
     "cat": "brasil",
@@ -163,7 +211,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos",
-    "d": "O g1 lança nesta sexta-feira (21) a ferramenta \"Quem são os candidatos\". A plataforma usa dados fornecidos diretamente pelo Tribunal Superior Eleitoral (TSE) e permite ao eleitor encontrar todos os candidatos aos carg…",
+    "d": "O g1 lança a ferramenta \"Quem são os candidatos\". A plataforma usa dados fornecidos diretamente pelo Tribunal Superior Eleitoral (TSE) e permite ao eleitor encontrar todos os candidatos aos cargos de presidente da Rep…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml",
     "time": "2026-08-21T14:32:07.000Z"
   },
@@ -306,16 +354,16 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "‘Operação salva-hambúrguer’: Trump libera limite extra para importar carne e tentar baixar preços nos EUA",
-    "d": "O presidente dos Estados Unidos, Donald Trump, anunciou nesta sexta-feira (21) que vai flexibilizar, por 90 dias, as regras para importação de carne bovina usada principalmente na produção de carne moída. A medida bus…",
+    "h": "‘Operação salva-hambúrguer’: Trump determina cota extra de importação de carne e tenta baixar preços nos EUA",
+    "d": "Hamburguer; lanche Jean-claude Attipoe/Unplash O presidente dos Estados Unidos, Donald Trump, anunciou nesta sexta-feira (21) ampliar por 90 dias a cota de importação de carne bovina. A medida busca aumentar a oferta…",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml",
     "time": "2026-08-21T12:04:25.000Z"
   },
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar opera em queda, de olho em guerra no Irã e eleições no Brasil; Ibovespa sobe mais de 2%",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta sexta-feira (21), com um recuo de 0,72% perto das 12h40, cotado a R$ 5,1554. Já o Ibovespa, principal índice da bolsa brasileira, tinha alt…",
+    "h": "Ibovespa sobe quase 2%, com ajuda do exterior e à espera de nova pesquisa eleitoral; dólar cai",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O Ibovespa, principal índice da bolsa brasileira, operava em alta nesta sexta-feira (21), com um avanço de 1,95% perto das 13h30, aos 171.200 pontos. Já o dólar tinha q…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/21/dolar-ibovespa.ghtml",
     "time": "2026-08-21T12:00:28.000Z"
   },
@@ -344,22 +392,6 @@
     "time": "2026-08-21T11:14:38.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
-    "d": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortage People in the US: how much do you spend on food per month? Tyson Foods, the largest meatpacking comp…",
-    "link": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
-    "time": "2026-08-21T11:00:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-    "d": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
-    "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-21T10:48:01.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
@@ -374,14 +406,6 @@
     "d": "UK Foreign Office condemns use of national security law to convict activists Lee Cheuk-yan and Chow Hang-tung Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 have…",
     "link": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
     "time": "2026-08-21T10:43:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "“Game of Thrones” no STF, caso Lulinha e Master atravessam a eleição de 2026",
-    "d": "'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026 A extensão do caso Lulinha é hoje uma das grandes incógnitas para o governo — inclusive quando a pergunta é se o assunto pode ter reflexos e…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/21/game-of-thrones-no-stf-caso-lulinha-e-master-atravessam-a-eleicao-de-2026.ghtml",
-    "time": "2026-08-21T10:33:12.000Z"
   },
   {
     "cat": "internacional",
@@ -414,14 +438,6 @@
     "d": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the ci…",
     "link": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
     "time": "2026-08-21T08:19:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "VÍDEO: entenda o que é a margem de erro nas pesquisas eleitorais",
-    "d": "O que é margem de erro “A margem de erro é de dois pontos percentuais, para mais ou para menos.” Você provavelmente já ouviu ou leu essa frase em uma notícia sobre pesquisa eleitoral. Mas o que define a margem de erro…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/21/video-entenda-o-que-e-a-margem-de-erro.ghtml",
-    "time": "2026-08-21T08:04:11.000Z"
   },
   {
     "cat": "brasil",
@@ -482,14 +498,6 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Fobias: por que temos tanto medo de coisas que provavelmente não irão nos machucar?",
-    "d": "Muitos de nós temos medo de coisas que não representam risco muito sério. Os cientistas acreditam não nascemos com estes medos. Mas, então, de onde eles vêm?",
-    "link": "https://www.bbc.com/portuguese/articles/c5y0nl2pg2qo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T19:27:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
     "h": "O vendedor de carros da Bélgica que se tornou príncipe após ter parentesco com a família real confirmado",
     "d": "Clément Vandenkerckhove foi discretamente acolhido na família do príncipe Laurent, irmão do rei Philippe da Bélgica, durante uma cerimônia em uma prefeitura",
     "link": "https://www.bbc.com/portuguese/articles/c1l104vg8vgo?at_medium=RSS&at_campaign=rss",
@@ -526,14 +534,6 @@
     "d": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House race During his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s franchise in Pennsylvania, where he was…",
     "link": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
     "time": "2026-08-20T11:00:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
-    "d": "Segundo estudo desenvolvido por Felix Simon, IA tem poder muito menor de influenciar eleições do que se imaginava: 'a internet já está lotada de desinformação e embora seja possível criar mais, isso não significa um e…",
-    "link": "https://www.bbc.com/portuguese/articles/c0l52n6ddkdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T07:35:07.000Z"
   },
   {
     "cat": "internacional",
