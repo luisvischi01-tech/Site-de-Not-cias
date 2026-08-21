@@ -1,41 +1,201 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Two injured in stabbing attack at Canada Sikh temple",
+    "d": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T22:45:01.000Z"
+  },
+  {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Namorado deu remédio usado contra overdose a Hayden Panettiere, diz site",
-    "d": "Cunhado da artista contou sobre seus últimos passos até encontrá-la inconsciente",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/namorado-deu-remedio-usado-contra-overdose-a-hayden-panettiere-diz-site/",
-    "time": "2026-08-21T21:46:23.000Z"
+    "src": "G1",
+    "h": "Datafolha: 72% dizem estar decididos sobre voto para presidente, e 27% ainda podem mudar; veja números por candidato",
+    "d": "Datafolha traz 2 cenários para eleições presidenciais: com e sem Pablo Marçal; entenda Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra que 72% dos eleitores dizem estar totalmente decididos sobre a escolha…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/datafolha-decisao-voto-21-agosto.ghtml",
+    "time": "2026-08-21T22:42:07.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Datafolha: Celina Leão e Arruda empatam na disputa pelo governo do DF",
-    "d": "Instituto ouviu 910 eleitores do Distrito Federal entre os dias 18 e 21 de agosto; margem de erro é de 3 pontos percentuais, para mais ou para menos, e o intervalo de tempo é de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-celina-leao-e-arruda-empatam-na-disputa-pelo-governo-do-df/",
-    "time": "2026-08-21T21:46:23.000Z"
+    "h": "Datafolha: Benedita lidera corrida ao Senado pelo RJ; 6 empatam na 2ª vaga",
+    "d": "Instituto ouviu 1.204 eleitores do Rio de Janeiro entre os dias 18 e 21 de agosto; margem de erro é de 3 pontos percentuais, para mais ou para menos, e o intervalo de tempo é de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-benedita-lidera-corrida-ao-senado-pelo-rj-6-empatam-na-2a-vaga/",
+    "time": "2026-08-21T22:37:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha em MG: 41% aprovam trabalho de Simões como governador, e 32% desaprovam",
+    "d": "Mateus Simões (PSD) Cristiano Machado/ Imprensa MG Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra que 41% dos eleitores de Minas Gerais aprovam a gestão de Mateus Simões (PSD), enquanto 32% desaprovam. O l…",
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-aprovacao-governo-mg-simoes.ghtml",
+    "time": "2026-08-21T22:26:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: 42% avaliam a gestão Tarcísio como positiva e 23% como negativa em SP",
+    "d": "O candidato do Republicanos ao governo de SP, Tarcísio de Freitas, em sabatina na rádio CBN. Maria Isabel Oliveira / O Globo / Divulgação Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra que 42% dos paulista…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-42percent-aprovam-e-23percent-desaprovam-gestao-tarcisio-em-sp.ghtml",
+    "time": "2026-08-21T22:26:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: 50% desaprovam governo Lula, e 47% aprovam",
+    "d": "Datafolha mostra nova avaliação do governo Lula Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a avaliação do governo Lula (PT), candidato à reeleição. Veja os números: Desaprova: 50% Aprova: 47%…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-aprova-desaprova-governo-21-agosto.ghtml",
+    "time": "2026-08-21T22:26:06.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Datafolha: Tarcísio tem 45% no 1º turno ao governo de SP; Haddad, 27%",
-    "d": "Pesquisa ouviu 1.610 eleitores entre os dias 18 e 21 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-tarcisio-tem-45-no-1o-turno-ao-governo-de-sp-haddad-27/",
-    "time": "2026-08-21T21:43:52.000Z"
+    "h": "Governo busca priorizar desembarque de fertilizantes para safra 2026/27",
+    "d": "Medida publicada no DOU (Diário Oficial da União) na quinta-feira (20) recomenda que portos deem preferência para o desembarque dos insumos nos próximos seis meses",
+    "link": "https://www.cnnbrasil.com.br/agro/governo-busca-priorizar-desembarque-de-fertilizantes-para-safra-2026-27/",
+    "time": "2026-08-21T22:23:13.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Datafolha: Tarcísio tem 54% no 2º turno ao governo de SP; Haddad, 35%",
-    "d": "Pesquisa ouviu 1.610 eleitores entre os dias 18 e 21 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-tarcisio-tem-54-no-2o-turno-ao-governo-de-sp-haddad-35/",
-    "time": "2026-08-21T21:38:42.000Z"
+    "h": "ANPD monitora 22 redes sociais e apps de IA por deepfakes e crimes virtuais",
+    "d": "Comunicado surge nove dias após a agência suspender transmissões ao vivo no Discord à pedido da AGU e da primeira-dama Janja",
+    "link": "https://www.cnnbrasil.com.br/politica/anpd-monitora-22-redes-sociais-e-apps-de-ia-por-deepfakes-e-crimes-virtuais/",
+    "time": "2026-08-21T22:22:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Datafolha: Flávio é rejeitado por 46% dos brasileiros; Lula, por 45%",
+    "d": "Pesquisa ouviu 2.058 pessoas em todo o território nacional, entre os dias 18 e 20 de agosto; margem de erro é de dois pontos percentuais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-flavio-e-rejeitado-por-46-dos-brasileiros-lula-por-45/",
+    "time": "2026-08-21T22:19:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brinquedo sexual é arremessado em quadra e interrompe jogo da WNBA; veja",
+    "d": "Caso aconteceu durante partida do torneio nacional de basquete feminino dos Estados Unidos",
+    "link": "https://www.cnnbrasil.com.br/esportes/basquete/brinquedo-sexual-e-arremessado-em-quadra-e-interrompe-jogo-da-wnba-veja/",
+    "time": "2026-08-21T22:19:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Relator da 6×1, Omar Aziz diz que dará “a maior agilidade possível” à PEC",
+    "d": "Parlamentar do PSD do Amazonas foi escolhido para a relatoria no Senado da Proposta de Emenda à Constituição que prevê o fim da escala 6x1 de trabalho",
+    "link": "https://www.cnnbrasil.com.br/politica/relator-da-6x1-omar-aziz-diz-que-dara-a-maior-agilidade-possivel-a-pec/",
+    "time": "2026-08-21T22:19:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atingir economia do Irã é opção menos pior dos EUA, diz militar aposentado",
+    "d": "Almirante reformado da Marinha afirma que Washington também poderia pedir que o resto do mundo participe do bloqueio",
+    "link": "https://www.cnnbrasil.com.br/internacional/atingir-economia-do-ira-e-opcao-menos-pior-dos-eua-diz-militar-aposentado/",
+    "time": "2026-08-21T22:18:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha no DF, Senado: Michelle, 19%; Leila, 16%; Erika, 12%; Bia, 11%",
+    "d": "Câmara e Senado: fachada do prédio do Congresso Nacional na Esplanada dos Ministérios no dia 4 de julho de 2017 Edilson Rodrigues/Agência Senado Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a c…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/21/datafolha-df-senador-21-agosto.ghtml",
+    "time": "2026-08-21T22:13:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gabriel Jesus entra na mira do Atlético de Madrid, diz jornal",
+    "d": "Brasileiro não foi relacionado para a partida desta sexta-feira, contra o Coventry City, pela abertura da Premier League",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/gabriel-jesus-entra-na-mira-do-atletico-de-madrid-diz-jornal/",
+    "time": "2026-08-21T22:12:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mulher recebe conta de água de quase R$ 3 milhões no interior de São Paulo, procura vizinhos e descobre algo impressionante",
+    "d": "Laís Flores conta à CNN que \"achou que tinha enxergado errado a cobrança\" recebida em Bauru; ela procurou outros moradores no condomínio e descobriu que muitos também receberam valores exorbitantes",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mulher-recebe-conta-de-agua-de-quase-r-3-milhoes-no-interior-de-sao-paulo-procura-vizinhos-e-descobre-algo-impressionante/",
+    "time": "2026-08-21T22:11:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Datafolha: Lula tem 39% das intenções de voto no 1º turno; Flávio, 33%",
+    "d": "Pesquisa ouviu 2.058 pessoas em todo o território nacional, entre os dias 18 e 20 de agosto; margem de erro é de 2 pontos percentuais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-39-das-intencoes-de-voto-no-1o-turno-flavio-33/",
+    "time": "2026-08-21T22:09:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como o governo Lula vê o telefonema com Trump — e o impacto dele nas eleições",
+    "d": "É a primeira conversa entre os dois desde maio e acontece em meio a acirramento de tensões entre os dois países; negociação para telefonema ocorreu ao longo de semanas por estratégia do governo brasileiro",
+    "link": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T22:07:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Festa do Peão de Barretos: veja dicas de looks para usar no rodeio",
+    "d": "Fãs de moda e do universo sertanejo podem fazer composições estilosas, práticas e versáteis",
+    "link": "https://www.cnnbrasil.com.br/style/moda/festa-do-peao-de-barretos-veja-dicas-de-looks-para-usar-no-rodeio/",
+    "time": "2026-08-21T22:07:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Caiado fala em 'governo de austeridade' e 'choque de credibilidade' para Brasil ter taxa de juros de 6%",
+    "d": "Candidato à presidência da república, Ronaldo Caiado, durante campanha em Araçatuba (SP) TV TEM /Nathalia Moreira Candidato à Presidência da República pelo PSD, Ronaldo Caiado fez críticas ao governo de Luíz Inácio Lu…",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/08/21/caiado-fala-em-governo-de-austeridade-e-choque-de-credibilidade-para-brasil-ter-taxa-de-juros-de-6percent-no-interior-de-sp.ghtml",
+    "time": "2026-08-21T22:06:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Traficantes de facções usam barricadas explosivas e carro-bomba no RJ",
+    "d": "Dispositivos eletrônicos foram achados em barricadas impostas por criminosos no Complexo de Israel, zona Norte do Rio",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/traficantes-de-faccoes-usam-barricadas-explosivas-e-carro-bomba-no-rj/",
+    "time": "2026-08-21T22:06:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha em PE para o Senado: Marília, 15%; Humberto, 14%; Mendonça, 12%; Eduardo, 11%",
+    "d": "Marília Arraes (PDT), Humberto Costa (PT), Mendonça Filho (PL) e Eduardo da Fonte (PP) Montagem/g1 Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra que, em Pernambuco, quatro candidatos estão tecnicamente em…",
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/21/datafolha-pe-senado-21-agosto.ghtml",
+    "time": "2026-08-21T22:05:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3%",
+    "d": "Candidatos ao Senado por Minas Gerais. Reprodução Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a corrida pelo Senado em Minas Gerais. Serão duas vagas em disputa nas eleições de outubro. Na pes…",
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-senado-21-agosto.ghtml",
+    "time": "2026-08-21T22:05:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Veja plano de governo de Luis Cesar Bueno (PT), candidato ao governo de Goiás",
+    "d": "Veja plano de governo de Luis Cesar Bueno (PT), candidato ao governo de Goiás Weimer Carvalho/O Popular O candidato ao governo de Goiás Luis Cesar Bueno (PT) registrou seu plano de governo junto ao Tribunal Superior E…",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/21/veja-plano-de-governo-de-luis-cesar-bueno-pt-candidato-ao-governo-de-goias.ghtml",
+    "time": "2026-08-21T22:01:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha para o Senado em SP: Marina, 12%, Tebet, 12%, André do Prado, 10%, Derrite, 7% e Salles, 6%",
+    "d": "Candidatos ao Senado por São Paulo Reprodução Na primeira pesquisa Datafolha divulgada nesta sexta-feira (21) após o registro das candidaturas, Marina Silva (Rede), Simone Tebet (MDB), André do Prado (PL), lideram a c…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-sp-senado-21-agosto.ghtml",
+    "time": "2026-08-21T21:54:20.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
     "h": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Ronaldo Caiado; 5%; Renan Santos; 4%; Zema, 3%; Augusto Cury, 2%",
-    "d": "Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a disputa pela Presidência da República. O levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo e é o primeiro divulgado pelo inst…",
+    "d": "Datafolha traz 2 cenários para eleições presidenciais: com e sem Pablo Marçal; entenda Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a disputa pela Presidência da República. O levantamento foi e…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
     "time": "2026-08-21T21:38:25.000Z"
   },
@@ -43,7 +203,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Datafolha - 2º turno: Lula, 47%; Flávio Bolsonaro, 43%",
-    "d": "Lula (PT) e Flávio Bolsonaro (PL) Ricardo Stuckert e Vittor Sales Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra quatro cenários de 2º turno da eleição para a Presidência da República. Veja abaixo os númer…",
+    "d": "Datafolha no 2º turno: Lula, 47%; Flávio Bolsonaro, 43% Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra que o presidente Lula (PT) tem 47% das intenções de voto em eventual disputa de 2º turno com Flávio Bo…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-segundo-turno-21-agosto.ghtml",
     "time": "2026-08-21T21:38:23.000Z"
   },
@@ -54,110 +214,6 @@
     "d": "Carne suína Reprodução/TV TEM A combinação de sobreoferta de animais e demanda enfraquecida, registrada na segunda quinzena de julho de 2026, ameaça o mercado paulista independente de suínos. O cenário fez o preço do…",
     "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/21/preco-do-suino-cai-para-o-3o-menor-patamar-da-historia-em-sp-sobreoferta-e-baixa-demanda-analisa-usp.ghtml",
     "time": "2026-08-21T21:37:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump volta a dizer que Irã não está pronto para fazer um acordo",
-    "d": "Presidente diz que Estados Unidos estão observando o que acontece no conflito",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-volta-a-dizer-que-ira-nao-esta-pronto-para-fazer-um-acordo/",
-    "time": "2026-08-21T21:35:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12%",
-    "d": "Cidade Administrativa de Minas Gerais, sede do governo do estado Raquel Freitas/TV Globo Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a disputa para o governo de Minas Gerais. Cleitinho (Republ…",
-    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-governador-21-agosto.ghtml",
-    "time": "2026-08-21T21:35:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3%",
-    "d": "Candidatos ao Senado por Minas Gerais. Reprodução Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a corrida pelo Senado em Minas Gerais. Serão duas vagas em disputa nas eleições de outubro. Na pes…",
-    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-senado-21-agosto.ghtml",
-    "time": "2026-08-21T21:35:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Datafolha: Lula tem 47% das intenções de voto no 2º turno; Flávio, 43%",
-    "d": "Pesquisa ouviu 2.058 pessoas em todo o território nacional, entre os dias 18 e 20 de agosto; margem de erro é de 2 pontos percentuais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-47-das-intencoes-de-voto-no-2o-turno-flavio-43/",
-    "time": "2026-08-21T21:35:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha no DF: Celina, 30%; Arruda, 28%; Grass, 11%",
-    "d": "Palácio do Buriti, sede do governo do Distrito Federal Reprodução/ Agência Brasília Pesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a disputa para o governo do Distrito Federal. Veja, a seguir, os…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/21/datafolha-df-governador-21-agosto.ghtml",
-    "time": "2026-08-21T21:34:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha em SP: Tarcísio, 45%; Haddad, 27%",
-    "d": "O governador Tarcísio de Freitas (Republicanos) escolheu Osasco, na Grande São Paulo, para iniciar a corrida pela reeleição. Fernando Haddad (PT), por sua vez, ainda não fez seu evento próprio de lançamento, mas começ…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-sp-governador-21-agosto.ghtml",
-    "time": "2026-08-21T21:32:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Michelle posta omelete em aceno a Raquel Lyra, que busca apoio de Lula",
-    "d": "Governadora busca reeleição e pode articular alianças sem seguir o partido do presidenciável Ronaldo Caiado",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/michelle-posta-omelete-em-aceno-a-raquel-lyra-que-busca-apoio-de-lula/",
-    "time": "2026-08-21T21:31:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pré-natal odontológico prepara o bebê para a amamentação, dizem dentistas",
-    "d": "Especialistas da Faculdade de Odontologia de Ribeirão Preto (FORP) da USP destacam que o chamado pré-natal odontológico pode ajudar a prevenir problemas bucais durante a gestação, esclarecer dúvidas e preparar a famíl…",
-    "link": "https://www.cnnbrasil.com.br/saude/pre-natal-odontologico-prepara-o-bebe-para-a-amamentacao-dizem-dentistas/",
-    "time": "2026-08-21T21:30:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Cooperação é fundamental”, diz especialista sobre ligação de Lula e Trump",
-    "d": "Ao CNN 360°, Josemar Franco, gerente de comércio internacional da BMJ, analisa conversa de mais de uma hora entre os líderes e seus impactos nas relações bilaterais Brasil-EUA",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cooperacao-e-fundamental-diz-especialista-sobre-ligacao-de-lula-e-trump/",
-    "time": "2026-08-21T21:29:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após ciclone, Brasil terá extremos de “calor sufocante” e geadas; entenda",
-    "d": "Massa de ar frio no centro-sul derrubará as temperaturas no Sul e em partes do Sudeste e Centro-Oeste",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/apos-ciclone-brasil-tera-extremos-de-calor-sufocante-e-geadas-entenda/",
-    "time": "2026-08-21T21:29:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula critica Zema e tenta capitalizar renegociação de dívida em Minas",
-    "d": "Petista, que tem evitado confronto direto com candidatos da chamada terceira via, mirou o ex-governador mineiro em agenda no estado",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-critica-zema-e-tenta-capitalizar-renegociacao-de-divida-em-minas/",
-    "time": "2026-08-21T21:27:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pentágono força demissão de membros de jornal em meio à campanha de pressão",
-    "d": "Membros da alta direção do Stars & Stripes foram demitidos nesta sexta-feira (21)",
-    "link": "https://www.cnnbrasil.com.br/internacional/pentagono-forca-demissao-de-membros-de-jornal-em-meio-a-campanha-de-pressao/",
-    "time": "2026-08-21T21:26:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em ligação com Lula, Trump quis saber sobre eleições no Brasil e ouviu que processo corre bem e de forma confiável",
-    "d": "Lula e Trump conversam por mais de 1 hora por telefone O presidente dos Estados Unidos, Donald Trump, perguntou ao presidente Luiz Inácio Lula da Silva (PT), durante conversa telefônica nesta sexta-feira (21), sobre a…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/21/em-ligacao-com-lula-trump-quis-saber-sobre-eleicoes-no-brasil-e-ouviu-que-processo-corre-bem-e-de-forma-confiavel.ghtml",
-    "time": "2026-08-21T21:15:46.000Z"
   },
   {
     "cat": "economia",
@@ -174,30 +230,6 @@
     "d": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
     "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-21T21:03:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ministro brasileiro e representante dos EUA retomam conversas após telefonema de Lula e Trump",
-    "d": "Embaixador dos EUA procura ministro após conversa por telefone entre Lula e Trump O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Marcio Elias Rosa, afirmou ao blog nesta sexta-feira (21) que Brasil e E…",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/21/ministro-brasileiro-e-americano-reabrem-conversas-apos-telefonema-de-lula-e-trump.ghtml",
-    "time": "2026-08-21T20:51:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caso Master: PF identifica a participação de mais diretores do BRB em supostas irregularidades e pede a prorrogação de inquérito",
-    "d": "Daniel Vorcaro Jornal Nacional/ Reprodução Uma perícia da Polícia Federal (PF) identificou novos elementos que indicam a participação de mais diretores do Banco de Brasília (BRB) em supostas irregularidades nas tratat…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/21/caso-master-pf-identifica-a-participacao-de-mais-diretores-do-brb-em-supostas-irregularidades-e-pede-a-prorrogacao-de-inquerito.ghtml",
-    "time": "2026-08-21T20:45:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial",
-    "d": "PF não deflagrou operação contra 'fábrica de fake news' criada por grupos pró-Flávio Bolsonaro g1 Circulam nas redes sociais publicações dizendo que a Polícia Federal (PF) fechou uma \"fábrica de fake news\" em uma oper…",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-pf-descobriu-fabrica-de-fake-news-criada-para-beneficiar-flavio-bolsonaro-foto-foi-feita-com-inteligencia-artificial.ghtml",
-    "time": "2026-08-21T20:37:26.000Z"
   },
   {
     "cat": "economia",
@@ -232,44 +264,12 @@
     "time": "2026-08-21T19:43:55.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Moraes determina cassação da aposentadoria de Silvinei Vasques, ex-diretor da PRF",
-    "d": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (21) a cassação da aposentadoria de Silvinei Vasques, ex-diretor da Polícia Rodoviária Federal (PRF) na gestão Jair Bolso…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/21/moraes-determina-cassacao-da-aposentadoria-de-silvinei-vasques-ex-diretor-da-prf.ghtml",
-    "time": "2026-08-21T19:38:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Otto Alencar acerta com Alcolumbre relatores das PECs da Segurança e do fim da escala 6x1",
-    "d": "O presidente da Comissão de Constituição e Justiça (CCJ) do Senado Federal, Otto Alencar (PSD-BA), acertou com o presidente do Senado, Davi Alcolumbre (União-AP), os dois relatores das PECs do Fim da Escala 6x1 e da S…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/otto-alencar-acerta-com-alcolumbre-relatores-das-pecs-da-seguranca-e-fim-da-escala-6-x-1.ghtml",
-    "time": "2026-08-21T19:24:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que Lula e Trump falaram no primeiro telefonema após meses de crise",
-    "d": "É a primeira conversa entre os dois desde maio e acontece em meio a acirramento de tensões entre os dois países; negociação para telefonema ocorreu ao longo de semanas por estratégia do governo brasileiro",
-    "link": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-21T18:36:28.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
     "d": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
     "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-21T18:29:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Two injured in stabbing attack at Canada Sikh temple",
-    "d": "One suspect is in custody, but police have not disclosed a possible motive.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-21T18:27:15.000Z"
   },
   {
     "cat": "brasil",
