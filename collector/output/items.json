@@ -1,5 +1,245 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Volkswagen apresenta Tukan; picape eletrificada que vai encarar Fiat Toro",
+    "d": "Volkswagen Tukan Carlos Cereijo/ g1 A Volkswagen mostrou nesta sexta-feira (21) a Tukan, nova picape com configuração cabine dupla e simples. O modelo chega como o primeiro veículo eletrificado da Volkswagen do Brasil…",
+    "link": "https://g1.globo.com/carros/noticia/2026/08/21/volkswagen-apresenta-picape-tukan-chega-no-primeiro-semestre-de-2027.ghtml",
+    "time": "2026-08-21T13:49:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE define tempo de TV dos candidatos a presidente; veja o tempo de cada um",
+    "d": "O Tribunal Superior Eleitoral (TSE) definiu nesta quinta-feira (20) quanto tempo cada candidato à Presidência terá na propaganda eleitoral gratuita em rede nacional de rádio e televisão. O horário eleitoral começa em…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/tse-define-tempo-de-tv-dos-candidatos-a-presidente-veja-o-tempo-de-cada-um.ghtml",
+    "time": "2026-08-21T13:49:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Mendonça determina investigação sobre suspeita de novos vazamentos em caso de Lulinha",
+    "d": "O ministro André Mendonça do Supremo Tribunal Federal (STF) determinou nesta sexta-feira (21) apuração sobre suspeita de novos vazamentos de dados sigilosos em caso envolvendo Fábio Luís Lula da Silva, o Lulinha, filh…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/21/mendonca-determina-investigacao-sobre-suspeita-de-novos-vazamentos-em-investigacao-do-lulinha.ghtml",
+    "time": "2026-08-21T13:47:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mendonça e Dino pretendem manter caso Lulinha no STF",
+    "d": "André Mendonça tende a rejeitar pedido da PGR para enviar caso à primeira instância; Flávio Dino deve seguir mesma linha, segundo apuração do analista de Política da CNN Teo Cury, ao Live CNN",
+    "link": "https://www.cnnbrasil.com.br/politica/mendonca-e-dino-pretendem-manter-caso-lulinha-no-stf/",
+    "time": "2026-08-21T13:41:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Líder do governo pede à PF e à PGR informações sobre caso “Dark Horse”",
+    "d": "Movimento faz parte de estratégia pra contra-atacar repercussão do caso Lulinha; oposição busca assinatura por CPMI",
+    "link": "https://www.cnnbrasil.com.br/politica/lider-do-governo-pede-a-pf-e-a-pgr-informacoes-sobre-caso-dark-horse/",
+    "time": "2026-08-21T13:41:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Irmã de Bruna Marquezine ganha declaração de amor de Luca Piccon",
+    "d": "Casal apareceu em clima de romance em fotos nas redes sociais",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/irma-de-bruna-marquezine-ganha-declaracao-de-amor-de-luca-piccon/",
+    "time": "2026-08-21T13:40:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estudo aponta que uso de tadalafila pode aumentar cegueira em homens",
+    "d": "Pesquisa foi realizada com homens de até 40 anos e analisou dados entre 2012 e 2022",
+    "link": "https://www.cnnbrasil.com.br/saude/estudo-aponta-que-uso-de-tadalafila-pode-aumentar-cegueira-em-homens/",
+    "time": "2026-08-21T13:40:27.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Entidades acionam MPF contra óculos inteligentes da Meta por riscos à privacidade e aos consumidores",
+    "d": "Óculos inteligentes viram febre em pegadinhas nas redes com exposição de terceiros O Instituto de Defesa de Consumidores (Idec) e a organização Coding Rights pediram nesta quinta-feira (20) que a Agência Nacional de P…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/21/entidades-acionam-mpf-contra-oculos-inteligentes-da-meta-por-riscos-a-privacidade-e-aos-consumidores.ghtml",
+    "time": "2026-08-21T13:40:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Namorado de Hayden Panettiere quebra o silêncio sobre morte da atriz; veja",
+    "d": "Atriz faleceu na última segunda-feira (17); morte segue em investigação",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/namorado-de-hayden-panettiere-quebra-o-silencio-sobre-morte-da-atriz-veja/",
+    "time": "2026-08-21T13:39:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeo: Chuva forte em Nova York causa vazamentos em estação de metrô",
+    "d": "Alerta de inundação repentina foi emitido pelo Serviço Nacional de Meteorologia para partes da cidade",
+    "link": "https://www.cnnbrasil.com.br/internacional/video-chuva-forte-em-nova-york-causa-vazamentos-em-estacao-de-metro/",
+    "time": "2026-08-21T13:36:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Príncipe Harry, Elton John e mais terão que pagar £ 9,5 milhões a tabloide",
+    "d": "Figuras públicas terão que cobrir custos legais da editora do Daily Mail após perderem um processo de grande repercussão no mês passado",
+    "link": "https://www.cnnbrasil.com.br/internacional/principe-harry-elton-john-e-mais-terao-que-pagar-95-milhoes-a-tabloide/",
+    "time": "2026-08-21T13:32:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tijuca nega exigência de R$ 1 milhão por posto de rainha de bateria",
+    "d": "À CNN Brasil, a escola de samba carioca disse a informação não ter definido o futuro nome para o cargo",
+    "link": "https://www.cnnbrasil.com.br/pop/carnaval/tijuca-nega-exigencia-de-r-1-milhao-por-posto-de-rainha-de-bateria/",
+    "time": "2026-08-21T13:31:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Federação da Dinamarca diz que não apoiará Infantino em eleição da Fifa",
+    "d": "Entidade afirmou que buscará nome para ser alternativa no pleito que poderá reeleger o dirigente suíço",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/federacao-da-dinamarca-diz-que-nao-apoiara-infantino-em-eleicao-da-fifa/",
+    "time": "2026-08-21T13:30:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bayern explica desmaios de Musiala e tranquiliza sobre condição",
+    "d": "Kompany diz que mudança no tratamento de disfunção neurológica causou episódios; meia ficará fora da Supercopa",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/bayern-explica-desmaios-de-musiala-e-tranquiliza-sobre-condicao/",
+    "time": "2026-08-21T13:28:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Soberania digital não é discurso: é infraestrutura",
+    "d": "Até o fim desde ano, 22 capitais serão integradas por malha de comunicação governamental segura e moderna",
+    "link": "https://www.cnnbrasil.com.br/infra/soberania-digital-nao-e-discurso-e-infraestrutura/",
+    "time": "2026-08-21T13:26:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Samsung Electronics prevê retorno de quase US$ 80 bi para acionistas",
+    "d": "Empresa também anunciou maior programa de recompra de ações em cenário de boom da IA",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/samsung-electronics-preve-retorno-de-quase-us-80-bi-para-acionistas/",
+    "time": "2026-08-21T13:22:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Brasil tem candidatos nascidos na China, Bolívia, Síria e mais países nestas eleições",
+    "d": "Urna eletrônica Reprodução/TRE-RN Para as eleições deste ano, o Tribunal Superior Eleitoral (TSE) recebeu 24 registros de pessoas nascidas em outros países e autodeclaradas brasileiras naturalizadas. O grupo inclui, p…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/brasil-candidatos-estrangeiros-2026-tse.ghtml",
+    "time": "2026-08-21T13:17:41.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Compra e venda de carro usado poderão ter transferência pelo app da CNH; entenda",
+    "d": "Carro zero com desconto: programa de incentivo do governo aquece a venda de carros no DF Comprar ou vender um carro usado poderá ficar mais simples: a transferência de propriedade poderá ser feita de forma totalmente…",
+    "link": "https://g1.globo.com/carros/noticia/2026/08/21/compra-e-venda-de-carro-usado-poderao-ter-transferencia-totalmente-digital-entenda.ghtml",
+    "time": "2026-08-21T13:17:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five missing after fire in Swiss Alpine town",
+    "d": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T13:10:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+    "d": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T13:07:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "China faz maior recall de carros da história por risco com maçanetas embutidas",
+    "d": "Montadoras estimam aumento de carros importados do México e China A China iniciou nesta sexta-feira (21) a maior campanha de recall automotivo já realizada no país, envolvendo 11 montadoras e veículos elétricos de dif…",
+    "link": "https://g1.globo.com/carros/noticia/2026/08/21/china-faz-maior-recall-de-carros-da-historia-por-risco-com-macanetas-de-emergencia.ghtml",
+    "time": "2026-08-21T12:50:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha",
+    "d": "Por que dizem que pesquisa é 'fotografia do momento'? O Datafolha divulga nesta sexta-feira (21) no final da tarde a primeira pesquisa com intenções de voto da eleição presidencial após o início das campanhas. A pesqu…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml",
+    "time": "2026-08-21T12:40:08.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Free flow: motoristas poderão consultar passagens pelo app CNH do Brasil a partir de segunda",
+    "d": "O Ministério dos Transportes informou, nesta sexta-feira (21), que, a partir da próxima segunda (24), os motoristas poderão consultar, pelo aplicativo da \"CNH do Brasil\", as passagens registradas em pedágios eletrônic…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/21/free-flow-motoristas-poderao-consultar-passagens-pelo-app-cnh-do-brasil-a-partir-de-segunda.ghtml",
+    "time": "2026-08-21T12:34:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os pescadores resgatados após 5 dias à deriva agarrados a uma caixa térmica no oceano",
+    "d": "Daniel e José, dois pescadores mexicanos, passaram dias sem água potável nem comida.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2d9n1vq5lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T12:25:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Mendonça tende a manter no STF inquéritos sobre Lulinha",
+    "d": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), tende a manter na Corte os dois inquéritos que apuram a atuação de Fábio Luís Lula da Silva, o Lulinha, e de uma lobista na busca de negócios junto ao gove…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/mendonca-tende-a-manter-no-stf-inqueritos-sobre-lulinha.ghtml",
+    "time": "2026-08-21T12:10:17.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "‘Operação salva-hambúrguer’: Trump libera limite extra para importar carne e tentar baixar preços nos EUA",
+    "d": "Trump se irrita com preço de carne e manda investigar frigoríficos nos EUA O presidente dos Estados Unidos, Donald Trump, anunciou nesta sexta-feira (21) que vai flexibilizar, por 90 dias, as regras para importação de…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml",
+    "time": "2026-08-21T12:04:25.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar opera em queda, de olho em guerra econômica de Trump no Irã e eleições no Brasil; Ibovespa sobe",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta sexta-feira (21), com um recuo de 0,29% perto das 10h30, cotado a R$ 5,1778. Já o Ibovespa, principal índice da bolsa brasileira, tinha alt…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/21/dolar-ibovespa.ghtml",
+    "time": "2026-08-21T12:00:28.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+    "d": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
+    "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-21T11:57:37.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "STF mantém suspensão de multas da NR-1; entenda o que muda",
+    "d": "NR-1: veja o que muda com a nova regra sobre saúde mental no trabalho O plenário do Supremo Tribunal Federal (STF) confirmou, por unanimidade, a decisão do ministro André Mendonça que suspendeu, por 90 dias, a aplicaç…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/21/stf-mantem-suspensao-temporaria-de-multas-da-nr-1.ghtml",
+    "time": "2026-08-21T11:21:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
+    "d": "Meat producer closes facilities in Utah and Iowa as beef prices rise for consumers amid historic cattle shortage Tyson Foods, the largest meatpacking company in the US, announced last week that it is closing two of it…",
+    "link": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
+    "time": "2026-08-21T11:00:34.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
@@ -25,59 +265,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mourinho adota tom “paz e amor” em nova passagem pelo Real Madrid",
-    "d": "Técnico concedeu nesta sexta (21) sua primeira entrevista coletiva e se mostrou ponderado antes da estreia do clube em LaLiga",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/mourinho-adota-tom-paz-e-amor-em-nova-passagem-pelo-real-madrid/",
-    "time": "2026-08-21T10:35:17.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "“Game of Thrones” no STF, caso Lulinha e Master atravessam a eleição de 2026",
-    "d": "A extensão do caso Lulinha é hoje uma das grandes incógnitas para o governo — inclusive quando a pergunta é se o assunto pode ter reflexos entre eleitores do presidente Luiz Inácio Lula da Silva (PT) em 2026. O filho…",
+    "d": "'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026 A extensão do caso Lulinha é hoje uma das grandes incógnitas para o governo — inclusive quando a pergunta é se o assunto pode ter reflexos e…",
     "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/21/game-of-thrones-no-stf-caso-lulinha-e-master-atravessam-a-eleicao-de-2026.ghtml",
     "time": "2026-08-21T10:33:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Alex Telles explica confusão com técnico rival: “Ele sabe o que falou”",
-    "d": "Capitão do Botafogo deu sua versão sobre o tumulto com Horácio Melgarejo, técnico do Cienciano, ao final da Sul-Americana",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/alex-telles-explica-confusao-com-tecnico-rival-ele-sabe-o-que-falou/",
-    "time": "2026-08-21T10:24:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Liam Lawson volta à Red Bull após dispensa e admite desafio em Zandvoort",
-    "d": "Neozelandês, que havia sido rebaixado na temporada passada, minimiza satisfação por retorno e busca tirar o máximo do carro",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/liam-lawson-volta-a-red-bull-apos-dispensa-e-admite-desafio-em-zandvoort/",
-    "time": "2026-08-21T10:23:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "RJ: Operação da PM na zona Norte tem tiros e interdição na avenida Brasil",
-    "d": "Cerca de 200 policiais atuam nas comunidades da Cidade Alta, Pica-Pau e Cinco Bocas, na zona Norte; BRT também foi afetado",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rj-operacao-da-pm-na-zona-norte-tem-tiros-e-interdicao-na-avenida-brasil/",
-    "time": "2026-08-21T10:16:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dia D: Campanha Nacional de Multivacinação começa neste sábado (22)",
-    "d": "Mobilização busca ampliar a cobertura vacinal e atualizar a caderneta de crianças e adolescentes de até 15 anos",
-    "link": "https://www.cnnbrasil.com.br/saude/dia-d-campanha-nacional-de-multivacinacao-comeca-neste-sabado-22/",
-    "time": "2026-08-21T10:12:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA fazem operações militares contra cartéis e narcotráfico no Equador",
-    "d": "Mobilização faz parte da aliança Escudo das Américas, liderada por Washington e composta por cerca de vinte países da América Latina e do Caribe",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-fazem-operacoes-de-combate-a-carteis-e-ao-narcotrafico-no-equador/",
-    "time": "2026-08-21T10:09:52.000Z"
   },
   {
     "cat": "internacional",
@@ -96,14 +288,6 @@
     "time": "2026-08-21T10:00:31.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tecon 10: Sem restrições, concentração no Porto de Santos pode chegar a 80%",
-    "d": "Especialista apontam que eventual vitória de Maersk ou MSC, mesmo com desinvestimento na BTP, manteria mercado acima do nível considerado de alerta",
-    "link": "https://www.cnnbrasil.com.br/infra/tecon-10-sem-restricoes-concentracao-no-porto-de-santos-pode-chegar-a-80/",
-    "time": "2026-08-21T10:00:05.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Eight killed in plane crash at remote Alaskan military site, air force says",
@@ -112,52 +296,12 @@
     "time": "2026-08-21T09:53:47.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Incêndio de grandes proporções atinge bar na Barra da Tijuca, no Rio",
-    "d": "Fogo se concentra em um estabelecimento na avenida Olegário Maciel; até o momento, não há informações de vítimas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/incendio-de-grandes-proporcoes-atinge-bar-na-barra-da-tijuca-no-rio/",
-    "time": "2026-08-21T09:47:32.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Famílias iranianas lutam para comprar o básico enquanto EUA intensificam guerra econômica",
     "d": "Trump diz que não há perspectiva de negociações com o Irã Famílias iranianas estão lutando para comprar o básico em meio à intensificação da pressão econômica dos Estados Unidos ao Irã, segundo a agência de notícias A…",
     "link": "https://g1.globo.com/mundo/noticia/2026/08/21/familias-iranianas-lutam-para-comprar-o-basico-enquanto-eua-intensificam-guerra-economica.ghtml",
     "time": "2026-08-21T09:34:42.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Variação do dólar: como impacta sua vida financeira",
-    "d": "Cotação da moeda americana afeta preços, inflação, juros, investimentos e até o custo de produtos consumidos pelos brasileiros. Entenda a oscilação de impacta no seu bolso",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/variacao-do-dolar-como-impacta-sua-vida-financeira/",
-    "time": "2026-08-21T09:30:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Betis x Real Sociedad: horário e onde assistir ao jogo de LaLiga",
-    "d": "Clubes se enfrentam pela segunda rodada do Campeonato Espanhol nesta sexta (21)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-betis-x-real-sociedad-horario-e-onde-assistir-ao-jogo-de-laliga/",
-    "time": "2026-08-21T09:10:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Festa do Peão de Barretos: quanto custam os ingressos do rodeio?",
-    "d": "Entradas que chegam a R$ 462 dão acesso ao Parque do Peão e aos shows do festival de sertanejo",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/festa-do-peao-de-barretos-quanto-custam-os-ingressos-do-rodeio/",
-    "time": "2026-08-21T09:00:59.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "National Beef mantém margem positiva em meio à crise do gado nos EUA",
-    "d": "Desempenho ganha importância em um mercado marcado pela menor oferta de gado e consequente pressão sobre as margens dos frigoríficos americanos",
-    "link": "https://www.cnnbrasil.com.br/agro/national-beef-mantem-margem-positiva-em-meio-a-crise-do-gado-nos-eua/",
-    "time": "2026-08-21T09:00:39.000Z"
   },
   {
     "cat": "brasil",
@@ -190,14 +334,6 @@
     "d": "Cientistas afirmam que fenômeno climático deverá ser ocorrência 'sem precedentes'; 2027 provavelmente será o ano mais quente já registrado no mundo.",
     "link": "https://www.bbc.com/portuguese/articles/crl7gdjp6rzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-21T08:02:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five missing after fire in Swiss Alpine town",
-    "d": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-21T07:06:16.000Z"
   },
   {
     "cat": "internacional",
@@ -275,17 +411,9 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Etiqueta de dinheiro, bilhete e foto de carro: autor de homicídio no Maranhão entregou à PF supostas provas contra políticos",
-    "d": "Gilbson Cutrim Júnior narrou, em depoimento à PF, sua versão sobre o homicídio Reprodução/JN Gilbson Cutrim Júnior – condenado por um homicídio em São Luís que trouxe à tona suspeitas de um esquema de desvio de dinhei…",
+    "d": "Etiqueta de dinheiro, bilhete e foto de carro: autor de homicídio no Maranhão entregou à PF supostas provas contra políticos Gilbson Cutrim Júnior – condenado por um homicídio em São Luís que trouxe à tona suspeitas d…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/21/etiqueta-de-dinheiro-bilhete-e-foto-de-carro-autor-de-homicidio-no-maranhao-entregou-a-pf-supostas-provas-contra-politicos.ghtml",
     "time": "2026-08-21T03:00:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Japan executes man who killed five in Pachinko parlour fire",
-    "d": "This is the first time since June 2025 that the country has enacted capital punishment.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-21T02:49:27.000Z"
   },
   {
     "cat": "internacional",
@@ -312,62 +440,6 @@
     "time": "2026-08-21T00:28:33.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Haddad defende tornozeleira eletrônica para agressores de mulheres e diz que eles devem arcar com custo",
-    "d": "Fernando Haddad durante caminhada no Capão Redondo, em SP Marília Barbosa/g1 O candidato do PT ao governo de São Paulo, Fernando Haddad, defendeu nesta quinta-feira (20) o uso de tornozeleiras eletrônicas por agressor…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/haddad-defende-tornozeleira-eletronica-para-agressores-de-mulheres-e-diz-que-eles-devem-arcar-com-custo.ghtml",
-    "time": "2026-08-21T00:15:22.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3047 acumula e prêmio vai a R$ 58 milhões; confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.047 da Mega-Sena foi realizado na noite desta quinta-feira (20), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 49.2 milhões. No enta…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/20/mega-sena-concurso-3047-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-08-21T00:02:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "How much could Trump's 'economic D-Day' hurt Iran?",
-    "d": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-    "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T23:16:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça manda remover vídeo com deepfake de Flávio Bolsonaro ao lado de Daniel Vorcaro",
-    "d": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), determinou nesta quinta-feira (20) a remoção de um vídeo produzido com inteligência artificial que associa o candidato do PL à Presidência da República,…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/20/mendonca-manda-remover-video-com-deepfake-de-flavio-bolsonaro-ao-lado-de-daniel-vorcaro.ghtml",
-    "time": "2026-08-20T23:10:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caiado defende ampliar prerrogativa dos governadores na segurança pública: 'legislar em alguns crimes'",
-    "d": "Ronaldo Caiado, candidato a presidente pelo PSD em 2026 Divulgação Candidato à Presidência da República pelo PSD, Ronaldo Caiado afirmou na noite desta quinta-feira (20) que pretende ampliar as ações sob responsabilid…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/ronaldo-caiado-ampliar-prerrogativa-estados-seguranca-publica.ghtml",
-    "time": "2026-08-20T22:41:56.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Correios abrem novo programa de demissão voluntária",
-    "d": "Os Correios abriram um novo Plano de Desligamento Voluntário (PDV), que prevê um incentivo financeiro para quem quiser sair da empresa. As inscrições para o programa começaram nesta quinta-feira (20) e vão até o dia 3…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/20/correios-abrem-novo-programa-de-demissao-voluntaria.ghtml",
-    "time": "2026-08-20T22:41:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lulinha: PGR diz que PF não identificou conclusão de nenhum negócio do Careca do INSS com o governo",
-    "d": "PGR pede ao STF que caso Lulinha vá à 1ª Instância A Procuradoria-Geral da República (PGR) disse em manifestação ao Supremo Tribunal Federal (STF) que a atuação de Roberta Luchsinger e de Fábio Luís Lula da Silva, o L…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/20/lulinha-pgr-diz-que-pf-nao-identificou-conclusao-de-nenhum-negocio-do-careca-do-inss-com-o-governo.ghtml",
-    "time": "2026-08-20T22:30:35.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Fashion tech founder sentenced to prison for $300m fraud scheme",
@@ -376,36 +448,12 @@
     "time": "2026-08-20T22:27:41.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: ONS planeja operação especial para acompanhar desempenho do sistema elétrico",
-    "d": "Torres de transmissão de energia REUTERS/Manon Cruz O diretor-geral do Operador Nacional do Sistema Elétrico (ONS), Márcio Rea, afirmou que, neste momento, não vê risco de falta de energia elétrica durante as eleições…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/eleicoes-2026-ons-planeja-operacao-especial-para-acompanhar-desempenho-do-sistema-eletrico.ghtml",
-    "time": "2026-08-20T20:57:07.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
     "d": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will…",
     "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
     "time": "2026-08-20T19:57:59.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Receita Federal tem até 14 de setembro para entregar proposta de cálculo da CBS ao TCU",
-    "d": "Reforma Tributária vai mexer na forma como impostos são cobrados no país A Receita Federal tem até 14 de setembro para enviar ao Tribunal de Contas da União (TCU) uma proposta de cálculo da alíquota de referência da C…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/20/receita-federal-tem-ate-14-de-setembro-para-entregar-proposta-de-calculo-da-cbs-ao-tcu.ghtml",
-    "time": "2026-08-20T19:55:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ele vendia carros sem saber que era filho de um príncipe; DNA revelou a verdade aos 26 anos",
-    "d": "Clément Vandenkerckhove (à direita) com seu pai, o príncipe Laurent. Divulgação/BBC O príncipe Laurent da Bélgica reconheceu legalmente Clément Vandenkerckhove, um ex-vendedor de carros de 26 anos, como seu filho e he…",
-    "link": "https://g1.globo.com/carros/noticia/2026/08/20/ele-vendia-carros-sem-saber-que-era-filho-de-um-principe-dna-revelou-a-verdade-aos-26-anos.ghtml",
-    "time": "2026-08-20T19:50:59.000Z"
   },
   {
     "cat": "brasil",
@@ -424,36 +472,12 @@
     "time": "2026-08-20T19:27:48.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Frigoríficos Uniaves e Pif Paf são condenados por jornada excessiva e ausência de descanso semanal de funcionários no ES",
-    "d": "Imagem de frigorífico Divulgação A Justiça do Trabalho condenou a Companhia de Alimentos Uniaves Ltda. e a Rio Branco Alimentos S/A (Pif Paf) por jornada excessiva e ausência de descanso semanal de funcionários no Esp…",
-    "link": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/08/20/frigorificos-uniaves-e-pif-paf-sao-condenados-por-jornada-excessiva-e-ausencia-de-descanso-semanal-de-funcionarios-no-es.ghtml",
-    "time": "2026-08-20T19:09:03.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O vendedor de carros da Bélgica que se tornou príncipe após ter parentesco com a família real confirmado",
     "d": "Clément Vandenkerckhove foi discretamente acolhido na família do príncipe Laurent, irmão do rei Philippe da Bélgica, durante uma cerimônia em uma prefeitura",
     "link": "https://www.bbc.com/portuguese/articles/c1l104vg8vgo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-20T18:11:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Move Brasil: após baixa procura, governo aumenta limite de crédito para motoristas de app comprarem carros",
-    "d": "Uma portaria publicada nesta quarta-feira (19) e divulgada em edição extra do Diário Oficial da União (DOU) ampliou de R$ 150 mil para R$ 200 mil o valor máximo dos carros que podem ser financiados pelo programa Move…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/20/move-brasil-apos-baixa-procura-governo-aumenta-limite-de-credito-para-motoristas-de-app-comprarem-carros.ghtml",
-    "time": "2026-08-20T17:33:54.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Banco fechado por greve? Veja se precisa pagar contas e como ficam saques e depósitos",
-    "d": "Greve dos bancários fechou agências, nesta quinta-feira (20), em Araraquara (SP) Sindicato dos Bancários de Araraquara A paralisação nacional de 24 horas dos bancários nesta quinta-feira (20) levanta dúvidas tanto par…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/20/banco-fechado-por-greve-veja-mudancas.ghtml",
-    "time": "2026-08-20T17:22:31.000Z"
   },
   {
     "cat": "brasil",
@@ -486,14 +510,6 @@
     "d": "Manny Rutinel hopes price-tag politics can win key voters in Colorado House race During his presidential campaign in October 2024, Donald Trump staged a photo op at a McDonald’s franchise in Pennsylvania, where he was…",
     "link": "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats",
     "time": "2026-08-20T11:00:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O alerta de médicos sobre o risco de cigarros eletrônicos para crianças e jovens",
-    "d": "Uso de cigarros eletrônicos pode ser porta de entrada para tabagismo, segundo Royal College of Paediatrics and Child Health, do Reino Unido.",
-    "link": "https://www.bbc.com/portuguese/articles/clyj37x7nk0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-20T10:56:08.000Z"
   },
   {
     "cat": "brasil",
@@ -606,14 +622,6 @@
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-18T11:13:05.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
-    "d": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb Oman Business live – latest updates Government borrowing costs in several advanced economies continued to rise to l…",
-    "link": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
-    "time": "2026-08-18T10:54:43.000Z"
   },
   {
     "cat": "internacional",
