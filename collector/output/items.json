@@ -1,5 +1,85 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "France links sharp rise in drownings to heatwaves",
+    "d": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T17:39:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump arrives at high-speed IndyCar race through Washington's streets",
+    "d": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T17:31:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+    "d": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade ne…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+    "time": "2026-08-23T17:24:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Maresca celebra estreia com vitória no City: “Foi bastante emocionante”",
+    "d": "Time marca nos minutos finais, vence Bournemouth por 2 a 1 e inicia nova era com vitória",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/maresca-celebra-estreia-com-vitoria-no-city-foi-bastante-emocionante/",
+    "time": "2026-08-23T17:18:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fabiana Justus se casa pela 2ª vez com Bruno Levi D’Ancona; veja",
+    "d": "Casal completou 23 anos juntos e renovaram os votos nova cerimônia",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/fabiana-justus-se-casa-pela-2a-vez-com-bruno-levi-dancona-veja/",
+    "time": "2026-08-23T17:17:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dira Paes se derrete por filha de Camila Queiroz em encontro: “Fofura”",
+    "d": "O encontro aconteceu na última sexta-feira (21), em um aeroporto; veja as fotos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/dira-paes-se-derrete-por-filha-de-camila-queiroz-em-encontro-fofura/",
+    "time": "2026-08-23T17:13:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Enquanto meu pai não disser onde está o corpo da minha mãe, ele não deve sair da prisão'",
+    "d": "Cat Razzell, que tinha 13 anos quando sua mãe foi assassinada, se posicionou contra a libertação de seu pai da prisão.",
+    "link": "https://www.bbc.com/portuguese/articles/cd0xmy7d21yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T17:11:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Manchester City encaminha contratação de substituto de Rodri",
+    "d": "Ayyoub Bouaddi, de 18 anos, deve deixar o Lille e assinar com o clube inglês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-city-encaminha-contratacao-de-substituto-de-rodri/",
+    "time": "2026-08-23T17:04:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "IA melhora o processo de aprendizagem ou apenas entrega respostas prontas?",
+    "d": "Revisão de 28 estudos com 4.597 alunos mostra que tutores de IA podem melhorar o aprendizado, mas resultado depende de como a tecnologia é usada",
+    "link": "https://www.cnnbrasil.com.br/educacao/ia-melhora-o-processo-de-aprendizagem-ou-apenas-entrega-respostas-prontas/",
+    "time": "2026-08-23T17:00:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "ONS aciona plano emergencial para conter excedente de energia",
+    "d": "Medida busca preservar o equilíbrio do sistema elétrico nacional e evitar sobrecarga da rede, sendo a segunda vez no ano que ocorre",
+    "link": "https://www.cnnbrasil.com.br/infra/ons-aciona-plano-emergencial-para-conter-excedente-de-energia/",
+    "time": "2026-08-23T16:55:12.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "All black marca looks dos famosos no Baile do BB; veja fotos",
@@ -20,7 +100,7 @@
     "src": "CNN Brasil",
     "h": "Presidente do Irã diz que o país “não pode continuar em guerra para sempre”",
     "d": "Masoud Pezeshkian defende implementação de memorando acordado com os EUA",
-    "link": "https://www.cnnbrasil.com.br/noticias/presidente-do-ira-diz-que-o-pais-nao-pode-continuar-em-guerra-para-sempre/",
+    "link": "https://www.cnnbrasil.com.br/internacional/presidente-do-ira-diz-que-o-pais-nao-pode-continuar-em-guerra-para-sempre/",
     "time": "2026-08-23T16:39:00.000Z"
   },
   {
@@ -78,62 +158,6 @@
     "d": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
     "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T15:54:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Irã afirma que novas sanções ameaçadas pelos EUA fracassarão",
-    "d": "Ministro das Relações Exteriores do país disse que falas americanas demonstram desespero e que não sente medo das ameaças",
-    "link": "https://www.cnnbrasil.com.br/internacional/ira-afirma-que-novas-sancoes-ameacadas-pelos-eua-fracassarao/",
-    "time": "2026-08-23T15:43:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Saiba por que “A Cabeça do Santo” quase ficou fora da Unidos da Tijuca",
-    "d": "À CNN Brasil, o carnavalesco da azul e amarelo do Borel conta como conheceu a obra que vai embalar a agremiação no Carnaval de 2027",
-    "link": "https://www.cnnbrasil.com.br/pop/carnaval/saiba-por-que-a-cabeca-do-santo-quase-ficou-fora-da-unidos-da-tijuca/",
-    "time": "2026-08-23T15:29:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Alok, Gusttavo Lima e Nattan: veja como foi 3ª noite em Barretos",
-    "d": "Um dos destaques da noite foi o show de drone durante a performance de Alok em homenagem a Marília Mendonça",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/alok-gusttavo-lima-e-nattan-veja-como-foi-3o-noite-em-barretos/",
-    "time": "2026-08-23T15:28:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiro é expulso, e Aston Villa é goleado por Brighton no Inglês",
-    "d": "Com quatro gols no primeiro tempo, Brighton atropela o rival londrino na primeira rodada da Premier League",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/brasileiro-e-expulso-e-aston-villa-e-goleado-por-brighton-no-ingles/",
-    "time": "2026-08-23T15:28:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "F1: Lando Norris vence GP da Holanda e garante segunda vitória seguida",
-    "d": "Atual campeão supera Antonelli e Russell em corrida marcada por acidente de Verstappen",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/lando-norris-vence-gp-da-holanda-e-da-3a-vitoria-seguida-a-mclaren/",
-    "time": "2026-08-23T15:18:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cherki brilha, e Manchester City vira sobre o Bournemouth com gols no fim",
-    "d": "Guehi e Gvardiol, aos 40 e aos 46 minutos do segundo tempo, garantem vitória dos Citizens na primeira rodada da Premier League",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/cherki-brilha-e-manchester-city-vira-sobre-o-bournemouth-com-gols-no-fim/",
-    "time": "2026-08-23T15:12:14.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "France links rise in drownings to heatwaves",
-    "d": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T15:00:17.000Z"
   },
   {
     "cat": "economia",
@@ -251,7 +275,7 @@
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-    "d": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a…",
+    "d": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has…",
     "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
     "time": "2026-08-23T11:00:16.000Z"
   },
@@ -392,14 +416,6 @@
     "time": "2026-08-23T03:00:42.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Girl, 17, killed in Swedish sword attack, police say",
-    "d": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
-    "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T01:34:15.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Eleições 2026: saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão",
@@ -470,14 +486,6 @@
     "d": "A Cruz Vermelha afirma ter recebido mais de 5 mil pedidos de localização de pessoas que podem ter sido detidas por Israel ou cujos corpos podem estar sepultados entre os destroços na Faixa de Gaza.",
     "link": "https://www.bbc.com/portuguese/articles/c3ekgjg0qp5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-22T17:19:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A rede de tráfico de cocaína comandada por alunos de uma das faculdades mais famosas dos EUA",
-    "d": "Treze pessoas — entre alunos e ex-alunos — foram presos e acusados de comandar uma organização de tráfico de drogas.",
-    "link": "https://www.bbc.com/portuguese/articles/cz646pl13n4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-22T16:21:34.000Z"
   },
   {
     "cat": "brasil",
@@ -606,14 +614,6 @@
     "d": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back Europe live – latest updates The Spanish government has U-turned and said it will allow 500 migrant ch…",
     "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
     "time": "2026-08-19T14:33:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
-    "d": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allegedly masterminding…",
-    "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-    "time": "2026-08-19T13:44:57.000Z"
   },
   {
     "cat": "economia",
