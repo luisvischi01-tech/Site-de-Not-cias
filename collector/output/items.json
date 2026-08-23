@@ -1,5 +1,77 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Bovinos influenciadores: conheça a vaca Leide e o touro Xerife",
+    "d": "Leide se tornou influenciadora e garota propaganda Reprodução / TV TEM Sem leilão ou competição, a Leide e o Xerife ganharam reconhecimento de um jeito fora do convencional. Mais do que gado, eles são influenciadores…",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/bovinos-influenciadores-conheca-a-vaca-leide-e-o-touro-xerife.ghtml",
+    "time": "2026-08-23T10:30:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Variedade de uva italiana começa a ser produzida em São Roque",
+    "d": "Nebbiolo é uma variedade italiana que serve de base para inúmeros vinhos prestigiados ao redor do mundo. Reprodução / TV TEM O município de São Roque (SP) é um dos principais polos de produção de uva e vinho no estado…",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/variedade-de-uva-italiana-comeca-a-ser-produzida-em-sao-roque.ghtml",
+    "time": "2026-08-23T10:30:18.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Dozens of co-ordinated arson attacks hit southern Thailand",
+    "d": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T10:22:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Pai deixa filho de 7 anos sozinho em caminhada no Monte Fuji",
+    "d": "O homem havia levado seus dois filhos na subida da montanha mais alta do Japão, mas deixou um deles para trás quando a criança ficou cansada.",
+    "link": "https://www.bbc.com/portuguese/articles/cjrvrqj97vyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T10:16:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Processo contra “faz-tudo” do PCC terá 50 testemunhas ouvidas em outubro",
+    "d": "Audiências estão previstas para ocorrer durante quatro dias, antes dos interrogatórios dos 14 réus; processo tramita na Justiça Federal do Paraná",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/processo-contra-faz-tudo-do-pcc-tera-50-testemunhas-ouvidas-em-outubro/",
+    "time": "2026-08-23T10:08:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Não é só perda de peso: estudo mostra novo papel da gordura na obesidade",
+    "d": "Estudo francês descobre que enzima conhecida desde 1964 — a LHS — regula a saúde do tecido adiposo, além de liberar a energia da gordura",
+    "link": "https://www.cnnbrasil.com.br/saude/nao-e-so-perda-de-peso-estudo-mostra-novo-papel-da-gordura-na-obesidade/",
+    "time": "2026-08-23T10:00:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Por liderança, Palmeiras tenta manter tabu de 11 anos contra o Vasco",
+    "d": "Clube paulista vê Flamengo se aproximar na tabela e não pode mais perder pontos",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/por-lideranca-palmeiras-tenta-manter-tabu-de-11-anos-contra-o-vasco/",
+    "time": "2026-08-23T10:00:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Encceja 2026: saiba o que é preciso levar para a prova deste domingo (23)",
+    "d": "Candidatos devem apresentar um documento oficial com foto e levar caneta esferográfica de tinta preta, em material transparente",
+    "link": "https://www.cnnbrasil.com.br/educacao/encceja-2026-saiba-o-que-e-preciso-levar-para-a-prova-deste-domingo-23/",
+    "time": "2026-08-23T10:00:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Não é um mar de rosas”, imigrantes na Espanha contam condições de vida",
+    "d": "Apesar da promessa de uma vida melhor na Europa, muitas pessoas que vêm de outros continentes acabam trabalhando por cerca de 5 euros (R$30,05) por hora e não conseguem moradia estável",
+    "link": "https://www.cnnbrasil.com.br/internacional/nao-e-um-mar-de-rosas-imigrantes-na-espanha-contam-condicoes-de-vida/",
+    "time": "2026-08-23T10:00:02.000Z"
+  },
+  {
     "cat": "comercio",
     "src": "BBC News Brasil",
     "h": "Sem Lula e Flávio Bolsonaro, os debates ainda importam? O que dizem os especialistas",
@@ -22,6 +94,14 @@
     "d": "The sacked former defence minister has also called for elections to be held in Ukraine.",
     "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T09:37:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Glória Pires faz 63 anos: relembre a última novela da atriz",
+    "d": "Com mais de cinco décadas de carreira, a artista é dona de papéis marcadas nas telinhas brasileiras",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/gloria-pires-faz-63-anos-relembre-a-ultima-novela-da-atriz/",
+    "time": "2026-08-23T09:30:13.000Z"
   },
   {
     "cat": "brasil",
@@ -72,22 +152,6 @@
     "time": "2026-08-23T08:29:02.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena: quanto rendem R$ 58 milhões na poupança, Tesouro Direto ou CDB",
-    "d": "Sorteio deste domingo (23) será realizado às 11h; apostas podem ser feitas até 22h de sábado (22)",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-58-milhoes-na-poupanca-tesouro-direto-ou-cdb/",
-    "time": "2026-08-23T08:05:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena 3048: sorteio deste domingo (23) pode pagar R$ 58 milhões",
-    "d": "Para concorrer, apostadores devem registrar seus jogos até às 22h de sábado",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3048/",
-    "time": "2026-08-23T08:00:50.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Golpes usam Minha Casa, Minha Vida e Desenrola para roubar dinheiro; veja como se proteger",
@@ -110,38 +174,6 @@
     "d": "Mais de 31 milhões de notas de euro estão em circulação, em comparação com 24 milhões pouco antes da pandemia Frank Hoermann/SVEN SIMON/IMAGO via DW Dados do Banco Central Europeu (BCE) revelam que o número de cédulas…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/23/por-que-europeus-estao-guardando-mais-dinheiro-vivo-mesmo-usando-cada-vez-menos-notas.ghtml",
     "time": "2026-08-23T08:00:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Super El Niño”: veja recomendações da Associação Brasileira de Municípios",
-    "d": "Guia lançado pela ABM orienta prefeituras sobre prevenção, resposta e recuperação diante de eventos climáticos extremos",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/super-el-nino-veja-recomendacoes-da-associacao-brasileira-de-municipios/",
-    "time": "2026-08-23T08:00:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cultura do “eu mereço”: como o cansaço está mudando a relação com o consumo",
-    "d": "A lógica de que o brasileiro trabalhou muito leva a gastos extras por conforto e alívio, transformando a forma de controlar os gastos",
-    "link": "https://www.cnnbrasil.com.br/comportamento/cultura/a-cultura-do-eu-mereco-o-cansaco-esta-mudando-a-relacao-com-o-consumo/",
-    "time": "2026-08-23T08:00:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Elche x Barcelona: horário e onde assistir ao jogo de LaLiga",
-    "d": "Clubes se enfrentam pelo Campeonato Espanhol neste domingo (23)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/elche-x-barcelona-horario-e-onde-assistir-ao-jogo-de-laliga/",
-    "time": "2026-08-23T08:00:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O que observar antes de investir em um fundo de investimento",
-    "d": "Este tipo de aplicação financeira é usada para diversificação do portfólio de investimentos pela variedade que oferece",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/o-que-observar-antes-de-investir-em-um-fundo-de-investimento/",
-    "time": "2026-08-23T08:00:01.000Z"
   },
   {
     "cat": "economia",
@@ -440,22 +472,6 @@
     "time": "2026-08-22T10:50:41.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Laptop catches fire on US flight, with passenger treated at airport",
-    "d": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
-    "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-22T10:27:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Soldados nascidos na Ucrânia e capturados contam à BBC por que lutaram pela Rússia",
-    "d": "Homens nascidos na Ucrânia que lutaram pela Rússia na guerra são julgados por traição. Mas, em um campo de prisioneiros de guerra no oeste da Ucrânia, muitos acreditam terem defendido sua pátria.",
-    "link": "https://www.bbc.com/portuguese/articles/czjlrylwrj0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-22T09:43:53.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Guerra no Irã faz países do Golfo acelerarem planos para driblar Estreito de Ormuz",
@@ -470,22 +486,6 @@
     "d": "Petrobras e Pemex vão cooperar na exploração e produção de hidrocarbonetos e no refino e comercialização de biocombustíveis. Imago Duas das maiores petrolíferas estatais da América Latina surpreenderam com o anúncio d…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/22/petrobras-e-pemex-fazem-acordo-para-explorar-petroleo-mas-especialistas-veem-risco-de-letra-morta.ghtml",
     "time": "2026-08-22T08:00:40.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "As 10 empresas em que os jovens mais sonham em trabalhar; veja ranking e o que eles valorizam",
-    "d": "Pesquisa do CIEE e Instituto Locomotiva revela que jovens priorizam crescimento profissional ao escolher empresas para trabalhar g1 Para os jovens brasileiros, o emprego dos sonhos vai além do salário. A oportunidade…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/22/as-10-empresas-em-que-os-jovens-mais-sonham-em-trabalhar-veja-ranking-e-o-que-eles-valorizam.ghtml",
-    "time": "2026-08-22T07:02:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Como será o supercomputador brasileiro de IA com investimento de R$ 1 bilhão",
-    "d": "Lula discursa durante anúncio de supercomputador no RN O Brasil deverá ter um novo supercomputador em operação a partir de 2027. O projeto anunciado na última quinta-feira (20) faz parte de um plano voltado à inteligê…",
-    "link": "https://g1.globo.com/inovacao/noticia/2026/08/22/como-sera-o-supercomputador-brasileiro-de-ia-com-investimento-de-r-1-bilhao.ghtml",
-    "time": "2026-08-22T07:01:06.000Z"
   },
   {
     "cat": "economia",
