@@ -1,11 +1,99 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Nova temporada, novo cabelo': Haaland muda o visual e surge com corte raspado",
+    "d": "O atacante norueguês do Manchester City revelou seu novo corte de cabelo bem curto nas redes sociais, com direito a palpites de outros famosos no mundo da bola.",
+    "link": "https://www.bbc.com/portuguese/articles/cq56510gy65o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T15:40:24.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Austrália confirma primeiro caso de gripe aviária em mamífero",
-    "d": "Vírus mortal foi detectado em um lobo-marinho-de-nariz-comprido no estado da Austrália do Sul, intensificando preocupações",
-    "link": "https://www.cnnbrasil.com.br/agro/australia-confirma-primeiro-caso-de-gripe-aviaria-h5n1-em-mamifero/",
-    "time": "2026-08-23T14:37:46.000Z"
+    "h": "F1: Lando Norris vence GP da Holanda e dá 2ª vitória seguida à McLaren",
+    "d": "Atual campeão supera Antonelli e Russell em corrida marcada por acidente de Verstappen",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/lando-norris-vence-gp-da-holanda-e-da-3a-vitoria-seguida-a-mclaren/",
+    "time": "2026-08-23T15:18:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cherki brilha, e Manchester City vira sobre o Bournemouth com gols no fim",
+    "d": "Guehi e Gvardiol, aos 40 e aos 46 minutos do segundo tempo, garantem vitória dos Citizens na primeira rodada da Premier League",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/cherki-brilha-e-manchester-city-vira-sobre-o-bournemouth-com-gols-no-fim/",
+    "time": "2026-08-23T15:12:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rosi Campos brinca após vídeo viral: “Não era grosseria, era trabalho”",
+    "d": "Intérprete de Diná em \"Quem Ama Cuida', a atriz viralizou ao ser gravada deixando um cemitério na zona norte do Rio",
+    "link": "https://www.cnnbrasil.com.br/pop/tv/rosi-campos-brinca-apos-video-viral-nao-era-grosseria-era-trabalho/",
+    "time": "2026-08-23T15:11:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pesquisadores da USP desenvolvem “vacina inteligente” contra chikungunya",
+    "d": "Formulação experimental foi testada em camundongos e usa vírus modificado que se replica uma única vez para estimular a resposta imunológica",
+    "link": "https://www.cnnbrasil.com.br/saude/pesquisadores-da-usp-desenvolvem-vacina-inteligente-contra-chikungunya/",
+    "time": "2026-08-23T15:06:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Os 10 híbridos plug-in mais vendidos no Brasil até o momento; veja lista",
+    "d": "Entre as marcas, a BYD domina o setor dos híbridos PHEV, com o modelo Song a representar quase 40% da quota de mercado total",
+    "link": "https://www.cnnbrasil.com.br/auto/os-10-hibridos-plug-in-mais-vendidos-no-brasil-ate-o-momento-veja-lista/",
+    "time": "2026-08-23T15:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chuvas afetam trigo no RS, mas estimativa para a safra é mantida",
+    "d": "Emater diz que potencial produtivo do Rio Grande do Sul permanece satisfatório, apesar de lavouras prejudicadas por excesso de precipitações",
+    "link": "https://www.cnnbrasil.com.br/agro/lavouras-de-trigo-do/",
+    "time": "2026-08-23T15:00:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Missões que pousaram em Vênus ajudaram a desvendar explosões de raio gama",
+    "d": "Sondas lançadas em 1981 detectaram um total de 44 explosões a cada três dias, superando resultados anteriores",
+    "link": "https://www.cnnbrasil.com.br/ciencia/missoes-que-pousaram-em-venus-ajudaram-a-desvendar-explosoes-de-raio-gama/",
+    "time": "2026-08-23T15:00:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O que sabemos sobre plano controverso contra imigração no Texas",
+    "d": "Moradores do estado protestaram contra fortalecimento da fronteira dos EUA com o México no Parque Nacional Big Bend",
+    "link": "https://www.cnnbrasil.com.br/internacional/o-que-sabemos-sobre-plano-controverso-contra-imigracao-no-texas/",
+    "time": "2026-08-23T15:00:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "France links rise in drownings to heatwaves",
+    "d": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T15:00:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Usinas no Reino Unido entram em alerta após ataque hacker ligado ao Irã",
+    "d": "Porta-voz do governo afirma que ataque não representa ameaça ao sistema energético britânico",
+    "link": "https://www.cnnbrasil.com.br/internacional/usinas-no-reino-unido-entram-em-alerta-apos-ataque-hacker-ligado-ao-ira/",
+    "time": "2026-08-23T14:57:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ex-BBB Ana Paula revela por que se recusa a rever reality: “Me faz mal”",
+    "d": "Após diversos embates na casa, a jornalista se consagrou campeã do programa, levando o prêmio milionário para casa",
+    "link": "https://www.cnnbrasil.com.br/pop/bbb/ex-bbb-ana-paula-revela-por-que-se-recusa-a-rever-reality-me-faz-mal/",
+    "time": "2026-08-23T14:42:09.000Z"
   },
   {
     "cat": "brasil",
@@ -24,36 +112,12 @@
     "time": "2026-08-23T14:19:49.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dino determina que emendas indicadas por dirigentes partidários são nulas",
-    "d": "Ministro avisa que descumprimento acarretará em responsabilização e fixa prazo para Solidariedade e Podemos se manifestarem",
-    "link": "https://www.cnnbrasil.com.br/politica/dino-determina-que-indicacao-de-emenda-por-chefes-de-partidos-seja-nula/",
-    "time": "2026-08-23T14:15:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fabiana Justus encontra doador de medula pela 1ª vez: “Salvou minha vida”",
-    "d": "Nas redes sociais, a influenciadora compartilhou o registro ao lado de Nathan; assista",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/fabiana-justus-encontra-doador-de-medula-pela-1a-vez-salvou-minha-vida/",
-    "time": "2026-08-23T14:14:37.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Mega-Sena: aposta única de Santa Catarina ganha quase R$ 58 milhões; confira os números sorteados",
-    "d": "G1 | Loterias - Mega-Sena 3048 O sorteio do concurso da Mega-Sena foi realizado neste domingo (23), em São Paulo. O prêmio para as apostas que acertaram as seis dezenas é de R$ 57.261.598,09. 📱Favorite o g1 no Google…",
+    "d": "G1 | Loterias - Mega-Sena 3048 O sorteio do concurso da Mega-Sena foi realizado neste domingo (23), em São Paulo. Uma aposta única de Blumenau, em Santa Catarina, acertou os seis números e levou o prêmio de R$ 57.261.…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/23/mega-sena-concurso-3048-confira-os-numeros-sorteados.ghtml",
     "time": "2026-08-23T14:04:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vendedor de carros da Bélgica se torna príncipe após teste de DNA",
-    "d": "Aos 26 anos, Clément Vandenkerckhove foi reconhecido como filho do irmão do rei, o Príncipe Laurent",
-    "link": "https://www.cnnbrasil.com.br/internacional/vendedor-de-carros-da-belgica-se-torna-principe-apos-teste-de-dna/",
-    "time": "2026-08-23T14:00:37.000Z"
   },
   {
     "cat": "economia",
@@ -64,36 +128,12 @@
     "time": "2026-08-23T14:00:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo mostra momento em que ataque aéreo israelense atinge cidade em Gaza",
-    "d": "Explosões no território palestino resultaram em duas mortes, incluindo a de um garoto de quatro anos, e sete feridos",
-    "link": "https://www.cnnbrasil.com.br/internacional/video-mostra-momento-em-que-ataque-aereo-israelense-atinge-cidade-em-gaza/",
-    "time": "2026-08-23T13:57:17.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
-    "h": "Trump diz 'basta' em reação às tarifas de retaliação do Canadá",
+    "h": "'Basta!': Trump reage a tarifas de retaliação do Canadá e aumenta tensão na guerra comercial",
     "d": "A guerra comercial entre Estados Unidos e Canadá ganhou um novo capítulo neste domingo (23), quando o presidente americano Donald Trump criticou duramente as medidas de retaliação anunciadas por Ottawa em resposta às…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/23/trump-diz-basta-em-reacao-as-tarifas-de-retaliacao-do-canada.ghtml",
     "time": "2026-08-23T13:52:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Putin tenta evitar “maldição de agosto” da Rússia em meio à guerra",
-    "d": "Mês tem sido historicamente um período de notícias dramáticas no país, mas líder russo tem tentado diminuir pessimismo",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-putin-tenta-evitar-maldicao-de-agosto-da-russia-em-meio-a-guerra/",
-    "time": "2026-08-23T13:50:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: homem assalta casal de policiais civis e morre baleado por PM em SP",
-    "d": "Ao presenciar o crime, policial militar que estava de folga interviu na ação atirando contra o suspeito; as vítimas não ficaram feridas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-assalta-casal-de-policiais-civis-e-morre-baleado-por-pm-em-sp/",
-    "time": "2026-08-23T13:49:22.000Z"
   },
   {
     "cat": "internacional",
@@ -105,27 +145,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "F1: Max Verstappen bate na primeira volta e abandona GP da Holanda",
-    "d": "Quatro vezes campeão mundial perde o controle e acerta muro em corrida interrompida",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-max-verstappen-bate-na-primeira-volta-e-abandona-gp-da-holanda/",
-    "time": "2026-08-23T13:29:34.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento",
     "d": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou neste domingo (23) que Câmara e Senado devem considerar nulas eventuais emendas indicadas por presidentes de partidos sem mandato no Congresso e ex…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/23/dino-diz-que-indicacao-de-emendas-por-dirigentes-e-nula-e-alerta-para-punicao-em-caso-de-descumprimento.ghtml",
     "time": "2026-08-23T13:29:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caso de brasileira encontrada morta na Irlanda é investigado como homicídio",
-    "d": "Informação foi confirmada pela Garda Síochána, uma força policial civil irlandesa, que está conduzindo a investigação",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-de-brasileira-encontrada-morta-na-irlanda-e-investigado-como-homicidio/",
-    "time": "2026-08-23T13:26:33.000Z"
   },
   {
     "cat": "comercio",
@@ -134,14 +158,6 @@
     "d": "O primeiro-ministro canadense abandonou negociações comerciais com a Casa Branca e anunciou que adotará retaliação contra tarifas americanas.",
     "link": "https://www.bbc.com/portuguese/articles/cre4e1w2g2eo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T13:23:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Iranianas desafiam linha-dura do regime e resistem ao uso do véu",
-    "d": "Em meio à guerra e mudanças na liderança, conservadores pressionam por aplicação rigorosa da obrigatoriedade do hijab",
-    "link": "https://www.cnnbrasil.com.br/internacional/iranianas-desafiam-linha-dura-do-regime-e-resistem-ao-uso-do-veu/",
-    "time": "2026-08-23T13:22:07.000Z"
   },
   {
     "cat": "internacional",
@@ -298,14 +314,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Man completes 2,800 mile scoot across Australia",
-    "d": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
-    "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T06:01:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
     "d": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -446,14 +454,6 @@
     "d": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
     "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-22T19:03:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que aconteceu com o sonho americano de Harry e Meghan?",
-    "d": "O Duque e a Duquesa de Sussex desfrutaram de algum sucesso na indústria do entretenimento, mas seu reinado em Hollywood provou ser curto.",
-    "link": "https://www.bbc.com/portuguese/articles/c1k1kjlvvgyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-22T18:40:16.000Z"
   },
   {
     "cat": "brasil",
