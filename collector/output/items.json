@@ -1,16 +1,120 @@
 [
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Nova temporada, novo cabelo': Haaland muda o visual e surge com corte raspado",
-    "d": "O atacante norueguês do Manchester City revelou seu novo corte de cabelo bem curto nas redes sociais, com direito a palpites de outros famosos no mundo da bola.",
-    "link": "https://www.bbc.com/portuguese/articles/cq56510gy65o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T15:40:24.000Z"
+    "src": "CNN Brasil",
+    "h": "All black marca looks dos famosos no Baile do BB; veja fotos",
+    "d": "Evento beneficente aconteceu na noite do último sábado (22), no Hotel Rosewood, em São Paulo",
+    "link": "https://www.cnnbrasil.com.br/style/moda/all-black-marca-looks-dos-famosos-no-baile-do-bb-veja-fotos/",
+    "time": "2026-08-23T16:44:28.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "F1: Lando Norris vence GP da Holanda e dá 2ª vitória seguida à McLaren",
+    "h": "Romeu Zema desiste de debate presidencial na Band e atribui ausência a Lula",
+    "d": "Diante da ausência de Lula e outros candidatos, assessoria do ex-governador afirma que o debate perdeu \"propósito inicial\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/romeu-zema-desiste-de-debate-presidencial-na-band-e-atribui-ausencia-a-lula/",
+    "time": "2026-08-23T16:40:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Presidente do Irã diz que o país “não pode continuar em guerra para sempre”",
+    "d": "Masoud Pezeshkian defende implementação de memorando acordado com os EUA",
+    "link": "https://www.cnnbrasil.com.br/noticias/presidente-do-ira-diz-que-o-pais-nao-pode-continuar-em-guerra-para-sempre/",
+    "time": "2026-08-23T16:39:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vera Fischer diz que já teve medo de envelhecer: “Sei muito mais sobre mim”",
+    "d": "Aos 74, atriz fala sobre pressão estética e autoconhecimento ao longo dos anos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/vera-fischer-diz-que-ja-teve-medo-de-envelhecer-sei-muito-mais-sobre-mim/",
+    "time": "2026-08-23T16:36:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Nova temporada, novo cabelo': Haaland muda o visual para Premier League",
+    "d": "O atacante norueguês do Manchester City revelou seu novo corte de cabelo bem curto nas redes sociais, com direito a palpites de outros famosos no mundo da bola.",
+    "link": "https://www.bbc.com/portuguese/articles/cq56510gy65o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T16:23:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Irmã relata morte de empresária horas após cirurgias plásticas em Goiânia",
+    "d": "Segundo a irmã, Andreia Vieira apresentou complicações após os procedimentos e morreu na madrugada seguinte; família pede investigação do caso",
+    "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/irma-relata-morte-de-empresaria-horas-apos-cirurgias-plasticas-em-goiania/",
+    "time": "2026-08-23T16:20:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Família pede ao MP investigação de morte de empresária após plásticas em GO",
+    "d": "Representação criminal aponta possíveis falhas no atendimento, questiona condutas no pós-operatório e pede perícia independente para esclarecer causa da morte",
+    "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/go/familia-pede-ao-mp-investigacao-de-morte-de-empresaria-apos-plasticas-em-go/",
+    "time": "2026-08-23T16:18:42.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "BBC News Brasil",
+    "h": "Zema diz que não vai a debate da Band, que não terá Lula nem Flávio: os confrontos ainda importam?",
+    "d": "Os dois candidatos que lideram as pesquisas de intenção de voto não devem ir ao debate; Romeu Zuma anunciou que também não irá.",
+    "link": "https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T16:18:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Inaceitável': pai deixa filho de 7 anos sozinho em caminhada no Monte Fuji",
+    "d": "O homem havia levado seus dois filhos na subida da montanha mais alta do Japão, mas deixou um deles para trás quando a criança ficou cansada.",
+    "link": "https://www.bbc.com/portuguese/articles/cjrvrqj97vyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T16:01:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Thousands struggling without power in Indiana 12 days after severe storms",
+    "d": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+    "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T15:54:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Irã afirma que novas sanções ameaçadas pelos EUA fracassarão",
+    "d": "Ministro das Relações Exteriores do país disse que falas americanas demonstram desespero e que não sente medo das ameaças",
+    "link": "https://www.cnnbrasil.com.br/internacional/ira-afirma-que-novas-sancoes-ameacadas-pelos-eua-fracassarao/",
+    "time": "2026-08-23T15:43:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba por que “A Cabeça do Santo” quase ficou fora da Unidos da Tijuca",
+    "d": "À CNN Brasil, o carnavalesco da azul e amarelo do Borel conta como conheceu a obra que vai embalar a agremiação no Carnaval de 2027",
+    "link": "https://www.cnnbrasil.com.br/pop/carnaval/saiba-por-que-a-cabeca-do-santo-quase-ficou-fora-da-unidos-da-tijuca/",
+    "time": "2026-08-23T15:29:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alok, Gusttavo Lima e Nattan: veja como foi 3ª noite em Barretos",
+    "d": "Um dos destaques da noite foi o show de drone durante a performance de Alok em homenagem a Marília Mendonça",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/alok-gusttavo-lima-e-nattan-veja-como-foi-3o-noite-em-barretos/",
+    "time": "2026-08-23T15:28:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasileiro é expulso, e Aston Villa é goleado por Brighton no Inglês",
+    "d": "Com quatro gols no primeiro tempo, Brighton atropela o rival londrino na primeira rodada da Premier League",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/brasileiro-e-expulso-e-aston-villa-e-goleado-por-brighton-no-ingles/",
+    "time": "2026-08-23T15:28:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "F1: Lando Norris vence GP da Holanda e garante segunda vitória seguida",
     "d": "Atual campeão supera Antonelli e Russell em corrida marcada por acidente de Verstappen",
     "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/lando-norris-vence-gp-da-holanda-e-da-3a-vitoria-seguida-a-mclaren/",
     "time": "2026-08-23T15:18:08.000Z"
@@ -24,92 +128,12 @@
     "time": "2026-08-23T15:12:14.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rosi Campos brinca após vídeo viral: “Não era grosseria, era trabalho”",
-    "d": "Intérprete de Diná em \"Quem Ama Cuida', a atriz viralizou ao ser gravada deixando um cemitério na zona norte do Rio",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/rosi-campos-brinca-apos-video-viral-nao-era-grosseria-era-trabalho/",
-    "time": "2026-08-23T15:11:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pesquisadores da USP desenvolvem “vacina inteligente” contra chikungunya",
-    "d": "Formulação experimental foi testada em camundongos e usa vírus modificado que se replica uma única vez para estimular a resposta imunológica",
-    "link": "https://www.cnnbrasil.com.br/saude/pesquisadores-da-usp-desenvolvem-vacina-inteligente-contra-chikungunya/",
-    "time": "2026-08-23T15:06:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Os 10 híbridos plug-in mais vendidos no Brasil até o momento; veja lista",
-    "d": "Entre as marcas, a BYD domina o setor dos híbridos PHEV, com o modelo Song a representar quase 40% da quota de mercado total",
-    "link": "https://www.cnnbrasil.com.br/auto/os-10-hibridos-plug-in-mais-vendidos-no-brasil-ate-o-momento-veja-lista/",
-    "time": "2026-08-23T15:00:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chuvas afetam trigo no RS, mas estimativa para a safra é mantida",
-    "d": "Emater diz que potencial produtivo do Rio Grande do Sul permanece satisfatório, apesar de lavouras prejudicadas por excesso de precipitações",
-    "link": "https://www.cnnbrasil.com.br/agro/lavouras-de-trigo-do/",
-    "time": "2026-08-23T15:00:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Missões que pousaram em Vênus ajudaram a desvendar explosões de raio gama",
-    "d": "Sondas lançadas em 1981 detectaram um total de 44 explosões a cada três dias, superando resultados anteriores",
-    "link": "https://www.cnnbrasil.com.br/ciencia/missoes-que-pousaram-em-venus-ajudaram-a-desvendar-explosoes-de-raio-gama/",
-    "time": "2026-08-23T15:00:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O que sabemos sobre plano controverso contra imigração no Texas",
-    "d": "Moradores do estado protestaram contra fortalecimento da fronteira dos EUA com o México no Parque Nacional Big Bend",
-    "link": "https://www.cnnbrasil.com.br/internacional/o-que-sabemos-sobre-plano-controverso-contra-imigracao-no-texas/",
-    "time": "2026-08-23T15:00:26.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "France links rise in drownings to heatwaves",
     "d": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
     "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T15:00:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Usinas no Reino Unido entram em alerta após ataque hacker ligado ao Irã",
-    "d": "Porta-voz do governo afirma que ataque não representa ameaça ao sistema energético britânico",
-    "link": "https://www.cnnbrasil.com.br/internacional/usinas-no-reino-unido-entram-em-alerta-apos-ataque-hacker-ligado-ao-ira/",
-    "time": "2026-08-23T14:57:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-BBB Ana Paula revela por que se recusa a rever reality: “Me faz mal”",
-    "d": "Após diversos embates na casa, a jornalista se consagrou campeã do programa, levando o prêmio milionário para casa",
-    "link": "https://www.cnnbrasil.com.br/pop/bbb/ex-bbb-ana-paula-revela-por-que-se-recusa-a-rever-reality-me-faz-mal/",
-    "time": "2026-08-23T14:42:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quatro homens são presos após furto em joelheira no centro de São Paulo",
-    "d": "Suspeitos foram localizados em diferentes localidades do bairro; caso envolve concurso de agentes, chave falsa, arrombamento e adulteração de sinais identificadores de veículo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/quatro-homens-sao-presos-apos-furto-em-joelheira-no-centro-de-sao-paulo/",
-    "time": "2026-08-23T14:26:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Esposa de Lito Sousa faz apelo por estudos: “Salvar o amor da minha vida”",
-    "d": "Mila Seidl tem buscado vagas em estudos experimentais e entrou em contato com farmacêutica",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/esposa-de-lito-sousa-faz-apelo-por-estudos-salvar-o-amor-da-minha-vida/",
-    "time": "2026-08-23T14:19:49.000Z"
   },
   {
     "cat": "economia",
@@ -130,8 +154,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "'Basta!': Trump reage a tarifas de retaliação do Canadá e aumenta tensão na guerra comercial",
-    "d": "A guerra comercial entre Estados Unidos e Canadá ganhou um novo capítulo neste domingo (23), quando o presidente americano Donald Trump criticou duramente as medidas de retaliação anunciadas por Ottawa em resposta às…",
+    "h": "'Basta': Trump reage a tarifas de retaliação do Canadá e aumenta tensão na guerra comercial",
+    "d": "EUA impõem tarifas de 50% sobre importações do Canadá após fracasso de negociações O presidente dos Estados Unidos, Donald Trump, elevou neste domingo (23) o tom contra o Canadá após o fracasso das negociações comerci…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/23/trump-diz-basta-em-reacao-as-tarifas-de-retaliacao-do-canada.ghtml",
     "time": "2026-08-23T13:52:07.000Z"
   },
@@ -246,22 +270,6 @@
     "d": "Nebbiolo é uma variedade italiana que serve de base para inúmeros vinhos prestigiados ao redor do mundo. Reprodução / TV TEM O município de São Roque (SP) é um dos principais polos de produção de uva e vinho no estado…",
     "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/variedade-de-uva-italiana-comeca-a-ser-produzida-em-sao-roque.ghtml",
     "time": "2026-08-23T10:30:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Pai deixa filho de 7 anos sozinho em caminhada no Monte Fuji",
-    "d": "O homem havia levado seus dois filhos na subida da montanha mais alta do Japão, mas deixou um deles para trás quando a criança ficou cansada.",
-    "link": "https://www.bbc.com/portuguese/articles/cjrvrqj97vyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T10:16:42.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "Sem Lula e Flávio Bolsonaro, os debates ainda importam? O que dizem os especialistas",
-    "d": "Participação dos dois candidatos que lideram as pesquisas de intenção de voto é incerta nos debates; ausência marcaria acontecimento inédito desde a redemocratização.",
-    "link": "https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T09:44:45.000Z"
   },
   {
     "cat": "economia",
@@ -478,14 +486,6 @@
     "d": "Para alguns moradores da China continental, as livrarias independentes de Hong Kong sempre foram uma janela para um mundo diferente e mais livre.",
     "link": "https://www.bbc.com/portuguese/articles/cdx8xv4z0xzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-22T14:36:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-    "d": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-    "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-22T14:35:11.000Z"
   },
   {
     "cat": "internacional",
