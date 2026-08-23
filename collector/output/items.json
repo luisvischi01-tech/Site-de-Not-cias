@@ -1,27 +1,139 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após liberação de R$2,3 bilhões, PL terá maior fatia do fundo eleitoral",
+    "d": "Partido Liberal tem parcela de R$881 milhões e PT aparece em segundo lugar com R$615 milhões; valores devem ser distribuídos aos partidos até 30 de agosto",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apos-liberacao-de-r23-bilhoes-pl-tera-maior-fatia-do-fundo-eleitoral/",
+    "time": "2026-08-23T07:03:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "IA pode estar freando salários antes de cortar empregos; veja profissões mais expostas e rankings",
+    "d": "Veja as 10 profissões mais valorizadas da tecnologia O receio mais comum sobre a inteligência artificial é que ela elimine empregos. Mas um novo estudo sugere que o primeiro grande impacto da tecnologia pode estar aco…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/23/ia-pode-estar-freando-salarios-antes-de-cortar-empregos-veja-profissoes-mais-expostas-e-rankings.ghtml",
+    "time": "2026-08-23T07:02:03.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Enter: o que faz a startup brasileira de IA que se tornou unicórnio e já vale US$ 1,2 bilhão",
+    "d": "Enter atingiu valor de mercado de US$ 1,2 bilhão em 2026. Divulgação/Enter Em maio, a startup brasileira Enter se tornou uma das empresas mais valiosas da América Latina ao atingir valor de mercado de US$ 1,2 bilhão a…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/23/enter-o-que-faz-a-startup-brasileira-de-ia-que-se-tornou-unicornio-e-ja-vale-us-12-bilhao.ghtml",
+    "time": "2026-08-23T07:01:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Síndrome de domingo à noite”: psiquiatra comenta ansiedade pré-segunda",
+    "d": "Angústia, irritabilidade e dificuldade para dormir antes do início da semana podem estar relacionadas tanto à forma como o trabalhador se relaciona com o trabalho quanto às condições do ambiente profissional",
+    "link": "https://www.cnnbrasil.com.br/saude/sindrome-de-domingo-a-noite-psiquiatra-comenta-ansiedade-pre-segunda/",
+    "time": "2026-08-23T07:00:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Barretos 2026: Edson & Hudson marcam último dia do 1º final de semana",
+    "d": "Primeiro final de semana contou com shows que foram de Gusttavo Lima a Belo",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/barretos-2026-edson-hudson-marcam-ultimo-dia-do-1o-final-de-semana/",
+    "time": "2026-08-23T07:00:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lulinha vira munição do PL enquanto PT contra-ataca com Dark Horse",
+    "d": "Oposição quer instalar comissão de inquérito contra filho do presidente Lula; governistas cobram investigação sobre recursos que financiaram cinebiografia de Jair Bolsonaro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lulinha-vira-municao-do-pl-enquanto-pt-contra-ataca-com-dark-horse/",
+    "time": "2026-08-23T07:00:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chapecoense x São Paulo: horário e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes vão a campo neste domingo (23), pela 24ª rodada do campeonato nacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-sao-paulo-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-08-23T07:00:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ex-assessor de Lula recebia demandas e atualizava lobista sobre agendas",
+    "d": "Roberta Luchsinger pedia ajuda para viabilizar reuniões com integrantes do governo enquanto prometia quadro de 100 mil euros e pagava contas de Marcola; defesa alega que valores são referentes a empréstimo pessoal",
+    "link": "https://www.cnnbrasil.com.br/politica/ex-assessor-de-lula-recebia-demandas-e-atualizava-lobista-sobre-agendas/",
+    "time": "2026-08-23T07:00:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ponte Preta x Avaí: horário e onde assistir ao jogo da Série B",
+    "d": "Equipes se enfrentam neste domingo (23) em jogo válido pela 24ª rodada do campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/ponte-preta-x-avai-horario-e-onde-assistir-ao-jogo-da-serie-b-2/",
+    "time": "2026-08-23T07:00:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Coritiba x Coritnthians: horário e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes vão a campo neste domingo (23), pela 24ª rodada do campeonato nacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-x-coritnthians-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-08-23T07:00:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos x Mirassol: horário e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes vão a campo neste domingo (23), pela 24ª rodada do campeonato nacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-x-mirassol-horario-e-onde-assistir-ao-jogo-do-brasileirao-2/",
+    "time": "2026-08-23T07:00:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Bernardo x Náutico: horário e onde assistir ao jogo da Série B",
+    "d": "Equipes se enfrentam neste domingo (23) pela 24ª rodada do campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-bernardo-x-nautico-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+    "time": "2026-08-23T07:00:01.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Esqueça a falta de tempo: minutos de exercício ao dia já fazem diferença",
+    "d": "Sessões curtas e estruturadas de exercício podem melhorar o condicionamento mesmo quando distribuídas ao longo do dia; fisioterapeuta explica o chamado 'exercise snacking' e porque se movimentar mais também importa, e…",
+    "link": "https://www.cnnbrasil.com.br/saude/esqueca-a-falta-de-tempo-minutos-de-exercicio-ao-dia-ja-fazem-diferenca/",
+    "time": "2026-08-23T06:42:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cientistas descobrem interruptor capaz de desligar a dor crônica no cérebro",
+    "d": "Etudo descobriu um grupo de neurônios no tronco cerebral que integra sinais relacionados à fome, medo e sede para “desligar temporariamente” a dor",
+    "link": "https://www.cnnbrasil.com.br/saude/cientistas-descobrem-interruptor-capaz-de-desligar-a-dor-cronica-no-cerebro/",
+    "time": "2026-08-23T06:40:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+    "d": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-23T05:46:43.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ele enxerga em preto e branco e fez da deficiência um negócio de R$ 100 mil por mês",
+    "d": "Empreendedor com deficiência visual cria app para pessoas com a mesma condição e fatura R$ 100 mil por mês Por muito tempo, o alagoano Arthur Sendas enxergou o mundo sem cores. Nascido com acromatopsia, condição que p…",
+    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/08/23/ele-enxerga-em-preto-e-branco-e-fez-da-deficiencia-um-negocio-de-r-100-mil-por-mes.ghtml",
+    "time": "2026-08-23T05:00:21.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "'We're not going to run from it': Sydney Marathon laughs off medal error",
     "d": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
     "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T03:44:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com perda parcial da visão, Lito Sousa é liberado para home care",
-    "d": "Mulher do YouTuber diz que ele continuará tratamento em casa nos próximos dias e está em lista de espera para estudo da universidade de Harvard",
-    "link": "https://www.cnnbrasil.com.br/saude/lito-sousa-e-liberado-para-home-care-e-esta-em-lista-de-espera-de-estudo-de-harvard-diz-mulher/",
-    "time": "2026-08-23T03:19:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como foi o primeiro debate para presidente transmitido no Brasil",
-    "d": "Transmissão marcou a redemocratização do país após a ditadura; Fernando Collor, que liderava as pesquisas à época, faltou ao encontro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/como-foi-o-primeiro-debate-para-presidente-transmitido-no-brasil/",
-    "time": "2026-08-23T03:10:07.000Z"
   },
   {
     "cat": "economia",
@@ -72,92 +184,12 @@
     "time": "2026-08-23T03:00:42.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governador mexicano acusado de narcotráfico pelos EUA pede licença do cargo",
-    "d": "Movimentação de Rubén Rocha acontece um dia após ele reassumir o cargo, depois de mais de três meses afastado",
-    "link": "https://www.cnnbrasil.com.br/internacional/governador-mexicano-acusado-de-narcotrafico-pelos-eua-pede-licenca-do-cargo/",
-    "time": "2026-08-23T02:54:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Polícia Civil investiga ‘ranking sexual’ em universidade no interior de SP",
-    "d": "Seis vítimas foram identificadas e cinco estudantes de Psicologia da Unoeste são suspeitos de criar e compartilhar o material",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-civil-investiga-ranking-sexual-em-universidade-no-interior-de-sp/",
-    "time": "2026-08-23T02:14:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tarcísio chama Flávio de “herdeiro” do projeto de Bolsonaro",
-    "d": "Declaração ocorre dias depois de governador admitir possibilidade de disputar a Presidência no futuro e de Flávio dizer que poderia ser um “presidente de transição”",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tarcisio-chama-flavio-de-herdeiro-do-projeto-de-bolsonaro/",
-    "time": "2026-08-23T02:00:59.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Swedish sword attack victim was 17-year-old girl, police say",
-    "d": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+    "h": "Girl, 17, killed in Swedish sword attack, police say",
+    "d": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
     "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T01:34:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Manchester City x Bournemouth: horário e onde assistir à Premier League",
-    "d": "Equipes entram em campo neste domingo (23) pela primeira rodada do Campeonato Inglês",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-city-x-bournemouth-horario-e-onde-assistir-a-premier-league-2/",
-    "time": "2026-08-23T01:30:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cruzeiro vira sobre Flamengo e mantém Palmeiras na liderança do Brasileirão",
-    "d": "Equipes se enfrentaram na noite deste sábado (22)",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-vira-sobre-flamengo-e-mantem-palmeiras-na-lideranca-do-brasileirao/",
-    "time": "2026-08-23T01:27:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Robô chinês bate recorde de Usain Bolt nos 100 metros rasos",
-    "d": "Bolt detém o recorde mundial masculino da distância, com a marca de 9 segundos e 58",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/robo-chines-bate-recorde-de-usain-bolt-nos-100-metros-rasos/",
-    "time": "2026-08-23T00:54:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Festival de Cinema de Gramado 2026: veja os vencedores da 54ª edição",
-    "d": "Cerimônia da Mostra de Longas-Metragens Brasileiros acontece neste sábado (22)",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/festival-de-cinema-de-gramado-2026-veja-os-vencedores-da-54a-edicao/",
-    "time": "2026-08-23T00:49:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "LaLiga: Com gol de Bellingham, Real Madrid vence Espanyol de virada",
-    "d": "Galáticos estreiam com vitória em primeira partida da equipe no campeonato espanhol",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/laliga-com-gol-de-bellingham-real-madrid-vence-espanyol-de-virada/",
-    "time": "2026-08-23T00:33:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Festival de Gramado 2026: veja os famosos que cruzaram o tapete vermelho",
-    "d": "Cerimônia de premiação da Mostra de Longas-Metragens Brasileiros acontece neste sábado (22)",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/festival-de-gramado-2026-veja-os-famosos-que-cruzaram-o-tapete-vermelho/",
-    "time": "2026-08-23T00:16:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fluminense confirma Marcão como técnico até o final do ano",
-    "d": "Mattheus Montenegro fez pronunciamento após vitória do time carioca no Maracanã; treinador assumiu comando do time após a queda de Luis Zubeldia",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-confirma-marcao-como-tecnico-ate-o-final-do-ano/",
-    "time": "2026-08-23T00:14:20.000Z"
   },
   {
     "cat": "brasil",
@@ -238,14 +270,6 @@
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-22T20:54:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Carney say Trump started trade war with fresh tarrifs 'attack'",
-    "d": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-22T20:10:00.000Z"
   },
   {
     "cat": "internacional",
@@ -376,6 +400,14 @@
     "time": "2026-08-22T10:50:41.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Laptop catches fire on US flight, with passenger treated at airport",
+    "d": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+    "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-22T10:27:25.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Soldados nascidos na Ucrânia e capturados contam à BBC por que lutaram pela Rússia",
@@ -446,38 +478,6 @@
     "d": "Carne suína Reprodução/TV TEM A combinação de sobreoferta de animais e demanda enfraquecida, registrada na segunda quinzena de julho de 2026, ameaça o mercado paulista independente de suínos. O cenário fez o preço do…",
     "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/21/preco-do-suino-cai-para-o-3o-menor-patamar-da-historia-em-sp-sobreoferta-e-baixa-demanda-analisa-usp.ghtml",
     "time": "2026-08-21T21:37:35.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Após retomar conversas com os EUA, prioridade do Brasil é ampliar lista de exceções ao tarifaço, diz ministro",
-    "d": "Ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, durante o programa “Bom Dia, Ministro”, na EBC Júlio César Silva/MDIC O ministro do Desenvolvimento, Indústria e Comércio, Márcio Elias R…",
-    "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/21/apos-retomar-conversas-com-os-eua-prioridade-do-brasil-e-ampliar-lista-de-excecoes-ao-tarifaco-diz-ministro.ghtml",
-    "time": "2026-08-21T21:12:57.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "One killed in sword attack at Swedish school",
-    "d": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-    "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-21T21:03:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "ANPD inicia monitoramento de redes sociais e ferramentas de IA para avaliar proteção de crianças e mulheres",
-    "d": "Criança no celular Canva A Agência Nacional de Proteção de Dados (ANPD) abriu, nesta sexta-feira (21), duas ações de fiscalização que envolvem 22 serviços digitais, entre eles redes sociais, plataformas de inteligênci…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/21/anpd-monitoramento-redes-sociais-ferramentas-de-iaprotecao-criancas-mulheres.ghtml",
-    "time": "2026-08-21T20:13:59.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Durigan diz que crise da Casas Bahia não indica problema geral na economia: 'Não há'",
-    "d": "Dario: 'Oposição quer trazer tema como crise' Em entrevista a Julia Duailibi e Fernando Nakagawa, no GloboNews Mais, o ministro da Fazenda, Dario Durigan, reconheceu nesta sexta-feira (21) que os juros elevados pressi…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/21/entrevista-dario-durigan.ghtml",
-    "time": "2026-08-21T19:43:55.000Z"
   },
   {
     "cat": "economia",
