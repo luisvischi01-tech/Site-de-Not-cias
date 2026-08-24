@@ -1,9 +1,233 @@
 [
   {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+    "d": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducte…",
+    "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+    "time": "2026-08-24T14:19:14.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Access to Zambian courts prevented as election petition deadline looms",
+    "d": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+    "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T14:02:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ameba “comedora de cérebro” mata menina de oito anos nos EUA",
+    "d": "Lilian Smart foi infectada ao nadar em lago próximo à sua casa, no norte da Louisiana",
+    "link": "https://www.cnnbrasil.com.br/internacional/ameba-comedora-de-cerebro-mata-menina-de-oito-anos-nos-eua/",
+    "time": "2026-08-24T14:00:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Palmeiras renova com zagueiro Gustavo Gómez até 2030",
+    "d": "Capitão e jogador com mais títulos na história do clube, zagueiro paraguaio estendeu contrato e seguirá no Verdão por mais quatro temporadas",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-renova-com-zagueiro-gustavo-gomez-ate-2030/",
+    "time": "2026-08-24T13:57:33.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Donald Trump anuncia tarifa de 50% sobre automóveis e aço para o Canadá",
+    "d": "Novas taxas devem entrar em vigor em 1° de janeiro de 2027; anúncio foi feito via publicação na Truth Social, rede social do presidente norte-americano",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/donald-trump-anuncia-tarifa-de-50-sobre-automoveis-e-aco-para-o-canada/",
+    "time": "2026-08-24T13:56:29.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
-    "h": "Tesla faz recall de milhões de carros na China por motivos de segurança",
-    "d": "Robotáxi da Tesla em Austin, no Texas. Joel Angel Juarez/Reuters A Tesla decidiu fazer um recall de quase 3 milhões de carros na China por causa de um problema que pode dificultar a saída de pessoas do veículo em caso…",
+    "h": "Galípolo vê risco em avanço de crédito sem garantia e alerta para endividamento das famílias",
+    "d": "Galípolo e Durigan comentam política monetária durante evento em São Paulo O presidente do Banco Central, Gabriel Galípolo, alertou nesta segunda-feira (24) para o avanço de modalidades de crédito caras e sem garantia…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/24/galipolo-febraban-tech.ghtml",
+    "time": "2026-08-24T13:54:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Suspeito se veste de merendeira para tentar fugir de operação no Rio",
+    "d": "Homem tentou despistar policiais durante ação nas comunidades Pombo sem Asa e Cascatinha, na região das Vargens, mas acabou preso",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/suspeito-se-veste-de-merendeira-para-tentar-fugir-de-operacao-no-rio/",
+    "time": "2026-08-24T13:54:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gigante petroquímica e crise ambiental: Relembre a história da Braskem",
+    "d": "Empresa teve entrada de pedido de recuperação extrajudicial aprovada por Conselho de Administração nesta segunda-feira (24)",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/gigante-petroquimica-e-crise-ambiental-relembre-a-historia-da-braskem/",
+    "time": "2026-08-24T13:51:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Especialista analisa crise no varejo: “Quem se preparou está bem”",
+    "d": "Em entrevista ao CNN Agora, Claudio Damasceno analisa recuperação judicial da Casas Bahia e aponta problemas societários, endividamento e falta de adaptação tecnológica como causas",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/especialista-analisa-crise-no-varejo-quem-se-preparou-esta-bem/",
+    "time": "2026-08-24T13:47:33.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Trump anuncia tarifas de 50% sobre produtos do Canadá em 2027",
+    "d": "O presidente dos Estados Unidos, Donald Trump, em 6 de agosto de 2026 REUTERS/Evelyn Hockstein O presidente dos Estados Unidos, Donald Trump, anunciou nesta segunda-feira (24) que as tarifas sobre carros, caminhões, a…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml",
+    "time": "2026-08-24T13:42:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Reino Unido permite que Ucrânia acesse tecnologia de mísseis secretos",
+    "d": "Rússia reagiu com indignação ao anúncio; porta-voz Dmitry Peskov afirmou que britânicos estão \"jogando lenha na fogueira\"",
+    "link": "https://www.cnnbrasil.com.br/internacional/reino-unido-permite-que-ucrania-acesse-tecnologia-de-misseis-secretos/",
+    "time": "2026-08-24T13:42:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cortes de renováveis no Nordeste somam 32,7 GW no fim de semana",
+    "d": "Restrições chegaram a 12,4 GW no sábado e 20,3 GW no domingo; ONS também acionou plano emergencial para conter excedente de geração",
+    "link": "https://www.cnnbrasil.com.br/infra/cortes-de-renovaveis-no-nordeste-somam-327-gw-no-fim-de-semana/",
+    "time": "2026-08-24T13:39:26.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Desastre em Maceió, dívida alta e queda no setor: o caminho da Braskem até a recuperação extrajudicial",
+    "d": "Justiça do Trabalho determina que Braskem pague plano de saúde de químico diagnosticado com leucemia na Bahia Divulgação/Braskem A decisão da Braskem de recorrer à recuperação extrajudicial marca o capítulo mais recen…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/24/desastre-em-maceio-divida-alta-e-queda-no-setor-o-caminho-da-braskem-ate-a-recuperacao-extrajudicial.ghtml",
+    "time": "2026-08-24T13:39:25.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "d": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T13:35:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Acidentes com helicópteros do Exército dos EUA registram índices históricos",
+    "d": "Boletim oficial das Forças americanas sobre segurança de voo informou que pouco mais da metade dos acidentes com Apache ocorridos este ano deve-se principalmente a falhas humanas",
+    "link": "https://www.cnnbrasil.com.br/internacional/acidentes-com-helicopteros-do-exercito-dos-eua-registram-indices-historicos/",
+    "time": "2026-08-24T13:32:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rússia diz que age para minimizar impacto de ataques ucranianos sobre grãos",
+    "d": "Presidente ucraniano diz que a Rússia “não está pronta” para um cessar-fogo envolvendo navios de grãos",
+    "link": "https://www.cnnbrasil.com.br/agro/russia-diz-que-age-para-minimizar-impacto-de-ataques-ucranianos-sobre-graos/",
+    "time": "2026-08-24T13:31:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Danilo Mesquita, suposto novo affair de Anitta",
+    "d": "Ator e cantora foram clicados recentemente em clima de romance",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-danilo-mesquita-suposto-novo-affair-de-anitta/",
+    "time": "2026-08-24T13:29:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Membro do BCE considera risco de estagflação decorrente da crise em Ormuz",
+    "d": "Em entrevista à site italiano, Piero Cipollone, afirmou que é precisao acompanhar as mudanças no ambiente macroeconômico, mas que ainda não há sinais que confirmem cenário",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/membro-do-bce-considera-risco-de-estagflacao-decorrente-da-crise-em-ormuz/",
+    "time": "2026-08-24T13:23:51.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Free flow: CNH do Brasil passa a exibir passagens e como pagar o pedágio eletrônico",
+    "d": "Free flow do Contorno Sul da Rodovia dos Tamoios Divulgação/Tamoios O Ministério dos Transportes atualizou, nesta segunda-feira (24), o aplicativo CNH do Brasil. Com a mudança, a plataforma passa a reunir informações…",
+    "link": "https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml",
+    "time": "2026-08-24T13:23:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Conheça a Braskem, gigante petroquímica que vai entrar com pedido de recuperação extrajudicial no Brasil",
+    "d": "Logo da Braskem no complexo de Triunfo REUTERS/Diego Vara A Braskem, uma das maiores petroquímicas do país, anunciou nesta segunda-feira (24) que vai entrar com um pedido de recuperação extrajudicial para reestruturar…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/24/conheca-a-braskem-recuperacao-extrajudicial.ghtml",
+    "time": "2026-08-24T13:14:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Sonya Massey's killer Sean Grayson dies in US prison",
+    "d": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T13:14:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os documentos que mostram como Juscelino Kubitschek esteve na mira dos EUA durante a ditadura",
+    "d": "Para historiadores, o governo americano mantinha os olhares atentos a JK porque ele era visto como uma liderança relevante caso o Brasil se redemocratizasse.",
+    "link": "https://www.bbc.com/portuguese/articles/cy5dvqz354po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T12:47:05.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Nova Zelândia apresentará projeto de lei que proíbe redes sociais para menores de 16 anos",
+    "d": "Jovem usa o celular em Sidney, na Austrália; país aprovou lei que proíbe acesso de menores de 16 anos às redes sociais Hollie Adams/Reuters O primeiro-ministro da Nova Zelândia, Christopher Luxon, disse nesta segunda-…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/24/nova-zelandia-apresentara-projeto-de-lei-que-proibe-redes-sociais-para-menores-de-16-anos.ghtml",
+    "time": "2026-08-24T12:35:53.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "New Zealand to introduce bill for under-16s social media ban",
+    "d": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+    "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T12:17:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE precisa acabar com dúvidas sobre uso de inteligência artificial antes do início do horário eleitoral, defendem ministros",
+    "d": "A cinco dias do início do horário eleitoral gratuito, ministros do Tribunal Superior Eleitoral (TSE) defendem que a Corte acabe com as dúvidas sobre o uso de inteligência artificial (IA) nas eleições deste ano. A reso…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/24/tse-precisa-acabar-com-duvidas-sobre-uso-de-inteligencia-artificial-antes-do-inicio-do-horario-eleitoral-defendem-ministros.ghtml",
+    "time": "2026-08-24T12:06:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar abre em alta, com cenário eleitoral no Brasil e guerra no Oriente Médio no radar",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta segunda-feira (24) em alta, com um avanço de 0,06% perto das 9h, cotado a R$ 5,1468. Já as negociações do Ibovespa, principal índice da bol…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/24/dolar-ibovespa.ghtml",
+    "time": "2026-08-24T12:00:23.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+    "d": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
+    "link": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+    "time": "2026-08-24T11:53:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Braskem diz que vai pedir recuperação extrajudicial por dívida de R$ 56 bilhões",
+    "d": "Justiça determina que Braskem prove que imóveis não foram afetados pela mineração A Braskem, uma das maiores petroquímicas do país, anunciou nesta segunda-feira (24) que vai entrar com pedido de recuperação extrajudic…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/24/com-dividas-de-mais-de-us-10-bilhoes-petroquimica-braskem-pede-recuperacao-extrajudicial-no-brasil.ghtml",
+    "time": "2026-08-24T11:52:48.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Tesla faz recall de 2,7 milhões de carros na China por motivos de segurança",
+    "d": "Tesla Model Y foi o carro mais vendido em 2024 Divulgação | Tesla A Tesla decidiu fazer um recall de 2,7 milhões de Model 3 e Model Y fabricados na China devido a problemas nos sistemas de monitoramento usados durante…",
     "link": "https://g1.globo.com/carros/noticia/2026/08/24/tesla-faz-recall-de-milhoes-de-carros-na-china-por-motivos-de-seguranca.ghtml",
     "time": "2026-08-24T11:42:03.000Z"
   },
@@ -16,76 +240,12 @@
     "time": "2026-08-24T11:40:49.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Borra de café no vaso sanitário realmente elimina odores? Entenda",
-    "d": "Prática popular promete neutralizar odores e reduzir umidade, mas exige atenção quanto ao acúmulo de resíduos na tubulação",
-    "link": "https://www.cnnbrasil.com.br/ciencia/borra-de-cafe-no-vaso-sanitario-realmente-elimina-odores-entenda/",
-    "time": "2026-08-24T11:29:53.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Guinea rubbish landfill collapse kills 31",
     "d": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
     "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-24T11:26:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-    "d": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-24T11:25:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eneva vende R$2,4 bi em debêntures, sendo metade ao BTG Pactual",
-    "d": "\"Os recursos serão utilizados integralmente para a execução do ‌plano de liability management da companhia\", acrescentou a empresa",
-    "link": "https://www.cnnbrasil.com.br/infra/eneva-vende-r24-bi-em-debentures-sendo-metade-ao-btg-pactual/",
-    "time": "2026-08-24T11:20:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gabriela Duarte expõe incômodo sobre entrevista com a mãe: “Deselegante”",
-    "d": "Atriz deu entrevista com Regina Duarte sobre nova peça e teve cortes viralizados focados no posicionamento político da veterana",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/gabriela-duarte-expoe-incomodo-sobre-entrevista-com-a-mae-deselegante/",
-    "time": "2026-08-24T11:20:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fabinho é anunciado pelo Trabzonspor e reencontra Salah na Turquia",
-    "d": "Volante brasileiro de 32 anos assinou com o clube turco nesta segunda-feira (24) após deixar o futebol saudita sem custos",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/fabinho-e-anunciado-pelo-trabzonspor-e-reencontra-salah-na-turquia/",
-    "time": "2026-08-24T11:20:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bola do gol de mão de Maradona na Copa de 1986 é leiloada por R$ 17 milhões",
-    "d": "Casa de leilão dos Estados Unidos esperava vender o item por pelo menos R$ 50 milhões",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/bola-do-gol-de-mao-de-maradona-na-copa-de-1986-e-leiloada-por-r-17-milhoes/",
-    "time": "2026-08-24T11:19:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Access to Zambian courts prevented as election petition deadline looms",
-    "d": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-    "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-24T11:17:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nexus/BTG: 49% rejeitam voto em Lula; 48%, em Flávio",
-    "d": "Foram entrevistados 2.006 eleitores, entre os dias 21 e 23 de agosto, e tem margem de erro de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-49-rejeitam-voto-em-lula-48-em-flavio/",
-    "time": "2026-08-24T11:14:37.000Z"
   },
   {
     "cat": "brasil",
@@ -104,52 +264,12 @@
     "time": "2026-08-24T11:08:27.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Mediador, Paquistão se reúne com Irã enquanto EUA ameaçam “Dia D econômico”",
-    "d": "Teerã rejeitou a ameaça americana, prometendo interromper todas as exportações de petróleo do Golfo \"se a guerra econômica continuar\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/mediador-paquistao-se-reune-com-ira-enquanto-eua-ameacam-dia-d-economico/",
-    "time": "2026-08-24T11:08:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chefe da McLaren exalta confiança de Norris: “Mais forte a cada corrida”",
-    "d": "Andrea Stella destaca evolução do atual campeão da F1 após vitória no GP da Holanda",
-    "link": "https://www.cnnbrasil.com.br/esportes/basquete/chefe-da-mclaren-exalta-confianca-de-norris-mais-forte-a-cada-corrida/",
-    "time": "2026-08-24T11:07:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nexus/BTG: avaliação negativa do governo Lula é de 43%; positiva, 35%",
-    "d": "Instituto entrevistou 2.006 eleitores, entre os dias 21 e 23 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/politica/nexus-btg-avaliacao-negativa-do-governo-lula-e-de-43-positiva-35/",
-    "time": "2026-08-24T11:05:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pesquisa revela que 19% de jovens da Geração Z no Brasil são fumantes",
-    "d": "Estudo aponta dado inédito sobre o uso de cigarros e vapes avança na faixa dos 16 aos 24 anos",
-    "link": "https://www.cnnbrasil.com.br/saude/pesquisa-revela-que-19-dos-jovens-brasileiros-sao-fumantes/",
-    "time": "2026-08-24T11:00:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Coleta de DNA de familiares de pessoas desaparecidas: veja como participar",
-    "d": "Campanha nacional, que começa nesta segunda-feira (24), acontece diante de cenário em que, somente no primeiro semestre de 2026, Brasil registrou mais de 40 mil desaparecimentos de pessoas",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/coleta-de-dna-de-familiares-de-pessoas-desaparecidas-veja-como-participar/",
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Top US firms that backed Voting Rights Act donate to groups working to undermine it",
+    "d": "Watchdog data shared with Guardian shows contributions to Republican Attorneys General Association and others Over a dozen US companies that signed a 2021 letter urging Congress to strengthen the Voting Rights Act con…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
     "time": "2026-08-24T11:00:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nexus/BTG: 49% desaprovam governo Lula; 48% aprovam",
-    "d": "Instituto entrevistou 2.006 eleitores, entre os dias 21 e 23 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/politica/nexus-btg-49-desaprovam-governo-lula-48-aprovam/",
-    "time": "2026-08-24T10:59:36.000Z"
   },
   {
     "cat": "economia",
@@ -162,7 +282,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Quem é Augusto Cury, o escritor que disputa as eleições de 2026 e quer 'aumentar a régua do debate'",
+    "h": "Quem é Augusto Cury, o escritor que disputa as eleições de 2026",
     "d": "Candidato criticou Renan Santos (Missão) por seus ataques aos eleitores de Lula e disse que 'agressividade' do adversário o 'assombrava'.",
     "link": "https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-24T10:42:58.000Z"
@@ -176,18 +296,10 @@
     "time": "2026-08-24T10:40:22.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "d": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-24T10:39:23.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "TRE-SP nega recurso de Pablo Marçal e o mantém inelegível até 2032, por irregularidade na campanha para prefeito de SP",
-    "d": "O candidato à Prefeitura de São Paulo, Pablo Marçal (PRTB), durante o debate para prefeito de São Paulo, em agosto de 2024. Daniel Teixeira/Estadão Conteúdo O presidente do Tribunal Regional Eleitoral de São Paulo (TR…",
+    "d": "TRE-SP nega recurso de Pablo Marçal e o mantém inelegível até 2032 O presidente do Tribunal Regional Eleitoral de São Paulo (TRE-SP), José Antonio Encinas Manfré, negou recursos especiais eleitorais apresentados pelo…",
     "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/24/tre-sp-nega-recurso-de-pablo-marcal-e-o-mantem-inelegivel-ate-2032-por-irregularidade-na-campanha-para-prefeito-de-sp.ghtml",
     "time": "2026-08-24T10:14:02.000Z"
   },
@@ -203,9 +315,17 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'",
-    "d": "Flávio Dino diz que indicação de 'emendas de liderança' é nula O Solidariedade afirma que respondeu ao (STF) sobre o uso de emendas parlamentares. Neste domingo (23), o ministro Flávio Dino determinou que Câmara e Sen…",
+    "d": "Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências' O partido Solidariedade afirmou ter respondido ao Supremo Tribunal Federal (STF) sobre o uso de emendas parlamentares. Neste do…",
     "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml",
     "time": "2026-08-24T10:00:57.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "The treasury bond mess: is this the demise of the US as a safe haven?",
+    "d": "The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Be…",
+    "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+    "time": "2026-08-24T10:00:30.000Z"
   },
   {
     "cat": "brasil",
@@ -222,6 +342,14 @@
     "d": "China-based retailer swung to $99m loss in first quarter and faces scrutiny over its environmental footprint Business live – latest updates Shein, which built a fast-fashion empire on what seemed like impossibly low p…",
     "link": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
     "time": "2026-08-24T08:57:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Four arrested over boxing champion's murder in South Africa",
+    "d": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+    "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T08:32:46.000Z"
   },
   {
     "cat": "internacional",
@@ -272,28 +400,12 @@
     "time": "2026-08-24T06:55:06.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Simples Nacional muda em 2027: empresas têm até setembro para escolher como pagar novos impostos",
-    "d": "O MEI deve fazer a declaração Anual do Simples Nacional (DASN-SIMEI) Divulgação/Sebrae Micro e pequenas empresas enquadradas no Simples Nacional terão uma nova decisão tributária para tomar ainda em 2026. Entre os dia…",
-    "link": "https://g1.globo.com/empreendedorismo/noticia/2026/08/24/simples-nacional-muda-em-2027.ghtml",
-    "time": "2026-08-24T06:00:45.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "China probes use of formaldehyde to keep cabbages fresh",
     "d": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
     "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-24T05:40:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "New Zealand to consider banning children under 16 from social media",
-    "d": "Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament t…",
-    "link": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
-    "time": "2026-08-24T05:22:19.000Z"
   },
   {
     "cat": "internacional",
@@ -304,36 +416,12 @@
     "time": "2026-08-24T05:01:17.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Google, Apple e mais: veja como é trabalhar nas empresas mais valiosas no mundo",
-    "d": "Veja as 10 profissões mais valorizadas da tecnologia Estar entre as empresas mais valiosas do mundo não significa automaticamente ser o melhor lugar para construir uma carreira. É o que mostra um estudo do Burning Gla…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/24/veja-como-e-trabalhar-nas-empresas-mais-valiosas-no-mundo.ghtml",
-    "time": "2026-08-24T05:00:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Como pesquisas militares dos EUA viraram base para os cães-robôs da China",
-    "d": "Cães-robôs sobem escadas em demonstração na China, em 21 de março de 2025 REUTERS/Florence Lo A chinesa Unitree Robotics, uma das maiores fabricantes de robôs humanoides e quadrúpedes do mundo, baseou o design de seus…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/24/como-pesquisas-militares-dos-eua-viraram-base-para-os-caes-robos-da-china.ghtml",
-    "time": "2026-08-24T05:00:15.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Debate da Band: os principais momentos do primeiro confronto entre candidatos à Presidência",
     "d": "Embate na Band, com apenas três postulantes, foi explorado por Renan Santos, do Missão, que usou 'agressividade' e 'estilo performático' para se apresentar como antissistema. Trio atacou Lula e Flávio.",
     "link": "https://www.bbc.com/portuguese/articles/cx2zgg90pnwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-24T04:37:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-    "d": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-24T03:55:35.000Z"
   },
   {
     "cat": "brasil",
@@ -401,14 +489,6 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Quem ganha e quem perde com a entrada de Pablo Marçal na disputa presidencial",
-    "d": "Para analistas ouvidos pela reportagem, a candidatura do influenciador é um fator 'desestabilizador' das eleições de 2026, que seguem polarizadas em torno de Lula e Flávio Bolsonaro",
-    "link": "https://www.bbc.com/portuguese/articles/cre4g2dvrvyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T23:01:38.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Em entrevista, Lula critica 2º escalão de Trump e diz que Lulinha terá que provar inocência: 'Ninguém está impune se cometeu erro'",
     "d": "Após ligação entre Lula e Trump, Brasil e EUA agendam reunião sobre tarifaço O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (23) que as conversas com o presidente dos Estados Unidos, Donald Trump, s…",
@@ -432,28 +512,12 @@
     "time": "2026-08-23T21:39:14.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira",
-    "d": "Pesquisa Datafolha divulgada neste domingo (23) mostra que, para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira. Nessa parcela, 32% acham que isso é um problema, e 18%, que não é. Vej…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-chance-interferirem-eleicao.ghtml",
-    "time": "2026-08-23T21:33:07.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
     "d": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has…",
     "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
     "time": "2026-08-23T19:32:59.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-    "d": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T19:11:30.000Z"
   },
   {
     "cat": "internacional",
@@ -465,27 +529,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena: aposta única de Santa Catarina ganha quase R$ 58 milhões; confira os números sorteados",
-    "d": "G1 | Loterias - Mega-Sena 3048 O sorteio do concurso da Mega-Sena foi realizado neste domingo (23), em São Paulo. Uma aposta única de Blumenau, em Santa Catarina, acertou os seis números e levou o prêmio de R$ 57.261.…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/23/mega-sena-concurso-3048-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-08-23T14:04:29.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
     "d": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” crisis because big datacenter builders su…",
     "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
     "time": "2026-08-23T14:00:34.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Basta': Trump reage a tarifas de retaliação do Canadá e aumenta tensão na guerra comercial",
-    "d": "EUA impõem tarifas de 50% sobre importações do Canadá após fracasso de negociações O presidente dos Estados Unidos, Donald Trump, elevou neste domingo (23) o tom contra o Canadá após o fracasso das negociações comerci…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/23/trump-diz-basta-em-reacao-as-tarifas-de-retaliacao-do-canada.ghtml",
-    "time": "2026-08-23T13:52:07.000Z"
   },
   {
     "cat": "comercio",
@@ -494,30 +542,6 @@
     "d": "O primeiro-ministro canadense abandonou negociações comerciais com a Casa Branca e anunciou que adotará retaliação contra tarifas americanas.",
     "link": "https://www.bbc.com/portuguese/articles/cre4e1w2g2eo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T13:23:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido",
-    "d": "Governo Trump conclui que Pix é 'injusto': por que sistema brasileiro incomoda tanto os EUA e o que pode acontecer com ele agora? Marcello Casal Jr/Agência Brasil Clientes de bancos brasileirosrelataram neste domigno…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/23/pix-fora-do-ar-clientes-de-bancos-relatam-instabilidade-do-servico.ghtml",
-    "time": "2026-08-23T11:35:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bovinos influenciadores: conheça a vaca Leide e o touro Xerife",
-    "d": "Leide se tornou influenciadora e garota propaganda Reprodução / TV TEM Sem leilão ou competição, a Leide e o Xerife ganharam reconhecimento de um jeito fora do convencional. Mais do que gado, eles são influenciadores…",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/bovinos-influenciadores-conheca-a-vaca-leide-e-o-touro-xerife.ghtml",
-    "time": "2026-08-23T10:30:22.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Variedade de uva italiana começa a ser produzida em São Roque",
-    "d": "Nebbiolo é uma variedade italiana que serve de base para inúmeros vinhos prestigiados ao redor do mundo. Reprodução / TV TEM O município de São Roque (SP) é um dos principais polos de produção de uva e vinho no estado…",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/variedade-de-uva-italiana-comeca-a-ser-produzida-em-sao-roque.ghtml",
-    "time": "2026-08-23T10:30:18.000Z"
   },
   {
     "cat": "brasil",
@@ -606,14 +630,6 @@
     "d": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western…",
     "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
     "time": "2026-08-20T00:14:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Five Americans among seven killed in safari helicopter crash in Kenya",
-    "d": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in…",
-    "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-    "time": "2026-08-19T20:17:39.000Z"
   },
   {
     "cat": "economia",
