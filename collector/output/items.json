@@ -1,5 +1,157 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+    "d": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T10:08:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'",
+    "d": "Flávio Dino diz que indicação de 'emendas de liderança' é nula O Solidariedade afirma que respondeu ao Supremo Tribunal Federal (STF) sobre o uso de emendas parlamentares. Neste domingo (23), o ministro Flávio Dino de…",
+    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml",
+    "time": "2026-08-24T10:00:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Segurança aérea: o maior desafio é criar normas mais inteligentes",
+    "d": "Em artigo à CNN, Betânia Miguel Teixeira Cavalcanti defende uma regulação baseada em distribuição de risco e desempenho, capaz de equilibrar segurança operacional, inovação tecnológica e eficiência das exigências",
+    "link": "https://www.cnnbrasil.com.br/infra/seguranca-aerea-o-maior-desafio-e-criar-normas-mais-inteligentes/",
+    "time": "2026-08-24T10:00:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Big Data: em SP, Flávio tem 38%, e Lula, 33% no 1º turno",
+    "d": "Foram ouvidas 2.000 pessoas em São Paulo entre os dias 19 e 22 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-em-sp-flavio-tem-38-e-lula-33-no-1o-turno/",
+    "time": "2026-08-24T10:00:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Senado SP: Derrite, Tebet, André do Prado e Marina empatam",
+    "d": "Pesquisa ouviu 2.000 eleitores entre os dias 19 e 22 de agosto; a margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-senado-sp-derrite-tebet-andre-do-prado-e-marina-empatam/",
+    "time": "2026-08-24T10:00:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cobrança em pátios de Miritituba pode acabar para caminhoneiros",
+    "d": "Parecer defende que terminais garantam gratuitamente banheiro, água, alimentação e espaço para descanso",
+    "link": "https://www.cnnbrasil.com.br/infra/cobranca-em-patios-de-miritituba-pode-acabar-para-caminhoneiros/",
+    "time": "2026-08-24T10:00:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time: Tarcísio venceria disputa em 1º turno, com 52%; Haddad tem 35%",
+    "d": "Pesquisa ouviu 2.000 eleitores entre os dias 19 e 22 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-tarcisio-tem-52-e-haddad-35-no-1o-turno-em-sp/",
+    "time": "2026-08-24T10:00:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nexus/BTG: no 2º turno, Lula tem empate técnico com Flávio e Caiado",
+    "d": "Instituto entrevistou 2.006 eleitores, entre os dias 21 e 23 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-no-2o-turno-lula-tem-empate-tecnico-com-flavio-e-caiado/",
+    "time": "2026-08-24T09:52:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dorival Júnior vê derrota do São Paulo como “inadmissível”",
+    "d": "Técnico demonstra insatisfação com o desempenho da equipe contra Chapecoense e cobra resposta imediata",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/dorival-junior-ve-derrota-do-sao-paulo-como-inadmissivel/",
+    "time": "2026-08-24T09:49:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Operação em Paraisópolis causa prejuízo de meio milhão ao crime organizado",
+    "d": "Imóvel usado para armazenar, preparar e fracionar drogas foi localizado durante ação do CAEP; policiais apreenderam cocaína, crack, maconha, lança-perfume e materiais utilizados pelo tráfico",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-em-paraisopolis-causa-prejuizo-de-meio-milhao-ao-crime-organizado/",
+    "time": "2026-08-24T09:22:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como derretimento de gelo na Groenlândia faz baleias migrarem para áreas antes inacessíveis",
+    "d": "O derretimento do gelo marinho causado pelas mudanças climáticas abriu caminho para que baleias gigantes realizem \"frenesi alimentar\" na região.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2dwze1kgxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T09:12:51.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Guinea rubbish landfill collapse kills 31",
+    "d": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T09:03:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após 12 anos, risco de obesidade sobe; especialistas explicam a Dr. Kalil",
+    "d": "Especialistas alertam para o papel dos ultraprocessados e dos aplicativos de entrega no aumento da obesidade infantil após os 12 anos",
+    "link": "https://www.cnnbrasil.com.br/saude/apos-12-anos-risco-de-obesidade-sobe-especialistas-explicam-a-dr-kalil/",
+    "time": "2026-08-24T09:00:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO",
+    "d": "China-based retailer swung to $99m loss in first quarter and faces scrutiny over its environmental footprint Business live – latest updates Shein, which built a fast-fashion empire on what seemed like impossibly low p…",
+    "link": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+    "time": "2026-08-24T08:57:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EUA atacam suposto barco de drogas no Pacífico pela 1ª vez em dois meses",
+    "d": "Operação deixou dois mortos e ocorre após uma pausa nos ataques contra embarcações no Caribe e no Pacífico Oriental, iniciados em setembro de 2025",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-atacam-suposto-barco-de-drogas-no-pacifico-pela-1a-vez-em-dois-meses/",
+    "time": "2026-08-24T08:55:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Receita apreende R$135 mil em “emagrecedores” escondidos em pneu no PR",
+    "d": "Apreensão do produto Tirzepatida ocorreu na fronteira do Brasil com o Paraguai, em Foz do Iguaçu; medicamento estava escondido no pneu estepe de um veículo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/receita-apreende-r135-mil-em-emagrecedores-escondidos-em-pneu-no-pr/",
+    "time": "2026-08-24T08:51:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Four arrested over boxing champion's murder in South Africa",
+    "d": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+    "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T08:32:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "King of Norway's health has worsened, palace says",
+    "d": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+    "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T08:31:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições",
+    "d": "Senador não foi ao primeiro debate presidencial, que aconteceu na noite de domingo (23/8) na Band, mas fez comentários nas redes sociais.",
+    "link": "https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T08:14:16.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
     "h": "O 'segundo aluguel' está mais caro: condomínio sobe acima da inflação e pesa até 40% do aluguel",
@@ -17,75 +169,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CNH do Brasil passa a mostrar passagens em pedágios free flow nesta segunda",
-    "d": "Nova modalidade elimina cancelas e cabines físicas e libera o trânsito dos veículos",
-    "link": "https://www.cnnbrasil.com.br/auto/cnh-do-brasil-passa-a-mostrar-passagens-em-pedagios-free-flow-nesta-segunda/",
-    "time": "2026-08-24T08:00:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fulham x Chelsea: horário e onde assistir ao jogo da Premier League",
-    "d": "Equipes entram em campo nesta segunda-feira (24) pela primeira rodada do Campeonato Inglês",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/fulham-x-chelsea-horario-e-onde-assistir-ao-jogo-da-premier-league-2/",
-    "time": "2026-08-24T08:00:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Unesp abre pedidos para isenção e redução de 50% da taxa de inscrição",
-    "d": "Vestibular reúne 5.850 vagas em 24 cidades no estado de São Paulo",
-    "link": "https://www.cnnbrasil.com.br/educacao/unesp-abre-pedidos-para-isencao-e-reducao-de-50-da-taxa-de-inscricao/",
-    "time": "2026-08-24T08:00:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Queridinhas”: anúncios em redes sociais promovem emagrecedores ilegais",
-    "d": "“Canetas” com remédio para emagrecer tem publicidade com linguagem popular e grupos no Whatsapp com venda de remédios e orientações para o contrabando",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/queridinhas-anuncios-em-redes-sociais-promovem-emagrecedores-ilegais/",
-    "time": "2026-08-24T08:00:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Premiê britânico visita Ucrânia com plano para apoiar a produção de mísseis",
-    "d": "Viagem acontece nesta segunda-feira (24) e deve ser a primeira viagem de Andy Burnham ao exterior desde que assumiu o cargo",
-    "link": "https://www.cnnbrasil.com.br/internacional/premie-britanico-visita-ucrania-com-plano-para-apoiar-a-producao-de-misseis/",
-    "time": "2026-08-24T08:00:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda a Lei Antifacção e o que muda no combate ao crime organizado",
-    "d": "Marco legal endurece penas, cria novos crimes e amplia mecanismos de bloqueio e confisco de bens; STF discute constitucionalidade de dispositivos nesta segunda (24)",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/entenda-a-lei-antifaccao-e-o-que-muda-no-combate-ao-crime-organizado/",
-    "time": "2026-08-24T07:30:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula é orientado a diferenciar situações de Lulinha e Marcola",
-    "d": "Avaliação é de que indícios contra o ex-assessor devem ser expostos como mais graves do que as suspeitas em relação ao filho",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-e-orientado-a-diferenciar-situacoes-de-lulinha-e-marcola/",
-    "time": "2026-08-24T07:30:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Inscrições para isenção de taxa da Fatec começam nesta segunda-feira (24)",
-    "d": "Aplicação da prova geral está prevista para ocorrer no dia 13 de dezembro deste ano",
-    "link": "https://www.cnnbrasil.com.br/educacao/inscricoes-para-isencao-de-taxa-da-fatec-comecam-nesta-segunda-feira-24/",
-    "time": "2026-08-24T07:30:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "IA generativa ainda não gera retorno para maioria das empresas, diz estudo",
-    "d": "Consultoria afirma que, após o período inicial de experimentação, a maioria das organizações vê desaceleração nos ganhos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/ia-generativa-ainda-nao-gera-retorno-para-maioria-das-empresas-diz-estudo/",
-    "time": "2026-08-24T07:25:07.000Z"
+    "src": "BBC News Brasil",
+    "h": "Lula diz que Lulinha deve ser investigado e punido se tiver cometido erros",
+    "d": "Presidente falou sobre investigações contra o filho em entrevista à TV Record enquanto debate presidencial do qual se ausentou acontecia na Band.",
+    "link": "https://www.bbc.com/portuguese/articles/c93vpgw3n4xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-24T07:45:45.000Z"
   },
   {
     "cat": "brasil",
@@ -94,22 +182,6 @@
     "d": "Com debate esvaziado, analistas ouvidos pela BBC News Brasil não enxergam um vencedor nítido; mas dizem que Renan Santos conseguiu aproveitar espaço para se fazer mais conhecido.",
     "link": "https://www.bbc.com/portuguese/articles/cdj0jj12deeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-24T07:21:26.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Varejistas derretem na Bolsa enquanto juros altos pressionam empresas",
-    "d": "Ações das principais companhias do setor, como Americanas e Casas Bahia, acumulam quedas próximas de 100% desde o início de 2020",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/varejistas-derretem-na-bolsa-enquanto-juros-altos-pressionam-empresas/",
-    "time": "2026-08-24T07:16:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quatro pessoas estão desaparecidas após fortes chuvas atingirem Taiwan",
-    "d": "Sistema de baixa pressão provoca alagamentos, fecha escolas e repartições e deixa autoridades em alerta para a chegada de um ciclone",
-    "link": "https://www.cnnbrasil.com.br/internacional/pessoas-estao-desaparecidas-apos-fortes-chuvas-atingirem-taiwan/",
-    "time": "2026-08-24T07:02:07.000Z"
   },
   {
     "cat": "internacional",
@@ -201,14 +273,6 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-    "d": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 Septemb…",
-    "link": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-    "time": "2026-08-24T04:02:59.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
     "d": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
@@ -288,14 +352,6 @@
     "time": "2026-08-23T23:01:38.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "Só Renan Santos, Caiado e Augusto Cury vão ao debate da Band: os confrontos ainda importam?",
-    "d": "Os dois candidatos que lideram as pesquisas de intenção de voto não devem ir ao debate, nem Romeu Zema. Cortes para redes são alvo buscado por participantes",
-    "link": "https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T22:57:52.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Em entrevista, Lula critica 2º escalão de Trump e diz que Lulinha terá que provar inocência: 'Ninguém está impune se cometeu erro'",
@@ -328,14 +384,6 @@
     "time": "2026-08-23T21:33:07.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como um magnata excêntrico que tinha leão como animal de estimação se tornou o homem mais rico do mundo",
-    "d": "O americano Jean Paul Getty dava festas luxuosas com milhares de convidados e era conhecido por excentricidades.",
-    "link": "https://www.bbc.com/portuguese/articles/c304emj4jngo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T19:45:58.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
@@ -352,28 +400,12 @@
     "time": "2026-08-23T19:11:30.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Guinea rubbish landfill collapse kills 30",
-    "d": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T18:17:37.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Zelensky precisa ser questionado sobre corrupção no seu governo, diz ministro demitido na Ucrânia",
     "d": "Mykhailo Fedorov também pediu a realização de eleições em tempos de guerra na Ucrânia.",
     "link": "https://www.bbc.com/portuguese/articles/cvg0gl7gl3jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-23T18:12:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "France links sharp rise in drownings to heatwaves",
-    "d": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T17:39:33.000Z"
   },
   {
     "cat": "internacional",
@@ -424,44 +456,12 @@
     "time": "2026-08-23T13:23:51.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-    "d": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T12:56:43.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "DR Congo and M23 rebels agree roadmap for peace talks",
-    "d": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-    "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T12:52:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ministério Público Eleitoral não vê irregularidade na foto de Lula com chapéu na urna",
-    "d": "MPE não vê irregularidade em foto de Lula na urna O Ministério Público Eleitoral (MPE) afirmou ao Tribunal Superior Eleitoral (TSE) que não vê irregularidade na foto escolhida pelo presidente Luiz Inácio Lula da Silva…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/23/ministerio-publico-eleitoral-nao-ve-irregularidade-na-foto-de-lula-com-chapeu-na-urna.ghtml",
-    "time": "2026-08-23T11:57:19.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido",
     "d": "Governo Trump conclui que Pix é 'injusto': por que sistema brasileiro incomoda tanto os EUA e o que pode acontecer com ele agora? Marcello Casal Jr/Agência Brasil Clientes de bancos brasileirosrelataram neste domigno…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/23/pix-fora-do-ar-clientes-de-bancos-relatam-instabilidade-do-servico.ghtml",
     "time": "2026-08-23T11:35:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Jejum intermitente: o que os influenciadores não te contam",
-    "d": "É muito difícil comprovar se o jejum intermitente realmente funciona, assim como acontece com outras mudanças de estilo de vida. Mas novas tecnologias podem ajudar a entender melhor o que funciona e o que não funciona.",
-    "link": "https://www.bbc.com/portuguese/articles/cvg8xnrlekwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-23T11:29:23.000Z"
   },
   {
     "cat": "economia",
@@ -622,13 +622,5 @@
     "d": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal, Microsoft…",
     "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
     "time": "2026-08-19T11:00:13.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Revealed: FCC chair Brendan Carr’s close coordination with White House and rightwing media",
-    "d": "Internal documents obtained by Guardian show White House meetings, scheduled calls with top Trump officials and communications with Fox News producers Continue reading...",
-    "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
-    "time": "2026-08-19T10:00:13.000Z"
   }
 ]
