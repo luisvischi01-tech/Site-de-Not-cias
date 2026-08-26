@@ -1,5 +1,165 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Dino amplia acesso da PF às provas do Dark Horse; investigadores avaliam concentrar apuração no STF",
+    "d": "Flávio Dino em sessão da Primeira Turma do STF Luiz Silveira/STF A decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), de autorizar a Polícia Federal (PF) a acessar integralmente o material apreendido…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/26/dino-amplia-acesso-da-pf-as-provas-do-dark-horse-investigadores-avaliam-concentrar-apuracao-no-stf.ghtml",
+    "time": "2026-08-26T11:28:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "MPT processa Uber em R$ 321 milhões por cobrar taxa de motoristas para trabalhar",
+    "d": "Motorista de aplicativo, app, Uber, 99 Maksim Goncharenok/Pexels O Ministério Público do Trabalho (MPT) ajuizou uma ação civil pública contra a Uber do Brasil para suspender o programa \"Passe para Motoristas\", que cob…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/26/mpt-processa-uber-por-cobrar-taxa-de-motoristas-para-trabalhar.ghtml",
+    "time": "2026-08-26T11:28:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Amazonas: No 2º turno, Flávio tem 43% e Lula, 41%",
+    "d": "Pesquisa entrevistou 1.600 eleitores, entre os dias 21 e 25 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-amazonas-no-2o-turno-flavio-tem-43-e-lula-41/",
+    "time": "2026-08-26T11:22:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time: Flávio tem 45% e Lula 39% no 2º turno no Tocantins",
+    "d": "Foram ouvidos 1.600 eleitores entre os dias 21 e 25 de agosto; a margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-flavio-tem-45-e-lula-39-no-2o-turno-no-tocantins/",
+    "time": "2026-08-26T11:16:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Larissa Manoela muda visual e marido rasga elogios: “Perfeita”",
+    "d": "Na última terça-feira (25), a atriz exibiu as novas madeixas longas com franjinha",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/larissa-manoela-muda-visual-e-marido-rasga-elogios-perfeita/",
+    "time": "2026-08-26T11:13:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rússia confirma visita de chefe de espionagem dos EUA a Moscou",
+    "d": "O diretor da CIA, John Ratcliffe, se encontrou nesta terça-feira (25) com autoridades do serviço de inteligência russo, mas Kremlin nega encontro com presidente Vladmir Putin",
+    "link": "https://www.cnnbrasil.com.br/internacional/russia-confirma-visita-de-chefe-de-espionagem-dos-eua-a-moscou/",
+    "time": "2026-08-26T11:11:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time AM: Alberto Neto lidera disputa ao Senado; 2ª vaga está em aberto",
+    "d": "Foram ouvidos 1.600 eleitores do estado do Amazonas entre os dias 21 e 25 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-am-alberto-neto-lidera-disputa-ao-senado-2a-vaga-esta-em-aberto/",
+    "time": "2026-08-26T11:06:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nepal: Terremoto provocou deslizamento, bloqueou rio e causou enchente",
+    "d": "USGS (Serviço Geológico dos Estados Unidos), que registra terremotos em todo o mundo, detectou um tremor de magnitude 4,4",
+    "link": "https://www.cnnbrasil.com.br/internacional/nepal-terremoto-provocou-deslizamento-bloqueou-rio-e-causou-enchente/",
+    "time": "2026-08-26T11:04:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+    "d": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+    "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T11:02:22.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Trump precisará da China para pressionar o Irã, mas apoio de Xi é incerto",
+    "d": "A segunda maior economia do mundo há muito tempo é uma importante linha de sustentação econômica para Teerã",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-precisara-da-china-para-pressionar-o-ira-mas-apoio-de-xi-e-incerto/",
+    "time": "2026-08-26T11:02:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Mpox is back – and in new countries. How can this outbreak be contained?",
+    "d": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – mean…",
+    "link": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+    "time": "2026-08-26T11:00:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Manchester City anuncia o meia Bouaddi, destaque de Marrocos na Copa",
+    "d": "Jogador de 18 anos, que estava no Lille, custou cerca de R$ 600 milhões ao clube inglês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-city-anuncia-o-meia-bouaddi-destaque-de-marrocos-na-copa/",
+    "time": "2026-08-26T10:59:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Presidente das Ligas Europeias diz que Infantino “não tem futuro” na Fifa",
+    "d": "Claudius Schaefer questiona permanência do suíço na presidência da Fifa e cobra reformas na entidade",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/presidente-das-ligas-europeias-diz-que-infantino-nao-tem-futuro-na-fifa/",
+    "time": "2026-08-26T10:59:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Novo “Homem-Aranha” supera “Vingadores: Ultimato” no Brasil",
+    "d": "Filme atinge marco histórico e se torna a maior arrecadação do cinema no país, desbancando o fenômeno da Marvel de 2019",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/novo-homem-aranha-supera-vingadores-ultimato-no-brasil/",
+    "time": "2026-08-26T10:55:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Anitta usa look grifado em estreia como conselheira do “Estrelas da Casa”",
+    "d": "Para participar da terceira temporada do reality show musical, a cantora investiu em um modelito branco da Schiaparelli",
+    "link": "https://www.cnnbrasil.com.br/style/moda/anitta-usa-look-grifado-em-estreia-como-conselheira-do-estrelas-da-casa/",
+    "time": "2026-08-26T10:54:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time: No Amazonas, Lula tem 40% e Flávio, 39%, no 1º turno",
+    "d": "Intituto entrevistou 1.600 eleitores, entre os dias 21 e 25 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-no-amazonas-lula-tem-40-e-flavio-39-no-1o-turno/",
+    "time": "2026-08-26T10:54:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+    "d": "Death toll of nine likely to rise as floods and mudslide sweep away houses, roads, bridges and power projects Torrential floods ⁠in the Himalayan border areas of ⁠Nepal and in ​Tibet in China have killed at least nine…",
+    "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+    "time": "2026-08-26T10:45:44.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 14 babies die in Pakistan hospital fire",
+    "d": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
+    "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T10:42:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Radiation link in flight attendant's breast cancer, French court finds",
+    "d": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T10:29:36.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Häagen-Dazs de saída do Brasil: os 4 motivos para o adeus da marca de sorvetes",
+    "d": "Marca de sorvetes Häagen-Dazs deixa de ser distribuída no Brasil após quase 30 anos Depois de quase 30 anos de operação no Brasil, a Häagen-Dazs vai deixar o país. A multinacional americana General Mills, dona da marc…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/26/haagen-dazs-de-saida-do-brasil-os-4-motivos-para-o-adeus-da-marca-de-sorvetes.ghtml",
+    "time": "2026-08-26T10:14:56.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
@@ -17,14 +177,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PM faz operação para impedir avanço do CV sobre áreas do TCP no Rio",
-    "d": "Informações de inteligência apontam para a realização de reuniões de integrantes do Comando Vermelho em comunidades da zona Norte para possível invasão no Complexo de Israel",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pm-faz-operacao-para-impedir-avanco-do-cv-sobre-areas-do-tcp-no-rio/",
-    "time": "2026-08-26T09:37:46.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Morre Dolly Parton: 'Esqueça os peitos, escute o que tenho a dizer', disse ela em 2023",
     "d": "A estrela da música morreu nesta terça-feira (25/8), aos 80 anos, informou comunicado divulgado pela família. Mais detalhes não foram divulgados.",
@@ -34,7 +186,7 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food",
+    "h": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
     "d": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school, Abiro Wisdom was certain of one thing – he did not wan…",
     "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
     "time": "2026-08-26T09:00:39.000Z"
@@ -48,6 +200,14 @@
     "time": "2026-08-26T08:32:56.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+    "d": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+    "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T08:17:45.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
     "h": "Golpistas avançam do roubo de senhas para o uso de IA para 'clonar' pessoas no Brasil, revela estudo",
@@ -56,12 +216,12 @@
     "time": "2026-08-26T08:04:17.000Z"
   },
   {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "VBP do Paraná bate recorde e chega a R$ 213 bilhões em 2025",
-    "d": "Avanço de 9% acima da inflação foi puxado por soja, milho e pecuária",
-    "link": "https://www.cnnbrasil.com.br/agro/vbp-do-parana-bate-recorde-e-chega-a-r-213-bilhoes-em-2025/",
-    "time": "2026-08-26T08:00:56.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+    "d": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T08:01:56.000Z"
   },
   {
     "cat": "brasil",
@@ -72,84 +232,20 @@
     "time": "2026-08-26T08:00:53.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras x Santos: horário e onde assistir às quartas da Copa do Brasil",
-    "d": "Equipes se enfrentam nesta quarta-feira (26), às 21h30",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-x-santos-horario-e-onde-assistir-as-quartas-da-copa-do-brasil/",
-    "time": "2026-08-26T08:00:35.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Indian jewellery ad pulled after backlash over actor's outfit",
+    "d": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T07:26:03.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "River Plate x Santa Fe: horário e onde assistir ao jogo da Sul-Americana",
-    "d": "Equipes se enfrentam nesta quarta-feira (26), na Argentina, pelo duelo de volta das oitavas de final da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/river-plate-x-santa-fe-horario-e-onde-assistir-ao-jogo-da-sul-americana/",
-    "time": "2026-08-26T08:00:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dionne Warwick compartilha memória ao lembrar da prima, Whitney Houston",
-    "d": "Em entrevista à CNN Brasil, cantora mencionou curiosidade ligada à estrela, que faleceu em 2012",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/dionne-warwick-compartilha-memoria-ao-lembrar-da-prima-whitney-houston/",
-    "time": "2026-08-26T08:00:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Revogação de vistos dos EUA já está em vigor na América Latina há meses",
-    "d": "Departamento de Estado americano adotou a medida contra autoridades latino-americanas em diversas ocasiões desde o início do mandato de Donald Trump",
-    "link": "https://www.cnnbrasil.com.br/internacional/revogacao-de-vistos-dos-eua-ja-esta-em-vigor-na-america-latina-ha-meses/",
-    "time": "2026-08-26T08:00:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vasco x Vitória: horário e onde assistir às quartas da Copa do Brasil",
-    "d": "Equipes se enfrentam nesta quarta-feira (26), às 21h30",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/vasco-x-vitoria-horario-e-onde-assistir-as-quartas-da-copa-do-brasil/",
-    "time": "2026-08-26T08:00:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PF mira caminho do dinheiro ao acessar planilha de filme sobre Bolsonaro",
-    "d": "Flávio Dino autorizou compartilhamento de dados da Polícia Civil de SP com a Polícia Federal para investigar financiamento do filme; Elijonas Maia detalha estratégia da PF",
-    "link": "https://www.cnnbrasil.com.br/politica/pf-mira-caminho-do-dinheiro-ao-acessar-planilha-de-filme-sobre-bolsonaro/",
-    "time": "2026-08-26T08:00:14.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Itaipu acumula US$ 1,67 bi e especialistas cobram alívio na conta de luz",
-    "d": "Recursos poderiam reduzir tarifas em 4%; binacional nega retenção e afirma que valor está vinculado ao orçamento até 2026",
-    "link": "https://www.cnnbrasil.com.br/infra/itaipu-acumula-us-167-bi-e-especialistas-cobram-alivio-na-conta-de-luz/",
-    "time": "2026-08-26T07:30:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Prouni 2026: inscrições para lista de espera abrem nesta quarta (26)",
-    "d": "O prazo termina na quinta-feira (27) e o procedimento deve ser feito de forma online",
-    "link": "https://www.cnnbrasil.com.br/educacao/prouni-2026-inscricoes-para-lista-de-espera-abrem-nesta-quarta-26/",
-    "time": "2026-08-26T07:30:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "STF deve retomar nesta quarta julgamento sobre poder de requisição do MP",
-    "d": "Integrantes do Ministério Público alertam que restrição pode prejudicar investigações ambientais e acesso de comunidades vulneráveis à Justiça",
-    "link": "https://www.cnnbrasil.com.br/politica/stf-deve-retomar-nesta-quarta-julgamento-sobre-poder-de-requisicao-do-mp/",
-    "time": "2026-08-26T07:15:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula deve se reunir com Alcolumbre e Motta para avançar taxa das blusinhas",
-    "d": "Prioridade neste momento é discutir o fim da MP que perde a validade em 8 de setembro; 6x1 e PEC da Segurança Pública também devem entrar em pauta",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-deve-se-reunir-com-alcolumbre-e-motta-para-avancar-taxa-das-blusinhas/",
-    "time": "2026-08-26T07:05:46.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+    "d": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T07:01:45.000Z"
   },
   {
     "cat": "brasil",
@@ -248,7 +344,7 @@
     "time": "2026-08-26T03:00:46.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Eleições 2026: presidenciáveis defendem contas em ordem para baixar juro e estimular economia, mas não detalham propostas",
     "d": "Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado e Romeu Zema: candidatos à Presidência da República Divulgação Os candidatos à Presidência da República nas eleições de outubro identificam em seus planos de govern…",
@@ -270,6 +366,14 @@
     "d": "Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacu…",
     "link": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
     "time": "2026-08-26T01:46:25.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+    "d": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-26T01:32:07.000Z"
   },
   {
     "cat": "economia",
@@ -302,6 +406,14 @@
     "d": "Vírus é transmitido principalmente pela picada de mosquitos infectados; entenda sintomas, diagnóstico, tratamento, risco de casos graves e o que se sabe sobre a circulação da doença no Brasil",
     "link": "https://www.bbc.com/portuguese/articles/clyely5exwro?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-25T22:23:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says all mines cleared from Strait of Hormuz",
+    "d": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-25T21:23:41.000Z"
   },
   {
     "cat": "brasil",
@@ -361,22 +473,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Mass arrests in global crackdown on West African cyber-crime networks",
-    "d": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T19:30:37.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
-    "d": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super M…",
-    "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-    "time": "2026-08-25T19:02:42.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
     "d": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight ‘A massacre’: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped…",
@@ -384,28 +480,12 @@
     "time": "2026-08-25T17:35:16.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Arrecadação federal soma R$ 289 bilhões em julho, novo recorde para o mês",
-    "d": "A arrecadação do governo federal com impostos, contribuições e demais receitas somou R$ 289,3 bilhões em julho deste ano, informou nesta terça-feira (25) a Receita Federal. O resultado representa um aumento real de 9%…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/25/arrecadacao-federal-soma-r-289-bilhoes-em-julho-novo-recorde-para-o-mes.ghtml",
-    "time": "2026-08-25T16:55:38.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Two unvaccinated people die of measles in Pennsylvania",
-    "d": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T16:43:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nigeria's president orders manhunt after kidnappers upload victim video",
-    "d": "The footage shows dozens of men, women and children sitting in a forest.",
-    "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T16:40:11.000Z"
+    "h": "Germany's Merz warns attackers will 'pay price' after drone incident",
+    "d": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+    "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-25T17:12:21.000Z"
   },
   {
     "cat": "economia",
@@ -414,30 +494,6 @@
     "d": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last week US politics live – latest updates Canada has announced it will impose tariffs on a wide ra…",
     "link": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
     "time": "2026-08-25T16:17:44.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Embraer certifica jato que pousa sozinho; modelo é o mais veloz e de maior alcance do mundo",
-    "d": "Phenom 300EV certificado triplo. Divulgação/Embraer O Phenom 300EV, da Embraer, foi aprovado por agências e se tornou o primeiro jato leve certificado com o sistema Garmin Emergency Autoland, que permite à aeronave re…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/25/embraer-certifica-jato-que-pousa-sozinho-modelo-e-o-mais-veloz-e-de-maior-alcance-do-mundo.ghtml",
-    "time": "2026-08-25T16:15:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "European rights court orders Turkey to free imprisoned businessman",
-    "d": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T15:58:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Swedish military seeks to take over Russian-owned estate near naval base",
-    "d": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T15:18:50.000Z"
   },
   {
     "cat": "economia",
@@ -454,30 +510,6 @@
     "d": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes Don’t already get First Thing in your inbox? Sig…",
     "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
     "time": "2026-08-25T12:31:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Brain disease in dead NFL players 'higher than previously shown'",
-    "d": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
-    "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T11:54:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Lockerbie bombing trial postponed days before it was due to start",
-    "d": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T11:54:03.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-    "d": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T11:53:36.000Z"
   },
   {
     "cat": "brasil",
@@ -520,28 +552,12 @@
     "time": "2026-08-25T09:03:29.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-    "d": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-    "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T08:52:17.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os vídeos de IA que erotizam história brutal do Brasil e têm milhões de visualizações no YouTube",
     "d": "Investigação da BBC News Brasil identificou ao menos 150 canais que publicam histórias fictícias de desejo e violência sexual passadas no período da escravidão para atrair visualizações e faturar com publicidade na pl…",
     "link": "https://www.bbc.com/portuguese/articles/c3r0194grx2o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-25T07:49:55.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "French tourist dies in Death Valley after car gets stuck in mud",
-    "d": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T02:08:57.000Z"
   },
   {
     "cat": "economia",
@@ -606,14 +622,6 @@
     "d": "The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Be…",
     "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
     "time": "2026-08-24T10:00:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Landslide at waste mound in Guinea capital kills 30, government says",
-    "d": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunda…",
-    "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-    "time": "2026-08-23T22:16:53.000Z"
   },
   {
     "cat": "economia",
