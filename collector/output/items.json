@@ -1,5 +1,77 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Conta de luz: ANEEL mantém bandeira tarifária amarela em setembro",
+    "d": "A bandeira tarifaria de setembro será amarela, anunciou a Agência Nacional de Energia Elétrica (Aneel) nesta sexta-feira (28). Isso representa um adicional de R$ 1,885 na conta de luz, a cada 100 quilowatts-hora (kWh)…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/28/aneel-bandeira-tarifaria-setembro.ghtml",
+    "time": "2026-08-28T21:56:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Aneel mantém bandeira amarela para contas de luz no mês de setembro",
+    "d": "Bandeira tarifária indica cobrança adicional na conta de luz de R$ 1,885 a cada 100 kWh consumidos",
+    "link": "https://www.cnnbrasil.com.br/infra/aneel-bandeira-tarifaria-setembro-2026/",
+    "time": "2026-08-28T21:55:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Equador condena ex-presidente em caso de suborno envolvendo hidrelétrica",
+    "d": "Lenín Moreno foi investigado sobre a construção da maior usina do país; esposa e filhas também foram condenadas",
+    "link": "https://www.cnnbrasil.com.br/internacional/equador-condena-ex-presidente-em-caso-de-suborno-envolvendo-hidreletrica/",
+    "time": "2026-08-28T21:54:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
+    "d": "Nepali disaster authority confirms jump of more than 400 in total of those unaccounted for, with 584 deaths confirmed in Nepal and five in Tibet Flood rescue efforts resume Visual guide: how the deadly flooding unfold…",
+    "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+    "time": "2026-08-28T21:53:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estreia de Vozinha no Colo-Colo quebra recorde de audiência no Chile",
+    "d": "Goleiro de Cabo Verde ajudou a partida a alcançar a maior audiência da Copa do Chile na temporada",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/estreia-de-vozinha-no-colo-colo-quebra-recorde-de-audiencia-no-chile/",
+    "time": "2026-08-28T21:53:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: veja todos os candidatos à Presidência da República",
+    "d": "Cargos Presidente - BR O Brasil tem 13 candidatos registrados para disputar a Presidência da República nas eleições de 2026, segundo dados do Tribunal Superior Eleitoral (TSE). O 1º turno da votação será realizado em…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-veja-todos-os-candidatos-a-presidencia-da-republica.ghtml",
+    "time": "2026-08-28T21:50:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Festival hindu transforma celebrações após enchentes repentinas no Nepal",
+    "d": "Comemorações do Teej terão como objetivo homenagear e apoiar vítimas das inundações",
+    "link": "https://www.cnnbrasil.com.br/internacional/festival-hindu-transforma-celebracoes-apos-enchentes-repentinas-no-nepal/",
+    "time": "2026-08-28T21:46:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Robô chinês realiza a 3 mil km de distância cirurgia de remoção total da próstata em Goiás",
+    "d": "Procedimento foi primeira prostatectomia realizada por meio de telecirurgia em Goiás e teve conexão remota com Santigo, no Chile, através do sistema cirúrgico robótico Toumai",
+    "link": "https://www.cnnbrasil.com.br/saude/robo-chines-realiza-a-3-mil-km-de-distancia-cirurgia-de-remocao-total-da-prostata-em-goias/",
+    "time": "2026-08-28T21:40:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Influenciador de direita Milo Yiannopoulos é detido pelo ICE nos EUA",
+    "d": "Figura de destaque do conservadorismo, ele entrou no país legalmente em 2019, mas permaneceu além do prazo, de acordo com informações do governo americano",
+    "link": "https://www.cnnbrasil.com.br/internacional/influenciador-de-direita-milo-yiannopoulos-e-detido-pelo-ice-nos-eua/",
+    "time": "2026-08-28T21:33:45.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Berlin is being blackmailed by hackers, mayor says",
@@ -8,12 +80,28 @@
     "time": "2026-08-28T21:29:01.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
-    "d": "Nepali disaster authority confirms jump of more than 400 in total of those unaccounted for, with 584 deaths confirmed in Nepal and five in Tibet Flood rescue efforts resume Visual guide: how the deadly flooding unfold…",
-    "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
-    "time": "2026-08-28T21:25:47.000Z"
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Inmet emite alerta de perigo para chuva e ventos intensos na Região Sul",
+    "d": "Previsão é de ventos de até 100km/h, precipitação de 50 e 100 mm/dia e queda de granizo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/inmet-emite-alerta-de-perigo-para-chuva-e-ventos-intensos-na-regiao-sul/",
+    "time": "2026-08-28T21:26:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Spaten Fight Night 3: horário e onde assistir às lutas",
+    "d": "Com presença de campeãs olímpicas, evento acontece neste sábado (29), em São Paulo",
+    "link": "https://www.cnnbrasil.com.br/esportes/lutas/spaten-fight-night-3-horario-e-onde-assistir-as-lutas/",
+    "time": "2026-08-28T21:25:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Equipes de resgate enfrentam dificuldades no Tibete após enchentes",
+    "d": "Mais de 500 pessoas estão desaparecidas na região e a ameaça de novas inundações continua",
+    "link": "https://www.cnnbrasil.com.br/internacional/equipes-de-resgate-enfrentam-dificuldades-no-tibete-apos-enchentes/",
+    "time": "2026-08-28T21:24:51.000Z"
   },
   {
     "cat": "brasil",
@@ -22,6 +110,30 @@
     "d": "Embora pareça uma tendência recente, a obsessão por parecer interessante sem muito esforço está longe de ser nova.",
     "link": "https://www.bbc.com/portuguese/articles/cp3056gnw5no?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-28T21:18:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio tem reunião marcada com ministro de Bukele para discutir segurança",
+    "d": "Encontro com Gustavo Villatoro deve ter a presença de Guilherme Derrite, ex-secretário de SP; candidato tem buscado interlocução com diferentes setores",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-tem-reuniao-marcada-com-ministro-de-bukele-para-discutir-seguranca/",
+    "time": "2026-08-28T21:17:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem são os candidatos ao Senado por Alagoas em 2026",
+    "d": "Eleitores devem escolher entre sete nomes para representar o estado no Congresso Nacional",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-por-alagoas-em-2026/",
+    "time": "2026-08-28T21:16:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trigo sobe 3,06% em Chicago e acumula alta de 19,25% em quatro semanas",
+    "d": "Cotações atingem maior nível em três anos, com restrições no Mar Negro entre os principais fatores de sustentação do mercado.",
+    "link": "https://www.cnnbrasil.com.br/agro/trigo-sobe-306-em-chicago-e-acumula-alta-de-1925-em-quatro-semanas/",
+    "time": "2026-08-28T21:13:59.000Z"
   },
   {
     "cat": "brasil",
@@ -304,14 +416,6 @@
     "time": "2026-08-28T14:18:53.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Augusto Cury propõe mandato de 8 anos no STF e expansão de polícias municipais",
-    "d": "Augusto Cury, candidato à Presidência pelo Avante, em sabatina no O Globo, Valor e CBN Reprodução O candidato do Avante à Presidência da República, Augusto Cury, defendeu nesta sexta-feira (28) o fim da vitaliciedade…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/augusto-cury-sabatina-oglobo-cbn-valor.ghtml",
-    "time": "2026-08-28T14:16:04.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Oslo mayor calls off wedding ceremony after death of Norway's king",
@@ -358,14 +462,6 @@
     "d": "Quem são os bilionários brasileiros mais jovens na lista da Forbes Reprodução Os cinco bilionários brasileiros mais jovens da lista da Forbes têm entre 21 e 28 anos e pertencem à mesma família. Todos são herdeiros da…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/28/quem-sao-os-bilionarios-brasileiros-mais-jovens-na-lista-da-forbes.ghtml",
     "time": "2026-08-28T12:33:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ibovespa sobe pela 8ª vez seguida e acumula alta de 2,7% na semana, apesar de fala do chefe do Fed",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,66% nesta sexta-feira (28), cotado a R$ 5,1959. O Ibovespa avançou 0,30%, aos 175.665 pontos, na contramão das bolsas de Nova York. O índice…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/28/dolar-ibovespa.ghtml",
-    "time": "2026-08-28T12:00:05.000Z"
   },
   {
     "cat": "internacional",
