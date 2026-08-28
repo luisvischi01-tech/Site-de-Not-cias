@@ -1,275 +1,531 @@
 [
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Banco do Brasil inicia renegociação de dívidas rurais hoje",
-    "d": "Medida, baseada na MP 1.376, abrange 113 mil clientes e um volume de até R$ 100 bilhões para o setor agropecuário",
-    "link": "https://www.cnnbrasil.com.br/agro/banco-do-brasil-inicia-renegociacao-de-dividas-rurais-hoje/",
-    "time": "2026-08-26T14:23:56.000Z"
+    "src": "G1",
+    "h": "Vídeos: Tralli e Renata entrevistam Lula, candidato à reeleição pelo PT",
+    "d": "<img src=\"https://s2-g1.glbimg.com/LLlWbofY7MAq6SMKr6g7apWiQbg=/s01.video.glbimg.com/deo/vi/98/87/14908798\" /><br />",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-lula-candidato-a-reeleicao-pelo-pt.ghtml",
+    "time": "2026-08-28T00:29:29.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Uefa proíbe Liverpool e Real Madrid de jogarem em Anfield; saiba o motivo",
-    "d": "Regra da entidade europeia impede que o mesmo confronto se repita por três temporadas seguidas com o mesmo mando de campo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/uefa-proibe-liverpool-e-real-madrid-de-jogarem-em-anfield-saiba-o-motivo/",
-    "time": "2026-08-26T14:23:19.000Z"
+    "h": "Equipes da ONU abrem caminho “à força” para chegar às vítimas no Nepal",
+    "d": "Subsecretário para Assuntos Humanitários anunciou ajuda de US$ 2 milhões, incluindo água, kits médicos e abrigos de emergência",
+    "link": "https://www.cnnbrasil.com.br/internacional/equipes-da-onu-abrem-caminho-a-forca-para-chegar-as-vitimas-no-nepal/",
+    "time": "2026-08-28T00:08:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula, candidato à reeleição pelo PT, concede entrevista à Globo",
+    "d": "Presidente Lula, que tenta a reeleição Globo/ Manoella Mello O candidato do PT à Presidência da República, Luiz Inácio Lula da Silva, concede nesta quinta-feira (27) entrevista à Globo. Conduzem o programa os jornalis…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/lula-entrevista-globo.ghtml",
+    "time": "2026-08-28T00:07:07.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena 3050 acumula e prêmio vai a R$ 30 milhões; confira os números sorteados",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.050 da Mega-Sena foi realizado na noite desta quinta-feira (27), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 23,3 milhões. No enta…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/27/mega-sena-concurso-3050-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-08-28T00:02:26.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Trump diz que líder do Irã está ferido, não morto",
-    "d": "Em entrevista, o presidente norte-americano pôs em dúvida se iranianos podem provocar mudança de regime e comentou a ida do diretor da CIA para Moscou",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-lider-do-ira-esta-ferido-nao-morto/",
-    "time": "2026-08-26T14:23:08.000Z"
+    "h": "“João Fonseca estará à disposição”, diz técnico do Brasil na Copa Davis",
+    "d": "Time brasileiro foi convocado para o duelo contra a Suíça, em setembro, no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-estara-a-disposicao-diz-tecnico-do-brasil-na-copa-davis/",
+    "time": "2026-08-27T23:58:36.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Meta fecha acordo de R$ 86 bilhões em processo sobre vício em redes sociais",
-    "d": "Pagamento também resolve acusações envolvendo escândalo Cambridge Analytica",
-    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/meta-fecha-acordo-de-r-86-bilhoes-em-processo-sobre-vicio-em-redes-sociais/",
-    "time": "2026-08-26T14:18:12.000Z"
+    "h": "Primeira estimativa do Deral aponta safra maior de soja no Paraná",
+    "d": "Departamento projeta 22,6 milhões de toneladas para 2026/27, um aumento de 4% se o clima for favorável",
+    "link": "https://www.cnnbrasil.com.br/agro/deral-ve-leve-alta/",
+    "time": "2026-08-27T23:55:57.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Limão com pasta de dente: veja truque caseiro para limpar máquina de lavar",
-    "d": "Misturar itens do dia a dia pode facilitar a remoção de sujeiras mais difíceis do eletrodoméstico",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/limao-com-pasta-de-dente-veja-truque-caseiro-para-limpar-maquina-de-lavar/",
-    "time": "2026-08-26T14:17:18.000Z"
+    "h": "‘Dedo de Ferro’: homens testam potência na Alemanha em competição secular utilizando somente um dos dedos da mão",
+    "d": "Uma das curiosidades das competições da federação bávara é que apenas homens podem participar nas disputas de adultos",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/dedo-de-ferro-homens-testam-potencia-na-alemanha-em-competicao-secular-utilizando-somente-um-dos-dedos-da-mao/",
+    "time": "2026-08-27T23:52:20.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Ponte Preta: elenco critica diretoria, entra em greve e paralisa atividades",
-    "d": "Time paulista tem compromisso marcado para domingo (30), contra o América, em Belo Horizonte",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/ponte-preta-elenco-critica-diretoria-entra-em-greve-e-paralisa-atividades/",
-    "time": "2026-08-26T14:14:29.000Z"
+    "h": "Etanol nos carros flex patina e impacta mercado de açúcar, diz Datagro",
+    "d": "Consultoria aponta que benefícios do biocombustível são mascarados por política de preços da gasolina e falta de comunicação",
+    "link": "https://www.cnnbrasil.com.br/agro/opcao-por-etanol-nos/",
+    "time": "2026-08-27T23:50:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Casal desaparece em inundação após realizar peregrinação no Nepal",
+    "d": "Uday e Kripa Shivamurthy, residente em Sydney, viajaram ao país para um evento espiritual de três semanas no Monte Kailash",
+    "link": "https://www.cnnbrasil.com.br/internacional/casal-desaparece-em-inundacao-apos-realizar-peregrinacao-no-nepal/",
+    "time": "2026-08-27T23:43:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "2ª temporada de “Outlander: Sangue do Meu Sangue” ganha trailer; assista",
+    "d": "Obra que retrata acontecimentos anteriores ao da série original chega 18 de setembro no streaming",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/2a-temporada-de-outlander-sangue-do-meu-sangue-ganha-trailer-assista/",
+    "time": "2026-08-27T23:42:22.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Governo anuncia imposto de exportação do petróleo a partir de 8 de setembro",
+    "d": "Gecex prorrogou por 60 dias a cobrança da alíquota de 12% sobre a exportação de petróleo e justificou como \"medida de defesa comercial\"",
+    "link": "https://www.cnnbrasil.com.br/infra/governo-retoma-imposto-de-exportacao-do-petroleo-a-partir-de-8-de-setembro/",
+    "time": "2026-08-27T23:40:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest/ES: Casagrande lidera corrida ao Senado; 2º voto tem empate sêxtuplo",
+    "d": "Pesquisa ouviu 804 eleitores, entre 23 e 26 de agosto; margem de erro é de 3 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-es-casagrande-lidera-corrida-ao-senado-2o-voto-tem-empate-sextuplo/",
+    "time": "2026-08-27T23:39:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia Civil apreende adolescente por estupro coletivo de menina submetida ao ‘tribunal do tráfico’",
+    "d": "Jovem de 13 anos foi vítima em São João de Meriti; criminoso foi capturado em Nova Iguaçu",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-civil-apreende-adolescente-por-estupro-coletivo-de-menina-submetida-ao-tribunal-do-trafico/",
+    "time": "2026-08-27T23:39:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Ricardo Ferraço lidera no 1° e 2° turnos no ES",
+    "d": "Foram ouvidas 804 pessoas entre os dias 23 e 26 de agosto; margem de erro é de três pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-ricardo-ferraco-lidera-no-1-e-2-turnos-no-es/",
+    "time": "2026-08-27T23:35:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro diz que vai se encontrar com ministro de Bukele no domingo",
+    "d": "Flávio Bolsonaro durante live nesta quinta-feira (27) Reprodução Flávio Bolsonaro (PL) disse que vai se encontrar com Gustavo Villatoro, ministro da Justiça de El Salvador, no domingo (30). A informação foi divulgada…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/flavio-bolsonaro-ministro-bukele.ghtml",
+    "time": "2026-08-27T23:34:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CNN entrevista Cleitinho Azevedo, candidato ao governo de MG; assista",
+    "d": "Candidato iniciou carreira política como vereador em 2016, foi eleito deputado estadual em 2018 e senador em 2022",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/cnn-entrevista-cleitinho-azevedo-candidato-ao-governo-de-mg-assista/",
+    "time": "2026-08-27T23:30:34.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump signs order to rename Lake Ontario as Lake America",
+    "d": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T23:14:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em SE: Lula, 53%; Flávio Bolsonaro 19%",
+    "d": "Lula e Flávio Bolsonaro Montagem/g1 Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a disputa pela Presidência da República no 1º turno entre os eleitores de Sergipe. O levantamento foi encomendado…",
+    "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/27/quaest-se-presidente-27-de-agosto.ghtml",
+    "time": "2026-08-27T23:13:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Tralli e Renata entrevistam Lula, candidato à reeleição pelo PT",
+    "d": "Tralli e Renata entrevistam Lula, candidato à reeleição pelo PT Renata Vasconcellos e César Tralli entrevistam os candidatos à Presidência da República entre os dias 24 e 29 de agosto.. O programa é transmitido ao viv…",
+    "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente.ghtml",
+    "time": "2026-08-27T23:03:15.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Meta é denunciada após fazer ação publicitária sobre Instagram em frente a escolas",
+    "d": "Campanha da Meta sobre recurso do Instagram para adolescentes Reprodução A Meta foi denunciada nesta quinta-feira (27) ao Ministério Público de São Paulo depois de realizar ações publicitárias em frente a escolas da c…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/27/meta-denuncia-instagram-escolas.ghtml",
+    "time": "2026-08-27T23:01:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Trump signs executive order to rename Lake Ontario as Lake America",
+    "d": "Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the move US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal gover…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+    "time": "2026-08-27T22:55:04.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "What we know about deadly Nepal-Tibet floods",
+    "d": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T22:54:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro aciona TSE contra Lula por uso do Palácio da Alvorada em período eleitoral",
+    "d": "Flávio Bolsonaro (PL) e Lula (PT) g1 A equipe jurídica do candidato à Presidência Flávio Bolsonaro (PL) entrou com uma ação no Tribunal Superior Eleitoral (TSE) contra o presidente Lula (PT), que disputa a reeleição.…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/flavio-tse-lula-alvorada.ghtml",
+    "time": "2026-08-27T22:49:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em Roraima: Flávio Bolsonaro, 52%; Lula, 17%",
+    "d": "Flávio Bolsonaro (PL) e Lula (PT) g1 Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a disputa pela Presidência da República no 1º turno entre os eleitores de Roraima. O levantamento foi encomendado…",
+    "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/27/quaest-roraima-presidente-27-agosto.ghtml",
+    "time": "2026-08-27T22:48:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em Roraima: 48% aprovam e 35% desaprovam governo de Soldado Sampaio",
+    "d": "Soldado Sampaio (Republicanos), candidato ao governo de Roraima nas eleições de outubro de 2026 Ascom Soldado Sampaio/Divulgação Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a avaliação do govern…",
+    "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/27/quaest-roraima-avaliacao-governo-27-agosto.ghtml",
+    "time": "2026-08-27T22:45:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no AC: 57% desaprovam e 36% aprovam governo Lula",
+    "d": "Governo de Lula tem 57% de desaprovação no A Ricardo Stuckert Pesquisa Quaest divulgada nesta quinta-feira (27) mostra a aprovação e avaliação do governo Lula no Acre. O levantamento foi encomendado pela Rede Amazônic…",
+    "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-avaliacao-lula-27-agosto.ghtml",
+    "time": "2026-08-27T22:43:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em SE: 66% aprovam e 23% desaprovam governo de Fábio",
+    "d": "Quaest em SE: 66% aprovam e 23% desaprovam governo de Fábio Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a avaliação do governo de Sergipe e os índices de aprovação e desaprovação. O levantamento…",
+    "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/27/quaest-se-avaliacao-governo-27-de-agosto.ghtml",
+    "time": "2026-08-27T22:41:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado no AC: Gladson, 19%; Márcio, 14%; Mara, 12%; Jorge, 12%",
+    "d": "Quaest: veja os números para o Senado no AC Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a disputa pelo Senado no Acre. O levantamento foi encomendado pela Rede Amazônica. Em 2026, serão eleitos…",
+    "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-senado-27-agosto.ghtml",
+    "time": "2026-08-27T22:38:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado em SE: Delegado André David, 11%; Rogério Carvalho, 11%; André Moura, 9%; Delegado Alessandro, 8%",
+    "d": "Quaest: veja como está a disputa pelo Senado em Sergipe Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a disputa pelo Senado em Sergipe. O levantamento foi encomendado pela TV Sergipe. Em 2026, ser…",
+    "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/27/quaest-para-o-senado-em-se-delegado-andre-david-11percent-rogerio-carvalho-11percent-andre-moura-9percent-delegado-alessandro-8percent.ghtml",
+    "time": "2026-08-27T22:36:51.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Enchentes no Nepal e no Tibete: o que se sabe sobre a tragédia que deixou mortos e centenas de desaparecidos",
-    "d": "Enchente repentina na fronteira entre Nepal e Tibete deixa ao menos 31 mortos e centenas de desaparecidos, incluindo quase 400 viajantes; autoridades apontam terremoto seguido de avalanche como possível causa.",
+    "h": "Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete",
+    "d": "Às vésperas das eleições, investigações da Polícia Federal apuram suspeitas de tráfico de influência envolvendo o filho mais velho de Lula e o ex-chefe de gabinete do Presidente",
+    "link": "https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T22:10:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Nepal confirma 389 mortes e busca mais de 900 desaparecidos em meio a risco de nova enchente",
+    "d": "Enchente repentina na fronteira entre Nepal e Tibete deixa mais de 300 mortos e centenas de desaparecidos, incluindo turistas de várias nacionalidades. Cerca de 24h após o desastre, equipes de resgate correm contra o…",
     "link": "https://www.bbc.com/portuguese/articles/ce3rz25qeqdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T14:14:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula pavimenta acordo para suspender taxa das blusinhas",
-    "d": "Analista de Política da CNN Clarissa Oliveira explica, ao Live CNN, que governo federal articula com presidentes da Câmara e do Senado a aprovação da medida provisória que elimina a cobrança",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-pavimenta-acordo-para-suspender-taxa-das-blusinhas/",
-    "time": "2026-08-26T14:12:49.000Z"
+    "time": "2026-08-27T21:29:42.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "'Passam até 6h por dia na academia': por que cada vez mais meninos querem ficar musculosos",
-    "d": "O especialista em transtornos da imagem corporal Roberto Olivardia aborda os motivos por que cada vez mais meninos e jovens ficam obcecados pela prática de exercícios e pela formação de músculos.",
-    "link": "https://www.bbc.com/portuguese/articles/cq5xdv9w5weo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T14:10:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Geladeira com mau cheiro? Conheça 3 soluções rápidas e econômicas para resolver o problema",
-    "d": "Existem dicas que podem evitar que o eletrodoméstico fique sujo e com odor desagradável",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/geladeira-com-mau-cheiro-conheca-3-solucoes-rapidas-e-economicas-para-resolver-o-problema/",
-    "time": "2026-08-26T14:10:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
-    "d": "More than 380 tourists among those unaccounted for after homes, roads, bridges and power plants swept away At least 95 people have died and hundreds are missing after flash floods ⁠hit the Himalayan border areas of ⁠N…",
-    "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-    "time": "2026-08-26T14:07:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mini bar e banheiro gigante: como é voo de luxo de Ana Siebert para China?",
-    "d": "Nas redes sociais, a influenciadora compartilhou detalhes do espaço; veja fotos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/mini-bar-e-banheiro-gigante-como-e-voo-de-luxo-de-ana-siebert-para-china/",
-    "time": "2026-08-26T14:07:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump precisa adotar uma postura dura com a China, mas evita fazer isso",
-    "d": "Apesar de ser principal parceira comercial de Teerã, Pequim tem sido poupada de sanções secundárias cruciais dos EUA",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-precisa-adotar-uma-postura-dura-com-a-china-mas-reluta-em-fazer-isso/",
-    "time": "2026-08-26T14:05:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bill Gates quer que países monitorem riscos biológicos da IA",
-    "d": "Empresário propõe que nações monitorem potencial da inteligência artificial para produzir partículas perigosas ou realizar ataques biológicos",
-    "link": "https://www.cnnbrasil.com.br/internacional/bill-gates-inteligencia-artificial-biologicos/",
-    "time": "2026-08-26T14:02:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "AngloGold retoma planta de ouro em MG após investir R$ 105 milhões",
-    "d": "Reativação da unidade de Queiroz, em Nova Lima, amplia capacidade de processamento das operações brasileiras",
-    "link": "https://www.cnnbrasil.com.br/infra/anglogold-retoma-planta-de-ouro-em-mg-apos-investir-r-105-milhoes/",
-    "time": "2026-08-26T14:01:35.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-    "d": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-    "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T13:55:22.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
-    "d": "It is thought to be part of efforts to consolidate the former coup leader's control.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T13:49:55.000Z"
+    "h": "Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ",
+    "d": "Após segurar proposta, Alcolumbre faz as pazes com Lula e acelera análise da PEC no Senado",
+    "link": "https://www.bbc.com/portuguese/articles/c804l54z3p0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T21:09:24.000Z"
   },
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Meta vai pagar R$ 86 bilhões em acordo por alegações de vício de crianças em redes sociais nos EUA",
-    "d": "Logo da Meta. Daniel Cole/Reuters A Meta, dona do Instagram, Facebook e WhatsApp, concordou em pagar cerca de US$ 16,68 bilhões (cerca de R$ 86,7 bilhões), no total, a alguns estados dos EUA em um acordo judicial rela…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/meta-vai-pagar-us-bilhoes-em-acordo-por-alegacoes-de-vicio-de-criancas-em-redes-sociais-nos-eua.ghtml",
-    "time": "2026-08-26T13:41:32.000Z"
+    "h": "Jatinho sai da pista e cancela voos no Santos Dumont: saiba os direitos dos passageiros",
+    "d": "Voo atrasado ou cancelado: veja quais são os direitos dos passageiros Um avião de pequeno porte saiu da pista na tarde desta quinta-feira (27) no Aeroporto Santos Dumont, no Centro do Rio. Até as 20h58, 15 chegadas fo…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/27/voos-cancelados-direitos-dos-passageiros.ghtml",
+    "time": "2026-08-27T21:07:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+    "d": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
+    "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T20:39:16.000Z"
   },
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA",
+    "d": "Sem a cirurgia cerebral, Rhys Hibbert poderia ter perdido a visão por causa de um tumor.",
+    "link": "https://www.bbc.com/portuguese/articles/cpq0dze4wxlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T20:11:39.000Z"
+  },
+  {
+    "cat": "economia",
     "src": "G1",
-    "h": "Pesquisas reforçam aposta da campanha de Lula na aprovação das PECs do fim da escala 6x1 e da Segurança Pública",
-    "d": "Os resultados das novas pesquisas estaduais da Quaest divulgados nesta quarta-feira (26), que apontam um cenário de estabilização das intenções de voto do presidente Luiz Inácio Lula da Silva (PT) e uma oscilação posi…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/26/pesquisas-reforcam-aposta-da-campanha-de-lula-na-aprovacao-das-pecs-do-fim-da-escala-6x1-e-da-seguranca-publica.ghtml",
-    "time": "2026-08-26T13:41:07.000Z"
+    "h": "Meta só pagará o valor integral de multa se YouTube e TikTok também fecharem acordo nos EUA; entenda",
+    "d": "Meta fecha acordo judicial de US$ 16,6 bilhões nos Estados Unidos A Meta, dona de Instagram, Facebook e WhatsApp, fechou um acordo para pagar US$ 18 bilhões (cerca de R$ 92,9 bilhões) a estados americanos para encerra…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/27/meta-so-pagara-o-valor-integral-de-multa-se-youtube-e-tiktok-tambem-fecharem-acordo-nos-eua-entenda.ghtml",
+    "time": "2026-08-27T20:06:16.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Do Habib's às Casas Bahia, por que tantas empresas estão quebrando no Brasil?",
+    "d": "O ministro da Fazenda, Dario Durigan, nega que razão para a alta de recuperações judiciais seja somente as taxas de juros EPA-Shutterstock Habib's, Casas Bahia, Marabraz, Braskem, Raízen, Oncoclínicas, Grupo Toki (Tok…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/27/do-habib-s-as-casas-bahia-por-que-tantas-empresas-estao-quebrando-no-brasil.ghtml",
+    "time": "2026-08-27T19:32:15.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Contas do governo registraram um superávit primário de R$ 10,8 bilhões em julho",
+    "d": "As contas do governo federal registraram um superávit primário de R$ 10,8 bilhões em julho, informou Tesouro Nacional nesta quinta-feira (27). O acumulado do ano é de déficit. (Veja mais detalhes) 🔎 O déficit primári…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/27/contas-do-governo-registraram-um-superavit-primario-de-r-108-bilhoes-em-julho-informou-tesouro-nacional.ghtml",
+    "time": "2026-08-27T19:15:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "BBC News Brasil",
+    "h": "Do Habib's às Casas Bahia, por que tantas empresas estão quebrando no Brasil?",
+    "d": "Além das taxas de juros, erros de gestão, como expansão e cortes mal calculados são apontados como motivos da alta de recuperações empresariais, na Justiça ou fora dela.",
+    "link": "https://www.bbc.com/portuguese/articles/czjz794k8v7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T19:11:42.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Justiça do DF suspende imposto de exportação de 12% sobre petróleo; arrecadação já chega a R$ 7,9 bilhões",
+    "d": "A Justiça Federal do Distrito Federal suspendeu, provisoriamente, nesta quinta-feira (27) a cobrança de 12% de Imposto de Exportação sobre óleo bruto de petróleo e minerais betuminosos. 🔎Minerais betuminosos são roch…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/27/justica-federal-do-df-suspende-imposto-de-exportacao-de-12percent-sobre-petroleo.ghtml",
+    "time": "2026-08-27T18:58:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que a Uefa se prepara para processar criminalmente presidente da Fifa, Gianni Infantino",
+    "d": "Entidade está movendo uma ação contra o presidente da Fifa, Gianni Infantino, por causa do plano, já abandonado, de vender participações na Copa do Mundo",
+    "link": "https://www.bbc.com/portuguese/articles/c8r6llnz7e2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T18:03:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Norwegians lay flowers at palace as King Harald's condition worsens",
+    "d": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T17:42:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Gestão Trump negocia com governo interino da Venezuela para assumir parte das reservas de petróleo do país, diz site",
+    "d": "Tanques com o logo da PDVSA em refinaria em Curaçao Andres Martinez Casares/Reuters A gestão Trump está conversando com o governo interino da Venezuela para assumir uma participação acionária nas enormes reservas de p…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/08/27/gestao-trump-conversa-com-governo-interino-da-venezuela-para-assumir-parte-das-reservas-de-petroleo-do-pais-diz-site.ghtml",
+    "time": "2026-08-27T17:13:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Two killed in 'domestic violence incident' at school near Berlin",
+    "d": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital.",
+    "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T17:07:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+    "d": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T17:05:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Brasil assina acordo para ampliar comércio com a Índia enquanto aguarda retomada de negociação para reduzir tarifaço dos EUA",
+    "d": "A Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil) e a Confederação da Indústria Indiana assinaram nesta quinta-feira (27) um memorando de entendimento para aproximar os setores produtivos do…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/27/brasil-assina-acordo-para-ampliar-comercio-com-a-india-enquanto-aguarda-retomada-de-negociacao-para-reduzir-tarifaco-dos-eua.ghtml",
+    "time": "2026-08-27T16:48:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
+    "d": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
+    "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T16:00:12.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "OpenAI abre operação no Brasil após país se tornar 3º maior mercado do ChatGPT",
+    "d": "O logotipo da OpenAI é visto em um telefone celular em frente a uma tela de computador que exibe a tela inicial do ChatGPT AP/Michael Dwyer, Arquivo A OpenAI anunciou nesta quinta-feira (27) o lançamento de uma operaç…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/27/openai-lanca-operacao-comercial-no-brasil.ghtml",
+    "time": "2026-08-27T15:27:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea",
+    "d": "Thai navy says ‘routine’ visit’ will allow personnel to rest and recuperate amid reports of poor conditions onboard The USS Abraham Lincoln aircraft carrier is set to make a temporary stop in Thailand next week as it…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit",
+    "time": "2026-08-27T15:05:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Jellyfish force partial shutdown of French nuclear plant",
+    "d": "It is the second consecutive year that jellyfish has forced the closure of the Gravelines power station in northern France.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T14:49:23.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Honda Prelude volta ao Brasil após 25 anos por R$ 380 mil; Senna já foi garoto-propaganda do esportivo",
+    "d": "Honda lança Prelude no Brasil Divulgação / Honda O Honda Prelude foi apresentado nesta quinta-feira (27) no Festival Interlagos 2026. As vendas começam hoje, por R$ 380 mil. O cupê volta ao mercado brasileiro após 25…",
+    "link": "https://g1.globo.com/carros/noticia/2026/08/27/honda-lanca-no-brasil-prelude-por-r-380-mil-ayrton-senna-ja-foi-garoto-propaganda-do-esportivo.ghtml",
+    "time": "2026-08-27T14:32:40.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vitória lidera ranking de cidades mais competitivas do país pela primeira vez; veja municípios do top 10",
+    "d": "Cidade de Vitória, capital do Espírito Santo Felipe Mota A cidade de Vitória, capital do Espírito Santo, assumiu pela primeira vez o topo do Ranking de Competitividade dos Municípios do Centro de Liderança Pública (CL…",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/27/vitoria-lidera-ranking-de-cidades-mais-competitivas-do-pais-pela-primeira-vez-veja-municipios-do-top-10.ghtml",
+    "time": "2026-08-27T14:19:43.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+    "d": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
+    "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T14:17:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356",
+    "d": "Entire villages swept away after glacial collapse triggers flood in mountainous region popular with trekkers and pilgrims Nepal-Tibet flash flood – latest updates Have you been affected by the flash floods? Rescuers a…",
+    "link": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border",
+    "time": "2026-08-27T12:41:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Thieves steal Bronze Age artefacts from Spanish museum in four-minute heist",
+    "d": "The Treasure of Villena is a unique trove of almost ten kilos of gold, bowls, bottles and bracelets dating back to the Bronze Age.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T12:41:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Colapso glacial: o fenômeno que causou a enchente repentina na fronteira entre Nepal e Tibete",
+    "d": "Inicialmente, os cientistas acreditavam que a causa do evento havia sido um terremoto. Mas depois descobriram que os tremores estavam relacionados a um colapso glacial.",
+    "link": "https://www.bbc.com/portuguese/articles/c70l4jen7qro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T11:57:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
+    "d": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
+    "link": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T11:23:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "As imagens impressionantes da tragédia que matou mais de 300 e deixou centenas de desaparecidos no Nepal",
+    "d": "As operações de busca e resgate estão em andamento. Entre os desaparecidos, há pessoas de 28 nacionalidades diferentes.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2z52xznq7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T11:16:50.000Z"
   },
   {
     "cat": "economia",
     "src": "The Guardian",
-    "h": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
-    "d": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta reached an agreement to settle a landmark case brought by states across the US that accused t…",
+    "h": "CEOs earn 614 times more than workers at US’s 100 lowest-paying corporations",
+    "d": "Analysis by Institute for Policy Studies found that between 2019 and 2025, CEO compensation increased 41.4% The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/27/ceo-worker-pay-ratio-us-analysis",
+    "time": "2026-08-27T11:00:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+    "d": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+    "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T09:50:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Paula Fernandes relembra machismo no sertanejo em volta a Barretos: 'Me deram 5 namorados em uma semana'",
+    "d": "Cantora vai cantar Ave Maria e abrir o rodeio nesta quinta-feira (27/8), antes de fazer seu show na sexta (28/8), com sucessos da carreira e novos trabalhos do álbum '30 & Poucos Anos'.",
+    "link": "https://www.bbc.com/portuguese/articles/c4g7lweywzeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T09:38:06.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
+    "d": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman…",
+    "link": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
+    "time": "2026-08-27T08:00:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Modelo Bukele' usado em El Salvador não derrotaria PCC e CV no Brasil, diz especialista em segurança pública",
+    "d": "Para Robert Muggah, principais facções brasileiras têm maior poderio econômico e estruturas bem mais complexas que grupos criminosos salvadorenhos combatidos por políticas de segurança do presidente Nayib Bukele em El…",
+    "link": "https://www.bbc.com/portuguese/articles/c89jwzn7451o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-27T07:35:21.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+    "d": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended…",
     "link": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-    "time": "2026-08-26T13:37:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Jaecoo 5 chega em setembro como SUV compacto mais potente do Brasil para encarar Honda HR-V",
-    "d": "Omoda & Jaecoo apresenta o Jaecoo 5 no Festival Interlagos Carlos Cereijo / g1 A Omoda & Jaecoo apresentou nesta quarta-feira (26) o SUV compacto Jaecoo 5, que promete ser o mais potente da categoria. ✅ Clique aqui pa…",
-    "link": "https://g1.globo.com/carros/noticia/2026/08/26/jaecoo-5-chega-em-setembro.ghtml",
-    "time": "2026-08-26T13:09:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Omar Aziz vai propor transição de até um ano para fim da escala 6x1",
-    "d": "O relator da proposta do fim da escala 6x1 no Senado, Omar Aziz (PSD-AM), irá propor uma transição de até um ano para a redução das horas semanais trabalhadas e quer exceções para setores específicos. Ao blog, o senad…",
-    "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/26/omar-aziz-vai-propor-transicao-de-ate-um-ano-para-fim-da-escala-6x1.ghtml",
-    "time": "2026-08-26T13:02:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'I Will Always Love You': a história da música escrita por Dolly Parton e transformada em 'hino do amor' por Whitney Houston",
-    "d": "A música nasceu como uma despedida, passou por Elvis Presley e acabou alcançando fama mundial na voz de Whitney Houston.",
-    "link": "https://www.bbc.com/portuguese/articles/czdz1ygqe5po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T12:48:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PEC da Segurança será analisada na CCJ do Senado na próxima quarta, diz presidente da comissão",
-    "d": "Uma das prioridades do governo do presidente Luiz Inácio Lula da Silva (PT), a chamada PEC da Segurança, será analisada pela Comissão de Constituição e Justiça (CCJ) do Senado na próxima quarta-feira (2). A informação…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/26/pec-da-seguranca-sera-analisada-na-ccj-do-senado-na-proxima-quarta-diz-presidente-da-comissao.ghtml",
-    "time": "2026-08-26T12:37:55.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bill Gates alerta para perigos da IA e quer discutir regras com Xi Jinping, presidente da China",
-    "d": "Na China, seu rosto já pode ser alugado ou vendido para a IA Bill Gates, cofundador da Microsoft, pretende se encontrar com o presidente da China, Xi Jinping, ainda neste ano para discutir formas de reduzir os riscos…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/bill-gates-alerta-para-perigos-da-ia-e-quer-discutir-regras-com-xi-jinping-presidente-da-china.ghtml",
-    "time": "2026-08-26T12:36:28.000Z"
+    "time": "2026-08-26T20:30:49.000Z"
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-    "d": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
-    "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T12:32:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "GWM Tank 400 híbrido flex chega ao Brasil em 2026, para rivalizar com Toyota SW4",
-    "d": "GWM Tank 400 André Fogaça/g1 A GWM confirmou que o Tank 400, um jipão de sete lugares, chega ao mercado brasileiro em 2026, como híbrido plug-in flex para disputar com o Toyota SW4. O modelo está em exibição no Festiv…",
-    "link": "https://g1.globo.com/carros/noticia/2026/08/26/gwm-tank-400.ghtml",
-    "time": "2026-08-26T12:27:25.000Z"
+    "src": "The Guardian",
+    "h": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
+    "d": "The US president expected Ottawa to bow to tariff demands, but Canada is striking back – and it could cost Americans This was originally published in This Week in Trumpland. Sign up to receive it in your inbox every W…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
+    "time": "2026-08-26T18:15:21.000Z"
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-    "d": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
-    "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T12:17:12.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "IPCA-15: preços caem 0,40% em agosto, com conta de luz, gasolina e alimentos mais baratos",
-    "d": "TV Verdes Mares/Reprodução O IPCA-15, considerado uma prévia da inflação oficial do país, registrou queda de 0,40% nos preços em agosto. Os dados foram divulgados nesta quarta-feira (26) pelo Instituto Brasileiro de G…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/26/ipca-15-previa-da-inflacao-agosto.ghtml",
-    "time": "2026-08-26T12:00:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Empate técnico nos maiores colégios eleitorais pode levar Lula e Flávio a intensificar agendas no Sudeste",
-    "d": "Empate técnico nos maiores colégios eleitorais pode levar Lula e Flávio a intensificar agendas no Sudeste O cenário de empate técnico entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-…",
-    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/08/26/empate-tecnico-nos-maiores-colegios-eleitorais-pode-levar-lula-e-flavio-a-intensificar-agendas-no-sudeste.ghtml",
-    "time": "2026-08-26T12:00:31.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar opera em alta com foco em IPCA-15, dívida pública e indicadores dos EUA; Ibovespa sobe",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quarta-feira (26), avançando 0,39%, cotado a R$ 5,1602, enquanto os investidores acompanham a divulgação de indicadores econômicos no Brasil…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/26/dolar-ibovespa.ghtml",
-    "time": "2026-08-26T12:00:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-    "d": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-    "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T11:32:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Dino amplia acesso da PF às provas do Dark Horse; investigadores avaliam concentrar apuração no STF",
-    "d": "Sadi: Investigação sobre Dark Horse deve ser federalizada A decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), de autorizar a Polícia Federal (PF) a acessar integralmente o material apreendido pela Po…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/26/dino-amplia-acesso-da-pf-as-provas-do-dark-horse-investigadores-avaliam-concentrar-apuracao-no-stf.ghtml",
-    "time": "2026-08-26T11:28:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "MPT processa Uber em R$ 321 milhões por cobrar taxa de motoristas para trabalhar",
-    "d": "Motorista de aplicativo, app, Uber, 99 Maksim Goncharenok/Pexels O Ministério Público do Trabalho (MPT) ajuizou uma ação civil pública contra a Uber do Brasil para suspender o programa \"Passe para Motoristas\", que cob…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/26/mpt-processa-uber-por-cobrar-taxa-de-motoristas-para-trabalhar.ghtml",
-    "time": "2026-08-26T11:28:09.000Z"
+    "src": "The Guardian",
+    "h": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+    "d": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting t…",
+    "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+    "time": "2026-08-26T15:09:58.000Z"
   },
   {
     "cat": "internacional",
@@ -289,22 +545,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Radiation link in flight attendant's breast cancer, French court finds",
-    "d": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T10:29:36.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Häagen-Dazs de saída do Brasil: os 4 motivos para o adeus da marca de sorvetes",
-    "d": "Marca de sorvetes Häagen-Dazs deixa de ser distribuída no Brasil após quase 30 anos Depois de quase 30 anos de operação no Brasil, a Häagen-Dazs vai deixar o país. A multinacional americana General Mills, dona da marc…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/26/haagen-dazs-de-saida-do-brasil-os-4-motivos-para-o-adeus-da-marca-de-sorvetes.ghtml",
-    "time": "2026-08-26T10:14:56.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
     "d": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimated Are you a Canadian boycotting US products? We’d like to hear from you Using the bathroom or having a cry is a…",
@@ -312,172 +552,12 @@
     "time": "2026-08-26T10:00:41.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "MPF denuncia grupo liderado por família de MG que enviou quase 700 brasileiros ilegalmente aos EUA",
-    "d": "O Ministério Público Federal (MPF) denunciou 12 pessoas por envolvimento com uma organização criminosa que era liderada por integrantes de uma mesma família de Minas Gerais e era especializada no envio ilegal de brasi…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/26/mpf-denuncia-grupo-liderado-por-familia-de-mg-que-enviou-quase-700-brasileiros-ilegalmente-aos-eua.ghtml",
-    "time": "2026-08-26T10:00:22.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-    "d": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school, Abiro Wisdom was certain of one thing – he did not wan…",
+    "d": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school in Accra, Abiro Wisdom was certain of one thing – he di…",
     "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
     "time": "2026-08-26T09:00:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Häagen-Dazs de saída do Brasil: os 4 motivos para o adeus da marca de sorvetes",
-    "d": "Novos sorvetes premium, fechamento de lojas próprias e mudanças no comportamento de consumo foram decisivos para adeus da marca.",
-    "link": "https://www.bbc.com/portuguese/articles/c2096qd755jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T08:32:56.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-    "d": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-    "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T08:17:45.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Golpistas avançam do roubo de senhas para o uso de IA para 'clonar' pessoas no Brasil, revela estudo",
-    "d": "Deepfake nas eleições: entenda o que é e por que pode enganar o eleitor Um dos golpes mais comuns na internet, o roubo de senhas, está dividindo espaço com uma nova estratégia no Brasil: a \"clonagem\" de pessoas para t…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/golpistas-avancam-do-roubo-de-senhas-para-o-uso-de-ia-para-clonar-pessoas-no-brasil-revela-estudo.ghtml",
-    "time": "2026-08-26T08:04:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-    "d": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T08:01:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro",
-    "d": "As mulheres são maioria do eleitorado e têm um peso decisivo na eleição. Por isso, são cortejadas por ambos os líderes da disputa pela Presidência, com uma vantagem para Lula, enquanto Flávio tenta vencer a rejeição q…",
-    "link": "https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T08:00:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Indian jewellery ad pulled after backlash over actor's outfit",
-    "d": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T07:26:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em MG, 1º turno: veja intenção de voto para governo por sexo, idade, escolaridade, renda, cor, religião e identificação política",
-    "d": "MG2 divulga 1ª pesquisa Quaest para o governo de Minas Pesquisa Quaest divulgada nesta terça-feira (25) mostra Cleitinho (Republicanos) na liderança da disputa pelo governo de Minas Gerais, com 29% das intenções de vo…",
-    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/26/quaest-em-mg-1o-turno-veja-intencao-de-voto-para-governo-por-sexo-idade-escolaridade-renda-cor-religiao-e-identificacao-politica.ghtml",
-    "time": "2026-08-26T07:00:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest para o governo de SP: veja intenção de voto por renda, sexo, idade, escolaridade, cor, religião e posicionamento político",
-    "d": "Quaest em SP: Tarcísio, 40%; Haddad, 27% Pesquisa Quaest divulgada na terça-feira (25) mostra o governador Tarcísio de Freitas (Republicanos) com 40% das intenções de voto no primeiro turno para o governo de São Paulo…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/26/quaest-para-o-governo-de-sp-veja-intencao-de-voto-por-renda-sexo-idade-escolaridade-cor-religiao-e-posicionamento-politico.ghtml",
-    "time": "2026-08-26T07:00:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "As duas frentes da guerra comercial de Trump - O Assunto #1791",
-    "d": "O presidente dos Estados Unidos afirmou que esta segunda-feira (24) seria o “Dia D” da guerra econômica que está promovendo contra o Irã. E o Departamento do Tesouro americano de fato anunciou sanções contra pessoas e…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/26/as-duas-frentes-da-guerra-comercial-de-trump-o-assunto-1791.ghtml",
-    "time": "2026-08-26T03:30:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "O que pensam evangélicos do RJ indecisos nesta eleição? Veja na série 'Voto Pendular', do Jornal da Globo",
-    "d": "O pêndulo do voto evangélico: do apoio ao PT à guinada à direita A população evangélica está em crescimento no Brasil e tem peso cada vez maior nas eleições. Na Região Metropolitana do Rio, essa transformação é ainda…",
-    "link": "https://g1.globo.com/jornal-da-globo/noticia/2026/08/26/o-que-pensam-evangelicos-do-rj-indecisos-nesta-eleicao-veja-na-serie-voto-pendular-do-jornal-da-globo.ghtml",
-    "time": "2026-08-26T03:15:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Como robôs e perfis falsos tentam influenciar as conversas sobre eleições nas redes sociais?",
-    "d": "Como robôs e perfis falsos tentam influenciar o debate nas eleições? Uma postagem de um candidato nas redes sociais pode ser inundada por comentários em defesa dele ou atacando um adversário. Às vezes, são centenas ou…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/26/como-robos-e-perfis-falsos-tentam-influenciar-as-conversas-sobre-eleicoes-nas-redes-sociais.ghtml",
-    "time": "2026-08-26T03:01:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: pesquisa espontânea mostra que 80% dos eleitores de MG estão indecisos sobre voto para governador; 94%, para senador",
-    "d": "MG2 divulga 1ª pesquisa Quaest para o governo de Minas Levantamento da Quaest divulgado nesta terça-feira (25) mostra que 80% dos eleitores de Minas Gerais estão indecisos sobre o voto para governador em pesquisa espo…",
-    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/26/quaest-pesquisa-espontanea-mostra-que-80percent-dos-eleitores-de-mg-estao-indecisos-sobre-voto-para-governador-94percent-para-senador.ghtml",
-    "time": "2026-08-26T03:01:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Vaquinhas eleitorais já superam R$ 8 milhões; dez candidatos concentram metade das doações",
-    "d": "Urna eletrônica para votação nas eleições brasileiras Marcelo Camargo/Agência Brasil Os eleitores brasileiros já doaram ao menos R$ 8,8 milhões por meio de vaquinhas para as campanhas de 2026. Metade desse valor está…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/vaquinhas-eleitorais-ranking.ghtml",
-    "time": "2026-08-26T03:01:12.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Justiça mantém reintegração de 1.900 demitidos da Casas Bahia; veja o que acontece agora",
-    "d": "Justiça manda Casas Bahia reverter demissões e limita novos cortes A Justiça do Trabalho manteve, nesta segunda-feira (24), a decisão que suspendeu as demissões de 1.900 trabalhadores do Grupo Casas Bahia e determinou…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/26/justica-mantem-reintegracao-de-1900-demitidos-da-casas-bahia-veja-o-que-acontece-agora.ghtml",
-    "time": "2026-08-26T03:00:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Ronaldo Caiado fala sobre suas propostas na Globo: o que disse o candidato à Presidência na entrevista à emissora",
-    "d": "Candidato foi o segundo entrevistado em série especial da emissora para eleições e falou sobre anistia a bolsonaristas, narcotráfico, reforma da Previdência e reforma tributária",
-    "link": "https://www.bbc.com/portuguese/articles/c1wxnj3wv58o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-26T02:35:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
-    "d": "Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacu…",
-    "link": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
-    "time": "2026-08-26T01:46:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Braskem em Maceió: como ficam os bairros afetados por afundamento do solo após quebra da empresa",
-    "d": "Empresa petroquímica pediu recuperação extrajudicial na segunda-feira (24/08) e acumula acordos e processos devido a afundamento do solo em bairros de Maceió detectado em 2018.",
-    "link": "https://www.bbc.com/portuguese/articles/c70dww3j9ypo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T22:29:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil",
-    "d": "Vírus é transmitido principalmente pela picada de mosquitos infectados; entenda sintomas, diagnóstico, tratamento, risco de casos graves e o que se sabe sobre a circulação da doença no Brasil",
-    "link": "https://www.bbc.com/portuguese/articles/clyely5exwro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T22:23:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump says all mines cleared from Strait of Hormuz",
-    "d": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T21:23:41.000Z"
   },
   {
     "cat": "internacional",
@@ -489,27 +569,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-    "d": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T19:50:57.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
     "d": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight ‘A massacre’: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped…",
     "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
     "time": "2026-08-25T17:35:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Germany's Merz warns attackers will 'pay price' after drone incident",
-    "d": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
-    "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T17:12:21.000Z"
   },
   {
     "cat": "economia",
@@ -526,14 +590,6 @@
     "d": "Multicultural Business Coalition sues New York City mayor, alleging plan for city-run stores will harm smaller grocers A New York City business group sued mayor Zohran Mamdani on Monday over his plan to create five mu…",
     "link": "https://www.theguardian.com/us-news/2026/aug/25/zohran-mamdani-lawsuit-city-owned-grocery-stores",
     "time": "2026-08-25T14:48:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-    "d": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes Don’t already get First Thing in your inbox? Sig…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-    "time": "2026-08-25T12:31:53.000Z"
   },
   {
     "cat": "brasil",
@@ -560,38 +616,6 @@
     "time": "2026-08-25T09:59:16.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Eclipse lunar quase total poderá ser visto do Brasil: que horas começa e como observar",
-    "d": "Desde que as condições meteorológicas sejam favoráveis, o fenômeno poderá ser visto em todas as regiões do país.",
-    "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T09:03:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Os vídeos de IA que erotizam história brutal do Brasil e têm milhões de visualizações no YouTube",
-    "d": "Investigação da BBC News Brasil identificou ao menos 150 canais que publicam histórias fictícias de desejo e violência sexual passadas no período da escravidão para atrair visualizações e faturar com publicidade na pl…",
-    "link": "https://www.bbc.com/portuguese/articles/c3r0194grx2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-25T07:49:55.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
-    "d": "Arbitrator determined the Post improperly fired Karen Attiah, a union-protected employee, over social media posts An independent arbitrator has ordered the Washington Post to rehire the high-profile opinion columnist…",
-    "link": "https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah",
-    "time": "2026-08-25T00:51:59.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-    "d": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announce…",
-    "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-    "time": "2026-08-25T00:34:47.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
@@ -608,28 +632,12 @@
     "time": "2026-08-24T17:34:50.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Video shows hundreds held captive after Nigeria mosque kidnapping",
-    "d": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducte…",
-    "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
-    "time": "2026-08-24T14:19:14.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Top US firms that backed Voting Rights Act donate to groups working to undermine it",
     "d": "Watchdog data shared with Guardian shows contributions to Republican Attorneys General Association and others Over a dozen US companies that signed a 2021 letter urging Congress to strengthen the Voting Rights Act con…",
     "link": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
     "time": "2026-08-24T11:00:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-    "d": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local aut…",
-    "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-    "time": "2026-08-24T10:11:34.000Z"
   },
   {
     "cat": "economia",
