@@ -1,6 +1,86 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem era o PM que morreu após ser baleado em assalto na Marginal Tietê",
+    "d": "Paulo Roberto Lima Pereira tinha 44 anos e integrava a Companhia de Ações Especiais de Polícia; agente chegou a ser socorrido mas não resistiu",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/quem-era-o-pm-que-morreu-apos-ser-baleado-em-assalto-na-marginal-tiete/",
+    "time": "2026-08-29T17:25:04.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+    "d": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T17:25:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "De Adão aos piratas: a surpreendente história de como a caveira virou símbolo de veneno",
+    "d": "De representação bíblica a alerta de toxicidade, ícone global passou por igrejas medievais e embarcações antes de chegar às prateleiras.",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/de-adao-aos-piratas-a-surpreendente-historia-de-como-a-caveira-virou-simbolo-de-veneno/",
+    "time": "2026-08-29T17:18:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Esposa diz que Giovani acabou casamento por ligação e cita traição",
+    "d": "Influenciadora Anna Carolina Morais se pronunciou sobre fim da relação com cantor da dupla Gian e Giovani",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/esposa-diz-que-giovani-acabou-casamento-por-ligacao-e-cita-traicao/",
+    "time": "2026-08-29T17:17:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Inmet emite alerta para estados que podem ter “secura de deserto”; veja lista",
+    "d": "Umidade relativa do ar pode variar entre 20% e 12%, níveis comparáveis ou inferiores aos de desertos como o Saara",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/inmet-emite-alerta-para-estados-que-podem-ter-secura-de-deserto-veja-lista/",
+    "time": "2026-08-29T17:16:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Número de mortos em enchentes no Nepal e na China ultrapassa 680",
+    "d": "Cerca de 3.000 pessoas estão desaparecidas dos dois lados da fronteira; Autoridades nepalesas informaram que precisam de assistência técnica estrangeira",
+    "link": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-em-enchentes-no-nepal-e-na-china-ultrapassa-680/",
+    "time": "2026-08-29T17:15:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nova geração do BYD Tan deixa de ser 7 lugares e roda 850 km com uma carga",
+    "d": "Dependendo da configuração, a autonomia anunciada chega a 730 km, 830 km ou 850 km pelo ciclo chinês CLTC",
+    "link": "https://www.cnnbrasil.com.br/auto/nova-geracao-do-byd-tan-deixa-de-ser-7-lugares-e-roda-850-km-com-uma-carga/",
+    "time": "2026-08-29T17:00:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fora da última Copa, Estêvão e João Pedro serão observados por Ancelotti",
+    "d": "Técnico da Seleção Brasileira estará no Stamford Bridge neste domingo (30) para o duelo entre Chelsea e Brighton",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/fora-da-ultima-copa-estevao-e-joao-pedro-serao-observados-por-ancelotti/",
+    "time": "2026-08-29T16:56:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Especialistas em resgate em túneis chegam ao Nepal após enchentes",
+    "d": "Autoridades de Pequim enviaram os profissionais em caráter de urgência a pedido do governo nepalês, diz agência de notícias",
+    "link": "https://www.cnnbrasil.com.br/internacional/especialistas-em-resgate-em-tuneis-chegam-ao-nepal-apos-enchentes/",
+    "time": "2026-08-29T16:52:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Himalaia é imprevisível, mas construções na região só aumentam",
+    "d": "Devastação na fronteira entre Nepal e China pode servir de alerta para governos que impulsionam onda de construções na região, buscando aproveitar seu vasto potencial hidrelétrico",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-himalaia-e-imprevisivel-mas-construcoes-na-regiao-so-aumentam/",
+    "time": "2026-08-29T16:48:06.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "A eleição que resiste a mudar; leia análise de Felipe Nunes",
     "d": "JG entrevista Felipe Nunes, diretor da Quaest, sobre temperatura nos estados para eleição presidencial As pesquisas estaduais da Quaest divulgadas ao longo desta semana revelam uma eleição que se movimenta pouco onde…",
@@ -48,84 +128,12 @@
     "time": "2026-08-29T16:00:25.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Norte e Nordeste sofrem mais com a falta de psicólogos no SUS",
-    "d": "Regiões apresentam maior disparidade entre o número de profissionais por habitantes no Sistema Público de Saúde em comparação com Sul e Sudeste, segundo estudo realizado pela CNN Brasil",
-    "link": "https://www.cnnbrasil.com.br/saude/norte-e-nordeste-sofrem-mais-com-a-falta-de-psicologos-no-sus/",
-    "time": "2026-08-29T15:56:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Expointer: lã pode valer quatro vezes mais para ovinocultor gaúcho",
-    "d": "Rio Grande do Sul concentra cerca de 95% da lã nacional e ovinocultores apostam na fibra para recuperar rentabilidade do segmento",
-    "link": "https://www.cnnbrasil.com.br/agro/expointer-la-pode-valer-quatro-vezes-mais-para-ovinocultor-gaucho/",
-    "time": "2026-08-29T15:53:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Irã reconhece impactos econômicos devido a sanções dos EUA em meio à guerra",
-    "d": "Em comunicado divulgado pela mídia estatal, governo iraniano afirmou que o combate às pressões econômicas é uma de suas principais prioridades",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ira-reconhece-impactos-economicos-devido-a-sancoes-dos-eua-em-meio-a-guerra/",
-    "time": "2026-08-29T15:37:12.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
     "d": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
     "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-29T15:27:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após enchentes, Nepal estima que reconstrução custará até US$ 5 bilhões",
-    "d": "Prejuízos e danos ainda estão sendo avaliados, diz ministro das Finanças; reconstrução pode custar valor equivalente a um décimo da economia do país",
-    "link": "https://www.cnnbrasil.com.br/internacional/apos-enchentes-nepal-estima-que-reconstrucao-custara-ate-us-5-bilhoes/",
-    "time": "2026-08-29T15:25:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caso Gisele: STJ nega habeas corpus de tenente-coronel réu por feminicídio de PM em SP",
-    "d": "Geraldo Leite Rosa Neto, preso pela morte da soldado Gisele Alves Santana, permanece detido no presídio militar Romão Gomes, na zona Norte de São Paulo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-gisele-stj-nega-habeas-corpus-de-tenente-coronel-reu-por-feminicidio-de-pm-em-sp/",
-    "time": "2026-08-29T15:22:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Susana Vieira comemora aniversário sendo DJ e declara: “Curtir e causar”",
-    "d": "Atriz aproveitou a semana toda de festa para marcar seus 84 anos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/susana-vieira-comemora-aniversario-sendo-dj-e-declara-curtir-e-causar/",
-    "time": "2026-08-29T15:21:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Planta com sabor de peixe frito: vegetal virou curiosidade gastronômica por ter sabor amado por brasileiros",
-    "d": "Modo de preparo pode transformar a experiência na culinária com planta que vem chamando a atenção",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/planta-com-sabor-de-peixe-frito-vegetal-virou-curiosidade-gastronomica-por-ter-sabor-amado-por-brasileiros/",
-    "time": "2026-08-29T15:13:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leipzig: novas descobertas em aeroporto preocupam autoridades",
-    "d": "Drone carregado com explosivos foi descoberto perto de uma aeronave de carga Antonov ucraniana, utilizada para o transporte de suprimentos militares, no aeroporto alemão Leipzig /Halle",
-    "link": "https://www.cnnbrasil.com.br/internacional/leipzig-novas-descobertas-em-aeroporto-preocupam-autoridades/",
-    "time": "2026-08-29T15:13:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nepal: Por que morar perto de uma geleira se tornou um risco mortal?",
-    "d": "Montanhas estão mudando rapidamente à medida que as temperaturas sobem, derretendo geleiras e desestabilizando encostas, levando a desastres complexos e em cascata",
-    "link": "https://www.cnnbrasil.com.br/internacional/nepal-por-que-morar-perto-de-uma-geleira-se-tornou-um-risco-mortal/",
-    "time": "2026-08-29T15:04:15.000Z"
   },
   {
     "cat": "brasil",
@@ -398,14 +406,6 @@
     "d": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
     "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-29T00:56:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-    "d": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-    "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T00:46:02.000Z"
   },
   {
     "cat": "internacional",
