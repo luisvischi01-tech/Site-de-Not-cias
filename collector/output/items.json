@@ -1,5 +1,61 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Märtha Louise da Noruega, a princesa 'clarividente' casada com xamã que não será rainha, apesar de ser mais velha que seu irmão Haakon",
+    "d": "Embora seja a filha mais velha de Harald 5º, Märtha Louise não será rainha devido a uma lei que estava em vigor quando nasceu. Seu irmão mais novo acaba de herdar o trono",
+    "link": "https://www.bbc.com/portuguese/articles/c62jz534jj0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T14:59:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "d": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T14:43:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Soldados se revoltam no Niger e atacam sede da presidência e aeroporto",
+    "d": "Ministério da Defesa do Níger afirmou que os militares estavam retomando progressivamente o controle dos locais alvejados em ataque desde a noite anterior",
+    "link": "https://www.cnnbrasil.com.br/internacional/soldados-se-revoltam-no-niger-e-atacam-sede-da-presidencia-e-aeroporto/",
+    "time": "2026-08-29T14:42:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sem Endrick, Real Madrid divulga relacionados para jogo contra o Málaga",
+    "d": "Atacante brasileiro não foi relacionado para o confronto deste domingo (30), no Santiago Bernabéu",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/sem-endrick-real-madrid-divulga-relacionados-para-jogo-contra-o-malaga/",
+    "time": "2026-08-29T14:40:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Morre piloto que caiu de parapente no RJ; vítima era coronel do Exército",
+    "d": "Álvaro Roberto Cruz Ferreira Lima foi socorrido, mas não resistiu aos ferimentos; informações preliminares indicam que o parapente teria se enroscado em uma linha de pipa durante voo solo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/morre-piloto-que-caiu-de-parapente-no-rj-vitima-era-coronel-do-exercito/",
+    "time": "2026-08-29T14:40:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Liverpool busca empate contra Forest em primeiro jogo de Iraola em Anfield",
+    "d": "Reds começam campanha na Premier League com dois empates em duas partidas",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/liverpool-busca-empate-contra-forest-em-primeiro-jogo-de-iraola-em-anfield/",
+    "time": "2026-08-29T14:20:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE começa a analisar candidaturas de Lula e Flávio na próxima segunda (31)",
+    "d": "Em sessão virtual, Corte vai definir se candidatos cumprem requisitos necessários e não apresentam causa de inelegibilidade; MPE se manifestou favorável a ambas as candidaturas",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-comeca-a-analisar-candidaturas-de-lula-e-flavio-na-proxima-segunda-31/",
+    "time": "2026-08-29T14:19:41.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
@@ -9,11 +65,19 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Desaparecidos no Nepal e Tibete chegam a quase 2,5 mil: as perguntas para entender  a tragédia",
-    "d": "Desastre poderia ter sido evitado? Qual foi a dimensão do ocorrido? Confira respostas sobre a tragédia iniciada na quarta-feira (26/8).",
-    "link": "https://www.bbc.com/portuguese/articles/cj4jvn4qzv9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T14:08:20.000Z"
+    "src": "CNN Brasil",
+    "h": "Nepal: centenas de corpos não identificados serão enterrados em vala comum",
+    "d": "Distrito de Chitwan enfrenta necrotérios lotados e sepultará vítimas das enchentes em local sagrado hindu a partir desta sexta-feira (29)",
+    "link": "https://www.cnnbrasil.com.br/internacional/nepal-centenas-de-corpos-nao-identificados-serao-enterrados-em-vala-comum/",
+    "time": "2026-08-29T14:18:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Por que os gatos sempre caem de pé? Descubra o motivo científico que explica essa incrível habilidade dos felinos",
+    "d": "A ciência explica como funciona o reflexo a partir do qual os gatos giram o corpo no ar",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-os-gatos-sempre-caem-de-pe-descubra-o-motivo-cientifico-que-explica-essa-incrivel-habilidade-dos-felinos/",
+    "time": "2026-08-29T14:11:34.000Z"
   },
   {
     "cat": "brasil",
@@ -64,38 +128,6 @@
     "time": "2026-08-29T13:58:48.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Isaquias Queiroz é campeão do C1 500m no Mundial de Canoagem",
-    "d": "Medalha de ouro marca importante recuperação para o canoísta após nono lugar no C1 1000m",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/isaquias-queiroz-e-campeao-do-c1-500m-no-mundial-de-canoagem/",
-    "time": "2026-08-29T13:47:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Expointer 2026 terá destaque para queijo gaúcho e cadeia do leite",
-    "d": "Associação das indústrias de laticínios do Rio Grande do Sul prepara iniciativas para aproximar produtores, indústria e consumidores",
-    "link": "https://www.cnnbrasil.com.br/agro/expointer-2026-tera-destaque-para-queijo-gaucho-e-cadeia-do-leite/",
-    "time": "2026-08-29T13:45:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem despeja inquilino, faz limpeza no apartamento e encontra obra prima e rara de Picasso",
-    "d": "Obra havia sido roubada há 8 anos e tem valor tinha valor estimado em até US$ 50 mil",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/homem-despeja-inquilino-faz-limpeza-no-apartamento-e-encontra-obra-prima-e-rara-de-picasso/",
-    "time": "2026-08-29T13:45:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quadro fiscal no Brasil é delicado, mas sem risco de insolvência, diz Salto",
-    "d": "Especialista analisa revisão do plano de financiamento da dívida e alerta para rigidez fiscal e crescimento dos gastos obrigatórios",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/quadro-fiscal-no-brasil-e-delicado-mas-sem-risco-de-insolvencia-diz-salto/",
-    "time": "2026-08-29T13:40:11.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Justiça do DF marca audiência de conciliação entre governo e Discord",
@@ -105,43 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lago no Himalaia diminui e reduz risco de nova enchente no Nepal e China",
-    "d": "Imagens de satélite mostram redução da área da superfície do corpo d'água formado perto de deslizamentos, aliviando temores de novas enchentes",
-    "link": "https://www.cnnbrasil.com.br/internacional/lago-no-himalaia-diminui-e-reduz-risco-de-nova-enchente-no-nepal-e-china/",
-    "time": "2026-08-29T13:26:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-“Malhação” diz que não conseguiu mais trabalhos como atriz e virou CLT",
-    "d": "Alice Milagres surpreendeu a internet ao revelar que agora tem um emprego fixo para pagar as contas",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-malhacao-diz-que-nao-conseguiu-mais-trabalhos-como-atriz-e-virou-clt/",
-    "time": "2026-08-29T13:25:30.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Inadimplência do crédito rural para pessoa física chega a recorde de 8,8%",
-    "d": "Atrasos nas dívidas avançam no campo e chegam a 15,5% nas operações contratadas a taxas de mercado, mostram dados do Banco Central",
-    "link": "https://www.cnnbrasil.com.br/agro/inadimplencia-do-credito-rural-para-pessoa-fisica-chega-a-recorde-de-88/",
-    "time": "2026-08-29T13:22:10.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
     "d": "O partido de extrema-direita AfD acredita que o país deve adotar uma visão mais positiva de seu passado. Pela primeira vez, a legenda pode ganhar poder significativo na Alemanha no período pós-guerra.",
     "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-29T13:00:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-    "d": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T12:55:39.000Z"
   },
   {
     "cat": "brasil",
@@ -186,8 +186,8 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
-    "d": "‘Total peace’ plan of previous government led only 99 of Colombia’s 30,000 armed combatants to disarm, but new president Abelardo De la Espriella opposes peace agreements In mid-June, 99 guerrilla fighters were flown…",
+    "h": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+    "d": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters were flown by helicopter to a small settl…",
     "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
     "time": "2026-08-29T10:00:24.000Z"
   },
