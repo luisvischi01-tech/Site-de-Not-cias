@@ -1,6 +1,78 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante",
+    "d": "Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante Renata Vasconcellos e César Tralli entrevistam os candidatos à Presidência da República entre os dias 24 e 29 de agosto.. O programa é trans…",
+    "link": "https://g1.globo.com/jornal-nacional/ao-vivo/augusto-cury-entrevista-candidatos-presidente.ghtml",
+    "time": "2026-08-29T22:54:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "d": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T22:40:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no Pará: Lula, 37%; Flávio Bolsonaro, 29%",
+    "d": "Presidente Lula e o senador Flávio Bolsonaro Ricardo Stuckert/Presidência da República; Vittor Sales Pesquisa Quaest divulgada neste sábado (29) mostra como está a disputa pela Presidência da República no 1º turno ent…",
+    "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-lula-presidente-29-agosto.ghtml",
+    "time": "2026-08-29T22:37:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: A solução incomum de Trump para o problema com a Venezuela",
+    "d": "Estados Unidos assumirão a propriedade majoritária de uma joint venture de petróleo com empresa de energia venezuelana",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-trump-adotou-solucao-incomum-para-problema-com-a-venezuela/",
+    "time": "2026-08-29T22:36:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado no Pará: Helder, 23%; Delegado Éder Mauro, 14%; Zequinha Marinho, 11%",
+    "d": "Candidatos Helder Barbalho, Éder Mauro e Zequinha Marinho Reprodução Pesquisa Quaest divulgada neste sábado (29) mostra como está a disputa pelo Senado no Pará. O levantamento foi encomendado pela TV Liberal. Em 2026,…",
+    "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-pa-senado-29-agosto.ghtml",
+    "time": "2026-08-29T22:35:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no Pará: 51% aprovam e 22% desaprovam governo de Hana Ghassan (MDB)",
+    "d": "Hana Ghassan, vice de Helder que assumiu o governo do Pará em abril de 2026. Marco Santos Pesquisa Quaest divulgada neste sábado (29) mostra como está a avaliação do governo de Hana Ghassan (MDB) e os índices de aprov…",
+    "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-avaliacao-governo-29-agosto.ghtml",
+    "time": "2026-08-29T22:34:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no Pará: Dr Daniel, 28%; Hana Ghassan, 27%",
+    "d": "Dr Daniel e Hana Ghassan Reprodução Pesquisa Quaest divulgada neste sábado (29) mostra como está a disputa pelo governo do Pará. O levantamento foi encomendado pela TV Liberal. Veja, abaixo, os resultados da pesquisa…",
+    "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-governador-29-agosto.ghtml",
+    "time": "2026-08-29T22:31:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ansiedade na infância: especialistas explicam ao Dr. Kalil indícios",
+    "d": "Especialistas explicam que fobias na infância podem evoluir para crises de pânico na adolescência e destacam o papel da genética",
+    "link": "https://www.cnnbrasil.com.br/saude/ansiedade-na-infancia-especialistas-explicam-ao-dr-kalil-indicios/",
+    "time": "2026-08-29T22:30:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Paulo x Bragantino: escalações e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes se enfrentam neste sábado (29) no Morumbis, a partir das 20h pela 25ª rodada do Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-bragantino-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-08-29T22:10:57.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Colombiano conhecido como ‘Homem-Peixe’ é encontrado vivo após sumir em travessia no PA",
     "d": "Wilber Honório Muñoz estava sem ferimentos e otimista para continuar o projeto na região",
@@ -11,7 +83,7 @@
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Masp anuncia exposição dedicada a Van Gogh para 2027",
-    "d": "Mostra fará parte do ciclo \"Histórias da Loucura\", parte da programção do próximo ano",
+    "d": "Mostra fará parte do ciclo \"Histórias da Loucura\", parte da programação do próximo ano",
     "link": "https://www.cnnbrasil.com.br/comportamento/cultura/masp-anuncia-exposicao-dedicada-a-van-gogh-para-2027/",
     "time": "2026-08-29T22:08:59.000Z"
   },
@@ -86,30 +158,6 @@
     "d": "Ao CNN Agora, o pesquisador Vitor Valenti, da Unesp, explica a síndrome degenerativa rara que afeta o criador de conteúdo e os desafios para encontrar tratamento",
     "link": "https://www.cnnbrasil.com.br/saude/lito-sousa-ha-pouco-financiamento-para-estudar-a-doenca-diz-pesquisador/",
     "time": "2026-08-29T21:12:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Greve na Ponte Preta força escalação de jogadores da base para evitar W.O.",
-    "d": "Time campineiro encara o América-MG neste domingo (30) em meio à paralisação do elenco principal por salários atrasados e estreia de Gilson Kleina",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/greve-na-ponte-preta-forca-escalacao-de-jogadores-da-base-para-evitar-w-o/",
-    "time": "2026-08-29T21:07:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça manda soltar chileno preso após ofensas racistas e homofóbicas em voo da Latam",
-    "d": "A mudança ocorreu após a Justiça considerar que houve alteração na situação do processo de Germán Andrés Naranjo Maldini",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-manda-soltar-chileno-preso-apos-ofensas-racistas-e-homofobicas-em-voo-da-latam/",
-    "time": "2026-08-29T20:52:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tenistas voltam a reclamar do cheiro de maconha no US Open: “Distração”",
-    "d": "Incômodo tem sido recorrente entre os atletas desde a legalização em Nova York, em 2021",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/tenistas-voltam-a-reclamar-do-cheiro-de-maconha-no-us-open-distracao/",
-    "time": "2026-08-29T20:44:55.000Z"
   },
   {
     "cat": "internacional",
@@ -198,14 +246,6 @@
     "d": "JG entrevista Felipe Nunes, diretor da Quaest, sobre temperatura nos estados para eleição presidencial As pesquisas estaduais da Quaest divulgadas ao longo desta semana revelam uma eleição que se movimenta pouco onde…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/a-eleicao-que-resiste-a-mudar-leia-analise-de-felipe-nunes.ghtml",
     "time": "2026-08-29T16:46:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "d": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T16:15:56.000Z"
   },
   {
     "cat": "brasil",
@@ -398,46 +438,6 @@
     "d": "This live blog is now closed ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash…",
     "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
     "time": "2026-08-29T03:49:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Voto para senador também escolhe dois substitutos; 42 suplentes assumiram o mandato desde 2019",
-    "d": "Por que voto para senador inclui mais dois nomes? Ao votar em um senador, o eleitor automaticamente escolhe dois nomes que poderão substituí-lo, os suplentes. Desde 2019, 42 suplentes assumiram o mandato de senador. O…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/voto-para-senador-tambem-escolhe-dois-substitutos-42-suplentes-assumiram-o-mandato-desde-2019.ghtml",
-    "time": "2026-08-29T03:01:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Augusto Cury participa de entrevista da Globo neste sábado; saiba como assistir",
-    "d": "Augusto Cury no primeiro dia oficial da campanha eleitoral à Presidência da República Reprodução/TV Globo Augusto Cury (Avante) participa neste sábado (29) da série de entrevistas da TV Globo com os candidatos à Presi…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo-como-assistir.ghtml",
-    "time": "2026-08-29T03:00:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "MPT recebe 223 denúncias de assédio eleitoral em 2026; registros mais que dobram no mês de início da campanha",
-    "d": "O Ministério Público do Trabalho (MPT) recebeu 223 denúncias de assédio eleitoral no ambiente de trabalho em 2026, segundo balanço atualizado do órgão. Agosto, ainda em andamento, concentra 95 registros, 42,6% do tota…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/mpt-denuncias-de-assedio-eleitoral-em-2026.ghtml",
-    "time": "2026-08-29T03:00:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "VÍDEO: De onde sai o dinheiro das campanhas políticas?",
-    "d": "De onde sai o dinheiro das campanhas políticas? Nas eleições de 2026, quase R$ 5 bilhões vão financiar as campanhas políticas no Brasil. É desse dinheiro que saem os recursos para comícios, produção de materiais de ca…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/29/video-de-onde-sai-o-dinheiro-das-campanhas-politicas.ghtml",
-    "time": "2026-08-29T03:00:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Patrimônio de candidatos do PL tem o maior aumento em quatro anos; veja o ranking dos partidos",
-    "d": "Eleições 2026 têm 8 candidatos 'Lulas' e 20 'Bolsonaros' sem parentesco com os políticos O PL foi o partido político com o maior aumento no patrimônio de todos os candidatos nas eleições de outubro, considerando todos…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/29/patrimonio-de-candidatos-do-pl-tem-o-maior-aumento-em-quatro-anos-veja-o-ranking-dos-partidos.ghtml",
-    "time": "2026-08-29T03:00:42.000Z"
   },
   {
     "cat": "economia",
