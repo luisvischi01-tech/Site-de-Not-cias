@@ -1,5 +1,37 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+    "d": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T09:38:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?",
+    "d": "Principal obstáculo para medir o tamanho dos riscos é a falta de dados oficiais que permitam identificar se uma pessoa acidentada estava trabalhando no momento da ocorrência",
+    "link": "https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T09:37:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fim da 6×1: Empresas repassarão custos a consumidor, diz pesquisador",
+    "d": "Possível aprovação do fim da jornada 6x1 no Brasil voltou ao centro do debate econômico após o encaminhamento da PEC às comissões do Senado",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fim-da-6x1-empresas-repassarao-custos-a-consumidor-diz-pesquisador/",
+    "time": "2026-08-29T09:30:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ataque russo deixa ao menos 27 mortos na região de Kiev, diz governador",
+    "d": "Outras 42 pessoas ficaram feridas e mais de 380 foram evacuadas",
+    "link": "https://www.cnnbrasil.com.br/internacional/ataque-russo-deixa-ao-menos-27-mortos-na-regiao-de-kiev-diz-governador/",
+    "time": "2026-08-29T09:30:04.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Floresta x Ituano: horário e onde assistir ao jogo da Série C",
@@ -86,22 +118,6 @@
     "d": "Equipes se enfrentam neste sábado (29) no Estádio Orlando Scarpelli",
     "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/figueirense-x-maranhao-horario-e-onde-assistir-ao-jogo-da-serie-c/",
     "time": "2026-08-29T08:25:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Itabaiana x Botafogo-PB: horário e onde assistir ao jogo da Série C",
-    "d": "Equipes se enfrentam neste sábado (29) no Estádio Etelvino Mendonça",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/itabaiana-x-botafogo-pb-horario-e-onde-assistir-ao-jogo-da-serie-c/",
-    "time": "2026-08-29T08:15:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Barra-SC x Volta Redonda: horário e onde assistir ao jogo da Série C",
-    "d": "Equipes se enfrentam neste sábado (29) na Arena Barra FC",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/barra-sc-x-volta-redonda-horario-e-onde-assistir-ao-jogo-da-serie-c/",
-    "time": "2026-08-29T08:05:25.000Z"
   },
   {
     "cat": "internacional",
@@ -368,14 +384,6 @@
     "time": "2026-08-28T21:50:49.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Berlin is being blackmailed by hackers, mayor says",
-    "d": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-28T21:29:01.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "De Luís 14 ao TikTok: por que 'farmamos aura' há séculos",
@@ -494,14 +502,6 @@
     "d": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two larg…",
     "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
     "time": "2026-08-28T11:00:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Economia vai decidir eleição, e não o caso Lulinha, diz fundador de instituto de pesquisa",
-    "d": "Para Maurício Moura, a economia vai influenciar o voto de cerca de 5 milhões de pessoas que ainda não decidiram entre Lula e Flávio Bolsonaro.",
-    "link": "https://www.bbc.com/portuguese/articles/cqlwry4xk6lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-28T09:54:39.000Z"
   },
   {
     "cat": "brasil",
@@ -638,13 +638,5 @@
     "d": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attr…",
     "link": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
     "time": "2026-08-25T09:59:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "The treasury bond mess: is this the demise of the US as a safe haven?",
-    "d": "The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Be…",
-    "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-    "time": "2026-08-24T10:00:30.000Z"
   }
 ]
