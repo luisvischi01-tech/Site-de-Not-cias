@@ -1,6 +1,70 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "40% dos eleitores escolhem candidato a um mês da eleição, mostra Quaest",
+    "d": "Antônio Lavareda analisa dados da pesquisa Quaest e o impacto da propaganda eleitoral no rádio e na TV sobre o cenário presidencial",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/40-dos-eleitores-escolhem-candidato-a-um-mes-da-eleicao-mostra-quaest/",
+    "time": "2026-08-29T00:27:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Conflito EUA-Irã virou uma guerra econômica, diz especialista",
+    "d": "Especialista analisa o conflito que se transformou em guerra econômica, com foco no Estreito de Hormuz e nas sanções americanas ao Irã",
+    "link": "https://www.cnnbrasil.com.br/internacional/conflito-eua-ira-virou-uma-guerra-economica-diz-especialista/",
+    "time": "2026-08-29T00:25:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US and Venezuela reach 'historic' oil deal, Trump says",
+    "d": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T00:25:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem são os candidatos a senador pelo Espírito Santo em 2026",
+    "d": "Com cerca de 2,9 milhões de eleitores aptos distribuídos em 78 municípios, o estado terá 11 candidatos ao Senado",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-a-senador-pelo-espirito-santo-em-2026/",
+    "time": "2026-08-29T00:21:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Entrevista de Lula na Globo: o que disse o candidato à Presidência na entrevista à emissora",
+    "d": "Presidente e candidato à reeleição falou sobre acusações contra o filho Lulinha, caso do Banco Master e trajetória da dívida pública",
+    "link": "https://www.bbc.com/portuguese/articles/cwyzxded15qo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-29T00:20:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mendonça manda tirar do ar 12 posts com IA contra Flávio Bolsonaro",
+    "d": "Relator não avalia se peças configuram deepfake e foca na ausência de aviso sobre uso de IA; tema chega ao plenário do TSE na terça-feira",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/mendonca-manda-tirar-do-ar-12-posts-com-ia-contra-flavio-bolsonaro/",
+    "time": "2026-08-29T00:15:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Genro não consegue cortar pão feito pela sogra e brincadeira rende gargalhadas",
+    "d": "Vídeo que circula na internet mostra reação divertida ao chegar em casa",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/genro-nao-consegue-cortar-pao-feito-pela-sogra-e-brincadeira-rende-gargalhadas/",
+    "time": "2026-08-29T00:09:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Superlotação em jogos do Flamengo e Fluminense é investigada pelo MPRJ",
+    "d": "Clubes e empresas de bilheteria foram notificados para detalhar números de vendas e acesso por setor em jogos sob suspeita",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/superlotacao-em-jogos-do-flamengo-e-fluminense-e-investigada-pelo-mprj/",
+    "time": "2026-08-29T00:00:46.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris",
     "d": "O presidente dos EUA afirmou que o acordo garante ao seu país 'controle majoritário' de mais de 65 bilhões de barris das reservas venezuelanas; Caracas não confirmou negociação.",
@@ -14,6 +78,14 @@
     "d": "Novos postos foram concentrados no setor de cultivo de laranja (saldo positivo de 3,6 mil), seguido por serviços no campo (saldo positivo de 2,5 mil); no mês, geração de empregos no país foi de 58,5 mil postos, pior r…",
     "link": "https://www.cnnbrasil.com.br/agro/saldo-de-empregos-no-agro-atinge-125-mil-vagas-em-agosto-aponta-mte/",
     "time": "2026-08-28T23:51:45.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Canada poaches dozens of top US researchers for its universities",
+    "d": "Lured by millions of new research funding from the Carney government, 48 US researchers in fields like climate and medicine will soon be moving north.",
+    "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-28T23:47:38.000Z"
   },
   {
     "cat": "brasil",
@@ -51,7 +123,7 @@
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Trump announces new US oil agreement with Venezuela",
-    "d": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela, saying the US will have “majority” control of 65bn barrels…",
+    "d": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have…",
     "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
     "time": "2026-08-28T23:34:36.000Z"
   },
@@ -65,59 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras vence Vasco e larga na frente na final do Brasileiro Sub-20",
-    "d": "Jogando em São Januário, time paulista conseguiu a vitória por 1 a 0 e joga por um empate na próxima semana pelo título",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras-vence-vasco-e-larga-na-frente-na-final-do-brasileiro-sub-20/",
-    "time": "2026-08-28T23:24:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caiado apostará na gestão de Goiás na estreia na TV; Cury, na polarização",
-    "d": "Candidato do PSD terá 2 minutos e 2 segundos; já o do Avante, 35 segundos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-apostara-na-gestao-de-goias-na-estreia-na-tv-cury-na-polarizacao/",
-    "time": "2026-08-28T23:20:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Construção respondeu por 21,7% das vagas de emprego formal criadas em julho",
-    "d": "Segmento de obras de infraestrutura respondeu por 55,8% das vagas geradas pelo setor no mês",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/construcao-respondeu-por-217-das-vagas-de-emprego-formal-criadas-em-julho/",
-    "time": "2026-08-28T23:19:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caio Blat agradece jovem que doou medula ao primo, Ricardo: “Salvou a vida”",
-    "d": "Ator disse que decidiu desenvolver peça com o colega, a \"Subversão de Kafka\", porque admira seu trabalho",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/caio-blat-agradece-jovem-que-doou-medula-ao-primo-ricardo-salvou-a-vida/",
-    "time": "2026-08-28T23:16:47.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Dirigente do BCE vê economia resiliente, mas aponta ameaça aos preços",
-    "d": "Martin Kocher disse que é importante saber por quanto tempo os preços se manterão elevados e reiterou os esforços para trazer a inflação de volta à meta dos 2% ao ano",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/dirigente-do-bce-ve-economia-resiliente-mas-aponta-ameaca-aos-precos/",
-    "time": "2026-08-28T23:08:17.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Tralli e Renata entrevistam Flávio Bolsonaro, candidato a presidente pelo PL",
     "d": "Tralli e Renata entrevistam Flávio Bolsonaro, candidato a presidente pelo PL Renata Vasconcellos e César Tralli entrevistam os candidatos à Presidência da República entre os dias 24 e 29 de agosto.. O programa é trans…",
     "link": "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente.ghtml",
     "time": "2026-08-28T23:06:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump anuncia acordo que garante aos EUA acesso ao petróleo da Venezuela",
-    "d": "Tratado deve garantir o controle de Washington sobre mais de 65 bilhões barris de reservas do país latino-americano; republicano o classificou como \"o maior da história mundial\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-anuncia-acordo-com-a-venezuela-sobre-petroleo/",
-    "time": "2026-08-28T22:55:24.000Z"
   },
   {
     "cat": "economia",
@@ -242,14 +266,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "US plans to cut off military aid to key Middle East ally, BBC told",
-    "d": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-28T19:45:39.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Norway mourns King Harald as Haakon VIII ascends throne",
     "d": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
     "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
@@ -326,14 +342,6 @@
     "d": "A Polícia Federal colheu nesta sexta-feira (28) o depoimento do ex-banqueiro Daniel Vorcaro no inquérito que investiga sua relação com dois servidores do Banco Central (BC) suspeitos de receber vantagens indevidas e d…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/28/daniel-vorcaro-depoe-a-pf-em-investigacao-sobre-relacao-com-servidores-do-banco-central.ghtml",
     "time": "2026-08-28T17:27:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Entrevista de Lula na Globo: o que disse o candidato à Presidência disse sobre suas propostas",
-    "d": "Presidente e candidato à reeleição falou sobre acusações contra o filho Lulinha, caso do Banco Master e trajetória da dívida pública",
-    "link": "https://www.bbc.com/portuguese/articles/cwyzxded15qo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-28T17:21:59.000Z"
   },
   {
     "cat": "brasil",
@@ -438,14 +446,6 @@
     "d": "Brasil tem 214,2 milhões de habitantes, diz IBGE. Luiz Franco/g1 A população do Brasil é estimada em 214.211.951 habitantes, informou o Instituto Brasileiro de Geografia e Estatística (IBGE) nesta sexta-feira (28). O…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/28/brasil-tem-2142-milhoes-de-habitantes-diz-ibge.ghtml",
     "time": "2026-08-28T14:32:45.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Two-year curfew lifted in Sudan's capital",
-    "d": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
-    "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-28T14:18:53.000Z"
   },
   {
     "cat": "internacional",
