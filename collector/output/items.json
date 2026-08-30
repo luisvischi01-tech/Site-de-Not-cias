@@ -1,6 +1,30 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Federer é eternizado no Hall da Fama do Tênis: “Fama nunca foi o objetivo”",
+    "d": "Ex-tenista suíço se despediu da modalidade em setembro de 2022 com 20 tpitulos de Grand Slam",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/federer-e-eternizado-no-hall-da-fama-do-tenis-fama-nunca-foi-o-objetivo/",
+    "time": "2026-08-30T14:47:36.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iceland votes against restarting EU membership talks",
+    "d": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T14:45:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "DJ Vintage Culture desmarca shows por questões de saúde: “Preciso de pausa”",
+    "d": "Artista contou que fez mais de 25 apresentações em três continentes no último mês",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/dj-vintage-culture-desmarca-shows-por-questoes-de-saude-preciso-de-pausa/",
+    "time": "2026-08-30T14:30:55.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "A mãe e a filha detidas pelo ICE em hospital após sofrerem acidente de carro: 'Socorro, por favor, socorro!'",
     "d": "Cidadãs equatorianas foram detidas enquanto recebiam atendimento médico em um hospital após sofrerem acidente de carro nos EUA.",
@@ -51,7 +75,7 @@
     "cat": "economia",
     "src": "G1",
     "h": "Mega-Sena, concurso 3051: confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.051 da Mega-Sena foi realizado neste domingo (30), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 29.343.361,52. 📱Favorite o g1 no Goog…",
+    "d": "Mega-Sena, concurso 3051: confira os números sorteados O sorteio do concurso 3.051 da Mega-Sena foi realizado neste domingo (30), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 29.343.361…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/30/mega-sena-concurso-3051-confira-os-numeros-sorteados.ghtml",
     "time": "2026-08-30T14:02:21.000Z"
   },
@@ -98,7 +122,7 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Planetas sem estrelas, galáxias nunca vistas e o Universo invisível: como e",
+    "h": "Planetas sem estrelas, galáxias nunca vistas e o Universo invisível: como e o que novo telescópio da Nasa vai buscar no espaço",
     "d": "Máquina tem o objetivo de investigar a energia escura e a matéria escura, descobrir e caracterizar planetas além do nosso sistema solar, mapear bilhões de galáxias e estudar buracos negros",
     "link": "https://www.cnnbrasil.com.br/ciencia/planetas-sem-estrelas-galaxias-nunca-vistas-e-o-universo-invisivel-como-e-o-que-novo-telescopio-da-nasa-vai-buscar-no-espaco/",
     "time": "2026-08-30T13:51:36.000Z"
@@ -113,27 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nepal enterra centenas de vítimas não identificadas após enchentes",
-    "d": "No sábado (29), as autoridades enterraram 96 corpos não identificados na floresta e planejavam enterrar mais de 100 neste domingo",
-    "link": "https://www.cnnbrasil.com.br/internacional/nepal-enterra-centenas-de-vitimas-nao-identificadas-apos-enchentes/",
-    "time": "2026-08-30T13:44:48.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
     "d": "'Se tivéssemos tomado essa decisão 10 minutos mais tarde, nenhum de nós — nem eu, nem os alunos — estaria aqui hoje', relata o diretor da escola à BBC",
     "link": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T13:40:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caso Oliver: pais viram réus por morte de menino de 3 anos no RS",
-    "d": "D’andre Grayson afirmou que agrediu o filho porque ele não teria lhe dado “bom dia\"; norte-americano e esposa também responderão por homicídio doloso qualificado e tortura",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/caso-oliver-pais-de-viram-reus-por-morte-de-menino-de-3-anos-no-rs/",
-    "time": "2026-08-30T13:36:03.000Z"
   },
   {
     "cat": "internacional",
@@ -170,18 +178,10 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Presidente interina da Venezuela afirma manter 'soberania' em acordo petrolífero com os EUA",
+    "h": "Presidente interina da Venezuela afirma manter 'soberania' em acordo petrolífero com os EUA; Trump fala em 'presente' para o povo americano",
     "d": "A presidente interina da Venezuela, Delcy Rodríguez, discursa após a aprovação da Reforma da Lei Orgânica dos Hidrocarbonetos em frente ao Palácio Presidencial de Miraflores, em Caracas, em 29 de janeiro de 2026 AFP A…",
     "link": "https://g1.globo.com/mundo/noticia/2026/08/30/venezuela-acordo-petrolifero-com-os-eua.ghtml",
     "time": "2026-08-30T10:54:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iceland votes against restarting talks on joining EU",
-    "d": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
-    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T10:49:11.000Z"
   },
   {
     "cat": "economia",
