@@ -1,6 +1,22 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'",
+    "d": "Hitomi Soga foi mantida em cativeiro por mais de duas décadas. Ela é uma das pelo menos 17 cidadãs que, segundo o Japão, foram sequestradas durante as décadas de 1970 e 1980.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T16:21:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iceland votes against restarting EU membership talks",
+    "d": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T16:11:44.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Lisa Kudrow revela única parte de “Friends” que se recusa a repetir",
     "d": "Atriz que interpretou Phoebe disse que pessoas a param na rua para que repita trechos da série icônia",
@@ -82,7 +98,7 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Venezuela’s Delcy Rodríguez says oil deal with Trump has ‘endless’ benefits",
+    "h": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
     "d": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial en…",
     "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
     "time": "2026-08-30T15:08:33.000Z"
@@ -118,14 +134,6 @@
     "d": "Ex-tenista suíço se despediu da modalidade em setembro de 2022 com 20 tpitulos de Grand Slam",
     "link": "https://www.cnnbrasil.com.br/esportes/tenis/federer-e-eternizado-no-hall-da-fama-do-tenis-fama-nunca-foi-o-objetivo/",
     "time": "2026-08-30T14:47:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iceland votes against restarting EU membership talks",
-    "d": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
-    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T14:45:05.000Z"
   },
   {
     "cat": "brasil",
@@ -456,14 +464,6 @@
     "time": "2026-08-29T19:06:28.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que restaurantes estão acabando com as gorjetas nos EUA",
-    "d": "Enraizada na cultura americana, a gorjeta tem gerado uma discussão ampla no país nos últimos anos.",
-    "link": "https://www.bbc.com/portuguese/articles/c4gqln6l5ejo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T18:18:54.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
@@ -662,13 +662,5 @@
     "d": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimated Are you a Canadian boycotting US products? We’d like to hear from you Using the bathroom or having a cry is a…",
     "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
     "time": "2026-08-26T10:00:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Canada announces retaliatory tariffs on wide range of US goods",
-    "d": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last week US politics live – latest updates Canada has announced it will impose tariffs on a wide ra…",
-    "link": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
-    "time": "2026-08-25T16:17:44.000Z"
   }
 ]
