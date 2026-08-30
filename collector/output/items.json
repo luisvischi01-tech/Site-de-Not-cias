@@ -1,6 +1,46 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "EUA atingem lançadores iranianos na Ilha de Larak no primeiro ataque em semanas ao país",
+    "d": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto nas esferas econô…",
+    "link": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T23:12:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "No Dia da Visibilidade Lésbica, filha de Sandra Annenberg posa com namorada",
+    "d": "Elisa Annenberg-Paglia homenageou Karlie Jodickinson no Dia da Visibilidade Lésbica, data celebrada em 29 de agosto",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/no-dia-da-visibilidade-lesbica-filha-de-sandra-annenberg-posa-com-namorada/",
+    "time": "2026-08-30T23:10:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo 3 x 0 Botafogo: os melhores momentos do clássico pelo Brasileiro",
+    "d": "Rubro-negro leva a melhor no Maracanã e segue na busca pela liderança do Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-3-x-0-botafogo-os-melhores-momentos-do-classico-pelo-brasileiro/",
+    "time": "2026-08-30T23:08:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em retaliação à ofensiva dos EUA, Irã ataca bases americanas na Jordânia",
+    "d": "Medida marca resposta ao ataque dos EUA contra ilha iraniana de Larak",
+    "link": "https://www.cnnbrasil.com.br/internacional/em-retaliacao-a-ofensiva-dos-eua-ira-ataca-bases-americanas-na-jordania/",
+    "time": "2026-08-30T23:08:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Correios não deveriam tirar dinheiro da saúde e educação, diz especialista",
+    "d": "Ao CNN Agora, Marcus Pestana, diretor-executivo da Instituição Fiscal Independente (IFI), avalia crise estrutural da estatal e alerta que recursos públicos poderiam ir para saúde e educação",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/correios-nao-deveriam-tirar-dinheiro-da-saude-e-educacao-diz-especialista/",
+    "time": "2026-08-30T23:01:23.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Xuxa se pronuncia após polêmica com Ney Matogrosso: “Também estou certa”",
     "d": "O cantor expressou desconforto por ter sido envolvido na discussão entorno dos figurinos da turnê da cantora",
@@ -80,44 +120,12 @@
     "time": "2026-08-30T21:43:15.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians 0 x 1 Santos: veja os melhores momentos do jogo pelo Brasileiro",
-    "d": "Gol da vitória do Peixe na Neo Química Arena foi anotado por Oliva, após cobrança de falta de Neymar",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-0-x-1-santos-veja-os-melhores-momentos-do-jogo-pelo-brasileiro/",
-    "time": "2026-08-30T21:40:38.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Como o olfato canino é tão aguçado? Confira os pontos mais importantes sobre o olfato nos cães e se surpreenda",
-    "d": "Cães possuem um sistema olfativo muito mais potente do que humanos, utilizando esse sentido como principal orientação",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/como-o-olfato-canino-e-tao-agucado-confira-os-pontos-mais-importantes-sobre-o-olfato-nos-caes-e-se-surpreenda/",
-    "time": "2026-08-30T21:35:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Luizão, ex-atacante da Seleção, é suspeito de agredir namorada em SP",
-    "d": "Segundo a Polícia Civil, agressão teria acontecido após uma discussão por ciúmes em Maresias, no litoral de São Paulo; caso é investigado",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/luizao-ex-atacante-da-selecao-e-suspeito-de-agredir-namorada-em-sp/",
-    "time": "2026-08-30T21:32:25.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
     "d": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T21:15:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Santos vence e surpreende o Corinthians na Arena com boa atuação de Neymar",
-    "d": "Triunfo em Itaquera neste domingo (30) evitou que time do técnico Cuca voltasse à zona de rebaixamento do Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-vence-e-surpreende-o-corinthians-na-arena-com-boa-atuacao-de-neymar/",
-    "time": "2026-08-30T21:01:56.000Z"
   },
   {
     "cat": "brasil",
@@ -286,14 +294,6 @@
     "d": "'Se tivéssemos tomado essa decisão 10 minutos mais tarde, nenhum de nós — nem eu, nem os alunos — estaria aqui hoje', relata o diretor da escola à BBC",
     "link": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T13:40:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Islândia rejeita aderir à União Europeia em referendo que revela divisão no país",
-    "d": "Segundo informações preliminares, 52,5% rejeitaram a proposta do governo de retomar as negociações para entrar na UE, enquanto 47,5% a aprovaram. A diferença entre os dois grupos foi de aproximadamente 9.500 votos",
-    "link": "https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T12:04:07.000Z"
   },
   {
     "cat": "economia",
