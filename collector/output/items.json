@@ -2,6 +2,54 @@
   {
     "cat": "internacional",
     "src": "BBC News",
+    "h": "Nasa launches new space telescope able to see 100 times more than Hubble",
+    "d": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+    "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T18:53:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que as paradas do orgulho gay estão sob ataque — dentro e fora da comunidade LGBT",
+    "d": "Algumas das grandes empresas que costumavam apoiar as paradas do orgulho gay no Reino Unido agora demonstram receio em associarem o nome ao evento. O que mudou?",
+    "link": "https://www.bbc.com/portuguese/articles/c780d3e01y9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T18:45:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Diretor da A24 estará em novo filme de “X-Men”",
+    "d": "Diretor de fotografia de “Um Lugar Silencioso” pode indicar abordagem diferente para o reboot da Marvel",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/diretor-da-a24-estara-em-novo-filme-de-x-men/",
+    "time": "2026-08-30T18:41:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grêmio aceita proposta e Gabriel Mec deve se transferir para o Porto",
+    "d": "Atacante foi autorizado pelo Tricolor a viajar para Portugal e concretizar a transferência",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-aceita-proposta-e-gabriel-mec-deve-se-transferir-para-o-porto/",
+    "time": "2026-08-30T18:33:23.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Tarifaço de Trump pode atingir eleitorados específicos, avalia especialista",
+    "d": "Economista avalia política tarifária como estratégia eleitoral e defende que Brasil continue negociando, mesmo cedendo em alguns pontos",
+    "link": "https://www.cnnbrasil.com.br/economia/tarifaco-de-trump-pode-atingir-eleitorados-especificos-avalia-especialista/",
+    "time": "2026-08-30T18:33:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Defesa Civil emite alerta severo para chuvas em SP",
+    "d": "O aviso foi emitido às 15h22 deste domingo (30)",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-chuvas-em-sp/",
+    "time": "2026-08-30T18:32:02.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
     "h": "Eight killed and others missing after ferry capsizes off northern Cyprus",
     "d": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
     "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
@@ -89,43 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Melody esclarece boatos envolvendo Ana Castela e Maisa",
-    "d": "Cantora falou publicamente sobre notícias que envolveram seu nome nos últimos dias",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/melody-esclarece-boatos-envolvendo-ana-castela-e-maisa/",
-    "time": "2026-08-30T17:48:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Estudante espancado na UFRJ nega acusações: ‘Não sou nazista’",
-    "d": "Caso é investigado Polícia Civil do Rio de Janeiro",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/estudante-espancado-na-ufrj-nega-acusacoes-nao-sou-nazista/",
-    "time": "2026-08-30T17:47:54.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'",
     "d": "Um a cada três habitantes da Argentina enfrenta problemas para liquidar dívidas contraídas junto a bancos, carteiras digitais e agiotas.",
     "link": "https://www.bbc.com/portuguese/articles/cdr7jn02g13o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T17:39:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Aluna e orientadora morrem e Unicamp cria procedimento inédito para defesa póstuma de tese",
-    "d": "Morte de aluna e orientadora levou à criação de regra para que trabalho fosse reconhecido e publicado",
-    "link": "https://www.cnnbrasil.com.br/ciencia/aluna-e-orientadora-morrem-e-unicamp-cria-procedimento-inedito-para-defesa-postuma-de-tese/",
-    "time": "2026-08-30T17:37:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nepal enterra quase 200 corpos em floresta por lotação de necrotérios",
-    "d": "Equipes de resgate recuperaram 272 corpos não identificados provenientes do Tibete, na China, após as enchentes devastadoras na região do Himalaia",
-    "link": "https://www.cnnbrasil.com.br/internacional/nepal-enterra-quase-200-corpos-em-floresta-por-lotacao-de-necroterios/",
-    "time": "2026-08-30T17:29:53.000Z"
   },
   {
     "cat": "internacional",
@@ -354,14 +370,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "WhatsApp chat used to send cash for crime and extremism",
-    "d": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-    "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T04:59:56.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "d": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -502,14 +510,6 @@
     "d": "Apesar de seu potencial agrícola, o país importa cerca de 80% dos alimentos que consome.",
     "link": "https://www.bbc.com/portuguese/articles/cwyzj4rvv5eo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-29T17:25:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
-    "d": "O partido de extrema-direita AfD acredita que o país deve adotar uma visão mais positiva de seu passado. Pela primeira vez, a legenda pode ganhar poder significativo na Alemanha no período pós-guerra.",
-    "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T13:00:28.000Z"
   },
   {
     "cat": "economia",
