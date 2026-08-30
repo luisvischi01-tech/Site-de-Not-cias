@@ -1,6 +1,30 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Augusto Cury na Globo: o que disse o candidato à Presidência na entrevista à emissora",
+    "d": "Candidato pelo Avante, ele foi o último entrevistado da série da emissora com seis postulantes à Presidência da República na eleição de 2026.",
+    "link": "https://www.bbc.com/portuguese/articles/c2dwxj2zn63o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T02:23:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante",
+    "d": "Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante Renata Vasconcellos e César Tralli entrevistaram os candidatos à Presidência da República entre os dias 24 e 29 de agosto.. Os programas for…",
+    "link": "https://g1.globo.com/jornal-nacional/ao-vivo/augusto-cury-entrevista-candidatos-presidente.ghtml",
+    "time": "2026-08-30T02:07:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cury quer influenciadores nas embaixadas e aplicativo contra feminicídio",
+    "d": "Candidato do Avante diz que Itamaraty é \"perito em pacificação\", mas falha em \"vender o Brasil lá fora\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/cury-quer-influenciadores-nas-embaixadas-e-aplicativo-contra-feminicidio/",
+    "time": "2026-08-30T02:00:53.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Cury propõe ministério da IA, drones contra feminicídios e treinar embaixadores para serem influencers",
     "d": "Augusto Cury fala sobre proposta de contratar influencers para embaixadas pelo mundo O candidato do Avante à Presidência da República, Augusto Cury, defendeu neste sábado (29), em entrevista à Globo, a criação de um M…",
@@ -9,11 +33,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante",
-    "d": "Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante Renata Vasconcellos e César Tralli entrevistaram os candidatos à Presidência da República entre os dias 24 e 29 de agosto.. Os programas for…",
-    "link": "https://g1.globo.com/jornal-nacional/ao-vivo/augusto-cury-entrevista-candidatos-presidente.ghtml",
-    "time": "2026-08-30T01:35:05.000Z"
+    "src": "CNN Brasil",
+    "h": "São Paulo 2 x 1 Red Bull Bragantino: veja os melhores momentos do jogo",
+    "d": "No Morumbis, Tricolor deu fim a um jejum de dez partidas sem vencer no Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-2-x-1-red-bull-bragantino-veja-os-melhores-momentos-do-jogo/",
+    "time": "2026-08-30T01:33:31.000Z"
   },
   {
     "cat": "brasil",
@@ -59,7 +83,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Cury promete cortar até 10 ministérios, mas não diz quais, e nega conflito ao defender telemedicina no SUS e ser ligado a empresa da área",
-    "d": "Augusto Cury na bancada para entrevista com Renata Vasconcellos e César Tralli Manoella Mello/Globo O candidato do Avante à Presidência da República, Augusto Cury, concede neste sábado (29) entrevista à Globo. Veja os…",
+    "d": "Augusto Cury (Avante) é entrevistado por César Tralli e Renata Vasconcellos; veja íntegra O candidato do Avante à Presidência da República, Augusto Cury, concede neste sábado (29) entrevista à Globo. Veja os principai…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo.ghtml",
     "time": "2026-08-30T00:19:15.000Z"
   },
@@ -134,22 +158,6 @@
     "d": "Times se enfrentam em São Januário pela 25ª rodada do campeonato",
     "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-x-cruzeiro-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileirao/",
     "time": "2026-08-29T23:23:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA fornecem US$ 3,6 milhões em ajuda humanitária ao Nepal após enchentes",
-    "d": "Valor inclui até três meses de assistência alimentar emergencial para as cerca de 10.000 famílias afetadas",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-fornecem-us-36-milhoes-em-ajuda-humanitaria-ao-nepal-apos-enchentes/",
-    "time": "2026-08-29T23:14:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Conheça “O Homem que Sussurra”, novo suspense de Robert De Niro na Netflix",
-    "d": "Com a volta do \"Homem Sussurro\", pai e avô se unem para encontrar a criança e parar o criminoso",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/conheca-o-homem-que-sussurra-novo-suspense-de-robert-de-niro-na-netflix/",
-    "time": "2026-08-29T23:14:09.000Z"
   },
   {
     "cat": "internacional",
@@ -350,14 +358,6 @@
     "d": "Recuperação judicial: entenda o instrumento usado pelo Grupo Casas Bahia A Justiça de São Paulo decidiu, na sexta-feira (28), antecipar os efeitos da recuperação judicial do Grupo Casas Bahia e suspender, por 180 dias…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/29/justica-protege-casas-bahia-de-cobrancas-por-180-dias-durante-recuperacao-judicial.ghtml",
     "time": "2026-08-29T11:34:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que Augusto Cury diz sobre ser de esquerda ou de direita",
-    "d": "Candidato criticou Renan Santos (Missão) por seus ataques aos eleitores de Lula e disse que 'agressividade' do adversário o 'assombrava' no debate da Band.",
-    "link": "https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T10:34:28.000Z"
   },
   {
     "cat": "internacional",
