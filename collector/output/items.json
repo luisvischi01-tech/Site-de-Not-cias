@@ -1,11 +1,27 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nanda Costa abre álbum de fotos com suposta namorada no Ceará; veja",
+    "d": "Atriz e a produtora Emilie Rey posaram juntas em resort",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nanda-costa-abre-album-de-fotos-com-suposta-namorada-no-ceara-veja/",
+    "time": "2026-08-30T12:52:10.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Boat carrying some 270 people capsizes off northern Cyprus",
-    "d": "A local mayor says 159 passengers have been reached so far, with a rescue operation under way.",
-    "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T12:15:50.000Z"
+    "h": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+    "d": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+    "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T12:44:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Barretos: Gusttavo Lima, Leonardo e Teló se apresentam na última noite",
+    "d": "Embaixador subiu encerrando edição em que foi representante da Festa do Peão; veja fotos",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/barretos-gusttavo-lima-leonardo-e-telo-se-apresentam-na-ultima-noite/",
+    "time": "2026-08-30T12:35:40.000Z"
   },
   {
     "cat": "brasil",
@@ -62,14 +78,6 @@
     "d": "Equipamento partiu a bordo de um foguete Falcon Heavy, da SpaceX, do Centro Espacial Kennedy, na Flórida, às 8h26",
     "link": "https://www.cnnbrasil.com.br/ciencia/nasa-lanca-telescopio-do-tamanho-de-um-onibus-para-desvendar-materia-escura/",
     "time": "2026-08-30T11:41:43.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-    "d": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-    "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T11:25:11.000Z"
   },
   {
     "cat": "economia",
@@ -152,22 +160,6 @@
     "time": "2026-08-30T10:02:01.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Especialista: Dívidas e inflação afetam varejo mais que taxa das blusinhas",
-    "d": "Em entrevista ao CNN Money, o CEO da Wagner Investimentos, José Faria Júnior, afirmou que endividamento das famílias e alta dos preços têm impacto maior sobre o setor do que a taxação de importados",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/especialista-dividas-e-inflacao-afetam-varejo-mais-que-taxa-das-blusinhas/",
-    "time": "2026-08-30T10:00:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Manchester United x Ipswich: horário e onde assistir à Premier League",
-    "d": "Equipes se enfrentam neste domingo (30), às 12h30 (de Brasília)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-united-x-ipswich-horario-e-onde-assistir-a-premier-league/",
-    "time": "2026-08-30T10:00:33.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs",
@@ -246,6 +238,14 @@
     "d": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
     "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T04:59:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "d": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T04:01:02.000Z"
   },
   {
     "cat": "economia",
