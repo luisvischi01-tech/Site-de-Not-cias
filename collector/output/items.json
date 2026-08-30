@@ -2,10 +2,58 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Boat carrying some 270 people capsizes off northern Cyprus, local media report",
-    "d": "The local mayor says 159 passengers have been reached so far, with a rescue operation under way.",
+    "h": "Boat carrying some 270 people capsizes off northern Cyprus",
+    "d": "A local mayor says 159 passengers have been reached so far, with a rescue operation under way.",
     "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T11:55:48.000Z"
+    "time": "2026-08-30T12:15:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Elevador alcança 288 metros em 50 segundos e transforma trajeto escolar de 3 horas em 30 minutos para crianças na China",
+    "d": "Engenharia moderna garante segurança em uma caminhada anteriormente perigosa nas montanhas",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/elevador-alcanca-288-metros-em-50-segundos-e-transforma-trajeto-escolar-de-3-horas-em-30-minutos-para-criancas-na-china/",
+    "time": "2026-08-30T12:10:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Islândia rejeita aderir à União Europeia em referendo que revela divisão no país",
+    "d": "Segundo informações preliminares, 52,5% rejeitaram a proposta do governo de retomar as negociações para entrar na UE, enquanto 47,5% a aprovaram. A diferença entre os dois grupos foi de aproximadamente 9.500 votos",
+    "link": "https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T12:04:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ex-Miss Brasil Supranational é internada após perder a coroa por gravidez",
+    "d": "Modelo foi desclassificada de competição após descumprir cláusula de contrato",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-miss-brasil-supranational-e-internada-apos-perder-a-coroa-por-gravidez/",
+    "time": "2026-08-30T12:00:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Libéria recebe imigrantes deportados pelos Estados Unidos",
+    "d": "Voo vindo da Louisiana levou 20 deportados ao país, sob um acordo que pode resultar na transferência de até 1.200 pessoas",
+    "link": "https://www.cnnbrasil.com.br/internacional/liberia-recebe-imigrantes-deportados-pelos-estados-unidos/",
+    "time": "2026-08-30T12:00:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gigantes do varejo fecham 1,1 mil lojas desde 2022",
+    "d": "Canais digitais e marketplaces, inclusive internacionais, ganham peso na decisão de compra",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/gigantes-do-varejo-fecham-11-mil-lojas-desde-2022/",
+    "time": "2026-08-30T11:56:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mais de 30% das empreendedoras no Brasil estão na informalidade, diz estudo",
+    "d": "Pesquisa da Rede Mulher Empreendedora traz panorama atualizado sobre as características e desafios das mulheres que empreendem no Brasil",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/mais-de-30-das-empreendedoras-no-brasil-estao-na-informalidade-diz-estudo/",
+    "time": "2026-08-30T11:50:14.000Z"
   },
   {
     "cat": "brasil",
@@ -121,14 +169,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Terremoto”: Como o Irã ameaça responder à ofensiva financeira dos EUA",
-    "d": "Teerã destaca sua capacidade de causar danos recíprocos, alertando para ataques ampliados contra produtores de petróleo da região e países europeus",
-    "link": "https://www.cnnbrasil.com.br/internacional/terremoto-como-o-ira-ameaca-responder-a-ofensiva-financeira-dos-eua/",
-    "time": "2026-08-30T10:00:19.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs",
     "d": "O governo chinês está investindo US$ 20 bilhões para colocar o país na vanguarda da inovação na robótica para fábricas e concorrer com os EUA.",
@@ -144,44 +184,12 @@
     "time": "2026-08-30T09:08:23.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Canetas emagrecedoras desafiam indústria de alimentos, mostra estudo",
-    "d": "Pesquisa da Scanntech Brasil aponta queda no consumo de alimentos com avanço dos medicamentos GLP-1 e chegada dos genéricos ao mercado brasileiro",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canetas-emagrecedoras-desafiam-industria-de-alimentos-mostra-estudo/",
-    "time": "2026-08-30T09:00:52.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?",
     "d": "Acidente fez Silvio Pinheiro abandonar temporariamente as entregas Vitor Serrano/BBC Após um acidente, o entregador Silvio Luiz Pinheiro pensou em desistir da profissão. Quando entrou na central para devolver uma bici…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/30/por-que-o-brasil-ainda-nao-sabe-quantos-entregadores-se-acidentam-no-trabalho.ghtml",
     "time": "2026-08-30T09:00:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Após seis meses, guerra no Irã chega a um impasse de alto custo",
-    "d": "Após ataques e morte de seu líder, Teerã resiste à pressão de sanções dos EUA e Israel",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-apos-seis-meses-guerra-no-ira-chega-a-um-impasse-de-alto-custo/",
-    "time": "2026-08-30T09:00:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Putin assina decreto para controlar infraestruturas críticas após ataques",
-    "d": "Segundo medida, empresas que \"não conseguirem\" se defender do avanço ucraniano serão operadas por Moscou",
-    "link": "https://www.cnnbrasil.com.br/internacional/putin-assina-decreto-para-controlar-infraestruturas-criticas-apos-ataques/",
-    "time": "2026-08-30T09:00:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como identificar gatilhos da ansiedade? Com Dr. Kalil e especialistas",
-    "d": "Especialistas explicam que gatilhos podem ser ambientais ou internos e alertam para os sintomas físicos reais vividos por quem sofre com crises de ansiedade",
-    "link": "https://www.cnnbrasil.com.br/saude/como-identificar-gatilhos-da-ansiedade-com-dr-kalil-e-especialistas/",
-    "time": "2026-08-30T09:00:01.000Z"
   },
   {
     "cat": "economia",
@@ -398,14 +406,6 @@
     "d": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
     "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-29T19:06:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como a guerra do Irã reacendeu a disputa pelo Canal do Panamá",
-    "d": "A hidrovia artificial que liga os oceanos Atlântico e Pacífico tornou-se o mais recente foco de disputa entre Estados Unidos e China.",
-    "link": "https://www.bbc.com/portuguese/articles/c74e88e9kpeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T18:51:13.000Z"
   },
   {
     "cat": "brasil",
