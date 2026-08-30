@@ -1,6 +1,94 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A mãe e a filha detidas pelo ICE em hospital após sofrerem acidente de carro: 'Socorro, por favor, socorro!'",
+    "d": "Cidadãs equatorianas foram detidas enquanto recebiam atendimento médico em um hospital após sofrerem acidente de carro nos EUA.",
+    "link": "https://www.bbc.com/portuguese/articles/cp8411evl10o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T14:30:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Canada installs large Lake Ontario sign in latest jab at US",
+    "d": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+    "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T14:25:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Glover Teixeira domina Maurício Shogun e vence Spaten Fight Night 3",
+    "d": "Na luta principal da noite deste sábado (29), mineiro foi superior no confronto e conquistou vitória por decisão unânime",
+    "link": "https://www.cnnbrasil.com.br/esportes/lutas/glover-teixeira-domina-mauricio-shogun-e-vence-spaten-fight-night-3/",
+    "time": "2026-08-30T14:16:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Irã publica mensagem do líder supremo que pede união de países muçulmanos",
+    "d": "Texto apelava à unidade muçulmana, à cooperação em diversas áreas e à defesa mútua, afirmando que qualquer pessoa que criasse divisões entre os muçulmanos, \"conscientemente ou inconscientemente\", estaria ajudando os i…",
+    "link": "https://www.cnnbrasil.com.br/internacional/ira-publica-mensagem-do-lider-supremo-que-pede-uniao-de-paises-muculmanos/",
+    "time": "2026-08-30T14:13:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Agosto tem melhor relação de troca entre grãos e fertilizantes no agro",
+    "d": "Recuo da ureia e recuperação dos preços agrícolas melhoraram relação de troca do produtor; fosfatados, porém, seguem pressionados",
+    "link": "https://www.cnnbrasil.com.br/noticias/agosto-tem-melhor-relacao-de-troca-entre-graos-e-fertilizantes-no-agro/",
+    "time": "2026-08-30T14:12:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tainá Militão engana Éder e diz que filho nasceu: “Coração parou”",
+    "d": "Influenciadora pregou peça no jogador após ele ficar algumas horas sem responder",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/taina-militao-engana-eder-e-diz-que-filho-nasceu-coracao-parou/",
+    "time": "2026-08-30T14:05:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena, concurso 3051: confira os números sorteados",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.051 da Mega-Sena foi realizado neste domingo (30), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 29.343.361,52. 📱Favorite o g1 no Goog…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/30/mega-sena-concurso-3051-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-08-30T14:02:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Leão é abandonado após fechamento de zoológico, passa seis anos sem outros leões e perde rugido",
+    "d": "Veja como animal recuperou o rugido e voltou a brincar após ser levado para santuário na África do Sul",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/leao-e-abandonado-apos-fechamento-de-zoologico-passa-seis-anos-sem-outros-leoes-e-perde-rugido/",
+    "time": "2026-08-30T14:02:05.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks",
+    "d": "Small business owners have watched large companies fumble – and sometimes succeed – with AI, and then use what works One thing I’ve learned about corporate America is that what it succeeds at ultimately trickles down…",
+    "link": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
+    "time": "2026-08-30T14:00:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Iraque pode virar exemplo de como EUA planejam atingir parceiros do Irã",
+    "d": "Washington já sancionou diversos bancos iraquianos acusados ​​de fazer negócios com Teerã, embora tenha evitado medidas que devastariam a economia do aliado estratégico de ambos os países",
+    "link": "https://www.cnnbrasil.com.br/internacional/iraque-pode-virar-exemplo-de-como-eua-planejam-atingir-parceiros-do-ira/",
+    "time": "2026-08-30T14:00:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Long & Short: Saiba como buscar ganhos na alta e na baixa dos ativos",
+    "d": "Operação permite buscar ganhos tanto com a alta quanto com a queda de ativos, mas exige conhecimento, acompanhamento e atenção aos riscos envolvidos",
+    "link": "https://www.cnnbrasil.com.br/economia/investimentos/long-short-saiba-como-buscar-ganhos-na-alta-e-na-baixa-dos-ativos/",
+    "time": "2026-08-30T14:00:12.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Julián Álvarez volta a treinar no Atlético em meio a novela com o Barcelona",
     "d": "Clube catalão segue interessado na contratação do atacante argentino, que não atuou no último jogo do Atleti",
@@ -10,7 +98,7 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Planetas sem estrelas, galáxias nunca vistas e o Universo invisível: como e o que novo telescópio da Nasa vai buscar no espaço",
+    "h": "Planetas sem estrelas, galáxias nunca vistas e o Universo invisível: como e",
     "d": "Máquina tem o objetivo de investigar a energia escura e a matéria escura, descobrir e caracterizar planetas além do nosso sistema solar, mapear bilhões de galáxias e estudar buracos negros",
     "link": "https://www.cnnbrasil.com.br/ciencia/planetas-sem-estrelas-galaxias-nunca-vistas-e-o-universo-invisivel-como-e-o-que-novo-telescopio-da-nasa-vai-buscar-no-espaco/",
     "time": "2026-08-30T13:51:36.000Z"
@@ -48,62 +136,6 @@
     "time": "2026-08-30T13:36:03.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Perfil de Nicolás Maduro publica fotos do líder chavista em prisão nos EUA",
-    "d": "Imagens mostram o líder chavista em uniforme prisional cinza e posando; registro indica que as fotos foram tiradas na tarde do dia 25 de junho",
-    "link": "https://www.cnnbrasil.com.br/internacional/perfil-de-nicolas-maduro-publica-fotos-do-lider-chavista-em-prisao-nos-eua/",
-    "time": "2026-08-30T13:35:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Athletico-PR x Fluminense: escalações e onde assistir ao jogo do Brasileiro",
-    "d": "Confronto direto pelo G4 da Série A acontece às 11h, na Arena da Baixada, em Curitiba",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-pr-x-fluminense-escalacoes-e-onde-assistir-ao-jogo-do-brasileiro/",
-    "time": "2026-08-30T13:30:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "1 ano sem Luís Fernando Veríssimo: 5 livros para entender a obra do autor",
-    "d": "Escritor, filho de Erico Verissimo, faleceu em 2025 em decorrência de complicações provenientes de uma pneumonia",
-    "link": "https://www.cnnbrasil.com.br/pop/1-ano-sem-luis-fernando-verissimo-5-livros-para-entender-a-obra-do-autor/",
-    "time": "2026-08-30T13:30:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Barco com centenas a bordo naufraga perto do Chipre e ao menos sete morrem",
-    "d": "Imagens do local do naufrágio mostram dezenas de pessoas na lateral da embarcação e outras na água, vestindo coletes salva-vidas",
-    "link": "https://www.cnnbrasil.com.br/internacional/barco-com-centenas-a-bordo-naufraga-perto-do-chipre/",
-    "time": "2026-08-30T13:25:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Barcelona se aproxima de acerto com Gabriel Jesus, diz jornalista",
-    "d": "Jogador brasileiro deve viajar nesta segunda-feira (31) para realizar exames e fechar contrato com o clube catalão",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/barcelona-se-aproxima-de-acerto-com-gabriel-jesus-diz-jornalista/",
-    "time": "2026-08-30T13:24:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vinte pessoas são resgatadas após vento forte na Praia do Pepê, no Rio",
-    "d": "Bombeiros usaram motos aquáticas para retirar grupo da água na Praia do Pepê neste domingo (30); velocidade do vento chegou a 57,5 km/h",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/vinte-pessoas-sao-resgatados-apos-vento-forte-na-praia-do-pepe-no-rio/",
-    "time": "2026-08-30T13:23:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ticiane Pinheiro prestigia lançamento da 1ª coleção de moda de Rafa Justus",
-    "d": "Influenciadora fez parceria com marca de roupas da irmã, Fabiana Justus, estreando no universo fashion",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ticiane-pinheiro-prestigia-lancamento-da-1a-colecao-de-moda-de-rafa-justus/",
-    "time": "2026-08-30T13:17:47.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
@@ -118,6 +150,14 @@
     "d": "Segundo informações preliminares, 52,5% rejeitaram a proposta do governo de retomar as negociações para entrar na UE, enquanto 47,5% a aprovaram. A diferença entre os dois grupos foi de aproximadamente 9.500 votos",
     "link": "https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T12:04:07.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Meet the gen Zers finding job opportunities teaching English abroad",
+    "d": "Some young people are teaching in countries like South Korea as education funding is gutted and recent grads face a tough job market in their own countries A year ago, Arianna Marie, 25, was struggling to control the…",
+    "link": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
+    "time": "2026-08-30T11:00:56.000Z"
   },
   {
     "cat": "brasil",
@@ -360,14 +400,6 @@
     "time": "2026-08-30T00:19:15.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Large Lake Ontario sign installed in Canada in latest jab at US",
-    "d": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-    "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T00:17:25.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Ex-comandante da FAB rebate Flávio Bolsonaro e nega fazer campanha para Lula",
@@ -398,14 +430,6 @@
     "d": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
     "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-29T19:44:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Mistérios e segredos de textos medievais revelados graças à IA",
-    "d": "Em bibliotecas e arquivos de todo o mundo encontram-se mensagens e documentos históricos ocultos por trás de símbolos incompreensíveis - que agora estão sendo decifrados por pesquisadores com a ajuda da IA.",
-    "link": "https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T19:42:47.000Z"
   },
   {
     "cat": "internacional",
