@@ -1,9 +1,65 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O país que enfrenta a escassez de água com sistemas hídricos abandonados há centenas de anos",
+    "d": "A escassez de água e as mudanças climáticas estão levando muitas comunidades indianas a restaurar antigas infraestruturas hídricas construídas há séculos, para colocá-las novamente em funcionamento",
+    "link": "https://www.bbc.com/portuguese/articles/c78064pyzdzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T10:55:43.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Venezuela afirma manter 'soberania' em acordo petrolífero com os EUA",
+    "d": "EUA vão ter controle sobre 65 bilhões de barris de petróleo da Venezuela A líder interina da Venezuela, Delcy Rodríguez, fez um pronunciamento na noite deste sábado (29) e garantiu que o país mantém o controle de seu…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/08/30/venezuela-acordo-petrolifero-com-os-eua.ghtml",
+    "time": "2026-08-30T10:54:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iceland votes against restarting talks on joining EU",
+    "d": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T10:49:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça antecipa período de suspensão de cobranças contra Casas Bahia",
+    "d": "Em meio à recuperação judicial, ficam suspensas por 180 dias, a partir de 19 de agosto, as ações e execuções contra as empresas do grupo",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/justica-antecipa-periodo-de-suspensao-de-cobrancas-contra-casas-bahia/",
+    "time": "2026-08-30T10:44:45.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Leite passa por testes para garantir qualidade e segurança",
+    "d": "Alunos de engenharia de alimentos e farmácia estudam a qualidade do leite e possíveis fraudes Reprodução / TV TEM Do campo à indústria, o leite é analisado em diferentes etapas para assegurar que chegue ao consumidor…",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/30/leite-passa-por-testes-para-garantir-qualidade-e-seguranca.ghtml",
+    "time": "2026-08-30T10:30:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Presidente Prudente recebe 7ª edição da Batatec",
+    "d": "7ª edição da Feira Tecnológica da Batata Doce (Batatec) acontece em Presidente Prudente (SP) Reprodução / TV TEM Presidente Prudente (SP) recebe em 2026 a 7ª edição da Feira Tecnológica da Batata Doce (Batatec). O eve…",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/30/presidente-prudente-recebe-7a-edicao-da-batatec.ghtml",
+    "time": "2026-08-30T10:30:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Irrigashow reúne 5 mil visitantes em Paranapanema",
+    "d": "14ª edição da Irrigashow aconteceu entre 26 e 28 de agosto em Paranapanema (SP) Reprodução / TV TEM A 14ª edição da Irrigashow aconteceu entre os dias 26 e 28 de agosto em Campos de Holambra, no município de Paranapan…",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/30/irrigashow-reune-5-mil-visitantes-em-paranapanema.ghtml",
+    "time": "2026-08-30T10:30:21.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-    "d": "Five others in their twenties were injured after shots were fired in Aarau, near Zurich overnight.",
+    "d": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
     "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T10:29:20.000Z"
   },
@@ -38,22 +94,6 @@
     "d": "Teerã destaca sua capacidade de causar danos recíprocos, alertando para ataques ampliados contra produtores de petróleo da região e países europeus",
     "link": "https://www.cnnbrasil.com.br/internacional/terremoto-como-o-ira-ameaca-responder-a-ofensiva-financeira-dos-eua/",
     "time": "2026-08-30T10:00:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iceland votes against restarting talks on joining EU",
-    "d": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
-    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T09:49:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que as imagens das inundações no Nepal e no Tibete não são mostradas na China e se sabe pouco sobre as vítimas no país",
-    "d": "Algumas das imagens mais dramáticas das enchentes ocorridas na quarta-feira (26/8) são escondidas do público na China",
-    "link": "https://www.bbc.com/portuguese/articles/cz7zqqnw5pjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T09:30:32.000Z"
   },
   {
     "cat": "brasil",
@@ -134,14 +174,6 @@
     "d": "Conheça 11 métodos ancestrais e práticos para manter o ambiente e o corpo fresco",
     "link": "https://www.cnnbrasil.com.br/curiosidades/de-panos-no-congelador-a-cha-de-hortela-na-pele-truques-desenvolvidos-por-egipcios-ajudam-a-resfriar-ambientes-de-forma-natural/",
     "time": "2026-08-30T08:18:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena: quanto rendem R$ 30 milhões na poupança, Tesouro Direto ou CDB",
-    "d": "Sorteio deste domingo (30) será realizado às 11h; apostas podem ser feitas até 22h de sábado (29)",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-30-milhoes-na-poupanca-tesouro-direto-ou-cdb-3/",
-    "time": "2026-08-30T08:05:24.000Z"
   },
   {
     "cat": "economia",
@@ -248,14 +280,6 @@
     "time": "2026-08-30T03:00:48.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bilionários brasileiros: quem subiu, quem caiu e quem estreou no top 10 da Forbes",
-    "d": "O cofundador do Facebook Eduardo Saverin comparece ao segundo aniversário da 99.co e ao lançamento do 99PRO em Cingapura em 26 de maio de 2016. Roslan Rahman/AFP/Arquivo Eduardo Saverin manteve a liderança entre os br…",
-    "link": "https://g1.globo.com/economia/negocios/noticia/2026/08/30/bilionarios-brasileiros-quem-subiu-quem-caiu-e-quem-estreou-no-top-10-da-forbes.ghtml",
-    "time": "2026-08-30T03:00:45.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Eleições 2026: o que os planos de governo propõem para proteger crianças na internet",
@@ -328,14 +352,6 @@
     "time": "2026-08-30T00:17:25.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Correios fecham o primeiro semestre com prejuízo de R$ 5,6 bi; estatal busca empréstimo de R$ 7 bi",
-    "d": "Parte das medidas dos Correios para enfrentar crise histórica, PDV tem baixa adesão de funcionários Jornal Nacional/ Reprodução A Empresa de Correios e Telégrafos, os Correios, publicaram, neste sábado (29), as demons…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/29/correios-fecham-o-primeiro-semestre-com-prejuizo-de-r-56-bi.ghtml",
-    "time": "2026-08-29T23:39:22.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Ex-comandante da FAB rebate Flávio Bolsonaro e nega fazer campanha para Lula",
@@ -390,14 +406,6 @@
     "d": "A hidrovia artificial que liga os oceanos Atlântico e Pacífico tornou-se o mais recente foco de disputa entre Estados Unidos e China.",
     "link": "https://www.bbc.com/portuguese/articles/c74e88e9kpeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-29T18:51:13.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Governo prevê aporte de R$ 6 bilhões para os Correios em 2027, afirma ministro",
-    "d": "Correios têm prejuízo de R$ 3 bilhões nos primeiros 3 meses de 2026 Jornal Nacional/ Reprodução O ministro do Planejamento, Bruno Moretti, afirmou ao g1 que o governo federal vai incluir um aporte de R$ 6 bilhões para…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/29/governo-preve-aporte-de-r-6-bilhoes-para-os-correios-em-2027-afirma-ministro.ghtml",
-    "time": "2026-08-29T18:27:44.000Z"
   },
   {
     "cat": "brasil",
@@ -638,13 +646,5 @@
     "d": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last week US politics live – latest updates Canada has announced it will impose tariffs on a wide ra…",
     "link": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
     "time": "2026-08-25T16:17:44.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘The day I disclose, my career is over’: the journalist facing an $800 daily fine to keep her sources secret",
-    "d": "If Catherine Herridge’s petition to the US supreme court fails, she’ll be on the hook for a daily fine until she discloses her sources – a case unsettling press freedom organizations For 18 days this summer, veteran j…",
-    "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
-    "time": "2026-08-25T11:00:35.000Z"
   }
 ]
