@@ -1,6 +1,54 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "EUA atingem lançadores iranianos na Ilha de Larak no primeiro ataque em semanas ao país",
+    "d": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto nas esferas econô…",
+    "link": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T08:31:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "One dead and several missing after 'terrifying' flash flooding hits Grand Canyon",
+    "d": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
+    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T08:17:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Seguros Inter: entenda como funciona cada um",
+    "d": "Instituição financeira oferece ecossistema de produtos e serviços que inclui apólices para manter seus clientes protegidos contra emergências e riscos",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/seguros-inter-entenda-como-funciona-cada-um/",
+    "time": "2026-08-31T08:00:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "De princesa a ícone pop: por que Diana continua relevante após 29 anos?",
+    "d": "Moda, filmes, séries, livros e redes sociais apresentam Lady Di a novas gerações e ajudam a manter vivo seu legado quase três décadas após sua morte",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/de-princesa-a-icone-pop-por-que-diana-continua-relevante-apos-29-anos/",
+    "time": "2026-08-31T08:00:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Não quero que percebam que fiz algo”: médica explica nova era da estética",
+    "d": "Dermatologista Dra. Sabrina Leite explica por que parecer descansado e natural se tornou mais desejado do que aparentar ter feito procedimentos",
+    "link": "https://www.cnnbrasil.com.br/saude/nao-quero-que-percebam-que-fiz-algo-medica-explica-nova-era-da-estetica/",
+    "time": "2026-08-31T08:00:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
+    "d": "More than 200mm of rain forecast in parts of South Korea, while parts of southern Europe to be 10C above average South Korea’s prime minister, Han Seong-sook, met officials to prepare for heavy rain expected this week…",
+    "link": "https://www.theguardian.com/environment/2026/aug/31/weather-tracker-warm-yellow-sea-storms-south-korea",
+    "time": "2026-08-31T07:57:24.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Os caminhos tortuosos para a regulamentação da IA nos EUA",
     "d": "Washington enfrenta disputas internas e falta de consenso enquanto modelos de inteligência artificial evoluem e apresentam comportamentos inesperados",
@@ -88,30 +136,6 @@
     "time": "2026-08-31T06:43:32.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Alerta vermelho de grande perigo para chuva é emitido para SC e RS",
-    "d": "Nesta segunda-feira (31), chuvas superiores a 60 mm/h ou maior que 100 mm/dia, ventos superiores a 100 km/h, e queda de granizo devem atingir a região",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/alerta-vermelho-de-grande-perigo-para-chuva-e-emitido-para-sc-e-rs/",
-    "time": "2026-08-31T06:35:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Novo telescópio da Nasa, Roman pode fazer em um mês o que o Hubble levaria",
-    "d": "Apelidado de \"máquina de descobertas\", novo telescópio é impulsionado por um campo de visão 100 vezes maior que o do Hubble",
-    "link": "https://www.cnnbrasil.com.br/ciencia/novo-telescopio-da-nasa-roman-pode-fazer-em-um-mes-o-que-o-hubble-levaria-um-seculo/",
-    "time": "2026-08-31T06:34:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula corteja empresários para vencer resistência à reeleição",
-    "d": "Jantar no Palácio da Alvorada ocorre em meio à ofensiva de Flávio Bolsonaro para se aproximar do mercado",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-corteja-empresarios-para-vencer-resistencia-a-reeleicao/",
-    "time": "2026-08-31T06:33:33.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Os vídeos feitos com IA que erotizam a escravidão no Brasil para lucrar com anúncios",
@@ -186,7 +210,7 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Judicialização de dívidas bate recorde e passa de 1,2 milhão ações; especialistas veem crédito fácil, bets e endividamento entre as causas",
+    "h": "Judicialização de dívidas bate recorde e passa de 1,2 milhão de ações; especialistas veem crédito fácil, bets e endividamento entre as causas",
     "d": "As cobranças judiciais de dívidas privadas chegaram ao maior patamar da série histórica em 2025, segundo levantamento feito pelo g1 com base no Painel de Estatísticas do Conselho Nacional de Justiça (CNJ). Foram 1.239…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/31/judicializacao-de-dividas-recorde.ghtml",
     "time": "2026-08-31T03:00:55.000Z"
@@ -214,22 +238,6 @@
     "d": "Presidente Lula e o senador Flávio Bolsonaro Ricardo Stuckert/Presidência da República; Vittor Sales A ministra do Tribunal Superior Eleitoral (TSE), Estela Aranha, suspendeu a propaganda eleitoral veiculada pelo pres…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/30/justica-eleitoral-suspende-propaganda-eleitoral-de-lula-que-chama-flavio-bolsonaro-de-funcionario-fantasma.ghtml",
     "time": "2026-08-31T00:58:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-    "d": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T23:52:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "EUA atingem lançadores iranianos na Ilha de Larak no primeiro ataque em semanas ao país",
-    "d": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto nas esferas econô…",
-    "link": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T23:12:18.000Z"
   },
   {
     "cat": "brasil",
@@ -322,7 +330,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'",
+    "h": "'Fui sequestrada pela Coreia do Norte e forçada a me casar com um soldado americano'",
     "d": "Hitomi Soga foi mantida em cativeiro por mais de duas décadas. Ela é uma das pelo menos 17 cidadãs que, segundo o Japão, foram sequestradas durante as décadas de 1970 e 1980.",
     "link": "https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T16:21:48.000Z"
@@ -398,14 +406,6 @@
     "d": "Some young people are teaching in countries like South Korea as education funding is gutted and recent grads face a tough job market in their own countries A year ago, Arianna Marie, 25, was struggling to control the…",
     "link": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
     "time": "2026-08-30T11:00:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O país que enfrenta a escassez de água com sistemas hídricos abandonados há centenas de anos",
-    "d": "A escassez de água e as mudanças climáticas estão levando muitas comunidades indianas a restaurar antigas infraestruturas hídricas construídas há séculos, para colocá-las novamente em funcionamento",
-    "link": "https://www.bbc.com/portuguese/articles/c78064pyzdzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T10:55:43.000Z"
   },
   {
     "cat": "economia",
@@ -560,14 +560,6 @@
     "time": "2026-08-28T17:41:37.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
-    "d": "Federation says it fears death toll of nearly 600 will continue to rise as rescuers reach cut-off areas Nepal-Tibet flash flood – latest updates Visual guide: how the deadly flooding unfolded Tell us: have you been af…",
-    "link": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll",
-    "time": "2026-08-28T15:55:41.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
@@ -586,8 +578,8 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Clique aqui",
-    "d": "Confira as estimativas de votos para Eleição 2026 no Agregador da BBC News Brasil",
+    "h": "Quem está à frente nas pesquisas para a eleição presidencial: veja o agregador de pesquisas da BBC",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-28T08:50:55.000Z"
   },
