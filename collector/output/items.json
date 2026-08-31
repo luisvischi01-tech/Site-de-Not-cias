@@ -1,11 +1,83 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Aprovação de governo vira voto na eleição? Leia análise de Felipe Nunes",
+    "d": "Toda campanha presidencial produz a sensação de que a eleição pode ser reinventada a cada semana. Uma entrevista ruim, uma denúncia, um debate ou uma peça de propaganda parecem capazes de mudar tudo. Esses eventos imp…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/aprovacao-de-governo-voto-para-presidente-analise.ghtml",
+    "time": "2026-08-31T12:13:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lucro líquido do Banco da Amazônia cai para R$ 353,1 milhões no 1º semestre",
+    "d": "Instituição financeira também apontou para aumento na inadimplência no portfólio de ⁠pessoa física para 3,4 pontos na base anual, enquanto o de pessoa jurídica subiu para 2,1 pontos",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/lucro-liquido-do-banco-da-amazonia-cai-para-r-3531-milhoes-no-1o-semestre/",
+    "time": "2026-08-31T12:10:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Abel é direto sobre Vitor Roque no Palmeiras: “Não está em boa forma”",
+    "d": "Após empate com o Mirassol, técnico do Palmeiras destacou que o atacante precisa recuperar a boa fase física",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-e-direto-sobre-vitor-roque-no-palmeiras-nao-esta-em-boa-forma/",
+    "time": "2026-08-31T12:08:52.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar opera em queda de olho na escalada entre EUA e Irã e no Orçamento brasileiro",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera com queda nesta segunda-feira (31), recuando 0,59% por volta das 9h25, cotado a R$ 5,1655. O Ibovespa, prinicipal índice da bolsa brasileira, inicia as su…",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/31/dolar-ibovespa.ghtml",
+    "time": "2026-08-31T12:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mocidade coroa rainha para 2027; Fabíola de Andrade ganha novo posto",
+    "d": "A coroação de Gaby Mendes aconteceu na noite do último sábado (29), durante a semifinal de samba enredo",
+    "link": "https://www.cnnbrasil.com.br/pop/carnaval/mocidade-coroa-rainha-para-2027-fabiola-de-andrade-ganha-novo-posto/",
+    "time": "2026-08-31T12:00:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Luan, ex-Palmeiras, agride adversários com cotovelada após expulsão; veja",
+    "d": "Atacante do Gama recebeu cartão vermelho por causa de uma agressão a um meio-campista do ASA, na semifinal do Brasileiro da Série D",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/luan-ex-palmeiras-agride-adversarios-com-cotovelada-apos-expulsao-veja/",
+    "time": "2026-08-31T11:56:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Júri de homem acusado de matar esposa após briga por futebol acontece hoje",
+    "d": "Leonardo Souza Ceschini será submetido ao Tribunal do Júri nesta segunda-feira (31), em São Paulo, seis anos após o crime",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juri-de-homem-acusado-de-matar-esposa-apos-briga-por-futebol-acontece-hoje/",
+    "time": "2026-08-31T11:56:23.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Countries legally obliged to consider slavery reparations, says UN committee",
+    "d": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade a…",
+    "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+    "time": "2026-08-31T11:54:16.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "The jury's options in Lindsay Clancy's murder trial",
     "d": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
     "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T11:53:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nicole Louise: entenda polêmica envolvendo igreja e afastamento do pai gay",
+    "d": "Cantora gospel é criticada após Islou Silva expor publicamente distanciamento entre os dois",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nicole-louise-entenda-polemica-envolvendo-igreja-e-afastamento-do-pai-gay/",
+    "time": "2026-08-31T11:53:11.000Z"
   },
   {
     "cat": "brasil",
@@ -80,14 +152,6 @@
     "time": "2026-08-31T11:36:15.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nexus/BTG: avaliação negativa do governo Lula é de 46%; positiva, 37%",
-    "d": "Foram ouvidos 2.005 eleitores entre os dias 28 e 30 de agosto; a margem de erro é de dois pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/politica/nexus-btg-avaliacao-negativa-do-governo-lula-e-de-46-positiva-37/",
-    "time": "2026-08-31T11:34:18.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Analistas do mercado reduzem estimativa de inflação e de crescimento da economia em 2026",
@@ -96,52 +160,12 @@
     "time": "2026-08-31T11:33:51.000Z"
   },
   {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Dívida bruta do governo sobe para 82,5% do PIB em julho",
-    "d": "Dados foram divulgados pelo Banco Central nesta segunda-feira (31)",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/divida-bruta-do-governo-sobe-para-825-do-pib-em-julho/",
-    "time": "2026-08-31T11:32:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Filha de Juliano Cazarré é internada na CTI e mãe pede: “Reze com a gente”",
-    "d": "Maria Guilhermina, 4, nasceu com uma cardiopatia congênita rara e convive com sequelas da anomalia de Ebstein",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filha-de-juliano-cazarre-e-internada-na-cti-e-mae-pede-reze-com-a-gente/",
-    "time": "2026-08-31T11:30:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Usinas hidrelétricas avançam no Himalaia enquanto enchentes expõem riscos",
-    "d": "Região concentra projetos de grande porte de China, Índia e Nepal, mas especialistas alertam para riscos de deslizamentos, fluxos de detritos e enchentes causadas pelo rompimento de lagos glaciais",
-    "link": "https://www.cnnbrasil.com.br/internacional/usinas-hidreletricas-avancam-no-himalaia-enquanto-enchentes-expoem-riscos/",
-    "time": "2026-08-31T11:25:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Preços do petróleo sobem mais de 3% com nova escalada no Oriente Médio",
-    "d": "Irã e Estados Unidos trocaram ataques pela primeira vez em mais de um mês na noite de domingo (30) para segunda-feira (31), em uma sequência de ações que ameaça reacender o conflito, após semanas de relativa calmaria…",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-31-agosto-2026/",
-    "time": "2026-08-31T11:23:48.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos'",
     "d": "Grace, de 14 anos, sente que os médicos foram negligentes com sua dor. Ela quer que outras pessoas conheçam os sintomas da doença.",
     "link": "https://www.bbc.com/portuguese/articles/cr7dezrz40xo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T11:21:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Por que o travesseiro apresenta manchas amareladas mesmo com as fronhas sempre limpas e trocadas toda semana? Entenda",
-    "d": "Saliva, pele morta e umidade penetram no tecido, criando o ambiente perfeito para a proliferação de fungos e ácaros",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-o-travesseiro-apresenta-manchas-amareladas-mesmo-com-as-fronhas-sempre-limpas-e-trocadas-toda-semana-entenda/",
-    "time": "2026-08-31T11:20:50.000Z"
   },
   {
     "cat": "brasil",
@@ -472,14 +496,6 @@
     "time": "2026-08-30T16:11:44.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Toffoli adia julgamento do registro de candidatura de Renan Santos e aponta indícios de ilicitude",
-    "d": "Toffoli adia julgamento da candidatura de Renan Santos e vê indícios de ilicitude O ministro do Tribunal Superior Eleitoral (TSE) Dias Toffoli , publicou neste domingo (30) a decisão que retirou de pauta o pedido de r…",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/30/toffoli-adia-julgamento-do-registro-de-candidatura-de-renan-santos-e-aponta-indicios-de-ilicitude.ghtml",
-    "time": "2026-08-30T15:47:21.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
@@ -494,14 +510,6 @@
     "d": "Cidadãs equatorianas foram detidas enquanto recebiam atendimento médico em um hospital após sofrerem acidente de carro nos EUA.",
     "link": "https://www.bbc.com/portuguese/articles/cp8411evl10o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T14:30:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena, concurso 3051: confira os números sorteados",
-    "d": "Mega-Sena, concurso 3051: confira os números sorteados O sorteio do concurso 3.051 da Mega-Sena foi realizado neste domingo (30), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 29.343.361…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/30/mega-sena-concurso-3051-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-08-30T14:02:21.000Z"
   },
   {
     "cat": "economia",
@@ -622,14 +630,6 @@
     "d": "Analysis by Institute for Policy Studies found that between 2019 and 2025, CEO compensation increased 41.4% The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average…",
     "link": "https://www.theguardian.com/us-news/2026/aug/27/ceo-worker-pay-ratio-us-analysis",
     "time": "2026-08-27T11:00:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
-    "d": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman…",
-    "link": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-    "time": "2026-08-27T08:00:09.000Z"
   },
   {
     "cat": "economia",
