@@ -1,11 +1,75 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nexus/BTG: Lula tem empate técnico com Flávio e Caiado no 2º turno",
+    "d": "Instituto entrevistou 2.005 eleitores, entre os dias 28 e 30 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-tem-empate-tecnico-com-flavio-e-caiado-no-2o-turno/",
+    "time": "2026-08-31T09:42:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Corrida contra o tempo busca trabalhadores presos em túneis no Nepal",
+    "d": "Equipes de resgate e especialistas estrangeiros correm contra o tempo para encontrar dezenas de trabalhadores que podem estar vivos e presos dentro de túneis de usinas hidrelétricas",
+    "link": "https://www.cnnbrasil.com.br/internacional/corrida-contra-o-tempo-busca-trabalhadores-presos-em-tuneis-no-nepal/",
+    "time": "2026-08-31T09:39:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O ator diagnosticado com Alzheimer e que agora está à frente de um espetáculo solo",
+    "d": "Peter Marinker vai interpretar sozinho, em um palco de Londres, uma das peças mais famosas de Samuel Beckett.",
+    "link": "https://www.bbc.com/portuguese/articles/c9w45p1pqv5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T09:35:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula pede direito de resposta no JN após declarações de Flávio",
+    "d": "Coligação do presidente acionou o TSE e contesta falas do senador sobre urnas, 8 de janeiro, Pix e outros temas",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-pede-direito-de-resposta-no-jn-apos-declaracoes-de-flavio/",
+    "time": "2026-08-31T09:33:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Espanha diz que Rússia e Israel espalharam desinformação sobre Ceuta",
+    "d": "A afirmação é do presidente espanhol, Pedro Sánchez",
+    "link": "https://www.cnnbrasil.com.br/internacional/espanha-diz-que-russia-e-israel-espalharam-desinformacao-sobre-ceuta/",
+    "time": "2026-08-31T09:28:13.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Dolly Parton laid to rest alongside husband in Nashville",
     "d": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
     "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T09:24:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Coreia do Norte rejeita desnuclearização e promete reforçar arsenal",
+    "d": "Um porta-voz do Ministério das Relações Exteriores acusou Washington de manter uma postura de confronto por meio de seu compromisso com a “desnuclearização completa” da Coreia do Norte",
+    "link": "https://www.cnnbrasil.com.br/internacional/coreia-do-norte-rejeita-desnuclearizacao-e-promete-reforcar-arsenal/",
+    "time": "2026-08-31T09:23:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "China is concealing scale of flood disaster, say Tibet campaigners",
+    "d": "Rights group claims 300 homes were destroyed in Tibet and number of missing people is ‘far higher’ than Beijing admits A Tibetan advocacy group says hundreds of homes were destroyed on the Tibetan side of the border i…",
+    "link": "https://www.theguardian.com/world/2026/aug/31/china-concealing-scale-nepal-flood-disaster-say-tibet-campaigners",
+    "time": "2026-08-31T09:18:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Naufrágio de balsa deixa oito mortos e 20 desaparecidos no Mediterrâneo",
+    "d": "Mergulhadores da Turquia estavam ajudando nas buscas, segundo autoridades",
+    "link": "https://www.cnnbrasil.com.br/internacional/naufragio-de-balsa-deixa-oito-mortos-e-20-desaparecidos-no-mediterraneo/",
+    "time": "2026-08-31T09:18:16.000Z"
   },
   {
     "cat": "brasil",
@@ -57,14 +121,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA e Irã trocam ataques pela primeira vez em mais de um mês; entenda",
-    "d": "Na manhã de segunda-feira (31), o Irã havia afirmado ter atacado bases utilizadas pelas forças militares dos EUA na Jordânia e nos Emirados Árabes Unidos",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-trocam-ataques-pela-primeira-vez-em-mais-de-um-mes-entenda/",
-    "time": "2026-08-31T08:53:29.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O que é o 'maior acordo petrolífero da história' anunciado por EUA e Venezuela — e por que ele é tão controverso",
     "d": "O acordo anunciado por Donald Trump e Delcy Rodríguez dá aos Estados Unidos acesso a campos com reservas de 65 bilhões de barris de petróleo venezuelano.",
@@ -88,36 +144,12 @@
     "time": "2026-08-31T08:45:47.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "China alerta que lago formado após deslizamento pode subir com chuva",
-    "d": "A temperatura também pode cair para até 8°C. Pode haver uma grande diferença de temperatura entre o dia e a noite, e o clima pode ficar úmido e frio, segundo relatório",
-    "link": "https://www.cnnbrasil.com.br/internacional/china-alerta-que-lago-formado-apos-deslizamento-pode-subir-com-chuva/",
-    "time": "2026-08-31T08:42:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nepal: número de desaparecidos quase dobra e mortos chegam a 900",
-    "d": "O número de desaparecidos no Himalaia subiu para 4.247 no lado nepalês da fronteira, incluindo 592 cidadãos estrangeiros, informou a Autoridade Nacional de Redução e Gestão de Riscos de Desastres",
-    "link": "https://www.cnnbrasil.com.br/internacional/nepal-desaparecidos-e-mortos/",
-    "time": "2026-08-31T08:36:37.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US and Iran trade strikes for first time in weeks",
     "d": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T08:34:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Navios são vistos perto do Estreito de Ormuz em meio a tensão",
-    "d": "Embarcações foram vistas perto do Estreito de Ormuz nesta segunda-feira (31), na costa de Musandam, em Omã",
-    "link": "https://www.cnnbrasil.com.br/internacional/navios-sao-vistos-perto-do-estreito-de-ormuz-em-meio-a-tensao/",
-    "time": "2026-08-31T08:25:40.000Z"
   },
   {
     "cat": "internacional",
@@ -134,22 +166,6 @@
     "d": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
     "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T08:13:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Seguros Inter: entenda como funciona cada um",
-    "d": "Instituição financeira oferece ecossistema de produtos e serviços que inclui apólices para manter seus clientes protegidos contra emergências e riscos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/seguros-inter-entenda-como-funciona-cada-um/",
-    "time": "2026-08-31T08:00:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "De princesa a ícone pop: por que Diana continua relevante após 29 anos?",
-    "d": "Moda, filmes, séries, livros e redes sociais apresentam Lady Di a novas gerações e ajudam a manter vivo seu legado quase três décadas após sua morte",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/de-princesa-a-icone-pop-por-que-diana-continua-relevante-apos-29-anos/",
-    "time": "2026-08-31T08:00:15.000Z"
   },
   {
     "cat": "internacional",
@@ -296,14 +312,6 @@
     "time": "2026-08-30T20:38:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como o GPS, criado para a guerra, moldou o mundo moderno",
-    "d": "Ferramenta está entrelaçada a inúmeros aspectos da vida cotidiana, tanto em conflitos quanto em situações pacíficas.",
-    "link": "https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T19:27:04.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
@@ -362,6 +370,14 @@
   {
     "cat": "internacional",
     "src": "BBC News",
+    "h": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+    "d": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T16:48:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
     "h": "Russia says it helped to repel Niger attempted coup",
     "d": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
     "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
@@ -374,14 +390,6 @@
     "d": "Hitomi Soga foi mantida em cativeiro por mais de duas décadas. Ela é uma das pelo menos 17 cidadãs que, segundo o Japão, foram sequestradas durante as décadas de 1970 e 1980.",
     "link": "https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T16:21:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "British woman killed in stabbing at German railway station",
-    "d": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T16:11:46.000Z"
   },
   {
     "cat": "internacional",
@@ -546,14 +554,6 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Search continues as number missing in Nepal-Tibet floods rises to 2,478 – as it happened",
-    "d": "This live blog is now closed ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash…",
-    "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
-    "time": "2026-08-29T03:49:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
     "h": "Trump announces new US oil agreement with Venezuela",
     "d": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have…",
     "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
@@ -646,13 +646,5 @@
     "d": "In 6,000-word essay Microsoft co-founder also expresses concern governments not prepared for technology’s impact Business live – latest updates Bill Gates has called for “human-reserved” jobs in certain sectors to pre…",
     "link": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
     "time": "2026-08-26T10:33:43.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
-    "d": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimated Are you a Canadian boycotting US products? We’d like to hear from you Using the bathroom or having a cry is a…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
-    "time": "2026-08-26T10:00:41.000Z"
   }
 ]
