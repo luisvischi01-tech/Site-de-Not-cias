@@ -1,6 +1,78 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vazamento de gás provoca incêndio na casa de Nunes Marques",
+    "d": "Fogo começou na área externa da residência de Kassio Nunes Marques e foi controlado em cerca de 40 minutos",
+    "link": "https://www.cnnbrasil.com.br/politica/vazamento-de-gas-provoca-incendio-na-casa-de-nunes-marques/",
+    "time": "2026-08-30T23:59:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grêmio 3 x 1 Chapecoense: os melhores momentos do jogo pelo Brasileiro",
+    "d": "Imortal ganha de virada na Arena Grêmio e respira no campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-3-x-1-chapecoense-os-melhores-momentos-do-jogo-pelo-brasileiro/",
+    "time": "2026-08-30T23:57:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Neymar explica faixa e comenta relação com Memphis após clássico",
+    "d": "Craque do Santos negou que acessório fosse indireta ao holandês e celebrou triunfo sobre o Corinthians",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-explica-faixa-e-comenta-relacao-com-memphis-apos-classico/",
+    "time": "2026-08-30T23:56:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+    "d": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T23:53:03.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+    "d": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-30T23:52:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dolly Parton foi sepultada em cerimônia privada para família e amigos",
+    "d": "Lainey Parton, sobrinha-neta da artista, revelou detalhes do último adeus à cantora de música country",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/dolly-parton-foi-sepultada-em-cerimonia-privada-para-familia-e-amigos/",
+    "time": "2026-08-30T23:35:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Palmeiras só empata com Mirassol e vê vantagem sobre o Flamengo diminuir",
+    "d": "Diferença do líder Verdão, agora, é de quatro pontos para o segundo colocado; rubro-negro ainda tem um jogo a menos",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-so-empata-com-mirassol-e-ve-vantagem-sobre-o-flamengo-diminuir/",
+    "time": "2026-08-30T23:32:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grêmio encerra jejum de três jogos com vitória sobre a Chapecoense",
+    "d": "Imortal vence de virada por 3 a 1, com dois gols de Gustavo Martins e um de Pavón, e respira no Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-encerra-jejum-de-tres-jogos-com-vitoria-sobre-a-chapecoense/",
+    "time": "2026-08-30T23:27:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba quais empresários e banqueiros são esperados em jantar de Lula",
+    "d": "Na sexta-feira (28), a CNN Brasil havia antecipado o movimento em torno da reunião no Palácio do Alvorada.",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-quais-empresarios-e-banqueiros-sao-esperados-em-jantar-de-lula/",
+    "time": "2026-08-30T23:23:14.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "EUA atingem lançadores iranianos na Ilha de Larak no primeiro ataque em semanas ao país",
     "d": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto nas esferas econô…",
@@ -49,83 +121,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Campanha de Lula pede cassação da chapa de Flávio por ato em Barretos",
-    "d": "Equipe do presidente afirma que candidato do PL utilizou da estrutura do evento para fazer um ato político \"previamente organizado\", o que configuraria abuso de poder econômico",
-    "link": "https://www.cnnbrasil.com.br/politica/campanha-de-lula-aciona-tse-contra-flavio-por-ato-na-festa-de-barretos/",
-    "time": "2026-08-30T22:21:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Área de rodovias atingida por enchentes no Nepal tem acesso restabelecido",
-    "d": "Liberação das vias proporciona às equipes de resgate um acesso terrestre essencial ao trabalho de buscas",
-    "link": "https://www.cnnbrasil.com.br/internacional/area-de-rodovias-atingida-por-enchentes-no-nepal-tem-acesso-restabelecido/",
-    "time": "2026-08-30T22:14:52.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-    "d": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T22:14:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Neymar projeta duelo entre Santos e Palmeiras: “A gente vai se divertir”",
-    "d": "Atacante minimiza pressão por resultado e analisa partida decisiva contra o rival pela Copa do Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-projeta-duelo-entre-santos-e-palmeiras-a-gente-vai-se-divertir/",
-    "time": "2026-08-30T22:06:39.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "As 4 regras de ouro do Japão para tornar suas cidades mais habitáveis",
     "d": "Duas cidades do país aparecem entre as dez primeiras em um novo ranking global de habitabilidade. A BBC conversou com moradores e com especialistas em planejamento urbano para entender como o Japão projeta cidades que…",
     "link": "https://www.bbc.com/portuguese/articles/ce87e8p4p4go?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T22:00:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rara tempestade de neve pinta de branco partes do Deserto do Atacama; veja antes e depois",
-    "d": "Duas tempestades de inverno em agosto de 2026 transformaram o deserto chileno, com alcance recorde da neve até a costa",
-    "link": "https://www.cnnbrasil.com.br/ciencia/rara-tempestade-de-neve-pinta-de-branco-partes-do-deserto-do-atacama-veja-antes-e-depois/",
-    "time": "2026-08-30T21:56:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bahia x Internacional: escalações e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes vão a campo neste domingo (30), pela 25ª rodada da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-x-internacional-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "time": "2026-08-30T21:48:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA atacam ilha iraniana e marcam 1ª ofensiva em mais de um mês",
-    "d": "Guarda Revolucionária do Irã promete retaliar ataque dos norte-americanos",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-atacam-ilha-iraniana-e-marcam-1a-ofensiva-em-mais-de-um-mes/",
-    "time": "2026-08-30T21:43:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Maya Massafera é hospitalizada para investigar risco de AVC",
-    "d": "Influenciadora explicou que hormônios da transição de gênero podem causar o problema vascular",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/maya-massafera-e-hospitalizada-para-investigar-risco-de-avc/",
-    "time": "2026-08-30T21:43:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-    "d": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T21:15:42.000Z"
   },
   {
     "cat": "brasil",
