@@ -1,5 +1,53 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US and Iran trade strikes for first time in weeks",
+    "d": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T06:45:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alerta vermelho de grande perigo para chuva é emitido para SC e RS",
+    "d": "Nesta segunda-feira (31), chuvas superiores a 60 mm/h ou maior que 100 mm/dia, ventos superiores a 100 km/h, e queda de granizo devem atingir a região",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/alerta-vermelho-de-grande-perigo-para-chuva-e-emitido-para-sc-e-rs/",
+    "time": "2026-08-31T06:35:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Novo telescópio da Nasa, Roman pode fazer em um mês o que o Hubble levaria um século",
+    "d": "Apelidado de \"máquina de descobertas\", novo telescópio é impulsionado por um campo de visão 100 vezes maior que o do Hubble",
+    "link": "https://www.cnnbrasil.com.br/ciencia/novo-telescopio-da-nasa-roman-pode-fazer-em-um-mes-o-que-o-hubble-levaria-um-seculo/",
+    "time": "2026-08-31T06:34:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula corteja empresários para vencer resistência à reeleição",
+    "d": "Jantar no Palácio da Alvorada ocorre em meio à ofensiva de Flávio Bolsonaro para se aproximar do mercado",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-corteja-empresarios-para-vencer-resistencia-a-reeleicao/",
+    "time": "2026-08-31T06:33:33.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Trump publica vídeo de IA mostrando ilha petrolífera do Irã sendo destruída",
+    "d": "Não há evidências de ofensiva contra principal centro de exportação de petróleo do país; publicação ocorre após novos confrontos entre Washington e Teerã",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-publica-video-de-ia-mostrando-ilha-petrolifera-do-ira-sendo-destruida/",
+    "time": "2026-08-31T06:23:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bessent promete ampliar sanções dos EUA contra Irã e mira bancos",
+    "d": "Secretário do Tesouro americano diz que novas medidas serão anunciadas toda semana e cobra rompimento de relações financeiras com o regime de Teerã",
+    "link": "https://www.cnnbrasil.com.br/internacional/bessent-promete-ampliar-sancoes-dos-eua-contra-ira-e-mira-bancos/",
+    "time": "2026-08-31T06:05:25.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
     "h": "Os vídeos feitos com IA que erotizam a escravidão no Brasil para lucrar com anúncios",
@@ -14,14 +62,6 @@
     "d": "Professor de Políticas Públicas da FGV, André Portela, defendeu que ensino superior ficou preso no \"velho mercado de trabalho\"",
     "link": "https://www.cnnbrasil.com.br/educacao/educacao-esta-atrasada-frente-as-competencias-de-trabalho-afirma-professor/",
     "time": "2026-08-31T06:00:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US and Iran trade strikes for first time in weeks",
-    "d": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T05:49:37.000Z"
   },
   {
     "cat": "brasil",
@@ -161,51 +201,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lito Sousa dá 1ª entrevista desde diagnóstico: “Vou estar preparado”",
-    "d": "Apresentador recebeu o diagnóstico de uma doença rara chamada Creutzfeldt-Jakob (CJB)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-da-1a-entrevista-desde-diagnostico-vou-estar-preparado/",
-    "time": "2026-08-31T01:04:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vasco e Internacional terminam 25ª rodada do Brasileirão no Z4; veja tabela",
-    "d": "Remo, que ainda joga nesta segunda-feira (31), pode puxar o Mirassol para a zona de rebaixamento",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-e-internacional-terminam-25a-rodada-do-brasileirao-no-z4-veja-tabela/",
-    "time": "2026-08-31T01:04:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio Bolsonaro sobre ter o pai como ministro: “Depende dele”",
-    "d": "Candidato à Presidência afirmou que Jair Bolsonaro será seu conselheiro e disse que poderá participar de eventual governo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-sobre-ter-o-pai-como-ministro-depende-dele/",
-    "time": "2026-08-31T01:01:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Nada há nada de errado”, diz Flávio sobre financiamento de Dark Horse",
-    "d": "Candidato à Presidência afirmou que filme sobre Jair Bolsonaro não recebeu dinheiro público",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/nada-ha-nada-de-errado-diz-flavio-sobre-financiamento-de-dark-horse/",
-    "time": "2026-08-31T00:59:46.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Justiça Eleitoral suspende propaganda eleitoral de Lula que chama Flávio Bolsonaro de 'funcionário fantasma'",
     "d": "Presidente Lula e o senador Flávio Bolsonaro Ricardo Stuckert/Presidência da República; Vittor Sales A ministra do Tribunal Superior Eleitoral (TSE), Estela Aranha, suspendeu a propaganda eleitoral veiculada pelo pres…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/30/justica-eleitoral-suspende-propaganda-eleitoral-de-lula-que-chama-flavio-bolsonaro-de-funcionario-fantasma.ghtml",
     "time": "2026-08-31T00:58:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo acerta com Anthony Valencia, que já desembarca no Rio",
-    "d": "Ponta equatoriano de 23 anos é o substituto de Gonzalo Plata no elenco; clube ainda negocia com outro atacante",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-acerta-com-anthony-valencia-que-ja-desembarca-no-rio/",
-    "time": "2026-08-31T00:57:21.000Z"
   },
   {
     "cat": "internacional",
