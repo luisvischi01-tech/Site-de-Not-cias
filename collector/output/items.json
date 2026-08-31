@@ -1,11 +1,67 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Foram 4 assaltos em 10 dias': o pavor e trauma nas farmácias com roubos de canetas emagrecedoras",
+    "d": "Farmácias viraram alvo de assaltantes em busca de canetas emagrecedoras, levando a adoecimento e afastamentos de atendentes e farmacêuticos por problemas de saúde mental.",
+    "link": "https://www.bbc.com/portuguese/articles/cvgvyvgppkko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T07:24:58.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US and Iran trade strikes for first time in weeks",
     "d": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T06:45:43.000Z"
+    "time": "2026-08-31T07:04:36.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Brasil e EUA se reúnem para retomar negociações sobre novo tarifaço",
+    "d": "Márcio Elias Rosa, do MDIC, e Jamieson Greer, do USTR, farão reunião virtual nesta segunda-feira às 14h30",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-e-eua-se-reunem-para-retomar-negociacoes-sobre-novo-tarifaco/",
+    "time": "2026-08-31T07:03:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Redata volta à pauta e deve ser votado no esforço concentrado no Congresso",
+    "d": "Projeto pretende incentivar a instalação de data centers no Brasil a partir de incentivos fiscais",
+    "link": "https://www.cnnbrasil.com.br/politica/redata-volta-a-pauta-e-deve-ser-votado-no-esforco-concentrado-no-congresso/",
+    "time": "2026-08-31T07:02:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Congresso foca em taxa das blusinhas e avanço da 6×1 em esforço concentrado",
+    "d": "O chamado esforço concentrado” é a última janela para aprovar projetos antes da eleição; PEC da Segurança também deve ser analisada",
+    "link": "https://www.cnnbrasil.com.br/politica/congresso-foca-em-taxa-das-blusinhas-e-avanco-da-6x1-em-esforco-concentrado/",
+    "time": "2026-08-31T07:01:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump quer quebrar domínio dos gigantes da carne nos Estados Unidos",
+    "d": "Governo americano pretende flexibilizar regras para ampliar o processamento dentro das propriedades e reduzir a dependência dos grandes frigoríficos.",
+    "link": "https://www.cnnbrasil.com.br/agro/trump-quer-quebrar-dominio-dos-gigantes-da-carne-nos-estados-unidos/",
+    "time": "2026-08-31T07:00:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Governo envia último PLOA de Lula 3 com salário mínimo de R$ 1.741",
+    "d": "Proposta para 2027 prevê aporte de R$ 6 bilhões nos Correios e aumento das despesas discricionárias em meio à pressão sobre as contas públicas",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-envia-ultimo-ploa-de-lula-3-com-salario-minimo-de-r-1-741/",
+    "time": "2026-08-31T07:00:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enchente repentina mata 1 e deixa ao menos 15 desaparecidos no Grand Canyon",
+    "d": "Tragédia nos EUA destruiu passarelas, interrompeu a navegação no rio Colorado e obrigou ao menos 62 pessoas a deixarem a área",
+    "link": "https://www.cnnbrasil.com.br/internacional/enchente-repentina-mata-e-deixa-ao-menos-desaparecidos-no-grand-canyon/",
+    "time": "2026-08-31T06:43:32.000Z"
   },
   {
     "cat": "brasil",
@@ -18,7 +74,7 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Novo telescópio da Nasa, Roman pode fazer em um mês o que o Hubble levaria um século",
+    "h": "Novo telescópio da Nasa, Roman pode fazer em um mês o que o Hubble levaria",
     "d": "Apelidado de \"máquina de descobertas\", novo telescópio é impulsionado por um campo de visão 100 vezes maior que o do Hubble",
     "link": "https://www.cnnbrasil.com.br/ciencia/novo-telescopio-da-nasa-roman-pode-fazer-em-um-mes-o-que-o-hubble-levaria-um-seculo/",
     "time": "2026-08-31T06:34:45.000Z"
@@ -62,30 +118,6 @@
     "d": "Professor de Políticas Públicas da FGV, André Portela, defendeu que ensino superior ficou preso no \"velho mercado de trabalho\"",
     "link": "https://www.cnnbrasil.com.br/educacao/educacao-esta-atrasada-frente-as-competencias-de-trabalho-afirma-professor/",
     "time": "2026-08-31T06:00:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chefe de facção do Paraná é encontrado morto em presídio de Brasília",
-    "d": "Preso desde 2021, criminoso era apontado pela PF como um dos maiores traficantes de cocaína do país",
-    "link": "https://www.cnnbrasil.com.br/nacional/chefe-de-faccao-do-parana-e-encontrado-morto-em-presidio-de-brasilia/",
-    "time": "2026-08-31T05:38:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Djokovic perde na estreia do US Open e adia busca pelo 25º Grand Slam",
-    "d": "Aos 39 anos, tenista sérvio sentiu dores nas costas, vomitou durante a partida e sofreu sua primeira derrota na abertura de um Grand Slam desde 2006",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/djokovic-perde-na-estreia-do-us-open-e-adia-busca-pelo-25o-grand-slam/",
-    "time": "2026-08-31T05:00:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Respeite minha dor”, diz Raquel Lyra sobre cartaz que cita morte do marido",
-    "d": "Governadora critica material anônimo espalhado pelo Recife e recebe apoio de João Campos, que também condenou a iniciativa",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/respeite-minha-dor-diz-raquel-lyra-sobre-cartaz-que-cita-morte-do-marido/",
-    "time": "2026-08-31T04:31:05.000Z"
   },
   {
     "cat": "internacional",
@@ -174,30 +206,6 @@
     "d": "Cenário do debate montado na redação da Globo no Recife, em Pernambuco. g1 O g1 promove, pela primeira vez, debates com candidatos ao Senado. Serão encontros em oito estados — São Paulo, Rio de Janeiro, Minas Gerais,…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/g1-promove-debates-com-candidatos-ao-senado-em-8-estados-e-no-df.ghtml",
     "time": "2026-08-31T03:00:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“A gente tem uma corrida contra o tempo”, diz esposa de Lito Sousa",
-    "d": "Mila Seidl disse que há chances do marido testar uma medicação inédita para conter avanço da doença",
-    "link": "https://www.cnnbrasil.com.br/pop/a-gente-tem-uma-corrida-contra-o-tempo-diz-esposa-de-lito-sousa/",
-    "time": "2026-08-31T02:53:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TSE dá prazo de 5 dias para federação do PT cumprir decisão",
-    "d": "Novo relator do caso estabeleceu prazo para que a Federação Brasil da Esperança entregue documentos relacionados ao projeto \"Porta-Vozes de Lula\" e ao 8º Congresso Nacional do PT; multa por descumprimento é de R$ 30 m…",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-da-prazo-final-a-federacao-do-pt-apos-descumprimento-de-ordem/",
-    "time": "2026-08-31T02:18:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bahia 3 x 2 Internacional: veja os melhores momentos do jogo do Brasileirão",
-    "d": "Tricolor de Aço vence de virada, entra no G5 e afunda o Colorado no Z4",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-3-x-2-internacional-veja-os-melhores-momentos-do-jogo-do-brasileirao/",
-    "time": "2026-08-31T01:41:27.000Z"
   },
   {
     "cat": "brasil",
@@ -302,14 +310,6 @@
     "d": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
     "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-30T17:06:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que fazer vários tipos de exercício pode ser a chave para uma vida mais longa",
-    "d": "Não se concentre apenas em uma atividade — praticar uma variedade delas todas as semanas traz mais benefícios para a saúde, sugere um estudo.",
-    "link": "https://www.bbc.com/portuguese/articles/cly5j4zvgqeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T16:36:01.000Z"
   },
   {
     "cat": "internacional",
