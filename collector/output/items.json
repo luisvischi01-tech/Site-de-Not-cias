@@ -1,19 +1,75 @@
 [
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PT diz que vai contestar decisão que barrou propaganda sobre Flávio",
-    "d": "Secretário nacional de Comunicação do partido disse que vídeo se limitou a expor a trajetória do senador, sem imputar nenhuma condenação prévia",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/pt-diz-que-vai-contestar-decisao-que-barrou-propaganda-sobre-flavio/",
-    "time": "2026-08-31T16:29:04.000Z"
+    "src": "G1",
+    "h": "Tarcísio promete renovar benefício fiscal para transporte de cargas em SP e defende pedágio free flow",
+    "d": "Governador de São Paulo, Tarcísio de Freitas, concede entrevista coletiva após evento com empresários do transporte de cargas Reprodução/TV Globo Ao participar de encontro com empresários do setor de transporte de car…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/31/tarcisio-promete-renovar-beneficio-fiscal-para-transporte-de-cargas-em-sp-e-defende-pedagio-free-flow.ghtml",
+    "time": "2026-08-31T16:55:57.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? Sociólogo analisa",
+    "h": "A corrida contra o tempo para resgatar mais de 600 trabalhadores presos em túneis após avalanche no Nepal e no Tibete",
+    "d": "Equipes de resgate começaram a realizar explosões controladas para liberar as galerias onde podem estar presos operários das usinas hidrelétricas da região, segundo as autoridades nepalesas.",
+    "link": "https://www.bbc.com/portuguese/articles/cr503rrgg6mo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T16:50:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? Cientista político analisa",
     "d": "Pablo Ortellado comenta as chances de Cury no 1º turno, explica como ele pode influenciar um eventual 2º turno e analisa o que pode ter levado ao crescimento repentino do candidato.",
     "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T16:25:48.000Z"
+    "time": "2026-08-31T16:43:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após jantar, Lula avalia conferência com empresários em São Paulo",
+    "d": "Petista se reúne com grupo seleto de executivos nesta segunda-feira (31), mas aliados já planejavam encontro maior em setembro",
+    "link": "https://www.cnnbrasil.com.br/politica/apos-jantar-lula-avalia-conferencia-com-empresarios-em-sao-paulo/",
+    "time": "2026-08-31T16:41:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Maya Massafera se pronuncia após hospitalização por suspeita de AVC",
+    "d": "Influenciadora explicou susto e afirmou que trocou os hormônios que faz uso",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/maya-massafera-se-pronuncia-apos-hospitalizacao-por-suspeita-de-avc/",
+    "time": "2026-08-31T16:41:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Destaque da Juventus, Kenan Yildiz passa por cirurgia no pé",
+    "d": "Meia-atacante turco se lesionou na estreia da equipe no Campeonato Italiano e deve ficar afastado por algumas semanas",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/destaque-da-juventus-kenan-yildinz-passa-por-cirurgia-no-pe/",
+    "time": "2026-08-31T16:35:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "10 anos depois, startup acusa Meta de roubar ideia que virou o Instagram Shopping",
+    "d": "Meta pagará indenização de US$17 bilhões nos EUA Uma juíza dos Estados Unidos rejeitou uma ação movida pela startup britânica Ollywan, que acusava a Meta de ter copiado seu plano de negócios antes de lançar o Instagra…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/31/10-anos-depois-startup-acusa-meta-de-roubar-ideia-que-virou-o-instagram-shopping.ghtml",
+    "time": "2026-08-31T16:32:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Velório de Carlos Monforte será realizado na terça (1º) em Brasília",
+    "d": "Jornalista morreu nesta segunda-feira (31), aos 77 anos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/velorio-de-carlos-monforte-sera-realizado-na-terca-1o-em-brasilia/",
+    "time": "2026-08-31T16:32:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PT diz que avalia contestar decisão que barrou propaganda sobre Flávio",
+    "d": "Secretário nacional de Comunicação do partido disse que vídeo se limitou a expor a trajetória do senador, sem imputar nenhuma condenação prévia",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/pt-diz-que-vai-contestar-decisao-que-barrou-propaganda-sobre-flavio/",
+    "time": "2026-08-31T16:29:04.000Z"
   },
   {
     "cat": "brasil",
@@ -81,43 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Florestas jurássicas são recriadas por cientistas que mostram como eram os sons daquela época",
-    "d": "Estudo sugere que uma espécie de inseto já produzia ultrassom muito antes do surgimento dos morcegos",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/florestas-jurassicas-sao-recriadas-por-cientistas-que-mostram-como-eram-os-sons-daquela-epoca/",
-    "time": "2026-08-31T16:13:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Xi diz a Putin que laços entre China e Rússia ficarão mais sólidos",
-    "d": "Presidente chinês afirma que orientação estratégica e esforços conjuntos trarão perspectivas mais promissoras aos laços bilaterais",
-    "link": "https://www.cnnbrasil.com.br/internacional/xi-diz-a-putin-que-lacos-entre-china-e-russia-ficarao-mais-solidos/",
-    "time": "2026-08-31T16:12:15.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que Lionel Messi anunciou sua aposentadoria da Seleção Argentina",
     "d": "O craque argentino Lionel Messi anuncia sua aposentadoria da Seleção Argentina, dizendo que foi uma decisão \"dolorosa\", mas que entende que \"chegou a hora\".",
     "link": "https://www.bbc.com/portuguese/articles/cq5xgjl591xo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T16:09:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Elenco de “Modern Family” se reencontra e divulga série de registros; veja",
-    "d": "Série divulgou último episódio em 2020",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/elenco-de-modern-family-se-reencontra-e-divulga-serie-de-registros-veja/",
-    "time": "2026-08-31T16:06:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Renan critica Centrão e diz ser vergonhoso polemizar plano de bomba atômica",
-    "d": "Candidato do Missão à Presidência voltou a defender a criação de um programa nuclear e disse que eleitores estão \"malucos\"",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/renan-critica-centrao-e-diz-ser-vergonhoso-polemizar-plano-de-bomba-atomica/",
-    "time": "2026-08-31T16:06:21.000Z"
   },
   {
     "cat": "internacional",
@@ -146,7 +170,7 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Ex-deputado dos EUA George Santos é banido para sempre de plataforma de apostas, diz imprensa americana",
+    "h": "Ex-deputado dos EUA George Santos é banido para sempre de plataforma de apostas",
     "d": "Ex-deputado dos EUA, brasileiro George Santos comparece a tribunal em Nova York onde se declarou culpado em caso de corrupção em 19 de agosto de 2024. AP Photo/Stefan Jeremiah A plataforma de mercado de previsões Kals…",
     "link": "https://g1.globo.com/mundo/noticia/2026/08/31/ex-deputado-dos-eua-george-santos-e-banido-para-sempre-de-plataforma-de-apostas-diz-imprensa-americana.ghtml",
     "time": "2026-08-31T15:39:06.000Z"
@@ -352,28 +376,12 @@
     "time": "2026-08-31T11:53:21.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Contas públicas têm superávit em julho; dívida sobe para 82,5% do PIB, maior nível em mais de cinco anos",
     "d": "As contas do setor público consolidado apresentaram um superávit primário de R$ 1,4 bilhão em julho, informou o Banco Central (BC) nesta segunda-feira (31). 🔎 O superávit primário ocorre quando as receitas com tribut…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/31/contas-publicas-tem-superavit-em-julho-divida-sobe-para-825percent-do-pib-maior-nivel-em-mais-de-cinco-anos.ghtml",
     "time": "2026-08-31T11:47:54.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Analistas do mercado reduzem estimativa de inflação e de crescimento da economia em 2026",
-    "d": "O mercado financeiro reduziu sua estimativa de de inflação e, também, de crescimento do Produto Interno Bruto (PIB) em 2026. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (31) pelo Banco…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/analistas-do-mercado-reduzem-estimativa-de-inflacao-e-de-crescimento-da-economia-em-2026.ghtml",
-    "time": "2026-08-31T11:33:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos'",
-    "d": "Grace, de 14 anos, sente que os médicos foram negligentes com sua dor. Ela quer que outras pessoas conheçam os sintomas da doença.",
-    "link": "https://www.bbc.com/portuguese/articles/cr7dezrz40xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T11:21:56.000Z"
   },
   {
     "cat": "economia",
