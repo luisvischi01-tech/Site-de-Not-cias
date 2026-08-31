@@ -1,6 +1,126 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula assina decreto contra cambismo digital e obriga shows a oferecem água",
+    "d": "Medidas pretendem evitar que bots e robôs comprem ingressos para shows e pessoas revendam por valores muito maiores",
+    "link": "https://www.cnnbrasil.com.br/politica/lula-assina-decreto-contra-cambismo-digital-e-obriga-shows-a-oferecem-agua/",
+    "time": "2026-08-31T20:28:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US Supreme Court clears way for Trump to keep building White House ballroom",
+    "d": "The National Trust for Historic Preservation argued the president did not have authority to proceed with construction.",
+    "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T20:28:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pablo Marçal pede ao TSE suspensão de inelegibilidade de 8 anos",
+    "d": "Advogados argumentam que condenação por 4 a 3 se apoiou em provas insuficientes e pedem efeito suspensivo até julgamento final",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/pablo-marcal-pede-ao-tse-suspensao-de-inelegibilidade-de-8-anos/",
+    "time": "2026-08-31T20:28:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Renan Santos 'não é charlatão', diz The Economist sobre candidato e 'sua visão ousada' para o Brasil",
+    "d": "Texto publicado nesta segunda-feira (31/08) pela revista britânica destaca as propostas do candidato à economia.",
+    "link": "https://www.bbc.com/portuguese/articles/ckgx0m38jkzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T20:20:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Meta remove anúncios de apps que se passam por sites pornográficos",
+    "d": "Conteúdo com apelo sexual promovia malware que roubava dados bancários, ignorando políticas da empresa",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/meta-remove-anuncios-de-apps-que-se-passam-por-sites-pornograficos/",
+    "time": "2026-08-31T20:18:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Recuperado, Alcaraz mostra boa forma e estreia com vitória no US Open",
+    "d": "Atual campeão do Grand Slam de Nova York, espanhol não jogava há quase cinco meses",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/recuperado-alcaraz-mostra-boa-forma-e-estreia-com-vitoria-no-us-open/",
+    "time": "2026-08-31T20:18:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Carrinho de bebê da Lamborghini custa R$ 28 mil e é limitado a 500 unidades",
+    "d": "Parceria com a Silver Cross traz modelo Reef AL Giallo com Alcantara, detalhes em amarelo e suspensão exposta",
+    "link": "https://www.cnnbrasil.com.br/auto/carrinho-de-bebe-da-lamborghini-custa-r-28-mil-e-e-limitado-a-500-unidades/",
+    "time": "2026-08-31T20:18:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estação de metrô de Nova York fechada há mais de 80 anos ainda recebe trens e organiza visitas guiadas",
+    "d": "Fechamento ocorreu por conta da distância em realação à outra estação e pelas curvas acentudadas que ameaçavam a segurança dos passageiros",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/estacao-de-metro-de-nova-york-fechada-ha-mais-de-80-anos-ainda-recebe-trens-e-organiza-visitas-guiadas/",
+    "time": "2026-08-31T20:18:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mudanças climáticas estão tornando Himalaia vulnerável, diz premiê do Nepal",
+    "d": "Região - lar de milhares de geleiras que estão derretendo - tem se tornado cada vez mais instável à medida que o local aquece",
+    "link": "https://www.cnnbrasil.com.br/internacional/mudancas-climaticas-estao-tornando-himalaia-vulneravel-diz-premie-do-nepal/",
+    "time": "2026-08-31T20:15:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lionel Richie é internado em UTI após show nos Estados Unidos, diz site",
+    "d": "Cantor norte-americano se apresentará no Brasil em dezembro deste ano",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/lionel-richie-e-internado-em-uti-apos-show-nos-estados-unidos-diz-site/",
+    "time": "2026-08-31T20:13:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ucrânia tenta desenvolver interceptadores capazes de parar drones russos",
+    "d": "Moscou aumentou número de operações contra Kiev, utilizando modelos a jato que dificilmente conseguem ser parados devido à sua velocidade e quantidade",
+    "link": "https://www.cnnbrasil.com.br/internacional/ucrania-tenta-desenvolver-interceptadores-capazes-de-parar-drones-russos/",
+    "time": "2026-08-31T20:13:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que Renan Santos teve campanha à Presidência suspensa pelo TSE; especialistas veem excesso em decisão de Dias Toffoli",
+    "d": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da c…",
+    "link": "https://www.bbc.com/portuguese/articles/cx2zq49q2nzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T20:05:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Torcedor se emociona após São Paulo encerrar jejum de vitórias; veja",
+    "d": "Tricolor venceu o Red Bull Bragantino por 2 a 1 pela 24ª rodada do Brasileirão e voltou a comemorar uma vitória após longo período de resultados negativos",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/torcedor-se-emociona-apos-sao-paulo-encerrar-jejum-de-vitorias-veja/",
+    "time": "2026-08-31T20:04:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pelo menos 80 americanos estão desaparecidos na região do Nepal, dizem EUA",
+    "d": "Porta-voz do Departamento de Estado afirmou que cerca de 13 cidadãos conseguiram chegar a um local seguro",
+    "link": "https://www.cnnbrasil.com.br/internacional/pelo-menos-80-americanos-estao-desaparecidos-na-regiao-do-nepal-dizem-eua/",
+    "time": "2026-08-31T20:04:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Líder alemão pede esforços conjuntos para solucionar crise da Volkswagen",
+    "d": "Primeiro-ministro do estado, Michael Kretschmer, está sob pressão para proteger os empregos na indústria automobilística na Saxônia",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/lider-alemao-pede-esforcos-conjuntos-para-solucionar-crise-da-volkswagen/",
+    "time": "2026-08-31T20:01:29.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Governo tenta frear cambismo digital e define novas regras para venda e transferência de ingressos",
     "d": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta segunda-feira (31) um decreto que regulamenta a venda e a transferência de ingressos pela internet para shows e eventos e, assim, criar regras para conter o ch…",
@@ -14,110 +134,6 @@
     "d": "Pesquisas: como os institutos escolhem quantos, quem e onde entrevistar? Esta semana terá a divulgação de duas pesquisas eleitorais de intenção de voto para presidente da República. Na quarta-feira (2), sai pesquisa Q…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/31/saiba-como-sao-feitas-as-pesquisas-eleitorais.ghtml",
     "time": "2026-08-31T19:44:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Primeira Copa do Mundo de Sereias reúne mais de 100 participantes na China",
-    "d": "Competição leva em consideração critérios de interpretação e também a expressão artística",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/primeira-copa-do-mundo-de-sereias-reune-mais-de-100-participantes-na-china/",
-    "time": "2026-08-31T19:39:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "MINI lança série limitada JCW GP Inspired por R$ 390 mil no Brasil",
-    "d": "Limitado a apenas 20 unidades, o modelo traz um motor 2.0 turbo de 231 cv e visual inspirado em pistas famosas",
-    "link": "https://www.cnnbrasil.com.br/auto/mini-lanca-serie-limitada-jcw-gp-inspired-por-r-390-mil-no-brasil/",
-    "time": "2026-08-31T19:37:58.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Açúcar sobe 1,42% na bolsa de Nova York com temor de déficit global",
-    "d": "Produção do açúcar da União Europeia deve cair 19% na safra 2026/27, segundo dados do bloco",
-    "link": "https://www.cnnbrasil.com.br/agro/acucar-sobe-142-na-bolsa-de-nova-york-com-temor-de-deficit-global/",
-    "time": "2026-08-31T19:36:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após recorde, produção de azeite deve cair em 2027, aponta Ibraoliva",
-    "d": "Entidade prevê safra menor diante da expectativa de chuvas na primavera gaúcha e defende mais tecnologia para reduzir oscilações na produção",
-    "link": "https://www.cnnbrasil.com.br/agro/apos-recorde-producao-de-azeite-deve-cair-em-2027-aponta-ibraoliva/",
-    "time": "2026-08-31T19:36:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "NFL alcança recorde comercial com patrocínios no Brasil",
-    "d": "Completando três anos de atuação no mercado local, liga registra 22 marcas patrocinadoras no país para a próxima temporada",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol-americano/nfl-alcanca-recorde-comercial-com-patrocinios-no-brasil/",
-    "time": "2026-08-31T19:36:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mineiro estampa o rosto em anúncio na traseira de ônibus em BH para tentar encontrar uma namorada",
-    "d": "João Pedro Rodrigues, de 29 anos, disse que está se sentindo \"famoso\" com a repercussão nas redes sociais",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/mineiro-estampa-o-rosto-em-anuncio-na-traseira-de-onibus-em-bh-para-tentar-encontrar-uma-namorada/",
-    "time": "2026-08-31T19:36:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Renan Santos teve campanha à Presidência suspensa pelo TSE",
-    "d": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da c…",
-    "link": "https://www.bbc.com/portuguese/articles/cx2zq49q2nzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T19:29:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tenente-coronel é preso por fazer segurança de empresa ligada ao PCC em SP",
-    "d": "Segundo o MPSP, grupo de policiais fazia escolta de dirigentes da Transwolff e usavam estrutura para dar aparência legal a pagamentos; concessionária nega ligação com atividades ilícitas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tenente-coronel-e-preso-por-fazer-seguranca-de-empresa-ligada-ao-pcc-em-sp/",
-    "time": "2026-08-31T19:26:03.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Reuters/Ipsos: Aprovação do governo Trump continua no menor nível",
-    "d": "Pesquisa aponta insatisfação com guerra no Irã e alta da inflação como causas",
-    "link": "https://www.cnnbrasil.com.br/internacional/reuters-ipsos-aprovacao-do-governo-trump-continua-no-menor-nivel/",
-    "time": "2026-08-31T19:24:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Luis Roberto fala sobre falhas na voz e coloca prazo para retornar ao auge",
-    "d": "Narrador esportivo passou por tratamento contra o câncer e voltou às transmissões esportivas há poucas semanas",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/luis-roberto-fala-sobre-falhas-na-voz-e-coloca-prazo-para-retornar-ao-auge/",
-    "time": "2026-08-31T19:24:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ele decidiu vender um camelo pelo aplicativo, plataforma ganhou 15 mil usuários e se tornou um negócio lucrativo",
-    "d": "Mercado digital de camelos moderniza tradição milenar nos Emirados Árabes e impulsiona comércio bilionário no Golfo",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/ele-decidiu-vender-um-camelo-pelo-aplicativo-plataforma-ganhou-15-mil-usuarios-e-se-tornou-um-negocio-lucrativo/",
-    "time": "2026-08-31T19:22:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Toffoli suspende campanha de Wilson Grassi",
-    "d": "Ministro também bloqueou repasses do Fundo Eleitoral e proibiu participação do candidato em debates",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/toffoli-suspende-campanha-de-wilson-grassi/",
-    "time": "2026-08-31T19:22:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ministério assina política nacional de biometria para aeroportos",
-    "d": "Nova diretriz abre caminho para ampliar reconhecimento facial em terminais e prevê uso de base do Serpro",
-    "link": "https://www.cnnbrasil.com.br/infra/ministerio-assina-politica-nacional-de-biometria-para-aeroportos/",
-    "time": "2026-08-31T19:21:47.000Z"
   },
   {
     "cat": "economia",
@@ -424,14 +440,6 @@
     "time": "2026-08-31T11:54:16.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "The jury's options in Lindsay Clancy's murder trial",
-    "d": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
-    "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T11:53:21.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "‘Revenge of the Rust belt’: Starbucks film-maker on Baristas vs Billionaires",
@@ -494,14 +502,6 @@
     "d": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global ri…",
     "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
     "time": "2026-08-31T09:00:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que acordo de Trump para assumir 'controle' do petróleo da Venezuela está sendo criticado",
-    "d": "O acordo anunciado por Donald Trump e Delcy Rodríguez dá aos Estados Unidos acesso a campos com reservas de 65 bilhões de barris de petróleo venezuelano.",
-    "link": "https://www.bbc.com/portuguese/articles/cz0zl3ng740o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T08:53:12.000Z"
   },
   {
     "cat": "brasil",
@@ -638,13 +638,5 @@
     "d": "Analysis by Institute for Policy Studies found that between 2019 and 2025, CEO compensation increased 41.4% The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average…",
     "link": "https://www.theguardian.com/us-news/2026/aug/27/ceo-worker-pay-ratio-us-analysis",
     "time": "2026-08-27T11:00:13.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
-    "d": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended…",
-    "link": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-    "time": "2026-08-26T20:30:49.000Z"
   }
 ]
