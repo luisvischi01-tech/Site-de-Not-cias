@@ -1,5 +1,69 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Dolly Parton laid to rest alongside husband in Nashville",
+    "d": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
+    "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T09:24:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Líder de igreja  na Coreia do Sul é condenada por corrupção",
+    "d": "Han, chefe da Federação das Famílias para a Paz e Unificação Mundial, conhecida amplamente como Igreja da Unificação, foi indiciada em outubro de 2025",
+    "link": "https://www.cnnbrasil.com.br/internacional/lider-de-igreja-na-coreia-do-sul-e-condenada-por-corrupcao/",
+    "time": "2026-08-31T09:05:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Remo x Coritiba: horário e onde assistir ao Campeonato Brasileiro",
+    "d": "Equipes se enfrentam na noite desta segunda (31), em Belém, fechando a 25ª rodada",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-x-coritiba-horario-e-onde-assistir-ao-campeonato-brasileiro/",
+    "time": "2026-08-31T09:02:15.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Ala do governo defende proibir ou taxar exportação de terras raras “brutas”",
+    "d": "Medidas estão entre opções mais duras avaliadas na regulamentação da política de minerais críticos; governo ainda discute qual nível de processamento deverá ser exigido para permitir exportações sem restrições",
+    "link": "https://www.cnnbrasil.com.br/infra/ala-do-governo-defende-taxar-ou-barrar-exportacao-de-terras-raras-brutas/",
+    "time": "2026-08-31T09:01:37.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Kalil e especialistas comentam como agir diante de uma crise de ansiedade",
+    "d": "Ao CNN Sinais Vitais, Maria Alice Fontes destacou a importância da respiração e da dissociação entre as sensações e a razão em um momento de crise",
+    "link": "https://www.cnnbrasil.com.br/saude/kalil-e-especialistas-comentam-como-agir-diante-de-uma-crise-de-ansiedade/",
+    "time": "2026-08-31T09:00:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bienal do Livro 2026: tudo que você precisa saber sobre o evento",
+    "d": "Confira quais são as atrações, como garantir o ingresso e os melhores acessos para chegar à feira",
+    "link": "https://www.cnnbrasil.com.br/pop/bienal-do-livro-2026-tudo-que-voce-precisa-saber-sobre-o-evento/",
+    "time": "2026-08-31T09:00:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ney Matogrosso: vendas gerais de turnê de 85 anos começam nesta segunda",
+    "d": "O cantor fará dez shows pelo país, com a última apresentação confirmada em dezembro no Maracanã",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/ney-matogrosso-vendas-gerais-comecam-nesta-segunda-31/",
+    "time": "2026-08-31T08:55:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EUA e Irã trocam ataques pela primeira vez em mais de um mês; entenda",
+    "d": "Na manhã de segunda-feira (31), o Irã havia afirmado ter atacado bases utilizadas pelas forças militares dos EUA na Jordânia e nos Emirados Árabes Unidos",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-trocam-ataques-pela-primeira-vez-em-mais-de-um-mes-entenda/",
+    "time": "2026-08-31T08:53:29.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O que é o 'maior acordo petrolífero da história' anunciado por EUA e Venezuela — e por que ele é tão controverso",
@@ -22,6 +86,14 @@
     "d": "Porta-voz da Guarda Revolucionária Islâmica do Irã classificou o ataque como um \"erro estratégico e fatal do regime Trump\" e afirmou que o \"inimigo pagará as consequências desse erro de cálculo tanto nas esferas econô…",
     "link": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T08:45:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "China alerta que lago formado após deslizamento pode subir com chuva",
+    "d": "A temperatura também pode cair para até 8°C. Pode haver uma grande diferença de temperatura entre o dia e a noite, e o clima pode ficar úmido e frio, segundo relatório",
+    "link": "https://www.cnnbrasil.com.br/internacional/china-alerta-que-lago-formado-apos-deslizamento-pode-subir-com-chuva/",
+    "time": "2026-08-31T08:42:57.000Z"
   },
   {
     "cat": "brasil",
@@ -80,14 +152,6 @@
     "time": "2026-08-31T08:00:15.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Não quero que percebam que fiz algo”: médica explica nova era da estética",
-    "d": "Dermatologista Dra. Sabrina Leite explica por que parecer descansado e natural se tornou mais desejado do que aparentar ter feito procedimentos",
-    "link": "https://www.cnnbrasil.com.br/saude/nao-quero-que-percebam-que-fiz-algo-medica-explica-nova-era-da-estetica/",
-    "time": "2026-08-31T08:00:12.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
@@ -97,67 +161,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Os caminhos tortuosos para a regulamentação da IA nos EUA",
-    "d": "Washington enfrenta disputas internas e falta de consenso enquanto modelos de inteligência artificial evoluem e apresentam comportamentos inesperados",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/os-caminhos-tortuosos-para-a-regulamentacao-da-ia-nos-eua/",
-    "time": "2026-08-31T07:25:30.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "'Foram 4 assaltos em 10 dias': o pavor e trauma nas farmácias com roubos de canetas emagrecedoras",
+    "h": "Roubo de canetas emagrecedoras em farmácias gera pavor e trauma em funcionários: 'Foram 4 assaltos em 10 dias'",
     "d": "Farmácias viraram alvo de assaltantes em busca de canetas emagrecedoras, levando a adoecimento e afastamentos de atendentes e farmacêuticos por problemas de saúde mental.",
     "link": "https://www.bbc.com/portuguese/articles/cvgvyvgppkko?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T07:24:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Inscrições para vestibular da Unicamp terminam nesta segunda-feira (31)",
-    "d": "Primeira fase da prova de ingresso à universidade será realizada no dia 18 de outubro deste ano",
-    "link": "https://www.cnnbrasil.com.br/educacao/inscricoes-para-vestibular-da-unicamp-terminam-nesta-segunda-feira-31/",
-    "time": "2026-08-31T07:15:00.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Governo prevê foco em tarifas e nova fase em negociações com EUA",
-    "d": "Reunião entre ministro da Indústria e Comércio brasileiro e representante comercial dos EUA acontece na segunda-feira (31)",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-preve-foco-em-tarifas-e-nova-fase-em-negociacoes-com-eua/",
-    "time": "2026-08-31T07:11:53.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Brasil e EUA se reúnem para retomar negociações sobre novo tarifaço",
-    "d": "Márcio Elias Rosa, do MDIC, e Jamieson Greer, do USTR, farão reunião virtual nesta segunda-feira às 14h30",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-e-eua-se-reunem-para-retomar-negociacoes-sobre-novo-tarifaco/",
-    "time": "2026-08-31T07:03:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Redata volta à pauta e deve ser votado no esforço concentrado no Congresso",
-    "d": "Projeto pretende incentivar a instalação de data centers no Brasil a partir de incentivos fiscais",
-    "link": "https://www.cnnbrasil.com.br/politica/redata-volta-a-pauta-e-deve-ser-votado-no-esforco-concentrado-no-congresso/",
-    "time": "2026-08-31T07:02:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Congresso foca em taxa das blusinhas e avanço da 6×1 em esforço concentrado",
-    "d": "O chamado esforço concentrado” é a última janela para aprovar projetos antes da eleição; PEC da Segurança também deve ser analisada",
-    "link": "https://www.cnnbrasil.com.br/politica/congresso-foca-em-taxa-das-blusinhas-e-avanco-da-6x1-em-esforco-concentrado/",
-    "time": "2026-08-31T07:01:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump quer quebrar domínio dos gigantes da carne nos Estados Unidos",
-    "d": "Governo americano pretende flexibilizar regras para ampliar o processamento dentro das propriedades e reduzir a dependência dos grandes frigoríficos.",
-    "link": "https://www.cnnbrasil.com.br/agro/trump-quer-quebrar-dominio-dos-gigantes-da-carne-nos-estados-unidos/",
-    "time": "2026-08-31T07:00:35.000Z"
   },
   {
     "cat": "internacional",
@@ -510,14 +518,6 @@
     "d": "Split payment começará gradualmente em empresas que vendem para outras empresas em 2027 DB Supermercados A Secretaria da Receita Federal informou ao g1 que o chamado \"split payment\" da reforma tributária sobre o consu…",
     "link": "https://g1.globo.com/economia/noticia/2026/08/30/reforma-tributaria-receita-federal-diz-que-split-payment-obrigatorio-deve-comecar-so-em-2028-entenda.ghtml",
     "time": "2026-08-30T03:00:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-    "d": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-29T20:13:16.000Z"
   },
   {
     "cat": "economia",
