@@ -1,11 +1,115 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Ex-ministro Fábio Faria atuou para intermediar contatos entre Vorcaro e Moraes, aponta PF",
+    "d": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes Relatórios da Polícia Federal sobre o caso do Banco Master apontam que o ex-ministro das Comunicações do governo Bolsonaro, Fábio Faria, atuou na intermed…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/ex-ministro-fabio-faria-atuou-para-intermediar-contatos-entre-vorcaro-e-moraes-aponta-pf.ghtml",
+    "time": "2026-09-01T22:52:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "iPhone 18, IA e pressão de Trump: o que esperar da Apple após troca de CEO",
+    "d": "Tim Cook deixa comando da empresa após 15 anos; engenheiro John Ternus assume no lugar",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/iphone-18-ia-e-pressao-de-trump-o-que-esperar-da-apple-apos-troca-de-ceo/",
+    "time": "2026-09-01T22:45:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Embrapa lista 163 medidas para agro enfrentar riscos do El Niño",
+    "d": "Recomendações foram entregues ao Ministério da Agricultura e incluem ações para produtores e políticas públicas de adaptação",
+    "link": "https://www.cnnbrasil.com.br/agro/embrapa-lista-163-medidas-para-agro-enfrentar-riscos-do-el-nino/",
+    "time": "2026-09-01T22:45:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Senado aprova regime especial de tributação para atrair data centers para o Brasil",
+    "d": "O Senado aprovou nesta terça-feira (1º) o projeto que isenta de imposto de importação os equipamentos utilizados na fabricação de data centers e que zera os tributos sobre a exportação de serviços do setor. O projeto,…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/senado-aprova-regime-especial-de-tributacao-para-atrair-data-centers-para-o-brasil.ghtml",
+    "time": "2026-09-01T22:44:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EUA concluem onda de ataques contra o Irã realizada nesta terça-feira (1°)",
+    "d": "Ofensiva atingiu instalações de defesa aérea, sistemas de radar, estruturas de lançamento de minas e locais de comunicação iranianos, informou o Comando Central dos Estados Unidos",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-concluem-onda-de-ataques-contra-o-ira-realizada-nesta-terca-feira-1/",
+    "time": "2026-09-01T22:43:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PGR diz que é nula investigação ordenada por André Mendonça que apontou relação de Moraes e Vorcaro",
+    "d": "A Procuradoria-Geral da República (PGR) maninfestou nesta terça-feira (1) pela nulidade da investigação comandada por André Mendonça, do Supremo Tribunal Federal (STF), que apontou relação entre o ministro Alexandre d…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/prg-manifesta-pela-nulidade-da-ordem-do-ministro-andre-mendonca.ghtml",
+    "time": "2026-09-01T22:36:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ex-genro de Ana Maria Braga fala sobre investigação: “Não é condenação”",
+    "d": "Badarik González relata perda de oportunidades de emprego devido à exposição pública",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-genro-de-ana-maria-braga-fala-sobre-investigacao-nao-e-condenacao/",
+    "time": "2026-09-01T22:36:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cat Dealers surpreende passageiros com show durante voo; saiba mais",
+    "d": "Duo brasileiro se apresenta no Rock in Rio na abertura do evento, em 4 de setembro",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/cat-dealers-surpreende-passageiros-com-show-durante-voo-saiba-mais/",
+    "time": "2026-09-01T22:36:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE começa a analisar ação que vai definir regras sobre ‘deepfake’",
+    "d": "O Tribunal Superior Eleitoral (TSE) começou a analisar na noite desta terça-feira (1º) um dos temas centrais da eleição deste ano: como deve ser o uso de deepfakes pelas campanhas. 🔎 Deepfake é uma tecnologia de inte…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/tse-regras-deepfake-eleicoes.ghtml",
+    "time": "2026-09-01T22:36:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dínamo de Moscou reprova exames de Matheus Martins, que volta ao Botafogo",
+    "d": "Atacante de 23 anos voltará a ser opção para Rodrigo Bellão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/dinamo-de-moscou-reprova-exames-de-matheus-martins-que-volta-ao-botafogo/",
+    "time": "2026-09-01T22:31:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE suspende propaganda de Lula que não citava nome de Alckmin",
+    "d": "Decisão liminar atende parcialmente ação de Flávio Bolsonaro e vale até nova adequação da peça às regras eleitorais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-suspende-propaganda-de-lula-que-nao-citava-nome-de-alckmin/",
+    "time": "2026-09-01T22:28:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como um enclave no Grand Canyon se transformou em epicentro de destruição",
+    "d": "Pelo menos duas pessoas morreram após fortes chuvas atingirem a região repentinamente no último sábado (29)",
+    "link": "https://www.cnnbrasil.com.br/internacional/como-um-enclave-no-grand-canyon-se-transformou-em-epicentro-de-destruicao/",
+    "time": "2026-09-01T22:27:47.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Moraes no caso Master: o que mostram as mensagens atribuídas ao ministro do STF e Daniel Vorcaro",
     "d": "Mensagens extraídas do celular do banqueiro mostram interações que teriam ocorrido com o ministro do STF e com pessoas ligadas à sua família; filhos do ministro teriam tido emissão de cartões de crédito do Banco Master",
     "link": "https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T22:15:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Tem que perguntar pra produtora”, diz Flávio sobre valores a “Dark Horse”",
+    "d": "Candidato à Presidência voltou a argumentar que prestação de contas já foi feita e não explicou dinheiro extra de Vorcaro ao filme, revelado em reportagem da Piauí nesta terça (1º)",
+    "link": "https://www.cnnbrasil.com.br/politica/tem-que-perguntar-pra-produtora-diz-flavio-sobre-valores-a-dark-horse/",
+    "time": "2026-09-01T22:11:55.000Z"
   },
   {
     "cat": "brasil",
@@ -57,35 +161,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caiado diz que Moraes não tem condições de ficar no STF após revelações",
-    "d": "Candidato à Presidência pelo PSD defendeu que o ministro seja afastado do Supremo “o mais rápido possível”",
-    "link": "https://www.cnnbrasil.com.br/politica/caiado-diz-que-moraes-nao-tem-condicoes-de-ficar-no-stf-apos-revelacoes/",
-    "time": "2026-09-01T21:55:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula diz defender “pessoalmente” fim das bets e sugere “decisão drástica”",
-    "d": "Em reunião no Palácio do Planalto, mandatário disse que tem “dois terços da decisão tomada”",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-defender-pessoalmente-fim-das-bets-e-sugere-decisao-drastica/",
-    "time": "2026-09-01T21:53:02.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que o TSE recuou e liberou campanha de Renan Santos",
     "d": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
     "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T21:51:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ameaça de Zelensky de fechar espaço aéreo é terrorismo de Estado, diz Putin",
-    "d": "Presidente russo também afirmou que não é possível negociar com \"terroristas\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/ameaca-de-zelensky-de-fechar-espaco-aereo-e-terrorismo-de-estado-diz-putin/",
-    "time": "2026-09-01T21:50:39.000Z"
   },
   {
     "cat": "internacional",
@@ -96,60 +176,12 @@
     "time": "2026-09-01T21:48:28.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Lei não pergunta cargo”, diz Cury após revelações Moraes-Vorcaro",
-    "d": "Candidato do Avante à Presidência se manifestou após divulgação de relatório da PF que mostra troca de mensagens entre o ex-banqueiro e o ministro do Supremo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lei-nao-pergunta-cargo-diz-cury-apos-revelacoes-moraes-vorcaro/",
-    "time": "2026-09-01T21:46:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Consumir o limão aberto após longos períodos de tempo pode acumular fungos, bactérias e intoxicar o organismo",
-    "d": "Armazenamento adequado previne contaminação da fruta, afirma nutricionista à CNN Brasil",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/consumir-o-limao-aberto-apos-longos-periodos-de-tempo-pode-acumular-fungos-bacterias-e-intoxicar-o-organismo/",
-    "time": "2026-09-01T21:44:20.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Ariana Grande ends tour and steps back from public life",
+    "h": "Ariana Grande completes tour and steps back from public life",
     "d": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
     "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T21:41:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Julián Álvarez? Yamal é direto sobre o Barcelona: “Gols não estão faltando”",
-    "d": "Atacante argentino continuará no Atlético de Madrid; ele tem contrato com a equipe até o ano de 2030",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/julian-alvarez-yamal-e-direto-sobre-o-barcelona-gols-nao-estao-faltando/",
-    "time": "2026-09-01T21:40:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bombeiros resgatam quatro pessoas desaparecidas em trilha do RS",
-    "d": "Três adultos e um adolescente de 15 anos, realizavam uma trilha na região quando uma forte neblina e chuva intensa contribuíram para que os integrantes perdessem a referência do trajeto",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/bombeiros-resgatam-quatro-pessoas-desaparecidas-em-trilha-do-rs/",
-    "time": "2026-09-01T21:33:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Senado aprova indicação de Rodrigo Pacheco para a vaga de ministro do TCU",
-    "d": "Ex-presidente do Senado chegou a ser cotado para uma vaga no STF, mas foi preterido por Lula; indicação segue para análise da Câmara dos Deputados",
-    "link": "https://www.cnnbrasil.com.br/politica/senado-aprova-indicacao-de-rodrigo-pacheco-para-a-vaga-de-ministro-do-tcu/",
-    "time": "2026-09-01T21:31:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Falso dentista é preso em flagrante no Rio de Janeiro durante atendimento",
-    "d": "O falso profissional atendia pacientes no centro do Rio e em outros locais, alegando estar no décimo ano de graduação em odontologia",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/falso-dentista-e-preso-em-flagrante-no-rio-de-janeiro-durante-atendimento/",
-    "time": "2026-09-01T21:30:24.000Z"
   },
   {
     "cat": "brasil",
@@ -225,43 +257,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Relatório da PF cita pedido a Gonet para fazer candidato desistir de disputa pelo comando de conselho de procuradores",
-    "d": "Relatório da PF reproduz conversa de 14 de abril de 2024 na qual Vorcaro pergunta se o candidato havia desistido; Ciro responde “sim” e envia áudio relatando o pedido feito a Gonet. Reprodução/PF O advogado Ciro Soare…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-cita-pedido-a-gonet-para-fazer-candidato-desistir-de-disputa-pelo-comando-de-conselho-de-procuradores.ghtml",
-    "time": "2026-09-01T19:49:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Toffoli libera campanha digital de Renan Santos, repasses de recursos e participação em debates",
-    "d": "O ministro do Tribunal Superior Eleitoral (TSE) Dias Toffoli liberou a campanha digital de Renan Santos, do Missão, à Presidência da República. A decisão foi tomada nesta terça-feira (1º), após ter restringido a campa…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/toffoli-libera-campanha-digital-de-renan-santos.ghtml",
-    "time": "2026-09-01T19:38:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Relação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as principais revelações do relatório da PF",
-    "d": "‘Segunda devo estar fora?’, perguntou Vorcaro a Moraes O ministro André Mendonça, do Supremo Tribunal Federal (STF), removeu, nesta terça-feira (1º), o sigilo sobre um relatório da Polícia Federal que expõe mensagens…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-e-moraes-veja-as-principais-revelacoes-do-relatorio-da-pf.ghtml",
-    "time": "2026-09-01T19:17:39.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "As reações no mundo político e jurídico aos diálogos entre Alexandre de Moraes e Daniel Vorcaro",
     "d": "Candidos à Presidência e parlamentares reagiram à divulgação de diálogos entre o ministro do Supremo e o banqueiro Daniel Vorcaro.",
     "link": "https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T19:14:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "OAB diz acompanhar com preocupação 'crise no STF' e defende apuração 'rigorosa' e 'isenta' dos fatos",
-    "d": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes A Ordem dos Advogados do Brasil (OAB) divulgou uma nota nesta terça-feira (1º) em que afirma que acompanha com \"atenção e extrema preocupação\" o desenrola…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/01/oab-diz-acompanhar-com-preocupacao-crise-no-stf-e-defende-apuracao-rigorosa-e-isenta.ghtml",
-    "time": "2026-09-01T19:10:54.000Z"
   },
   {
     "cat": "economia",
