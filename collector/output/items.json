@@ -1,11 +1,51 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Lula amarra apoio do Centrão no Congresso, mas isso garante votos na eleição?",
+    "d": "Lideranças acenam a Lula, Kassab diz que bloco está com o petista, mas os partidos não fizeram alianças formais com ninguém. Para analistas, pragmatismo do Centrão pode dar lugar a ideologia com o avanço do orçamento…",
+    "link": "https://www.bbc.com/portuguese/articles/cly7ny7r5pno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T07:27:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zambia's president to be sworn in for second term while opponent detained",
+    "d": "Hakainde Hichilema swept to victory, but his main rival is now in detention charged with treason.",
+    "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T07:19:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE começa a julgar hoje limites para uso de IA em campanhas eleitorais",
+    "d": "Corte analisa vídeo de Jair Bolsonaro feito por inteligência artificial e pode consolidar critério para definir o que é deepfake nas eleições de 2026",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-comeca-a-julgar-hoje-limites-para-uso-de-ia-em-campanhas-eleitorais/",
+    "time": "2026-09-01T07:03:44.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
     "d": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
     "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T07:02:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Lula e Flávio travam disputa pelo empresariado sob pressão de ajuste fiscal",
+    "d": "Candidatos tentam conquistar apoio do setor privado enquanto mercado financeiro cobra planos para equilibrar as contas públicas",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-e-flavio-travam-disputa-pelo-pib-sob-pressao-de-ajuste-fiscal/",
+    "time": "2026-09-01T07:02:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após adiamento, comissão volta a discutir relatório da taxa das blusinhas",
+    "d": "MP tem impacto eleitoral, perde a validade em 8 de setembro e precisa ser votada até o final dessa semana para continuar valendo",
+    "link": "https://www.cnnbrasil.com.br/politica/apos-adiamento-comissao-volta-a-discutir-relatorio-da-taxa-das-blusinhas/",
+    "time": "2026-09-01T07:01:16.000Z"
   },
   {
     "cat": "economia",
@@ -16,20 +56,60 @@
     "time": "2026-09-01T07:01:08.000Z"
   },
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nepal registra mais de mil mortes e 4 mil desaparecidos após enchentes",
+    "d": "Equipes de resgate nepalesas chegam e áreas remotas e escavaram os escombros no Himalaia para resgatar cerca de 300 trabalhadores presos",
+    "link": "https://www.cnnbrasil.com.br/internacional/nepal-registra-mais-de-mil-mortes-e-4-mil-desaparecidos-apos-enchentes/",
+    "time": "2026-09-01T07:01:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fux ajuda BRB, mas crise se agrava e põe em risco futuro do banco",
+    "d": "Prova disso é atraso na publicação do balanço patrimonial, que deveria ter ocorrido em março, mas tem sido postergada para evitar exposição da situação financeira da instituição",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/fux-ajuda-brb-mas-crise-se-agrava-e-poe-em-risco-futuro-do-banco/",
+    "time": "2026-09-01T07:00:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Al-Hilal x Al-Ahli: horário e onde assistir ao jogo da Liga Saudita",
+    "d": "Equipes se enfrentam nesta terça-feira (1), na Kingdom Arena, em Riad, pela quarta rodada do Campeonato Saudita",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/al-hilal-x-al-ahli-horario-e-onde-assistir-ao-jogo-da-liga-saudita/",
+    "time": "2026-09-01T07:00:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlético-MG x Cruzeiro: horário e onde assistir à Copa do Brasil",
+    "d": "Equipes vão a campo nesta terça-feira (01), pelas quartas de final do campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/atletico-mg-x-cruzeiro-horario-e-onde-assistir-a-copa-do-brasil/",
+    "time": "2026-09-01T07:00:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Londrina x Juventude: horário e onde assistir ao jogo da Série B",
+    "d": "Equipes vão a campo nesta terça-feira (01), pela 25ª rodada do campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/londrina-x-juventude-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+    "time": "2026-09-01T07:00:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estreias de setembro: o que chega aos cinemas e streamings este mês",
+    "d": "Lançamentos variados devem empolgar maratonistas de plantão",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/estreias-de-setembro-o-que-chega-aos-cinemas-e-streamings-este-mes/",
+    "time": "2026-09-01T07:00:09.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Nepal death toll nears 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
     "d": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
     "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T06:50:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Zambia's president to be sworn in for second term while opponent detained",
-    "d": "Hakainde Hichilema swept to victory, but his main rival is now in detention charged with treason.",
-    "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T06:43:06.000Z"
   },
   {
     "cat": "comercio",
@@ -56,38 +136,6 @@
     "time": "2026-09-01T06:35:02.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ciclone, granizo e tempestades são esperados no Sul e Sudeste do Brasil",
-    "d": "Massa de ar frio e seco provoca diminuição acentuada do clima, além de risco de temporais em áreas do Paraná e Rio Grande do Sul",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-granizo-e-tempestades-sao-esperados-no-sul-e-sudeste-do-brasil/",
-    "time": "2026-09-01T06:34:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cientistas criam traje de cobre e zinco para pinguins",
-    "d": "Peça acelera cicatrização de aves marinhas feridas por emaranhamento em redes de pesca",
-    "link": "https://www.cnnbrasil.com.br/ciencia/cientistas-criam-traje-de-cobre-e-zinco-para-pinguins/",
-    "time": "2026-09-01T06:33:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem usa garrafas plásticas e constrói vilarejo sustentável no Panamá",
-    "d": "Sistema modular transforma milhões de garrafas em moradias resistentes e isolantes, combatendo o lixo e gerando moradia acessível na Ilha Colón",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/homem-usa-garrafas-plasticas-e-constroi-vilarejo-sustentavel-no-panama/",
-    "time": "2026-09-01T06:10:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ataques russos contra Kiev deixam ao menos nove mortos",
-    "d": "Ofensiva atingiu prédios residenciais e instalações comerciais; entre os feridos estão quatro crianças, segundo autoridades ucranianas",
-    "link": "https://www.cnnbrasil.com.br/internacional/ataques-russos-contra-kiev-deixam-mortos/",
-    "time": "2026-09-01T06:05:15.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "How catastrophic flash flood unfolded at remote Nepal-China border point",
@@ -112,14 +160,6 @@
     "time": "2026-09-01T05:00:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Planalto recebe fandoms de Taylor Swift, Harry Styles e BTS; entenda",
-    "d": "Comunidades de fãs de artistas pop compareceram a evento de assinatura de decretos voltados à proteção do consumidor em eventos culturais",
-    "link": "https://www.cnnbrasil.com.br/politica/planalto-recebe-fandoms-de-taylor-swift-harry-styles-e-bts-entenda/",
-    "time": "2026-09-01T04:17:39.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Shein shares fall in long-awaited stock market debut",
@@ -142,38 +182,6 @@
     "d": "Antes que as campanhas à Presidência da República começassem, o postulante pelo partido Avante pontuava baixo nas pesquisas de intenção de voto. Mas desde que as candidaturas se tornaram oficiais, Augusto Cury ganhou…",
     "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/01/augusto-cury-a-candidatura-que-entrou-no-radar-das-redes-sociais-o-assunto-1795.ghtml",
     "time": "2026-09-01T03:30:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "De ravioli de lagosta a suflê: o cardápio do jantar de Lula e empresários",
-    "d": "Presidente recebeu dezesseis empresários que representam parte relevante do PIB no Palácio da Alvorada",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/de-ravioli-de-lagosta-a-sufle-o-cardapio-do-jantar-de-lula-e-empresarios/",
-    "time": "2026-09-01T03:22:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Haddad defende “redução de contratos” para melhorar contas de SP",
-    "d": "Candidato ao governo paulista afirmou que estado vive pior situação fiscal em 30 anos e defendeu revisão de contratos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/haddad-defende-reducao-de-contratos-para-melhorar-contas-de-sp/",
-    "time": "2026-09-01T03:11:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Júri condena torcedor do Corinthians à prisão por matar esposa palmeirense",
-    "d": "Empresário Leonardo Souza Ceschini recebeu pena de 13 anos e 24 dias de prisão pelo feminicídio ocorrido na zona noroeste da capital, em 2021, após final da Libertadores",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juri-condena-torcedor-do-corinthians-a-prisao-por-matar-esposa-palmeirense/",
-    "time": "2026-09-01T03:10:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Classificação de PCC e CV como terroristas é “questão menor”, diz Haddad",
-    "d": "Candidato ao governo de São Paulo defende cooperação internacional no combate ao crime organizado e cita Operação Carbono Oculto como exemplo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/classificacao-de-pcc-e-cv-como-terroristas-e-questao-menor-diz-haddad/",
-    "time": "2026-09-01T03:05:06.000Z"
   },
   {
     "cat": "economia",
@@ -360,6 +368,14 @@
     "time": "2026-08-31T21:43:37.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+    "d": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-08-31T21:28:49.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "Bebidas alcoólicas, refrigerantes e cigarros: governo inclui 'imposto do pecado' no orçamento de 2027",
@@ -398,14 +414,6 @@
     "d": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for years The US’s main trade regulator and 22 states sued Amazon on Monday, alleging the online retailer “secretly and…",
     "link": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
     "time": "2026-08-31T19:41:52.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Festival honouring Dolly Parton set for Nashville and London",
-    "d": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T18:58:35.000Z"
   },
   {
     "cat": "brasil",
@@ -486,14 +494,6 @@
     "d": "Director Mark Mori followed coffee chain workers’ struggle to unionize: ‘These young kids are so inspirational’ As the food service industry was pushed on to the frontlines of the Covid-19 pandemic in 2021, workers at…",
     "link": "https://www.theguardian.com/business/2026/aug/31/starbucks-documentary-baristas-billionaires",
     "time": "2026-08-31T11:00:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A música de IA que plagiou Taylor Swift, viralizou nas redes e agora não para de tocar nas rádios brasileiras",
-    "d": "'A Sina de Ofélia', inspirada em hit da popstar, clona as vozes de Dilsinho e Luísa Sonza e já foi reproduzidas milhares de vezes no rádio, o que pode configurar um crime.",
-    "link": "https://www.bbc.com/portuguese/articles/cly7215x3vmo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T10:57:19.000Z"
   },
   {
     "cat": "internacional",
