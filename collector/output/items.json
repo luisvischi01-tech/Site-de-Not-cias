@@ -1,5 +1,61 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Shein valued at $26bn after long-awaited stock market debut",
+    "d": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T10:01:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Petroleiras independentes pedem nove medidas em 100 dias ao próximo governo",
+    "d": "ABPIP, que representa empresas como Prio e Brava Energia, fecha documento com propostas que incluem a possibilidade de redução dos royalties e extensão de contratos para campos marginais",
+    "link": "https://www.cnnbrasil.com.br/infra/petroleiras-independentes-pedem-nove-medidas-em-100-dias-ao-proximo-governo/",
+    "time": "2026-09-01T10:00:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tim Cook deixa comando da Apple após 15 anos; relembre a trajetória do CEO",
+    "d": "Executivo ingressou na empresa em 1998 e assumiu como CEO em 2011",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/tim-cook-deixa-comando-da-apple-apos-15-anos-relembre-a-trajetoria-do-ceo/",
+    "time": "2026-09-01T10:00:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ibama diz ao MPF que mais perfurações estão previstas na Margem Equatorial",
+    "d": "Ministério Público Federal pediu esclarecimentos sobre três poços que a Petrobras quer perfurar no bloco FZA-M-59",
+    "link": "https://www.cnnbrasil.com.br/infra/ibama-diz-ao-mpf-que-mais-perfuracoes-estao-previstas-na-margem-equatorial/",
+    "time": "2026-09-01T10:00:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rio registra rajadas de vento de quase 70 km/h; Defesa Civil emite alerta",
+    "d": "Previsão para o dia é de chuva moderada a forte com raios a partir da tarde e ventos moderados (18,4 km/h até 51,9 km/h) a fortes (52 km/h até 76 km/h)",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rio-registra-rajadas-de-vento-de-quase-70-km-h-defesa-civil-emite-alerta/",
+    "time": "2026-09-01T09:54:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O Grande Debate: Caso Renan é rigor eleitoral ou excesso do TSE?",
+    "d": "Dias Toffoli apontou \"ilicitudes\" em perfis de redes sociais não declarados; comentaristas divergem sobre a medida",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-caso-renan-e-rigor-eleitoral-ou-excesso-do-tse/",
+    "time": "2026-09-01T09:52:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como detectar um deepfake?",
+    "d": "Vídeos e imagens gerados por inteligência artificial estão cada vez mais realistas; veja pistas e estratégias para identificar um deepfake antes de compartilhar.",
+    "link": "https://www.bbc.com/portuguese/articles/cgk40xgng8jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T09:47:13.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Petroleiros são atingidos por projéteis em Ormuz, diz empresa de segurança",
@@ -35,7 +91,7 @@
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "SP amanhece em estado de atenção para alagamentos após pancadas de chuva",
-    "d": "Ao menos quatro pontos de alagamento estão ativos na cidade; nova frente fria deve provocar chuva, rajadas de vento acima de 50 km/h e queda acentuada da temperatura nos próximos dias",
+    "d": "Nova frente fria deve provocar chuva, rajadas de vento acima de 50 km/h e queda acentuada da temperatura nos próximos dias",
     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-amanhece-em-estado-de-atencao-para-alagamentos-apos-pancadas-de-chuva/",
     "time": "2026-09-01T09:00:11.000Z"
   },
@@ -56,14 +112,6 @@
     "time": "2026-09-01T08:47:03.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidente do Irã diz que país vai retribuir se EUA cumprirem acordo",
-    "d": "Masoud Pezeshkian afirma que Teerã está disposto a retomar os termos do acordo provisório firmado em junho, após nova troca de ataques entre os países",
-    "link": "https://www.cnnbrasil.com.br/internacional/presidente-do-ira-acordo-eua/",
-    "time": "2026-09-01T08:37:12.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea",
@@ -72,44 +120,12 @@
     "time": "2026-09-01T08:30:51.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pulse Abarth Scorpionissima: conceito pode indicar novos caminhos no país",
-    "d": "Apresentado no Festival de Interlagos 2026, Pulse Abarth tem visual inspirado em estilo europeu e pode ser lançado no Brasil",
-    "link": "https://www.cnnbrasil.com.br/auto/pulse-abarth-scorpionissima-conceito-pode-indicar-novos-caminhos-no-pais/",
-    "time": "2026-09-01T08:30:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rússia diz que anunciará novo embaixador no Reino Unido “no devido tempo”",
-    "d": "Moscou também ameaça resposta “devastadora” a ações hostis no Báltico e critica presença de mísseis americanos no Japão",
-    "link": "https://www.cnnbrasil.com.br/internacional/russia-reino-unido-embaixador/",
-    "time": "2026-09-01T08:23:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena: quanto rendem R$ 36 milhões na poupança, Tesouro Direto ou CDB",
-    "d": "Sorteio desta terça-feira (1°) será realizado às 21h; apostas podem ser feitas até 20h",
-    "link": "https://www.cnnbrasil.com.br/noticias/mega-sena-quanto-rendem-r-36-milhoes-na-poupanca-tesouro-direto-ou-cdb-2/",
-    "time": "2026-09-01T08:05:22.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Golpes do Free Flow: quase 500 sites falsos cobram falso pedágio por PIX; veja como se proteger",
     "d": "Pórtico do Free Flow no Rio Grande do Sul Gustavo Mansur/Palácio Piratini Em um ano, o número de sites falsos que prometem regularizar passagens pelo sistema \"free flow\" chegou a 480, segundo levantamento da Kaspersky…",
     "link": "https://g1.globo.com/carros/noticia/2026/09/01/golpes-do-free-flow-quase-500-sites-falsos-cobram-falso-pedagio-por-pix-veja-como-se-proteger.ghtml",
     "time": "2026-09-01T08:04:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena 3052: sorteio desta terça (1°) pode pagar R$ 36 milhões",
-    "d": "Para concorrer, apostadores devem registrar seus jogos até às 20h",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3052/",
-    "time": "2026-09-01T08:00:21.000Z"
   },
   {
     "cat": "internacional",
@@ -145,6 +161,14 @@
   },
   {
     "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Shein shares slide on fast-fashion retailer’s stock market debut",
+    "d": "Hong Kong flotation at $26bn by firm once valued at $100bn follows failure to list in US and UK Shares in the fast-fashion brand Shein slumped by as much as 10% as the China-founded company made its long-anticipated t…",
+    "link": "https://www.theguardian.com/business/2026/sep/01/shein-shares-slide-fast-fashion-retailer-stock-market-debut-hong-kong",
+    "time": "2026-09-01T07:11:16.000Z"
+  },
+  {
+    "cat": "internacional",
     "src": "BBC News",
     "h": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
     "d": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
@@ -162,7 +186,7 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+    "h": "The final minutes before floodwater crashed through Nepal-China border",
     "d": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
     "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T06:02:27.000Z"
@@ -182,14 +206,6 @@
     "d": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
     "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T05:00:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Shein shares fall in long-awaited stock market debut",
-    "d": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T04:15:15.000Z"
   },
   {
     "cat": "economia",
@@ -286,14 +302,6 @@
     "d": "Governo Federal apresenta proposta de orçamento para o ano que vem A equipe econômica apresentou nesta segunda-feira (31) os principais pontos da proposta de orçamento para 2027, enviada pelo governo federal ao Congre…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml",
     "time": "2026-09-01T03:00:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot",
-    "d": "Critically endangered New Zealand bird enjoys record breeding season triggered by mass fruiting of native tree, pushing its numbers to 325 The population of the world’s heaviest parrot, the kākāpō, has surpassed 300 b…",
-    "link": "https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo",
-    "time": "2026-09-01T02:57:21.000Z"
   },
   {
     "cat": "comercio",
@@ -558,14 +566,6 @@
     "d": "Small business owners have watched large companies fumble – and sometimes succeed – with AI, and then use what works One thing I’ve learned about corporate America is that what it succeeds at ultimately trickles down…",
     "link": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
     "time": "2026-08-30T14:00:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
-    "d": "'Se tivéssemos tomado essa decisão 10 minutos mais tarde, nenhum de nós — nem eu, nem os alunos — estaria aqui hoje', relata o diretor da escola à BBC",
-    "link": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-30T13:40:40.000Z"
   },
   {
     "cat": "economia",
