@@ -1,19 +1,147 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Moraes no caso Master: o que mostram as mensagens entre o ministro do STF e Daniel Vorcaro",
+    "d": "Mensagens extraídas do celular do banqueiro revelam interações com o ministro do STF e com pessoas ligadas à sua família; filhos do ministro teriam tido emissão de cartões de crédito do Banco Master",
+    "link": "https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T18:37:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "As reações no mundo político aos diálogos entre Alexandre de Moraes e Daniel Vorcaro",
+    "d": "Candidos à Presidência e parlamentares reagiram à divulgação de diálogos entre o ministro do Supremo e o banqueiro Daniel Vorcaro.",
+    "link": "https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T18:29:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Defesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha digital",
+    "d": "A defesa de Renan Santos (Missão) pediu ao Tribunal Superior Eleitoral (TSE) a revogação da decisão do ministro Dias Toffoli que suspendeu parte da campanha digital do candidato e determinou uma série de restrições à…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/defesa-de-renan-santos-pede-ao-tse-revogacao-de-decisao-de-toffoli-que-restringiu-campanha-digital.ghtml",
+    "time": "2026-09-01T18:29:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+    "d": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+    "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T18:26:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Esposa de Moraes tinha segundo contrato com empresa de Vorcaro; banqueiro tentou pagar R$ 50 mi com aeronaves",
+    "d": "Ministro André Mendonça tira sigilo de mensagens do banqueiro Daniel Vorcaro Além do contrato já conhecido de aproximadamente R$ 131 milhões com o Banco Master, o escritório de advocacia de Viviane Barci de Moraes, es…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/esposa-de-moraes-tinha-segundo-contrato-com-empresa-de-vorcaro-banqueiro-tentou-pagar-r-50-mi-com-aeronaves.ghtml",
+    "time": "2026-09-01T18:23:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quem é Viviane Barci de Moraes, mulher do ministro e citada nas investigações do Banco Master",
+    "d": "Malu Gaspar: Moraes editou contrato de esposa com Master O escritório de advocacia comandado por Viviane Barci de Moraes, mulher do ministro Alexandre de Moraes, foi citado nesta terça-feira (1º) em documentos e mensa…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/quem-e-viviane-barci-de-moraes-mulher-do-ministro-e-citada-nas-investigacoes-do-banco-master.ghtml",
+    "time": "2026-09-01T18:19:43.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "BBC News Brasil",
+    "h": "Os minutos que antecederam a avalanche de lama na fronteira entre Nepal e China",
+    "d": "Desastre natural já soma mais de 1 mil mortos e 3,9 mil desaparecidos após a inundação que devastou um importante rota comercial entre o Nepal e a China.",
+    "link": "https://www.bbc.com/portuguese/articles/cy4zvlyxjl7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T18:19:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Carlos Viana protocola 54º pedido de impeachment contra Moraes no Senado",
+    "d": "Senador disse que pedirá o afastamento do presidente da Casa Alta, Davi Alcolumbre, se a petição for arquivada",
+    "link": "https://www.cnnbrasil.com.br/politica/carlos-viana-protocola-54o-pedido-de-impeachment-contra-moraes-no-senado/",
+    "time": "2026-09-01T18:16:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ouro cai pela 3ª vez seguida com alta do petróleo e Fed mais rígido",
+    "d": "Metal para dezembro encerrou em baixa de 1,90%, a US$ 4.396,4 por onça-troy",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-cai-pela-3a-vez-seguida-com-alta-do-petroleo-e-fed-mais-rigido/",
+    "time": "2026-09-01T18:16:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cúpula entre EUA e Coreia do Norte pode acontecer em breve, diz Seul",
+    "d": "Parlamentar da Coreia do Sul diz que países estão mostrando sinais de retomada do diálogo",
+    "link": "https://www.cnnbrasil.com.br/internacional/cupula-entre-eua-e-coreia-do-norte-pode-acontecer-em-breve-diz-seul/",
+    "time": "2026-09-01T18:15:44.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+    "d": "Japan’s collision with Donald Trump reveals the dilemma facing Britain: economic independence is becoming more necessary – and more tricky to achieve “In the midst of every crisis lies great opportunity” is an aphoris…",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+    "time": "2026-09-01T18:15:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Europa fecham em queda com avanço nos juros e preços do petróleo",
+    "d": "Movimento reforçou expectativas de aperto monetário pelo BCE (Banco Central Europeu)",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-em-queda-com-avanco-nos-juros-e-precos-do-petroleo/",
+    "time": "2026-09-01T18:14:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mendonça avisou Fachin e Moraes que avançaria com investigação",
+    "d": "Ministro antecipou aos magistrados que pediria posição à PGR; conversa ocorreu nesta segunda-feira (31)",
+    "link": "https://www.cnnbrasil.com.br/politica/mendonca-avisou-fachin-e-moraes-que-avancaria-com-investigacao/",
+    "time": "2026-09-01T18:14:17.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "PIB do 2º trimestre não deve mudar plano de voo do BC, diz economista",
+    "d": "Crescimento de 0,5% foi puxado pelo agro, mas consumo das famílias recuou 0,4%, sinalizando desaceleração da economia",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pib-do-2o-trimestre-nao-deve-mudar-plano-de-voo-do-bc-diz-economista/",
+    "time": "2026-09-01T18:13:47.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
     "d": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
     "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T18:03:47.000Z"
+    "time": "2026-09-01T18:06:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fórmula 1 na Argentina? Presidente da FIA apoia retorno ao calendário",
+    "d": "Último GP em solo argentino aconteceu há quase 30 anos",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-na-argentina-presidente-da-fia-apoia-retorno-ao-calendario/",
+    "time": "2026-09-01T18:06:09.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
     "h": "Master: Mendonça sugere a ministros que novos elementos apresentados pela PF sejam analisados em plenário",
-    "d": "O ministro do Supremo Tribunal Federal (STF) André Mendonça, relator das apurações envolvendo fraudes do Banco Master, sugeriu em decisão divulgada nesta terça-feira (1º) que os novos elementos apresentados pela Políc…",
+    "d": "Ministro André Mendonça tira sigilo de mensagens do banqueiro Daniel Vorcaro O ministro do Supremo Tribunal Federal (STF) André Mendonça, relator das apurações envolvendo fraudes do Banco Master, sugeriu em decisão di…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/01/master-mendonca-sugere-a-ministros-que-novos-elementos-apresentados-pela-pf-sejam-analisados-em-plenario.ghtml",
     "time": "2026-09-01T18:03:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em meio a crise financeira, Fiuk vende segundo carro por R$ 54 mil; veja",
+    "d": "Cantor expôs problemas financeiros e familiares por meio de um desabafo compartilhado no começo de agosto",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/em-meio-a-crise-financeira-fiuk-vende-segundo-carro-por-r-54-mil-veja/",
+    "time": "2026-09-01T18:01:01.000Z"
   },
   {
     "cat": "brasil",
@@ -22,6 +150,14 @@
     "d": "A comissão mista do Congresso Nacional aprovou nesta terça-feira (1º) uma medida provisória (MP) que amplia as atribuições do Programa de Gerenciamento de Benefícios (PGB), criado para reforçar a capacidade de análise…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/01/comissao-do-congresso-aprova-mp-que-amplia-programa-para-reduzir-filas-do-inss.ghtml",
     "time": "2026-09-01T17:59:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Estou online”: Vorcaro enviou mensagem a Moraes minutos antes de ser preso",
+    "d": "Ex-banqueiro foi preso preventivamente pela Polícia Federal no aeroporto de Guarulhos, no dia 17 de novembro de 2025, quando tentava embarcar em uma viagem com destino a Dubai",
+    "link": "https://www.cnnbrasil.com.br/politica/estou-online-vorcaro-enviou-mensagem-a-moraes-minutos-antes-de-ser-preso/",
+    "time": "2026-09-01T17:57:37.000Z"
   },
   {
     "cat": "brasil",
@@ -65,22 +201,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vorcaro diz que Moraes precisava aprovar lista de convidados de evento",
-    "d": "Em mensagens, banqueiro também afirmou que o ministro rejeitaria Antônio Rueda, presidente nacional do União Brasil, como moderador de painel: \"Nos mata\"",
-    "link": "https://www.cnnbrasil.com.br/politica/vorcaro-diz-que-moraes-precisava-aprovar-lista-de-convidados-de-evento/",
-    "time": "2026-09-01T17:50:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Proagro tem redução de R$ 1 bi no orçamento de 2027",
-    "d": "Orçamento para o programa teve redução de fica 40,4% ao longo dos últimos quatro anos; queda ocorre em um momento de preocupação com os efeitos de eventos climáticos sobre a produção agrícola",
-    "link": "https://www.cnnbrasil.com.br/agro/proagro-tem-reducao-de-r-1-bi-no-orcamento-de-2027/",
-    "time": "2026-09-01T17:50:17.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes",
     "d": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes Relatório da Polícia Federal sobre diálogos extraídos do celular de Daniel Vorcaro aponta vários encontros que teriam ocorrido entre o dono do Master e o…",
@@ -89,83 +209,19 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pilha de louças é a novo troféu do GP de Monza na Fórmula 1; veja significado do design que incomodou os fãs da modalidade",
-    "d": "Vencedor da corrida deste domingo (6) receberá um troféu incomum, produzido por uma dupla de artistas contemporâneos em homenagem à coletividade do esporte e a fragilidade da vitória",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/pilha-de-loucas-e-a-novo-trofeu-do-gp-de-monza-na-formula-1-veja-significado-do-design-que-incomodou-os-fas-da-modalidade/",
-    "time": "2026-09-01T17:49:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Moraes no caso Master: o que mostram as mensagens entre o ministro do STF e Daniel Vorcaro",
-    "d": "Mensagens extraídas do celular do banqueiro revelam interações com o ministro do STF e com pessoas ligadas à sua família; filhos do ministro teriam tido emissão de cartões de crédito do Banco Master",
-    "link": "https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T17:49:16.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
-    "h": "Inquérito aponta que Moraes vetou participações em eventos em Londres organizados pelo Banco Master; \"Alexandre morre se fizer isso\", disse Vorcaro",
-    "d": "Mensagens obtidas pela Polícia Federal na investigação sobre o Banco Master indicam que o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), participava de decisões sobre a programação e a lista de convi…",
+    "h": "Inquérito aponta que Moraes vetou participações em eventos em Londres organizados pelo Master; 'Alexandre morre se fizer isso', disse Vorcaro",
+    "d": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes Mensagens obtidas pela Polícia Federal na investigação sobre o Banco Master indicam que o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF),…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/01/inquerito-aponta-que-moraes-vetou-participacoes-em-eventos-em-londres-organiados-pelo-banco-master-alexandre-morre-se-fizer-isso-disse-vorcaro.ghtml",
     "time": "2026-09-01T17:48:00.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que novos ataques ao Irã são “justificados” e faz alerta ao país",
-    "d": "Presidente dos EUA disse que forças armadas dispararam contra alvos perto do Estreito de Ormuz e ameaçou Teerã com ataques maiores em caso de retaliação",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-novos-ataques-ao-ira-sao-justificados-e-faz-alerta-ao-pais/",
-    "time": "2026-09-01T17:47:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "STF nunca teve caso similar, diz especialista à CNN sobre Moraes e Mendonça",
-    "d": "Gustavo Sampaio, em entrevista ao Bastidores CNN, explica os limites jurídicos e o rito necessário para investigar um ministro do Supremo Tribunal Federal",
-    "link": "https://www.cnnbrasil.com.br/politica/stf-nunca-teve-caso-similar-diz-especialista-a-cnn-sobre-moraes-e-mendonca/",
-    "time": "2026-09-01T17:47:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em meio a crise financeira, Fiuk vende Uno Mille por R$ 54 mil; veja",
-    "d": "Artista negociou hatch de 14 mil km em patamar de colecionável",
-    "link": "https://www.cnnbrasil.com.br/auto/em-meio-a-crise-financeira-fiuk-vende-uno-mille-por-r-54-mil-veja/",
-    "time": "2026-09-01T17:46:28.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
-    "h": "Mensagens revelam tratativas para custeio de viagens de cúpula da PF, PGR e STF a Londres",
+    "h": "Mensagens revelam tratativas de Vorcaro para custeio de viagens de Andrei e Gonet a Londres",
     "d": "Diálogos interceptados pela Polícia Federal detalham a organização de um fórum jurídico internacional em Londres articulado por Daniel Vorcaro e seus assessores. As mensagens registram que o banqueiro autorizou o paga…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/01/mensagens-revelam-tratativas-para-custeio-de-viagens-a-londres.ghtml",
     "time": "2026-09-01T17:45:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Vorcaro dizia ter “amigos” dentro do BC: “Não posso queimá-los”",
-    "d": "Ex-dono do Banco Master afirmava receber informações de integrantes do Banco Central; mensagens foram obtidas pela Polícia Federal",
-    "link": "https://www.cnnbrasil.com.br/politica/vorcaro-dizia-ter-amigos-dentro-do-bc-nao-posso-queima-los/",
-    "time": "2026-09-01T17:42:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Anthropic retoma testes de IA após ataque hacker",
-    "d": "Modelos da empresa escaparam de um sistema fechado e acessaram sistemas de outras companhias",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/anthropic-retoma-testes-de-ia-apos-ataque-hacker/",
-    "time": "2026-09-01T17:41:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Kemin quer dobrar negócios na América Latina e avalia fábrica no México",
-    "d": "A unidade no país é o principal projeto em avaliação e visa atender não apenas o mercado local, mas também a américa central",
-    "link": "https://www.cnnbrasil.com.br/agro/kemin-quer-dobrar-negocios-na-america-latina-e-avalia-fabrica-no-mexico/",
-    "time": "2026-09-01T17:38:57.000Z"
   },
   {
     "cat": "brasil",
@@ -192,20 +248,12 @@
     "time": "2026-09-01T17:16:22.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Vorcaro enviou 5 mensagens de visualização única a contato atribuído a Moraes na véspera de prisão, diz PF",
-    "d": "Vorcaro cobrou aliados sobre atraso de pagamento ao escritório de Moraes e esposa Na véspera de ser preso pela Polícia Federal, o dono do Banco Master, Daniel Vorcaro, enviou cinco mensagens em formato de visualização…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/01/mensagens-daniel-vorcaro-alexandre-de-moraes-relatorio-pf.ghtml",
-    "time": "2026-09-01T17:06:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Vorcaro diz que tem contatos dentro do BC e reforça preocupação com atuação de Galípolo contra o Master",
-    "d": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes Relatório da Polícia Federal (PF) sobre trocas de mensagens obtidas no celular do banqueiro Daniel Vorcaro, alvo da Operação Compliance Zero, aponta que o…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-diz-que-tem-contatos-dentro-do-bc-e-reforca-preocupacao-com-atuacao-de-galipolo-contra-o-master.ghtml",
-    "time": "2026-09-01T17:02:13.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Private equity keeps picking off London-listed firms – and Westminster barely notices | Nils Pratley",
+    "d": "Bodycote is the latest FTSE 250 industrial company set to fall to an overseas bidder, despite the government’s talk of ‘reindustrialising’ The UK is in the business of “reindustrialising”, says the prime minister. If…",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/01/bodycote-private-equity-london-takeover-spree-politicians-ignore",
+    "time": "2026-09-01T16:56:59.000Z"
   },
   {
     "cat": "internacional",
@@ -214,14 +262,6 @@
     "d": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
     "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T16:53:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "É #FAKE vídeo de JK prevendo 'homem mau' na Presidência do Brasil no século XXI; cena foi manipulada com IA",
-    "d": "É #FAKE vídeo de Juscelino Kubitschek prevendo 'homem mau' na Presidência do Brasil no século XXI; cena foi manipulada com IA Reprodução Circula nas redes sociais um vídeo que supostamente mostra uma entrevista do ex-…",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/01/e-fake-video-de-jk-prevendo-homem-mau-na-presidencia-do-brasil-no-seculo-xxi-cena-foi-manipulada-com-ia.ghtml",
-    "time": "2026-09-01T16:51:01.000Z"
   },
   {
     "cat": "economia",
@@ -304,6 +344,14 @@
     "time": "2026-09-01T15:33:14.000Z"
   },
   {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
+    "d": "US owner of Claude chatbot previously said its models had hacked three organisations during testing The US startup behind the Claude chatbot has admitted a series of hacking incidents involving its models reflected a…",
+    "link": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+    "time": "2026-09-01T15:18:10.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "France targets Shein and Temu with fast fashion fees",
@@ -337,6 +385,14 @@
   },
   {
     "cat": "economia",
+    "src": "The Guardian",
+    "h": "Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth",
+    "d": "James Dyson says ‘complete dental system’ will also include toothpaste and mouth rinse that each cost £8.50 It is the live stream you never wanted to see but may find impossible to resist: rolling footage beamed live…",
+    "link": "https://www.theguardian.com/technology/2026/sep/01/dyson-toothbrush-camera-films-live-footage-inside-mouth",
+    "time": "2026-09-01T14:39:38.000Z"
+  },
+  {
+    "cat": "economia",
     "src": "G1",
     "h": "Simples Nacional muda em 2027: empresas devem escolher como pagar novos impostos",
     "d": "O MEI deve fazer a declaração Anual do Simples Nacional (DASN-SIMEI) Divulgação/Sebrae Micro e pequenas empresas do Simples Nacional precisam tomar, a partir desta terça-feira (1º), uma decisão que poderá afetar a for…",
@@ -354,10 +410,10 @@
   {
     "cat": "economia",
     "src": "The Guardian",
-    "h": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – as it happened",
-    "d": "European stock markets fall and Brent crude jumps above $92 a barrel amid renewed fighting in Middle East The FTSE 100 index is down just over 1%, driven by sharp falls in mining and manufacturing shares. Endeavour Mi…",
-    "link": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
-    "time": "2026-09-01T14:18:27.000Z"
+    "h": "UK long-term borrowing costs could halve chancellor’s budget headroom",
+    "d": "Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey faces Business live – latest updates The chancellor’s headroom against Labour’s fiscal rules could b…",
+    "link": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
+    "time": "2026-09-01T14:25:53.000Z"
   },
   {
     "cat": "economia",
@@ -456,12 +512,28 @@
     "time": "2026-09-01T10:30:55.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como detectar um deepfake?",
-    "d": "Vídeos e imagens gerados por inteligência artificial estão cada vez mais realistas; veja pistas e estratégias para identificar um deepfake antes de compartilhar.",
-    "link": "https://www.bbc.com/portuguese/articles/cgk40xgng8jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T09:47:13.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "London Stock Exchange to lose three more firms after takeover offers",
+    "d": "Latest purchases take value of deals to leave capital’s stock market this year past $100bn Three more London-listed companies are set to be taken over as the value of deals removing firms from the capital’s under-pres…",
+    "link": "https://www.theguardian.com/business/2026/sep/01/london-stock-exchange-to-lose-three-more-firms-after-takeover-offers",
+    "time": "2026-09-01T10:08:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "From milk to sausage rolls: how vending machines could help tackle UK ‘food deserts’",
+    "d": "Selling direct to public helps squeezed farmers control prices and improves access to food in rural areas Fizzy drinks, packets of crisps and bars of chocolate: for decades, vending machines were known as a place to g…",
+    "link": "https://www.theguardian.com/business/2026/sep/01/rural-vending-machines-uk-dairy-farmer",
+    "time": "2026-09-01T09:00:03.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "UK house prices rise for first time since April, says Nationwide",
+    "d": "Average price of home rose 0.2% month on month in August to £275,465 as market awaits interest rate vote Houses near top state secondary schools ‘cost £40,000 more’ UK house prices increased for the first time in four…",
+    "link": "https://www.theguardian.com/business/2026/sep/01/uk-house-prices-rise-for-first-time-since-april-says-nationwide",
+    "time": "2026-09-01T08:32:48.000Z"
   },
   {
     "cat": "internacional",
@@ -488,6 +560,14 @@
     "time": "2026-09-01T07:42:50.000Z"
   },
   {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Boss of City regulator accused of threatening consumer group over £9.1bn car loan scheme",
+    "d": "FCA chief, Nikhil Rathi, warned of ‘adverse consequences’ if challenge made to settlement, court filings allege The boss of the UK’s financial regulator is accused of threatening a consumer group with “adverse consequ…",
+    "link": "https://www.theguardian.com/business/2026/sep/01/boss-of-city-regulator-accused-of-threatening-consumer-group-over-91bn-car-loan-scheme",
+    "time": "2026-09-01T07:16:20.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Shein shares slide on fast-fashion retailer’s stock market debut",
@@ -498,26 +578,26 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-    "d": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
-    "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T07:02:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
     "d": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
     "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T05:00:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Renan Santos 'não é charlatão', diz The Economist sobre candidato e 'sua visão ousada' para o Brasil",
-    "d": "Texto publicado nesta segunda-feira (31/08) pela revista britânica destaca as propostas do candidato à economia.",
-    "link": "https://www.bbc.com/portuguese/articles/ckgx0m38jkzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T22:27:50.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
+    "d": "While many young people have found jobs and built careers, some have struggled to complete their courses The crisis in the youth employment market, with almost a million young people not in education, employment or tr…",
+    "link": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
+    "time": "2026-09-01T04:00:46.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
+    "d": "An EU export ban on Dutch tech giant ASML’s machines could force the pause we all need At this point, it should be clear that AI is a choose-your-own-adventure book where every option ends in disaster. Exploding carbo…",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
+    "time": "2026-09-01T04:00:45.000Z"
   },
   {
     "cat": "brasil",
@@ -536,28 +616,12 @@
     "time": "2026-08-31T21:03:21.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
-    "d": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for years The US’s main trade regulator and 22 states sued Amazon on Monday, alleging the online retailer “secretly and…",
-    "link": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
-    "time": "2026-08-31T19:41:52.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "South African airline defends dramatic low-level flyby before rugby union clash",
     "d": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew…",
     "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
     "time": "2026-08-31T13:44:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
-    "d": "AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-doll…",
-    "link": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
-    "time": "2026-08-31T12:42:05.000Z"
   },
   {
     "cat": "internacional",
@@ -568,14 +632,6 @@
     "time": "2026-08-31T11:54:16.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘Revenge of the Rust belt’: Starbucks film-maker on Baristas vs Billionaires",
-    "d": "Director Mark Mori followed coffee chain workers’ struggle to unionize: ‘These young kids are so inspirational’ As the food service industry was pushed on to the frontlines of the Covid-19 pandemic in 2021, workers at…",
-    "link": "https://www.theguardian.com/business/2026/aug/31/starbucks-documentary-baristas-billionaires",
-    "time": "2026-08-31T11:00:24.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Morocco not to blame for Ceuta border breach, says Spanish PM",
@@ -584,68 +640,12 @@
     "time": "2026-08-31T10:21:56.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
-    "d": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key roles Having reportedly read Victor Hugo’s Les Misérables,…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
-    "time": "2026-08-31T10:00:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "AI could cause global economic downturn, Bank of England governor tells G20",
-    "d": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global ri…",
-    "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-    "time": "2026-08-31T09:00:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks",
-    "d": "Small business owners have watched large companies fumble – and sometimes succeed – with AI, and then use what works One thing I’ve learned about corporate America is that what it succeeds at ultimately trickles down…",
-    "link": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
-    "time": "2026-08-30T14:00:57.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Meet the gen Zers finding job opportunities teaching English abroad",
-    "d": "Some young people are teaching in countries like South Korea as education funding is gutted and recent grads face a tough job market in their own countries A year ago, Arianna Marie, 25, was struggling to control the…",
-    "link": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
-    "time": "2026-08-30T11:00:56.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
     "d": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and de…",
     "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
     "time": "2026-08-30T06:00:48.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
-    "d": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living For William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first cho…",
-    "link": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
-    "time": "2026-08-29T12:02:55.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
-    "d": "There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt History remembers Gen Dwight Eisenhower, the supreme commander of the allied forces in Europe d…",
-    "link": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
-    "time": "2026-08-29T12:00:27.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-    "d": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first majo…",
-    "link": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
-    "time": "2026-08-28T15:48:57.000Z"
   },
   {
     "cat": "internacional",
