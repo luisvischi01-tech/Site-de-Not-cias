@@ -1,5 +1,61 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE",
+    "d": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da c…",
+    "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T14:26:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – as it happened",
+    "d": "European stock markets fall and Brent crude jumps above $92 a barrel amid renewed fighting in Middle East The FTSE 100 index is down just over 1%, driven by sharp falls in mining and manufacturing shares. Endeavour Mi…",
+    "link": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
+    "time": "2026-09-01T14:18:27.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Shein tem estreia discreta na Bolsa de Hong Kong e arrecada US$ 1,7 bilhão",
+    "d": "Shein REUTERS/Sarah Meyssonnier A gigante do fast-fashion Shein teve uma estreia discreta na Bolsa de Hong Kong nesta terça-feira (1º), arrecadando 1,7 bilhão de dólares (R$ 8,8 bilhões) em sua oferta pública inicial…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/01/shein-estreia-bolsa-hong-kong.ghtml",
+    "time": "2026-09-01T14:11:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: O que está em jogo na decisão de Dias Toffoli sobre Renan Santos",
+    "d": "Decisão monocrática é classificada como inédita por especialistas e gerou reações contrárias de candidatos e ministros do TSE",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/analise-o-que-esta-em-jogo-na-decisao-de-dias-toffoli-sobre-renan-santos/",
+    "time": "2026-09-01T13:55:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ataques russos matam 12 e atingem usina termelétrica na Ucrânia",
+    "d": "Ofensiva também atingiu a região de Odessa e deixou milhares de famílias sem energia, segundo Zelensky",
+    "link": "https://www.cnnbrasil.com.br/internacional/ataques-russos-matam-12-e-atingem-usina-termeletrica-na-ucrania/",
+    "time": "2026-09-01T13:54:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "SAF no Santos: empresa se reúne com Conselho, mas sem proposta",
+    "d": "Representantes da SDC Sports apresentaram trajetória e motivos aos conselheiros, mas aguardam mudanças estatutárias para proposta final",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/saf-no-santos-empresa-se-reune-com-conselho-mas-sem-proposta/",
+    "time": "2026-09-01T13:54:36.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Governo envia Orçamento de 2027 sem reajuste no Bolsa Família",
+    "d": "Equipe econômica reservou R$ 157,1 bilhões para o programa no ano que vem ante a R$ 158,6 bilhões em 2026",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-envia-orcamento-de-2027-sem-reajuste-no-bolsa-familia/",
+    "time": "2026-09-01T13:54:13.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
@@ -8,12 +64,36 @@
     "time": "2026-09-01T13:49:33.000Z"
   },
   {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "PIB do 2º tri confirma desaceleração da economia brasileira, diz economista",
+    "d": "Crescimento de 0,5% ficou acima das expectativas, mas composição dos dados revela desaquecimento em setores sensíveis aos juros",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pib-do-2o-tri-confirma-desaceleracao-da-economia-brasileira-diz-economista/",
+    "time": "2026-09-01T13:48:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Palestinos de Gaza lamentam as mortes causadas por ataque de Israel",
+    "d": "Operação para deter militante do Hamas levou a ataques aéreos, resultando em ao menos cinco palestinos mortos, incluindo duas crianças",
+    "link": "https://www.cnnbrasil.com.br/internacional/palestinos-de-gaza-lamentam-as-mortes-causadas-por-ataque-de-israel/",
+    "time": "2026-09-01T13:46:34.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
     "d": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
     "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T13:46:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Segunda vida”: Sobrevivente de enchente no Nepal lamenta morte de amigo",
+    "d": "Número de mortos ultrapassa a marca de mil e ao menos quatro mil pessoas continuam desaparecidas",
+    "link": "https://www.cnnbrasil.com.br/internacional/segunda-vida-sobrevivente-de-enchente-no-nepal-lamenta-morte-de-amigo/",
+    "time": "2026-09-01T13:44:23.000Z"
   },
   {
     "cat": "economia",
@@ -25,27 +105,51 @@
   },
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bruna Marquezine e Shawn Mendes distribuem mais de 3 mil quentinhas pelo RJ",
+    "d": "Artistas participaram da ação solidária \"Macarrão com Salsicha\"",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-marquezine-e-shawn-mendes-distribuem-mais-de-3-mil-quentinhas-pelo-rj/",
+    "time": "2026-09-01T13:42:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Governo prevê arrecadar R$ 678 bilhões com novos tributos da tributária",
+    "d": "Projeto de Lei Orçamentária Anual estima arrecadação de R$ 636,8 bilhões com o CBS e R$ 41,9 bilhões com o imposto seletivo",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-preve-arrecadar-r-678-bilhoes-com-novos-tributos-da-tributaria/",
+    "time": "2026-09-01T13:40:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem são os candidatos ao Senado pelo Amapá em 2026",
+    "d": "Estado da região norte conta com 577,5 mil eleitores e terá nove concorrentes à Casa Alta do Legislativo Federal",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-pelo-amapa-em-2026/",
+    "time": "2026-09-01T13:40:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Detergente misturado ao cimento funciona? Entenda efeito “bolha” na argamassa",
+    "d": "Prática pode deixar a argamassa mais fácil de trabalhar, mas o excesso do produto também pode reduzir a resistência do material",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/detergente-misturado-ao-cimento-funciona-entenda-efeito-bolha-na-argamassa/",
+    "time": "2026-09-01T13:40:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem são os candidatos a senador por Pernambuco em 2026",
+    "d": "Disputa no estado é composta por 12 candidaturas registradas no TSE (Tribunal Superior Eleitoral)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-a-senador-por-pernambuco-em-2026/",
+    "time": "2026-09-01T13:39:12.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "TSE deve manter proibição de 'deepfake' e veto a uso de avatares para enganar eleitor",
     "d": "TSE define regras para uso de deepfakes nas eleições Ministros do Tribunal Superior Eleitoral (TSE) devem manter a proibição do uso de deepfakes em campanhas eleitorais e reforçar o veto à utilização de avatares e out…",
     "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/01/tse-deve-manter-proibicao-de-deepfake-e-veto-a-uso-de-avatares-para-enganar-eleitor.ghtml",
     "time": "2026-09-01T13:38:09.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – business live",
-    "d": "European stock markets fall and Brent crude jumps above $92 a barrel amid renewed fighting in Middle East The FTSE 100 index is down just over 1%, driven by sharp falls in mining and manufacturing shares. Endeavour Mi…",
-    "link": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
-    "time": "2026-09-01T13:36:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sem CNH, motorista de Porsche bate em viatura e deixa feridos na Faria Lima",
-    "d": "Homem de 21 anos atingiu veículo policial após realizar ultrapassagem; dois agentes ficaram feridos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sem-cnh-motorista-de-porsche-bate-em-viatura-e-deixa-feridos-na-faria-lima/",
-    "time": "2026-09-01T13:31:25.000Z"
   },
   {
     "cat": "economia",
@@ -56,52 +160,12 @@
     "time": "2026-09-01T13:28:57.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flaco López renova com o Palmeiras até fim de 2030: “Família”",
-    "d": "Artilheiro do time na temporada é peça fundamental do esquema de Abel Ferreira",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/flaco-lopez-renova-com-o-palmeiras-ate-fim-de-2030-familia/",
-    "time": "2026-09-01T13:28:47.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "PIB mostra 'desaceleração importante' da economia e acende alerta sobre consumo das famílias, apontam economistas",
     "d": "PIB do Brasil cresce 0,5% no 2º trimestre de 2026 A economia brasileira continua crescendo, mas perdeu força no segundo trimestre. Para economistas ouvidos pelo g1, o resultado mostra sinais de enfraquecimento do cons…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/01/pib-mostra-desaceleracao-importante-da-economia-e-acende-alerta-sobre-consumo-das-familias-apontam-economistas.ghtml",
     "time": "2026-09-01T13:27:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Felino toma leite direto da fonte e divide tetas com bezerro: “Um peito é do gato e o outro é do bezerro!”, diz vaqueiro",
-    "d": "Fazendeiro compartilhou momento envolvendo pet e ordenha de uma vaca",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/felino-toma-leite-direto-da-fonte-e-divide-tetas-com-bezerro-um-peito-e-do-gato-e-o-outro-e-do-bezerro-diz-vaqueiro/",
-    "time": "2026-09-01T13:24:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Zendaya faz 30 como “queridinha” de Hollywood; veja principais trabalhos",
-    "d": "Atriz norte-americana vem ganhando destaque e espaço na indústria cinematográfica nos últimos anos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/zendaya-faz-30-como-queridinha-de-hollywood-veja-principais-trabalhos/",
-    "time": "2026-09-01T13:22:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ferrari celebra Michael Schumacher com pintura especial para o GP da Itália",
-    "d": "Carros de Lewis Hamilton e Charles Leclerc terão detalhes que marcam os 30 anos da primeira vitória do alemão",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/ferrari-celebra-michael-schumacher-com-pintura-especial-para-o-gp-da-italia/",
-    "time": "2026-09-01T13:18:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vox Brasil: governo Tarcísio é aprovado por 67,8%; desaprovação é de 23,1%",
-    "d": "Foram ouvidos 1.480 eleitores entre os dias 29 e 31 de agosto; a margem de erro é de 2,55 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-brasil-governo-tarcisio-e-aprovado-por-678-desaprovacao-e-de-231/",
-    "time": "2026-09-01T13:16:54.000Z"
   },
   {
     "cat": "economia",
@@ -112,28 +176,12 @@
     "time": "2026-09-01T13:15:13.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ciclone e contraste climático marcam início de setembro; veja previsão",
-    "d": "Sistema se forma na costa do Sul e provoca instabilidade no Centro-Sul; Norte e Nordeste terão temperaturas elevadas",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-e-contraste-climatico-marcam-inicio-de-setembro-veja-previsao/",
-    "time": "2026-09-01T13:13:23.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Woman killed in Times Square stabbing, suspect shot dead by police",
     "d": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
     "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T13:12:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: Passageiros andam pelos trilhos após falha na Linha 12-Safira em SP",
-    "d": "Para atuação da equipe de manutenção, circulação dos trens da linha acontece em via única no trecho entre as estações Calmon Viana e Itaim Paulista, na zona Leste",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-passageiros-andam-pelos-trilhos-apos-falha-na-linha-12-safira-em-sp/",
-    "time": "2026-09-01T13:09:28.000Z"
   },
   {
     "cat": "brasil",
@@ -160,44 +208,12 @@
     "time": "2026-09-01T12:59:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ainda não foi possível contato com algumas áreas do Nepal, diz a ONU",
-    "d": "Danos em estradas e pontes dificultam acesso após inundações na região",
-    "link": "https://www.cnnbrasil.com.br/internacional/ainda-nao-foi-possivel-contato-com-algumas-areas-do-nepal-diz-a-onu/",
-    "time": "2026-09-01T12:59:03.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
     "d": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
     "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T12:58:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "França mira Shein e Temu com taxas de fast fashion",
-    "d": "Alíquotas variam Us$ 0,30 por um par de cuecas ou meias a US$ 14 por um casaco, com o valor limitado a 50% do preço de venda do produto antes dos impostos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/franca-mira-shein-e-temu-com-taxas-de-fast-fashion/",
-    "time": "2026-09-01T12:58:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Barcelona oficializa contratação do atacante Gabriel Jesus",
-    "d": "Brasileiro chega para ser opção no setor ofensivo do clube catalão",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/barcelona-oficializa-contratacao-do-atacante-gabriel-jesus/",
-    "time": "2026-09-01T12:58:09.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "TRF-1 derruba liminar que suspendia imposto sobre exportações de petróleo",
-    "d": "Decisão atende a pedido da Advocacia-Geral da União e restabelece cobrança de alíquota de 12%",
-    "link": "https://www.cnnbrasil.com.br/infra/trf-1-derruba-liminar-que-suspendia-imposto-sobre-exportacoes-de-petroleo/",
-    "time": "2026-09-01T12:56:29.000Z"
   },
   {
     "cat": "internacional",
@@ -266,8 +282,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar abre em alta com foco na divulgação do PIB e na agenda econômica do governo",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar inicia esta terça-feira (1º) em alta de 0,09%, cotado a R$ 5,1845, enquanto os investidores aguardam a divulgação do PIB do segundo trimestre. Já o Ibovespa, pr…",
+    "h": "Dólar opera em baixa com PIB e agenda econômica no radar; Ibovespa avança",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera com queda nsta terça-feira (1º), recuando 0,60% por volta das 11h15, cotado a R$ 5,1485. Já o Ibovespa, principal índice da bolsa brasileira, subia 1,48%…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/01/dolar-ibovespa.ghtml",
     "time": "2026-09-01T12:00:15.000Z"
   },
@@ -334,6 +350,14 @@
     "d": "Vídeos e imagens gerados por inteligência artificial estão cada vez mais realistas; veja pistas e estratégias para identificar um deepfake antes de compartilhar.",
     "link": "https://www.bbc.com/portuguese/articles/cgk40xgng8jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T09:47:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Trump suggests he is reviewing US support for UK over Falkland Islands",
+    "d": "Comments signal president prepared to use dispute to push UK to raise defence spending and Nato contributions Donald Trump has suggested he is reconsidering US support for Britain’s sovereignty over the Falkland Islan…",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
+    "time": "2026-09-01T08:31:35.000Z"
   },
   {
     "cat": "internacional",
@@ -432,14 +456,6 @@
     "time": "2026-09-01T03:01:13.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bolsa Família 2026: veja calendário de pagamentos em setembro",
-    "d": "Bolsa Família 2026: confira o calendário completo deste ano. A Caixa Econômica Federal inicia os pagamentos de setembro do Bolsa Família no dia 17. Os primeiros a receber serão os beneficiários com Número de Identific…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/01/bolsa-familia-2026-calendario-setembro.ghtml",
-    "time": "2026-09-01T03:01:10.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "VÍDEO: Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4?",
@@ -486,14 +502,6 @@
     "d": "Texto publicado nesta segunda-feira (31/08) pela revista britânica destaca as propostas do candidato à economia.",
     "link": "https://www.bbc.com/portuguese/articles/ckgx0m38jkzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T22:27:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que acontece após TSE suspender campanha de Renan Santos à Presidência?",
-    "d": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da c…",
-    "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T22:01:10.000Z"
   },
   {
     "cat": "internacional",
@@ -590,14 +598,6 @@
     "d": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative rena…",
     "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
     "time": "2026-08-30T18:57:22.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
-    "d": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial en…",
-    "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
-    "time": "2026-08-30T15:08:33.000Z"
   },
   {
     "cat": "economia",
