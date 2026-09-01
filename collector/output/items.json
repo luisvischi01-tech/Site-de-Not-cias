@@ -2,106 +2,122 @@
   {
     "cat": "brasil",
     "src": "G1",
+    "h": "Câmara aprova MP com linhas de crédito para taxistas e motoristas de aplicativo adquirirem veículos novos e sustentáveis",
+    "d": "A Câmara dos Deputados aprovou nesta segunda-feira (31) uma medida provisória que destina até R$ 30 bilhões em linhas de crédito disponíveis para motoristas de aplicativo, de transporte escolar, taxistas e cooperativa…",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/31/camara-aprova-mp-com-linhas-de-credito-para-taxistas-e-motoristas-de-aplicativo-adquirirem-veiculos-novos-e-sustentaveis.ghtml",
+    "time": "2026-09-01T00:25:51.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Joesley Batista se reuniu com Trump e articulou redução de tarifa sobre carne bovina do Brasil, diz jornal",
+    "d": "Joesley Batista participa do toque do sino de abertura do banco digital brasileiro PicPay, na bolsa Nasdaq, durante o IPO da empresa, no site do mercado Nasdaq na Times Square, na cidade de Nova York, EUA, em 29 de ja…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/31/joesley-batista-trump-carne-bovina.ghtml",
+    "time": "2026-09-01T00:23:30.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Motorista com pneu furado pede ajuda à PRF para trocar o estepe e acaba multado; veja o motivo",
+    "d": "Situação inusitada reforça a importância dos itens obrigatórios em veículos",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/motorista-com-pneu-furado-pede-ajuda-a-prf-para-trocar-o-estepe-e-acaba-multado-veja-o-motivo/",
+    "time": "2026-09-01T00:18:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça condena ex-diretora de hospital por desviar R$ 335 mil para bets",
+    "d": "Ex-funcionária da Fundação Municipal de Saúde Prefeito Samuel Greve foi condenada por usar verbas públicas para sustentar a dependência em jogos",
+    "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/mt/justica-condena-ex-diretora-de-hospital-por-desviar-r-335-mil-para-bets/",
+    "time": "2026-09-01T00:13:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tricampeão, Wawrinka se emociona em despedida dos Grand Slams no US Open",
+    "d": "Suíço de 41 anos perdeu na estreia para o italiano Matteo Berrettini",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/tricampeao-wawrinka-se-emociona-em-despedida-dos-grand-slams-no-us-open/",
+    "time": "2026-09-01T00:12:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Câmara aprova mudança nas férias escolares na Copa do Mundo de 2027",
+    "d": "Projeto de lei sugere que as férias escolares abranjam a Copa, mas que colégios tenham liberdade para definir datas",
+    "link": "https://www.cnnbrasil.com.br/politica/camara-aprova-mudanca-nas-ferias-escolares-na-copa-do-mundo-de-2027/",
+    "time": "2026-09-01T00:05:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Camari mira expansão em SP e prevê produzir 25 toneladas de carne por dia",
+    "d": "Empresa aposta em produtos de maior valor agregado, amplia atuação com redes de supermercados e avalia investimento em abatedouro de suínos",
+    "link": "https://www.cnnbrasil.com.br/agro/camari-mira-expansao-em-sp-e-preve-produzir-25-toneladas-de-carne-por-dia/",
+    "time": "2026-09-01T00:05:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas/Bloomberg: Zema e Marçal lideram em 2ª opção de voto",
+    "d": "Foram entrevistadas 5.014 pessoas, entre os dias 25 e 30 de agosto; margem de erro é de um ponto percentual, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-zema-e-marcal-lideram-em-2a-opcao-de-voto/",
+    "time": "2026-09-01T00:02:40.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Governo prevê imposto de exportação sobre petróleo zerado em 2027",
+    "d": "Bruno Moretti, do Planejamento e Orçamento, afirmou que Ministério antevê volta à normalidade após incertezas com guerra do Oriente Médio",
+    "link": "https://www.cnnbrasil.com.br/infra/governo-preve-imposto-de-exportacao-sobre-petroleo-zerado-em-2027/",
+    "time": "2026-09-01T00:01:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Técnico do Barcelona é direto sobre Gabriel Jesus e diz: “Ficou surpreso”",
+    "d": "Atacante brasileiro assinará com o clube espanhol após duas temporadas afetadas por lesões no Arsenal",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/tecnico-do-barcelona-e-direto-sobre-gabriel-jesus-e-diz-ficou-surpreso/",
+    "time": "2026-08-31T23:59:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pererecas estão reproduzindo cada vez menos por causa de um vírus",
+    "d": "Um estudo da UFPR liga a contaminação por ranavírus ao declínio de pererecas-macaco em Santa Catarina; o vírus nunca tinha sido relacionado como causa de mortes da espécie",
+    "link": "https://www.cnnbrasil.com.br/ciencia/pererecas-estao-reproduzindo-cada-vez-menos-por-causa-de-um-virus/",
+    "time": "2026-08-31T23:58:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "FGC inicia pagamentos de R$ 635 milhões a investidores de Simpala",
+    "d": "Em paralelo, o órgão atualizou para R$ 40,2 bilhões o volume de pagamentos realizado a credores do conglomerado Master",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fgc-inicia-pagamentos-de-r-635-milhoes-a-investidores-de-simpala/",
+    "time": "2026-08-31T23:54:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
     "h": "Justiça do Trabalho determina bloqueio em planos de previdência de Renan Santos e outros réus em ação",
     "d": "Renan Santos, candidato do Missão à Presidência da República Jornal Nacional/ Reprodução A Justiça do Trabalho determinou o bloqueio de até R$ 61,8 mil em planos de previdência privada de Renan Santos, candidato à Pre…",
     "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/31/justica-do-trabalho-determina-bloqueio-em-planos-de-previdencia-de-renan-santos-e-outros-reus-em-acao.ghtml",
     "time": "2026-08-31T23:51:57.000Z"
   },
   {
-    "cat": "comercio",
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Defesa de Haddad apresenta laudo com novas imagens de abordagem a motorista",
-    "d": "Candidato ao governo do estado diz que câmeras analisadas na investigação envolvendo seu motorista “não eram as que importavam”; PM arquivou investigação do caso",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/defesa-de-haddad-apresenta-laudo-com-novas-imagens-de-abordagem-a-motorista/",
-    "time": "2026-08-31T23:32:08.000Z"
+    "h": "Strategy compra US$ 370 milhões em bitcoins e retoma saldo positivo",
+    "d": "Estoque da empresa ficou em US$ 2,68 bilhões, após a queda nos preços do bitcoin ter colocado o inventário em um déficit de US$ 10 a US$ 15 bilhões no início de 2026",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/strategy-compra-us-370-milhoes-em-bitcoins-e-retoma-saldo-positivo/",
+    "time": "2026-08-31T23:50:29.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Polícia da BA prende 156 homens em flagrante na Operação Mulheres Seguras",
-    "d": "Ação da Polícia Civil, parte de fase do Governo Federal, combate crimes como estupro e violência psicológica em diversos municípios do estado",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/policia-da-ba-prende-156-homens-em-flagrante-na-operacao-mulheres-seguras/",
-    "time": "2026-08-31T23:31:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Neymar ganha caixa de perfumes de Matheuzinho, do Corinthians, após vitória",
-    "d": "Lateral do Corinthians tem uma linha de fragrâncias e presenteou o rival santista",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-ganha-caixa-de-perfumes-de-matheuzinho-do-corinthians-apos-vitoria/",
-    "time": "2026-08-31T23:29:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Namorado de Jennifer Aniston diz que foi aceito por elenco de “Friends”",
-    "d": "Jim Curtis, hipnoterapeuta, expressa gratidão por fazer parte do grupo íntimo da atriz, que ele descreve como uma família unida",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/namorado-de-jennifer-aniston-diz-que-foi-aceito-por-elenco-de-friends/",
-    "time": "2026-08-31T23:28:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça manda avaliar Heringer antes de proteção contra credores",
-    "d": "Decisão judicial precede avaliação de pedido da empresa de fertilizantes por proteção contra cobranças e execuções de credores",
-    "link": "https://www.cnnbrasil.com.br/agro/justica-manda-avaliar-heringer-antes-de-protecao-contra-credores/",
-    "time": "2026-08-31T23:22:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Michelle Bolsonaro protocola notícia-crime contra adversário ao Senado",
-    "d": "Candidata pede que o MPE abra investigação por suposta prática de calúnia para fins eleitorais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/michelle-bolsonaro-protocola-noticia-crime-contra-adversario-ao-senado/",
-    "time": "2026-08-31T23:20:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "De Fiat Uno a Silverado V8: Fiuk abre loja de carros em rede social",
-    "d": "Um dos carros que o cantor anunciou em sua página “Fiukar” é um Fiat Uno Mille na cor azul por R$ 54 mil",
-    "link": "https://www.cnnbrasil.com.br/auto/de-fiat-uno-a-silverado-v8-fiuk-abre-loja-de-carros-em-rede-social/",
-    "time": "2026-08-31T23:18:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Raquel destaca projeto de saneamento; João fala em aumento da rede de saúde",
-    "d": "Candidatos ao Governo de Pernambuco cumpriram agendas no Recife nesta segunda-feira (31)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/raquel-destaca-projeto-de-saneamento-joao-fala-em-aumento-da-rede-de-saude/",
-    "time": "2026-08-31T23:09:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mulher é baleada pela policia após esfaquear duas pessoas em Nova York",
-    "d": "Ataques aconteceram na Times Square; estado de saúde da suspeita e das vítimas é desconhecido",
-    "link": "https://www.cnnbrasil.com.br/internacional/mulher-e-baleada-pela-policia-apos-esfaquear-pessoas-em-nova-york/",
-    "time": "2026-08-31T23:05:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump orientou a favor de buscar acordo com o Brasil, diz ministro",
-    "d": "Após reunião nesta segunda-feira (31), Elias Rosa destacou que Estados Unidos passaram a adotar postura pró-acordo após ligação entre Lula e Trump",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-orientou-a-favor-de-buscar-acordo-com-o-brasil-diz-ministro/",
-    "time": "2026-08-31T23:04:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Netanyahu diz que demorou para fazer EUA “caírem em si” sobre o Irã",
-    "d": "Primeiro-ministro de Israel afirmou que frequentes aparições na televisão americana e seu conhecimento dos líderes do país o ajudaram a influenciar a opinião pública",
-    "link": "https://www.cnnbrasil.com.br/internacional/netanyahu-diz-que-demorou-para-fazer-eua-cairem-em-si-sobre-o-ira/",
-    "time": "2026-08-31T23:02:11.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Tarifaço: Teremos novas reuniões nas próximas semanas, diz ministro",
-    "d": "Após se reunir com representante do USTR, Jamieson Greer, Márcio Elias Rosa afirmou estar otimista com negociações e que EUA ficaram mais abertos à negociação depois da ligação entre Lula e Trump",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/tarifaco-teremos-novas-reunioes-nas-proximas-semanas-diz-ministro/",
-    "time": "2026-08-31T23:01:33.000Z"
+    "h": "Preço futuro do boi gordo fecha estável na B3 após forte alta em agosto",
+    "d": "Apesar da pouca volatilidade, a curva de preços da B3 sinaliza percepção de oferta mais apertada no curto prazo, segundo analistas",
+    "link": "https://www.cnnbrasil.com.br/agro/preco-futuro-do-boi-gordo-fecha-estavel-na-b3-apos-forte-alta-em-agosto/",
+    "time": "2026-08-31T23:48:50.000Z"
   },
   {
     "cat": "internacional",
@@ -248,14 +264,6 @@
     "time": "2026-08-31T19:11:38.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Toffoli suspende campanha digital do Wilson Grassi, candidato à Presidência da República",
-    "d": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), suspendeu a campanha digital de Wilson Grassi, candidato do Democrata à Presidência da República. A decisão foi tomada neste domingo (30), mas divulgada n…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/toffoli-suspende-campanha-digital-do-wilson-grassi-candidato-a-presidencia-da-republica.ghtml",
-    "time": "2026-08-31T19:05:28.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Festival honouring Dolly Parton set for Nashville and London",
@@ -286,14 +294,6 @@
     "d": "Farmácias viraram alvo de assaltantes em busca de canetas emagrecedoras, levando a adoecimento e afastamentos de atendentes e farmacêuticos por problemas de saúde mental.",
     "link": "https://www.bbc.com/portuguese/articles/cvgvyvgppkko?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T18:06:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Em último dia como CEO da Apple, Tim Cook se despede em carta aos funcionários: 'É difícil acreditar que este dia chegou'",
-    "d": "Tim Cook em evento da Apple AFP Depois de 15 anos à frente da Apple, Tim Cook deixa o cargo de CEO nesta segunda-feira (31), encerrando um dos ciclos mais longos da história da companhia. Ele assumiu o comando da empr…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/31/em-ultimo-dia-como-ceo-da-apple-tim-cook-se-despede-em-carta-aos-funcionarios-e-dificil-acreditar-que-este-dia-chegou.ghtml",
-    "time": "2026-08-31T18:02:54.000Z"
   },
   {
     "cat": "internacional",
