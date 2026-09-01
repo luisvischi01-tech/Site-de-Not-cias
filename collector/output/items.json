@@ -1,5 +1,37 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+    "d": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+    "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T07:02:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Droga Raia é condenada a pagar R$ 4 milhões por casos de assédio moral, sexual e materno; entenda",
+    "d": "Droga Raia Divulgação/Droga Raia A Droga Raia foi condenada a pagar R$ 4 milhões por dano moral coletivo após a Justiça do Trabalho reconhecer a ocorrência de casos de assédio moral, sexual e materno, além de práticas…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/01/droga-raia-e-condenada-a-pagar-r-4-milhoes-entenda.ghtml",
+    "time": "2026-09-01T07:01:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Nepal death toll nears 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+    "d": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T06:50:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zambia's president to be sworn in for second term while opponent detained",
+    "d": "Hakainde Hichilema swept to victory, but his main rival is now in detention charged with treason.",
+    "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T06:43:06.000Z"
+  },
+  {
     "cat": "comercio",
     "src": "CNN Brasil",
     "h": "Setembro Amarelo: busca por estética acende alerta para dismorfia corporal",
@@ -54,6 +86,22 @@
     "d": "Ofensiva atingiu prédios residenciais e instalações comerciais; entre os feridos estão quatro crianças, segundo autoridades ucranianas",
     "link": "https://www.cnnbrasil.com.br/internacional/ataques-russos-contra-kiev-deixam-mortos/",
     "time": "2026-09-01T06:05:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+    "d": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T06:02:27.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "South Korean police officer admits to closing missing person cases to avoid work",
+    "d": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
+    "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T05:47:21.000Z"
   },
   {
     "cat": "internacional",
@@ -224,22 +272,6 @@
     "time": "2026-09-01T02:33:41.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "What it was like inside court for Tupac Shakur’s murder trial verdict",
-    "d": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
-    "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T02:30:45.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-    "d": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T02:18:26.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Alcolumbre indica Rodrigo Pacheco para vaga no TCU após saída de Bruno Dantas",
@@ -352,14 +384,6 @@
     "time": "2026-08-31T21:23:19.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Orçamento 2027: governo prevê Bolsa Família sem reajuste no próximo ano",
-    "d": "A equipe econômica do governo do presidente Luiz Inácio Lula da Silva (PT) informou que não está sendo proposto reajuste no valor pago nos benefícios do Bolsa Família no projeto de orçamento para 2027, encaminhado ao…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-preve-bolsa-familia-sem-reajuste-no-proximo-ano.ghtml",
-    "time": "2026-08-31T21:15:44.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que Renan Santos teve campanha à Presidência suspensa pelo TSE; especialistas veem excesso em decisão de Dias Toffoli",
@@ -382,14 +406,6 @@
     "d": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
     "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T18:58:35.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ex-congressman George Santos banned from betting platform for life",
-    "d": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.",
-    "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T18:15:12.000Z"
   },
   {
     "cat": "brasil",
@@ -441,27 +457,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "US and Iran trade strikes for first time in weeks",
-    "d": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T13:47:30.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "South African airline defends dramatic low-level flyby before rugby union clash",
     "d": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew…",
     "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
     "time": "2026-08-31T13:44:39.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Man arrested after Swiss rave shooting that killed woman",
-    "d": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-    "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T13:11:35.000Z"
   },
   {
     "cat": "economia",
