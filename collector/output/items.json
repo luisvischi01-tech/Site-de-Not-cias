@@ -1,8 +1,168 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Shein shares slide in long-awaited stock market debut",
+    "d": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T03:11:13.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Lula e empresários discutem fiscal, juro e Trump em reunião de quase 3h",
+    "h": "Haddad defende “redução de contratos” para melhorar contas de SP",
+    "d": "Candidato ao governo paulista afirmou que estado vive pior situação fiscal em 30 anos e defendeu revisão de contratos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/haddad-defende-reducao-de-contratos-para-melhorar-contas-de-sp/",
+    "time": "2026-09-01T03:11:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Júri condena torcedor do Corinthians à prisão por matar esposa palmeirense",
+    "d": "Empresário Leonardo Souza Ceschini recebeu pena de 13 anos e 24 dias de prisão pelo feminicídio ocorrido na zona noroeste da capital, em 2021, após final da Libertadores",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juri-condena-torcedor-do-corinthians-a-prisao-por-matar-esposa-palmeirense/",
+    "time": "2026-09-01T03:10:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Classificação de PCC e CV como terroristas é “questão menor”, diz Haddad",
+    "d": "Candidato ao governo de São Paulo defende cooperação internacional no combate ao crime organizado e cita Operação Carbono Oculto como exemplo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/classificacao-de-pcc-e-cv-como-terroristas-e-questao-menor-diz-haddad/",
+    "time": "2026-09-01T03:05:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vox Brasil Senado/SP: Marina tem 27,7%; André do Prado, 26,5%; Tebet, 25,3%",
+    "d": "Levantamento aponta um triplo empate técnico na liderança pela disputa das duas vagas ao Senado Federal por São Paulo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-brasil-senado-sp-marina-tem-277-andre-do-prado-265-tebet-253/",
+    "time": "2026-09-01T03:04:47.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "IBGE divulga PIB do 2º trimestre de 2026 nesta terça-feira (1)",
+    "d": "Economia brasileira cresceu 1,8% no 1º trimestre deste ano, em comparação com mesmo período do ano anterior",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ibge-divulga-pib-do-2o-trimestre-de-2026-nesta-terca-feira-1/",
+    "time": "2026-09-01T03:01:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vox Brasil: Tarcísio tem 55,3%, e Haddad, 35,1% no 1º turno em SP",
+    "d": "Levantamento divulgado nesta terça-feira (1º) indica vitória do governador ainda no primeiro turno na disputa pelo Palácio dos Bandeirantes",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-brasil-tarcisio-tem-553-e-haddad-351-no-1o-turno-em-sp/",
+    "time": "2026-09-01T03:01:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 36 milhões nesta terça-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.052 da Mega-Sena pode pagar um prêmio de R$ 26 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (1º), em São Paulo. 📱Favorit…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/01/mega-sena-pode-pagar-r-36-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-09-01T03:01:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Bolsa Família 2026: veja calendário de pagamentos em setembro",
+    "d": "Bolsa Família 2026: confira o calendário completo deste ano. A Caixa Econômica Federal inicia os pagamentos de setembro do Bolsa Família no dia 17. Os primeiros a receber serão os beneficiários com Número de Identific…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/01/bolsa-familia-2026-calendario-setembro.ghtml",
+    "time": "2026-09-01T03:01:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "7 de setembro é feriado? Quem trabalhar na Independência ganha em dobro? Saiba o que diz a lei",
+    "d": "Feriadão à vista: falta uma semana para o próximo feriado prolongado Agosto mal terminou e muitos trabalhadores já estão de olho no tão esperado “feriadão” que chega na próxima segunda-feira (7): o Dia da Independênci…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/01/7-de-setembro-e-feriado-quem-trabalhar-na-independencia-ganha-em-dobro.ghtml",
+    "time": "2026-09-01T03:01:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4?",
+    "d": "Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4? O mandato de um senador é tão longo que atravessa duas eleições presidenciais. Enquanto o presidente da República é eleito para ficar quatro…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/01/video-tempo-de-mandato-senador-deputado-presidente.ghtml",
+    "time": "2026-09-01T03:01:03.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Pagamento do INSS de setembro: veja calendário e datas",
+    "d": "Simulador do INSS mostra valores e tempo de contribuição pelas novas regras de aposentados O pagamento do INSS de setembro de 2026 começa no dia 24 de setembro para os beneficiários que recebem até um salário mínimo.…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/01/pagamento-inss-de-setembro-calendario-e-datas.ghtml",
+    "time": "2026-09-01T03:01:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Calendário BPC/Loas setembro 2026: veja datas de pagamento",
+    "d": "Calendário BPC/Loas setembro 2026. Divulgação O calendário de pagamento do BPC/Loas de setembro de 2026 já está disponível. Os beneficiários que recebem até um salário mínimo terão os valores liberados entre 24 de set…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/01/calendario-bpcloas-setembro-2026-datas-de-pagamento.ghtml",
+    "time": "2026-09-01T03:00:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE começa a julgar nesta terça ação que vai definir regras sobre ‘deepfake’",
+    "d": "Deepfake nas eleições: entenda o que é e por que pode enganar o eleitor O Tribunal Superior Eleitoral (TSE) deve definir na noite desta terça-feira (1) um dos temas centrais da eleição deste ano: como deve ser o uso d…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/tse-comeca-a-julgar-nesta-terca-acao-que-vai-definir-regras-sobre-deepfake.ghtml",
+    "time": "2026-09-01T03:00:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Decisão do TSE sobre deepfakes nas eleições pode afetar mais de 50 ações na Justiça Eleitoral",
+    "d": "A Justiça Eleitoral tem mais de 50 ações que podem ser impactadas pela decisão do Tribunal Superior Eleitoral (TSE) que deve fixar nesta terça-feira (1º) o entendimento sobre a proibição de deepfake nas campanhas. São…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/decisao-do-tse-sobre-deepfakes-nas-eleicoes-pode-afetar-mais-de-50-acoes-na-justica-eleitoral.ghtml",
+    "time": "2026-09-01T03:00:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Água gratuita, freio ao cambismo e taxa visível: veja o que muda nos ingressos com novo decreto sobre shows",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta segunda-feira (31) um decreto que regulamenta a venda e a transferência de ingressos pela internet para shows e eventos e, assim, criar regras para conter o ch…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/agua-gratuita-freio-ao-cambismo-e-taxa-visivel-veja-o-que-muda-nos-ingressos-com-novo-decreto-sobre-shows.ghtml",
+    "time": "2026-09-01T03:00:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto",
+    "d": "Governo Federal apresenta proposta de orçamento para o ano que vem A equipe econômica apresentou nesta segunda-feira (31) os principais pontos da proposta de orçamento para 2027, enviada pelo governo federal ao Congre…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml",
+    "time": "2026-09-01T03:00:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ilha “fantasma” aparece e desaparece em grande reservatório no Canadá",
+    "d": "Formação de aproximadamente 10 mil metros quadrados surgiu no meio do Lago Williston, no norte da Colúmbia Britânica e sumiu dias depois",
+    "link": "https://www.cnnbrasil.com.br/internacional/ilha-fantasma-aparece-e-desaparece-em-grande-reservatorio-no-canada/",
+    "time": "2026-09-01T02:58:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot",
+    "d": "Critically endangered New Zealand bird enjoys record breeding season triggered by mass fruiting of native tree, pushing its numbers to 325 The population of the world’s heaviest parrot, the kākāpō, has surpassed 300 b…",
+    "link": "https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo",
+    "time": "2026-09-01T02:57:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Decisão de Toffoli sobre Renan Santos é inédita, diz advogada eleitoral",
+    "d": "Marilda Silveira, advogada eleitoral e professora do IDP, afirma, ao WW, que suspensão de campanha presidencial por decisão monocrática nunca havia ocorrido no Brasil",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/decisao-de-toffoli-sobre-renan-santos-e-inedita-diz-advogada-eleitoral/",
+    "time": "2026-09-01T02:51:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula e empresários discutem fiscal, juro e Trump em jantar de quase 3h",
     "d": "Membros do governo defenderam ajuste realizado no mandato, além de feitos no desenvolvimento industrial e social, segundo fontes",
     "link": "https://www.cnnbrasil.com.br/politica/lula-e-empresarios-discutem-fiscal-juro-e-trump-em-reuniao-de-quase-3h/",
     "time": "2026-09-01T02:49:23.000Z"
@@ -48,76 +208,12 @@
     "time": "2026-09-01T02:26:25.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Remo 2 x 3 Coritiba: veja os melhores momentos pelo Brasileirão",
-    "d": "Time paranaense conseguiu uma grande vitória nesta segunda-feira (31), no encerramento da rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-2-x-3-coritiba-veja-os-melhores-momentos-pelo-brasileirao/",
-    "time": "2026-09-01T02:22:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Operação Potiguar: Brasil terá missão para estudar microgravidade com plataforma especial enviada por foguete",
-    "d": "Missão operada na Barreira do Inferno, no Rio Grande do Norte, vai estudar a recuperação de equipamento após o voo; a primeira etapa do projeto aconteceu em 2024",
-    "link": "https://www.cnnbrasil.com.br/ciencia/operacao-potiguar-brasil-tera-missao-para-estudar-microgravidade-com-plataforma-especial-enviada-por-foguete/",
-    "time": "2026-09-01T02:18:26.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
     "d": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
     "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T02:18:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça bloqueia R$ 61,8 mil de Renan Santos por dívida trabalhista",
-    "d": "Decisão da Justiça do Trabalho em Minas Gerais determinou bloqueio de previdência privada para garantir pagamento a ex-funcionário",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-previdencia-privada-bloqueada-pela-justica-do-trabalho/",
-    "time": "2026-09-01T02:16:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo envia PLOA 2027 com R$ 38,4 bi em precatórios dentro da meta",
-    "d": "A partir de 2027, começa a valer emenda constitucional que obriga governo a inserir gastos com precatórios e RPVs dentro da meta",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-envia-ploa-2027-com-r-384-bi-em-precatorios-dentro-da-meta/",
-    "time": "2026-09-01T02:09:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Renan Santos tem perfis removidos de redes sociais após decisão de Toffoli",
-    "d": "Campanha do candidato à Presidência compartilhou que páginas do candidato no YouTube e no Instagram estão fora do ar por decisões do TSE",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-perfis-removidos-de-redes-sociais-apos-decisao-de-toffoli/",
-    "time": "2026-09-01T02:07:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vox Radar: Cury tem aumento de seguidores e menções após debate e sabatina",
-    "d": "Pesquisa aponta que usuários que comentaram sem declarar voto migraram para o apoio ao candidato após exposição na mídia",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-cury-tem-aumento-de-seguidores-e-mencoes-apos-debate-e-sabatina/",
-    "time": "2026-09-01T02:00:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiro faz 164 giros de cabeça para baixo em um minuto e bate recorde no Guinness; veja",
-    "d": "Integrante do Cirque du Soleil realizou os movimentos de 360 graus enquanto estava suspenso por tiras de cabeça para baixo",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/brasileiro-faz-164-giros-de-cabeca-para-baixo-em-um-minuto-e-bate-recorde-no-guinness-veja/",
-    "time": "2026-09-01T01:55:46.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Governo envia ao Congresso PLOA 2027 e cita busca por agenda fiscal sólida",
-    "d": "Mensagem presidencial cita busca por estabilização de trajetória da relação dívida/PIB",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-envia-ao-congresso-ploa-2027-e-cita-busca-por-agenda-fiscal-solida/",
-    "time": "2026-09-01T01:55:41.000Z"
   },
   {
     "cat": "brasil",
@@ -248,44 +344,12 @@
     "time": "2026-08-31T21:03:21.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Comissão adia votação do fim da taxa das blusinhas para terça-feira",
     "d": "A votação da medida provisória que acaba com a chamada taxa das blusinhas foi adiada nesta segunda-feira (31) depois de o deputado Reginaldo Lopes (PT-MG), presidente da comissão mista que analisa o texto, suspender a…",
     "link": "https://g1.globo.com/politica/noticia/2026/08/31/comissao-adia-votacao-do-fim-da-taxa-das-blusinhas-para-terca-feira.ghtml",
     "time": "2026-08-31T20:53:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Orçamento 2027: proposta do governo limita reajustes de servidores públicos seguindo 'gatilho' da regra fiscal",
-    "d": "A proposta de Orçamento de 2027 do governo federal limita os recursos disponíveis para reajustes de servidores públicos no próximo ano, o primeiro de um novo mandato presidencial. Isso está relacionado com um gatilho…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-proposta-do-governo-limita-reajustes-de-servidores-publicos-seguindo-gatilho-da-regra-fiscal.ghtml",
-    "time": "2026-08-31T20:38:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Orçamento 2027: governo propõe R$ 44,8 bilhões para emendas parlamentares",
-    "d": "O governo federal propôs destinar R$ 44,8 bilhões para emendas parlamentares em 2027. O valor está no projeto de lei de orçamento para o próximo ano, enviado nesta segunda-feira (31) ao Congresso Nacional. O que repre…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-propoe-r-448-bilhoes-para-emendas-parlamentares.ghtml",
-    "time": "2026-08-31T20:34:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Orçamento: governo projeta superávit de R$ 18,6 bilhões nas contas públicas em 2027",
-    "d": "Após quatro anos com as contas no vermelho, o governo federal fixou uma meta fiscal com saldo positivo em 2027, de R$ 18,6 bilhões, primeiro ano de mandato do próximo presidente da República — a ser eleito em outubro.…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-governo-projeta-superavit-em-suas-contas-em-2027.ghtml",
-    "time": "2026-08-31T20:30:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Orçamento 2027: governo prevê aumento do salário mínimo para R$ 1.741 no próximo ano",
-    "d": "Orçamento 2027: governo prevê aumento do salário mínimo para R$ 1.741 no próximo ano A proposta do governo para o Orçamento de 2026 prevê um salário mínimo de R$ 1.741 no próximo ano – R$ 120 a mais que os atuais R$ 1…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-preve-aumento-do-salario-minimo-para-r-1741-no-proximo-ano.ghtml",
-    "time": "2026-08-31T20:29:26.000Z"
   },
   {
     "cat": "economia",
@@ -296,28 +360,12 @@
     "time": "2026-08-31T19:41:52.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Após ampliar cota para importação, EUA anunciam plano para pecuaristas com prioridade à carne americana",
-    "d": "Trump assina medida para aumentar importação de carne moída e baratear hambúrguer Os Estados Unidos anunciaram nesta segunda-feira (31) um pacote de medidas para ajudar pecuaristas e aumentar o rebanho bovino do país,…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/31/apos-ampliar-cota-para-importacao-eua-anunciam-plano-para-pecuaristas-com-prioridade-a-carne-americana.ghtml",
-    "time": "2026-08-31T19:11:38.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Festival honouring Dolly Parton set for Nashville and London",
     "d": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
     "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-08-31T18:58:35.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Tarifaço: em reunião, ministros dizem que não concordam com 'tratamento discriminatório' e 'injusto' dos EUA contra o Brasil",
-    "d": "Tarifaço: Brasil diz estar aberto ao diálogo; nova reunião com os EUA será marcada Os ministérios das Relações Exteriores e do Desenvolvimento, Indústria e Comércio divulgaram uma nota conjunta nesta segunda-feira (31…",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/em-reuniao-governo-brasileiro-diz-nao-concordar-com-tarifas-de-trump-mas-diz-estar-aberto-ao-dialogo.ghtml",
-    "time": "2026-08-31T18:56:20.000Z"
   },
   {
     "cat": "internacional",
@@ -366,14 +414,6 @@
     "d": "Workers thought to be stuck in underground areas at 11 sites after last week’s devastating flash floods Rescue teams are working to reach more than 900 missing hydropower workers, hundreds of whom are feared trapped i…",
     "link": "https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower",
     "time": "2026-08-31T15:56:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "John Galliano exhibition at New York Met cancelled after backlash",
-    "d": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T15:30:05.000Z"
   },
   {
     "cat": "internacional",
@@ -462,14 +502,6 @@
     "d": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key roles Having reportedly read Victor Hugo’s Les Misérables,…",
     "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
     "time": "2026-08-31T10:00:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "China is concealing scale of flood disaster, say Tibet campaigners",
-    "d": "Rights group claims 300 homes were destroyed in Tibet and number of missing people is ‘far higher’ than Beijing admits A Tibetan advocacy group says hundreds of homes were destroyed on the Tibetan side of the border i…",
-    "link": "https://www.theguardian.com/world/2026/aug/31/china-concealing-scale-nepal-flood-disaster-say-tibet-campaigners",
-    "time": "2026-08-31T09:18:28.000Z"
   },
   {
     "cat": "economia",
