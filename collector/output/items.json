@@ -1,11 +1,107 @@
 [
   {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Sem jogar há seis meses, Rodrygo dá passo importante em recuperação",
+    "d": "Atacante do Real Madrid realizou atividades no gramado pela primeira vez após ter rompido o ligamento cruzado anterior do joelho",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sem-jogar-ha-seis-meses-rodrygo-da-passo-importante-em-recuperacao/",
+    "time": "2026-09-01T22:01:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Membros da equipe de Ed Sheeran são atingidos por equipamento durante show",
+    "d": "Seis funcionários foram hospitalizados após acidente.",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/membros-da-equipe-de-ed-sheeran-sao-atingidos-por-equipamento-durante-show/",
+    "time": "2026-09-01T22:00:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Madonna fala sobre adaptação de treinos devido a problemas nas articulações",
+    "d": "Artista precisou mudar a rotina de exercícios de alta intensidade para não sobrecarregar o corpo",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/madonna-fala-sobre-adaptacao-de-treinos-devido-a-problemas-nas-articulacoes/",
+    "time": "2026-09-01T21:58:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caiado diz que Moraes não tem condições de ficar no STF após revelações",
+    "d": "Candidato à Presidência pelo PSD defendeu que o ministro seja afastado do Supremo “o mais rápido possível”",
+    "link": "https://www.cnnbrasil.com.br/politica/caiado-diz-que-moraes-nao-tem-condicoes-de-ficar-no-stf-apos-revelacoes/",
+    "time": "2026-09-01T21:55:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula diz defender “pessoalmente” fim das bets e sugere “decisão drástica”",
+    "d": "Em reunião no Palácio do Planalto, mandatário disse que tem “dois terços da decisão tomada”",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-defender-pessoalmente-fim-das-bets-e-sugere-decisao-drastica/",
+    "time": "2026-09-01T21:53:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que o TSE recuou e liberou campanha de Renan Santos",
+    "d": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
+    "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T21:51:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ameaça de Zelensky de fechar espaço aéreo é terrorismo de Estado, diz Putin",
+    "d": "Presidente russo também afirmou que não é possível negociar com \"terroristas\"",
+    "link": "https://www.cnnbrasil.com.br/internacional/ameaca-de-zelensky-de-fechar-espaco-aereo-e-terrorismo-de-estado-diz-putin/",
+    "time": "2026-09-01T21:50:39.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US strikes Iran as state media reports four killed at wedding party",
     "d": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
     "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T21:32:23.000Z"
+    "time": "2026-09-01T21:48:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Lei não pergunta cargo”, diz Cury após revelações Moraes-Vorcaro",
+    "d": "Candidato do Avante à Presidência se manifestou após divulgação de relatório da PF que mostra troca de mensagens entre o ex-banqueiro e o ministro do Supremo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lei-nao-pergunta-cargo-diz-cury-apos-revelacoes-moraes-vorcaro/",
+    "time": "2026-09-01T21:46:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Consumir o limão aberto após longos períodos de tempo pode acumular fungos, bactérias e intoxicar o organismo",
+    "d": "Armazenamento adequado previne contaminação da fruta, afirma nutricionista à CNN Brasil",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/consumir-o-limao-aberto-apos-longos-periodos-de-tempo-pode-acumular-fungos-bacterias-e-intoxicar-o-organismo/",
+    "time": "2026-09-01T21:44:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ariana Grande ends tour and steps back from public life",
+    "d": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-01T21:41:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Julián Álvarez? Yamal é direto sobre o Barcelona: “Gols não estão faltando”",
+    "d": "Atacante argentino continuará no Atlético de Madrid; ele tem contrato com a equipe até o ano de 2030",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/julian-alvarez-yamal-e-direto-sobre-o-barcelona-gols-nao-estao-faltando/",
+    "time": "2026-09-01T21:40:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bombeiros resgatam quatro pessoas desaparecidas em trilha do RS",
+    "d": "Três adultos e um adolescente de 15 anos, realizavam uma trilha na região quando uma forte neblina e chuva intensa contribuíram para que os integrantes perdessem a referência do trajeto",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/bombeiros-resgatam-quatro-pessoas-desaparecidas-em-trilha-do-rs/",
+    "time": "2026-09-01T21:33:29.000Z"
   },
   {
     "cat": "brasil",
@@ -25,91 +121,19 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vorcaro disse para não pagar Barci por Pix: “Não é bom”",
-    "d": "Banqueiro possuía segundo contrato com esposa de Moraes no valor de R$ 50 milhões",
-    "link": "https://www.cnnbrasil.com.br/politica/vorcaro-disse-para-nao-pagar-barci-por-pix-nao-e-bom/",
-    "time": "2026-09-01T21:23:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "FecomercioSP defende negociação coletiva para flexibilizar fim da 6×1",
-    "d": "Entidade se reuniu nesta terça-feira (1) com senador Omar Aziz (PSD-AM), relator no Senado da PEC que altera a escala de trabalho, para defender pontos apresentados",
-    "link": "https://www.cnnbrasil.com.br/economia/fecomerciosp-defende-negociacao-coletiva-para-flexibilizar-fim-da-6x1/",
-    "time": "2026-09-01T21:22:04.000Z"
+    "src": "G1",
+    "h": "Senado aprova indicação de Rodrigo Pacheco para o Tribunal de Contas da União",
+    "d": "Senado aprova Rodrigo Pacheco para vaga no TCU O Senado aprovou, por 63 votos a 4, nesta terça-feira (1º) a indicação do senador Rodrigo Pacheco (PSB-MG), 49 anos, para o cargo de ministro do Tribunal de Contas da Uni…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/01/senado-aprova-indicacao-de-rodrigo-pacheco-para-o-tribunal-de-contas-da-uniao.ghtml",
+    "time": "2026-09-01T21:29:23.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
     "h": "PF aponta que Vorcaro mandou ao menos 28 mensagens a telefone atribuído a Moraes na semana em que foi preso",
-    "d": "Montagem mostra Daniel Vorcaro, dono do banco Master, e Alexandre de Moraes, ministro do STF Reprodução/Rosinei Coutinho/STF A investigação da Polícia Federal (PF) aponta que Daniel Vorcaro, então dono do Banco Master…",
+    "d": "PF identifica 52 notas de Vorcaro para Moraes A investigação da Polícia Federal (PF) aponta que Daniel Vorcaro, então dono do Banco Master, enviou pelo menos 28 mensagens a um número de telefone atribuído ao ministro…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/01/pf-aponta-que-vorcaro-mandou-mensagens-a-telefone-atribuido-a-moraes-na-semana-em-que-foi-preso.ghtml",
     "time": "2026-09-01T21:20:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Wall Street fecha em baixa com venda global de títulos e alta do petróleo",
-    "d": "Três principais índices de ações dos EUA começaram o novo mês em baixa, fechando em forte declínio",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-baixa-com-venda-global-de-titulos-e-alta-do-petroleo/",
-    "time": "2026-09-01T21:19:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Seguro rural terá R$ 1,2 bi no Orçamento, mas 73,5% são condicionados",
-    "d": "Maior parte dos recursos depende de fontes condicionadas, enquanto setor alerta para falta de previsibilidade em um cenário de maior risco climático e endividamento dos produtores",
-    "link": "https://www.cnnbrasil.com.br/agro/seguro-rural-tera-r-12-bi-no-orcamento-mas-735-sao-condicionados/",
-    "time": "2026-09-01T21:18:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câncer está aumentando entre os mais jovens: estudo aponta crescimento de quase 80% em diagnóstico precoce",
-    "d": "Estudo na BMJ Oncology revela aumento de diagnósticos precoce em 29 tipos de tumores entre os mais novos",
-    "link": "https://www.cnnbrasil.com.br/saude/cancer-esta-aumentando-entre-os-mais-jovens-estudo-aponta-crescimento-de-quase-80-em-diagnostico-precoce/",
-    "time": "2026-09-01T21:18:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo aponta quatro gatilhos para desaceleração das despesas obrigatórias",
-    "d": "Queda foi questionada por agentes de mercado que julgam que esta é muito grande para ser feita sem novas medidas",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-aponta-quatro-gatilhos-para-desaceleracao-das-despesas-obrigatorias/",
-    "time": "2026-09-01T21:15:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ataque dos EUA deixa ao menos quatro mortos em casamento no Irã, diz mídia",
-    "d": "Pelo menos 50 pessoas ficaram feridas; informação foi divulgada após Forças Americanas anunciarem novas ofensivas contra alvos da Guarda Revolucionária Islâmica",
-    "link": "https://www.cnnbrasil.com.br/internacional/ataque-dos-eua-deixa-mortos-em-casamento-no-ira/",
-    "time": "2026-09-01T21:15:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cantor sertanejo é condenado a 28 anos de prisão pelo assassinato da esposa",
-    "d": "Karen Manciniem morreu em abril de 2024, após ser agredida por 114 golpes que causaram hemorragia e traumatismo craniano",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/cantor-sertanejo-e-condenado-a-28-anos-de-prisao-pelo-assassinato-da-esposa/",
-    "time": "2026-09-01T21:14:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Boni explica fim do “Xou da Xuxa” e fala sobre turnê da cantora",
-    "d": "Diretor explicou como lidou com o encerramento do programa da TV Globo",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/boni-explica-fim-do-xou-da-xuxa-e-fala-sobre-turne-da-cantora/",
-    "time": "2026-09-01T21:14:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fuga, “gratidão eterna”: relatório da PF mostra relação de Moraes e Vorcaro",
-    "d": "Material reúne mensagens, registros de encontros, contratos e tratativas envolvendo o banqueiro e o ministro do STF",
-    "link": "https://www.cnnbrasil.com.br/noticias/fuga-gratidao-eterna-relatorio-da-pf-mostra-relacao-de-moraes-e-vorcaro/",
-    "time": "2026-09-01T21:14:31.000Z"
   },
   {
     "cat": "internacional",
@@ -240,14 +264,6 @@
     "time": "2026-09-01T19:03:43.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Justiça proíbe que candidato a deputado use foto de Jair Bolsonaro em propaganda eleitoral",
-    "d": "Propaganda eleitoral em que o candidato a deputado aparece ao lado de foto de Jair Bolsonaro Arquivo pessoal A Justiça Eleitoral de São Paulo proibiu um candidato a deputado estadual de usar a imagem do ex-presidente…",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/01/justica-candidato-deputado-foto-jair-bolsonaro-propaganda-eleitoral.ghtml",
-    "time": "2026-09-01T18:44:02.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Entenda o caso Master, as acusações e as conversas de Vorcaro com Moraes",
@@ -286,14 +302,6 @@
     "d": "A plataforma é fácil de usar e você paga tarifas baixas para usá-la Divulgação Para milhões de brasileiros que vivem no exterior, enviar dinheiro para o Brasil já faz parte da rotina. Os recursos ajudam nas despesas d…",
     "link": "https://g1.globo.com/economia/especial-publicitario/tap-tap-send-0109/noticia/2026/09/01/app-de-envio-de-dinheiro-do-exterior-ao-brasil-anuncia-nova-fase-global.ghtml",
     "time": "2026-09-01T16:43:46.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump says US position on Falklands 'one of many' under review",
-    "d": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T16:35:28.000Z"
   },
   {
     "cat": "internacional",
@@ -446,14 +454,6 @@
     "d": "PIB cresce 0,5% no segundo trimestre, enquanto endividamento das famílias, situação das contas públicas e El Niño criam cenário desafiador para próximo governo em 2027.",
     "link": "https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T12:48:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Lula amarra apoio do Centrão no Congresso, mas isso garante votos na eleição?",
-    "d": "Lideranças acenam a Lula, Kassab diz que bloco está com o petista, mas os partidos não fizeram alianças formais com ninguém. Para analistas, pragmatismo do Centrão pode dar lugar a ideologia com o avanço do orçamento…",
-    "link": "https://www.bbc.com/portuguese/articles/cly7ny7r5pno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T12:40:08.000Z"
   },
   {
     "cat": "internacional",
