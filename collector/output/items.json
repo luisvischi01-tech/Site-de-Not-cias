@@ -1,5 +1,37 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Bus crash on Egypt's Red Sea coast kills 16",
+    "d": "Another 28 people are injured in the accident in the South Sinai governorate, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T06:38:04.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+    "d": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T06:26:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Acidente de ônibus deixa ao menos 16 mortos e 28 feridos no Egito",
+    "d": "Segundo porta-voz do Ministério da Saúde, 20 ambulâncias foram enviadas ao local",
+    "link": "https://www.cnnbrasil.com.br/internacional/acidente-de-onibus-deixa-mortos-e-feridos-no-egito/",
+    "time": "2026-09-02T06:16:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ligação Vorcaro-Moraes tem impacto eleitoral imprevisível, diz especialista",
+    "d": "Ao WW, Conrado Hübner Mendes, professor de Direito Constitucional da USP, avalia que é cedo para medir os efeitos do relatório da PF sobre Alexandre de Moraes nas eleições",
+    "link": "https://www.cnnbrasil.com.br/politica/ligacao-vorcaro-moraes-tem-impacto-eleitoral-imprevisivel-diz-especialista/",
+    "time": "2026-09-02T06:10:36.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Alta do petróleo ajuda a cobrir contas públicas, mas poço é mais profundo",
@@ -14,6 +46,14 @@
     "d": "Manter uma frequência contínua na substituição de buchas é uma prática saudável na rotina de limpeza",
     "link": "https://www.cnnbrasil.com.br/curiosidades/quando-trocar-a-esponja-de-banho-especialistas-indicam-a-frequencia-ideal/",
     "time": "2026-09-02T06:00:51.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+    "d": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has fou…",
+    "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+    "time": "2026-09-02T06:00:25.000Z"
   },
   {
     "cat": "internacional",
@@ -54,14 +94,6 @@
     "d": "Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities safer Drivers on residential roads in Japan have been forced to take their foot off the accelerato…",
     "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
     "time": "2026-09-02T05:15:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-    "d": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
-    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T05:12:07.000Z"
   },
   {
     "cat": "internacional",
@@ -216,26 +248,10 @@
     "time": "2026-09-02T03:00:16.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Aniversariante de 40 anos, Monfils dá show no US Open e avança à 2ª rodada",
-    "d": "Tenista francês ganhou \"Parabéns pra Você\" da torcida após vencer na estreia de seu último Grand Slam",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/aniversariante-de-40-anos-monfils-da-show-no-us-open-e-avanca-a-2a-rodada/",
-    "time": "2026-09-02T02:58:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA: 17 milhões de barris de petróleo passaram por Ormuz na segunda-feira",
-    "d": "Volume representa o maior nível a transitar pela via navegável desde o início da guerra dos Estados Unidos contra o Irã",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-17-milhoes-de-barris-de-petroleo-passaram-por-ormuz-na-segunda-feira/",
-    "time": "2026-09-02T02:57:15.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
-    "d": "The USS Lincoln is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
+    "d": "The USS Abraham Lincoln is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
     "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T02:42:38.000Z"
   },
@@ -350,14 +366,6 @@
     "d": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
     "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T21:51:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ariana Grande completes tour and steps back from public life",
-    "d": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T21:41:05.000Z"
   },
   {
     "cat": "economia",
@@ -630,13 +638,5 @@
     "d": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first majo…",
     "link": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
     "time": "2026-08-28T15:48:57.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-    "d": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673…",
-    "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-    "time": "2026-08-28T14:46:25.000Z"
   }
 ]
