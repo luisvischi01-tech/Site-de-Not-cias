@@ -1,27 +1,131 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Após 'crise Master' no STF, campanha de Lula defende código de ética para Judiciário e MP",
+    "d": "O coordenador da campanha do presidente Luiz Inácio Lula da Silva (PT), Edinho Silva, divulgou nesta quarta-feira (2) um vídeo nas redes sociais em que afirma que ninguém está acima da lei e que defende a adoção de um…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/02/apos-crise-master-no-stf-campanha-de-lula-defende-codigo-de-etica-para-judiciario-e-mp.ghtml",
+    "time": "2026-09-02T19:43:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
+    "d": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
+    "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T19:39:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Haddad questiona sigilo de processo de Flávio e critica “seletividade”",
+    "d": "Candidato ao governo de São Paulo também apresentou propostas voltadas à população idosa durante agenda em Santos, no litoral paulista",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/haddad-questiona-sigilo-de-processo-de-flavio-e-critica-seletividade/",
+    "time": "2026-09-02T19:36:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Brasil não enfrenta crise fiscal que justifique austeridade, diz Gabrielli",
+    "d": "Coordenador de campanha do presidente Lula rejeita propostas defendidas pelo mercado financeiro e defende priorizar eficiência de gastos",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-nao-enfrenta-crise-fiscal-que-justifique-austeridade-diz-gabrielli/",
+    "time": "2026-09-02T19:36:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como são medidos os prazos de validade dos alimentos? Entenda",
+    "d": "Anvisa é o órgão responsável por fiscalizar fabricantes sobre a duração de produtos",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/como-sao-medidos-os-prazos-de-validade-dos-alimentos-entenda/",
+    "time": "2026-09-02T19:32:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gabigol revela desejo de voltar ao Flamengo: “Mexe comigo”",
+    "d": "Atacante detalha negociação frustrada com a diretoria rubro-negra e o acerto verbal que não foi assinado",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/gabigol-revela-desejo-de-voltar-ao-flamengo-mexe-comigo/",
+    "time": "2026-09-02T19:30:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TCU adia votação sobre investimento cruzado em projetos ferroviários",
+    "d": "Pedido de vista interrompe análise de modelo que pode direcionar recursos de concessões existentes para novas ferrovias",
+    "link": "https://www.cnnbrasil.com.br/infra/tcu-adia-votacao-sobre-investimento-cruzado-em-projetos-ferroviarios/",
+    "time": "2026-09-02T19:29:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PEC da Segurança: CCJ do Senado aprova proposta, mas não conclui votação; texto não será votado no plenário nesta quarta",
+    "d": "Com seis meses de atraso, a Comissão de Constituição e Justiça (CCJ) do Senado Federal aprovou o texto-base da proposta de emenda à Constituição (PEC) da Segurança Pública nesta quarta-feira (2). A votação foi simbóli…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/02/apos-seis-meses-engavetada-pec-da-seguranca-e-aprovada-na-ccj-do-senado.ghtml",
+    "time": "2026-09-02T19:27:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Senador diz que Alcolumbre dará resposta sobre impeachment no STF na quinta",
+    "d": "Carlos Viana (PSD-MG) apresentou na última terça-feira (1º) um pedido de Alexandre de Moraes, o PGR Paulo Gonet e o diretor-geral da PF, Andrei Rodrigues",
+    "link": "https://www.cnnbrasil.com.br/politica/senador-diz-que-alcolumbre-dara-resposta-sobre-impeachment-no-stf-na-quinta/",
+    "time": "2026-09-02T19:27:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Delcy Rodríguez agradece a Donald Trump por acordos de petróleo",
+    "d": "Presidente interina da Venezuela diz que projetos vão ajudar na recuperação econômica e no bem-estar geral do país",
+    "link": "https://www.cnnbrasil.com.br/internacional/delcy-rodriguez-agradece-a-donald-trump-por-acordos-de-petroleo/",
+    "time": "2026-09-02T19:27:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jornais argentinos elogiam fase de “Barba” no Atlético: “Perfeito”",
+    "d": "Técnico argentino comanda o Galo em 14 jogos de invencibilidade e classifica time para a semifinal da Copa do Brasil",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/jornais-argentinos-elogiam-fase-de-barba-no-atletico-perfeito/",
+    "time": "2026-09-02T19:25:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nova massa de ar polar derruba temperaturas no Brasil com chance de neve",
+    "d": "Previsão é de frio intenso e chuvas com risco de raios e rajadas de vento; nas serras gaúchas e catarinenses há chance de geada e até neve",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/nova-massa-de-ar-polar-derruba-temperaturas-no-brasil-com-chance-de-neve/",
+    "time": "2026-09-02T19:24:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Comissão do Senado aprova PEC da Segurança; texto segue para o plenário",
+    "d": "O relator retirou o trecho que previa o repasse de 30% da arrecadação de bets para fundos de segurança; Lula anunciou que recria o Ministério da Segurança Pública se a proposta for aprovada",
+    "link": "https://www.cnnbrasil.com.br/politica/comissao-do-senado-aprova-pec-da-seguranca-texto-segue-para-o-plenario/",
+    "time": "2026-09-02T19:23:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Golpe do Free Flow”: quase 500 sites falsos já foram identificados",
+    "d": "Com avanço do pedágio sem cancela e integração ao app CNH do Brasil, criminosos usam dados reais de veículos para enganar motoristas",
+    "link": "https://www.cnnbrasil.com.br/auto/golpe-do-free-flow-quase-500-sites-falsos-ja-foram-identificados/",
+    "time": "2026-09-02T19:23:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Zendaya resgata foto antiga ao celebrar aniversário: “Muito a agradecer”",
+    "d": "Atriz completou 30 anos na última terça-feira (1º)",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/zendaya-resgata-foto-antiga-ao-celebrar-aniversario-muito-a-agradecer/",
+    "time": "2026-09-02T19:22:37.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fim da escala 6x1 é aprovado em comissão e avança no Senado",
     "d": "CCJ aprova projeto que já passou pela Câmara e agora segue para votação no plenário em dois turnos. Proposta é uma das vitrines da campanha de Lula à reeleição.",
     "link": "https://www.bbc.com/portuguese/articles/cjdv3rxze04o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T19:10:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governistas pedem fim de sigilo de Dark Horse a Fachin e criticam Mendonça",
-    "d": "Líder do PT na Câmara sugere que há seletividade na divulgação de informações de investigações e quer que dados sobre filme de Bolsonaro se tornem públicos",
-    "link": "https://www.cnnbrasil.com.br/politica/governistas-pedem-fim-de-sigilo-de-dark-horse-a-fachin-e-criticam-mendonca/",
-    "time": "2026-09-02T19:09:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Campanha de Lula defende código de ética para Judiciário após caso Moraes",
-    "d": "Edinho Silva, coordenador da campanha do petista, publicou vídeo nas redes sociais diante de revelações sobre o ministro do STF",
-    "link": "https://www.cnnbrasil.com.br/politica/campanha-de-lula-defende-codigo-de-etica-para-judiciario-apos-caso-moraes/",
-    "time": "2026-09-02T19:08:03.000Z"
   },
   {
     "cat": "internacional",
@@ -30,86 +134,6 @@
     "d": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario to “Lake America” for US users of its Maps app, after an executive order from Don…",
     "link": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
     "time": "2026-09-02T19:06:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ala pró-Mendonça do STF vê “rapidez atípica” de Paulo Gonet em nulidade",
-    "d": "Segundo apuração de Larissa Rodrigues para o Bastidores CNN, setor do STF avalia que PGR agiu com velocidade incomum ao pedir nulidade após decisão de André Mendonça sobre sigilo",
-    "link": "https://www.cnnbrasil.com.br/politica/ala-pro-mendonca-do-stf-ve-rapidez-atipica-de-paulo-gonet-em-nulidade/",
-    "time": "2026-09-02T19:06:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cidade no Rio Grande do Sul abriga maior jazida de ametista do mundo e igreja com mais de 40 toneladas de pedras preciosas",
-    "d": "Riqueza mineral sustenta o nome, a economia e o turismo da região no noroeste do estado",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/cidade-no-rio-grande-do-sul-abriga-maior-jazida-de-ametista-do-mundo-e-igreja-com-mais-de-40-toneladas-de-pedras-preciosas/",
-    "time": "2026-09-02T19:05:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com Virginia, Vini Jr. abre álbum de fotos de viagens pela Europa; veja",
-    "d": "Após terminarem no meio do ano, o casal voltou a se relacionar após a eliminação do Brasil na Copa do Mundo de 2026",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/com-virginia-vini-jr-abre-album-de-fotos-de-viagens-pela-europa-veja/",
-    "time": "2026-09-02T18:59:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz querer se reunir quando Putin estiver pronto para acordo de paz",
-    "d": "Líder russo expressa confiança em interlocutores ligados ao ex-presidente americano para discussões sobre um acordo concreto",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-querer-se-reunir-quando-putin-estiver-pronto-para-acordo-de-paz/",
-    "time": "2026-09-02T18:58:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Oposição apresenta ao menos 7 pedidos contra Gonet e Moraes em 24 horas",
-    "d": "Ofensiva inclui pedidos de impeachment, notícia-crime e ofícios para exoneração ou afastamento do ministro e do procurador-Geral da República",
-    "link": "https://www.cnnbrasil.com.br/politica/oposicao-apresenta-ao-menos-7-pedidos-contra-gonet-e-moraes-em-24-horas/",
-    "time": "2026-09-02T18:57:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz estar feliz com saída de Harry e Meghan dos Estados Unidos",
-    "d": "Presidente americano afirmou que não é fã do casal e que, se fosse da família real britânica, não os teria aceitado de volta",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-estar-feliz-com-saida-de-harry-e-meghan-dos-estados-unidos/",
-    "time": "2026-09-02T18:56:37.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "StoneX reforça novo recorde para soja em 2026/27",
-    "d": "Produção da oleaginosa deve alcançar 183,5 milhões de toneladas, enquanto primeira safra de milho deve crescer 2,4%; clima e exportações estão no radar",
-    "link": "https://www.cnnbrasil.com.br/agro/stonex-reforca-novo-recorde-para-soja-em-2026-27/",
-    "time": "2026-09-02T18:55:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Colheita de café supera 90% entre cooperados da Cooxupé",
-    "d": "São Paulo tem trabalhos mais avançados, com quase 95% da safra colhida; levantamento acompanha produtores em quatro regiões de Minas Gerais e São Paulo",
-    "link": "https://www.cnnbrasil.com.br/agro/colheita-de-cafe-supera-90-entre-cooperados-da-cooxupe/",
-    "time": "2026-09-02T18:51:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "À CNN, Moro diz esperar que oposição governe o PR se Lula for reeleito",
-    "d": "Apesar de não acreditar em vitória do petista, senador garantiu diálogo entre possíveis governos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-moro-diz-esperar-que-oposicao-governe-o-pr-se-lula-for-reeleito/",
-    "time": "2026-09-02T18:50:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cíntia Chagas aparece ao lado de Rubens Barrichello pela 1ª vez; veja fotos",
-    "d": "Influenciadora fez passeio romântico com novo namorado em vinícola na Itália",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/cintia-chagas-aparece-ao-lado-de-rubens-barrichello-pela-1a-vez-veja-fotos/",
-    "time": "2026-09-02T18:50:51.000Z"
   },
   {
     "cat": "economia",
@@ -296,22 +320,6 @@
     "time": "2026-09-02T15:20:19.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Câmara dos Deputados aprova indicação, e Rodrigo Pacheco será ministro do TCU",
-    "d": "Câmara aprova indicação de Rodrigo Pacheco para o Tribunal de Contas da União A Câmara dos Deputados aprovou nesta quarta-feira (2) a indicação do senador Rodrigo Pacheco (PSB-MG), de 49 anos, para o cargo de ministro…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/camara-dos-deputados-aprova-indicacao-e-rodrigo-pacheco-sera-ministro-do-tcu.ghtml",
-    "time": "2026-09-02T15:04:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula sanciona projeto que estende para UPAS atendimento a urgências cardiovasculares",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (2) o projeto que amplia o atendimento de urgências cardiovasculares no Sistema Único de Saúde (SUS). Com a medida, Unidades de Pronto Atendimen…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/lula-sanciona-projeto-que-estende-para-as-upas-o-atendimento-a-urgencias-cardiovasculares.ghtml",
-    "time": "2026-09-02T15:03:47.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Tim Cook handed $47m package for new role as executive chair of Apple",
@@ -358,14 +366,6 @@
     "d": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministr…",
     "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T13:53:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Fachin diz que STF anunciará medidas sobre conversas entre Moraes e Vorcaro 'nos próximos dias'",
-    "d": "Em comunicado, presidente do STF afirma ainda que em momentos de especial gravidade 'é dever de todos preservar a integridade' da Corte.",
-    "link": "https://www.bbc.com/portuguese/articles/cvgy5jp1y3xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T13:46:07.000Z"
   },
   {
     "cat": "brasil",
