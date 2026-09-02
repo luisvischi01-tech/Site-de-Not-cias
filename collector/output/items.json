@@ -1,6 +1,86 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que é o rastro digital que levou a PF ao ministro Alexandre de Moraes",
+    "d": "Relatório descreve como peritos cruzaram metadados e arquivos temporários e para reconstruir sequência de mensagens e documentos enviados por WhatsApp.",
+    "link": "https://www.bbc.com/portuguese/articles/cjrxy59rnpro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T11:24:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T11:13:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Aquecimento global deve superar 1,5ºC nos próximos anos; entenda riscos",
+    "d": "Novo relatório da ONU alerta que superação do teto de segurança climática pode trazer riscos para ecossistemas e derrubar produção global de alimentos em até 14%",
+    "link": "https://www.cnnbrasil.com.br/ciencia/aquecimento-global-deve-superar-15oc-nos-proximos-anos-entenda-riscos/",
+    "time": "2026-09-02T11:04:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time no RJ: Benedita, Crivella, Pedro Paulo e Jordy empatam no Senado",
+    "d": "Pesquisa ouviu 2.000 eleitores entre 28 de agosto e 1º de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-no-rj-benedita-crivella-pedro-paulo-e-jordy-empatam-no-senado/",
+    "time": "2026-09-02T11:03:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Big Data: Flávio tem 45% no RJ no 2º turno; Lula, 41%",
+    "d": "Pesquisa entrevistou 2.000 pessoas, entre os dias 28 de agosto e 1° de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-tem-45-no-rj-no-2o-turno-lula-41/",
+    "time": "2026-09-02T11:01:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Big Data: Eduardo Paes lidera cenários de 1º e 2º turno no RJ",
+    "d": "Pesquisa entrevistou 2.000 pessoas, entre os dias 28 de agosto e 1° de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-eduardo-paes-lidera-cenarios-de-1o-e-2o-turno-no-rj/",
+    "time": "2026-09-02T11:01:30.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Paredes avalia futuro na Argentina após suspensão e aposentadoria de Messi",
+    "d": "Jogador empurrou o espanhol Gavi no final da Copa do Mundo e foi acusado de três agressões, além de ser multado em 90 mil dólares",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/paredes-avalia-futuro-na-argentina-apos-suspensao-e-aposentadoria-de-messi/",
+    "time": "2026-09-02T11:00:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alemanha investiga sabotagens à rede elétrica, com temor de guerra híbrida",
+    "d": "Incidente ocorre após Berlim responsabilizar a Rússia por ataque com drones em aeroporto e em meio à ameaça de conflito",
+    "link": "https://www.cnnbrasil.com.br/internacional/alemanha-investiga-segunda-sabotagem-a-rede-eletrica-em-24-horas/",
+    "time": "2026-09-02T11:00:44.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Teamsters union leaders support Republicans despite members endorsing Democratic candidates",
+    "d": "Sean O’Brien, president of the 1.3-million strong union, was also the first to speak at the Republican national convention in 2o24 The powerful Teamsters union is backing Republican candidates in the 2026 election cyc…",
+    "link": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
+    "time": "2026-09-02T11:00:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fiocruz iniciará testes com 1ª vacina brasileira feita com RNA mensageiro",
+    "d": "Após autorização da Anvisa, recrutamento dos voluntários para a primeira fase do estudo contra Covid está previsto para começar no primeiro trimestre de 2027",
+    "link": "https://www.cnnbrasil.com.br/saude/fiocruz-iniciara-testes-clinicos-com-1a-vacina-brasileira-feita-com-rna-mensageiro/",
+    "time": "2026-09-02T11:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Quais crimes podem ser investigados e quem pode processar e julgar um ministro do STF? Entenda",
     "d": "PGR pede nulidade do relatório que cita Moraes A divulgação de mensagens encontradas pela Polícia Federal no celular de Daniel Vorcaro com o ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, levantou dú…",
@@ -24,12 +104,52 @@
     "time": "2026-09-02T10:49:22.000Z"
   },
   {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Mercado Europeu é estratégico e sem substituição para carne, diz Abiec",
+    "d": "Às vésperas da União Europeia suspender as compras de produtos brasileiros de origem animal, a Associação Brasileira das Indústrias Exportadoras de Carnes manifesta preocupação com os impactos que a medida causará ao…",
+    "link": "https://www.cnnbrasil.com.br/agro/mercado-europeu-e-estrategico-e-sem-substituicao-para-carne-diz-abiec/",
+    "time": "2026-09-02T10:47:48.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os argumentos de Gonet para pedir a anulação de relatório da PF que liga Vorcaro a Moraes",
     "d": "Gonet diz que o plenário do STF deveria ser responsável por decidir sobre uma eventual investigação de um de seus ministros, e não André Mendonça.",
     "link": "https://www.bbc.com/portuguese/articles/cy4zvrpx2gzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T10:46:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "US Open: Naomi Osaka exibe figurino inspirado em ex-astro da NBA",
+    "d": "Tenista japonesa avançou à segunda rodada e chamou atenção com visual que homenageava Allen Iverson",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-naomi-osaka-exibe-figurino-inspirado-em-ex-astro-da-nba/",
+    "time": "2026-09-02T10:44:25.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Europa amargam perdas com tensão global e alta de títulos",
+    "d": "Preços do petróleo e do gás natural europeu sobem, com implicações para a inflação e política monetária na região em um momento em que o alto endividamento dos países",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-amargam-perdas-com-tensao-global-e-alta-de-titulos/",
+    "time": "2026-09-02T10:43:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Ásia recuam com apreesão de demora para estabilidade do petróleo",
+    "d": "No Japão, Nikkei tomba 2,9% após falas de autoridade sobre vigilância cambial, o que desencadeou valorização do iene",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-recuam-com-apreesao-de-demora-para-estabilidade-do-petroleo/",
+    "time": "2026-09-02T10:38:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "STJ deve concluir hoje julgamento sobre volta de Nardoni e Jatobá à prisão",
+    "d": "Recurso apresentado por associação questiona cumprimento das condições impostas aos dois para permanência no regime aberto",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/stj-deve-concluir-hoje-julgamento-sobre-volta-de-nardoni-e-jatoba-a-prisao/",
+    "time": "2026-09-02T10:37:44.000Z"
   },
   {
     "cat": "internacional",
@@ -49,51 +169,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pedro Scooby reage a post sobre Bianca Andrade ser pivô do término",
-    "d": "Surfista e influenciadora participam juntos do \"Dança dos Famosos\"",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/pedro-scooby-reage-a-post-sobre-bianca-andrade-ser-pivo-do-termino/",
-    "time": "2026-09-02T10:25:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Anvisa suspende produção em fábrica de saneantes da Unilever em SP",
-    "d": "Decisão foi publicada no Diário Oficial da União nesta quarta-feira (2) e foi tomada após constatação de irregularidades sanitárias; medida não determina recolhimento de produtos",
-    "link": "https://www.cnnbrasil.com.br/saude/anvisa-suspende-producao-em-fabrica-da-unilever-apos-irregularidades/",
-    "time": "2026-09-02T10:25:36.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "As reações no mundo político e jurídico aos diálogos entre Alexandre de Moraes e Daniel Vorcaro",
     "d": "Candidos à Presidência e parlamentares reagiram à divulgação de diálogos entre o ministro do Supremo e o banqueiro Daniel Vorcaro.",
     "link": "https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T10:16:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Explosão perto de estação de trem deixa dois feridos no sul da Alemanha",
-    "d": "Principal estação de trem da cidade foi fechada após outro objeto suspeito ser encontrado no local; serviço ferroviário foi retomado horas depois",
-    "link": "https://www.cnnbrasil.com.br/internacional/explosao-perto-de-estacao-de-trem-deixa-dois-feridos-no-sul-da-alemanha/",
-    "time": "2026-09-02T10:15:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Zverev sobrevive a batalha de quase cinco horas e avança no US Open",
-    "d": "Alemão protagoniza virada épica contra Sonego em confronto que se estendeu pela madrugada de Nova York",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/zverev-sobrevive-a-batalha-de-quase-cinco-horas-e-avanca-no-us-open/",
-    "time": "2026-09-02T10:14:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Operação mira “braço armado” do Comando Vermelho no Rio",
-    "d": "Ação cumpre mandados de busca e apreensão e de prisão nas comunidades da Gardênia Azul e da Cidade de Deus, na zona Sudoeste da capital",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-mira-braco-armado-do-comando-vermelho-no-rio/",
-    "time": "2026-09-02T10:13:03.000Z"
   },
   {
     "cat": "internacional",
@@ -106,42 +186,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "US sailors arrive at Thailand's Pattaya after record 250 days at sea",
+    "h": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
     "d": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
     "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T10:04:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Setor visitante da Arena MRV é depredado após clássico; veja fotos",
-    "d": "Reportagem da Itatiaia registrou depredação no estádio após Atlético-MG x Cruzeiro pela Copa do Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/setor-visitante-da-arena-mrv-e-depredado-apos-classico-veja-fotos/",
-    "time": "2026-09-02T10:04:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil emite alerta de tempestade para Sudeste e BA nesta quarta-feira (2)",
-    "d": "Aviso amarelo vale para o dia todo e inclui previsão de chuva intensa, ventos fortes e granizo",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/inmet-emite-alerta-de-tempestade-para-sudeste-e-bahia-para-esta-quarta-2/",
-    "time": "2026-09-02T10:03:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Reforma tributária pode desequilibrar concessões rodoviárias já maduras",
-    "d": "Em artigo à CNN, Haroldo Bertoni afirmou que a nova forma de tributação impõe novos desafios às concessões rodoviárias e pode exigir reequilíbrio dos contratos diante dos impactos sobre receita, fluxo de caixa e custo…",
-    "link": "https://www.cnnbrasil.com.br/infra/reforma-tributaria-pode-desequilibrar-concessoes-rodoviarias-ja-maduras/",
-    "time": "2026-09-02T10:00:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O Grande Debate: PGR protege STF ou corrige investigação em caso Moraes?",
-    "d": "Paulo Gonet defende arquivamento do caso; debatedores divergem sobre legalidade do processo e possível afastamento do ministro",
-    "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-pgr-protege-stf-ou-corrige-investigacao-em-caso-moraes/",
-    "time": "2026-09-02T10:00:14.000Z"
   },
   {
     "cat": "internacional",
@@ -150,30 +198,6 @@
     "d": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
     "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T10:00:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mendonça enfrenta cenário desfavorável no STF em ofensiva contra Moraes",
-    "d": "Entorno do relator do caso Master acredita que pressão popular pode influenciar plenário e reverter votos contrários",
-    "link": "https://www.cnnbrasil.com.br/politica/mendonca-enfrenta-cenario-desfavoravel-no-stf-em-ofensiva-contra-moraes/",
-    "time": "2026-09-02T09:58:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Acusado de matar Charlie Kirk vai a julgamento; veja próximos passos",
-    "d": "Tyler Robinson, de 23 anos, é acusado de homicídio qualificado e pode enfrentar a pena de morte em utah",
-    "link": "https://www.cnnbrasil.com.br/internacional/acusado-de-matar-charlie-kirk-vai-a-julgamento-veja-proximos-passos/",
-    "time": "2026-09-02T09:54:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "46 trabalhadores podem estar vivos após uma semana presos no Nepal",
-    "d": "Autoridades acreditam que vítimas em usina hidrelétrica de Rasuwagadhi têm comida e água no local do desastre",
-    "link": "https://www.cnnbrasil.com.br/internacional/46-trabalhadores-podem-estar-vivos-apos-uma-semana-presos-no-nepal/",
-    "time": "2026-09-02T09:39:00.000Z"
   },
   {
     "cat": "brasil",
@@ -456,14 +480,6 @@
     "time": "2026-09-01T16:43:46.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T16:25:12.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Esfaqueamento na Times Square: mulher que morreu após facada era vice-presidente do Bank of America",
@@ -496,28 +512,12 @@
     "time": "2026-09-01T15:48:27.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Brasil fica em 5º em ranking de crescimento do PIB e pode superar Rússia em 2027",
-    "d": "PIB desacelera, mas cresce 0,5% no 2º trimestre, puxado pela agropecuária, diz IBGE O Produto Interno Bruto (PIB) do Brasil cresceu 0,5% no segundo trimestre de 2026, mas perdeu força em relação aos três primeiros mes…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/01/ranking-mundial-do-pib.ghtml",
-    "time": "2026-09-01T15:07:30.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
     "d": "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become th…",
     "link": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
     "time": "2026-09-01T13:49:33.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "BBC News Brasil",
-    "h": "PIB do Brasil perde força no 2º tri: os 3 desafios para o próximo presidente na economia",
-    "d": "PIB cresce 0,5% no segundo trimestre, enquanto endividamento das famílias, situação das contas públicas e El Niño criam cenário desafiador para próximo governo em 2027.",
-    "link": "https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T12:48:31.000Z"
   },
   {
     "cat": "internacional",
@@ -638,13 +638,5 @@
     "d": "There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt History remembers Gen Dwight Eisenhower, the supreme commander of the allied forces in Europe d…",
     "link": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
     "time": "2026-08-29T12:00:27.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-    "d": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first majo…",
-    "link": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
-    "time": "2026-08-28T15:48:57.000Z"
   }
 ]
