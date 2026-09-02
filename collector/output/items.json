@@ -1,11 +1,43 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "China reabre estrada da fronteira com Nepal e intensifica buscas no Tibete",
+    "d": "Máquinas pesadas chegam à região pela primeira vez após deslizamentos e inundações destruírem trechos da rodovia",
+    "link": "https://www.cnnbrasil.com.br/internacional/china-reabre-estrada-da-fronteira-com-nepal-e-intensifica-buscas-no-tibete/",
+    "time": "2026-09-02T05:15:23.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Japan halves speed limit to 30km/h on all narrow city streets",
+    "d": "Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities safer Drivers on residential roads in Japan have been forced to take their foot off the accelerato…",
+    "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
+    "time": "2026-09-02T05:15:00.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-    "d": "The Iranian Red Crescent and says five people, including a child, were killed and 50 injured when shrapnel from a US strike hit a home.",
+    "d": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
     "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T05:02:22.000Z"
+    "time": "2026-09-02T05:12:07.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
+    "d": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+    "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T05:03:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Moraes ou Mendonça: quem terá maioria no caso Master no STF? Entenda",
+    "d": "No Grande Debate Eleições, analista Caio Junqueira avalia, segundo o entorno dos ministro do Supremo, três votos contra a apuração, três favoráveis e quatro ainda indefinidos",
+    "link": "https://www.cnnbrasil.com.br/politica/moraes-ou-mendonca-quem-tera-maioria-no-caso-master-no-stf-entenda/",
+    "time": "2026-09-02T05:02:46.000Z"
   },
   {
     "cat": "internacional",
@@ -13,7 +45,7 @@
     "h": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
     "d": "Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong, one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday…",
     "link": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-    "time": "2026-09-02T04:23:43.000Z"
+    "time": "2026-09-02T04:57:27.000Z"
   },
   {
     "cat": "internacional",
@@ -30,14 +62,6 @@
     "d": "Relator do Caso Master no Supremo Tribunal Federal, o ministro André Mendonça retirou nesta terça-feira (1º) o sigilo de um relatório da Polícia Federal que tem menções ao também ministro do STF Alexandre de Moraes. O…",
     "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/02/as-mensagens-de-vorcaro-a-moraes-e-o-futuro-do-caso-master-no-supremo-o-assunto-1796.ghtml",
     "time": "2026-09-02T04:20:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea",
-    "d": "Ship has been plagued by reports of deteriorating living conditions and poor mental health because of lengthy deployment The USS Abraham Lincoln, an US aircraft carrier at the centre of a row over conditions on board…",
-    "link": "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea",
-    "time": "2026-09-02T03:59:56.000Z"
   },
   {
     "cat": "brasil",
@@ -200,22 +224,6 @@
     "time": "2026-09-02T02:38:43.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Copa do Brasil: Atlético-MG fatura premiação milionária na após vitória",
-    "d": "Galo superou Cruzeiro na Arena MRV, em Belo Horizonte, pelas quartas de final da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-fatura-premiacao-milionaria-na-copa-do-brasil-apos-classificac/",
-    "time": "2026-09-02T02:23:03.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Trump diz que “não poderia se importar menos” sobre Irã assinar acordo",
-    "d": "Em publicação nas redes sociais horas após os novos ataques dos EUA, presidente americano questionou \"quando os iranianos vão se levantar e lutar?\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-nao-poderia-se-importar-menos-sobre-ira-assinar-acordo/",
-    "time": "2026-09-02T02:17:01.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Germany says Russia behind Leipzig airport drone attack",
@@ -334,14 +342,6 @@
     "d": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
     "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T21:41:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-    "d": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
-    "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T20:05:23.000Z"
   },
   {
     "cat": "economia",
