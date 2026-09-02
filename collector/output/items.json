@@ -1,27 +1,115 @@
 [
   {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
+    "d": "Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price falls China’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on Iran, thanks to…",
+    "link": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
+    "time": "2026-09-02T23:01:37.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Alcolumbre sobre Moraes: “esqueceram que pediram R$ 130 mi para um filme”",
-    "d": "Presidente do Senado usou caso de Flávio Bolsonaro com ex-banqueiro Daniel Vorcaro para dizer que o magistrado não é o único com envolvimento",
-    "link": "https://www.cnnbrasil.com.br/politica/alcolumbre-sobre-moraes-esqueceram-que-pediram-r-130-mi-para-um-filme/",
-    "time": "2026-09-02T22:44:23.000Z"
+    "h": "Jovem viraliza ao encontrar atores de “Emily em Paris” no jiu-jitsu em SP",
+    "d": "Atores estão no Brasil para evento da Netflix",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/jovem-viraliza-ao-encontrar-atores-de-emily-em-paris-no-jiu-jitsu-em-sp/",
+    "time": "2026-09-02T22:55:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nunes mantém no ar live de Flávio com “Carta aos Brasileiros” de Bolsonaro",
+    "d": "Presidente do TSE afirma que vídeo não traz pedido explícito de voto e rejeita retirada imediata do conteúdo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/nunes-mantem-no-ar-live-de-flavio-com-carta-aos-brasileiros-de-bolsonaro/",
+    "time": "2026-09-02T22:55:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Marinho vai “ao front” contra fim da 6×1; Flávio deixa tema de fora de foco",
+    "d": "Quando questionado sobre como votaria perante texto governista, candidato à Presidência não cravou posicionamento",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/marinho-vai-ao-front-contra-fim-da-6x1-flavio-deixa-tema-de-fora-de-foco/",
+    "time": "2026-09-02T22:53:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo apresenta reforços Valencia e Freitas para a torcida no Maracanã",
+    "d": "Time rubro-negro pega o Mirassol nesta quarta-feira (2), em duelo atrasado do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-apresenta-reforcos-valencia-e-freitas-para-a-torcida-no-maracana/",
+    "time": "2026-09-02T22:53:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "WSL: Medina tira nota 10, mas perde para Houshmand e fica com vice em Fiji",
+    "d": "Brasileiro tricampeão mundial tirou nota perfeita na decisão, mas acabou sendo superado pelo norte-americano",
+    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/wsl-medina-tira-nota-10-mas-perde-para-houshmand-e-fica-com-vice-em-fiji/",
+    "time": "2026-09-02T22:52:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rock in Rio: veja quanto custa comer na Cidade do Rock",
+    "d": "Portões foram abertos nesta quarta-feira (2) para evento-teste; preços na Gourmet Square variam de R$ 18 a R$ 60",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-veja-quanto-custa-comer-na-cidade-do-rock/",
+    "time": "2026-09-02T22:52:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Plano para testar gasolina com 35% de etanol deve sair em setembro",
+    "d": "Secretário do MME diz que publicação do plano acontece no dia 18; testes vão avaliar viabilidade do E35, mas conselho ainda analisará viabilidade",
+    "link": "https://www.cnnbrasil.com.br/agro/plano-para-testar-gasolina-com-35-de-etanol-deve-sair-em-setembro/",
+    "time": "2026-09-02T22:50:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Presidente da CCJ diz que PEC da Segurança fica para depois da eleição",
+    "d": "Falta de tempo hábil para analisar os destaques na comissão deixa o texto para depois do pleito",
+    "link": "https://www.cnnbrasil.com.br/politica/presidente-da-ccj-diz-que-pec-da-seguranca-fica-para-depois-da-eleicao/",
+    "time": "2026-09-02T22:49:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump diz que eleições de meio de mandato não afetam decisões sobre Irã",
+    "d": "Presidente dos EUA voltou a afirmar que guerra com Teerã deve acabar em breve",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eleicoes-de-meio-de-mandato-nao-afetam-decisoes-sobre-ira/",
+    "time": "2026-09-02T22:49:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ataque a tiros deixa vários feridos em Minneapolis, nos EUA",
+    "d": "Polícia pediu para as pessoas evitarem a região",
+    "link": "https://www.cnnbrasil.com.br/internacional/ataque-a-tiros-minneapolis/",
+    "time": "2026-09-02T22:47:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Morre atriz de “Zombies”, da Disney, aos 33 anos",
+    "d": "Empresa que agenciava carreira publicou uma homenagem nas redes sociais",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-atriz-de-zombies-da-disney-aos-33-anos/",
+    "time": "2026-09-02T22:47:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Adolescente é apreendido suspeito de torturar mais de 200 gatos em lives",
+    "d": "Jovem também é investigado por induzir vítimas à automutilação e, segundo as investigações, chegava a maltratar de cinco a seis animais por madrugada durante as transmissões ao vivo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/adolescente-e-apreendido-suspeito-de-torturar-mais-de-200-gatos-em-lives/",
+    "time": "2026-09-02T22:46:45.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Alcolumbre diz que pedido de 'R$ 130 milhões' para filme são esquecidos: 'Agora o culpado só é o Moraes'",
+    "h": "Alcolumbre diz que pedido de 'R$ 130 milhões' para filme é esquecido: 'Agora o culpado só é o Moraes'",
     "d": "Alcolumbre sai em defesa de Alexandre de Moraes e cita repasse a filme de Bolsonaro O presidente do Senado Federal, Davi Alcolumbre (União-AP), afirmou nesta quarta-feira (2) que \"todo mundo esqueceu que pediram R$ 13…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/02/alcolumbre-diz-que-tem-sofrido-agressoes-e-r-130-milhoes-de-filme-sao-esquecidos-agora-o-culpado-sou-eu-e-o-ministro-moraes.ghtml",
     "time": "2026-09-02T22:43:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "NBA define punições a Clippers e Kawhi Leonard por violação de regras",
-    "d": "\"Estou profundamente decepcionado\", disse o comissário da liga, Adam Silver",
-    "link": "https://www.cnnbrasil.com.br/esportes/basquete/nba-define-punicoes-a-clippers-e-kawhi-leonard-por-violacao-de-regras/",
-    "time": "2026-09-02T22:42:50.000Z"
   },
   {
     "cat": "brasil",
@@ -33,22 +121,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Líder de governo no Congresso diz que 6×1 deve ficar para depois da eleição",
-    "d": "Base governista avaliou que não havia votos suficientes para aprovação da matéria em plenário nesta quarta-feira (2)",
-    "link": "https://www.cnnbrasil.com.br/politica/lider-de-governo-no-congresso-diz-que-6x1-deve-ficar-para-depois-da-eleicao/",
-    "time": "2026-09-02T22:35:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Receita Federal apreende 98,5 kg de cocaína em Paranaguá",
-    "d": "Droga estava oculta em roletes cilíndricos de metal em um contêiner no litoral do Paraná, com destino à África do Sul",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/receita-federal-apreende-985-kg-de-cocaina-em-paranagua/",
-    "time": "2026-09-02T22:34:01.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
     "d": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes Plenário do STF discute a proclamação da tese do julgamento que discute a constitucionalidade da contribuição previdenciária devida pelo empre…",
@@ -56,76 +128,12 @@
     "time": "2026-09-02T22:33:56.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ibram prevê que “pequena fração” de negócios vá ao conselho de minerais",
-    "d": "Governo promete regulamentação com segurança jurídica, previsibilidade e sem “cavalo de pau” nas regras do setor",
-    "link": "https://www.cnnbrasil.com.br/infra/ibram-preve-que-pequena-fracao-de-negocios-va-ao-conselho-de-minerais/",
-    "time": "2026-09-02T22:30:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lavar a louça enquanto cozinha revela capacidade de controlar o ambiente e regular comportamentos",
-    "d": "À CNN Brasil, a psicóloga Luciana Xavier explica a perspectiva desse hábito de um ponto de vista cerebral",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/lavar-a-louca-enquanto-cozinha-revela-capacidade-de-controlar-o-ambiente-e-regular-comportamentos/",
-    "time": "2026-09-02T22:28:44.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
-    "h": "Quem é Fabio Schvartsman, ex-presidente da Vale que assume o comando da CSN após Brumadinho",
+    "h": "Benjamin Steinbruch deixa presidência da CSN e ex-CEO da Vale assume o cargo",
     "d": "Mineradora CSN registra vazamento em tubulação A Companhia Siderúrgica Nacional (CSN) informou nesta quarta-feira (2) que Benjamin Steinbruch deixará a presidência executiva da companhia e passará a comandar o Conselh…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/02/benjamin-steinbruch-deixa-presidencia-da-csn-e-ex-ceo-da-vale-assume-o-cargo.ghtml",
     "time": "2026-09-02T22:28:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Range Rover lança primeiro modelo elétrico da história; confira",
-    "d": "Modelo estreante foca em usabilidade com 600 km de autonomia, recarga de 80% em 22 minutos e até capacidade mantida de passar por quase 1 metro de corrente de água",
-    "link": "https://www.cnnbrasil.com.br/auto/range-rover-lanca-primeiro-modelo-eletrico-da-historia-confira/",
-    "time": "2026-09-02T22:24:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após deixar Flamengo, Wallace Yan é anunciado pelo Red Bull Bragantino",
-    "d": "Contrato é válido até agosto de 2031",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/red-bull-bragantino/apos-deixar-flamengo-wallace-yan-e-anunciado-pelo-red-bull-bragantino/",
-    "time": "2026-09-02T22:22:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Super El Niño será ‘muito forte’ nos meses de setembro, outubro e novembro; entenda os efeitos",
-    "d": "Temperaturas devem ficar acima da média em praticamente todo o país ao longo deste trimestre",
-    "link": "https://www.cnnbrasil.com.br/ciencia/super-el-nino-sera-muito-forte-nos-meses-de-setembro-outubro-e-novembro-entenda-os-efeitos/",
-    "time": "2026-09-02T22:11:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vorcaro entende que quebra de sigilo não inviabiliza deleção premiada",
-    "d": "Entorno do ex-banqueiro avalia que quebra de sigilo sobre encontros com Alexandre de Moraes não inviabiliza novo acordo; apuração é de Isabel Mega no Hora H",
-    "link": "https://www.cnnbrasil.com.br/politica/vorcaro-entende-que-quebra-de-sigilo-nao-inviabiliza-delecao-premiada/",
-    "time": "2026-09-02T22:09:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Regra do STF põe Moraes e Mendonça lado a lado em meio à crise; entenda",
-    "d": "Ordem dos assentos é definida pela antiguidade dos ministros; os dois dividiram a bancada nesta quarta (2), mas não conversaram",
-    "link": "https://www.cnnbrasil.com.br/politica/regra-do-stf-poe-moraes-e-mendonca-lado-a-lado-em-meio-a-crise-entenda/",
-    "time": "2026-09-02T22:07:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians adota cautela com Memphis Depay após dores no tornozelo",
-    "d": "Atacante holandês não participou de treinos e equipe monitora situação para evitar agravamento da lesão",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-adota-cautela-com-memphis-depay-apos-dores-no-tornozelo/",
-    "time": "2026-09-02T22:04:35.000Z"
   },
   {
     "cat": "brasil",
@@ -542,14 +550,6 @@
     "d": "Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities safer Drivers on residential roads in Japan have been forced to take their foot off the accelerato…",
     "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
     "time": "2026-09-02T05:15:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
-    "d": "Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong, one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday…",
-    "link": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-    "time": "2026-09-02T04:57:27.000Z"
   },
   {
     "cat": "economia",
