@@ -1,11 +1,107 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Germany says Russia behind Leipzig airport drone attack",
+    "d": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T01:59:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alcolumbre sobre STF ser alvo de 109 pedidos de impeachment: “não é normal”",
+    "d": "",
+    "link": "https://www.cnnbrasil.com.br/politica/alcolumbre-sobre-stf-ser-alvo-de-109-pedidos-de-impeachment-nao-e-normal/",
+    "time": "2026-09-02T01:58:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lionel Richie continua hospitalizado devido a problemas cardíacos",
+    "d": "Artista foi internado após um show em Forest Park na noite do última sábado (29)",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/lionel-richie-continua-hospitalizado-devido-a-problemas-cardiacos/",
+    "time": "2026-09-02T01:43:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "US Open: Luisa Stefani e Gabriela Dabrowski conhecem primeiras adversárias",
+    "d": "Atual dupla número 2 do mundo, brasileira e canadense enfrentarão russa e tcheca em Nova York, nos Estados Unidos",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-luisa-stefani-e-gabriela-dabrowski-conhecem-primeiras-adversarias/",
+    "time": "2026-09-02T01:41:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "João Campos promete comissão para discutir carreiras na UPE",
+    "d": "Candidato estabeleceu prazos para planejamento sobre carreiras, remuneração e expansão da universidade e detalhou o chamado “Pé-de-Meião”",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/joao-campos-promete-comissao-para-discutir-carreiras-na-upe/",
+    "time": "2026-09-02T01:35:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Raquel Lyra faz caminhada em Jaboatão e destaca obras na cidade",
+    "d": "Governadora e candidata à reeleição estava acompanhada de sua vice na chapa e outros nomes que disputam cargos pelo estado",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/raquel-lyra-faz-caminhada-em-jaboatao-e-destaca-obras-na-cidade/",
+    "time": "2026-09-02T01:35:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Foi completamente espontâneo”, diz Cury sobre crescimento nas pesquisas",
+    "d": "Segundo candidato do Avante à Presidência, a tese que sustenta seu crescimento é a de que os brasileiros estão cansados da polarização",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/foi-completamente-espontaneo-diz-cury-sobre-crescimento-nas-pesquisas/",
+    "time": "2026-09-02T01:33:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Porta-aviões dos EUA chega à Tailândia após mais de 200 dias no mar",
+    "d": "USS Abraham Lincoln partiu de San Diego em novembro de 2025 e permaneceu meses nas águas do Oriente Médio durante a guerra contra o Irã; missão gerou problemas de moral em meio à escassez de suprimentos",
+    "link": "https://www.cnnbrasil.com.br/internacional/porta-avioes-dos-eua-chega-a-tailandia-apos-mais-de-200-dias-no-mar/",
+    "time": "2026-09-02T01:28:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda por que respostas de Moraes a Vorcaro não aparecem em relatório",
+    "d": "Mensagens enviadas pelo ex-banqueiro foram recuperadas, mas conteúdo das respostas do ministro não consta no material periciado pela PF",
+    "link": "https://www.cnnbrasil.com.br/politica/entenda-por-que-respostas-de-moraes-a-vorcaro-nao-aparecem-em-relatorio/",
+    "time": "2026-09-02T01:22:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cintia Dicker fala sobre “paz, cura e amor” após separação de Pedro Scooby",
+    "d": "A modelo e o surfista estavam juntos há sete anos e o ciclo como casal se encerrou com respeito, segundo comunicado",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/cintia-dicker-fala-sobre-paz-cura-e-amor-apos-separacao-de-pedro-scooby/",
+    "time": "2026-09-02T01:21:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeo: Motociclista é lançado para dentro de ônibus após batida na Colômbia",
+    "d": "Imagens de câmeras de segurança captaram o momento em que o homem avança o sinal vermelho e colide com o veículo em Guadalajara de Buga",
+    "link": "https://www.cnnbrasil.com.br/internacional/video-motociclista-e-lancado-para-dentro-de-onibus-apos-batida-na-colombia/",
+    "time": "2026-09-02T01:18:32.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "As reações no mundo político e jurídico aos diálogos entre Alexandre de Moraes e Daniel Vorcaro",
     "d": "Candidos à Presidência e parlamentares reagiram à divulgação de diálogos entre o ministro do Supremo e o banqueiro Daniel Vorcaro.",
     "link": "https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T01:04:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Waack: STF mergulha em crise que arrasta o país e a política",
+    "d": "O principal acordão político do momento, feito para favorecer Lula na reeleição, tem como âncora e pivô o ministro Moraes e pelo menos dois de seus colegas dentro da Corte",
+    "link": "https://www.cnnbrasil.com.br/politica/waack-stf-mergulha-em-crise-que-arrasta-o-pais-e-a-politica/",
+    "time": "2026-09-02T01:03:34.000Z"
   },
   {
     "cat": "brasil",
@@ -25,59 +121,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: suspeitos de arrastar cachorro se apresentam à polícia na Paraíba",
-    "d": "Imagens viralizaram nas redes sociais mostrando os maus-tratos; suspeitos foram interrogados pela polícia",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pb/video-suspeitos-de-arrastar-cachorro-se-apresentam-a-policia-na-paraiba/",
-    "time": "2026-09-02T00:55:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlético-MG x Cruzeiro: Galo Doido inova e desce de tirolesa na Arena MRV",
-    "d": "Momento acompanhou a festa da torcida atleticana no estádio",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-x-cruzeiro-galo-doido-inova-e-desce-de-tirolesa-na-arena-mrv/",
-    "time": "2026-09-02T00:51:49.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Bolsa de Londres planeja negociar ações tokenizadas em 2027",
-    "d": "Parceria com a Payward, proprietária da exchange de criptomoedas Kraken, os \"xStocks\" começarão a ser negociados no mercado",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-de-londres-planeja-negociar-acoes-tokenizadas-em-2027/",
-    "time": "2026-09-02T00:49:48.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Veja como foi a agenda dos candidatos ao governo de Goiás nesta terça-feira (1º)",
     "d": "Veja como foi a agenda dos candidatos ao governo de Goiás nesta terça-feira (1º) Os candidatos ao governo de Goiás Daniel Vilela (MDB), Marconi Perillo (PSDB) e Luís César Bueno (PT) cumpriram compromissos de campanha…",
     "link": "https://g1.globo.com/go/goias/noticia/2026/09/01/veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-terca-feira-1o.ghtml",
     "time": "2026-09-02T00:44:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlético-MG x Cruzeiro: Ruan vê filme repetir e é substituído no 1º tempo",
-    "d": "Zagueiro sentiu lesão e deu lugar a Vitão, que cometeu pênalti",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/atletico-mg-x-cruzeiro-ruan-ve-filme-repetir-e-e-substituido-no-1o-tempo/",
-    "time": "2026-09-02T00:43:14.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Índia abre inscrições para cota restante de importação de açúcar bruto",
-    "d": "Refinarias podem solicitar 202.550 toneladas métricas de cota isenta de impostos aprovada em Nova Délhi",
-    "link": "https://www.cnnbrasil.com.br/agro/india-abre-inscricoes-para/",
-    "time": "2026-09-02T00:35:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidente do Corinthians se enrola em debate com Mano: “Passou vergonha”",
-    "d": "Osmar Stabile, mandatário do clube alvinegro, concedeu entrevista à \"Rádio Energia 97 FM\" na noite desta terça-feira (1)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/presidente-do-corinthians-se-enrola-em-debate-com-mano-passou-vergonha/",
-    "time": "2026-09-02T00:29:59.000Z"
   },
   {
     "cat": "brasil",
@@ -94,46 +142,6 @@
     "d": "Claudio Lottenberg Reprodução/Linkedin O presidente do Conselho Deliberativo do Einstein Hospital Israelita, Claudio Luiz Lottenberg, iniciou nesta terça-feira (1º) uma licença de suas atribuições relacionadas à gover…",
     "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/01/presidente-do-conselho-do-einstein-claudio-lottenberg-e-afastado-do-cargo-durante-o-periodo-eleitoral.ghtml",
     "time": "2026-09-02T00:24:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Congresso da Nicarágua aprova reforma de Ortega para eleições sem oposição",
-    "d": "Medida já havia sido criticada anteriormente pelos Estados Unidos e por outros países da região",
-    "link": "https://www.cnnbrasil.com.br/internacional/congresso-da-nicaragua-aprova-reforma-de-ortega-para-eleicoes-sem-oposicao/",
-    "time": "2026-09-02T00:24:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo do DF vai ao STF contra gatilhos que limitam aporte da União",
-    "d": "Executivo estimou o aporte no fundo em R$ 30,3 bilhões no Orçamento de 2027",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-do-df-vai-ao-stf-contra-gatilhos-que-limitam-aporte-da-uniao/",
-    "time": "2026-09-02T00:22:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlético-MG sofre baixa de titular antes de decisão contra o Cruzeiro",
-    "d": "Volante atleticano foi retirado do jogo antes mesmo da bola rolar na Arena MRV pela Copa do Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-sofre-baixa-de-titular-antes-de-decisao-contra-o-cruzeiro/",
-    "time": "2026-09-02T00:20:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "B3 propõe acordo para viabilizar compra da CRDC após rejeição",
-    "d": "Operação também prevê um acordo de parceria entre a Associação Comercial de São Paulo",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/b3-propoe-acordo-para-viabilizar-compra-da-crdc-apos-rejeicao/",
-    "time": "2026-09-02T00:19:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caso Maya Massafera: o que é princípio de AVC e como evitar doença",
-    "d": "Médicos alertam que o perigo varia conforme tipo, dose e via de administração do hormônio",
-    "link": "https://www.cnnbrasil.com.br/saude/caso-maya-massafera-o-que-e-principio-de-avc-e-como-evitar-doenca/",
-    "time": "2026-09-02T00:19:07.000Z"
   },
   {
     "cat": "internacional",
@@ -254,14 +262,6 @@
     "d": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
     "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-01T21:41:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Germany says Russia behind Leipzig airport drone attack",
-    "d": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-01T21:05:22.000Z"
   },
   {
     "cat": "internacional",
