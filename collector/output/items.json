@@ -1,11 +1,123 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Terras raras: Senado aprova texto-base  com fundo garantidor e crédito de R$ 5 bi para estimular exploração",
+    "d": "O Senado aprovou nesta quarta-feira (2) o projeto que cria a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), com um fundo garantidor para estimular projetos e crédito tributário de R$ 5 bilhões para inc…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/02/terras-raras-senado-aprova-fundo-garantidor-e-credito-de-r-5-bi-para-estimular-exploracao.ghtml",
+    "time": "2026-09-02T21:20:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
+    "d": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Don…",
+    "link": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+    "time": "2026-09-02T21:15:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Crise Master' no STF superou casos 'Dark Horse' e Lulinha em postagens nas redes sociais, aponta levantamento",
+    "d": "Em apenas 24 horas, 1,1 milhão de posts foram publicados nas redes sociais sobre a retirada do sigilo da investigação que apontou vínculos entre o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), e o b…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/02/crise-master-no-stf-superou-casos-dark-horse-e-lulinha-em-postagens-nas-redes-sociais-aponta-levantamento.ghtml",
+    "time": "2026-09-02T21:02:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Messi será homenageado com aplausos no minuto 10 em rodada na Argentina",
+    "d": "AFA determinou paralisação de um minuto em todos os jogos após anúncio de aposentadoria do craque da seleção argentina",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-sera-homenageado-com-aplausos-no-minuto-10-em-rodada-na-argentina/",
+    "time": "2026-09-02T21:00:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estoque de moedas com rosto de Trump acaba poucas horas após lançamento",
+    "d": "Moedas foram lançadas às 13h00 no horário de Brasília e o pacote de 25 unidades já constava como esgotado pouco depois das 16h",
+    "link": "https://www.cnnbrasil.com.br/internacional/estoque-de-moedas-com-rosto-de-trump-acaba-poucas-horas-apos-lancamento/",
+    "time": "2026-09-02T20:59:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
+    "d": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes Plenário do STF discute a proclamação da tese do julgamento que discute a constitucionalidade da contribuição previdenciária devida pelo empre…",
+    "link": "https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml",
+    "time": "2026-09-02T20:58:58.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Trump critica Canadá e defende tarifa para trazer fábricas aos EUA",
+    "d": "De acordo com o presidente americano, o país vizinho \"se aproveitou\" de brechas comerciais ao longo de décadas",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-critica-canada-e-defende-tarifa-para-trazer-fabricas-aos-eua/",
+    "time": "2026-09-02T20:53:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Otávio brilha no Cruzeiro e ganha força na Seleção Brasileira",
+    "d": "Goleiro de 20 anos é bem avaliado pelo estafe de Carlo Ancelotti e pode estar na próxima convocação",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/otavio-brilha-no-cruzeiro-e-ganha-forca-na-selecao-brasileira/",
+    "time": "2026-09-02T20:50:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ganso revela diversas conversas para rescindir contrato com o Fluminense",
+    "d": "Titular da equipe de Marcão, camisa 10 afirma que foi procurado pela diretoria para encerrar de forma precoce o vínculo com o Tricolor",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/ganso-revela-diversas-conversas-para-rescindir-contrato-com-o-fluminense/",
+    "time": "2026-09-02T20:50:14.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Pattaya, a 'cidade do pecado' onde 5 mil militares americanos desembarcaram após oito meses em alto mar",
     "d": "Após 250 dias no mar, o USS Abraham Lincoln atracou perto de Pattaya, cidade conhecida por sua agitada vida noturna e turismo sexual.",
     "link": "https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T20:48:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Campo de Marte recebe exposição gratuita de carros antigos em SP",
+    "d": "Com público esperado de 25 mil pessoas, evento reúne clássicos de época e apoia projetos sociais na capital",
+    "link": "https://www.cnnbrasil.com.br/auto/campo-de-marte-recebe-exposicao-gratuita-de-carros-antigos-em-sp/",
+    "time": "2026-09-02T20:46:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após divórcio de Pedro Scooby, Cíntia Dicker recebe apoio de mãe; veja",
+    "d": "Modelo e surfista confirmaram o fim da relação por meio de um comunicado enviado à CNN Brasil",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/apos-divorcio-de-pedro-scooby-cintia-dicker-recebe-apoio-de-mae-veja/",
+    "time": "2026-09-02T20:46:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump sugere mudar o nome de Ormuz para “Estreito de Trump”",
+    "d": "No mês passado, o presidente americano publicou uma imagem que mostrava o local como \"novo território dos EUA\"",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-sugere-mudar-o-nome-de-ormuz-para-estreito-de-trump/",
+    "time": "2026-09-02T20:46:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Casas Bahia realiza novo leilão com até 85% de desconto; confira",
+    "d": "Lances podem ser feitos até 9 de setembro, às 11h; valores vão de R$ 219 a R$ 5.436,08 para itens únicos",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/casas-bahia-realiza-novo-leilao-com-ate-85-de-desconto-confira/",
+    "time": "2026-09-02T20:45:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Abel Ferreira: STJD marca data de julgamento do técnico do Palmeiras",
+    "d": "Treinador do Palmeiras pode pegar até seis jogos de suspensão; outros quatro envolvidos também serão julgados",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-ferreira-stjd-marca-data-de-julgamento-do-tecnico-do-palmeiras/",
+    "time": "2026-09-02T20:44:21.000Z"
   },
   {
     "cat": "brasil",
@@ -41,46 +153,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda o que muda e próximos passos após CCJ aprovar o fim da escala 6×1",
-    "d": "Proposta reduz jornada semanal de 44 para 40 horas, prevê dois dias de descanso e segue para análise do plenário do Senado",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/entenda-o-que-muda-e-proximos-passos-apos-ccj-aprovar-o-fim-da-escala-6x1/",
-    "time": "2026-09-02T20:29:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Federações nórdicas buscam diálogo com a UE sobre preocupações com a Fifa",
-    "d": "Finlândia, Suécia e Dinamarca querem discutir com a União Europeia questões de transparência e decisões internas da entidade máxima do futebol mundial",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/federacoes-nordicas-buscam-dialogo-com-a-ue-sobre-preocupacoes-com-a-fifa/",
-    "time": "2026-09-02T20:28:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Não estão prontos”, diz Trump sobre eleições na Venezuela após Maduro",
-    "d": "Presidente americano afirmou que país da América Latina ainda estava se recuperando da \"ditadura violenta\" do líder chavista",
-    "link": "https://www.cnnbrasil.com.br/internacional/nao-estao-prontos-diz-trump-sobre-eleicoes-na-venezuela-apos-maduro/",
-    "time": "2026-09-02T20:23:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ticiane Pinheiro desabafa sobre semana difícil com César Tralli: “Desafios”",
-    "d": "Casal vive diferentes rotinas atualmente",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ticiane-pinheiro-desabafa-sobre-semana-dificil-com-cesar-tralli-desafios/",
-    "time": "2026-09-02T20:23:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "MPF afirma que PEC da Segurança Pública ameaça direitos e fere garantias",
-    "d": "Procuradores apontam em nota técnica que a proposta prioriza medidas punitivas e pode ferir garantias individuais e a presunção de inocência",
-    "link": "https://www.cnnbrasil.com.br/politica/mpf-afirma-que-pec-da-seguranca-publica-ameaca-direitos-e-fere-garantias/",
-    "time": "2026-09-02T20:22:44.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fim da escala 6x1 é aprovado em comissão e avança no Senado",
     "d": "CCJ aprova projeto que já passou pela Câmara e agora segue para votação no plenário em dois turnos. Proposta é uma das vitrines da campanha de Lula à reeleição.",
@@ -94,46 +166,6 @@
     "d": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
     "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T20:21:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jovem de 18 anos suspeito de planejar sequestro de Mbappé é preso na França",
-    "d": "Investigadores acreditam que o homem comandou uma série de assaltos e planos de sequestro entre 11 de abril e 19 de agosto, em Neuilly-sur-Seine",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/jovem-de-18-anos-suspeito-de-planejar-sequestro-de-mbappe-e-preso-na-franca/",
-    "time": "2026-09-02T20:19:55.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Ouro sobe com alta do dólar e rendimentos dos Treasuries",
-    "d": "Isso fez com que metal voltasse ao nível de US$ 4.400 a onça-troy",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-sobe-com-alta-do-dolar-e-rendimentos-dos-treasuries/",
-    "time": "2026-09-02T20:19:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nvidia reforça protagonismo da IA nos mercados e eleva expectativas",
-    "d": "Margens elevadas sustentam crescimento, mas pressão aumenta por novos resultados",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/nvidia-reforca-protagonismo-da-ia-nos-mercados-e-eleva-expectativas/",
-    "time": "2026-09-02T20:17:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Bitcoin sobe com cautela diante de riscos inflacionários e juros altos",
-    "d": "Segundo a plataforma Binance, criptomoeda operava em alta de 0,30% a US$ 77.358,09, enquanto o Ethereum caía 0,81%, a US$ 2.394,17",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-sobe-com-cautela-diante-de-riscos-inflacionarios-e-juros-altos/",
-    "time": "2026-09-02T20:16:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula recebeu Gilmar no Planalto em meio à crise envolvendo Moraes e Vorcaro",
-    "d": "Encontro fora da agenda ocorreu na terça-feira (1º), quando presidente procurou ministros para ouvir relatos sobre a crise no Supremo",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-recebeu-gilmar-no-planalto-em-meio-a-crise-envolvendo-moraes-e-vorcaro/",
-    "time": "2026-09-02T20:15:49.000Z"
   },
   {
     "cat": "internacional",
@@ -166,14 +198,6 @@
     "d": "Com seis meses de atraso, a Comissão de Constituição e Justiça (CCJ) do Senado Federal aprovou o texto-base da proposta de emenda à Constituição (PEC) da Segurança Pública nesta quarta-feira (2). A votação foi simbóli…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/02/apos-seis-meses-engavetada-pec-da-seguranca-e-aprovada-na-ccj-do-senado.ghtml",
     "time": "2026-09-02T19:27:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-    "d": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Don…",
-    "link": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-    "time": "2026-09-02T19:06:39.000Z"
   },
   {
     "cat": "internacional",
@@ -214,14 +238,6 @@
     "d": "As lideranças do PL na Câmara dos Deputados e no Senado cobraram investigações individualizadas das autoridades envolvidas nas investigações do Caso Master como forma de preservação das instituições. Entenda o caso Ma…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/02/oposicao-cobra-alcolumbre-e-diz-querer-investigacao-individualizada-de-autoridades-para-preservar-instituicoes.ghtml",
     "time": "2026-09-02T17:45:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
-    "d": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes Plenário do STF discute a proclamação da tese do julgamento que discute a constitucionalidade da contribuição previdenciária devida pelo empre…",
-    "link": "https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml",
-    "time": "2026-09-02T17:37:00.000Z"
   },
   {
     "cat": "internacional",
@@ -318,22 +334,6 @@
     "d": "Jeep Wrangler Rubicon 2025 Divulgação / Stellantis A Stellantis, dona da marca Jeep, anunciou um recall no Brasil dos modelos Gladiator Rubicon (modelo 2022 a 2025) e Wrangler (anos-modelo 2021 a 2025) por risco de in…",
     "link": "https://g1.globo.com/carros/noticia/2026/09/02/recall-jeep.ghtml",
     "time": "2026-09-02T15:57:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: Cury se isola em 3º lugar e dobra potencial de voto; veja números",
-    "d": "Análise: Cury 'canibalizou' voto alternativo a Lula e Flávio, diz Felipe Nunes Estreante em eleições, o escritor Augusto Cury (Avante) aparece pela primeira vez como terceiro colocado na corrida presidencial, com 10%…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-veja-o-desempenho-de-augusto-cury-por-segmentos-do-eleitorado.ghtml",
-    "time": "2026-09-02T15:53:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Vorcaro prestou depoimento ao gabinete de Mendonça na semana passada sobre supostas ameaças",
-    "d": "Vorcaro depôs ao gabinete de Mendonça sem a presença da PF O gabinete do ministro André Mendonça, do Supremo Tribunal Federal (STF), confirmou nesta quarta-feira (2) que Daniel Vorcaro prestou depoimento em caráter de…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/vorcaro-prestou-depoimento-ao-gabinete-de-mendonca-na-semana-passada-sem-presenca-da-pf.ghtml",
-    "time": "2026-09-02T15:48:14.000Z"
   },
   {
     "cat": "internacional",
