@@ -1,11 +1,51 @@
 [
   {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Tim Cook handed $47m package for new role as executive chair of Apple",
+    "d": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech company Business live – latest updates Tim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a r…",
+    "link": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
+    "time": "2026-09-02T14:46:36.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
+    "d": "Energy secretary Chris Wright denies US seeking to ‘take’ country’s oil, saying deal is ‘transformation’ of relations The US energy secretary, Chris Wright, has denied Washington is seeking to commandeer huge quantiti…",
+    "link": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
+    "time": "2026-09-02T14:44:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Pete Hegseth criticized for body-shaming Canadian cadet program members",
+    "d": "US defense secretary faced backlash for attempting to mock Canada’s armed forces amid trade war A social media post by Pete Hegseth, the US secretary of defense, body-shaming female members of a Canadian youth develop…",
+    "link": "https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post",
+    "time": "2026-09-02T14:44:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Gravidade da crise dificulta pacto no STF",
+    "d": "De acordo com Clarissa Oliveira, em análise para o Live CNN, gravidade das denúncias envolvendo Alexandre de Moraes e Daniel Vorcaro torna improvável um acordo silencioso no Supremo",
+    "link": "https://www.cnnbrasil.com.br/politica/analise-gravidade-da-crise-dificulta-pacto-no-stf/",
+    "time": "2026-09-02T14:34:29.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
     "d": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
     "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T14:34:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dropbox afirma que cerca de 5.000 contas foram acessadas em ataque hacker",
+    "d": "Invasores conseguiram visualizar e baixar conteúdo armazenado na plataforma",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/dropbox-afirma-que-cerca-de-5-000-contas-foram-acessadas-em-ataque-hacker/",
+    "time": "2026-09-02T14:30:31.000Z"
   },
   {
     "cat": "brasil",
@@ -81,14 +121,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: 65% dizem que investigação sobre Lulinha prejudica Lula; 64%, que caso Dark Horse prejudica Flávio Bolsonaro",
-    "d": "Pesquisa Quaest divulgada nesta quarta-feira (2) mostra a opinião de eleitores sobre as investigações do caso Lulinha e das investigações sobre o filme Dark Horse sobre as campanhas de Lula (PT) e Flávio Bolsonaro (PL…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-investigacoes-lulinha-dark-horse.ghtml",
-    "time": "2026-09-02T14:11:41.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "André Mendonça admite encontro com Daniel Vorcaro, após vazamento de áudios: 'Uma única vez'",
     "d": "Segundo ministro do STF, encontro ocorreu a pedido do próprio banqueiro, e ele teria se limitado a ouvi-lo.",
@@ -105,38 +137,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mendonça diz ter se limitado a ouvir Vorcaro em reunião reservada",
-    "d": "Ministro admitiu reunião com ex-banqueiro em 2025, mas disse que apenas ouviu argumentos de Vorcaro a respeito de ação sobre precatórios que estava em julgamento no STF",
-    "link": "https://www.cnnbrasil.com.br/politica/mendonca-diz-ter-se-limitado-a-ouvir-vorcaro-em-reuniao-reservada/",
-    "time": "2026-09-02T14:10:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caminhar por 20 minutos ou tirar uma soneca melhora memória, mostra estudo",
-    "d": "Segundo pesquisadores da Universidade de Pittsburgh, nos Estados Unidos, um dos dois hábitos pode aumentar até 22% da regeneração neural para memórias a longo prazo",
-    "link": "https://www.cnnbrasil.com.br/saude/caminhar-por-20-minutos-ou-tirar-uma-soneca-melhora-memoria-mostra-estudo/",
-    "time": "2026-09-02T14:07:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Nunes Marques manda remover publicações em que Eduardo Bolsonaro contesta segurança de urnas",
-    "d": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kássio Nunes Marques, determinou a remoção de publicações do ex-deputado Eduardo Bolsonaro nas redes sociais em que ele contesta a segurança das urnas brasil…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/nunes-marques-manda-remover-publicacoes-em-que-eduardo-bolsonaro-contesta-seguranca-de-urnas.ghtml",
-    "time": "2026-09-02T14:01:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Planalto nesta quarta",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, vão receber nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto, segundo as agendas oficiais do petista…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
-    "time": "2026-09-02T13:59:24.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Escândalo das mensagens entre Vorcaro e Moraes dá gás às candidaturas de direita ao Senado e desinfla 'pauta positiva de Lula', diz analista",
     "d": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um \"pessimismo\" do eleitor e positivo candidatos da direita ao Senado que defendem impeachment de ministros do…",
@@ -145,27 +145,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 2 de setembro",
-    "d": "Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema 🧶Veja o fio: 1. Nova pesquisa Quaest revela liderança de Lula (37%), estabilidade de Flávio Bolsonaro (30%) e ascensão de Cur…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/fio-do-professor-felipe-nunes-2-de-setembro.ghtml",
-    "time": "2026-09-02T13:51:43.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fachin diz que STF anunciará medidas sobre conversas entre Moraes e Vorcaro 'nos próximos dias'",
     "d": "Em comunicado, presidente do STF afirma ainda que em momentos de especial gravidade 'é dever de todos preservar a integridade' da Corte.",
     "link": "https://www.bbc.com/portuguese/articles/cvgy5jp1y3xo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T13:46:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: Flávio Bolsonaro tem rejeição de 55%, e Lula, de 53%",
-    "d": "Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1% Pesquisa Quaest divulgada nesta quarta-feira (2) mostra os índices de rejeição dos candidatos à Presidência da República.…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/quaest-flavio-bolsonaro-tem-rejeicao-de-55percent-e-lula-de-53percent.ghtml",
-    "time": "2026-09-02T13:37:49.000Z"
   },
   {
     "cat": "internacional",
@@ -184,92 +168,12 @@
     "time": "2026-09-02T13:17:43.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: 48% desaprovam e 45% aprovam governo Lula",
-    "d": "Pesquisa Quaest divulgada nesta quarta-feira (2) mostra a percepção dos eleitores sobre o governo Lula. 48% desaprovam o governo, enquanto 45% aprovam. Veja os números: Aprovação do governo Lula Aprovação do governo L…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-aprovacao-lula-setembro.ghtml",
-    "time": "2026-09-02T13:16:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1%",
-    "d": "Pesquisa Quaest divulgada nesta quarta-feira (2) sobre a eleição presidencial mostra que Lula (PT) lidera com 37%, Flávio Bolsonaro (PL) tem 29% e Augusto Cury (Avante) agora é o terceiro colocado, com 10%. Na sequênc…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-presidente-2-setembro.ghtml",
-    "time": "2026-09-02T13:16:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41%",
-    "d": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE Pesquisa Quaest divulgada nesta quarta-feira (2), encomendada pelo jornal O Globo e pela Globo, mostra cinco simulações de 2º turno. Veja os números da Q…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-2-turno-setembro.ghtml",
-    "time": "2026-09-02T13:16:44.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
     "d": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
     "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T13:16:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Comissão da taxa das blusinhas analisa MP que prevê acabar com o imposto em compras internacionais",
-    "d": "A Comissão Mista para análise da MP do fim da taxa das blusinhas começou a analisar, nesta terça-feira (2), o parecer para acabar com o imposto em compras internacionais de até US$ 50. Depois de chegar perto de caduca…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-taxa-das-blusinhas-comissao-comeca-analise-de-relatorio.ghtml",
-    "time": "2026-09-02T13:10:58.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dropbox afirma que cerca de 5 mil contas foram comprometidas em ataque hacker em agosto",
-    "d": "Nuvens são vistas em frente ao logo do Dropbox nesta ilustração tirada em 27 de fevereiro de 2022 REUTERS/Dado Ruvic/Ilustração/Foto de arquivo ( O Dropbox afirmou nesta terça-feira (1º) que cerca de 5 mil contas fora…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/02/dropbox-afirma-que-cerca-de-5-mil-contas-foram-comprometidas-em-ataque-hacker-de-agosto.ghtml",
-    "time": "2026-09-02T12:51:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Presidente do STF diz que analisará fatos do caso Master e promete anunciar medidas nos próximos dias",
-    "d": "Presidente do STF diz que analisará fatos do caso Master e promete anunciar medidas nos próximos dias O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, afirmou nesta quarta-feira (2), durante um e…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/presidente-do-stf-diz-que-analisara-fatos-do-caso-master-e-promete-anunciar-medidas-nos-proximos-dias.ghtml",
-    "time": "2026-09-02T12:35:58.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "OpenAI diz que seu novo modelo de IA é tão avançado que exigirá mais medidas de segurança",
-    "d": "Como agentes de IA da OpenAI invadiram sistema e tentaram apagar os próprios rastros A OpenAI afirmou que seu próximo modelo de inteligência artificial (IA), chamado Astra, é tão avançado que exigirá medidas adicionai…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/02/openai-diz-que-novo-modelo-de-ia-e-tao-avancado-que-exigira-mais-medidas-de-seguranca.ghtml",
-    "time": "2026-09-02T12:32:25.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Tim Cook handed $47m package for new role as executive chair of Apple",
-    "d": "Pay and shares deal nearly matches $58m award to John Ternus, his successor as CEO at the $4.7tn tech company Business live – latest updates Tim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a r…",
-    "link": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
-    "time": "2026-09-02T12:28:08.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Possível falha nos cintos de segurança provoca recall da RAM 1500 no Brasil",
-    "d": "RAM 1500 Laramie Divulgação / Stellantis A Stellantis, dona da marca RAM e Fiat, anunciou um recall no Brasil para a RAM 1500 por problemas nos cintos de segurança. O g1 já havia adiantado em julho que o mesmo problem…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/02/recall-ram-1500-no-brasil.ghtml",
-    "time": "2026-09-02T12:26:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PF faz operação contra abuso sexual infantojuvenil em todo o país e prende 44 pessoas",
-    "d": "A Polícia Federal deflagrou nesta quarta-feira (2) uma operação contra crimes de abuso sexual de crianças e adolescentes. A ação ocorre em todos estados e no Distrito Federal. Ao todo, foram realizadas 31 prisões em f…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/pf-faz-operacao-contra-abuso-sexual-infantojuvenil-em-todo-o-pais-e-prende-44-pessoas.ghtml",
-    "time": "2026-09-02T12:24:39.000Z"
   },
   {
     "cat": "internacional",
@@ -280,44 +184,12 @@
     "time": "2026-09-02T12:14:31.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Uber anuncia corte de 3,3 mil vagas em reestruturação da empresa",
-    "d": "Logo da Uber é visto nesta ilustração tirada em 5 de agosto de 2025. REUTERS/Dado Ruvic/Ilustração/Foto de arquivo A Uber anunciou nesta quarta-feira (2) que irá cortar cerca de 3,3 mil postos de trabalho, ou aproxima…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/uber-anuncia-corte-de-vagas-em-reestruturacao-da-empresa.ghtml",
-    "time": "2026-09-02T12:13:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça diz que recebeu Vorcaro uma 'única vez' para tratar de ação sobre precatórios",
-    "d": "André Mendonça justifica encontro com Daniel Vorcaro O ministro André Mendonça, do Supremo Tribunal Federal (STF), divulgou uma nota nesta quarta-feira (2) na qual confirma que se reuniu com Daniel Vorcaro, ex-dono do…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/mendonca-diz-que-recebeu-vorcaro-uma-unica-vez-para-tratar-de-acao-sobre-precatorios-no-stf.ghtml",
-    "time": "2026-09-02T12:09:42.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Bus crash on Egypt's Red Sea coast kills 22",
     "d": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
     "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T12:07:32.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "BC diz que endividamento ainda pressiona empresas e famílias e prepara medidas",
-    "d": "O Banco Central (BC) avaliou nesta quarta-feira (2) que, diante da alta taxa de juros no país, o \"endividamento continua pressionando a condição financeira de famílias e empresas\". Atualmente, a taxa básica de juros d…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/02/bc-diz-que-endividamento-ainda-pressiona-empresas-e-familias-e-prepara-medidas.ghtml",
-    "time": "2026-09-02T12:00:25.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar recua com foco na política e em indicadores econômicos; Ibovespa avança",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em leve queda nesta quarta-feira (2). Por volta das 10h40, a moeda norte-americana era negociada a R$ 5,1403, com recuo de 0,30%. No mesmo horário, o Ibov…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/02/dolar-ibovespa.ghtml",
-    "time": "2026-09-02T12:00:15.000Z"
   },
   {
     "cat": "internacional",
@@ -424,14 +296,6 @@
     "time": "2026-09-02T08:54:52.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
-    "d": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes A imprensa internacional repercutiu a notícia sobre as trocas de mensagens entre o banqueiro Daniel Vorcaro, do Banco Master, e um número atribuído ao min…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml",
-    "time": "2026-09-02T08:45:15.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
@@ -488,52 +352,12 @@
     "time": "2026-09-02T04:57:27.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
-    "d": "Como funcionam as principais escalas de trabalho no Brasil? A Comissão de Constituição e Justiça (CCJ) do Senado deve votar nesta quarta-feira (2) a proposta que prevê o fim da escala de trabalho 6x1 (seis dias de tra…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
-    "time": "2026-09-02T03:01:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Fim da escala 6x1: quem apoia, quem é contra e o que ainda pode mudar na proposta",
-    "d": "MP das Blusinhas, fim da escala 6x1 e PEC da Segurança avançam A proposta que acaba com a escala 6x1 será votada nesta quarta-feira (2) na Comissão de Constituição e Justiça (CCJ) do Senado. O texto já foi aprovado pe…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/fim-da-escala-6x1-quem-apoia-quem-e-contra-e-o-que-ainda-pode-mudar-na-proposta.ghtml",
-    "time": "2026-09-02T03:00:52.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Fim da 6x1: CCJ do Senado pode votar nesta quarta proposta que reduz jornada de trabalho",
-    "d": "A Comissão de Constituição e Justiça (CCJ) do Senado pode votar nesta quarta-feira (2) a Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1. O texto prevê a redução da jornada de trabalho d…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-ccj-do-senado-pode-votar-nesta-quarta-proposta-que-reduz-jornada-de-trabalho.ghtml",
-    "time": "2026-09-02T03:00:27.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
     "d": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
     "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T01:59:10.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3052 acumula e prêmio vai a R$ 41 milhões; confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3052 da Mega-Sena foi realizado na noite desta terça-feira (1º), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 34,5 milhões. No entant…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/01/mega-sena-concurso-3052-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-09-02T00:03:10.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que \nplenário do STF analise mensagens entre Moraes e Vorcaro",
-    "d": "Mesmo com o pedido da Procuradoria-Geral da República (PGR) para arquivamento, o relator do caso Master no Supremo Tribunal Federal (STF), ministro André Mendonça, vai insistir que o plenário da corte avalie as inform…",
-    "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml",
-    "time": "2026-09-01T23:11:09.000Z"
   },
   {
     "cat": "economia",
@@ -560,28 +384,12 @@
     "time": "2026-09-01T13:49:33.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Echoes of cold war as US accused of meddling in another Brazilian election",
-    "d": "Claims that Trump and Rubio are trying to influence result have parallels with CIA intervention 64 years ago The year was 1962 and the Kennedy administration was desperate to swing Brazil’s congressional elections aga…",
-    "link": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
-    "time": "2026-09-01T12:00:57.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Summer box office 2026: what can we learn from the hits and misses?",
     "d": "It was a bumper season for Hollywood, almost back to pre-pandemic levels, with Tom Holland blockbusters winning out, but there was still a string of disappointments As the world continued to burn and temperatures reac…",
     "link": "https://www.theguardian.com/film/2026/sep/01/summer-movie-hits-misses",
     "time": "2026-09-01T09:00:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Trump suggests he is reviewing US support for UK over Falkland Islands",
-    "d": "Comments signal president prepared to use dispute to push UK to raise defence spending and Nato contributions Donald Trump has suggested he is reconsidering US support for Britain’s sovereignty over the Falkland Islan…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
-    "time": "2026-09-01T08:31:35.000Z"
   },
   {
     "cat": "economia",
