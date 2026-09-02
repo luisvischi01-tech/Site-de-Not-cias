@@ -1,19 +1,107 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos x Palmeiras: horário e onde assistir às quartas da Copa do Brasil",
+    "d": "Equipes se enfrentam nesta quarta-feira (2), às 21h30, em Santos, litoral paulista",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/santos-x-palmeiras-horario-e-onde-assistir-as-quartas-da-copa-do-brasil/",
+    "time": "2026-09-02T09:05:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Groenlândia diz que diálogo com EUA sobre futuro da ilha continua",
+    "d": "Declarações de Donald Trump sobre compra do território provocaram tensões entre Washington e Copenhague",
+    "link": "https://www.cnnbrasil.com.br/internacional/groenlandia-diz-que-dialogo-com-eua-sobre-futuro-da-ilha-continua/",
+    "time": "2026-09-02T09:05:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vitória x Vasco: horário e onde assistir às quartas da Copa do Brasil",
+    "d": "Equipes se enfrentam nesta quarta-feira (2), às 21h30, em Salvador",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/vitoria-x-vasco-horario-e-onde-assistir-as-quartas-da-copa-do-brasil/",
+    "time": "2026-09-02T09:00:58.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Abemel vê flexibilidade da UE e otimismo para mel brasileiro em decisão",
+    "d": "Embarques de mel para bloco aumentaram no último semestre e manutenção das exportações é vista como vantagem para ampliar diversificação estratégica",
+    "link": "https://www.cnnbrasil.com.br/agro/abemel-ve-flexibilidade-da-ue-e-otimismo-para-mel-brasileiro-em-decisao/",
+    "time": "2026-09-02T09:00:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Senado vota PL dos minerais críticos nesta quarta (2) sob críticas do setor",
+    "d": "Texto cria conselho com novos poderes sobre o setor mineral; mineradoras criticam “insegurança jurídica”, enquanto governo defende controles para agregar valor no país",
+    "link": "https://www.cnnbrasil.com.br/infra/senado-vota-pl-dos-minerais-criticos-nesta-quarta-2-sob-criticas-do-setor/",
+    "time": "2026-09-02T09:00:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "De Conceição Evaristo a Lynn Painter: veja os destaques da Bienal do Livro",
+    "d": "Autores vão subir à Arena Cultural, palco mais badalado do evento, entre os dias 4 e 13 de setembro",
+    "link": "https://www.cnnbrasil.com.br/pop/de-conceicao-evaristo-a-lynn-painter-veja-os-destaques-da-bienal-do-livro/",
+    "time": "2026-09-02T09:00:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Audi RS e-tron GT Performance surpreende com launch control de 925 cv",
+    "d": "Cupê elétrico passa por atualização no conjunto motriz, bateria e chassi e está disponível sob encomenda por R$ 1,3 milhão",
+    "link": "https://www.cnnbrasil.com.br/auto/audi-rs-e-tron-gt-performance-surpreende-com-launch-control-de-925-cv/",
+    "time": "2026-09-02T09:00:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mortos no Nepal passam de 1.100 após inundação e deslizamento",
+    "d": "Mais de 3.900 pessoas continuam desaparecidas no país, segundo autoridades",
+    "link": "https://www.cnnbrasil.com.br/internacional/mortos-no-nepal-passam-de-1-100-apos-inundacao-e-deslizamento/",
+    "time": "2026-09-02T08:55:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Ensaios da Anitta”: venda geral começa nesta quarta; veja quais cidades",
+    "d": "Turnê de carnaval passará por oito cidades em 2027",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/ensaios-da-anitta-venda-geral-comeca-nesta-quarta-veja-quais-cidades/",
+    "time": "2026-09-02T08:55:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Carro atinge ato pró-governo no Irã e deixa quatro mortos",
+    "d": "Veículo trafegava em alta velocidade quando primeiro colidiu com outro carro, perdeu o controle e avançou contra a multidão",
+    "link": "https://www.cnnbrasil.com.br/internacional/carro-atinge-ato-pro-governo-no-ira-e-deixa-quatro-mortos/",
+    "time": "2026-09-02T08:45:36.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
-    "d": "Alexandre de Moraes (à esquerda), ministro do Supremo Tribunal, e Daniel Vorcaro, ex-presidente do Banco Master. Getty Images/Banco Master via BBC A imprensa internacional repercutiu a notícia sobre as trocas de mensa…",
+    "d": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes A imprensa internacional repercutiu a notícia sobre as trocas de mensagens entre o banqueiro Daniel Vorcaro, do Banco Master, e um número atribuído ao min…",
     "link": "https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml",
     "time": "2026-09-02T08:45:15.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "ONU prevê aquecimento superior a 1,5°C e riscos maiores no agro",
-    "d": "Para o setor agropecuário, o avanço de cada fração de grau representa aumento dos riscos associados a eventos climáticos extremos, perda de produtividade e maior pressão sobre recursos naturais",
-    "link": "https://www.cnnbrasil.com.br/agro/onu-preve-aquecimento-superior-a-15c-e-riscos-maiores-no-agro/",
-    "time": "2026-09-02T08:30:15.000Z"
+    "h": "Petroleiros atingem minas e ficam paralisados em Ormuz, diz Guarda",
+    "d": "A Guarda Revolucionária do Irã afirmou que a Marinha havia alertado anteriormente sobre os riscos de atravessar a área minada",
+    "link": "https://www.cnnbrasil.com.br/internacional/petroleiros-atingem-minas-e-ficam-paralisados-em-ormuz-diz-guarda/",
+    "time": "2026-09-02T08:38:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alexsander, do Atlético-MG, provoca Kaio Jorge em vídeo após clássico",
+    "d": "Volante do Galo filma e ofende atacante do Cruzeiro após vitória na Copa do Brasil",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/alexsander-do-atletico-mg-provoca-kaio-jorge-em-video-apos-classico/",
+    "time": "2026-09-02T08:35:58.000Z"
   },
   {
     "cat": "internacional",
@@ -33,62 +121,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entorno de Lula reconhece dificuldade de o presidente se descolar de Moraes",
-    "d": "Oposição deve explorar proximidade entre Lula e Alexandre de Moraes após revelações do relatório da PF",
-    "link": "https://www.cnnbrasil.com.br/politica/entorno-de-lula-reconhece-dificuldade-de-o-presidente-se-descolar-de-moraes/",
-    "time": "2026-09-02T08:05:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "OpenAI afirma que nova IA será tão poderosa que precisa de mais segurança",
-    "d": "Modelo consegue identificar vulnerabilidades desconhecidas em sistemas bem protegidos sem orientação humana",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/openai-afirma-que-nova-ia-sera-tao-poderosa-que-precisa-de-mais-seguranca/",
-    "time": "2026-09-02T08:00:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Para se classificar contra o Palmeiras, Santos terá que quebrar tabu",
-    "d": "Clube da Baixada Santista perdeu o jogo de ida por 3 a 0 e precisa quebrar marca para avançar à semifinal da Copa do Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/para-se-classificar-contra-o-palmeiras-santos-tera-que-quebrar-tabu/",
-    "time": "2026-09-02T08:00:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo deve pedir urgência em relatório de missão da UE sobre carnes",
-    "d": "Diplomacia brasileira espera resultado mais rápido para dar previsibilidade às empresas diante das cotas que serão definidas para 2027",
-    "link": "https://www.cnnbrasil.com.br/agro/governo-quer-urgencia-em-relatorio-de-missao-da-ue-sobre-carnes/",
-    "time": "2026-09-02T08:00:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caiado abre hoje série de entrevistas da CNN Brasil com presidenciáveis",
-    "d": "Sabatina vai ao ar nesta quarta-feira (2), às 21h, ao vivo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-abre-hoje-serie-de-entrevistas-da-cnn-brasil-com-presidenciaveis/",
-    "time": "2026-09-02T08:00:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como fazer networking no maior evento de investimentos do Brasil",
-    "d": "Inter Invest Summit 2026 reúne investidores, especialistas e empreendedores em um dia inteiro de palestras, conversas e oportunidades na Arena MRV",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/como-fazer-networking-no-maior-evento-de-investimentos-do-brasil/",
-    "time": "2026-09-02T08:00:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Festival de Veneza começa nesta quarta (2); conheça os filmes, júri e mais",
-    "d": "Único representante do Brasil na competição é \"Retorno a Buenos Aires\", uma coprodução brasileira e italiana",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/festival-de-veneza-comeca-nesta-quarta-2-conheca-os-filmes-juri-e-mais/",
-    "time": "2026-09-02T07:55:54.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1",
     "d": "Críticos dizem que proposta seria 'PEC da Escravidão', enquanto defensores exaltam liberdade para trabalhador definir sua jornada.",
@@ -104,44 +136,12 @@
     "time": "2026-09-02T07:48:39.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dia Nacional da Kombi 2026: carro segue ícone pop mesmo fora de linha",
-    "d": "De veículo de trabalho a símbolo cultural, Kombi ajudou a transformar a mobilidade no Brasil e ganhou uma sucessora elétrica",
-    "link": "https://www.cnnbrasil.com.br/auto/dia-nacional-da-kombi-2026-carro-segue-icone-pop-mesmo-fora-de-linha/",
-    "time": "2026-09-02T07:30:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Redação do Enem: veja como estruturar um bom texto passo a passo",
-    "d": "Da leitura do tema à proposta de intervenção, especialista detalha as etapas do texto e os erros que mais custam pontos na correção",
-    "link": "https://www.cnnbrasil.com.br/educacao/redacao-do-enem-veja-como-estruturar-um-bom-texto-passo-a-passo/",
-    "time": "2026-09-02T07:30:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Goiatuba x São José-RS: horário e onde assistir aos playoffs da Série D",
-    "d": "Equipes disputam o acesso para a Série C do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/goiatuba-x-sao-jose-rs-horario-e-onde-assistir-aos-playoffs-da-serie-d/",
-    "time": "2026-09-02T07:30:02.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Why US troops have a history in this raucous Thai city",
     "d": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
     "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T07:18:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Impeachment? Para aliados, Alcolumbre vai deixar caso Moraes com o STF",
-    "d": "Aliados do presidente do Senado indicam que ele não pretende dar andamento a pedidos de impeachment contra Alexandre de Moraes; a apuração é da analista de Política da CNN Jussara Soares",
-    "link": "https://www.cnnbrasil.com.br/politica/impeachment-para-aliados-alcolumbre-vai-deixar-caso-moraes-com-o-stf/",
-    "time": "2026-09-02T07:14:24.000Z"
   },
   {
     "cat": "brasil",
