@@ -1,11 +1,99 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "ONU prevê aquecimento superior a 1,5°C e riscos maiores no agro",
+    "d": "Para o setor agropecuário, o avanço de cada fração de grau representa aumento dos riscos associados a eventos climáticos extremos, perda de produtividade e maior pressão sobre recursos naturais",
+    "link": "https://www.cnnbrasil.com.br/agro/onu-preve-aquecimento-superior-a-15c-e-riscos-maiores-no-agro/",
+    "time": "2026-09-02T08:30:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Bus crash on Egypt's Red Sea coast kills 16",
+    "d": "Another 28 people are injured in the accident in the South Sinai governorate, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T08:24:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
+    "d": "Imprensa internacional repercute notícia sobre trocas de mensagens entre banqueiro do Banco Master e número atribuído a ministro do STF.",
+    "link": "https://www.bbc.com/portuguese/articles/cd79eygy3zjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T08:16:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entorno de Lula reconhece dificuldade de o presidente se descolar de Moraes",
+    "d": "Oposição deve explorar proximidade entre Lula e Alexandre de Moraes após revelações do relatório da PF",
+    "link": "https://www.cnnbrasil.com.br/politica/entorno-de-lula-reconhece-dificuldade-de-o-presidente-se-descolar-de-moraes/",
+    "time": "2026-09-02T08:05:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "OpenAI afirma que nova IA será tão poderosa que precisa de mais segurança",
+    "d": "Modelo consegue identificar vulnerabilidades desconhecidas em sistemas bem protegidos sem orientação humana",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/openai-afirma-que-nova-ia-sera-tao-poderosa-que-precisa-de-mais-seguranca/",
+    "time": "2026-09-02T08:00:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Para se classificar contra o Palmeiras, Santos terá que quebrar tabu",
+    "d": "Clube da Baixada Santista perdeu o jogo de ida por 3 a 0 e precisa quebrar marca para avançar à semifinal da Copa do Brasil",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/para-se-classificar-contra-o-palmeiras-santos-tera-que-quebrar-tabu/",
+    "time": "2026-09-02T08:00:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Governo deve pedir urgência em relatório de missão da UE sobre carnes",
+    "d": "Diplomacia brasileira espera resultado mais rápido para dar previsibilidade às empresas diante das cotas que serão definidas para 2027",
+    "link": "https://www.cnnbrasil.com.br/agro/governo-quer-urgencia-em-relatorio-de-missao-da-ue-sobre-carnes/",
+    "time": "2026-09-02T08:00:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caiado abre hoje série de entrevistas da CNN Brasil com presidenciáveis",
+    "d": "Sabatina vai ao ar nesta quarta-feira (2), às 21h, ao vivo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-abre-hoje-serie-de-entrevistas-da-cnn-brasil-com-presidenciaveis/",
+    "time": "2026-09-02T08:00:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como fazer networking no maior evento de investimentos do Brasil",
+    "d": "Inter Invest Summit 2026 reúne investidores, especialistas e empreendedores em um dia inteiro de palestras, conversas e oportunidades na Arena MRV",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/como-fazer-networking-no-maior-evento-de-investimentos-do-brasil/",
+    "time": "2026-09-02T08:00:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Festival de Veneza começa nesta quarta (2); conheça os filmes, júri e mais",
+    "d": "Único representante do Brasil na competição é \"Retorno a Buenos Aires\", uma coprodução brasileira e italiana",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/festival-de-veneza-comeca-nesta-quarta-2-conheca-os-filmes-juri-e-mais/",
+    "time": "2026-09-02T07:55:54.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1",
     "d": "Críticos dizem que proposta seria 'PEC da Escravidão', enquanto defensores exaltam liberdade para trabalhador definir sua jornada.",
     "link": "https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T07:52:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Guinea-Bissau referendum approves new constitution that expands president's powers",
+    "d": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
+    "link": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T07:48:39.000Z"
   },
   {
     "cat": "brasil",
@@ -35,7 +123,7 @@
     "cat": "internacional",
     "src": "BBC News",
     "h": "Why do US troops have history with this Thai city?",
-    "d": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, known for its raucous nightlife.",
+    "d": "The BBC's Jonathan Head reports from Pattaya, a beach resort home to neon-lit nightlife and racy bars.",
     "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T07:18:39.000Z"
   },
@@ -49,91 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Escalação do Santos: Cuca deve colocar força máxima para encarar Palmeiras",
-    "d": "Em busca da semifinal, Peixe encara Verdão na Vila Belmiro em duelo de vida ou morte",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/escalacao-do-santos-cuca-deve-colocar-forca-maxima-para-encarar-palmeiras/",
-    "time": "2026-09-02T07:10:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Escalação do Palmeiras: Abel Ferreira tem dúvidas na defesa e no ataque",
-    "d": "Verdão tem vantagem de 3 a 0 na ida e pode perder por até dois gols de diferença para avançar à semifinal",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/escalacao-do-palmeiras-abel-ferreira-tem-duvidas-na-defesa-e-no-ataque/",
-    "time": "2026-09-02T07:05:31.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Atraso nas importações de ureia preocupa para próxima safrinha de milho",
-    "d": "Compras estão 25% abaixo de 2025 e recuperação no 2º semestre pode ser insuficiente",
-    "link": "https://www.cnnbrasil.com.br/noticias/atraso-nas-importacoes-de-ureia-preocupa-para-proxima-safrinha-de-milho/",
-    "time": "2026-09-02T07:05:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Divulgação de mensagens de Vorcaro a Moraes aprofunda crise no STF",
-    "d": "Relatório da PF expôs suposta relação entre banqueiro e ministro, provocou conversa ríspida na Corte e deve levar ao plenário discussão sobre os novos elementos",
-    "link": "https://www.cnnbrasil.com.br/noticias/divulgacao-de-mensagens-de-vorcaro-a-moraes-aprofunda-crise-no-stf/",
-    "time": "2026-09-02T07:05:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin decidirá quando plenário do STF julgará relatório sobre Moraes",
-    "d": "Presidente da corte pode arquivar o caso ou levá-lo ao plenário para análise, mesmo com pedido de nulidade da PGR",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-decidira-quando-plenario-do-stf-julgara-relatorio-sobre-moraes/",
-    "time": "2026-09-02T07:05:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TSE decide que só IA com elevado nível de realidade é irregular; entenda",
-    "d": "Corte decidiu que nem todo conteúdo feito com inteligência artificial configura deepfake e que a proibição só vale quando a peça é propaganda eleitoral",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-decide-que-so-ia-com-elevado-nivel-de-realidade-e-irregular-entenda/",
-    "time": "2026-09-02T07:03:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Congresso discute escala 6×1, PEC da Segurança e taxa das blusinhas hoje",
-    "d": "Taxa das blusinhas deve ser votada nas duas Casas nesta quarta; expectativa do governo é conseguir aprovar o fim da 6x1 no plenário nesta quarta",
-    "link": "https://www.cnnbrasil.com.br/politica/congresso-discute-escala-6x1-pec-da-seguranca-e-taxa-das-blusinhas-hoje/",
-    "time": "2026-09-02T07:01:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Bus crash on Egypt's Red Sea coast kills 16",
-    "d": "Another 28 people are injured in the accident in the South Sinai governorate, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T07:01:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo aposta em histórico contra Mirassol para se aproximar do Palmeiras",
-    "d": "Equipes se enfrentam na noite desta quarta-feira (2)",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-aposta-em-historico-contra-mirassol-para-se-aproximar-do-palmeiras/",
-    "time": "2026-09-02T07:00:49.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Candidatura de Aécio Neves faz rearranjo na disputa pelo Senado em Minas Gerais",
     "d": "Montagem mostra os candidatos ao Senado por Minas Marília Campos, Aécio Neves, Carlos Viana e Domingos Sávio Luci Sallum; Leonardo Milagres/g1; Carlos Moura/Agência Senado; Pablo Valadares/Câmara dos Deputados A entra…",
     "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/02/candidatura-de-aecio-neves-faz-rearranjo-na-disputa-pelo-senado-em-minas-gerais.ghtml",
     "time": "2026-09-02T07:00:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-    "d": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
-    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T06:26:35.000Z"
   },
   {
     "cat": "internacional",
@@ -518,14 +526,6 @@
     "d": "Three projected victories are a message to US that Carney has support of the Canadian people, says one MP Canada’s ruling Liberal party has swept three byelections, a result that showed voters backing the prime minist…",
     "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
     "time": "2026-09-01T07:42:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista",
-    "d": "Pablo Ortellado comenta as chances de Cury no 1º turno, explica como ele pode influenciar um eventual 2º turno e analisa o que pode ter levado ao crescimento repentino do candidato.",
-    "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-31T21:23:44.000Z"
   },
   {
     "cat": "economia",
