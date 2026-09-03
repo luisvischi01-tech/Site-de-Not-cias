@@ -1,11 +1,123 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Câmara aprova fim da taxa das blusinhas; MP segue para o Senado",
+    "d": "Depois de um acordo com o presidente Lula (PT), a Câmara dos Deputados aprovou nesta quinta-feira (3) o fim da taxa das blusinhas. A medida provisória (MP) sobre o tema segue agora para análise do plenário do Senado.…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/03/camara-aprova-fim-da-taxa-das-blusinhas-mp-segue-para-o-senado.ghtml",
+    "time": "2026-09-03T18:59:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Filme brasileiro entra em lista de melhores do ano de portal internacional",
+    "d": "Sob direção de Gabriel Mascaro, obra é descrita como \"irônica e espirituosa\"",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/filme-brasileiro-entra-em-lista-de-melhores-do-ano-de-portal-internacional/",
+    "time": "2026-09-03T18:54:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "STF reconduz Zanin para segundo biênio como ministro substituto no TSE",
+    "d": "Resultado foi proclamado pelo presidente do STF, Edson Fachin, durante sessão do plenário nesta quinta-feira (3)",
+    "link": "https://www.cnnbrasil.com.br/politica/stf-reconduz-zanin-para-segundo-bienio-como-ministro-substituto-no-tse/",
+    "time": "2026-09-03T18:50:54.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Ouro sobe quase 3% após fala de diretor do Fed derrubar dólar e juros",
+    "d": "Na Comex, metal para dezembro encerrou em alta de 2,84%, a US$ 4.539,9 por onça-troy",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-sobe-quase-3-apos-fala-de-diretor-do-fed-derrubar-dolar-e-juros/",
+    "time": "2026-09-03T18:50:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Impugnações de Arruda, Cunha e Garotinho testam novas regras da Ficha Limpa enquanto STF analisa validade das mudanças",
+    "d": "José Roberto Arruda (PSD)cumpre agenda de campanha no sábado (28). TV Globo/reprodução As impugnações apresentadas contra as candidaturas de José Roberto Arruda (PSD), Eduardo Cunha (Republicanos) e Anthony Garotinho…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/lei-ficha-limpa-inelegibilidade-eleicoes-2026.ghtml",
+    "time": "2026-09-03T18:50:19.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Ministro cobra UE e diz que Brasil está “indignado” com veto à carne",
+    "d": "André de Paula afirma que não há justificativa para o Brasil ficar fora da lista de exportadores; missão técnica da União Europeia encerra visita ao país nesta sexta-feira (4)",
+    "link": "https://www.cnnbrasil.com.br/agro/ministro-cobra-ue-e-diz-que-brasil-esta-indignado-com-veto-a-carne/",
+    "time": "2026-09-03T18:47:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PL cria “imposto da inovação” e obriga investimento de mineradoras em P&D",
+    "d": "Empresas de minerais críticos terão de destinar até 0,5% da receita para pesquisa, inovação e fundo garantidor; descumprimento pode gerar multa de 150%",
+    "link": "https://www.cnnbrasil.com.br/infra/pl-cria-imposto-da-inovacao-e-obriga-investimento-de-mineradoras-em-pd/",
+    "time": "2026-09-03T18:45:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Autoridades americanas ainda consideram Anthropic um risco",
+    "d": "Desenvolvedora obteve vitória judicial contra o Departamento de Defesa após tentativas de configurá-la como ameaça nacional",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/autoridades-americanas-ainda-consideram-anthropic-um-risco/",
+    "time": "2026-09-03T18:45:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quando Luana Piovani e Scooby terminaram? Relembre motivo do término",
+    "d": "Casal voltou a trocar farpas nas redes sociais após capítulo envolvendo piolho e machucado nos filhos em retorno para Portugal",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/quando-luana-piovani-e-scooby-terminaram-relembre-motivo-do-termino/",
+    "time": "2026-09-03T18:45:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Suspeito de usar IA para manipular imagens de abuso infantil é preso no RS",
+    "d": "Conforme a polícia, mais de 1 terabyte de material digital com conteúdo de abuso sexual infantojuvenil foi localizado; essa foi a primeira prisão no estado por essa conduta",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/suspeito-de-usar-ia-para-manipular-imagens-de-abuso-infantil-e-preso-no-rs/",
+    "time": "2026-09-03T18:44:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas: Zucco tem 48,5% para governo do RS no 2º turno; Juliana, 43,9%",
+    "d": "Pesquisa entrevistou 1.783 pessoas, entre os dias 27 de agosto e 1 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-zucco-tem-485-para-governo-do-rs-no-2o-turno-juliana-439/",
+    "time": "2026-09-03T18:30:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Andrew Garfield diz não ter visto “Homem-Aranha 4” e nega retorno à Marvel",
+    "d": "Ator reviveu papel como super-herói pela última vez em \"Homem-Aranha: Sem Volta Para Casa\"",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/andrew-garfield-diz-nao-ter-visto-homem-aranha-4-e-nega-retorno-a-marvel/",
+    "time": "2026-09-03T18:30:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O som do Egito Antigo: a história das trombetas de Tutancâmon que voltaram a tocar após 3 mil anos",
+    "d": "Encontrados na tumba do rei egípcio, artefatos de metal voltaram a ser tocados em transmissão de rádio de 1939",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/o-som-do-egito-antigo-a-historia-das-trombetas-de-tutancamon-que-voltaram-a-tocar-apos-3-mil-anos/",
+    "time": "2026-09-03T18:30:17.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
-    "h": "Banco Central altera regras PIX",
-    "d": "",
+    "h": "PIX: BC altera regras para ampliar proteção contra fraudes; usuário poderá anexar documentos para facilitar identificação de crimes",
+    "d": "O Banco Central divulgou nesta quinta-feira (3) uma atualização nas diretrizes do PIX voltada a reforçar a segurança do sistema e aprimorar a experiência de quem é vítima de golpes. Entre as principais novidades, os a…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/03/banco-central-altera-regras-pix.ghtml",
     "time": "2026-09-03T18:28:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Discord terá 10 dias para apresentar mudanças para proteger usuários",
+    "d": "Plataforma deve propor medidas de proteção a mulheres, crianças e adolescentes na internet após ação da AGU",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/discord-tera-10-dias-para-apresentar-mudancas-para-proteger-usuarios/",
+    "time": "2026-09-03T18:28:30.000Z"
   },
   {
     "cat": "economia",
@@ -32,108 +144,12 @@
     "time": "2026-09-03T18:04:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Snowflake eleva receita a US$ 1,55 bilhões no 2° tri com demanda por IA",
-    "d": "Empresa adicionou 692 novos clientes líquidos durante o último trimestre, um aumento de 32% em relação ao ano anterior",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/snowflake-eleva-receita-a-us-155-bilhoes-no-2-tri-com-demanda-por-ia/",
-    "time": "2026-09-03T18:04:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que EUA buscarão reembolso da Europa por ajuda militar à Ucrânia",
-    "d": "Presidente americano negou escassez de munições e afirmou que os estoques devem ser mantidos para uso próprio antes de serem vendidos para aliados",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-buscarao-reembolso-da-europa-por-ajuda-militar-a-ucrania/",
-    "time": "2026-09-03T18:03:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Ministros deixam crise no STF em modo de espera",
-    "d": "Segundo Clarissa Oliveira, a Corte decidiu aguardar a poeira baixar antes de se posicionar sobre relatório da PF envolvendo Alexandre de Moraes",
-    "link": "https://www.cnnbrasil.com.br/politica/analise-ministros-deixam-crise-no-stf-em-modo-de-espera/",
-    "time": "2026-09-03T18:01:38.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
-    "h": "OpenAI lança primeiro modelo de IA após ataque 'sem precedentes' por seus sistemas",
-    "d": "GPT-6 Astra, modelo de inteligência artificial da OpenAI Divulgação/OpenAI A OpenAI, dona do ChatGPT, anunciou nesta quinta-feira (3) o GPT-6 Astra, um modelo de inteligência artificial que promete mais cautela para c…",
+    "h": "OpenAI lança modelo de IA com 'desligamento automático' após ataque por seus próprios sistemas",
+    "d": "GPT-6 Astra, modelo de inteligência artificial da OpenAI Divulgação/OpenAI A OpenAI, dona do ChatGPT, anunciou nesta quinta-feira (3) o GPT-6 Astra, modelo de inteligência artificial que promete mais cautela para cump…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml",
     "time": "2026-09-03T18:00:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlas: no RS, Flávio tem vantagem contra Lula no 1º e 2º turno",
-    "d": "Foram ouvidas 1.783 pessoas entre os dias 27 de agosto e 1º de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-no-rs-flavio-tem-vantagem-contra-lula-no-1o-e-2o-turno/",
-    "time": "2026-09-03T18:00:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "OpenAI anuncia GPT-6 Astra, seu modelo de IA mais inteligente até agora",
-    "d": "Ferramenta se destaca em tarefas de programação, ciência e uso do computador",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/openai-anuncia-gpt-6-astra-seu-modelo-de-ia-mais-inteligente-ate-agora/",
-    "time": "2026-09-03T18:00:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Déficit comercial dos EUA avança 24,4% em julho, queda de US$ 88,6 bilhões",
-    "d": "Resultado ficou abaixo do esperado por analistas, que previam alta maior do déficit, a US$ 90,2 bilhões",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/deficit-comercial-dos-eua-avanca-244-em-julho-queda-de-us-886-bilhoes/",
-    "time": "2026-09-03T17:58:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Santos avança em contratação de meia do Fluminense",
-    "d": "Jogador de 30 anos defende o América-MEX por empréstimo; lesões de Neymar e Barreal motivam acerto",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/santos-avanca-em-contratacao-de-meia-do-fluminense/",
-    "time": "2026-09-03T17:55:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "BNDES eleva a R$ 200 mil teto do Move Motorista",
-    "d": "Novas medidas visam impulsionar o programa, que até o momento teve baixa adesão",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bndes-eleva-a-r-200-mil-teto-do-move-motorista/",
-    "time": "2026-09-03T17:54:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Investimentos de pessoa física crescem 6,4% no 1º semestre, a R$ 9,141 tri",
-    "d": "Destaque ficou com o segmento de varejo alta renda, que avançou 7,8%, para R$ 3,372 trilhões",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/investimentos-de-pessoa-fisica-crescem-64-no-1o-semestre-a-r-9141-tri/",
-    "time": "2026-09-03T17:51:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia",
-    "d": "Por sua vez, a ID Logistics chega a um total de três centros de distribuição fulfillment dedicados à Amazon no Brasil",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/amazon-abre-1-centro-de-distribuicao-no-pr-para-entregas-no-mesmo-dia/",
-    "time": "2026-09-03T17:48:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jogador da NBA fecha contrato de R$ 1 bilhão com o Houston Rockets",
-    "d": "Amen Thompson terá contrato de cinco anos e seguirá como parte do jovem núcleo de Houston",
-    "link": "https://www.cnnbrasil.com.br/esportes/basquete/jogador-da-nba-fecha-contrato-de-r-1-bilhao-com-o-houston-rockets/",
-    "time": "2026-09-03T17:47:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O segredo sob o Everest: como o choque de continentes há 88 milhões de anos ergueu o Himalaia",
-    "d": "Entenda a dinâmica das placas tectônicas que deu origem ao Himalaia e mantém a cadeia montanhosa em constante movimento geológico",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/o-segredo-sob-o-everest-como-o-choque-de-continentes-ha-88-milhoes-de-anos-ergueu-o-himalaia/",
-    "time": "2026-09-03T17:45:43.000Z"
   },
   {
     "cat": "brasil",
@@ -150,6 +166,14 @@
     "d": "Áudios revelam contatos de Nikolas Ferreira com Daniel Vorcaro O deputado federal Nikolas Ferreira (PL-MG) enviou mensagens a Daniel Vorcaro para que ele ajudasse seu advogado e ex-assessor Thiago Rodrigues de Faria n…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/03/nikolas-ferreira-confirma-pedido-a-daniel-vorcaro-em-favor-de-ex-assessor-e-diz-que-nao-houve-irregularidade.ghtml",
     "time": "2026-09-03T17:27:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Thieves steal more than 70,000 pints’ worth of Guinness from depot in Cheshire",
+    "d": "Police say two lorries were driven into industrial estate in Runcorn and attached to trailers holding about 800 barrels The famous tagline “Guinness is good for you” applies only when the drink is bought and paid for,…",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/03/thieves-steal-guinness-depot-cheshire-runcorn",
+    "time": "2026-09-03T17:18:45.000Z"
   },
   {
     "cat": "economia",
@@ -328,14 +352,6 @@
     "time": "2026-09-03T12:32:51.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Investigação de um lado, 'acordões' nos bastidores: Master alimenta acusações cruzadas em Brasília",
-    "d": "Fachada do Banco Master na Faria Lima e Daniel Vorcaro Amanda Perobelli/Reuters; Reprodução O leitor do blog sabe faz tempo: autoridades e políticos de Brasília preocupados com os efeitos do caso Master só pensam naqu…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/caso-master-bastidores-brasilia.ghtml",
-    "time": "2026-09-03T12:05:20.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
@@ -505,14 +521,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça vs. Moraes: as reações do Supremo ao Caso Master - O Assunto #1797",
-    "d": "Nesta quarta-feira (2), a Corte se reuniu em plenário um dia depois que o ministro do Supremo André Mendonça derrubou o sigilo sobre a investigação da Polícia Federal que revela mensagens enviadas por Daniel Vorcaro,…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/03/mendonca-vs-moraes-as-reacoes-do-supremo-ao-caso-master-o-assunto-1797.ghtml",
-    "time": "2026-09-03T03:30:15.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fim da escala 6x1 é aprovado em comissão e avança no Senado",
     "d": "CCJ aprova projeto que já passou pela Câmara e agora segue para votação no plenário em dois turnos, cuja data ainda não foi definida. Proposta é uma das vitrines da campanha de Lula à reeleição.",
@@ -638,14 +646,6 @@
     "d": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew…",
     "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
     "time": "2026-08-31T13:44:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
-    "d": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key roles Having reportedly read Victor Hugo’s Les Misérables,…",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
-    "time": "2026-08-31T10:00:23.000Z"
   },
   {
     "cat": "economia",
