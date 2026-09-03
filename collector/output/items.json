@@ -1,5 +1,77 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+    "d": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
+    "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T09:30:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sánchez diz não haver provas de que Marrocos abriu fronteira em Ceuta",
+    "d": "Relatório policial afirma que entrada em massa em Ceuta não foi um episódio espontâneo de migração, mas uma operação planejada",
+    "link": "https://www.cnnbrasil.com.br/internacional/sanchez-diz-nao-haver-provas-de-que-marrocos-abriu-fronteira-em-ceuta/",
+    "time": "2026-09-03T09:20:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'",
+    "d": "Ursos-negros adoram relaxar na piscina de Brian Gordon e Ricardo Martínez, em Los Angeles. À medida que aumentam encontros, o casal compartilha vídeos de seus visitantes peludos e revela como convive com eles.",
+    "link": "https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T09:11:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Luisa Stefani na estreia do US Open: horário e onde assistir ao jogo",
+    "d": "Brasileira irá em busca do título nas duplas do Grand Slam de Nova York lado da canadense Gabriela Dabrowski",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-na-estreia-do-us-open-horario-e-onde-assistir-ao-jogo/",
+    "time": "2026-09-03T09:05:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Escalação do Inter: provável time para GreNal decisivo pela Copa do Brasil",
+    "d": "Paulo Pezzolano prepara o Colorado para clássico com o Grêmio nesta quinta-feira (3)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/escalacao-do-inter-provavel-time-para-grenal-decisivo-pela-copa-do-brasil/",
+    "time": "2026-09-03T09:00:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Escalação do Grêmio: provável time para GreNal decisivo pela Copa do Brasil",
+    "d": "Luís Castro prepara o Tricolor Gaúcho para clássico com o Internacional nesta quinta-feira (3)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/escalacao-do-gremio-provavel-time-para-grenal-decisivo-pela-copa-do-brasil/",
+    "time": "2026-09-03T09:00:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bienal do Livro 2026: como chegar ao evento de metrô, ônibus ou carro",
+    "d": "Evento vai disponibilizar transporte circular gratuíto com ida e volta do Distrito Anhembi",
+    "link": "https://www.cnnbrasil.com.br/pop/bienal-do-livro-2026-como-chegar-ao-evento-de-metro-onibus-ou-carro/",
+    "time": "2026-09-03T09:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Sociedad x Celta de Vigo: horário e onde assistir ao jogo de LaLiga",
+    "d": "Clubes se enfrentam pela quarta-feira rodada do Campeonato Espanhol nesta quinta-feira (3)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-sociedad-x-celta-de-vigo-horario-e-onde-assistir-ao-jogo-de-laliga/",
+    "time": "2026-09-03T09:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Ensaios da Anitta”: Curitiba, São Paulo e Belo Horizonte abrem venda geral",
+    "d": "Turnê de carnaval passará por oito cidades em 2027",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/ensaios-da-anitta-curitiba-sao-paulo-e-belo-horizonte-abrem-venda-geral/",
+    "time": "2026-09-03T08:55:00.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "STJ nega pedido para Alexandre Nardoni e Anna Jatobá serem presos novamente",
@@ -26,8 +98,8 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Terremoto de magnitude 5 atinge o Tibete, diz centro de pesquisa",
-    "d": "Informações são do Centro Alemão de Pesquisa em Geociências",
+    "h": "Terremoto de magnitude 5 atinge o Tibete, dizem centros de pesquisa",
+    "d": "Serviços geológicos dos Estados Unidos e Alemanha identificaram temor próximo à fronteira com a Índia",
     "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-5-atinge-o-tibete-diz-centro-de-pesquisa/",
     "time": "2026-09-03T08:36:06.000Z"
   },
@@ -46,62 +118,6 @@
     "d": "Sorteio desta quinta-feira (3) será realizado às 21h; apostas podem ser feitas até 20h",
     "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-41-milhoes-na-poupanca-tesouro-direto-ou-cdb-3/",
     "time": "2026-09-03T08:05:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "70% dos brasileiros creem ser possível alfabetizar todas as crianças",
-    "d": "Mas apenas um quarto da população considera que as crianças estejam aprendendo a ler e escrever no ritmo esperado",
-    "link": "https://www.cnnbrasil.com.br/educacao/70-brasileiros-creem-ser-possivel-alfabetizar-todas-as-criancas-do-pais/",
-    "time": "2026-09-03T08:02:01.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "53% dos brasileiros querem salários maiores para professores, diz pesquisa",
-    "d": "Enquanto remuneração é prioridade para entrevistados, formação dos docentes é a quarto tema mais importante nas discussões sobre educação de hoje",
-    "link": "https://www.cnnbrasil.com.br/educacao/53-dos-brasileiros-querem-salarios-maiores-para-professores-diz-pesquisa/",
-    "time": "2026-09-03T08:01:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Como comprar ingressos para o Inter Invest Summit 2026",
-    "d": "Evento tem um dia completo de conteúdo, networking e oportunidades de investimento, com grandes nomes do mercado financeiro",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/como-comprar-ingressos-para-o-inter-invest-summit-2026/",
-    "time": "2026-09-03T08:00:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidenciáveis: Renan Santos é o entrevistado de hoje na CNN Brasil",
-    "d": "Sabatina vai ao ar nesta quinta-feira (3), às 21h, ao vivo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/presidenciaveis-renan-santos-e-o-entrevistado-de-hoje-na-cnn-brasil/",
-    "time": "2026-09-03T08:00:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Metade dos universitários brasileiros não se sente pronta para lidar com IA",
-    "d": "Pesquisa mostra que apenas 52% dos universitários acreditam estar bem preparados para um mercado baseado em inteligência artificial",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/metade-dos-universitarios-brasileiros-nao-se-sente-pronta-para-lidar-com-ia/",
-    "time": "2026-09-03T08:00:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena 3053: sorteio desta quinta (3) pode pagar R$ 41 milhões",
-    "d": "Para concorrer, apostadores devem registrar seus jogos até às 20h",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3053/",
-    "time": "2026-09-03T08:00:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "33% consideram educação como um desafio para jovens no Brasil, diz Ipsos",
-    "d": "Desigualdade e saúde mental também são outros obstáculos mencionados",
-    "link": "https://www.cnnbrasil.com.br/educacao/s33-considera-educacao-como-um-desafio-para-jovens-no-brasil-diz-ipsos/",
-    "time": "2026-09-03T08:00:03.000Z"
   },
   {
     "cat": "brasil",
@@ -306,10 +322,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Why Nepal floods should worry India",
-    "d": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T00:58:44.000Z"
+    "h": "Sydney police investigate second possible mistaken identity killing in two days",
+    "d": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T00:40:29.000Z"
   },
   {
     "cat": "brasil",
@@ -330,10 +346,18 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-    "d": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-    "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T23:56:29.000Z"
+    "h": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+    "d": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T23:53:28.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
+    "d": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-02T23:47:02.000Z"
   },
   {
     "cat": "brasil",
@@ -377,14 +401,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Protests in Spain against government's handling of Ceuta migrant crisis",
-    "d": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T21:34:27.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
     "d": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Don…",
@@ -406,14 +422,6 @@
     "d": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
     "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T19:39:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post",
-    "d": "The US Defence Secretary is facing criticism for his apparent online mocking of members of Canada's cadet programme.",
-    "link": "https://www.bbc.co.uk/news/articles/clyk32nr1emo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T19:20:50.000Z"
   },
   {
     "cat": "internacional",
@@ -510,14 +518,6 @@
     "d": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024 The powerful Teamsters union is backing Republican candidates in the 2026 election cycle even…",
     "link": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
     "time": "2026-09-02T11:00:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O ataque na Times Square que matou a vice-presidente do Bank of America",
-    "d": "Erin Piacenti foi esfaqueada e não resistiu aos ferimentos. Outra vítima, um homem de 68 anos, está internado. Já a suspeita do crime morreu ao ser baleada pela polícia.",
-    "link": "https://www.bbc.com/portuguese/articles/cdj4yz1x1wgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T10:53:22.000Z"
   },
   {
     "cat": "brasil",
