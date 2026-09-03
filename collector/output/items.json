@@ -1,9 +1,97 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos avança em contratação de meia do Fluminense",
+    "d": "Jogador de 30 anos defende o América-MEX por empréstimo; lesões de Neymar e Barreal motivam acerto",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/santos-avanca-em-contratacao-de-meia-do-fluminense/",
+    "time": "2026-09-03T17:55:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "BNDES eleva a R$ 200 mil teto do Move Motorista",
+    "d": "Novas medidas visam impulsionar o programa, que até o momento teve baixa adesão",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bndes-eleva-a-r-200-mil-teto-do-move-motorista/",
+    "time": "2026-09-03T17:54:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Investimentos de pessoa física crescem 6,4% no 1º semestre, a R$ 9,141 tri",
+    "d": "Destaque ficou com o segmento de varejo alta renda, que avançou 7,8%, para R$ 3,372 trilhões",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/investimentos-de-pessoa-fisica-crescem-64-no-1o-semestre-a-r-9141-tri/",
+    "time": "2026-09-03T17:51:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia",
+    "d": "Por sua vez, a ID Logistics chega a um total de três centros de distribuição fulfillment dedicados à Amazon no Brasil",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/amazon-abre-1-centro-de-distribuicao-no-pr-para-entregas-no-mesmo-dia/",
+    "time": "2026-09-03T17:48:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jogador da NBA fecha contrato de R$ 1 bilhão com o Houston Rockets",
+    "d": "Amen Thompson terá contrato de cinco anos e seguirá como parte do jovem núcleo de Houston",
+    "link": "https://www.cnnbrasil.com.br/esportes/basquete/jogador-da-nba-fecha-contrato-de-r-1-bilhao-com-o-houston-rockets/",
+    "time": "2026-09-03T17:47:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
+    "d": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, wi…",
+    "link": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
+    "time": "2026-09-03T17:46:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O segredo sob o Everest: como o choque de continentes há 88 milhões de anos ergueu o Himalaia",
+    "d": "Entenda a dinâmica das placas tectônicas que deu origem ao Himalaia e mantém a cadeia montanhosa em constante movimento geológico",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/o-segredo-sob-o-everest-como-o-choque-de-continentes-ha-88-milhoes-de-anos-ergueu-o-himalaia/",
+    "time": "2026-09-03T17:45:43.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Europa fecham em alta com alívio em juros globais; Lisboa cai",
+    "d": "FTSE 100 fechou em alta de 0,70%, enquanto PSI 20 caiu 0,04%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-em-alta-com-alivio-em-juros-globais-lisboa-cai/",
+    "time": "2026-09-03T17:44:18.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Melões e melancias lideram alta de 20,4% das exportações de frutas",
+    "d": "Europa concentrou cerca de 85% das exportações conteinerizadas e se consolida como principal destino das frutas brasileiras",
+    "link": "https://www.cnnbrasil.com.br/agro/meloes-e-melancias-lideram-alta-de-204-das-exportacoes-de-frutas/",
+    "time": "2026-09-03T17:41:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres",
+    "d": "Uma das principais líderes na defesa dos direitos das mulheres nos Estados Unidos morreu aos 92 anos.",
+    "link": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T17:30:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Neymar “dá spoiler” e revela nome da 3ª filha com Bruna Biancardi",
+    "d": "Atleta do Santos publicou uma imagem feita pela família e acabou entregando o nome escolhido para a bebê",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/neymar-da-spoiler-e-revela-nome-da-3a-filha-com-bruna-biancardi/",
+    "time": "2026-09-03T17:27:08.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
-    "h": "Nikolas Ferreira confirma pedido a Daniel Vorcaro em favor de ex-assessor e diz que não houve irregularidade",
-    "d": "Áudios revelam contatos de Nikolas Ferreira com Daniel Vorcaro O deputado federal Nikolas Ferreira (PL-MG) confirmou à GloboNews ter enviado uma mensagem ao banqueiro Daniel Vorcaro, ex-controlador do Banco Master, pa…",
+    "h": "Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor",
+    "d": "Áudios revelam contatos de Nikolas Ferreira com Daniel Vorcaro O deputado federal Nikolas Ferreira (PL-MG) enviou uma mensagem ao Daniel Vorcaro para que ele ajudasse seu advogado e ex-assessor Thiago Rodrigues de Far…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/03/nikolas-ferreira-confirma-pedido-a-daniel-vorcaro-em-favor-de-ex-assessor-e-diz-que-nao-houve-irregularidade.ghtml",
     "time": "2026-09-03T17:27:04.000Z"
   },
@@ -32,60 +120,12 @@
     "time": "2026-09-03T17:20:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nomes mais bonitos de todos: veja o ranking científico para meninos e meninas",
-    "d": "Estudo conduzido por linguista da Universidade de Birmingham analisa a sonoridade e as reações emocionais por trás dos nomes masculinos e femininos mais populares",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/nomes-mais-bonitos-de-todos-veja-o-ranking-cientifico-para-meninos-e-meninas/",
-    "time": "2026-09-03T17:20:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Sempre minoritário”: João Moreira Salles cogita investir no Botafogo",
-    "d": "Empresário, que já financiou CT do clube, e irmão Walter Salles consideram aportes focados na base e gestão competente.",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/sempre-minoritario-joao-moreira-salles-cogita-investir-no-botafogo/",
-    "time": "2026-09-03T17:15:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em meio a rumores de mudança, Shawn Mendes é flagrado sozinho no Rio",
-    "d": "Cantor revelou que está produzindo um novo álbum solo em estúdio brasileiro",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/em-meio-a-rumores-de-mudanca-shawn-mendes-e-flagrado-sozinho-no-rio/",
-    "time": "2026-09-03T17:14:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Luisa Stefani disputará WTA Finals e mira título inédito",
-    "d": "Ao lado da canadense Gabriela Dabrowski, a dupla Brasil/Canadá fará sua estreia junta após uma temporada vitoriosa",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-disputara-wta-finals-e-mira-titulo-inedito/",
-    "time": "2026-09-03T17:11:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Marinho rebate Lula sobre fim da 6×1: “Ladrão da esperança”",
-    "d": "Proposta já foi aprovada pela CCJ do Senado; análise no plenário da Casa Alta deve ficar para outubro",
-    "link": "https://www.cnnbrasil.com.br/politica/marinho-rebate-lula-sobre-fim-da-6x1-ladrao-da-esperanca/",
-    "time": "2026-09-03T17:02:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mato Grosso busca novos destinos para carne após embargo da União Europeia",
-    "d": "Estado terá de acelerar abertura de novos destinos para evitar perda de valor e dar vazão à produção",
-    "link": "https://www.cnnbrasil.com.br/agro/mato-grosso-busca-novos-destinos-para-carne-apos-embargo-da-uniao-europeia/",
-    "time": "2026-09-03T17:01:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tarcísio chama casos de corrupção na Fazenda de “fatos isolados”",
-    "d": "Governador diz que não tolerará desvios; operação nesta quinta-feira (3) prendeu ex-dirigente da administração tributária paulista",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tarcisio-chama-casos-de-corrupcao-na-fazenda-de-fatos-isolados/",
-    "time": "2026-09-03T17:00:11.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+    "d": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠ope…",
+    "link": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+    "time": "2026-09-03T16:59:56.000Z"
   },
   {
     "cat": "brasil",
@@ -97,35 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Verão de 2026 foi o mais quente registrado na França, dizem meteorologistas",
-    "d": "Quase metade do país enfrentou temperaturas superiores a 40 °C, segundo ministra; país também sofreu com incêndios florestais e seca",
-    "link": "https://www.cnnbrasil.com.br/internacional/verao-de-2026-foi-o-mais-quente-registrado-na-franca-dizem-meteorologistas/",
-    "time": "2026-09-03T16:57:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O que é feromônio? Odor usado como atração por homens gera riscos à saúde",
-    "d": "Falta de banho associada a \"pheromone-maxxing\", tendência usada pela geração Z, pode causar irritação, infecções e piora em dermatites da pele",
-    "link": "https://www.cnnbrasil.com.br/saude/o-que-e-feromonio-odor-usado-como-atracao-por-homens-gera-riscos-a-saude/",
-    "time": "2026-09-03T16:57:11.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta ordem democrática'",
     "d": "O candidato à Presidência da República, Ronaldo Caiado (PSD), defendeu nesta quinta-feira (3), em entrevista ao jornal \"O Estado de S. Paulo\", que o ministro Alexandre de Moraes deixe o Supremo Tribunal Federal (STF)…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/caiado-defende-renuncia-de-alexandre-de-moraes-para-evitar-insurgencias-contra-o-stf-coloca-em-risco-esta-ordem-democratica.ghtml",
     "time": "2026-09-03T16:54:57.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Bond market turmoil eases, as Bank of England chief economist argues for interest rate rise – as it happened",
-    "d": "Rolling coverage of the latet economic and financial news Other European government borrowing costs are dipping this morning too. The yield on 10-year German bunds is down 1.5bps to 3.36%, while French 10-year bond yi…",
-    "link": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
-    "time": "2026-09-03T16:21:16.000Z"
   },
   {
     "cat": "economia",
@@ -182,14 +198,6 @@
     "d": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
     "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T15:05:57.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "CBS brings back Norah O’Donnell to co-anchor morning show amid ratings challenges",
-    "d": "O’Donnell, who co-hosted show from 2012 to 2019, was recently named correspondent for revamped 60 Minutes CBS is bringing back journalist Norah O’Donnell to co-anchor the channel’s morning show, a role she previously…",
-    "link": "https://www.theguardian.com/media/2026/sep/03/cbs-norah-odonnell-morning-show",
-    "time": "2026-09-03T14:57:09.000Z"
   },
   {
     "cat": "internacional",
@@ -342,14 +350,6 @@
     "d": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
     "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T11:35:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Caso Vorcaro-Moraes pode alimentar onda antipolítica e favorecer Cury e Renan Santos nas eleições 2026, diz cientista política",
-    "d": "Graziela Testa também acredita que episódio tem potencial para dominar o debate público nas próximas semanas, reduzindo temporariamente a atenção dedicada a outros temas políticos e escândalos.",
-    "link": "https://www.bbc.com/portuguese/articles/cn5d2grd55zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T11:33:34.000Z"
   },
   {
     "cat": "internacional",
