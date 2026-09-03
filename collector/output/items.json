@@ -1,27 +1,147 @@
 [
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Espanha resgata dezenas de migrantes nas Ilhas Canárias",
-    "d": "Grupo composto por uma mulher e 44 homens foi transferido para o porto de Arguineguin",
-    "link": "https://www.cnnbrasil.com.br/internacional/espanha-resgata-dezenas-de-migrantes-nas-ilhas-canarias/",
-    "time": "2026-09-03T09:50:06.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump $1 coin makes him first living president on US currency in a century",
+    "d": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T10:25:43.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Feminist activist and journalist Gloria Steinem dies at 92",
+    "d": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T10:24:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+    "d": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T10:19:03.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Sabalenka se irrita com pergunta sobre festas antes do US Open: “Uma piada”",
-    "d": "Tenista bielorrussa critica questionamento de repórter após vitória e nega que vida social afete desempenho em quadra",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/sabalenka-se-irrita-com-pergunta-sobre-festas-antes-do-us-open-uma-piada/",
-    "time": "2026-09-03T09:47:52.000Z"
+    "h": "MP mira advogado e ex-dirigente da Fazenda por esquema de propina em SP",
+    "d": "Operação combate grupo suspeito de cobrar propina para interferir em procedimentos de créditos tributários na Secretaria da Fazenda e Planejamento do Estado de São Paulo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mp-mira-advogado-e-ex-dirigente-da-fazenda-por-esquema-de-propina-em-sp/",
+    "time": "2026-09-03T10:18:08.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Ataques russos danificam prédio de 21 andares no sul da Ucrânia",
-    "d": "Ao menos 17 pessoas ficaram feridas, segundo oficial",
-    "link": "https://www.cnnbrasil.com.br/internacional/ataques-russos-danificam-predio-de-21-andares-na-ucrania/",
-    "time": "2026-09-03T09:42:18.000Z"
+    "h": "Real Time Big Data: Marília Arraes lidera disputa ao Senado em Pernambuco",
+    "d": "Foram ouvidos 1.600 eleitores, entre os dias 29 de agosto e 2 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-marilia-arraes-lidera-disputa-ao-senado-em-pernambuco/",
+    "time": "2026-09-03T10:18:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Morre Gloria Steinem, escritora e ativista feminista americana",
+    "d": "",
+    "link": "https://www.cnnbrasil.com.br/noticias/morre-gloria-steinem-escritora-e-ativista-feminista-americana/",
+    "time": "2026-09-03T10:16:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alcaraz critica calendário do tênis e planeja pausas maiores na carreira",
+    "d": "Tenista espanhol voltou de lesão e afirma ser impossível disputar grandes torneios sem sofrer com o desgaste físico",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-critica-calendario-do-tenis-e-planeja-pausas-maiores-na-carreira/",
+    "time": "2026-09-03T10:16:06.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Victims sue South African government over 1961 Sharpeville massacre that left 91 dead",
+    "d": "Claim relating to infamous apartheid-era shooting of protesters part of wave of litigation for apartheid-era crimes The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville g…",
+    "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
+    "time": "2026-09-03T10:11:37.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Ásia fecham sem direção única; Nikkei cai com valorização do iene",
+    "d": "Ações chinesas registraram leve alta após PMI de serviços avançar em agosto",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-sem-direcao-unica-nikkei-cai-com-valorizacao-do-iene/",
+    "time": "2026-09-03T10:05:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas: Ricardo Couto é aprovado por 57% no RJ; 24% desaprovam",
+    "d": "Pesquisa entrevistou 1.784 pessoas entre os dias 26 e 31 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-ricardo-couto-e-aprovado-por-57-no-rj-24-desaprovam/",
+    "time": "2026-09-03T10:05:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas RJ: Lula empata com Flávio e Caiado e vence Zema e Renan no 2º turno",
+    "d": "Pesquisa entrevistou 1.784 pessoas, entre os dias 26 e 31 de agosto; margem de erro é de 2 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-rj-lula-empata-com-flavio-e-caiado-e-vence-zema-e-renan-no-2o-turno/",
+    "time": "2026-09-03T10:05:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Big Data: Raquel é rejeitada por 41% em PE; João Campos, por 36%",
+    "d": "Pesquisa ouviu 1.600 eleitores pernambucanos entre 29 de agosto e 2 de setembro; margem de erro é de dois pontos percentuais para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-raquel-e-rejeitada-por-41-em-pe-joao-campos-por-36/",
+    "time": "2026-09-03T10:04:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Big Data: Flávio é rejeitado por 52% em PE; Lula e Marçal por 32%",
+    "d": "Pesquisa ouviu 1.600 eleitores pernambucanos entre 29 de agosto e 2 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-e-rejeitado-por-52-em-pe-lula-e-marcal-por-32/",
+    "time": "2026-09-03T10:04:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time MT: Mauro Mendes e Janaina Riva lideram corrida ao Senado",
+    "d": "Pesquisa ouviu 1.600 pessoas entre os dias 29 de agosto e 2 de setembro; a margem de erro é de dois pontos percentuais para mais ou menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-mt-mauro-mendes-e-janaina-riva-lideram-corrida-ao-senado/",
+    "time": "2026-09-03T10:04:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas em SP: Caiado tem 45,4% no 2º turno no estado; Lula, 41,1%",
+    "d": "Instituto entrevistou 1.810 pessoas, entre os dias 26 e 31 de agosto; margem de erro é de um ponto percentual, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-em-sp-caiado-tem-454-no-2o-turno-no-estado-lula-411/",
+    "time": "2026-09-03T10:04:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Big Data/PE: 60% aprovam governo de Raquel Lyra; 38% desaprovam",
+    "d": "Ao mesmo tempo, 35% avaliam o mandato como “ótimo ou bom” e 20% como “ruim ou péssimo”",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-pe-60-aprovam-governo-de-raquel-lyra-38-desaprovam/",
+    "time": "2026-09-03T10:04:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Watch: US man struck by lightning describes 'horrific' experience",
+    "d": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
+    "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T10:01:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "The US and Venezuela: a century-old relationship drenched in oil",
+    "d": "A visual look at how Washington’s relationship with Caracas has gone from cordial to ‘predatory’ Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism Written in the middle of the last century, the…",
+    "link": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
+    "time": "2026-09-03T10:00:50.000Z"
   },
   {
     "cat": "internacional",
@@ -30,14 +150,6 @@
     "d": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
     "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T09:37:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Putin diz que Rússia mantém contatos com governo Trump e busca aproximação",
-    "d": "Vladmir Putin disse acreditar que seu homólogo americano, Donald Trump, está disposto a trabalhar de forma “positiva e construtiva”.",
-    "link": "https://www.cnnbrasil.com.br/internacional/putin-diz-que-russia-mantem-contatos-com-governo-trump-e-busca-aproximacao/",
-    "time": "2026-09-03T09:35:21.000Z"
   },
   {
     "cat": "internacional",
@@ -49,75 +161,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sánchez diz não haver provas de que Marrocos abriu fronteira em Ceuta",
-    "d": "Relatório policial afirma que entrada em massa em Ceuta não foi um episódio espontâneo de migração, mas uma operação planejada",
-    "link": "https://www.cnnbrasil.com.br/internacional/sanchez-diz-nao-haver-provas-de-que-marrocos-abriu-fronteira-em-ceuta/",
-    "time": "2026-09-03T09:20:14.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'",
     "d": "Ursos-negros adoram relaxar na piscina de Brian Gordon e Ricardo Martínez, em Los Angeles. À medida que aumentam encontros, o casal compartilha vídeos de seus visitantes peludos e revela como convive com eles.",
     "link": "https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T09:11:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Luisa Stefani na estreia do US Open: horário e onde assistir ao jogo",
-    "d": "Brasileira irá em busca do título nas duplas do Grand Slam de Nova York lado da canadense Gabriela Dabrowski",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-na-estreia-do-us-open-horario-e-onde-assistir-ao-jogo/",
-    "time": "2026-09-03T09:05:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Escalação do Inter: provável time para GreNal decisivo pela Copa do Brasil",
-    "d": "Paulo Pezzolano prepara o Colorado para clássico com o Grêmio nesta quinta-feira (3)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/escalacao-do-inter-provavel-time-para-grenal-decisivo-pela-copa-do-brasil/",
-    "time": "2026-09-03T09:00:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Escalação do Grêmio: provável time para GreNal decisivo pela Copa do Brasil",
-    "d": "Luís Castro prepara o Tricolor Gaúcho para clássico com o Internacional nesta quinta-feira (3)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/escalacao-do-gremio-provavel-time-para-grenal-decisivo-pela-copa-do-brasil/",
-    "time": "2026-09-03T09:00:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bienal do Livro 2026: como chegar ao evento de metrô, ônibus ou carro",
-    "d": "Evento vai disponibilizar transporte circular gratuíto com ida e volta do Distrito Anhembi",
-    "link": "https://www.cnnbrasil.com.br/pop/bienal-do-livro-2026-como-chegar-ao-evento-de-metro-onibus-ou-carro/",
-    "time": "2026-09-03T09:00:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Real Sociedad x Celta de Vigo: horário e onde assistir ao jogo de LaLiga",
-    "d": "Clubes se enfrentam pela quarta-feira rodada do Campeonato Espanhol nesta quinta-feira (3)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-sociedad-x-celta-de-vigo-horario-e-onde-assistir-ao-jogo-de-laliga/",
-    "time": "2026-09-03T09:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Ensaios da Anitta”: Curitiba, São Paulo e Belo Horizonte abrem venda geral",
-    "d": "Turnê de carnaval passará por oito cidades em 2027",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/ensaios-da-anitta-curitiba-sao-paulo-e-belo-horizonte-abrem-venda-geral/",
-    "time": "2026-09-03T08:55:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "STJ nega pedido para Alexandre Nardoni e Anna Jatobá serem presos novamente",
-    "d": "Julgamento de condenados pela morte de Isabella Nardoni foi definido por unanimidade no final da noite desta quarta-feira (2); recurso questionava cumprimento de regras do regime aberto",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/stj-nega-pedido-para-alexandre-nardoni-e-anna-jatoba-serem-presos-novamente/",
-    "time": "2026-09-03T08:50:01.000Z"
   },
   {
     "cat": "brasil",
@@ -146,14 +194,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "LA Clippers fined $30m over Leonard pay scandal",
-    "d": "The LA Clippers are fined $30m by the NBA for violating salary rules in order to funnel millions of dollars to star player Kawhi Leonard.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T06:17:37.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "UN warns of 'supersized' El Niño as countries prepare for impact",
     "d": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
     "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
@@ -176,28 +216,12 @@
     "time": "2026-09-03T05:00:04.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump $1 coin makes him first living president on US currency in a century",
-    "d": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T03:39:53.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Mendonça vs. Moraes: as reações do Supremo ao Caso Master - O Assunto #1797",
     "d": "Nesta quarta-feira (2), a Corte se reuniu em plenário um dia depois que o ministro do Supremo André Mendonça derrubou o sigilo sobre a investigação da Polícia Federal que revela mensagens enviadas por Daniel Vorcaro,…",
     "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/03/mendonca-vs-moraes-as-reacoes-do-supremo-ao-caso-master-o-assunto-1797.ghtml",
     "time": "2026-09-03T03:30:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-    "d": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-    "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T03:21:24.000Z"
   },
   {
     "cat": "brasil",
@@ -350,14 +374,6 @@
     "d": "Zohran Mamdani, prefeito de Nova York, ao lado de Kathy Hochul, governadora de Nova York, em foto de 1º de setembro de 2026 Reuters/Heather Khalifa O prefeito de Nova York, Zohran Mandani, anunciou nesta quarta-feira…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/02/nova-york-suspensao-inteligencia-artificial-escolas-publicas.ghtml",
     "time": "2026-09-03T00:23:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-    "d": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-02T23:53:28.000Z"
   },
   {
     "cat": "internacional",
@@ -568,14 +584,6 @@
     "time": "2026-09-01T19:17:49.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
-    "d": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults US politics live – latest updates Mark Carney has rebuked Donald Trump’s administration and urged officia…",
-    "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-    "time": "2026-09-01T15:48:27.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Summer box office 2026: what can we learn from the hits and misses?",
@@ -622,14 +630,6 @@
     "d": "Director Mark Mori followed coffee chain workers’ struggle to unionize: ‘These young kids are so inspirational’ As the food service industry was pushed on to the frontlines of the Covid-19 pandemic in 2021, workers at…",
     "link": "https://www.theguardian.com/business/2026/aug/31/starbucks-documentary-baristas-billionaires",
     "time": "2026-08-31T11:00:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Morocco not to blame for Ceuta border breach, says Spanish PM",
-    "d": "Pedro Sánchez says two countries cooperating and accuses Israel and Russia of spreading fake news about migration Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government…",
-    "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
-    "time": "2026-08-31T10:21:56.000Z"
   },
   {
     "cat": "economia",
