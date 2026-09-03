@@ -1,5 +1,93 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Banco Central altera regras PIX",
+    "d": "",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/03/banco-central-altera-regras-pix.ghtml",
+    "time": "2026-09-03T18:28:43.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Novo leilão da Receita tem PS5 por R$ 577 e Honda Civic por R$ 3,2 mil; veja como participar",
+    "d": "Superintendência da Receita Federal, em Brasília. Marcelo Camargo/Agência Brasil A Receita Federal em São Paulo realizará, em 15 de setembro, mais um leilão regional de mercadorias apreendidas ou abandonadas. Os lotes…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/03/novo-leilao-da-receita-tem-ps5-por-r-577-e-honda-civic-por-r-32-mil-veja-como-participar.ghtml",
+    "time": "2026-09-03T18:20:45.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
+    "d": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, wi…",
+    "link": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
+    "time": "2026-09-03T18:20:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+    "d": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-03T18:04:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Snowflake eleva receita a US$ 1,55 bilhões no 2° tri com demanda por IA",
+    "d": "Empresa adicionou 692 novos clientes líquidos durante o último trimestre, um aumento de 32% em relação ao ano anterior",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/snowflake-eleva-receita-a-us-155-bilhoes-no-2-tri-com-demanda-por-ia/",
+    "time": "2026-09-03T18:04:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump diz que EUA buscarão reembolso da Europa por ajuda militar à Ucrânia",
+    "d": "Presidente americano negou escassez de munições e afirmou que os estoques devem ser mantidos para uso próprio antes de serem vendidos para aliados",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-buscarao-reembolso-da-europa-por-ajuda-militar-a-ucrania/",
+    "time": "2026-09-03T18:03:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Ministros deixam crise no STF em modo de espera",
+    "d": "Segundo Clarissa Oliveira, a Corte decidiu aguardar a poeira baixar antes de se posicionar sobre relatório da PF envolvendo Alexandre de Moraes",
+    "link": "https://www.cnnbrasil.com.br/politica/analise-ministros-deixam-crise-no-stf-em-modo-de-espera/",
+    "time": "2026-09-03T18:01:38.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "OpenAI lança primeiro modelo de IA após ataque 'sem precedentes' por seus sistemas",
+    "d": "GPT-6 Astra, modelo de inteligência artificial da OpenAI Divulgação/OpenAI A OpenAI, dona do ChatGPT, anunciou nesta quinta-feira (3) o GPT-6 Astra, um modelo de inteligência artificial que promete mais cautela para c…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml",
+    "time": "2026-09-03T18:00:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas: no RS, Flávio tem vantagem contra Lula no 1º e 2º turno",
+    "d": "Foram ouvidas 1.783 pessoas entre os dias 27 de agosto e 1º de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-no-rs-flavio-tem-vantagem-contra-lula-no-1o-e-2o-turno/",
+    "time": "2026-09-03T18:00:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "OpenAI anuncia GPT-6 Astra, seu modelo de IA mais inteligente até agora",
+    "d": "Ferramenta se destaca em tarefas de programação, ciência e uso do computador",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/openai-anuncia-gpt-6-astra-seu-modelo-de-ia-mais-inteligente-ate-agora/",
+    "time": "2026-09-03T18:00:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Déficit comercial dos EUA avança 24,4% em julho, queda de US$ 88,6 bilhões",
+    "d": "Resultado ficou abaixo do esperado por analistas, que previam alta maior do déficit, a US$ 90,2 bilhões",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/deficit-comercial-dos-eua-avanca-244-em-julho-queda-de-us-886-bilhoes/",
+    "time": "2026-09-03T17:58:47.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Santos avança em contratação de meia do Fluminense",
@@ -40,36 +128,12 @@
     "time": "2026-09-03T17:47:11.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
-    "d": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, wi…",
-    "link": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
-    "time": "2026-09-03T17:46:30.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "O segredo sob o Everest: como o choque de continentes há 88 milhões de anos ergueu o Himalaia",
     "d": "Entenda a dinâmica das placas tectônicas que deu origem ao Himalaia e mantém a cadeia montanhosa em constante movimento geológico",
     "link": "https://www.cnnbrasil.com.br/curiosidades/o-segredo-sob-o-everest-como-o-choque-de-continentes-ha-88-milhoes-de-anos-ergueu-o-himalaia/",
     "time": "2026-09-03T17:45:43.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Bolsas da Europa fecham em alta com alívio em juros globais; Lisboa cai",
-    "d": "FTSE 100 fechou em alta de 0,70%, enquanto PSI 20 caiu 0,04%",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-em-alta-com-alivio-em-juros-globais-lisboa-cai/",
-    "time": "2026-09-03T17:44:18.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Melões e melancias lideram alta de 20,4% das exportações de frutas",
-    "d": "Europa concentrou cerca de 85% das exportações conteinerizadas e se consolida como principal destino das frutas brasileiras",
-    "link": "https://www.cnnbrasil.com.br/agro/meloes-e-melancias-lideram-alta-de-204-das-exportacoes-de-frutas/",
-    "time": "2026-09-03T17:41:57.000Z"
   },
   {
     "cat": "brasil",
@@ -81,43 +145,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Neymar “dá spoiler” e revela nome da 3ª filha com Bruna Biancardi",
-    "d": "Atleta do Santos publicou uma imagem feita pela família e acabou entregando o nome escolhido para a bebê",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/neymar-da-spoiler-e-revela-nome-da-3a-filha-com-bruna-biancardi/",
-    "time": "2026-09-03T17:27:08.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor",
-    "d": "Áudios revelam contatos de Nikolas Ferreira com Daniel Vorcaro O deputado federal Nikolas Ferreira (PL-MG) enviou uma mensagem ao Daniel Vorcaro para que ele ajudasse seu advogado e ex-assessor Thiago Rodrigues de Far…",
+    "d": "Áudios revelam contatos de Nikolas Ferreira com Daniel Vorcaro O deputado federal Nikolas Ferreira (PL-MG) enviou mensagens a Daniel Vorcaro para que ele ajudasse seu advogado e ex-assessor Thiago Rodrigues de Faria n…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/03/nikolas-ferreira-confirma-pedido-a-daniel-vorcaro-em-favor-de-ex-assessor-e-diz-que-nao-houve-irregularidade.ghtml",
     "time": "2026-09-03T17:27:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gabriel Martinelli é anunciado como novo reforço do Al-Hilal",
-    "d": "Atacante brasileiro assinou contrato com o clube árabe até 2030",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/gabriel-martinelli-e-anunciado-como-novo-reforco-do-al-hilal/",
-    "time": "2026-09-03T17:24:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Músicas de Dolly Parton aumentam mais de 1.100% nos streams após morte",
-    "d": "Clássicos da cantora ficaram em destaque nas paradas; ela nunca havia sido tão pesquisada na história",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/musicas-de-dolly-parton-aumentam-mais-de-1-100-nos-streams-apos-morte/",
-    "time": "2026-09-03T17:21:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Puma Rodríguez é maior defensor estrangeiro artilheiro do Vasco",
-    "d": "Uruguaio vive grande fase no Cruzmaltino e lidera participações em gol na temporada",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/puma-rodriguez-e-maior-defensor-estrangeiro-artilheiro-do-vasco/",
-    "time": "2026-09-03T17:20:34.000Z"
   },
   {
     "cat": "economia",
@@ -238,14 +270,6 @@
     "d": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
     "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T13:54:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-    "d": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T13:52:18.000Z"
   },
   {
     "cat": "brasil",
@@ -486,30 +510,6 @@
     "d": "Nesta quarta-feira (2), a Corte se reuniu em plenário um dia depois que o ministro do Supremo André Mendonça derrubou o sigilo sobre a investigação da Polícia Federal que revela mensagens enviadas por Daniel Vorcaro,…",
     "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/03/mendonca-vs-moraes-as-reacoes-do-supremo-ao-caso-master-o-assunto-1797.ghtml",
     "time": "2026-09-03T03:30:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena pode pagar R$ 41 milhões nesta quinta-feira; g1 transmite ao vivo",
-    "d": "Como funciona a Mega-Sena? O concurso 3.053 da Mega-Sena pode pagar um prêmio de R$ 26 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (3), em São Paulo. 📱Favorit…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/03/mega-sena-pode-pagar-r-41-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-    "time": "2026-09-03T03:01:55.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Saque-aniversário FGTS setembro: veja calendário e quem pode sacar",
-    "d": "Mais de 11 milhões de trabalhadores estão sem FGTS. Reprodução/Jornal Nacional O saque-aniversário do FGTS de setembro de 2026 já está disponível para os trabalhadores que nasceram neste mês e aderiram à modalidade. O…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/03/saque-aniversario-fgts-setembro-calendario-e-quem-pode-sacar.ghtml",
-    "time": "2026-09-03T03:01:46.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Quinto dia útil de setembro de 2026: veja a data do pagamento",
-    "d": "Carteira de trabalho Geraldo Bubniak/AEN Para quem trabalha com carteira assinada, o quinto dia útil de setembro de 2026 cai no sábado, dia 5. A data é o prazo máximo para o pagamento do salário referente ao mês anter…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/03/quinto-dia-util-de-setembro-2026-veja-a-data-do-pagamento.ghtml",
-    "time": "2026-09-03T03:01:07.000Z"
   },
   {
     "cat": "brasil",
