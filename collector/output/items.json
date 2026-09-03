@@ -1,107 +1,123 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Wall Street se recupera, mas mercado segue em alerta sobre venda de títulos",
+    "d": "Dow Jones subiu 0,56%, S&P 500 avançou 0,46% e Nasdaq Composite teve alta de 0,45%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-se-recupera-mas-mercado-segue-em-alerta-sobre-venda-de-titulos/",
+    "time": "2026-09-02T23:47:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula recua em uma série de indicadores, diz diretor da Quaest",
+    "d": "Guilherme Russo aponta tendência negativa de Lula em aprovação e intenção de voto; Augusto Cury sobe de 2% para 10% nas pesquisas",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-recua-em-uma-serie-de-indicadores-diz-diretor-da-quaest/",
+    "time": "2026-09-02T23:44:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bicicleta quebra durante entrega de delivery e trabalhador recebe surpresa emocionante que muda sua rotina",
+    "d": "Após atraso, entregador recebeu presente de influenciador e vídeo viralizou nas redes sociais",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/bicicleta-quebra-durante-entrega-de-delivery-e-trabalhador-recebe-surpresa-emocionante-que-muda-sua-rotina/",
+    "time": "2026-09-02T23:44:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos x Palmeiras: escalações e onde assistir ao jogo da Copa do Brasil",
+    "d": "Equipes vão a campo nesta quarta-feira (2), na Vila Belmiro, em busca de uma vaga nas semifinais da competição de mata-mata",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/santos-x-palmeiras-escalacoes-e-onde-assistir-ao-jogo-da-copa-do-brasil/",
+    "time": "2026-09-02T23:41:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com escolta dos EUA, Ormuz tem fluxo recorde de petróleo em meio a ataques",
+    "d": "Forças americanas repeliram drones e neutralizaram mísseis iranianos; 40 embarcações com 18 milhões de barris passaram pelo estreito, disseram fontes à CNN",
+    "link": "https://www.cnnbrasil.com.br/internacional/com-escolta-dos-eua-ormuz-tem-fluxo-recorde-de-petroleo-em-meio-a-ataques/",
+    "time": "2026-09-02T23:38:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Toffoli libera campanha digital do Wilson Grassi, candidato à Presidência da República",
+    "d": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), liberou nesta quarta-feira (2) a campanha digital de Wilson Grassi, candidato do Democrata à Presidência da República. A medida estava suspensa desde domi…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/toffoli-libera-campanha-digital-do-wilson-grassi-candidato-a-presidencia-da-republica.ghtml",
+    "time": "2026-09-02T23:34:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vitória x Vasco: escalações e onde assistir às quartas da Copa do Brasil",
+    "d": "Times decidem no Barradão, em Salvador, uma vaga na semifinal do torneio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/vitoria-x-vasco-escalacoes-e-onde-assistir-as-quartas-da-copa-do-brasil/",
+    "time": "2026-09-02T23:33:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Discord terá 10 dias úteis para apresentar proposta ao governo sobre proteção de usuários",
+    "d": "A plataforma Discord terá dez dias úteis para apresentar uma proposta para atender às demandas do governo para proteger usuários. Nesta quarta-feira (2), a plataforma e o governo participaram de uma audiência de conci…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/02/discord-tera-10-dias-uteis-para-apresentar-proposta-ao-governo-sobre-protecao-de-usuarios.ghtml",
+    "time": "2026-09-02T23:30:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Congresso adia “taxa das blusinhas” para quinta; 6×1 não vai a plenário",
+    "d": "Governo tinha expectativa de votar textos nesta quarta; fim da 6x1 deve ficar somente para depois das eleições",
+    "link": "https://www.cnnbrasil.com.br/politica/congresso-adia-taxa-das-blusinhas-para-quinta-6x1-nao-vai-a-plenario/",
+    "time": "2026-09-02T23:29:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Defesa Civil confirma formação de tornado em Santa Catarina",
+    "d": "O fenômeno ocorreu no domingo (30) e foi confirmado nesta quarta (2) após análise de imagens de radar, aéreas e danos",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/defesa-civil-confirma-formacao-de-tornado-em-santa-catarina/",
+    "time": "2026-09-02T23:26:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Corinthians é denunciado no STJD por ofensas a garoto fã de Neymar",
+    "d": "Episódio aconteceu no clássico contra o Santos, no último domingo (30), na Neo Química Arena, pelo Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-e-denunciado-no-stjd-por-ofensas-a-garoto-fa-de-neymar/",
+    "time": "2026-09-02T23:24:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula e Fachin tratam de crise política no STF",
+    "d": "Presidente também recebeu os ministros Gilmar Mendes e Flávio Dino após a divulgação das mensagens de Vorcaro e Moraes",
+    "link": "https://www.cnnbrasil.com.br/politica/lula-e-fachin-tratam-de-crise-politica-no-stf/",
+    "time": "2026-09-02T23:23:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "IA quer detectar hipertensão e diabetes com análises de vídeo em pacientes",
+    "d": "Análise foi apresentada em primeira mão no Congresso da Sociedade Europeia de Cardiologistas 2026 e busca auxiliar na triagem médica",
+    "link": "https://www.cnnbrasil.com.br/saude/ia-quer-detectar-hipertensao-e-diabetes-com-analises-de-video-em-pacientes/",
+    "time": "2026-09-02T23:16:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entidades lançam programa para armazenamento de combustíveis no campo",
+    "d": "Acordo de 24 meses orientará produtores sobre a expansão dos biocombustíveis e os cuidados necessários após a chegada do produto ao consumidor",
+    "link": "https://www.cnnbrasil.com.br/agro/entidades-lancam-programa-para-armazenamento-de-combustiveis-no-campo/",
+    "time": "2026-09-02T23:15:44.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
     "d": "Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price falls China’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on Iran, thanks to…",
     "link": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
     "time": "2026-09-02T23:01:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jovem viraliza ao encontrar atores de “Emily em Paris” no jiu-jitsu em SP",
-    "d": "Atores estão no Brasil para evento da Netflix",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/jovem-viraliza-ao-encontrar-atores-de-emily-em-paris-no-jiu-jitsu-em-sp/",
-    "time": "2026-09-02T22:55:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nunes mantém no ar live de Flávio com “Carta aos Brasileiros” de Bolsonaro",
-    "d": "Presidente do TSE afirma que vídeo não traz pedido explícito de voto e rejeita retirada imediata do conteúdo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/nunes-mantem-no-ar-live-de-flavio-com-carta-aos-brasileiros-de-bolsonaro/",
-    "time": "2026-09-02T22:55:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Marinho vai “ao front” contra fim da 6×1; Flávio deixa tema de fora de foco",
-    "d": "Quando questionado sobre como votaria perante texto governista, candidato à Presidência não cravou posicionamento",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/marinho-vai-ao-front-contra-fim-da-6x1-flavio-deixa-tema-de-fora-de-foco/",
-    "time": "2026-09-02T22:53:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo apresenta reforços Valencia e Freitas para a torcida no Maracanã",
-    "d": "Time rubro-negro pega o Mirassol nesta quarta-feira (2), em duelo atrasado do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-apresenta-reforcos-valencia-e-freitas-para-a-torcida-no-maracana/",
-    "time": "2026-09-02T22:53:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "WSL: Medina tira nota 10, mas perde para Houshmand e fica com vice em Fiji",
-    "d": "Brasileiro tricampeão mundial tirou nota perfeita na decisão, mas acabou sendo superado pelo norte-americano",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/wsl-medina-tira-nota-10-mas-perde-para-houshmand-e-fica-com-vice-em-fiji/",
-    "time": "2026-09-02T22:52:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rock in Rio: veja quanto custa comer na Cidade do Rock",
-    "d": "Portões foram abertos nesta quarta-feira (2) para evento-teste; preços na Gourmet Square variam de R$ 18 a R$ 60",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-veja-quanto-custa-comer-na-cidade-do-rock/",
-    "time": "2026-09-02T22:52:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Plano para testar gasolina com 35% de etanol deve sair em setembro",
-    "d": "Secretário do MME diz que publicação do plano acontece no dia 18; testes vão avaliar viabilidade do E35, mas conselho ainda analisará viabilidade",
-    "link": "https://www.cnnbrasil.com.br/agro/plano-para-testar-gasolina-com-35-de-etanol-deve-sair-em-setembro/",
-    "time": "2026-09-02T22:50:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidente da CCJ diz que PEC da Segurança fica para depois da eleição",
-    "d": "Falta de tempo hábil para analisar os destaques na comissão deixa o texto para depois do pleito",
-    "link": "https://www.cnnbrasil.com.br/politica/presidente-da-ccj-diz-que-pec-da-seguranca-fica-para-depois-da-eleicao/",
-    "time": "2026-09-02T22:49:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que eleições de meio de mandato não afetam decisões sobre Irã",
-    "d": "Presidente dos EUA voltou a afirmar que guerra com Teerã deve acabar em breve",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eleicoes-de-meio-de-mandato-nao-afetam-decisoes-sobre-ira/",
-    "time": "2026-09-02T22:49:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ataque a tiros deixa vários feridos em Minneapolis, nos EUA",
-    "d": "Polícia pediu para as pessoas evitarem a região",
-    "link": "https://www.cnnbrasil.com.br/internacional/ataque-a-tiros-minneapolis/",
-    "time": "2026-09-02T22:47:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Morre atriz de “Zombies”, da Disney, aos 33 anos",
-    "d": "Empresa que agenciava carreira publicou uma homenagem nas redes sociais",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-atriz-de-zombies-da-disney-aos-33-anos/",
-    "time": "2026-09-02T22:47:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Adolescente é apreendido suspeito de torturar mais de 200 gatos em lives",
-    "d": "Jovem também é investigado por induzir vítimas à automutilação e, segundo as investigações, chegava a maltratar de cinco a seis animais por madrugada durante as transmissões ao vivo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/adolescente-e-apreendido-suspeito-de-torturar-mais-de-200-gatos-em-lives/",
-    "time": "2026-09-02T22:46:45.000Z"
   },
   {
     "cat": "brasil",
@@ -249,27 +265,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Após 'crise Master' no STF, campanha de Lula defende código de ética para Judiciário e MP",
-    "d": "O coordenador da campanha do presidente Luiz Inácio Lula da Silva (PT), Edinho Silva, divulgou nesta quarta-feira (2) um vídeo nas redes sociais em que afirma que ninguém está acima da lei e que defende a adoção de um…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/apos-crise-master-no-stf-campanha-de-lula-defende-codigo-de-etica-para-judiciario-e-mp.ghtml",
-    "time": "2026-09-02T19:43:15.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
     "d": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
     "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-02T19:39:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PEC da Segurança: CCJ do Senado aprova proposta, mas não conclui votação; texto não será votado no plenário nesta quarta",
-    "d": "Com seis meses de atraso, a Comissão de Constituição e Justiça (CCJ) do Senado Federal aprovou o texto-base da proposta de emenda à Constituição (PEC) da Segurança Pública nesta quarta-feira (2). A votação foi simbóli…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/02/apos-seis-meses-engavetada-pec-da-seguranca-e-aprovada-na-ccj-do-senado.ghtml",
-    "time": "2026-09-02T19:27:30.000Z"
   },
   {
     "cat": "internacional",
