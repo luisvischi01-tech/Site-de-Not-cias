@@ -1,67 +1,75 @@
 [
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%",
-    "d": "Pesquisa Datafolha divulgada nesta quinta-feira (3) mostra como está a disputa pela Presidência da República. O levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. Esta reportagem está em atualizaç…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-presidente-3-setembro.ghtml",
-    "time": "2026-09-03T22:02:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%",
-    "d": "Pesquisa Datafolha divulgada nesta quinta-feira (3) traz simulações de 2º turno da disputa pela Presidência da República. O levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. Esta reportagem está…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-2o-turno-presidente-3-setembro.ghtml",
-    "time": "2026-09-03T22:02:03.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Craque Neto alerta Santos: “Sem Neymar, vai cair para a Série B”",
-    "d": "Após lesão na coxa sofrida no clássico contra o Palmeiras, apresentador afirma que o Santos não tem condições de se manter na Série A sem o camisa 10",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/craque-neto-alerta-santos-sem-neymar-vai-cair-para-a-serie-b/",
-    "time": "2026-09-03T21:57:18.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Wall Street sobe com tranquilização sobre juros dos EUA",
-    "d": "Dow Jones fechou em alta de 1,18%, S&P 500 subiu 1,06% e Nasdaq avançou 1,4%",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-sobe-com-tranquilizacao-sobre-juros-dos-eua/",
-    "time": "2026-09-03T21:55:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlas: em Goiás, Lula perde para Caiado, Flávio e Zema no 2º turno",
-    "d": "Presidente também tem empate técnico com Renan Santos (Missão), segundo pesquisa",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-em-goias-lula-perde-para-caiado-flavio-e-zema-no-2o-turno/",
-    "time": "2026-09-03T21:54:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vox Radar: risada de ministros é vista como símbolo de deboche e impunidade",
-    "d": "Levantamento exclusivo analisou mais de 86 mil comentários públicos do Instagram sobre a fotografia de Moraes e colegas do STF rindo um dia após novas revelações do Caso Master",
-    "link": "https://www.cnnbrasil.com.br/politica/vox-radar-risada-de-ministros-e-vista-como-simbolo-de-deboche-e-impunidade/",
-    "time": "2026-09-03T21:53:34.000Z"
+    "h": "STF reforça restrição a imagens por frestas de cortinas da Corte",
+    "d": "Seguranças repreenderam fotógrafos e cinegrafistas nesta quinta (3) após profissionais tentarem registrar ministros na saída do plenário",
+    "link": "https://www.cnnbrasil.com.br/politica/stf-reforca-restricao-a-imagens-por-frestas-de-cortinas-da-corte/",
+    "time": "2026-09-03T22:21:19.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Arruda diz que vai recorrer ao TSE para manter candidatura ao governo do DF; TRE negou registro por unanimidade",
-    "d": "José Roberto Arruda em 6 de agosto de 2026, em Brasília Marcella Rodrigues/g1 O ex-governador José Roberto Arruda (PSD) afirmou nesta quinta-feira (3) que vai recorrer ao Tribunal Superior Eleitoral (TSE) para manter…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/03/arruda-diz-que-vai-recorrer-ao-tse-para-manter-candidatura-ao-governo-do-df-tre-negou-registro-por-unanimidade.ghtml",
-    "time": "2026-09-03T21:48:57.000Z"
+    "h": "Datafolha: 71% estão totalmente decididos sobre voto para presidente, e 28% ainda podem mudar; veja números por candidato",
+    "d": "Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado, Augusto Cury e Romeu Zema: candidatos à Presidência da República Divulgação Pesquisa Datafolha divulgada nesta quinta-feira (3) mostra que 71% dos brasileiros estã…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/datafolha-decisao-de-voto-presidente-3-setembro.ghtml",
+    "time": "2026-09-03T22:20:25.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Volkswagen se une com chinesa SAIC para entrar em segmento inédito no país",
-    "d": "Após 45 anos produzindo caminhões e ônibus, VWCO prepara uma nova família de veículos desenvolvida em parceria com uma das maiores montadoras da China.",
-    "link": "https://www.cnnbrasil.com.br/auto/volkswagen-se-une-com-chinesa-saic-para-entrar-em-segmento-inedito-no-pais/",
-    "time": "2026-09-03T21:47:10.000Z"
+    "h": "US Open: Stefani e Dabrowski confirmam favoritismo e vencem na estreia",
+    "d": "Brasileira e a canadense superaram a russa Irina Khromacheva e a tcheca Anastasia Detiuc com facilidade nesta quinta-feira (3)",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-stefani-e-dabrowski-confirmam-favoritismo-e-vencem-na-estreia/",
+    "time": "2026-09-03T22:19:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Limpar a churrasqueira com vinagre branco previne e combate acúmulos de sujeira",
+    "d": "Acidez do líquido age como uma solução eficaz que substitui uso de produtos químicos",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/limpar-a-churrasqueira-com-vinagre-branco-previne-e-combate-acumulos-de-sujeira/",
+    "time": "2026-09-03T22:19:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Agente do ICE enfrenta acusação federal por mentir sobre morte de imigrante",
+    "d": "Fonte familiarizada com o assunto confirmou à CNN que ele enfrenta várias acusações",
+    "link": "https://www.cnnbrasil.com.br/internacional/agente-do-ice-enfrenta-acusacao-federal-por-mentir-sobre-morte-de-imigrante/",
+    "time": "2026-09-03T22:16:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estudante de 16 anos cria plataforma para ajudar jovens no 1° voto",
+    "d": "Site reúne conteúdos didáticos sobre os Poderes da República, além do perfil de mais de 20 mil candidatos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/estudante-de-16-anos-cria-plataforma-para-ajudar-jovens-no-1-voto/",
+    "time": "2026-09-03T22:16:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Clubes de leitura fortalecem vínculos e a saúde social nas empresas",
+    "d": "Iniciativas baseadas em leitura coletiva são apontadas como forma de prevenção de riscos psicossociais e melhoria do ambiente organizacional",
+    "link": "https://www.cnnbrasil.com.br/saude/clubes-de-leitura-fortalecem-vinculos-e-a-saude-social-nas-empresas/",
+    "time": "2026-09-03T22:14:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: 47% rejeitam Flávio Bolsonaro, e 45%, Lula",
+    "d": "Pesquisa Datafolha divulgada nesta quinta-feira (3) mostra 47% dizem que não votariam em Flávio Bolsonaro (PL) de jeito nenhum, e 45% responderam o mesmo sobre Lula. O levantamento foi encomendado pela Globo e pelo jo…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-rejeicao-candidatos-3-setembro.ghtml",
+    "time": "2026-09-03T22:14:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cardápios horríveis criados por inteligência artificial continuam sendo rejeitados pelo público; mas o que os torna tão repugnantes?",
+    "d": "Como a utilização de imagens geradas por IA estão afetando o consumo de clientes",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/cardapios-horriveis-criados-por-inteligencia-artificial-continuam-sendo-rejeitados-pelo-publico-mas-o-que-os-torna-tao-repugnantes/",
+    "time": "2026-09-03T22:12:13.000Z"
   },
   {
     "cat": "brasil",
@@ -69,63 +77,79 @@
     "h": "Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos",
     "d": "Ministro indicado por Jair Bolsonaro era detentor de cotas do Instituto Iter; Mendonça afirma que nunca auferiu lucro com participação na instituição",
     "link": "https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T21:42:00.000Z"
+    "time": "2026-09-03T22:09:54.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "TRE reconhece inegibilidade de candidatura de Arruda ao governo do DF",
-    "d": "Por unanimidade, desembargadores decidem pelo indeferimento do registro do ex-governador José Roberto Arruda",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tre-forma-maioria-contra-candidatura-de-arruda-ao-governo-do-df/",
-    "time": "2026-09-03T21:39:36.000Z"
+    "h": "Receita apreende emagrecedores escondidos em filtro de ar de moto no PR",
+    "d": "Receita Federal flagrou homem do Paraguai transportando 280 ampolas em fundo falso em Foz do Iguaçu",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/receita-apreende-emagrecedores-escondidos-em-filtro-de-ar-de-moto-no-pr/",
+    "time": "2026-09-03T22:08:52.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Congresso aprova permissão a isenções fiscais para data centers no Brasil",
-    "d": "PLP aprovado nesta quinta (3) abre espaço para isenções fiscais para a implementação de datacenters",
-    "link": "https://www.cnnbrasil.com.br/noticias/congresso-aprova-permissao-a-isencoes-fiscais-para-data-centers-no-brasil/",
-    "time": "2026-09-03T21:39:19.000Z"
+    "h": "Datafolha: Lula tem 46% das intenções de voto no 2º turno; Flávio, 44%",
+    "d": "Levantamento ouviu 2.002 entrevistados entre os dias 1º e 2 de setembro; margem de erro é de dois pontos, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-46-das-intencoes-de-voto-no-2o-turno-flavio-44/",
+    "time": "2026-09-03T22:07:40.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Bentley Torcal será elétrico e o mais potente da história da marca",
-    "d": "SUV ano-modelo 2028 marca a transição da fabricante britânica e promete superar os 771 cv do Continental GT sem abrir mão do conforto",
-    "link": "https://www.cnnbrasil.com.br/auto/bentley-torcal-sera-eletrico-e-o-mais-potente-da-historia-da-marca/",
-    "time": "2026-09-03T21:36:36.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Consumir apenas uma bebida alcoólica por dia pode aumentar o risco de morte por diversos tipos de câncer",
-    "d": "Novo estudo aponta que o consumo da bebida alcoólica tem papel mais importante em diversos tipos de câncer do que se imaginava, segundo Dr. Chinmay Jani",
-    "link": "https://www.cnnbrasil.com.br/saude/consumir-apenas-uma-bebida-alcoolica-por-dia-pode-aumentar-o-risco-de-morte-por-diversos-tipos-de-cancer/",
-    "time": "2026-09-03T21:35:48.000Z"
+    "h": "Homem é preso suspeito de traficar drogas para dentro de presídio no RS",
+    "d": "Com o suspeito, foram apreendidos 1,550 kg de maconha, quatro aparelhos celulares e seis cartelas de medicamento para disfunção erétil",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/homem-e-preso-suspeito-de-traficar-drogas-para-dentro-de-presidio-no-rs/",
+    "time": "2026-09-03T22:07:09.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Vance diz que conflito com Irã não é guerra, mas se recusa a apontar prazo",
-    "d": "Vice-presidente americano não informou quando as tensões no Oriente Médio devem chegar ao fim e sugeriu que cabe a Teerã encerrar o confronto",
-    "link": "https://www.cnnbrasil.com.br/internacional/vance-diz-que-conflito-com-ira-nao-e-guerra-mas-se-recusa-a-apontar-prazo/",
-    "time": "2026-09-03T21:34:12.000Z"
+    "h": "Justiça reverte decisão de Tarcísio e impede demissão de delegado Da Cunha",
+    "d": "Deputado federal responde a processo disciplinar desde 2020, acusado de abuso de autoridade e constrangimento ilegal em ação",
+    "link": "https://www.cnnbrasil.com.br/politica/justica-derruba-demissao-de-delegado-feita-por-tarcisio-de-freitas/",
+    "time": "2026-09-03T22:06:42.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Vasco encaminha a contratação de meia argentino Alan Lezcano",
+    "d": "Cruzmaltino acertou bases finais com Argentinos Juniors-ARG e bases do negócio giram em torno de 7 milhões de dólares",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-encaminha-a-contratacao-de-meia-argentino-alan-lezcano/",
+    "time": "2026-09-03T22:06:06.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Alcolumbre afirma que votação da PEC 6×1 ficará para depois das eleições",
-    "d": "Declaração foi dada nesta quinta-feira no Senado e confirmou que alteração na jornada de trabalho não será votada no esforço concentrado",
-    "link": "https://www.cnnbrasil.com.br/politica/alcolumbre-confirma-que-votacao-da-pec-6x1-sera-depois-das-eleicoes/",
-    "time": "2026-09-03T21:33:47.000Z"
+    "src": "G1",
+    "h": "Datafolha: 51% desaprovam governo Lula e 45% aprovam",
+    "d": "O presidente Luiz Inácio Lula da Silva discursa durante convenção do PT em Salvador, na Bahia, no dia 1º de agosto de 2026 Ricardo Stuckert/Presidência da República Pesquisa Datafolha divulgada nesta quinta-feira (3)…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-aprova-desaprova-governo-3-setembro.ghtml",
+    "time": "2026-09-03T22:04:19.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA investigam relatos de civis mortos em casamento durante ataques ao Irã",
-    "d": "Vice-presidente JD Vance falou sobre o caso em entrevista coletiva na Casa Branca; segundo a mídia iraniana, quatro pessoas morreram em festa em vilarejo perto do Estreito de Ormuz",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-investigam-relatos-de-civis-mortos-em-casamento-durante-ataques-ao-ira/",
-    "time": "2026-09-03T21:30:02.000Z"
+    "src": "G1",
+    "h": "Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%",
+    "d": "Datafolha espontânea 1º turno: Lula tem 31%; Flávio Bolsonaro tem 22%; Cury tem 5% Pesquisa Datafolha divulgada nesta quinta-feira (3) mostra como está a disputa pela Presidência da República. O levantamento foi encom…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-presidente-3-setembro.ghtml",
+    "time": "2026-09-03T22:02:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%",
+    "d": "Pesquisa Datafolha divulgada nesta quinta-feira (3) mostra que Lula (PT) soma 46% das intenções de voto contra 44% de Flávio Bolsonaro em uma eventual disputa de 2º turno na disputa presencial. Os candidatos estão tec…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-2o-turno-presidente-3-setembro.ghtml",
+    "time": "2026-09-03T22:02:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Arruda diz que vai recorrer ao TSE para manter candidatura ao governo do DF; TRE negou registro por unanimidade",
+    "d": "José Roberto Arruda (PSD) Pedro França/Agência Senado O ex-governador José Roberto Arruda (PSD) afirmou nesta quinta-feira (3) que vai recorrer ao Tribunal Superior Eleitoral (TSE) para manter sua candidatura ao gover…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/03/arruda-diz-que-vai-recorrer-ao-tse-para-manter-candidatura-ao-governo-do-df-tre-negou-registro-por-unanimidade.ghtml",
+    "time": "2026-09-03T21:48:57.000Z"
   },
   {
     "cat": "brasil",
@@ -184,22 +208,6 @@
     "time": "2026-09-03T21:08:08.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições",
-    "d": "O presidente do Senado Davi Alcolumbre (União-AP) afirmou nesta quinta-feira (3) que a Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1 será votada após as eleições deste ano. A afirmação…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml",
-    "time": "2026-09-03T21:06:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TRE nega registro da candidatura de Arruda ao governo do DF; decisão foi unânime",
-    "d": "José Roberto Arruda em 6 de agosto de 2026, em Brasília Marcella Rodrigues/g1 O Tribunal Regional Eleitoral do Distrito Federal (TRE-DF) rejeitou, por unanimidade, o registro da candidatura do ex-governador José Rober…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/03/arruda-candidatura-df-tre-justica-eleitoral.ghtml",
-    "time": "2026-09-03T21:02:56.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
@@ -224,7 +232,7 @@
     "time": "2026-09-03T20:39:24.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Governo critica início do veto à venda de carne brasileira para União Europeia e cita possibilidade de 'medidas de reciprocidade'",
     "d": "Os ministérios das Relações Exteriores e da Agricultura divulgaram uma nota conjunta nesta quinta-feira (3) na qual criticaram a entrada em vigor do veto à venda de carne brasileira para a União Europeia e afirmaram q…",
