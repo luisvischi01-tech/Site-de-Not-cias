@@ -1,9 +1,33 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos",
+    "d": "Entre os vários desafios enfrentados pelos socorristas para chegarem aos sobreviventes, esteve a dificuldade em encontrar entrada soterrada de túnel e a tarefa de destruir rochas do tamanho de automóveis.",
+    "link": "https://www.bbc.com/portuguese/articles/c86xjey5155o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T13:44:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – business live",
+    "d": "Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August It’s official, UK car sales jumped last month. New car registrations rose by 13.7% to 94,236 units in August, t…",
+    "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
+    "time": "2026-09-04T13:43:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Perdas por enchentes no Nepal são estimadas em US$ 2,56 bilhões",
+    "d": "Custo estimado para recuperação inicial, como construir estradas e abrigos temporários, passa dos US$ 50 milhões",
+    "link": "https://www.cnnbrasil.com.br/internacional/perdas-por-enchentes-no-nepal-sao-estimadas-em-us-256-bilhoes/",
+    "time": "2026-09-04T13:27:40.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Moraes pediu à PF relatórios de inteligência que citavam ministros do STF",
-    "d": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), pediu à Polícia Federal que enviasse a ele relatórios de inteligência da corporação que citavam ministros da Corte. Segundo investigadores ouvidos pel…",
+    "d": "Sadi: Moraes pediu à PF relatórios de inteligência que citavam ministros do STF O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), pediu à Polícia Federal que enviasse a ele relatórios de inteligência…",
     "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/04/moraes-pf-relatorios-stf.ghtml",
     "time": "2026-09-04T13:26:04.000Z"
   },
@@ -17,6 +41,30 @@
   },
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Semana do Cinema: quem começou a tradicional promoção que disponibiliza ingressos a R$ 10",
+    "d": "Dias de entrada promocional em sessões no Brasil já são tradição amada pelos fãs de cinema",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/semana-do-cinema-quem-comecou-a-tradicional-promocao-que-disponibiliza-ingressos-a-r-10/",
+    "time": "2026-09-04T13:23:50.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Fundos monetários globais atraem US$ 46,1 bi em semana de tensões EUA-Irã",
+    "d": "Petróleo Brent subiu para a máxima em quase um mês e meio, atingindo US$ 97,62 o barril, aumentando as preocupações com a inflação",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fundos-monetarios-globais-atraem-us-461-bi-em-semana-de-tensoes-eua-ira/",
+    "time": "2026-09-04T13:23:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ministro de Israel propõe plano de 7 anos para remover população de Gaza",
+    "d": "Itamar Ben-Gvir defende \"emigração voluntária\" e criação de ministério para transferir quase 2 milhões de pessoas",
+    "link": "https://www.cnnbrasil.com.br/internacional/ministro-de-israel-propoe-plano-de-7-anos-para-remover-populacao-de-gaza/",
+    "time": "2026-09-04T13:23:07.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "STF fixa critério nacional para gratuidade da Justiça e adota renda de até R$ 5 mil como parâmetro",
     "d": "O Supremo Tribunal Federal (STF) definiu nesta quinta-feira (3) novos critérios para a concessão da gratuidade da Justiça em todo o país. Pela decisão, pessoas com renda mensal de até R$ 5 mil terão direito ao benefíc…",
@@ -24,12 +72,28 @@
     "time": "2026-09-04T13:12:35.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – business live",
-    "d": "Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August It’s official, UK car sales jumped last month. New car registrations rose by 13.7% to 94,236 units in August, t…",
-    "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
-    "time": "2026-09-04T13:11:49.000Z"
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ações da Volkswagen sobem após acordo supresa de reestruturação",
+    "d": "Grupo inclui mais 50.000 cortes de empregos, elevando o total acordado para 100.000, e deixa em aberto o futuro de quatro de suas fábricas na Alemanha",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/acoes-da-volkswagen-sobem-apos-acordo-supresa-de-reestruturacao/",
+    "time": "2026-09-04T13:10:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mendonça rechaça acusação de tentativa de prejudicar Lula",
+    "d": "Ministro tem defendido que não atuou para favorecer ou prejudicar ninguém em investigações",
+    "link": "https://www.cnnbrasil.com.br/politica/mendonca-rechaca-acusacao-de-tentativa-de-prejudicar-lula/",
+    "time": "2026-09-04T13:09:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Talvez Mendonça esteja perdendo”, diz especialista sobre disputas",
+    "d": "Felipe Recondo avalia que André Mendonça está em rota de colisão com quatro grandes figuras institucionais ao mesmo tempo",
+    "link": "https://www.cnnbrasil.com.br/politica/talvez-mendonca-esteja-perdendo-diz-especialista-sobre-disputas/",
+    "time": "2026-09-04T13:08:36.000Z"
   },
   {
     "cat": "brasil",
@@ -88,22 +152,6 @@
     "time": "2026-09-04T13:00:44.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "SBF cresce mais de 20% com Copa e mudanças na operação",
-    "d": "CEO destaca melhorias na operação da Centauro e da Fisia para sustentar crescimento e experiência nas lojas",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/grupo-sbf-cresce-20-e-vende-1-milhao-de-camisas-na-copa/",
-    "time": "2026-09-04T13:00:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil tem potencial para liderar data centers, diz especialista",
-    "d": "Executivo da Dell Technologies Latam aponta oportunidades e desafios do Brasil em tecnologia, soberania digital e infraestrutura de data centers",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/brasil-tem-potencial-para-liderar-data-centers-diz-especialista/",
-    "time": "2026-09-04T13:00:05.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Jornada maior, renda menor: quase 2 milhões trabalham por aplicativos no Brasil, mostra IBGE",
@@ -112,52 +160,12 @@
     "time": "2026-09-04T13:00:01.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Payroll: EUA criam 162 mil empregos em agosto, superando previsão",
-    "d": "Relatório é principal métrica do mercado de trabalho americano; taxa de desemprego permaneceu em 4,1%",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/payroll-eua-criam-162-mil-empregos-em-agosto-superando-previsao/",
-    "time": "2026-09-04T12:58:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CEO de time russo após caso Plata e Matheus Martins: “Também somos vítimas”",
-    "d": "Pavel Pivovarov, do Dínamo Moscou, afirmou que não houve má-fé na condução das negociações com Flamengo e Botafogo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/ceo-de-time-russo-apos-caso-plata-e-matheus-martins-tambem-somos-vitimas/",
-    "time": "2026-09-04T12:50:46.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Preços globais dos alimentos atingem maior nível desde 2022, em meio a clima extremo e guerras, diz FAO",
     "d": "Conta de luz e alimentos puxam recuo da inflação em agosto; El Niño é risco nos próximos meses Os preços globais dos alimentos subiram em agosto para o nível mais alto desde o fim de 2022, à medida que condições climá…",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/precos-mundiais-dos-alimentos-atingem-maior-nivel-desde-2022-em-meio-a-riscos-de-oferta-diz-fao.ghtml",
     "time": "2026-09-04T12:50:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Companhia aérea suspende voos para Rússia após alerta de Zelensky",
-    "d": "Medida da Air Tanzania segue aviso ucraniano sobre insegurança do espaço aéreo russo",
-    "link": "https://www.cnnbrasil.com.br/internacional/companhia-aerea-suspende-voos-para-russia-apos-alerta-de-zelensky/",
-    "time": "2026-09-04T12:49:34.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Dólar apresenta alta com pesquisa eleitoral e emprego nos EUA no radar",
-    "d": "Na quinta-feira (3), a moeda à vista encerrou a sessão aos R$ 5,1043 com variação negativa de 0,04%, perto da estabiidade",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-4-setembro-2026/",
-    "time": "2026-09-04T12:48:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Assessores de líder populista britânico deixam partido após denúncias",
-    "d": "Reform UK, de Nigel Farage, negou qualquer irregularidade e afirmou ter sido vítima de uma farsa arquitetada por ativistas climáticos",
-    "link": "https://www.cnnbrasil.com.br/internacional/assessores-lider-populista-britanico-deixam-partido-apos-denuncias/",
-    "time": "2026-09-04T12:47:08.000Z"
   },
   {
     "cat": "economia",
@@ -202,7 +210,7 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar tem leve alta após pesquisa eleitoral e antes de dados de emprego dos EUA",
+    "h": "Dólar tem leve alta após pesquisa eleitoral e dados de emprego dos EUA",
     "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu em leve alta nesta sexta-feira (4), cotado a R$ 5,1107 por volta das 9h03, com avanço de 0,12%. Já o Ibovespa, principal índice da bolsa brasileira, começ…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml",
     "time": "2026-09-04T12:00:00.000Z"
@@ -266,7 +274,7 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+    "h": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
     "d": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
     "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T10:00:18.000Z"
@@ -470,14 +478,6 @@
     "d": "Ministro indicado por Jair Bolsonaro era detentor de cotas do Instituto Iter; Mendonça afirma que nunca auferiu lucro com participação na instituição",
     "link": "https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T22:09:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo",
-    "d": "No Brasil, nunca houve impeachment de ministro do Supremo. Nos EUA, em toda a história, só houve um processo em 1804, que acabou sem afastamento do magistrado.",
-    "link": "https://www.bbc.com/portuguese/articles/cpd0e98yvpwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T21:08:08.000Z"
   },
   {
     "cat": "economia",
