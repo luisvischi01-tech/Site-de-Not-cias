@@ -1,6 +1,110 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Trabalhador de app tem jornada maior, mas ganha menos por hora, aponta estudo do IBGE",
+    "d": "Valor recebido mensalmente se aproxima da média entre os outros empregados do setor privado, mas jornadas são mais extensas e não há direitos trabalhistas.",
+    "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T15:32:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Acordo de Trump com Venezuela visa reabastecer reserva dos EUA",
+    "d": "Entre os objetivos da iniciativa está o de atingir o limite máximo da Reserva Estratégica de Petróleo dos EUA , que está em seu nível mais baixo desde novembro de 1982, durante a presidência de Ronald Reagan",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/acordo-de-trump-com-venezuela-visa-reabastecer-reserva-dos-eua/",
+    "time": "2026-09-04T15:29:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rise Against no Rock in Rio: veja provável setlist para o show",
+    "d": "Banda norte-americana se apresenta no Palco Mundo da Cidade do Rock após turnê realizada na Europa",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/rise-against-no-rock-in-rio-veja-provavel-setlist-para-o-show/",
+    "time": "2026-09-04T15:28:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cotado a vice do São Paulo diz ser “elitista” e reclama do “baixo clero”",
+    "d": "Carlos Sadi criticou mudanças no perfil político do clube, citou Corinthians, Itaquera e Paraisópolis para defender o argumento, mas depois pediu desculpas pelas declarações",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/cotado-a-vice-do-sao-paulo-diz-ser-elitista-e-reclama-do-baixo-clero/",
+    "time": "2026-09-04T15:26:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Minha libido pós-maternidade demorou a voltar”, diz Fe Paes Leme",
+    "d": "Atriz foi um das convidadas do Na Palma da Mari - Entre Mulheres, programa da CNN Brasil",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/minha-libido-pos-maternidade-demorou-a-voltar-diz-fe-paes-leme/",
+    "time": "2026-09-04T15:21:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Elias, ex-Corinthians e Flamengo, fecha acordo com emissora de TV",
+    "d": "Ex-volante integra o time de transmissões e programas esportivos da ESPN",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/elias-ex-corinthians-e-flamengo-fecha-acordo-com-emissora-de-tv/",
+    "time": "2026-09-04T15:14:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ninguém pode usar o cargo que tem em benefício pessoal, diz Lula",
+    "d": "",
+    "link": "https://www.cnnbrasil.com.br/politica/ninguem-pode-usar-o-cargo-que-tem-em-beneficio-pessoal-diz-lula/",
+    "time": "2026-09-04T15:13:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Crise sem precedentes: especialistas citam “ruptura” e “cortina de fumaça”",
+    "d": "À CNN Brasil, advogados e jornalista ressaltam que imagem do STF se agrava perante a sociedade e discutem possível reunião entre magistrados para deliberação de próximos passos",
+    "link": "https://www.cnnbrasil.com.br/politica/crise-sem-precedentes-especialistas-citam-ruptura-e-cortina-de-fumaca/",
+    "time": "2026-09-04T15:12:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Regra de Trump sobre voto por correio valerá nas eleições de novembro?",
+    "d": "Incerteza ganhou urgência com a aproximação dos prazos para os estados enviarem as cédulas pelo correio antes das eleições",
+    "link": "https://www.cnnbrasil.com.br/internacional/regra-de-trump-sobre-voto-por-correio-valera-nas-eleicoes-de-novembro/",
+    "time": "2026-09-04T15:07:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cabelo chanel com IA: aprenda o passo a passo e como participar da trend que viralizou nas redes",
+    "d": "Usuários precisam gastar, no mínimo, R$ 60 para replicar tendência com aplicativo de geração de vídeos de inteligência artificial",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/cabelo-curto-ia-trend-famosos/",
+    "time": "2026-09-04T15:07:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula critica vazamentos e cobra Fachin e Gonet por solução de crise no STF",
+    "d": "Fala aconteceu em cerimônia no Palácio do Planalto nesta sexta-feira (4); presidente do STF e PGR estavam sentados próximos a Lula no momento",
+    "link": "https://www.cnnbrasil.com.br/politica/lula-critica-vazamentos-e-cobra-fachin-e-gonet-por-solucao-de-crise-no-stf/",
+    "time": "2026-09-04T15:05:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em meio à crise no STF, Lula defende reforma do Judiciário no próximo ano",
+    "d": "",
+    "link": "https://www.cnnbrasil.com.br/politica/em-meio-a-crise-no-stf-lula-defende-reforma-do-judiciario-no-proximo-ano/",
+    "time": "2026-09-04T15:05:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1",
+    "d": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1 Candidatos com representação no Congresso ou que tiveram mais de 5% na última pesquisa Quaest foram convidados. Beto do Movimento (PSOL), Soraya (P…",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-mato-grosso-do-sul.ghtml",
+    "time": "2026-09-04T14:56:35.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Fachin diz que resposta à crise do STF será firme, proporcional e rigorosa",
     "d": "Presidente da Corte ressaltou que nenhuma autoridade está acima da Constituição e que a gravidade dos fatos \"não autoriza atalhos\"",
@@ -10,58 +114,10 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1",
-    "d": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1 Candidatos com representação no Congresso ou que tiveram mais de 5% na última pesquisa Quaest foram convidados. Beto do Movimento (PSOL), Soraya (P…",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-mato-grosso-do-sul.ghtml",
-    "time": "2026-09-04T14:52:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Crise 'Master no STF': Lula volta a defender reforma do Poder Judiciário",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) voltou a defender nesta quinta-feira (4) uma reforma do Poder Judiciário e afirmou que pretende discutir mudanças na estrutura da Justiça brasileira ao longo do próximo ano.…",
+    "h": "'Crise Master' no STF: Lula volta a defender reforma no Judiciário e diz que todos devem seguir a lei independente do cargo",
+    "d": "Evento no Palácio do Planalto para reunir recursos para o Judiciário. Marcione Santana/ TV Globo O presidente Luiz Inácio Lula da Silva (PT) voltou a defender nesta sexta-feira (4) uma reforma no Poder Judiciário e af…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/04/crise-master-no-stf-lula-volta-a-defender-reforma-do-poder-judiciario.ghtml",
     "time": "2026-09-04T14:51:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin defende adoção do código de ética e fim do inquérito das fake news",
-    "d": "Presidente do STF cita ainda a \"modernização do sistema de justiça\"",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-defende-adocao-do-codigo-de-etica-e-fim-do-inquerito-das-fake-news/",
-    "time": "2026-09-04T14:48:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin: “Nenhuma autoridade está acima da Constituição”",
-    "d": "",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-nenhuma-autoridade-esta-acima-da-constituicao/",
-    "time": "2026-09-04T14:47:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Preços altos geram consequências reais para Washington e mercados",
-    "d": "Inflação persistente derruba aprovação de Trump e ameaça virar o Congresso para os democratas nas eleições de meio de mandato",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/precos-altos-geram-consequencias-reais-para-washington-e-mercados/",
-    "time": "2026-09-04T14:46:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "De volta à NBA! Ben Simmons acerta contrato de um ano com os Kings",
-    "d": "Ex-número 1 do Draft da NBA retorna à liga após ficar fora da temporada 2025-26",
-    "link": "https://www.cnnbrasil.com.br/esportes/basquete/de-volta-a-nba-ben-simmons-acerta-contrato-de-um-ano-com-os-kings/",
-    "time": "2026-09-04T14:46:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Foo Fighters no Rock in Rio 2026: confira possível setlist do show",
-    "d": "Banda ainda não confirmou as músicas desta noite, mas algumas músicas se repetiram nos últimos shows da turnê",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/foo-fighters-no-rock-in-rio-2026-confira-possivel-setlist-do-show/",
-    "time": "2026-09-04T14:45:36.000Z"
   },
   {
     "cat": "brasil",
@@ -72,12 +128,12 @@
     "time": "2026-09-04T14:45:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Só com respeito às instituições superamos desafios, diz ministro da Justiça",
-    "d": "Wellington César afirma que o \"apreço\" às instituições é fundamental em um Estado Democrático de Direito",
-    "link": "https://www.cnnbrasil.com.br/politica/so-com-respeito-as-instituicoes-superamos-desafios-diz-ministro-da-justica/",
-    "time": "2026-09-04T14:44:52.000Z"
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "UN to vote on adopting new world map that shows Africa’s true scale",
+    "d": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for the world to formally phase out the trad…",
+    "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+    "time": "2026-09-04T14:45:21.000Z"
   },
   {
     "cat": "brasil",
@@ -90,66 +146,18 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Fachin promete fim do inquérito das fake news, sob relatoria de Moraes desde 2019",
-    "d": "O presidente do STF, ministro Edson Fachin, durante sessão do tribunal nesta quinta-feira (13) Gustavo Moreno/STF O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, afirmou nesta quinta-feira (4) q…",
+    "h": "Fachin promete fim do inquérito das fake news, aberto no STF há 7 anos sob relatoria de Moraes",
+    "d": "'A gravidade dos fatos não autoriza atalhos', diz Fachin, presidente do STF O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, afirmou nesta sexta-feira (4) que a crise recente na Corte demonstra a…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/04/fachin-anuncia-fim-do-inquerito-das-fake-news.ghtml",
     "time": "2026-09-04T14:41:41.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Agentes da OpenAI invadiram site alemão, em ataque até então desconhecido",
-    "d": "Incidente aconteceu há meses e veio à tona após invasão da Hugging Face",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/agentes-da-openai-invadiram-site-alemao-em-ataque-ate-entao-desconhecido/",
-    "time": "2026-09-04T14:40:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após eliminações, Pedrinho chama reunião e cobra elenco do Cruzeiro",
-    "d": "Após eliminações para Atlético e Flamengo, gestor da SAF realizou reunião com elenco e comissão técnica na Toca da Raposa II",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/apos-eliminacoes-pedrinho-chama-reuniao-e-cobra-elenco-do-cruzeiro/",
-    "time": "2026-09-04T14:38:31.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
-    "h": "Em meio a 'crise Master' no STF, Fachin diz que fatos estão sendo apurados e que nenhuma autoridade está acima da Constituição",
-    "d": "O presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, afirmou nesta sexta-feira (4) que os fatos \"graves\" da \"crise Master\" que atinge a Corte estão em apuração e que nenhuma autoridade está acima da Cons…",
+    "h": "'Crise Master' no STF: Fachin diz que fatos estão em apuração e que nenhuma autoridade está acima da Constituição",
+    "d": "'A gravidade dos fatos não autoriza atalhos', diz Fachin, presidente do STF O presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, afirmou nesta sexta-feira (4) que os fatos \"graves\" da \"crise Master\" que…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/04/em-meio-a-crise-master-no-stf-fachin-defende-dialogo-entre-instituicoes-durante-evento-no-planalto.ghtml",
     "time": "2026-09-04T14:38:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Trabalhadores de app têm jornada maior, mas ganham menos por hora, aponta estudo do IBGE",
-    "d": "Valor recebido mensalmente se aproxima da média entre os outros empregados do setor privado, mas jornadas são mais extensas e não há direitos trabalhistas.",
-    "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T14:38:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Web exalta Marina Ruy Barbosa em encontro com Kendall Jenner: “Ofuscou”",
-    "d": "Famosos interagiram durante o Festival de Cinema de Veneza, na Itália",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/web-exalta-marina-ruy-barbosa-em-encontro-com-kendall-jenner-ofuscou/",
-    "time": "2026-09-04T14:33:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "De feira de praça a megaprodução: como surgiu a Bienal do Livro? Conheça a história por trás do evento",
-    "d": "Evento tem origem anterior à primeira edição oficial, em 1970",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/de-feira-de-praca-a-megaproducao-como-surgiu-a-bienal-do-livro-conheca-a-historia-por-tras-do-evento/",
-    "time": "2026-09-04T14:30:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Acordo de petróleo exige governo sério, diz opositora de Maduro",
-    "d": "María Corina Machado criticou o pacto firmado pelo que classifica como \"regime ilegítimo\" da Venezuela",
-    "link": "https://www.cnnbrasil.com.br/internacional/acordo-de-petroleo-exige-governo-serio-diz-opositora-de-maduro/",
-    "time": "2026-09-04T14:29:15.000Z"
   },
   {
     "cat": "brasil",
@@ -182,14 +190,6 @@
     "d": "Banco central dos Países Baixos transferiu 86 toneladas de suas reservas de ouro para Londres; mas por quê?",
     "link": "https://www.bbc.com/portuguese/articles/c7v4nn87vp9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T14:22:44.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – business live",
-    "d": "Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August It’s official, UK car sales jumped last month. New car registrations rose by 13.7% to 94,236 units in August, t…",
-    "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
-    "time": "2026-09-04T14:20:34.000Z"
   },
   {
     "cat": "internacional",
@@ -226,8 +226,8 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Colombian president posts video purporting to show 23 ‘neutralised’ guerrillas in body bags",
-    "d": "Footage provokes outrage as bellicose and performative far-right politics continue to spread across Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on socia…",
+    "h": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+    "d": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a…",
     "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
     "time": "2026-09-04T13:50:43.000Z"
   },
@@ -297,6 +297,14 @@
   },
   {
     "cat": "economia",
+    "src": "The Guardian",
+    "h": "US added 162,000 jobs in August, with unemployment rate holding steady",
+    "d": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August The US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market. The unemplo…",
+    "link": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
+    "time": "2026-09-04T12:40:44.000Z"
+  },
+  {
+    "cat": "economia",
     "src": "G1",
     "h": "Cadillac inicia pré-venda no Brasil este mês; SUVs podem passar dos R$ 600 mil",
     "d": "Cadillac Vistiq Divulgação A Cadillac informou nesta sexta-feira (4) que vai iniciar, em meados de setembro, a pré-venda de veículos no Brasil. A operação começa com os SUVs elétricos Lyriq e Vistiq. A marca ainda não…",
@@ -322,8 +330,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar tem leve alta após pesquisa eleitoral e dados de emprego dos EUA",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu em leve alta nesta sexta-feira (4), cotado a R$ 5,1107 por volta das 9h03, com avanço de 0,12%. Já o Ibovespa, principal índice da bolsa brasileira, começ…",
+    "h": "Dólar avança após pesquisa eleitoral e dados de emprego dos EUA; Ibovespa recua",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar operava em alta nesta sexta-feira (4) e era cotado a R$ 5,1215 por volta das 12h20, com avanço de 0,33%. Já o Ibovespa, principal índice da bolsa brasileira, re…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml",
     "time": "2026-09-04T12:00:00.000Z"
   },
@@ -426,7 +434,7 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+    "h": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
     "d": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
     "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T08:23:05.000Z"
@@ -470,14 +478,6 @@
     "d": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
     "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T04:06:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "UN to vote on adopting new world map that shows Africa’s true scale",
-    "d": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for the world to formally phase out the trad…",
-    "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-    "time": "2026-09-04T02:00:54.000Z"
   },
   {
     "cat": "brasil",
