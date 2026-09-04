@@ -1,5 +1,37 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vai trabalhar no feriado de 7 de Setembro? Veja se dá para emendar e quais são seus direitos",
+    "d": "Feriadão à vista: falta uma semana para o próximo feriado prolongado Muitos trabalhadores já estão de olho no tão esperado “feriadão” que chega na próxima segunda-feira (7): o Dia da Independência do Brasil. A data é…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/04/vai-trabalhar-no-feriado-de-7-de-setembro-veja-se-da-para-emendar-e-quais-sao-seus-direitos.ghtml",
+    "time": "2026-09-04T03:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Argentine leader says oil firms working off Falklands face sanctions",
+    "d": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+    "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T02:53:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Ninguém deve ser poupado', diz Augusto Cury sobre Supremo e perda de confiança nas instituições",
+    "d": "O candidato a presidente Augusto Cury (Avante), durante uma palestra em uma igreja de Ribeirão Preto (SP). Fabiano Minatto/EPTV O candidato a presidente da República Augusto Cury (Avante) criticou nesta quinta-feira (…",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/03/ninguem-deve-ser-poupado-diz-augusto-cury-sobre-supremo-e-perda-de-confianca-nas-instituicoes.ghtml",
+    "time": "2026-09-04T02:44:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caso Moraes é sobre quem sobrevive à crise no STF, diz especialista",
+    "d": "Ao WW, Felipe Recondo, jornalista e pesquisador do STF, avalia que o nível das acusações entre ministros torna difícil que Alexandre de Moraes e André Mendonça permaneçam no tribunal",
+    "link": "https://www.cnnbrasil.com.br/politica/caso-moraes-e-sobre-quem-sobrevive-a-crise-no-stf-diz-especialista/",
+    "time": "2026-09-04T02:39:01.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Como engenheiros orientam esforços de resgate no Nepal em grupo de WhatsApp",
@@ -105,14 +137,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "À CNN, Renan diz que Trump “vem se comportando muito mal nessas eleições”",
-    "d": "Candidato do Missão afirma que Brasil deve combater garimpo ilegal e defender competitividade do agronegócio nacional diante dos EUA",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-renan-diz-que-trump-vem-se-comportando-muito-mal-nessas-eleicoes/",
-    "time": "2026-09-04T01:33:34.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Crise escala no STF, e aliados de Mendonça veem ofensiva de Moraes para tirá-lo da relatoria do Master",
     "d": "André Mendonça e Alexandre de Moraes durante sessão plenária do STF Antonio Augusto/STF A crise provocada pelo Caso Master escalou para um patamar sem precedentes dentro do Supremo. Nos bastidores, ministros avaliam q…",
@@ -136,6 +160,14 @@
     "time": "2026-09-04T01:21:22.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Volkswagen board approves plan to cut another 50,000 jobs",
+    "d": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T01:20:32.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "Renan Santos defende discutir nova Constituição como resposta à crise no STF",
@@ -150,6 +182,14 @@
     "d": "Veja como foi a agenda política dos candidatos ao Governo de Goiás nesta quinta-feira (3) Os candidatos ao governo de Goiás cumpriram agenda de campanha nesta quinta-feira (3). Entre os compromissos, Luciana Amorim (U…",
     "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/03/veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-quinta-feira-3.ghtml",
     "time": "2026-09-04T01:13:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+    "d": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T00:54:46.000Z"
   },
   {
     "cat": "brasil",
@@ -273,14 +313,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: 47% rejeitam Flávio Bolsonaro, e 45%, Lula",
-    "d": "Datafolha rejeição: Flávio Bolsonaro tem 47%; Lula tem 45% Pesquisa Datafolha divulgada nesta quinta-feira (3) mostra 47% dizem que não votariam em Flávio Bolsonaro (PL) de jeito nenhum, e 45% responderam o mesmo sobr…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-rejeicao-candidatos-3-setembro.ghtml",
-    "time": "2026-09-03T22:14:26.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos",
     "d": "Ministro indicado por Jair Bolsonaro era detentor de cotas do Instituto Iter; Mendonça afirma que nunca auferiu lucro com participação na instituição",
@@ -377,14 +409,6 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Câmara aprova fim da taxa das blusinhas; MP segue para o Senado",
-    "d": "Depois de um acordo com o presidente Lula (PT), a Câmara dos Deputados aprovou nesta quinta-feira (3) a medida provisória (MP) que acaba com a taxa das blusinhas. A aprovação se deu por votação simbólica. Agora, a MP…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/03/camara-aprova-fim-da-taxa-das-blusinhas-mp-segue-para-o-senado.ghtml",
-    "time": "2026-09-03T18:59:47.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
     "d": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, wi…",
@@ -434,14 +458,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-    "d": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T16:16:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Around 2,000 fall ill in Indonesia after eating free school meals",
     "d": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
@@ -472,14 +488,6 @@
     "time": "2026-09-03T14:12:55.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-    "d": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-    "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T13:54:49.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
@@ -502,14 +510,6 @@
     "d": "Relocation coincides with proposed laws that opponents say would entrench power of US tech billionaires in country Dozens of protesters converged on Peter Thiel’s mansion in Buenos Aires this week after a congressiona…",
     "link": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
     "time": "2026-09-03T12:00:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-    "d": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-    "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T10:37:06.000Z"
   },
   {
     "cat": "internacional",
