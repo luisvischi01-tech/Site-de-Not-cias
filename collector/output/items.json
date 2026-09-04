@@ -1,6 +1,62 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Entenda a reviravolta que levou ao fim da \"taxa das blusinhas\"",
+    "d": "Congresso aprova MP que acabou com a taxa das blusinhas O Congresso Nacional aprovou nesta quinta-feira (03/09) a medida provisória que mantém o fim da apelidada \"taxa das blusinhas\". Até então, o fim era considerado…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/04/entenda-a-reviravolta-que-levou-ao-fim-da-taxa-das-blusinhas.ghtml",
+    "time": "2026-09-04T10:28:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça",
+    "d": "Jornal argentino La Nacion publica reportagem com a manchete 'Crise no Supremo Tribunal Federal se agrava, e Lula pede investigação transparente'.",
+    "link": "https://www.bbc.com/portuguese/articles/cgrvgzj74w4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T10:27:37.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "À PF, Vorcaro diz que presidente do BC era a favor da fusão com BRB",
+    "d": "Fala foi feita na Papudinha em depoimento que apura pagamentos de propina a diretores do Banco Central",
+    "link": "https://www.cnnbrasil.com.br/politica/a-pf-vorcaro-diz-que-presidente-do-bc-era-a-favor-da-fusao-com-brb/",
+    "time": "2026-09-04T10:19:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Incêndios florestais avançam perto da nova capital da Indonésia",
+    "d": "Indonésia intensificou os esforços para conter a fumaça em seis províncias de Bornéu e Sumatra, as mais afetadas por incêndios florestais e queimadas. Até agora, as áreas atingidas somam 73.311 hectares",
+    "link": "https://www.cnnbrasil.com.br/internacional/incendios-florestais-avancam-perto-da-nova-capital-da-indonesia/",
+    "time": "2026-09-04T10:18:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Voto latino coloca disputa pelo governo do Texas no radar democrata",
+    "d": "No estado americano, tradicionalmente inclinado ao partido Republicano, campanha testa se democratas podem recuperar apoio entre eleitores latinos ao enfatizar questões econômicas do cotidiano",
+    "link": "https://www.cnnbrasil.com.br/internacional/voto-latino-coloca-disputa-pelo-governo-do-texas-no-radar-democrata/",
+    "time": "2026-09-04T10:14:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vorcaro diz à PF que tem muitos temas “a revelar” e pede colaboração",
+    "d": "Declaração ocorreu em depoimento dentro da Papudinha",
+    "link": "https://www.cnnbrasil.com.br/politica/vorcaro-diz-a-pf-que-tem-muitos-temas-a-revelar-e-pede-colaboracao/",
+    "time": "2026-09-04T10:10:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O Grande Debate: Contra-ataque de Moraes a Mendonça é defesa ou vingança?",
+    "d": "Magistrado usou o inquérito das Fake News para acusar colega de três crimes; Fachin deu cinco dias para manifestações",
+    "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-contra-ataque-de-moraes-a-mendonca-e-defesa-ou-vinganca/",
+    "time": "2026-09-04T10:09:56.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Israel diz ter retirado combatentes do Hezbollah de túneis no Líbano",
     "d": "Exército israelense afirmou que alguns combatentes do Hezbollah foram “eliminados”, enquanto outros fugiram",
@@ -24,12 +80,28 @@
     "time": "2026-09-04T10:00:20.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+    "d": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T10:00:18.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Palmeiras x Bahia: horário e onde assistir o Campeonato Brasileiro Feminino",
     "d": "Equipes vão a campo nesta sexta-feira (04), pela partida de volta das quartas de final da competição",
     "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-x-bahia-horario-e-onde-assistir-o-campeonato-brasileiro-feminino/",
     "time": "2026-09-04T10:00:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US diesel prices hit an all-time-high",
+    "d": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+    "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T09:59:50.000Z"
   },
   {
     "cat": "brasil",
@@ -72,44 +144,12 @@
     "time": "2026-09-04T09:29:46.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Governo tenta acalmar mercado e promete segurança na regulamentação de lei",
-    "d": "Interlocutores dizem que conselho de minerais críticos não vai travar negócios rotineiros; exportações seguem como principal ponto em aberto",
-    "link": "https://www.cnnbrasil.com.br/infra/governo-tenta-acalmar-mercado-e-promete-seguranca-na-regulamentacao-de-lei/",
-    "time": "2026-09-04T09:10:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Romênia denuncia Andrew Tate por tráfico de menores e lavagem de dinheiro",
-    "d": "Andrew Tate e o irmão Tristan foram presos em Miami no fim de julho depois que o Reino Unido solicitou a extradição dos dois",
-    "link": "https://www.cnnbrasil.com.br/internacional/romenia-denuncia-andrew-tate-por-trafico-de-menores-e-lavagem-de-dinheiro/",
-    "time": "2026-09-04T09:07:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Margem Equatorial vai exigir US$ 36 bi em investimentos, diz Scotiabank",
-    "d": "Banco estima cinco projetos de produção na Foz do Amazonas, com primeiro óleo em 2033 e pico de gastos de US$ 4 bilhões por ano",
-    "link": "https://www.cnnbrasil.com.br/infra/margem-equatorial-vai-exigir-us-36-bi-em-investimentos-diz-scotiabank/",
-    "time": "2026-09-04T09:05:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rock in Rio 2026: veja o line-up e horários dos shows desta sexta (4)",
-    "d": "Festival reúne grandes nomes da música nesta abertura, com transmissão ao vivo e atrações espalhadas por seis espaços",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-veja-o-line-up-e-horarios-dos-shows-desta-sexta-4/",
-    "time": "2026-09-04T09:00:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ações de empresas com terras raras no Brasil desabam em semana de nova lei",
-    "d": "Papéis caem até 17% em cinco pregões; fontes apontam aumento da incerteza regulatória, mas dizem que fatores globais também pesaram",
-    "link": "https://www.cnnbrasil.com.br/infra/acoes-de-empresas-com-terras-raras-no-brasil-desabam-em-semana-de-nova-lei/",
-    "time": "2026-09-04T09:00:05.000Z"
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "UK hits back at Argentinian Falklands claim and insists islands remain British",
+    "d": "Ed Miliband says Britain’s position remains ‘unwavering’ in response to remarks by Argentina’s president UK politics live – latest updates British ministers have hit back after the Argentinian president said “winds of…",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
+    "time": "2026-09-04T09:24:46.000Z"
   },
   {
     "cat": "economia",
@@ -126,6 +166,14 @@
     "d": "Equipe da BBC acompanhou missão humanitária da ONU, que diz que Israel reforça suas posições e segue demolindo estruturas.",
     "link": "https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T08:40:21.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+    "d": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+    "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T08:23:05.000Z"
   },
   {
     "cat": "economia",
@@ -297,14 +345,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nepal says it will need billions in funding to rebuild after flash floods",
-    "d": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-    "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T02:20:37.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "UN to vote on adopting new world map that shows Africa’s true scale",
     "d": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for the world to formally phase out the trad…",
@@ -318,14 +358,6 @@
     "d": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, expondo rivalidade q…",
     "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T01:41:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Crise escala no STF, e aliados de Mendonça veem ofensiva de Moraes para tirá-lo da relatoria do Master",
-    "d": "André Mendonça e Alexandre de Moraes durante sessão plenária do STF Antonio Augusto/STF A crise provocada pelo Caso Master escalou para um patamar sem precedentes dentro do Supremo. Nos bastidores, ministros avaliam q…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/crise-stf-mendonca-moraes-relatoria-master.ghtml",
-    "time": "2026-09-04T01:26:42.000Z"
   },
   {
     "cat": "internacional",
@@ -433,22 +465,6 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Volkswagen aprova plano que pode cortar 50 mil empregos; veja o que está por trás da decisão",
-    "d": "Volkswagen faz recall de 150 mil veículos por possível falha em freio A Volkswagen aprovou nesta quinta-feira (3) um plano de transformação que pode eliminar cerca de 50 mil empregos, incluindo cargos de gestão, em um…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/03/volkswagen-aprova-plano-que-pode-cortar-50-mil-empregos-veja-o-que-esta-por-tras-da-decisao.ghtml",
-    "time": "2026-09-03T20:41:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres",
-    "d": "Uma das principais líderes na defesa dos direitos das mulheres nos Estados Unidos morreu aos 92 anos.",
-    "link": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T19:22:30.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
     "d": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, wi…",
@@ -462,14 +478,6 @@
     "d": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
     "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T18:14:57.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-    "d": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T18:04:34.000Z"
   },
   {
     "cat": "economia",
@@ -502,14 +510,6 @@
     "d": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T15:48:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Palestinian teens killed during settler attack on West Bank village",
-    "d": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-    "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T15:05:57.000Z"
   },
   {
     "cat": "internacional",
@@ -574,14 +574,6 @@
     "d": "Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’ The Dutch central bank says it has moved 86 tonnes of its gold reserves out…",
     "link": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
     "time": "2026-09-02T23:47:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-    "d": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Don…",
-    "link": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-    "time": "2026-09-02T21:15:12.000Z"
   },
   {
     "cat": "economia",
