@@ -1,19 +1,43 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Argentine leader threatens to sanction oil firms working off Falklands",
+    "d": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+    "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T05:01:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
+    "d": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política.",
+    "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T04:59:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dois homens são resgatados de túnel no Nepal nove dias após enchentes",
+    "d": "Equipes de emergência também ouviram vozes na usina hidrelétrica, onde 42 trabalhadores ainda estão desaparecidos",
+    "link": "https://www.cnnbrasil.com.br/internacional/homens-sao-resgatados-de-tunel-no-nepal-nove-dias-apos-enchentes/",
+    "time": "2026-09-04T04:14:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+    "d": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T04:06:41.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Presidente do Inter “banca” Pezzolano e faz apelo à torcida: “Pela camisa”",
     "d": "Alessandro Barcellos fez pronunciamento após a dura eliminação para o arquirrival Grêmio na Copa do Brasil nesta quinta-feira (3)",
     "link": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/presidente-do-inter-banca-pezzolano-e-faz-apelo-a-torcida-pela-camisa/",
     "time": "2026-09-04T03:34:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Moraes acusa Mendonça de agir por 'motivos políticos' e pede providências de Fachin contra o colega de STF; o que se sabe da crise na Corte",
-    "d": "Alexandre de E o presidente do STF Edson Fachin pediu esclarecimentos aos ministros Alexandre de Moraes e André Mendonça; enquanto isso, Moraes pediu formalmente a inclusão de Mendonça no chamado Inquérito das Fake News.",
-    "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T03:30:48.000Z"
   },
   {
     "cat": "brasil",
@@ -136,14 +160,6 @@
     "time": "2026-09-04T03:00:00.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Argentine leader says oil firms working off Falklands face sanctions",
-    "d": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-    "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T02:53:07.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Resultado eleitoral deve, também, ditar o futuro do STF, diz especialista",
@@ -184,20 +200,20 @@
     "time": "2026-09-04T02:25:40.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Nepal says it will need billions in funding to rebuild after flash floods",
+    "d": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+    "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T02:20:37.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Orlando Luz e Rafael Matos no US Open: horário e onde assistir à estreia",
     "d": "Dupla brasileira de tenistas é cabeça de chave número 8 e entrará em quadra pela primeira vez no torneio nova-iorquino deste ano nesta sexta (4)",
     "link": "https://www.cnnbrasil.com.br/esportes/tenis/orlando-luz-e-rafael-matos-no-us-open-horario-e-onde-assistir-a-estreia/",
     "time": "2026-09-04T02:18:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PF diz que Mendonça desconfiava de Gonet por proximidade com Gilmar Mendes",
-    "d": "Relatório citado por Moraes afirma que ministro cogitou transformar procurador-geral em testemunha",
-    "link": "https://www.cnnbrasil.com.br/politica/pf-diz-que-mendonca-desconfiava-de-gonet-por-proximidade-com-gilmar-mendes/",
-    "time": "2026-09-04T02:17:10.000Z"
   },
   {
     "cat": "internacional",
@@ -222,14 +238,6 @@
     "d": "André Mendonça e Alexandre de Moraes durante sessão plenária do STF Antonio Augusto/STF A crise provocada pelo Caso Master escalou para um patamar sem precedentes dentro do Supremo. Nos bastidores, ministros avaliam q…",
     "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/crise-stf-mendonca-moraes-relatoria-master.ghtml",
     "time": "2026-09-04T01:26:42.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-    "d": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-    "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T01:26:23.000Z"
   },
   {
     "cat": "internacional",
@@ -526,14 +534,6 @@
     "d": "A visual look at how Washington’s relationship with Caracas has gone from cordial to ‘predatory’ Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism Nobel laureate Machado: ‘Illegitimate’ Venezue…",
     "link": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
     "time": "2026-09-03T10:00:50.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-    "d": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-    "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T09:37:34.000Z"
   },
   {
     "cat": "brasil",
