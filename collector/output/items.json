@@ -1,5 +1,21 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que Brasil e EUA devem trilhões — e quem empresta esse dinheiro aos governos?",
+    "d": "Quanto custa a dívida de um país? Governos recorrem à dívida quando gastam mais do que arrecadam. Para cobrir essa diferença, emitem títulos públicos e tomam dinheiro emprestado de bancos, fundos, empresas, outros paí…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/09/04/quem-empresta-dinheiro-a-governos.ghtml",
+    "time": "2026-09-04T06:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
+    "d": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política.",
+    "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T05:40:16.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Volkswagen board approves plan to cut another 50,000 jobs",
@@ -9,11 +25,11 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
-    "d": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política.",
-    "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T05:07:30.000Z"
+    "src": "CNN Brasil",
+    "h": "Tufão Saudel provoca chuvas torrenciais e inundações na costa da China",
+    "d": "Mais de 80 mil moradores foram retirados de suas casas em Fujian, enquanto autoridades fecharam escolas e suspenderam o transporte público diante do avanço do fenômeno",
+    "link": "https://www.cnnbrasil.com.br/internacional/tufao-saudel-provoca-chuvas-torrenciais-e-inundacoes-na-costa-da-china/",
+    "time": "2026-09-04T05:04:06.000Z"
   },
   {
     "cat": "internacional",
@@ -26,7 +42,7 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Argentine leader threatens to sanction oil firms working off Falklands",
+    "h": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
     "d": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
     "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T05:01:33.000Z"
@@ -216,14 +232,6 @@
     "time": "2026-09-04T02:39:01.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como engenheiros orientam esforços de resgate no Nepal em grupo de WhatsApp",
-    "d": "Especialistas auxiliam equipes de busca que vasculham um vale na região atingida por uma inundação que deixou 2,2 milhões de toneladas de lama e detritos",
-    "link": "https://www.cnnbrasil.com.br/internacional/como-engenheiros-orientam-esforcos-de-resgate-no-nepal-em-grupo-de-whatsapp/",
-    "time": "2026-09-04T02:25:40.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Nepal says it will need billions in funding to rebuild after flash floods",
@@ -406,14 +414,6 @@
     "d": "Uma das principais líderes na defesa dos direitos das mulheres nos Estados Unidos morreu aos 92 anos.",
     "link": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T19:22:30.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Governo anuncia que INSS passou a analisar mais pedidos de benefícios por mês do que número de novos requerimentos",
-    "d": "Lula responde a pergunta sobre fila do INSS O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira (3) que o Instituto Nacional do Seguro Social (INSS) passou a analisar mais pedidos de ben…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/03/governo-anuncia-que-inss-passou-a-analisar-mais-pedidos-de-beneficios-por-mes-do-que-numero-de-novos-requerimentos.ghtml",
-    "time": "2026-09-03T19:18:44.000Z"
   },
   {
     "cat": "brasil",
