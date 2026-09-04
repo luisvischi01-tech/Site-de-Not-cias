@@ -1,11 +1,107 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+    "d": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T16:02:32.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Trabalhador de app tem jornada maior, mas ganha menos por hora, aponta estudo do IBGE",
+    "h": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
     "d": "Valor recebido mensalmente se aproxima da média entre os outros empregados do setor privado, mas jornadas são mais extensas e não há direitos trabalhistas.",
     "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T15:32:59.000Z"
+    "time": "2026-09-04T15:52:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1",
+    "d": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1 Candidatos com representação no Congresso ou que tiveram mais de 5% na última pesquisa Quaest foram convidados. Beto do Movimento (PSOL), Soraya (P…",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-mato-grosso-do-sul.ghtml",
+    "time": "2026-09-04T15:51:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Fachin diz que meta é acabar com Inquérito das Fake News e manda tirar acusações contra Mendonça da investigação",
+    "d": "Presidente do Supremo também determinou que a PGR se manifeste em até cinco dias úteis sobre o pedido de investigação feito pelo ministro Alexandre de Moraes contra o ministro André Mendonça.",
+    "link": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T15:49:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%",
+    "d": "Lula, Flávio, Cury, Renan, Caiado e Zema Globo Pesquisa Quaest divulgada nesta sexta-feira (4) mostra como está a disputa pela Presidência da República no 1º turno entre os eleitores do Ceará. O levantamento foi encom…",
+    "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml",
+    "time": "2026-09-04T15:47:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF",
+    "d": "Fachin defende fim do inquérito das fake news no STF O arquivamento do inquérito das fake news passou a ser discutido por ministros do Supremo Tribunal Federal (STF) e foi defendido pelo presidente da Corte, Edson Fac…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/04/inquerito-das-fake-news-tem-mais-de-sete-anos-pressiona-moraes-e-ampliou-crise-no-stf.ghtml",
+    "time": "2026-09-04T15:46:38.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Agentes de IA da OpenAI invadem site alemão e criam fórum para burlar regras da própria empresa",
+    "d": "Como agentes de IA da OpenAI invadiram sistema e tentaram apagar os próprios rastros Um grupo de agentes de inteligência artificial da OpenAI invadiu, em maio deste ano, um site alemão e o transformou em uma espécie d…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/04/agentes-de-ia-da-openai-invadem-site-alemao-e-criam-forum-para-burlar-regras-da-propria-empresa.ghtml",
+    "time": "2026-09-04T15:46:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no Ceará: 49% aprovam e 38% desaprovam governo de Elmano de Freitas",
+    "d": "Elmano de Freitas, governador do Ceará e candidato à reeleição. Thiago Gadelha/SVM Pesquisa Quaest divulgada nesta sexta-feira (4) mostra como está a avaliação do governo do Ceará e os índices de aprovação e desaprova…",
+    "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-avaliacao-governo-4-setembro.ghtml",
+    "time": "2026-09-04T15:43:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado no CE: Cid Gomes, 23%; Capitão Wagner, 20%; Luizianne, 13%; Alcides Fernandes, 5%",
+    "d": "Quaest: veja como está a disputa pelo Senado no CE. Thiago Gadelha/SVM; Agência Câmara; Thiago Gadelha/SVM; Thiago Gadelha/SVM. Pesquisa Quaest divulgada nesta sexta-feira (4) mostra como está a disputa pelo Senado no…",
+    "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-senado-4-setembro.ghtml",
+    "time": "2026-09-04T15:41:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no Ceará: Ciro tem 45%; Elmano tem 34%",
+    "d": "Ciro Gomes e Elmano de Freitas lideram a disputa pelo Governo do Ceará nas eleições 2026. Sistema Verdes Mares Pesquisa Quaest divulgada nesta sexta-feira (4) mostra como está a disputa para o governo do Ceará. Na pes…",
+    "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-governador-4-setembro.ghtml",
+    "time": "2026-09-04T15:36:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Julgamento de Lindsay Clancy termina sem veredito após impasse do júri",
+    "d": "A enfermeira americana de 36 anos respondia por três acusações de homicídio em primeiro grau pelas mortes dos filhos",
+    "link": "https://www.cnnbrasil.com.br/internacional/julgamento-de-lindsay-clancy-termina-sem-veredito-apos-impasse-do-juri/",
+    "time": "2026-09-04T15:36:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Beyoncé lança álbum de regravações em celebração aos 45 anos",
+    "d": "Cantora aproveitou aniversário para também celebrar 20 anos do disco \"B'Day\"",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/beyonce-lanca-album-de-regravacoes-em-celebracao-aos-45-anos/",
+    "time": "2026-09-04T15:30:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "IA já supera QI médio da população humana, indica pesquisa",
+    "d": "Claude Fable 5, modelo de ponta da Anthropic, obteve a maior pontuação nos testes",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-ja-supera-qi-medio-da-populacao-humana-indica-pesquisa/",
+    "time": "2026-09-04T15:30:07.000Z"
   },
   {
     "cat": "brasil",
@@ -81,38 +177,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula critica vazamentos e cobra Fachin e Gonet por solução de crise no STF",
-    "d": "Fala aconteceu em cerimônia no Palácio do Planalto nesta sexta-feira (4); presidente do STF e PGR estavam sentados próximos a Lula no momento",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-critica-vazamentos-e-cobra-fachin-e-gonet-por-solucao-de-crise-no-stf/",
-    "time": "2026-09-04T15:05:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em meio à crise no STF, Lula defende reforma do Judiciário no próximo ano",
-    "d": "",
-    "link": "https://www.cnnbrasil.com.br/politica/em-meio-a-crise-no-stf-lula-defende-reforma-do-judiciario-no-proximo-ano/",
-    "time": "2026-09-04T15:05:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1",
-    "d": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1 Candidatos com representação no Congresso ou que tiveram mais de 5% na última pesquisa Quaest foram convidados. Beto do Movimento (PSOL), Soraya (P…",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-mato-grosso-do-sul.ghtml",
-    "time": "2026-09-04T14:56:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin diz que resposta à crise do STF será firme, proporcional e rigorosa",
-    "d": "Presidente da Corte ressaltou que nenhuma autoridade está acima da Constituição e que a gravidade dos fatos \"não autoriza atalhos\"",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-diz-que-resposta-a-crise-do-stf-sera-firme-proporcional-e-rigorosa/",
-    "time": "2026-09-04T14:54:03.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "'Crise Master' no STF: Lula volta a defender reforma no Judiciário e diz que todos devem seguir a lei independente do cargo",
     "d": "Evento no Palácio do Planalto para reunir recursos para o Judiciário. Marcione Santana/ TV Globo O presidente Luiz Inácio Lula da Silva (PT) voltou a defender nesta sexta-feira (4) uma reforma no Poder Judiciário e af…",
@@ -122,7 +186,7 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Lula sanciona criação de fundo para reunir recursos destinados ao sistema de Justiça",
+    "h": "Lula sanciona lei que cria fundo para reunir recursos destinados à Justiça",
     "d": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta sexta-feira (4) a lei que cria o Fundo do Sistema de Justiça. Na prática, o fundo funciona como uma espécie de conta para reunir recursos arrecadados pelas i…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/04/lula-sanciona-criacao-de-fundo-para-reunir-recursos-destinados-ao-sistema-de-justica.ghtml",
     "time": "2026-09-04T14:45:27.000Z"
@@ -152,9 +216,17 @@
     "time": "2026-09-04T14:41:41.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+    "d": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+    "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T14:40:00.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
-    "h": "'Crise Master' no STF: Fachin diz que fatos estão em apuração e que nenhuma autoridade está acima da Constituição",
+    "h": "'Crise Master' no STF: Fachin diz que nenhuma autoridade está acima da Constituição e que resposta a fatos 'graves' será 'firme'",
     "d": "'A gravidade dos fatos não autoriza atalhos', diz Fachin, presidente do STF O presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, afirmou nesta sexta-feira (4) que os fatos \"graves\" da \"crise Master\" que…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/04/em-meio-a-crise-master-no-stf-fachin-defende-dialogo-entre-instituicoes-durante-evento-no-planalto.ghtml",
     "time": "2026-09-04T14:38:28.000Z"
@@ -203,17 +275,9 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF",
-    "d": "Valdo: Aliados de Fachin cobram punição a 2 lados Aliados do presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, defendem que ele leve ao plenário uma proposta que dê respostas aos dois protagonista da \"c…",
+    "d": "Valdo: Aliados de Fachin cobram punição a 2 lados Aliados do presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, defendem que ele leve ao plenário uma proposta que dê respostas aos dois protagonistas da \"…",
     "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/04/fachin-precisa-propor-algum-tipo-de-punicao-para-moraes-e-mendonca-dizem-interlocutores-do-presidente-do-stf.ghtml",
     "time": "2026-09-04T14:10:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Conselho Superior do MPF abre procedimento para analisar citações a Gonet em mensagens atribuídas a Vorcaro",
-    "d": "O Conselho Superior do Ministério Público Federal (CSMPF) abriu um procedimento interno para analisar mensagens atribuídas ao ex-banqueiro Daniel Vorcaro que mencionam o procurador-geral da República, Paulo Gonet, no…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/04/conselho-superior-do-mpf-abre-procedimento-para-analisar-citacoes-a-paulo-gonet-em-mensagens-atribuidas-a-daniel-vorcaro.ghtml",
-    "time": "2026-09-04T14:01:49.000Z"
   },
   {
     "cat": "economia",
@@ -240,28 +304,12 @@
     "time": "2026-09-04T13:44:58.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Moraes pediu à PF relatórios de inteligência que citavam ministros do STF",
-    "d": "Sadi: Moraes pediu à PF relatórios de inteligência que citavam ministros do STF O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), pediu à Polícia Federal que enviasse a ele relatórios de inteligência…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/04/moraes-pf-relatorios-stf.ghtml",
-    "time": "2026-09-04T13:26:04.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Nanoempreendedor fica dispensado de se inscrever no CNPJ e de emitir nota fiscal eletrônica até o fim de 2028",
     "d": "Saiba como funciona a categoria tributária nanoempreendedor O chamado nanoempreendedor, microempreendedores com receita anual inferior a R$ 40,5 mil, não precisa mais se inscrever no CNPJ e nem emitir a nota fiscal el…",
     "link": "https://g1.globo.com/empreendedorismo/noticia/2026/09/04/nanoempreendedor-fica-dispensado-de-se-inscrever-no-cnpj-e-de-emitir-nota-fiscal-eletronica-ate-o-fim-de-2028.ghtml",
     "time": "2026-09-04T13:24:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "STF fixa critério nacional para gratuidade da Justiça e adota renda de até R$ 5 mil como parâmetro",
-    "d": "O Supremo Tribunal Federal (STF) definiu nesta quinta-feira (3) novos critérios para a concessão da gratuidade da Justiça em todo o país. Pela decisão, pessoas com renda mensal de até R$ 5 mil terão direito ao benefíc…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/04/stf-fixa-criterio-nacional-para-gratuidade-da-justica-e-adota-renda-de-ate-r-5-mil-como-parametro.ghtml",
-    "time": "2026-09-04T13:12:35.000Z"
   },
   {
     "cat": "brasil",
@@ -310,14 +358,6 @@
     "d": "Cadillac Vistiq Divulgação A Cadillac informou nesta sexta-feira (4) que vai iniciar, em meados de setembro, a pré-venda de veículos no Brasil. A operação começa com os SUVs elétricos Lyriq e Vistiq. A marca ainda não…",
     "link": "https://g1.globo.com/carros/noticia/2026/09/04/cadillac-inicia-pre-venda-no-brasil.ghtml",
     "time": "2026-09-04T12:37:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: TSE conclui assinatura digital e lacra sistemas das urnas eletrônicas",
-    "d": "O Tribunal Superior Eleitoral (TSE) encerrou nesta sexta-feira (4) a cerimônia de assinatura digital e a lacração dos sistemas eleitorais que serão utilizados nas eleições deste ano. Os sistemas foram assinados pelo p…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-tse-conclui-assinatura-digital-e-lacra-sistemas-das-urnas-eletronicas.ghtml",
-    "time": "2026-09-04T12:26:13.000Z"
   },
   {
     "cat": "brasil",
@@ -433,22 +473,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
-    "d": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-    "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T08:23:05.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Como será viajar no jato da Embraer que consegue pousar sozinho",
-    "d": "Como será viajar no jato da Embraer que consegue pousar sozinho Mais conforto, mais segurança e voos diretos para todas as capitais do país: essas são as promessas do novo jato leve Phenom 300EV, modelo da Embraer cap…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/04/como-sera-viajar-no-jato-da-embraer-que-consegue-pousar-sozinho.ghtml",
-    "time": "2026-09-04T08:12:31.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
     "d": "Seoul reportedly seeking parliamentary approval to send military assets to Middle East but president’s office plays down claims South Korea is reviewing a possible deployment of military assets to the strait of Hormuz…",
@@ -478,14 +502,6 @@
     "d": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
     "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T04:06:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-    "d": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, expondo rivalidade q…",
-    "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T01:41:23.000Z"
   },
   {
     "cat": "internacional",
@@ -574,14 +590,6 @@
     "d": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpevi…",
     "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
     "time": "2026-09-03T10:11:37.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "UN warns of 'supersized' El Niño as countries prepare for impact",
-    "d": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-    "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T06:01:54.000Z"
   },
   {
     "cat": "economia",
