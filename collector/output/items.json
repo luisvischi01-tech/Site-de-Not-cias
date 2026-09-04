@@ -1,6 +1,54 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1",
+    "d": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1 Participam Beto do Movimento (PSOL), Soraya (PSB), Valter da Comagran (PRD) e Vander Loubet (PT). Também foram convidados Capitão Contar e Reinaldo…",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-mato-grosso-do-sul.ghtml",
+    "time": "2026-09-04T18:25:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Caso Master virou uma metástase”, diz ex-ministro da Justiça",
+    "d": "Em entrevista ao Bastidores CNN, Miguel Reale Júnior analisa crise no STF entre Alexandre de Moraes e André Mendonça e alerta para risco de anomia no país",
+    "link": "https://www.cnnbrasil.com.br/politica/caso-master-virou-uma-metastase-diz-ex-ministro-da-justica/",
+    "time": "2026-09-04T18:09:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "ONU aprova resolução para adotar novo mapa do mundo; veja diferenças",
+    "d": "Resolução “Corrigir o Mapa”, apresentada pelos Estados-membros da União Africana, bem como pelas Bahamas, foi aprovada com apoio esmagador; apenas os Estados Unidos votaram contra",
+    "link": "https://www.cnnbrasil.com.br/internacional/onu-aprova-resolucao-para-adotar-novo-mapa-do-mundo-veja-diferencas/",
+    "time": "2026-09-04T18:03:33.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Balança comercial registra superávit de US$ 7,3 bilhões em agosto",
+    "d": "Saldo positivo aumentou 23,8% em relação ao mesmo período de 2025",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/balanca-comercial-registra-superavit-de-us-73-bilhoes-em-agosto/",
+    "time": "2026-09-04T18:03:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "STJD condena Santos por cusparadas de torcedores em Reinaldo, do Mirassol",
+    "d": "Clube havia sido absolvido após identificar um dos envolvidos, mas Pleno considerou comprovada a participação de um segundo torcedor",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/stjd-condena-santos-por-cusparadas-de-torcedores-em-reinaldo-do-mirassol/",
+    "time": "2026-09-04T18:03:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Balança comercial tem superávit de US$ 7,4 bilhões em agosto, maior saldo para o mês em 3 anos",
+    "d": "A balança comercial registrou superávit de US$ 7,4 bilhões em agosto, informou o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) nesta sexta-feira (4). 🔎 O resultado é de superávit quanto as expo…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/04/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto.ghtml",
+    "time": "2026-09-04T18:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Corinthians recebe multa no STJD por ofensas a garoto fã de Neymar",
     "d": "Episódio aconteceu no clássico contra o Santos, na Neo Química Arena, em Itaquera, pelo Campeonato Brasileiro",
@@ -24,6 +72,14 @@
     "time": "2026-09-04T17:56:20.000Z"
   },
   {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
+    "d": "Fox announced host’s departure Thursday but gave no explanation, only saying it was effective immediately Maria Bartiromo’s lawyer sharply denied that she was fired from her job at Fox News on Friday, after reports th…",
+    "link": "https://www.theguardian.com/media/2026/sep/04/maria-bartiromo-lawyer-denies-fox-news-firing",
+    "time": "2026-09-04T17:56:11.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Fe Paes Leme revela que passou por perda gestacional antes de engravidar",
@@ -38,14 +94,6 @@
     "d": "Exibição do festival de música se concentra nos canais Multishow e Bis, do Globoplay",
     "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-show-ao-vivo-tv-aberta-elton-john/",
     "time": "2026-09-04T17:55:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1",
-    "d": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1 Participam Beto do Movimento (PSOL), Soraya (PSB), Valter da Comagran (PRD) e Vander Loubet (PT). Também foram convidados Capitão Contar e Reinaldo…",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-mato-grosso-do-sul.ghtml",
-    "time": "2026-09-04T17:52:44.000Z"
   },
   {
     "cat": "brasil",
@@ -78,38 +126,6 @@
     "d": "Especialistas apontam chuva acima da média em São Paulo, calor mais intenso no Norte e no Nordeste, e risco de novos temporais na região Sul.",
     "link": "https://www.bbc.com/portuguese/articles/c93eg21nz8jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T17:42:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Transporte reunia 58,9% dos trabalhadores de apps em 2025, diz IBGE",
-    "d": "Maioria atuava em plataformas de transporte particular de passageiros, sem considerar os de táxi, totalizando 1,056 milhão de profissionais (53,9%)",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/transporte-reunia-589-dos-trabalhadores-de-apps-em-2025-diz-ibge/",
-    "time": "2026-09-04T17:42:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vagas nos EUA caem em tecnologia e sobem em saúde com avanço da IA",
-    "d": "Emprego no setor de informação caiu 23.000 em agosto, após perdas que haviam sido, em média, de 8.000 por mês nos 12 meses anteriores, informou o Departamento do Trabalho",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/vagas-nos-eua-caem-em-tecnologia-e-sobem-em-saude-com-avanco-da-ia/",
-    "time": "2026-09-04T17:37:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sabalenka reclama de cheiro de maconha e interrompe jogo no US Open",
-    "d": "Número 1 do mundo alertou árbitra durante partida contra Kamilla Rakhimova",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/sabalenka-reclama-de-cheiro-de-maconha-e-interrompe-jogo-no-us-open/",
-    "time": "2026-09-04T17:33:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda a “Lei Rouanet” que Trump quer implementar para Hollywood",
-    "d": "Presidente americano defende incentivos fiscais para geração de empregos na indústria cinematográfica e televisiva: \"Valor gasto será compensado dez vezes\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/entenda-a-lei-rouanet-que-trump-quer-implementar-para-hollywood/",
-    "time": "2026-09-04T17:33:21.000Z"
   },
   {
     "cat": "brasil",
@@ -166,6 +182,14 @@
     "d": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional…",
     "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
     "time": "2026-09-04T16:49:29.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+    "d": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising interest rates on US government debt,…",
+    "link": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+    "time": "2026-09-04T16:49:28.000Z"
   },
   {
     "cat": "internacional",
@@ -304,14 +328,6 @@
     "time": "2026-09-04T14:38:28.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "É #FAKE que norma do governo federal proíbe uso de estribos em caminhões de coleta de lixo",
-    "d": "É #FAKE que norma do governo proíbe uso de estribos em caminhões de coleta de lixo Reprodução Circulam nas redes sociais publicações alegando que uma nova norma do Ministério do Trabalho e Emprego (MTE) teria proibido…",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/04/e-fake-que-norma-do-governo-federal-proibe-uso-de-estribos-em-caminhoes-de-coleta-de-lixo.ghtml",
-    "time": "2026-09-04T14:27:53.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Ibama autoriza Petrobras a perfurar três novos poços na Foz do Amazonas",
@@ -432,14 +448,6 @@
     "time": "2026-09-04T11:53:41.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "China, grande compradora de frango brasileiro, agora avança nas exportações e pode virar concorrente do Brasil",
-    "d": "China segue como principal destino do agro brasileiro, mas mercado dá sinais de mudança A China está produzindo cada vez mais carne de frango e o excedente começa a ser vendido para outros países. O movimento pode tra…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/china-brasil-exportacoes-frango.ghtml",
-    "time": "2026-09-04T11:43:38.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF",
@@ -518,14 +526,6 @@
     "d": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
     "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-03T22:31:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo",
-    "d": "Bartiromo had been a host at the network for more than a decade and Fox gave no explanation for the decision Fox News Media on Thursday abruptly ousted one of its most well-known hosts and anchors, Maria Bartiromo, wi…",
-    "link": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
-    "time": "2026-09-03T18:20:24.000Z"
   },
   {
     "cat": "economia",
