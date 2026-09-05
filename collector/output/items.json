@@ -1,5 +1,29 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least two dead in blast at Bolivia military barracks",
+    "d": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T08:41:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "SC: Idoso morre ao cair em câmara de defumação durante produção de linguiça",
+    "d": "Bombeiros foram acionados para combater chamas em casa onde homem de 85 anos morreu após mal súbito",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/sc-idoso-morre-ao-cair-em-camara-de-defumacao-durante-producao-de-linguica/",
+    "time": "2026-09-05T08:38:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Terceiro homem é resgatado de túnel no Nepal dez dias após enchentes",
+    "d": "Segundo o exército nepalês, a vítima retirada é um cidadão chinês que estava na usina hidrelétrica",
+    "link": "https://www.cnnbrasil.com.br/internacional/terceiro-homem-e-resgatado-de-tunel-no-nepal-dez-dias-apos-enchentes/",
+    "time": "2026-09-05T08:36:10.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Esta cidade é um dos polos de IA do mundo — e não é onde você pensa",
@@ -96,22 +120,6 @@
     "time": "2026-09-05T07:30:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Explosões são ouvidas próximas à Ilha de Kharg, diz mídia estatal do Irã",
-    "d": "De acordo com veículo ligado ao Estado iraniano, há relatos iniciais de que um navio petroleiro teria sido alvo de um míssil disparado pelos EUA",
-    "link": "https://www.cnnbrasil.com.br/internacional/explosoes-sao-ouvidas-proximas-a-ilha-de-kharg-diz-midia-estatal-do-ira/",
-    "time": "2026-09-05T07:22:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin vai comandar processos sobre futuro de dois colegas de STF",
-    "d": "Presidente da Corte concentra análise das acusações envolvendo Moraes e Mendonça e vai decidir o rito da resolução dos casos",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-vai-dirigir-processos-sobre-futuro-de-dois-colegas-de-stf/",
-    "time": "2026-09-05T07:02:11.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "E se a IA for consciente? A pergunta que começa a preocupar as gigantes da tecnologia",
@@ -134,14 +142,6 @@
     "d": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T06:37:46.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least two dead in blast at Bolivia military barracks",
-    "d": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T06:00:05.000Z"
   },
   {
     "cat": "economia",
