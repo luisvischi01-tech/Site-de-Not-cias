@@ -1,5 +1,37 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+    "d": "Augusto Cury (Avante) aparece como 3º colocado na pesquisa Quaest divulgada nesta quarta (2) Marina Uezima/Agência O Dia/Estadão Conteúdo O escritor e psiquiatra Augusto Cury, candidato do Avante à Presidência da Repú…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+    "time": "2026-09-05T19:11:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gabriel Jesus é elogiado por Hansi Flick e pode estrear pelo Barcelona",
+    "d": "Ex-jogador do Arsenal será relacionado para a partida diante do Valencia neste domingo, pelo Campeonato Espanhol",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/gabriel-jesus-e-elogiado-por-hansi-flick-e-pode-estrear-pelo-barcelona/",
+    "time": "2026-09-05T19:06:15.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Trump diz que carne importada dos EUA virá sobretudo de Brasil e Argentina",
+    "d": "Presidente elogia qualidade da carne dos dois países e anuncia nova regra de origem para importados",
+    "link": "https://www.cnnbrasil.com.br/agro/trump-diz-que-carne-importada-dos-eua-vira-sobretudo-de-brasil-e-argentina/",
+    "time": "2026-09-05T19:05:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rússia e Ucrânia iniciam cessar-fogo pontual para reparos em usina nuclear",
+    "d": "Zaporizhzhia está sem energia externa desde 20 de agosto e depende de geradores a diesel de emergência para resfriar seus sistemas de segurança vitais",
+    "link": "https://www.cnnbrasil.com.br/internacional/russia-e-ucrania-iniciam-cessar-fogo-pontual-para-reparos-em-usina-nuclear/",
+    "time": "2026-09-05T19:05:02.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US envoys meet Putin in Moscow for Ukraine talks",
@@ -8,12 +40,60 @@
     "time": "2026-09-05T19:01:31.000Z"
   },
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bayern de Munique pressiona, mas empata com Schalke 04 pela Bundesliga",
+    "d": "Equipe bávara ficou no 0 a 0 com o Schalke 04 pela segunda rodada do Campeonato Alemão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/bayern-de-munique-pressiona-mas-empata-com-schalke-04-pela-bundesliga/",
+    "time": "2026-09-05T18:56:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Nina de Pádua, que fará participação especial em “Quem Ama Cuida”",
+    "d": "Atriz vai interpretar uma juíza no julgamento do personagem Ademir; capítulo deve ser exibido no dia 14 de setembro",
+    "link": "https://www.cnnbrasil.com.br/pop/tv/quem-e-nina-de-padua-que-fara-participacao-especial-em-quem-ama-cuida/",
+    "time": "2026-09-05T18:50:07.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US hits three Iranian oil tankers after saying its warships were targeted",
     "d": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
     "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T18:48:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com Richarlison barrado, Tottenham empata e segue sem marcar no Inglês",
+    "d": "Spurs ficam no 0 a 0 com o Nottingham Forest, conquistam o primeiro ponto no campeonato, mas ainda não balançaram as redes após três rodadas",
+    "link": "https://www.cnnbrasil.com.br/noticias/com-richarlison-barrado-tottenham-empata-e-segue-sem-marcar-no-ingles/",
+    "time": "2026-09-05T18:47:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Barrichello dirige Ferrari de 2002 em dia de homenagens a Schumacher; veja",
+    "d": "Eles foram companheiros na escuderia italiana durante seis temporadas da Fórmula 1",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/barrichello-dirige-ferrari-de-2002-em-dia-de-homenagens-a-schumacher-veja/",
+    "time": "2026-09-05T18:47:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda lesão que pode tirar Neymar do Santos por até 13 jogos",
+    "d": "Camisa 10 sofreu lesão de grau 2B no reto anterior da coxa direita",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/entenda-lesao-que-pode-tirar-neymar-do-santos-por-ate-13-jogos/",
+    "time": "2026-09-05T18:46:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após briga pública, Luana Piovani elogia Pedro Scooby; veja",
+    "d": "Ex-casal brigou publicamente por causa de piolhos dos filhos na última semana",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/apos-briga-publica-luana-piovani-elogia-pedro-scooby-veja/",
+    "time": "2026-09-05T18:46:01.000Z"
   },
   {
     "cat": "brasil",
@@ -40,54 +120,6 @@
     "time": "2026-09-05T18:26:58.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Famosos apoiam ator de “Quem Ama Cuida” após denunciar ataque homofóbico",
-    "d": "João Victor Gonçalves chorou durante relato sobre homofobia sofrida por streamer",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-apoiam-ator-de-quem-ama-cuida-apos-denunciar-ataque-homofobico/",
-    "time": "2026-09-05T18:17:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rock in Rio: Capital Inicial critica Vorcaro e STF durante show",
-    "d": "Dinho Ouro Preto mencionou a crise no órgão político antes de cantar \"Que País É Este\", do Legião Urbana",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-capital-inicial-critica-vorcaro-e-stf-durante-show/",
-    "time": "2026-09-05T18:15:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Putin recebe enviados de Trump em Moscou e discute fim da guerra na Ucrânia",
-    "d": "Chefe do Kremlin destacou que os contatos entre Moscou e Washington são sempre benéficos e que a Rússia considera conveniente trabalhar com eles",
-    "link": "https://www.cnnbrasil.com.br/internacional/putin-recebe-enviados-de-trump-em-moscou-e-discute-fim-da-guerra-na-ucrania/",
-    "time": "2026-09-05T18:08:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Por que o cheiro de maconha invade as quadras do US Open? Entenda",
-    "d": "Legalização em Nova York e proximidade do complexo com um parque ajudam a explicar a fumaça que chega às quadras e incomoda os tenistas",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/por-que-o-cheiro-de-maconha-invade-as-quadras-do-us-open-entenda/",
-    "time": "2026-09-05T18:07:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bragantino x Bahia: escalações e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes se enfrentam neste sábado (5), às 16h (de Brasília), pela 26ª rodada do campeonato",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/bragantino-x-bahia-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "time": "2026-09-05T18:06:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Serviços públicos podem encarecer com fim da 6×1, avalia FecomercioSP",
-    "d": "Karina Negreli, da FecomercioSP, afirma que mudança na jornada de trabalho pode elevar custos para contribuintes e pequenas empresas",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/servicos-publicos-podem-encarecer-com-fim-da-6x1-avalia-fecomerciosp/",
-    "time": "2026-09-05T18:00:59.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Egyptian TV presenter among 12 sentenced to death for drug crime",
@@ -97,35 +129,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem é preso com três toneladas de maconha em carga de aveia em SP",
-    "d": "Entorpecente estava em caminhão que seguia de Mato Grosso do Sul até São Paulo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-e-preso-com-tres-toneladas-de-maconha-em-carga-de-aveia-em-sp/",
-    "time": "2026-09-05T17:50:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula diz que falará para Trump fazer Pix “para ver o quanto é bom”",
-    "d": "Presidente e candidato à reeleição cumpriu mais um dia de campanha no interior de São Paulo neste sábado (5)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-falara-para-trump-fazer-pix-para-ver-o-quanto-e-bom/",
-    "time": "2026-09-05T17:45:18.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
     "d": "Empatado no segundo turno com Flávio Bolsonaro, petista teme ser impactado pela crise no Supremo e pretende reverter maré negativa com atos em grandes colégios eleitorais e aprovação de projetos no Congresso.",
     "link": "https://www.bbc.com/portuguese/articles/c2dweydp69yo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T17:42:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiro ex-UFC realiza prisão após combate com cidadão nos EUA; veja",
-    "d": "Marlon Moraes é policial e trabalha em Coral Springs, na Flórida, nos Estados Unidos",
-    "link": "https://www.cnnbrasil.com.br/esportes/lutas/brasileiro-ex-ufc-realiza-prisao-apos-combate-com-cidadao-nos-eua-veja/",
-    "time": "2026-09-05T17:38:06.000Z"
   },
   {
     "cat": "brasil",
@@ -358,14 +366,6 @@
     "d": "Resolução liderada pelo Togo foi apoiada por 164 nações; EUA foram único país a votar contra.",
     "link": "https://www.bbc.com/portuguese/articles/c3058301rl8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T02:57:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja como foi a agenda dos candidatos ao governo de Goiás nesta sexta-feira (4)",
-    "d": "Candidatos ao governo de Goiás apresentam propostas para infraestrutura e agricultura Os candidatos ao governo de Goiás cumpriram agenda de campanha nesta sexta-feira (4). Daniel Vilela (MDB) concedeu entrevista a um…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/04/veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-sexta-feira-4.ghtml",
-    "time": "2026-09-05T01:01:48.000Z"
   },
   {
     "cat": "internacional",
