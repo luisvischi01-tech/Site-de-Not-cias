@@ -1,19 +1,83 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Inquérito das fake news: relembre decisões que marcaram a investigação sob relatoria de Moraes no STF",
+    "d": "Aberto há 7 anos para investigar ataques, ameaças e notícias falsas contra o Supremo Tribunal Federal (STF), o chamado inquérito das fake news acumulou, ao longo dos anos, decisões que ampliaram o alcance da investiga…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/05/inquerito-das-fake-news-relembre-decisoes-que-marcaram-a-investigacao-sob-relatoria-de-moraes-no-stf.ghtml",
+    "time": "2026-09-05T11:13:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US envoys arrive in Moscow ahead of Ukraine talks",
+    "d": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T11:07:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que Brasil 'cresceu' em novo mapa  aprovado pela ONU",
+    "d": "Novo mapa reduz distorções que encolhiam países próximos da linha do Equador e alargavam territórios vizinhos aos polos.",
+    "link": "https://www.bbc.com/portuguese/articles/cvgyv1v5xjno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T11:06:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "AP Exata: 77,5% das menções a Moraes nas redes são negativas; 3%, positivas",
+    "d": "CEO da AP Exata e cientista de dados, Sergio Denicoli, ao WW, afirma que dados mostram que o ministro está \"indenfensável\"",
+    "link": "https://www.cnnbrasil.com.br/politica/ap-exata-775-das-mencoes-a-moraes-nas-redes-sao-negativas-3-positivas/",
+    "time": "2026-09-05T11:03:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Um mês após migração em massa em Ceuta, moradores seguem com medo",
+    "d": "Embora a maioria dos migrantes tenha retornado voluntariamente ao país vizinho nos dias seguintes, aproximadamente 5.000 pessoas permanecem no enclave",
+    "link": "https://www.cnnbrasil.com.br/internacional/um-mes-apos-migracao-em-massa-em-ceuta-moradores-seguem-com-medo/",
+    "time": "2026-09-05T11:00:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Para seguir no G4, Fluminense terá que acabar com freguesia contra o Vasco",
+    "d": "Se vencer, Tricolor das Laranjeiras seguirá sonhando com o título e ficará mais perto do Palmeiras",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/para-seguir-no-g4-fluminense-tera-que-acabar-com-freguesia-contra-o-vasco/",
+    "time": "2026-09-05T11:00:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cursos de tecnologia crescem, mas ainda há déficit de talentos no Brasil",
+    "d": "Entenda por que a lacuna entre formação técnica e inserção no mercado mantém alto o gargalo de profissionais de tecnologia no país",
+    "link": "https://www.cnnbrasil.com.br/educacao/cursos-de-tecnologia-crescem-mas-ainda-ha-deficit-de-talentos-no-brasil/",
+    "time": "2026-09-05T11:00:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quanto rende Tesouro Direto? Saiba como calcular e escolher título adequado",
+    "d": "A rentabilidade depende do título escolhido, de taxas, do prazo e das condições de mercado. Entenda como funcionam as principais modalidades",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/quanto-rende-tesouro-direto-saiba-como-calcular-e-escolher-titulo-adequado/",
+    "time": "2026-09-05T11:00:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "José Dirceu anuncia fim de tratamento contra linfoma",
+    "d": "Candidato do PT à Câmara dos Deputados recebeu diagnóstico da doença em maio",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/jose-dirceu-anuncia-fim-de-tratamento-contra-linfoma/",
+    "time": "2026-09-05T10:59:20.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
     "h": "Crise do STF expõe “padrão preocupante de compadrio”, diz CEO da AP Exata",
     "d": "Sergio Denicoli, CEO da AP Exata e cientista de dados, afirmou ao WW que leniência de instituições como Congresso e Senado alimenta ciclo de impunidade no país",
     "link": "https://www.cnnbrasil.com.br/politica/crise-do-stf-expoe-padrao-preocupante-de-compadrio-diz-ceo-da-ap-exata/",
     "time": "2026-09-05T10:42:59.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
-    "d": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T10:34:08.000Z"
   },
   {
     "cat": "brasil",
@@ -65,14 +129,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O Grande Debate: Quem perde mais com crises sucessivas a um mês da eleição?",
-    "d": "Com a chegada do primeiro turno, especialistas debatem quem é mais afetado pelos sucessivos escândalos envolvendo o STF, Master, Lulinha e Dark Horse",
-    "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-quem-perde-mais-com-crises-sucessivas-a-um-mes-da-eleicao/",
-    "time": "2026-09-05T09:44:50.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
     "d": "Empatado no segundo turno com Flávio Bolsonaro, petista teme ser impactado pela crise no Supremo e pretende reverter maré negativa com atos em grandes colégios eleitorais e aprovação de projetos no Congresso.",
@@ -86,46 +142,6 @@
     "d": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
     "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T09:12:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gato se esconde em vestido de festa e dona se surpreende ao devolver peça em loja",
-    "d": "O animal de quatro patas saiu correndo e quase fugiu do estabelecimento",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/gato-se-esconde-em-vestido-de-festa-e-dona-se-surpreende-ao-devolver-peca-em-loja/",
-    "time": "2026-09-05T09:10:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Depois do parto, quem cuida da mãe? Kalil e especialistas debatem puerpério",
-    "d": "Especialistas alertam sobre complicações graves no pós-parto, como infecções e pressão alta, e destacam a idealização da maternidade como obstáculo ao autocuidado.",
-    "link": "https://www.cnnbrasil.com.br/saude/depois-do-parto-quem-cuida-da-mae-kalil-e-especialistas-debatem-puerperio/",
-    "time": "2026-09-05T09:00:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Venezuela provavelmente não resolverá problema de petróleo dos EUA",
-    "d": "Parceria incomum visa usar as vastas reservas venezuelanas para recuperar os níveis mais baixos da reserva estratégica americana desde 1982",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-venezuela-provavelmente-nao-resolvera-problema-de-petroleo-dos-eua/",
-    "time": "2026-09-05T09:00:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Saiba quais foram os 20 veículos mais emplacados no mês de agosto",
-    "d": "Picape da Fiat foi líder de vendas, com quase 14 mil registros durante o último mês",
-    "link": "https://www.cnnbrasil.com.br/auto/saiba-quais-foram-os-20-veiculos-mais-emplacados-no-mes-de-agosto/",
-    "time": "2026-09-05T09:00:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Somos irmãos, mas diferentes: o que a genética diz sobre ancestralidade",
-    "d": "No Dia do Irmão, comemorado neste sábado (5), entenda como \"embaralhamento\" do DNA faz com que filhos dos mesmos pais herdem características e riscos de saúde diferentes",
-    "link": "https://www.cnnbrasil.com.br/saude/somos-irmaos-mas-diferentes-o-que-a-genetica-diz-sobre-ancestralidade/",
-    "time": "2026-09-05T09:00:36.000Z"
   },
   {
     "cat": "internacional",
@@ -286,14 +302,6 @@
     "d": "Marconi Perillo fala em retomar programas de crédito e reforçar assistência técnica Marconi Perillo (PSDB), candidato ao governo de Goiás, visitou uma feira livre nesta sexta-feira (4) e defendeu a ampliação do crédit…",
     "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-4.ghtml",
     "time": "2026-09-05T00:13:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PGR diz a Fachin que vai apurar possível interferência em relatório da PF pedido por Mendonça que apontou relação entre Moraes e Vorcaro",
-    "d": "PGR informa ao STF que vai apurar conduta da PF A Procuradoria-Geral da República (PGR) informou ao ministro Edson Fachin, do Supremo Tribunal Federal (STF), que abriu uma apuração sobre possível interferência produçã…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/04/pgr-informa-fachin-que-vai-apurar-conduta-da-pf-na-producao-do-relatorio-que-apontou-uma-relacao-entre-moraes-e-vorcaro.ghtml",
-    "time": "2026-09-04T23:47:28.000Z"
   },
   {
     "cat": "internacional",
@@ -534,14 +542,6 @@
     "d": "Ed Miliband says Britain’s position remains ‘unwavering’ in response to remarks by Argentina’s president UK politics live – latest updates British ministers have hit back after the Argentinian president said “winds of…",
     "link": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
     "time": "2026-09-04T09:24:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "BBC entra em área do Líbano onde Israel avança com tropas e demolições apesar de cessar-fogo",
-    "d": "Equipe da BBC acompanhou missão humanitária da ONU, que diz que Israel reforça suas posições e segue demolindo estruturas.",
-    "link": "https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T08:40:21.000Z"
   },
   {
     "cat": "internacional",
