@@ -1,5 +1,21 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O Grande Debate: Quem perde mais com crises sucessivas a um mês da eleição?",
+    "d": "Com a chegada do primeiro turno, especialistas debatem quem é mais afetado pelos sucessivos escândalos envolvendo o STF, Master, Lulinha e Dark Horse",
+    "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-quem-perde-mais-com-crises-sucessivas-a-um-mes-da-eleicao/",
+    "time": "2026-09-05T09:44:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
+    "d": "Empatado no segundo turno com Flávio Bolsonaro, petista teme ser impactado pela crise no Supremo e pretende reverter maré negativa com atos em grandes colégios eleitorais e aprovação de projetos no Congresso.",
+    "link": "https://www.bbc.com/portuguese/articles/c2dweydp69yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T09:41:04.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Trump signs order to remove endangered species protection for grey wolves",
@@ -10,10 +26,26 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
+    "h": "Gato se esconde em vestido de festa e dona se surpreende ao devolver peça em loja",
+    "d": "O animal de quatro patas saiu correndo e quase fugiu do estabelecimento",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/gato-se-esconde-em-vestido-de-festa-e-dona-se-surpreende-ao-devolver-peca-em-loja/",
+    "time": "2026-09-05T09:10:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
     "h": "Depois do parto, quem cuida da mãe? Kalil e especialistas debatem puerpério",
     "d": "Especialistas alertam sobre complicações graves no pós-parto, como infecções e pressão alta, e destacam a idealização da maternidade como obstáculo ao autocuidado.",
     "link": "https://www.cnnbrasil.com.br/saude/depois-do-parto-quem-cuida-da-mae-kalil-e-especialistas-debatem-puerperio/",
     "time": "2026-09-05T09:00:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Venezuela provavelmente não resolverá problema de petróleo dos EUA",
+    "d": "Parceria incomum visa usar as vastas reservas venezuelanas para recuperar os níveis mais baixos da reserva estratégica americana desde 1982",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-venezuela-provavelmente-nao-resolvera-problema-de-petroleo-dos-eua/",
+    "time": "2026-09-05T09:00:49.000Z"
   },
   {
     "cat": "brasil",
@@ -88,14 +120,6 @@
     "time": "2026-09-05T08:00:12.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rock in Rio 2026: veja o line-up e horários dos shows deste sábado (5)",
-    "d": "Rock e metal são destaque, com o grupo Avenged Sevenfold como atração principal",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-veja-o-line-up-e-horarios-dos-shows-deste-sabado-5/",
-    "time": "2026-09-05T08:00:09.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "A desigualdade brasileira em 6 gráficos: os principais dados do novo estudo da Oxfam",
@@ -110,22 +134,6 @@
     "d": "Empresa dos EUA vai explorar petróleo na Venezuela Os Estados Unidos anunciaram na última sexta-feira (28/08) um acordo com a Venezuela que pode garantir a Washington acesso a cerca de 20% das reservas comprovadas de…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/05/eua-fecham-acordo-pelo-petroleo-da-venezuela-o-que-trump-ganha-com-o-negocio.ghtml",
     "time": "2026-09-05T08:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ceará x Sport: horário e onde assistir ao jogo da Série B",
-    "d": "Equipes se enfrentam neste sábado (5), na Arena Castelão, no Ceará, pela 26ª rodada da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/ceara-x-sport-horario-e-onde-assistir-ao-jogo-da-serie-b-2/",
-    "time": "2026-09-05T07:45:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Uma década de tensões: especialista mapeia rota até crise atual do STF",
-    "d": "Cientista Político Rafael Cortez lembra que crise atual tem raízes que remontam a 2014, quando a Operação Lava Jato emergiu como um divisor de águas na política brasileira",
-    "link": "https://www.cnnbrasil.com.br/politica/uma-decada-de-tensoes-especialista-mapeia-rota-ate-crise-atual-do-stf/",
-    "time": "2026-09-05T07:41:55.000Z"
   },
   {
     "cat": "economia",
@@ -566,14 +574,6 @@
     "d": "Jump lifts currency to highest level against dollar in a month, while global markets remain jittery Business live – latest updates The Japanese yen has soared by more than 2% against the dollar amid speculation the Ba…",
     "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
     "time": "2026-09-03T14:33:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
-    "d": "Organização Meteorológica Mundial divulgou dados mais recentes sobre o fenômeno natural indicando que este El Niño pode ser o mais forte em mais de 70 anos e durar pelo menos até fevereiro de 2027.",
-    "link": "https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-03T13:41:04.000Z"
   },
   {
     "cat": "internacional",
