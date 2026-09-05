@@ -1,5 +1,45 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+    "d": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T06:37:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem era professora morta após ser diagnosticada com ansiedade no RJ",
+    "d": "Giulia Silva de Araújo morreu em decorrência de problemas cardíacos na sexta-feira (28); vítima procurou hospital duas vezes mas recebeu alta por diagnóstico de \"crise de ansiedade\"",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/quem-era-professora-morta-apos-ser-diagnosticada-com-ansiedade-no-rj/",
+    "time": "2026-09-05T06:37:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Especialistas apostam em Margem Equatorial como futuro polo do petróleo",
+    "d": "Fontes do setor avaliam que licenças do Ibama são passo fundamental para avanço da exploração",
+    "link": "https://www.cnnbrasil.com.br/infra/especialistas-apostam-em-margem-equatorial-como-futuro-polo-do-petroleo/",
+    "time": "2026-09-05T06:36:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Depressão na terceira idade: cerca de 15% dos idosos têm transtorno mental",
+    "d": "Depressão na terceira idade: 15% de idosos com 70 anos ou mais convivem com algum trnastorno mental",
+    "link": "https://www.cnnbrasil.com.br/saude/depressao-na-terceira-idade-cerca-de-15-dos-idosos-tem-transtorno-mental/",
+    "time": "2026-09-05T06:33:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Deslizamento deixa ao menos 1 morto e 11 desaparecidos após chuvas na China",
+    "d": "Temporal provocado pelo tufão Saudel atingiu cidade de Jiangxi e danificou 12 casas",
+    "link": "https://www.cnnbrasil.com.br/internacional/deslizamento-deixa-ao-menos-1-morto-e-11-desaparecidos-apos-chuvas-na-china/",
+    "time": "2026-09-05T06:25:38.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
     "h": "As acomodações mais baratas em Paris estão desaparecendo: veja o que está acontecendo com os chamados “quartos de empregada”",
@@ -89,14 +129,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Manchester City x Coventry City: horário e onde assistir à Premier League",
-    "d": "Equipes se enfrentam neste sábado (5) em partida válida pela 3ª rodada do Campeonato Inglês",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-city-x-coventry-city-horario-e-onde-assistir-a-premier-league/",
-    "time": "2026-09-05T03:05:09.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Quaest: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
     "d": "Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41% Lula (PT) e Flávio Bolsonaro (PL) estão tecnicamente empatados em eventual 2º turno da eleição presidencial de outubro, segundo pesquisa Quaest divulgada nesta quarta…",
@@ -174,38 +206,6 @@
     "d": "Resolução liderada pelo Togo foi apoiada por 164 nações; EUA foram único país a votar contra.",
     "link": "https://www.bbc.com/portuguese/articles/c3058301rl8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T02:57:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nas redes, rejeição a Moraes supera polarização crescente sobre Mendonça",
-    "d": "Dados da AP Exata apontam que crescimento de menções negativas ao relator do Caso Master acompanha a alta nos comentários positivos",
-    "link": "https://www.cnnbrasil.com.br/politica/analise-ww-ap-exata-rejeicao-moraes-polarizacao-mendonca/",
-    "time": "2026-09-05T02:55:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidente da Colômbia exibe corpos ao celebrar sucesso em operação",
-    "d": "Publicação de Abelardo De La Espriella gerou críticas de membros da oposição, que o acusaram de violar princípios do Direito Internacional Humanitário",
-    "link": "https://www.cnnbrasil.com.br/internacional/presidente-da-colombia-exibe-corpos-ao-celebrar-sucesso-em-operacao/",
-    "time": "2026-09-05T02:50:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "João quer IPVA zero para motoristas de app; Raquel destaca ações em Caruaru",
-    "d": "Candidatos ao Governo de Pernambuco cumpriram agendas nesta sexta-feira (4) no Recife e no Agreste do Estado",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/joao-quer-ipva-zero-para-motoristas-de-app-raquel-destaca-acoes-em-caruaru/",
-    "time": "2026-09-05T02:28:52.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Why are European countries moving their gold out of North America?",
-    "d": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T01:42:09.000Z"
   },
   {
     "cat": "brasil",
