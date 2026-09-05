@@ -1,6 +1,94 @@
 [
   {
     "cat": "internacional",
+    "src": "BBC News",
+    "h": "US envoys meet Putin in Moscow for Ukraine talks",
+    "d": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T19:01:31.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US hits three Iranian oil tankers after saying its warships were targeted",
+    "d": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T18:48:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Abel Ferreira ganha efeito suspensivo e comanda o Palmeiras",
+    "d": "Treinador havia sido suspenso por chutar microfone, mas comandará o Verdão contra o Botafogo no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-ferreira-ganha-efeito-suspensivo-e-comanda-o-palmeiras/",
+    "time": "2026-09-05T18:35:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ferver cravo com casca de laranja: para que serve e como fazer o aromatizante",
+    "d": "Conheça a preparação caseira que perfuma ambientes, ajuda a afastar insetos e economiza dinheiro ao substituir produtos químicos de limpeza",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/ferver-cravo-com-casca-de-laranja-para-que-serve-e-como-fazer-o-aromatizante/",
+    "time": "2026-09-05T18:30:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Inter de Milão vence Napoli de virada com gol no último minuto na Serie A",
+    "d": "Lautaro Martínez marca aos 91 minutos, e Nerazzurri transformam desvantagem de dois gols em vitória por 3 a 2 e mantêm 100% de aproveitamento na defesa do título italiano",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/inter-de-milao-vence-napoli-de-virada-com-gol-no-ultimo-minuto-na-serie-a/",
+    "time": "2026-09-05T18:26:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Famosos apoiam ator de “Quem Ama Cuida” após denunciar ataque homofóbico",
+    "d": "João Victor Gonçalves chorou durante relato sobre homofobia sofrida por streamer",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-apoiam-ator-de-quem-ama-cuida-apos-denunciar-ataque-homofobico/",
+    "time": "2026-09-05T18:17:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rock in Rio: Capital Inicial critica Vorcaro e STF durante show",
+    "d": "Dinho Ouro Preto mencionou a crise no órgão político antes de cantar \"Que País É Este\", do Legião Urbana",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-capital-inicial-critica-vorcaro-e-stf-durante-show/",
+    "time": "2026-09-05T18:15:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Putin recebe enviados de Trump em Moscou e discute fim da guerra na Ucrânia",
+    "d": "Chefe do Kremlin destacou que os contatos entre Moscou e Washington são sempre benéficos e que a Rússia considera conveniente trabalhar com eles",
+    "link": "https://www.cnnbrasil.com.br/internacional/putin-recebe-enviados-de-trump-em-moscou-e-discute-fim-da-guerra-na-ucrania/",
+    "time": "2026-09-05T18:08:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Por que o cheiro de maconha invade as quadras do US Open? Entenda",
+    "d": "Legalização em Nova York e proximidade do complexo com um parque ajudam a explicar a fumaça que chega às quadras e incomoda os tenistas",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/por-que-o-cheiro-de-maconha-invade-as-quadras-do-us-open-entenda/",
+    "time": "2026-09-05T18:07:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bragantino x Bahia: escalações e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes se enfrentam neste sábado (5), às 16h (de Brasília), pela 26ª rodada do campeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/bragantino-x-bahia-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-09-05T18:06:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Serviços públicos podem encarecer com fim da 6×1, avalia FecomercioSP",
+    "d": "Karina Negreli, da FecomercioSP, afirma que mudança na jornada de trabalho pode elevar custos para contribuintes e pequenas empresas",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/servicos-publicos-podem-encarecer-com-fim-da-6x1-avalia-fecomerciosp/",
+    "time": "2026-09-05T18:00:59.000Z"
+  },
+  {
+    "cat": "internacional",
     "src": "The Guardian",
     "h": "Egyptian TV presenter among 12 sentenced to death for drug crime",
     "d": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking…",
@@ -46,94 +134,6 @@
     "d": "Desde início do segundo mandato, presidente americano tem implementado mudanças profundas no Departamento de Estado",
     "link": "https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T17:32:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Amigo de Titina Medeiros morre dias após publicar homenagem para atriz",
-    "d": "Marcílio Amorim morreu na última sexta-feira (4), aos 48 anos; ator e produtor teve forte influência na cena artística potiguar",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/amigo-de-titina-medeiros-morre-dias-apos-publicar-homenagem-para-atriz/",
-    "time": "2026-09-05T17:28:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Prefeito de Nova York assina decretos para reforçar segurança no 11/9",
-    "d": "Criação de equipe interagências visa fortalecer a preparação e melhorar a coordenação entre órgãos municipais para futuras crises",
-    "link": "https://www.cnnbrasil.com.br/internacional/prefeito-de-nova-york-assina-decreto-para-reforcar-seguranca-no-11-9/",
-    "time": "2026-09-05T17:26:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rio de Janeiro entra em alerta para chuvas e rajadas de ventos",
-    "d": "Baixada Fluminense, Costa Verde e Sul II são as regiões mais afetadas; estado enfrenta uma passagem de frente fria",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rio-de-janeiro-entra-em-alerta-para-chuvas-e-rajadas-de-ventos/",
-    "time": "2026-09-05T17:23:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US envoys meet Putin in Moscow for Ukraine talks",
-    "d": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T17:18:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Moraes vem errando a mão e isso é muito ruim, diz Marco Aurélio Mello à CNN",
-    "d": "Ministro aposentado da Corte afirmou que defendeu ainda a atuação de André Mendonça em meio às revelações envolvendo Alexandre de Moraes e Daniel Vorcaro",
-    "link": "https://www.cnnbrasil.com.br/politica/moraes-vem-errando-a-mao-e-isso-e-muito-ruim-diz-marco-aurelio-mello-a-cnn/",
-    "time": "2026-09-05T17:16:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US hits three Iranian oil tankers after saying its warships were targeted",
-    "d": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T17:15:05.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Ex-presidentes dos EUA participarão de cerimônia do 11 de setembro em NY",
-    "d": "Fontes relataram à CNN que George W. Bush, Barack Obama, Bill Clinton e Joe Biden marcarão presença no World Trade Center; Donald Trump marcará a data no Pentágono",
-    "link": "https://www.cnnbrasil.com.br/internacional/quatro-ex-presidentes-participarao-de-cerimonia-do-11-de-setembro-em-ny/",
-    "time": "2026-09-05T17:12:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Milei adota postura de confronto sobre Ilhas Malvinas, avalia professora",
-    "d": "Carolina Pedroso, professora da UNIFESP, analisa decreto do presidente argentino contra empresas que exploram petróleo nas Malvinas sem aval de Buenos Aires",
-    "link": "https://www.cnnbrasil.com.br/internacional/milei-adota-postura-de-confronto-sobre-ilhas-malvinas-avalia-professora/",
-    "time": "2026-09-05T17:00:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como aproveitar o feriado prolongado em casa com atividades divertidas",
-    "d": "Atividades vão do resgate de hobbies à reconexão em família",
-    "link": "https://www.cnnbrasil.com.br/comportamento/como-aproveitar-o-feriado-prolongado-em-casa-com-atividades-divertidas/",
-    "time": "2026-09-05T17:00:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Conheça Joheirry Mola, coroada Miss Mundo 2026",
-    "d": "Dominicana se destacou entre representantes internacionais e conquistou a principal coroa do tradicional concurso de beleza",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/conheca-joheirry-mola-coroada-miss-mundo-2026/",
-    "time": "2026-09-05T16:51:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Protestos contra sujeira na Croácia levam milhares de pessoas às ruas",
-    "d": "Autoridades descobriram entre 34.000 e 37.000 toneladas de resíduos no ano passado e, segundo manifestantes, têm negligenciado a limpeza deles",
-    "link": "https://www.cnnbrasil.com.br/internacional/protestos-contra-sujeira-na-croacia-levam-milhares-de-pessoas-as-ruas/",
-    "time": "2026-09-05T16:47:07.000Z"
   },
   {
     "cat": "brasil",
