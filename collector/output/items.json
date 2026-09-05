@@ -1,5 +1,85 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Influenciadoras que fingem submissão aos maridos são as mesmas que gerenciam impérios multimilionários', diz autora de best-seller sobre tradwives",
+    "d": "A americana Caro Claire Burke faz uma crítica mordaz às influenciadoras conservadores em 'Bons Tempos: Yesteryear', que acaba de ser lançado no Brasil e será adaptado ao cinema por Anne Hathaway.",
+    "link": "https://www.bbc.com/portuguese/articles/c86nj8dxzd3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T14:32:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vestidos de noiva em SP: dona de loja diz ter sofrido golpe de R$ 1 milhão",
+    "d": "Proprietária da My Vintage Dress prestou depoimento à polícia nesta sexta-feira (4); ela afirma que precisou interromper a produção das peças após descobrir golpe",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/vestidos-de-noiva-em-sp-dona-de-loja-diz-ter-sofrido-golpe-de-r-1-milhao/",
+    "time": "2026-09-05T14:18:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda por que atriz Fernanda Rodrigues transformou fazenda abandonada em produtora de café",
+    "d": "Atriz investiu em modelo chamado agrofloresta, que respeita o tempo de produção natural e as nascentes dos rios",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/entenda-por-que-atriz-fernanda-rodrigues-transformou-fazenda-abandonada-em-produtora-de-cafe/",
+    "time": "2026-09-05T14:17:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nova rainha da Grande Rio não quer receber coroa de Virginia, diz equipe",
+    "d": "Influenciadora anunciou saída da escola de samba no começo de agosto",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nova-rainha-da-grande-rio-nao-quer-receber-coroa-de-virginia-diz-equipe/",
+    "time": "2026-09-05T14:09:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Campanha de eleições de meio de mandato de Trump aposta tudo nele mesmo",
+    "d": "Novos anúncios da Securing American Greatness — o braço sem fins lucrativos do super PAC pró-Trump MAGA Inc. — se baseiam na figura do presidente atual e seus \"marcos\" como líder",
+    "link": "https://www.cnnbrasil.com.br/internacional/campanha-de-eleicoes-de-meio-de-mandato-de-trump-aposta-tudo-nele-mesmo/",
+    "time": "2026-09-05T14:00:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Governo estima que impacto do Redata pode superar R$ 7 bilhões até 2028",
+    "d": "Iniciativa que concede incentivos fiscais para estimular a instalação de data centers no Brasil aguarda sanção presidencial",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-estima-que-impacto-do-redata-pode-superar-r-7-bilhoes-ate-2028/",
+    "time": "2026-09-05T14:00:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Revenge bedtime procrastination: por que você adia o sono — e paga por isso",
+    "d": "Fenômeno tem ganhado força em contextos de alta pressão profissional e jornadas longas",
+    "link": "https://www.cnnbrasil.com.br/style/revenge-bedtime-procrastination-por-que-voce-adia-o-sono-e-paga-por-isso/",
+    "time": "2026-09-05T14:00:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fundos de special situations buscam oportunidades em dívidas",
+    "d": "Estratégia compra créditos de companhias em dificuldades com desconto, mas envolve riscos maiores ao investidor",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/fundos-de-special-situations-buscam-oportunidades-em-dividas/",
+    "time": "2026-09-05T14:00:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Helicóptero resgata turista após acidente com quadriciclo em Jericoacoara",
+    "d": "Vítima de 51 anos, natural de São Paulo, se acidentou na faixa de areia próxima ao Mangue Seco, na tarde desta sexta-feira (4)",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ce/helicoptero-resgata-turista-apos-acidente-com-quadriciclo-em-jericoacoara/",
+    "time": "2026-09-05T13:55:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba quanto tempo Neymar deve ficar fora do Santos por lesão",
+    "d": "Camisa 10 sofreu lesão de grau 2B no reto anterior da coxa direita",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/saiba-quanto-tempo-neymar-deve-ficar-fora-do-santos-por-lesao/",
+    "time": "2026-09-05T13:53:17.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
     "h": "Clima e escassez alimentar elevam risco de guerras no mundo",
@@ -26,8 +106,8 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Petroleiro do Irã é atingido pelos EUA na Ilha de Kharg, diz mídia estatal",
-    "d": "Tasnim afirmou que embarcação foi atacada por mísseis americanos na área de ancoragem da ilha, mas não houve mortos",
+    "h": "EUA atingem três petroleiros do Irã com mísseis perto da Ilha de Kharg",
+    "d": "Forças Armadas americanas disseram ter lançado ataque após após a IRGC (Guarda Revolucionária Islâmica) lançar mísseis balísticos contra dois navios de guerra da Marinha dos EUA",
     "link": "https://www.cnnbrasil.com.br/internacional/petroleiro-do-ira-e-atingido-pelos-eua-na-ilha-de-kharg-diz-midia-estatal/",
     "time": "2026-09-05T13:38:37.000Z"
   },
@@ -49,83 +129,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rússia ataca aeroportos da Ucrânia antes de chegada de enviados dos EUA",
-    "d": "Presidente ucraniano Volodymyr Zelensky afirma que ataques são uma reação à visita de Steve Witkoff e Jared Kushner à Ucrânia",
-    "link": "https://www.cnnbrasil.com.br/internacional/russia-ataca-aeroportos-da-ucrania-antes-de-chegada-de-enviados-dos-eua/",
-    "time": "2026-09-05T13:25:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Carlos Alberto Parreira recebe alta após 80 dias de internação",
-    "d": "Ex-treinador da Seleção estava internado no Hospital Samaritano, no Rio de Janeiro, desde o dia 16 de junho",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/carlos-alberto-parreira-recebe-alta-apos-80-dias-de-internacao/",
-    "time": "2026-09-05T13:17:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Enviados de Trump chegam à Rússia com proposta para encerrar guerra",
-    "d": "Após visitarem a capital russa, Witkoff e Kushner devem viajar para a capital ucraniana, Kiev, pela primeira vez",
-    "link": "https://www.cnnbrasil.com.br/internacional/enviados-de-trump-chegam-a-russia-com-proposta-para-encerrar-guerra/",
-    "time": "2026-09-05T13:16:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Socorristas do Nepal resgatam duas pessoas dez dias após enchentes",
-    "d": "Mulher de 60 anos e cidadão chinês foram retirados de locais ilhados por detritos neste sábado (5) após ficarem dias sem acesso a comida",
-    "link": "https://www.cnnbrasil.com.br/internacional/socorristas-do-nepal-resgatam-duas-pessoas-dez-dias-apos-enchentes/",
-    "time": "2026-09-05T13:11:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Scooby fala sobre boatos de que ex teria entrado na Justiça cobrando pensão",
-    "d": "Cintia Dicker também havia se pronunciado sobre os rumores",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/scooby-fala-sobre-boatos-de-que-ex-teria-entrado-na-justica-cobrando-pensao/",
-    "time": "2026-09-05T13:11:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TRE-SE indefere registro da federação PSOL/Rede no estado",
-    "d": "Justiça entendeu que a coligação não preenchia os critérios necessários para participar do pleito",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tre-se-indefere-registro-da-federacao-psol-rede-no-estado/",
-    "time": "2026-09-05T13:07:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Putin dá sinais de que a paz na Ucrânia ainda está distante",
-    "d": "Em cúpula no Quirguistão, presidente russo usa analogia de orcas e ursos polares para defender intensificação da guerra na Ucrânia",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-putin-da-sinais-de-que-a-paz-na-ucrania-ainda-esta-distante/",
-    "time": "2026-09-05T13:00:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Everton x Manchester United: horário e onde assistir à Premier League",
-    "d": "Equipes se enfrentam neste domingo (6) em partida válida pela 3ª rodada do Campeonato Inglês",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/everton-x-manchester-united-horario-e-onde-assistir-a-premier-league/",
-    "time": "2026-09-05T13:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Fachin indica intenção de levar ao plenário crise envolvendo Moraes e Mendonça",
     "d": "Em meio à crise sem precedentes no Supremo, Fachin fala em dar resposta firme O presidente do Supremo Tribunal Federal (STF), Edson Fachin, sinalizou ao presidente Luiz Inácio Lula da Silva (PT) que pretende levar ao…",
     "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/05/fachin-indica-intencao-de-levar-ao-plenario-crise-envolvendo-moraes-e-mendonca.ghtml",
     "time": "2026-09-05T12:55:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras arrecada R$ 375 milhões com vendas e se aproxima da meta do ano",
-    "d": "Impulsionado pela negociação de Allan com o Manchester City, clube equilibra caixa com saídas de jogadores",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-arrecada-r-375-milhoes-com-vendas-e-se-aproxima-da-meta-do-ano/",
-    "time": "2026-09-05T12:52:19.000Z"
   },
   {
     "cat": "internacional",
@@ -142,6 +150,14 @@
     "d": "Enquanto seguem as buscas por desaparecidos, autoridades alertam para o risco de novas detonações e temem que o número de mortos continue aumentando em Viacha.",
     "link": "https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-05T12:00:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Rescuers in Nepal find two more people alive after flash flood disaster",
+    "d": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation Emergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities c…",
+    "link": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
+    "time": "2026-09-05T11:26:30.000Z"
   },
   {
     "cat": "brasil",
@@ -408,14 +424,6 @@
     "time": "2026-09-04T17:56:11.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Brasil pode sentir efeitos do 'super El Niño' na primavera; veja previsões para diferentes regiões",
-    "d": "Especialistas apontam chuva acima da média em São Paulo, calor mais intenso no Norte e no Nordeste, e risco de novos temporais na região Sul.",
-    "link": "https://www.bbc.com/portuguese/articles/c93eg21nz8jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T17:42:30.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Depois de um dia de lançamento, táxis sem motorista da Tesla são investigados nos EUA",
@@ -466,6 +474,14 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
+    "h": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
+    "d": "Valor recebido mensalmente se aproxima da média entre os outros empregados do setor privado, mas jornadas são mais extensas e não há direitos trabalhistas.",
+    "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-04T15:52:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
     "h": "Fachin diz que meta é acabar com Inquérito das Fake News e manda tirar acusações contra Mendonça da investigação",
     "d": "Presidente do Supremo também determinou que a PGR se manifeste em até cinco dias úteis sobre o pedido de investigação feito pelo ministro Alexandre de Moraes contra o ministro André Mendonça.",
     "link": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss",
@@ -494,14 +510,6 @@
     "d": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a…",
     "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
     "time": "2026-09-04T13:50:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político",
-    "d": "A escalada, que transformou Moraes, o alvo original das suspeitas, em autor de uma contra-acusação a André Mendonça, provocou reações imediatas — especialmente no campo da oposição.",
-    "link": "https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T13:07:37.000Z"
   },
   {
     "cat": "economia",
@@ -566,14 +574,6 @@
     "d": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠ope…",
     "link": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
     "time": "2026-09-03T16:59:56.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Yen soars as Bank of Japan tipped to raise interest rates",
-    "d": "Jump lifts currency to highest level against dollar in a month, while global markets remain jittery Business live – latest updates The Japanese yen has soared by more than 2% against the dollar amid speculation the Ba…",
-    "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-    "time": "2026-09-03T14:33:58.000Z"
   },
   {
     "cat": "internacional",
