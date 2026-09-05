@@ -1,19 +1,75 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US envoys arrive in Moscow ahead of Ukraine talks",
+    "d": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T12:23:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Homem passa 15 anos nas ruas, reconstrói a vida e transforma sofrimento em livro",
+    "d": "Conheça a trajetória de Fábio Siqueira dos Santos, que enfrentou drogas, álcool e abandono, encontrou apoio em 'anjos' e agora inspira com relato autobiográfico",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/homem-passa-15-anos-nas-ruas-reconstroi-a-vida-e-transforma-sofrimento-em-livro/",
+    "time": "2026-09-05T12:14:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Reserva Bawah: ilha paradisíaca na Indonésia onde hóspedes ajudam a salvar tartarugas",
+    "d": "Com spas, tratamento único e proteção ambiental, região é destino perfeito para relaxar",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/reserva-bawah-ilha-paradisiaca-na-indonesia-onde-hospedes-ajudam-a-salvar-tartarugas/",
+    "time": "2026-09-05T12:09:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que se sabe sobre explosão na Bolívia que deixou ao menos 2 mortos e 81 feridos",
+    "d": "Enquanto seguem as buscas por desaparecidos, autoridades alertam para o risco de novas detonações e temem que o número de mortos continue aumentando em Viacha.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T12:00:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Paulo encara o “melhor Atlético-MG do ano” para afastar fantasma do Z4",
+    "d": "Tricolor e Galo se enfrentam neste sábado (5), às 18h30 (de Brasília), no MorumBIS",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-encara-o-melhor-atletico-mg-do-ano-para-afastar-fantasma-do-z4/",
+    "time": "2026-09-05T12:00:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Joelho estala ou range ao levantar-se da cadeira: devo me preocupar?",
+    "d": "O estalo no joelho costuma assustar, mas nem sempre significa desgaste ou lesão. A ortopedista Dra. Camila Cohen explica quando o barulho faz parte do funcionamento normal da articulação e em quais situações merece in…",
+    "link": "https://www.cnnbrasil.com.br/saude/joelho-estala-ou-range-ao-levantar-se-da-cadeira-devo-me-preocupar/",
+    "time": "2026-09-05T12:00:55.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Risco fiscal está no foco do “trade eleitoral”, diz especialista",
+    "d": "Rodrigo Moliterno, da Veedha Investimentos, analisa recuperação do Ibovespa e o impacto do cenário eleitoral no mercado financeiro",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/risco-fiscal-esta-no-foco-do-trade-eleitoral-diz-especialista/",
+    "time": "2026-09-05T12:00:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Foco de Hegseth em guerra cultural atrasa avanços do Exército, dizem fontes",
+    "d": "Secretário do Exército, Dan Driscoll, renunciou ao cargo no início da semana após tensões com chefe do Pentágono",
+    "link": "https://www.cnnbrasil.com.br/internacional/foco-de-hegseth-em-guerra-cultural-atrasa-avancos-do-exercito-dizem-fontes/",
+    "time": "2026-09-05T12:00:33.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "Inquérito das fake news: relembre decisões que marcaram a investigação sob relatoria de Moraes no STF",
     "d": "Aberto há 7 anos para investigar ataques, ameaças e notícias falsas contra o Supremo Tribunal Federal (STF), o chamado inquérito das fake news acumulou, ao longo dos anos, decisões que ampliaram o alcance da investiga…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/05/inquerito-das-fake-news-relembre-decisoes-que-marcaram-a-investigacao-sob-relatoria-de-moraes-no-stf.ghtml",
     "time": "2026-09-05T11:13:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US envoys arrive in Moscow ahead of Ukraine talks",
-    "d": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T11:07:08.000Z"
   },
   {
     "cat": "brasil",
@@ -72,60 +128,12 @@
     "time": "2026-09-05T10:59:20.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Crise do STF expõe “padrão preocupante de compadrio”, diz CEO da AP Exata",
-    "d": "Sergio Denicoli, CEO da AP Exata e cientista de dados, afirmou ao WW que leniência de instituições como Congresso e Senado alimenta ciclo de impunidade no país",
-    "link": "https://www.cnnbrasil.com.br/politica/crise-do-stf-expoe-padrao-preocupante-de-compadrio-diz-ceo-da-ap-exata/",
-    "time": "2026-09-05T10:42:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como cozinhar milho fresco em apenas um minuto para ter sabor intenso",
-    "d": "Descubra o método rápido que preserva a doçura natural do milho, ensina a selecionar espigas frescas e oferece técnicas de armazenamento e reaquecimento para aproveitar ao máximo",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/como-cozinhar-milho-fresco-em-apenas-um-minuto-para-ter-sabor-intenso/",
-    "time": "2026-09-05T10:04:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Assessores de Trump estão perdendo “guerra de memes” online",
-    "d": "Em meio a guerra comercial, primeiro-ministro canadense Mark Carney sugeriu que americanos \"estão muito ocupados zombando uns dos outros online\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-assessores-de-trump-estao-perdendo-guerra-de-memes-online/",
-    "time": "2026-09-05T10:00:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fiat Coupé: conheça a história do clássico esportivo italiano",
-    "d": "Modelo da montadora italiana teve apenas 1.124 unidades nos anos 90, mas segue encantando com design icônico",
-    "link": "https://www.cnnbrasil.com.br/auto/fiat-coupe-conheca-a-historia-do-classico-esportivo-italiano/",
-    "time": "2026-09-05T10:00:37.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
     "d": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks…",
     "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
     "time": "2026-09-05T10:00:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Conheça raça do novo cão de Taylor Swift e Travis Kelce",
-    "d": "Wendy é uma cadela da raça samoieda, conhecida pela pelagem branca e pelo característico “sorriso”; veja os principais cuidados",
-    "link": "https://www.cnnbrasil.com.br/comportamento/pets/conheca-raca-do-novo-cao-de-taylor-swift-e-travis-kelce/",
-    "time": "2026-09-05T10:00:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Embalado com Pedro Emanuel, Vasco agora busca sair do Z4 do Brasileirão",
-    "d": "Cruzmaltino, na 17ª posição, enfrenta o Fluminense neste sábado (5), no Maracanã, tentando sair da zona de rebaixamento",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/embalado-com-pedro-emanuel-vasco-agora-busca-sair-do-z4-do-brasileirao/",
-    "time": "2026-09-05T10:00:28.000Z"
   },
   {
     "cat": "brasil",
@@ -510,14 +518,6 @@
     "d": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
     "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-04T12:30:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF",
-    "d": "'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política após novo capítulo de crise envolvendo os ministros Alexandre de Moraes e André Mendonça.",
-    "link": "https://www.bbc.com/portuguese/articles/cgrvgd7j7k8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T11:19:00.000Z"
   },
   {
     "cat": "economia",
