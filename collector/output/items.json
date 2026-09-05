@@ -2,6 +2,62 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
+    "h": "Amigo de Titina Medeiros morre dias após publicar homenagem para atriz",
+    "d": "Marcílio Amorim morreu na última sexta-feira (4), aos 48 anos; ator e produtor teve forte influência na cena artística potiguar",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/amigo-de-titina-medeiros-morre-dias-apos-publicar-homenagem-para-atriz/",
+    "time": "2026-09-05T17:28:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Prefeito de Nova York assina decretos para reforçar segurança no 11/9",
+    "d": "Criação de equipe interagências visa fortalecer a preparação e melhorar a coordenação entre órgãos municipais para futuras crises",
+    "link": "https://www.cnnbrasil.com.br/internacional/prefeito-de-nova-york-assina-decreto-para-reforcar-seguranca-no-11-9/",
+    "time": "2026-09-05T17:26:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rio de Janeiro entra em alerta para chuvas e rajadas de ventos",
+    "d": "Baixada Fluminense, Costa Verde e Sul II são as regiões mais afetadas; estado enfrenta uma passagem de frente fria",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rio-de-janeiro-entra-em-alerta-para-chuvas-e-rajadas-de-ventos/",
+    "time": "2026-09-05T17:23:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US envoys meet Putin in Moscow for Ukraine talks",
+    "d": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T17:18:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Moraes vem errando a mão e isso é muito ruim, diz Marco Aurélio Mello à CNN",
+    "d": "Ministro aposentado da Corte afirmou que defendeu ainda a atuação de André Mendonça em meio às revelações envolvendo Alexandre de Moraes e Daniel Vorcaro",
+    "link": "https://www.cnnbrasil.com.br/politica/moraes-vem-errando-a-mao-e-isso-e-muito-ruim-diz-marco-aurelio-mello-a-cnn/",
+    "time": "2026-09-05T17:16:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US hits three Iranian oil tankers after saying its warships were targeted",
+    "d": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-05T17:15:05.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Ex-presidentes dos EUA participarão de cerimônia do 11 de setembro em NY",
+    "d": "Fontes relataram à CNN que George W. Bush, Barack Obama, Bill Clinton e Joe Biden marcarão presença no World Trade Center; Donald Trump marcará a data no Pentágono",
+    "link": "https://www.cnnbrasil.com.br/internacional/quatro-ex-presidentes-participarao-de-cerimonia-do-11-de-setembro-em-ny/",
+    "time": "2026-09-05T17:12:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
     "h": "Milei adota postura de confronto sobre Ilhas Malvinas, avalia professora",
     "d": "Carolina Pedroso, professora da UNIFESP, analisa decreto do presidente argentino contra empresas que exploram petróleo nas Malvinas sem aval de Buenos Aires",
     "link": "https://www.cnnbrasil.com.br/internacional/milei-adota-postura-de-confronto-sobre-ilhas-malvinas-avalia-professora/",
@@ -14,22 +70,6 @@
     "d": "Atividades vão do resgate de hobbies à reconexão em família",
     "link": "https://www.cnnbrasil.com.br/comportamento/como-aproveitar-o-feriado-prolongado-em-casa-com-atividades-divertidas/",
     "time": "2026-09-05T17:00:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US envoys in Moscow ahead of Ukraine talks",
-    "d": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T16:57:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US hits three Iranian oil tankers after saying its warships were targeted",
-    "d": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T16:53:43.000Z"
   },
   {
     "cat": "brasil",
@@ -86,46 +126,6 @@
     "d": "Estima-se que mais de 84.000 pessoas tenham sido atingidas pela catástrofe, necessitando de ajuda urgente para obter abrigo, alimentos e assistência médica",
     "link": "https://www.cnnbrasil.com.br/internacional/onu-busca-arrecadar-r-256-milhoes-para-vitimas-de-enchentes-no-nepal/",
     "time": "2026-09-05T16:42:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Marco Aurélio Mello à CNN: “Mendonça procedeu como deveria proceder”",
-    "d": "Em entrevista à CNN Brasil, ministro aposentado do STF defendeu a atuação de André Mendonça em meio às revelações envolvendo Alexandre de Moraes e o ex-dono do Banco Master, Daniel Vorcaro",
-    "link": "https://www.cnnbrasil.com.br/politica/marco-aurelio-mello-a-cnn-mendonca-procedeu-como-deveria-proceder/",
-    "time": "2026-09-05T16:40:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ucrânia e Rússia pausam ataques para visita de enviados de Trump",
-    "d": "Presidente da Ucrânia afirmou em postagem do X que país está pronto para se abster de operações na capital russa, desde que Putin faça o mesmo com; Kremlin também declarou pausa nos avanços contra Kiev",
-    "link": "https://www.cnnbrasil.com.br/internacional/ucrania-e-russia-pausam-ataques-para-visita-de-enviados-de-trump/",
-    "time": "2026-09-05T16:35:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro",
-    "d": "Resultado representa um avanço na realização de xenotransplantes; é a primeira vez que um paciente sobrevive mais de dois meses com esse procedimento",
-    "link": "https://www.cnnbrasil.com.br/saude/paciente-viveu-271-dias-com-rim-suino-em-estudo-liderado-por-brasileiro/",
-    "time": "2026-09-05T16:35:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Miss Mundo 2026: Joheirry Mola, da República Dominicana, ganha o concurso",
-    "d": "Competição aconteceu neste sábado (5) no Vietnã",
-    "link": "https://www.cnnbrasil.com.br/pop/miss-mundo-2026-joheirry-mola-da-republica-dominicana-ganha-concurso/",
-    "time": "2026-09-05T16:30:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Pedir nulidade não se coaduna com o direito instrumental”, diz Mello à CNN",
-    "d": "Em entrevista neste sábado (5), o ministro aposentado Marco Aurélio Mello afirmou que medida seria exagerada e incompatível com as regras do processo",
-    "link": "https://www.cnnbrasil.com.br/politica/pedir-nulidade-nao-se-coaduna-com-o-direito-instrumental-diz-mello-a-cnn/",
-    "time": "2026-09-05T16:23:10.000Z"
   },
   {
     "cat": "internacional",
