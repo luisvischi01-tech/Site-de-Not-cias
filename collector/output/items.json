@@ -1,35 +1,147 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Avião de carga da Amazon deixa pelo menos 5 mortos ao sair da pista em aeroporto de Miami",
+    "d": "Boeing 767-300 da Amazon saiu da pista durante o pouso em Miami; autoridades ainda investigam as causas do acidente",
+    "link": "https://www.bbc.com/portuguese/articles/cz0z9m31kmyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-06T22:27:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Remo 0 x 1 Flamengo: veja os melhores momentos pelo Brasileirão",
+    "d": "Samuel Lino fez o gol da vitória do Rubro-Negro no estádio do Mangueirão neste domingo (6), pelo Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-0-x-1-flamengo-veja-os-melhores-momentos-pelo-brasileirao/",
+    "time": "2026-09-06T22:09:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cruzeiro 3 x 1 Athletico-PR: veja os melhores momentos pelo Brasileirão",
+    "d": "Cabuloso venceu com gols de Matheus Pereira, Romero e Kaio Jorge",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-3-x-1-athletico-pr-veja-os-melhores-momentos-pelo-brasileirao/",
+    "time": "2026-09-06T22:02:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com que frequência você solta gases? Roupa íntima inteligente monitora ação e saúde digestiva dos humanos",
+    "d": "Missão final da equipe desenvolvedora é ajudar as pessoas a consumirem dietas ricas em fibras confortavelmente",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/com-que-frequencia-voce-solta-gases-roupa-intima-inteligente-monitora-acao-e-saude-digestiva-dos-humanos/",
+    "time": "2026-09-06T22:00:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alcaraz vence Tommy Paul e vai às quartas de final do US Open",
+    "d": "Tenista espanhol segue vivo na busca pelo tricampeonato do Grand Slam norte-americano desta temporada",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-vence-tommy-paul-e-vai-as-quartas-de-final-do-us-open/",
+    "time": "2026-09-06T21:51:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Acidente com avião da Amazon em Miami deixa ao menos 5 mortos",
+    "d": "Aeronave de carga saiu da pista durante o pouso no aeroporto internacional e atingiu veículos em via de contorno",
+    "link": "https://www.cnnbrasil.com.br/internacional/acidente-com-aviao-da-amazon-em-miami-deixa-ao-menos-5-mortos/",
+    "time": "2026-09-06T21:51:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+    "d": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-06T21:37:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "População quer educação de qualidade, avalia especialista",
+    "d": "Para 53% dos entrevistados, melhorar salários e condições de trabalho dos docentes deve ser a principal meta para a educação",
+    "link": "https://www.cnnbrasil.com.br/educacao/populacao-quer-educacao-de-qualidade-avalia-especialista/",
+    "time": "2026-09-06T21:35:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Corinthians x Chapecoense: escalações e onde assistir ao jogo do Brasileiro",
+    "d": "Equipes vão a campo neste domingo (6), na Neo Química Arena, em São Paulo, em duelo válido pela 26ª rodada do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-x-chapecoense-escalacoes-e-onde-assistir-ao-jogo-do-brasileiro/",
+    "time": "2026-09-06T21:34:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Furacão Lowell avança e coloca ilhas do Havaí em alerta",
+    "d": "Kauai e Niihau estão sob avisos de tempestade tropical enquanto o sistema se aproxima do território havaiano, o terceiro em três semanas na região",
+    "link": "https://www.cnnbrasil.com.br/internacional/furacao-lowell-avanca-e-coloca-ilhas-do-havai-em-alerta/",
+    "time": "2026-09-06T21:28:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Abel Ferreira e Carlo Ancelotti se encontram antes de Botafogo x Palmeiras",
+    "d": "Técnico da Seleção Brasileira está no Nilton Santos para observar atletas antes de convocação",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-ferreira-e-carlo-ancelotti-se-encontram-antes-de-botafogo-x-palmeiras/",
+    "time": "2026-09-06T21:26:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alemanha prepara defesa contra sabotagem após ataque com drones a aeroporto",
+    "d": "Medidas abrangem defesas anti-drone, cibernéticas e sabotagem, após tentativa frustrada de ataque a aeroporto",
+    "link": "https://www.cnnbrasil.com.br/internacional/alemanha-prepara-defesa-contra-sabotagem-apos-ataque-com-drones-a-aeroporto/",
+    "time": "2026-09-06T21:13:33.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Aprovação de Trump cai para 33%, menor nível já registrado, com piora na avaliação da economia e do custo de vida",
+    "d": "Análise: Guerra do Irã é a causa da queda na aprovação de Trump, diz Guga Chacra A aprovação do Presidente dos Estados Unidos, Donald Trump, caiu para 33%, o menor nível desde o início do segundo mandato, segundo pesq…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/06/aprovacao-de-trump-cai-para-33percent-menor-nivel-ja-registrado-com-piora-na-avaliacao-da-economia-e-do-custo-de-vida.ghtml",
+    "time": "2026-09-06T21:11:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "GFS investe R$ 55 milhões em nova fábrica de aditivos para nutrição animal",
+    "d": "Unidade em Apucarana (PR) será inaugurada em 9 de setembro e vai ampliar a capacidade de produção de aditivos para alimentação de aves e suínos",
+    "link": "https://www.cnnbrasil.com.br/agro/gfs-investe-r-55-milhoes-em-nova-fabrica-de-aditivos-para-nutricao-animal/",
+    "time": "2026-09-06T21:10:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com Matheus Pereira protagonista, Cruzeiro vence Athletico-PR no Brasileiro",
+    "d": "Cabuloso venceu por 3 a 1, com gols de Matheus Pereira, Romero e Kaio Jorge",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-matheus-pereira-protagonista-cruzeiro-vence-athletico-pr-no-brasileiro/",
+    "time": "2026-09-06T21:05:02.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+    "d": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-06T20:52:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Império esquecido': a época em que a Rússia colonizou a Califórnia",
+    "d": "Na primeira metade do século 19, parte do condado de Sonoma, na Califórnia, foi administrada pelo império russo por cerca de 30 anos. Este episódio histórico exerceu grande (e pouco conhecida) influência na formação d…",
+    "link": "https://www.bbc.com/portuguese/articles/cvgy4djlzldo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-06T20:48:33.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Zelensky says he expects war to continue into winter after talks with US envoys",
     "d": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T20:18:52.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "German far-right set for big win in eastern state, projections show",
-    "d": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T20:16:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dor do crescimento em crianças: o que é, causas e como aliviar desconforto",
-    "d": "Entenda por que as pernas doem à noite na infância, conheça tratamentos eficazes e saiba quando procurar ajuda médica para seu filho",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/dor-do-crescimento-em-criancas-o-que-e-causas-e-como-aliviar-desconforto/",
-    "time": "2026-09-06T20:07:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Expointer 2026 encerra com R$ 6,1 bilhões em comercialização",
-    "d": "Resultado representa alta de 40% em relação aos negócios registrados na edição anterior, mas segue abaixo do recorde histórico de 2024",
-    "link": "https://www.cnnbrasil.com.br/agro/expointer-2026-encerra-com-r-61-bilhoes-em-comercializacao/",
-    "time": "2026-09-06T20:06:10.000Z"
+    "time": "2026-09-06T20:41:58.000Z"
   },
   {
     "cat": "internacional",
@@ -38,86 +150,6 @@
     "d": "Exclusive: US-controlled weapons corporations and forces have control or access to more than 100 facilities across the continent, which some analysts describe as a ‘colonisation’ of Australia’s military. Find a map of…",
     "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
     "time": "2026-09-06T20:00:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leclerc admite preocupação com a visão após acidente no GP da Itália",
-    "d": "Piloto da Ferrari relatou dificuldade momentânea para enxergar com o olho direito e fará novos exames antes da próxima etapa da F1",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/leclerc-admite-preocupacao-com-a-visao-apos-acidente-no-gp-da-italia/",
-    "time": "2026-09-06T19:58:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lavrov acusa Ocidente de iniciar “guerra de verdade” contra a Rússia",
-    "d": "Ministro russo se refere às acusações sobre o incidente com drones em Leipzig como uma declaração de guerra do chanceler alemão, Friedrich Merz",
-    "link": "https://www.cnnbrasil.com.br/internacional/lavrov-acusa-ocidente-de-iniciar-guerra-de-verdade-contra-a-russia/",
-    "time": "2026-09-06T19:56:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "À CNN, porta-voz da Intelis explica críticas da Abin ao relatório de Moraes",
-    "d": "Em entrevista ao Agora CNN, Adriana Abrão afirma que documento apresentado pelo ministro não segue os parâmetros estabelecidos pelos profissionais de inteligência da Abin",
-    "link": "https://www.cnnbrasil.com.br/politica/a-cnn-porta-voz-da-intelis-explica-criticas-da-abin-ao-relatorio-de-moraes/",
-    "time": "2026-09-06T19:54:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Choro de bebê levou PM a encontrar corpo de médica em apartamento no PR",
-    "d": "A médica Gassi Mazia, de 37 anos, foi encontrada morta em Maringá; bebê de oito meses foi deixado sozinho pelo pai, apontado como autor do crime",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/choro-de-bebe-levou-pm-a-encontrar-corpo-de-medica-em-apartamento-no-pr/",
-    "time": "2026-09-06T19:44:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Netanyahu ordena desmantelar postos avançados de colonos, dizem fontes",
-    "d": "A decisão do primeiro-ministro de Israel ocorre sob pressão dos EUA para conter a violência de colonos na Cisjordânia",
-    "link": "https://www.cnnbrasil.com.br/internacional/netanyahu-ordena-desmantelar-postos-avancados-de-colonos-dizem-fontes/",
-    "time": "2026-09-06T19:34:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "US Open: Sabalenka elimina Towsend e repete feito de Serena Williams",
-    "d": "Tenista bielorussa alcançou a fase de quartas de final do torneio pela sexta vez consecutiva, algo que não ocorria desde o ano de 2016",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-sabalenka-elimina-towsend-e-repete-feito-de-serena-williams/",
-    "time": "2026-09-06T19:31:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“TWG”: quanto custa chá de luxo que Sérgio Cabral recebeu na prisão?",
-    "d": "Justiça do Rio de Janeiro condenou ex-governador a pagar R$ 1 milhão em danos morais coletivos por improbidade administrativa em um esquema de regalias quando esteve preso",
-    "link": "https://www.cnnbrasil.com.br/politica/twg-quanto-custa-cha-de-luxo-que-sergio-cabral-recebeu-na-prisao/",
-    "time": "2026-09-06T19:25:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: Onça-parda é capturada em garagem de condomínio em SC",
-    "d": "Animal foi localizado por moradores na manhã deste domingo (6); durante as tentativas de captura, onça fugiu e percorreu vários quintais de residências próximas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/video-onca-parda-e-capturada-em-garagem-de-condominio-em-sc/",
-    "time": "2026-09-06T19:22:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rock in Rio 2026: chuva forte suspende agendamento de brinquedos",
-    "d": "Condições climáticas interromperam reservas para atrações recreativas do festival neste domingo (6)",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-chuva-forte-suspende-agendamento-de-brinquedos/",
-    "time": "2026-09-06T19:19:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Avião de carga da Amazon ultrapassa pista ao pousar em aeroporto de Miami",
-    "d": "Boeing 767 da Amazon Prime Air tinha decolado de San Juan, em Porto Rico; autoridades vão investigar o ocorrido",
-    "link": "https://www.cnnbrasil.com.br/internacional/aviao-de-carga-da-amazon-ultrapassa-pista-ao-pousar-em-aeroporto-de-miami/",
-    "time": "2026-09-06T19:13:23.000Z"
   },
   {
     "cat": "brasil",
@@ -248,12 +280,12 @@
     "time": "2026-09-06T12:28:03.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Vulcão 'filhote do Krakatoa' entra em erupção na Indonésia, afeta voos na Ásia e deixa 150 mil passageiros retidos",
-    "d": "O Ministério dos Transportes da Indonésia afirmou que erupção afetou centenas de voos, entre os quais rotas para Singapura, Doha, Sydney e Kuala Lumpur.",
-    "link": "https://www.bbc.com/portuguese/articles/ce3090wv8k2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T11:17:51.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
+    "d": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis The greenest campaigners against climate change have long suffered from a crippling shortcoming: they too often frame…",
+    "link": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
+    "time": "2026-09-06T11:00:03.000Z"
   },
   {
     "cat": "economia",
@@ -384,14 +416,6 @@
     "time": "2026-09-06T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo",
-    "d": "Proposta trata de uma alteração no Regimento Interno do STF e chega em meio a uma crise sem precedentes na história da Corte",
-    "link": "https://www.bbc.com/portuguese/articles/cg49vnnk606o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T23:23:38.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
@@ -488,14 +512,6 @@
     "time": "2026-09-05T09:12:48.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "A desigualdade brasileira em 6 gráficos: os principais dados do novo estudo da Oxfam",
-    "d": "Comunidades da Vila Andrade contrastam com o luxo de mansões do Panamby, na Zona Sul de SP Celso Tavares/G1 A desigualdade no Brasil vai além das diferenças de renda. Embora os indicadores sociais tenham melhorado nos…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/05/a-desigualdade-brasileira-em-6-graficos-os-principais-dados-do-novo-estudo-da-oxfam.ghtml",
-    "time": "2026-09-05T08:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -550,14 +566,6 @@
     "d": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August The US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market. The unemplo…",
     "link": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
     "time": "2026-09-04T12:40:44.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-    "d": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
-    "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-04T12:30:56.000Z"
   },
   {
     "cat": "economia",
