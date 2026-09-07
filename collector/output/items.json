@@ -1,59 +1,235 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Trump ameaça impedir Bombardier de vender aviões nos EUA se empresa canadense não passar a produzir no país",
+    "d": "Canadá anuncia tarifas sobre 700 produtos americanos em retaliação ao tarifaço de Trump O presidente dos Estados Unidos, Donald Trump, ameaçou nesta segunda-feira (7) impedir a Bombardier, fabricante de aviões com sed…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/07/trump-ameaca-impedir-bombardier-de-vender-avioes-nos-eua-se-empresa-canadense-nao-passar-a-produzir-no-pais.ghtml",
+    "time": "2026-09-07T19:58:17.000Z"
+  },
+  {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CNN Brasil entrevista Gabriel Souza, candidato ao governo do RS",
-    "d": "Postulante do MDB é o primeiro sabatinado na série de conversas com concorrentes ao Palácio Piratini",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/cnn-brasil-entrevista-gabriel-souza-candidato-ao-governo-do-rs/",
-    "time": "2026-09-07T16:00:09.000Z"
+    "src": "BBC News Brasil",
+    "h": "Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política",
+    "d": "Para a pesquisadora Mariana Llanos, abalo na Corte sem precedentes na história recente pode impedir que Supremo exerça seu papel de contrapeso a outras instituições.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T19:50:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: 79% dizem que opinião de liderança religiosa não influencia escolha de voto para presidente",
+    "d": "Imagem urna eletrônica Reprodução/TV Globo Levantamento da Quaest questionou aos eleitores qual o nível de influência a opinião de líderes religiosos na escolha de voto para presidente. Para 79% dos eleitores, não há…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-lideranca-religiosa-influencia-voto-presidente.ghtml",
+    "time": "2026-09-07T19:33:12.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Adolescente pula de carro para fugir de sequestro no Rio; veja vídeo",
-    "d": "Jovem de 15 anos conseguiu escapar após ser colocada à força em um carro no Engenho Novo; câmeras registraram a ação",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/adolescente-pula-de-carro-para-fugir-de-sequestro-no-rio-veja-video/",
-    "time": "2026-09-07T15:56:57.000Z"
+    "h": "Cleitinho diz estar agindo para que Alcolumbre paute impeachment de Moraes",
+    "d": "Senador e candidato ao governo de Minas Gerais pelo Republicanos participou de manifestação em Belo Horizonte nesta segunda-feira (7)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/cleitinho-diz-estar-agindo-para-que-alcolumbre-paute-impeachment-de-moraes/",
+    "time": "2026-09-07T19:30:11.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "OAB nacional pede rigor do STF e regionais defendem afastamento de Moraes",
-    "d": "Conselho Federal da Ordem e presidentes de seccionais devem se reunir com Fachin para tratar do assunto na próxima quarta-feira (9)",
-    "link": "https://www.cnnbrasil.com.br/politica/oab-nacional-pede-rigor-do-stf-e-regionais-defendem-afastamento-de-moraes/",
-    "time": "2026-09-07T15:53:42.000Z"
+    "h": "Trabalhador é resgatado na Casa Branca após ficar ferido em obra",
+    "d": "Socorristas foram vistos colocando capacetes e subindo nos andaimes do Pórtico Norte para levar vítima ao solo",
+    "link": "https://www.cnnbrasil.com.br/internacional/trabalhador-e-resgatado-na-casa-branca-apos-ficar-ferido-em-obra/",
+    "time": "2026-09-07T19:29:39.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Dengue em SP: estado tem mais de 58 mil casos e 42 mortes em 2026",
-    "d": "Outras 30 mortes ainda são investigadas; Taubaté é o município com maior número de óbitos pela doença, com 11 registros",
-    "link": "https://www.cnnbrasil.com.br/saude/dengue-em-sp-estado-tem-mais-de-58-mil-casos-e-42-mortes-em-2026/",
-    "time": "2026-09-07T15:51:32.000Z"
+    "h": "Edu Gaspar é demitido do Nottingham Forest após um ano",
+    "d": "Ex-diretor de Arsenal e Corinthians, brasileiro foi contratado para comandar rede de clubes de bilionário grego",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/edu-gaspar-e-demitido-do-nottingham-forest-apos-um-ano/",
+    "time": "2026-09-07T19:27:21.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Semana do Cinema: 2ª edição tem ingressos a partir de R$ 10",
-    "d": "Entradas e combos de pipoca estarão com preços especiais; festival acontece entre 10 e 16 de setembro",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/semana-do-cinema-2a-edicao-tem-ingressos-a-partir-de-r-10/",
-    "time": "2026-09-07T15:45:53.000Z"
+    "h": "Irmãos Menendez conseguem audiência de liberdade condicional antecipada",
+    "d": "Condenados pelo assassinato dos pais em 1989, Erik e Lyle Menendez podem comparecer perante o conselho em março de 2027 para avaliação",
+    "link": "https://www.cnnbrasil.com.br/internacional/irmaos-menendez-conseguem-audiencia-de-liberdade-condicional-antecipada/",
+    "time": "2026-09-07T19:25:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Petróleo sobe a US$ 97 e bate maior valor em seis semanas após escalada da guerra entre EUA e Irã",
+    "d": "Volta dos ataques no Irã pressiona Trump Os preços do petróleo subiram nesta segunda-feira (7) e atingiram o maior nível em seis semanas, após o Irã ameaçar atacar instalações de energia no Oriente Médio em resposta a…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/07/petroleo-sobe-a-us-97-e-bate-maior-valor-em-seis-semanas-apos-escalada-da-guerra-entre-eua-e-ira.ghtml",
+    "time": "2026-09-07T19:25:12.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Incerteza ronda migrantes após eleição de partido nacionalista na Alemanha",
-    "d": "Pesquisa realizada pela instituição indica que mais de 80% dos entrevistados estavam considerando deixar o estado de Saxônia-Anhalt",
-    "link": "https://www.cnnbrasil.com.br/internacional/incerteza-ronda-migrantes-apos-eleicao-de-partido-nacionalista-na-alemanha/",
-    "time": "2026-09-07T15:44:15.000Z"
+    "h": "Personal trainer levanta peso equivalente ao Cristo Redentor em um dia e bate recorde mundial",
+    "d": "Profissional treinou durante cinco meses e arrecadou fundos para ajudar uma amiga com câncer",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/personal-trainer-levanta-peso-equivalente-ao-cristo-redentor-em-um-dia-e-bate-recorde-mundial/",
+    "time": "2026-09-07T19:23:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Ninguém está preparado para as consequências da inteligência artificial', adverte cientista-chefe da OpenAI",
+    "d": "O alerta surgiu poucos dias depois do lançamento do GPT-6 Astra, anunciado pela empresa como seu produto mais poderoso até aqui.",
+    "link": "https://www.bbc.com/portuguese/articles/cvgyevpqk3vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T19:20:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Campanha de Lula cita tarifaço, defende soberania e critica família Bolsonaro em nova propaganda eleitoral na TV",
+    "d": "Lula em propaganda eleitoral que defende a soberania nacional e critica a família Bolsonaro Reprodução A campanha do presidente Lula (PT) vai reforçar os ataques a Flávio Bolsonaro (PL) na propaganda eleitoral de TV d…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/campanha-lula-propaganda-eleitoral-tv.ghtml",
+    "time": "2026-09-07T19:19:52.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Aespa no Brasil: veja como foi o show do quarteto em São Paulo",
-    "d": "Grupo se apresentou na última sexta-feira (4), na Mercado Livre Arena Pacaembu; noite foi marcada por tempo instável e alterações na programação",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/aespa-no-brasil-veja-como-foi-o-show-do-quarteto-em-sao-paulo/",
-    "time": "2026-09-07T15:43:18.000Z"
+    "h": "Tarcísio: “Revelações sobre Moraes precisam ser esclarecidas”",
+    "d": "Em ato na Avenida Paulista nesta segunda-feira (7), o governador de São Paulo e candidato à reeleição enfatizou que \"todos devem se submeter ao império da lei, custe o que custar\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tarcisio-revelacoes-sobre-moraes-precisam-ser-esclarecidas/",
+    "time": "2026-09-07T19:18:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bombeiros buscam menino de 4 anos com TEA desaparecido perto de rio em SC",
+    "d": "Antônio Carlos Gomes Teixeira foi visto pela última vez no domingo perto do rio Itajaí do sul, em Ituporanga",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/bombeiros-buscam-menino-de-4-anos-com-tea-desaparecido-perto-de-rio-em-sc/",
+    "time": "2026-09-07T19:14:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rob Reiner ganha Emmy póstumo por papel em “The Bear”",
+    "d": "Ator foi premiado como Melhor Ator Convidado em Comédia nove meses após sua morte",
+    "link": "https://www.cnnbrasil.com.br/pop/tv/rob-reiner-ganha-emmy-postumo-por-papel-em-the-bear/",
+    "time": "2026-09-07T19:13:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ana Hickmann posta fotos de pré-wedding e reflete sobre felicidade; veja",
+    "d": "Apresentadora se casará com Edu Guedes no dia 12 de setembro em sua fazenda",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ana-hickmann-posta-fotos-de-pre-wedding-e-reflete-sobre-felicidade-veja/",
+    "time": "2026-09-07T19:10:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Luisa Stefani e Dabrowski aplicam pneu e avançam às quartas do US Open",
+    "d": "Brasileira e canadense derrotaram Hozumi e Klepac em apenas 54 minutos e seguem sem perder sets em Nova York",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-e-dabrowski-aplicam-pneu-e-avancam-as-quartas-do-us-open/",
+    "time": "2026-09-07T19:09:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Seleção: Ancelotti inclui Matheuzinho e outros do Corinthians na pré-lista",
+    "d": "Corinthians tem quatro jogadores na pré-lista de convocados da Seleção Brasileira para amistosos contra Austrália e Índia",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/selecao-ancelotti-inclui-matheuzinho-e-outros-do-corinthians-na-pre-lista/",
+    "time": "2026-09-07T19:08:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Produção de vinho na França atinge menor nível em 30 anos",
+    "d": "País europeu enfrenta queda de 6% em relação ao ano passado e 17% abaixo da média devido à seca e ondas de calor",
+    "link": "https://www.cnnbrasil.com.br/agro/producao-de-vinho-na/",
+    "time": "2026-09-07T19:07:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os novos vídeos que indicam possível papel de agente da Arábia Saudita no 11 de Setembro",
+    "d": "Imagens e outras evidências que o FBI não compartilhou colocam em dúvida 25 anos de negativas de Omar al-Bayoumi.",
+    "link": "https://www.bbc.com/portuguese/articles/c74kzzk05zdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T18:00:48.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Cúpula na França reúne autoridades e empresas para debater o futuro da produção audiovisual",
+    "d": "Evento Lumiere Summir debate o futuro da imagem VALERY HACHE O presidente francês, Emmanuel Macron, e o presidente sul-coreano, Lee Jae Myung, copresidiram nesta segunda-feira (7) a Cúpula Lumière, em Saint-Paul-de-Ve…",
+    "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/07/cupula-na-franca-reune-autoridades-e-empresas-para-debater-o-futuro-da-imagem.ghtml",
+    "time": "2026-09-07T17:57:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Investigators begin work on why cargo plane overran Miami runway",
+    "d": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T17:46:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Crise do STF embala 7 de setembro e vira trunfo para Flávio Bolsonaro tentar recuperar força eleitoral",
+    "d": "Com empate nas simulações de segundo turno, candidato do PL aposta no desgaste de Alexandre de Moraes para mobilizar a base bolsonarista no 7 de Setembro — mas enfrenta o desafio de não afastar eleitores moderados.",
+    "link": "https://www.bbc.com/portuguese/articles/c87vpnpel9jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T17:38:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Partidos de direita fazem manifestações com críticas ao STF e ao ministro Alexandre de Moraes",
+    "d": "7 de setembro tem protestos contra Moraes Em paralelo aos desfiles de 7 de Setembro que ocorrem nesta segunda-feira pelo país, ao menos sete capitais brasileiras registraram manifestações com críticas ao Supremo Tribu…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/07/capitais-registram-manifestacoes.ghtml",
+    "time": "2026-09-07T17:34:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+    "d": "Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024 The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on…",
+    "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+    "time": "2026-09-07T17:29:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como o Dia da Independência apagou a memória da luta negra por independência e abolição",
+    "d": "Uma articulação popular pedia, entre suas bandeiras, o regime republicano e o fim da escravidão. Mas seus líderes foram executados em praça pública décadas antes de 7 de setembro de 1822.",
+    "link": "https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T17:25:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Renan Santos faz ato no Ibirapuera e pede afastamento de Toffoli e Moraes do STF, de Andrei da PF e de Gonet da PGR",
+    "d": "Renan Santos durante ato de campanha no Ibirapuera TV Globo O candidato à Presidência da República Renan Santos (Missão) pediu nesta segunda-feira (7), durante um ato no Parque Ibirapuera, em São Paulo, a saída imedia…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/renan-santos-faz-ato-no-ibirapuera-e-pede-afastamento-de-toffoli-e-moraes-do-stf-de-andrei-da-pf-e-de-gonet-da-pgr.ghtml",
+    "time": "2026-09-07T17:23:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Após vitória histórica em eleições regionais, direita radical alemã busca apoio para formar governo na Saxônia",
+    "d": "O partido de direita radical tenta formar um governo no Estado após ficar a três cadeiras de uma maioria",
+    "link": "https://www.bbc.com/portuguese/articles/cj06m1jgj2jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T17:14:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro chama 8 de janeiro de farsa, diz que STF não é Alexandre de Moraes e que 'povo quer mudança' em ato na Paulista",
+    "d": "Flavio Bolsonaro e Tarcísio participam de ato na Avenida Paulista O candidato à Presidência Flávio Bolsonaro (PL) reuniu apoiadores e aliados políticos na tarde desta segunda-feira (7) na Avenida Paulista, em São Paul…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml",
+    "time": "2026-09-07T16:58:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Tanzanian President Samia's husband dies in hospital",
+    "d": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+    "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T16:23:02.000Z"
   },
   {
     "cat": "internacional",
@@ -62,46 +238,6 @@
     "d": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday.",
     "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T15:40:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: PM usa bomba contra manifestantes na região da avenida Paulista (SP)",
-    "d": "Caso ocorreu durantes atos que ocorrem pela cidade durante o feriado de 7 de setembro",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-pm-usa-bomba-contra-manifestantes-na-regiao-da-avenida-paulista-sp/",
-    "time": "2026-09-07T15:40:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Zé Roberto prega pés no chão em busca de vaga olímpica no Sul-Americano",
-    "d": "Técnico da Seleção Brasileira feminina de vôlei projetou a estreia contra a Venezuela nesta terça-feira (8)",
-    "link": "https://www.cnnbrasil.com.br/esportes/volei/ze-roberto-prega-pes-no-chao-em-busca-de-vaga-olimpica-no-sul-americano/",
-    "time": "2026-09-07T15:38:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "13 dias após tragédia no Himalaia, agente ainda busca colegas sob escombros",
-    "d": "Gui Xinwei, que trabalha na fronteira entre Nepal e China, afirma que não quer parar, impulsionado pela esperança de encontrar sobreviventes",
-    "link": "https://www.cnnbrasil.com.br/internacional/13-dias-apos-tragedia-no-himalaia-agente-ainda-busca-colegas-sob-escombros/",
-    "time": "2026-09-07T15:36:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Luana Piovani posa com Scooby e Cintia Dicker após brigas públicas",
-    "d": "Atriz apareceu ao lado do ex-marido em aniversário dos filhos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/luana-piovani-posa-com-scooby-e-cintia-dicker-apos-brigas-publicas/",
-    "time": "2026-09-07T15:35:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rei Charles afirma que Harry e Meghan serão cidadãos comuns no Reino Unido",
-    "d": "Carta autorizada pelo monarca confirma a posição do casal após seu retorno recente ao território britânico",
-    "link": "https://www.cnnbrasil.com.br/internacional/rei-charles-afirma-que-harry-e-meghan-serao-cidadaos-comuns-no-reino-unido/",
-    "time": "2026-09-07T15:32:57.000Z"
   },
   {
     "cat": "internacional",
@@ -138,8 +274,8 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Augusto Cury faz ato na Praia de Copacabana",
-    "d": "Augusto Cury em Copacabana Reprodução/TV Globo O candidato à Presidência da República Augusto Cury (Avante) veio ao Rio de Janeiro nesta segunda-feira (7) para um ato na Praia de Copacabana. Apoiadores se reuniram no…",
+    "h": "Cury faz ato em Copacabana, promete financiar 10 milhões de microempresas em favelas e manda ‘abraço muito especial’ a Mendonça",
+    "d": "Augusto Cury faz ato em Copacabana O candidato à Presidência da República Augusto Cury (Avante) veio ao Rio de Janeiro nesta segunda-feira (7) para um ato na Praia de Copacabana, na Zona Sul. No fim do evento, Cury ma…",
     "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/07/augusto-cury-faz-ato-na-praia-de-copacabana.ghtml",
     "time": "2026-09-07T14:26:17.000Z"
   },
@@ -202,8 +338,8 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "h": "Clique aqui",
+    "d": "Confira as estimativas de votos para Eleição 2026 no Agregador da BBC News Brasil",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T12:46:36.000Z"
   },
@@ -214,14 +350,6 @@
     "d": "Apesar de serem mais da metade do eleitorado brasileiro — 52,84% dos eleitores—, as mulheres ainda têm pouca representação dentro do núcleo estratégico das campanhas dos principais candidatos à Presidência em 2026. Um…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/apesar-de-decisivas-nas-eleicoes-mulheres-ainda-sao-minorias-nas-campanhas-dos-presidenciaveis.ghtml",
     "time": "2026-09-07T12:04:02.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Tanzanian President Samia's husband dies in hospital",
-    "d": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
-    "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T12:03:56.000Z"
   },
   {
     "cat": "brasil",
@@ -256,22 +384,6 @@
     "time": "2026-09-07T10:29:38.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O incessante aumento da proibição de livros nas escolas públicas dos EUA",
-    "d": "Bibliotecas das escolas públicas americanas se transformaram no campo de intensa batalha ideológica sobre quais livros devem estar disponíveis para os alunos.",
-    "link": "https://www.bbc.com/portuguese/articles/cde0202dl49o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T10:13:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Probe begins into why cargo plane overran Miami runway",
-    "d": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T09:54:40.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Russia and North Korea open first road bridge across their shared border",
@@ -286,14 +398,6 @@
     "d": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
     "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T09:31:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O dilema da Europa após direita radical na Alemanha obter vitória inédita desde a 2ª Guerra",
-    "d": "Os próximos 12 meses serão marcados por intensa temporada eleitoral em toda a UE; haverá votações em países-chave como França, Itália, Espanha e Polônia. Bruxelas teme que partidos mais 'extremistas', possam se benefi…",
-    "link": "https://www.bbc.com/portuguese/articles/crr4q7zj985o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T09:19:43.000Z"
   },
   {
     "cat": "brasil",
@@ -320,36 +424,12 @@
     "time": "2026-09-07T08:21:49.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como o Dia da Independência apagou a memória da luta negra por independência e abolição",
-    "d": "Uma articulação popular pedia, entre suas bandeiras, o regime republicano e o fim da escravidão. Mas seus líderes foram executados em praça pública décadas antes de 7 de setembro de 1822.",
-    "link": "https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T08:11:21.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Trabalhar, dever, trabalhar mais: como crédito caro prende entregadores argentinos aos aplicativos",
     "d": "Camarotti comenta dívida pública e crise com Argentina Quando a moto de um entregador é apreendida pelas autoridades de trânsito em Buenos Aires, voltar ao trabalho pode depender de um empréstimo caro. O empréstimo aj…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/07/trabalhar-dever-trabalhar-mais-como-credito-caro-prende-entregadores-argentinos-aos-aplicativos.ghtml",
     "time": "2026-09-07T08:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Crise do STF embala 7 de setembro e vira trunfo para Flávio Bolsonaro tentar recuperar força eleitoral",
-    "d": "Com empate nas simulações de segundo turno, candidato do PL aposta no desgaste de Alexandre de Moraes para mobilizar a base bolsonarista no 7 de Setembro — mas enfrenta o desafio de não afastar eleitores moderados.",
-    "link": "https://www.bbc.com/portuguese/articles/c87vpnpel9jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T07:54:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo",
-    "d": "O partido alemão AfD comemorou o 'resultado histórico' na Saxônia-Anhalt e deve ficar muito à frente do partido conservador CDU",
-    "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T07:04:04.000Z"
   },
   {
     "cat": "internacional",
@@ -376,14 +456,6 @@
     "time": "2026-09-07T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "VÍDEO: entenda o que são votos em branco e nulos e o peso deles no resultado da eleição",
-    "d": "Qual a diferença entre votos em branco e nulos? Na hora de votar, o eleitor encontra na urna eletrônica, além do teclado numérico, três teclas coloridas: a verde, usada para confirmar o voto; a laranja, para corrigir;…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/07/video-voto-em-branco-voto-nulo.ghtml",
-    "time": "2026-09-07T03:00:00.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Próximo feriadão é em outubro; veja os cinco feriados que ainda restam em 2026",
@@ -398,14 +470,6 @@
     "d": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
     "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T00:01:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em pronunciamento pelo 7 de Setembro, Lula diz que Brasil 'não é colônia' e que decisões pertencem ao país e 'a mais ninguém'",
-    "d": "Em pronunciamento pelo 7 de Setembro neste domingo (6), o presidente Luiz Inácio Lula da Silva (PT) afirmou que o Brasil não é e nem será \"colônia de ninguém\". Na mensagem, transmitida em cadeia nacional de rádio e TV…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/06/em-pronunciamento-pelo-7-de-setembro-lula-diz-que-brasil-nao-e-colonia-e-que-decisoes-pertencem-ao-pais-e-a-mais-ninguem.ghtml",
-    "time": "2026-09-06T23:33:18.000Z"
   },
   {
     "cat": "economia",
@@ -424,36 +488,12 @@
     "time": "2026-09-06T20:00:14.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin",
-    "d": "Mendonça libera caso sobre Moraes para o Plenário O ministro André Mendonça, do Supremo Tribunal Federal, liberou neste domingo (6) para julgamento no plenário da Corte o relatório da Polícia Federal que apontou uma s…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/06/mendonca-libera-para-plenario-do-stf-caso-de-mensagens-entre-moraes-e-vorcaro.ghtml",
-    "time": "2026-09-06T18:35:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Crise STF: 'problemas reais e graves estão sendo misturados com interesses eleitorais', diz Flávio Dino em postagem",
-    "d": "Flávio Dino comenta crise no STF O ministro Flávio Dino, do Supremo Tribunal Federal (STF), usou neste domingo (6) as redes sociais para se manifestar sobre a crise na Suprema Corte após a revelação de mensagens troca…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/06/crise-stf-problemas-reais-e-graves-estao-sendo-misturados-com-intereses-eleitorais-diz-flavio-dino-em-postagem.ghtml",
-    "time": "2026-09-06T17:18:58.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
     "d": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery rep…",
     "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
     "time": "2026-09-06T17:05:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Na véspera do 7 de Setembro, candidatos a presidente usam redes e participam de atos públicos para mobilizar eleitores",
-    "d": "Na véspera do 7 de Setembro, alguns candidatos à Presidência da República recorreram a redes sociais e a agendas públicas na manhã deste domingo (6) para mobilizar eleitores e reforçar mensagens de campanha. O preside…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/06/na-vespera-do-7-de-setembro-candidatos-a-presidente-usam-redes-e-participam-de-atos-publicos-para-mobilizar-eleitores.ghtml",
-    "time": "2026-09-06T15:36:14.000Z"
   },
   {
     "cat": "economia",
@@ -496,30 +536,6 @@
     "time": "2026-09-06T08:00:00.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Por que o acordo de US$ 18 bilhões da Meta importa além dos Estados Unidos",
-    "d": "Meta pagará indenização de US$17 bilhões nos EUA Há bons motivos para ser cético quanto ao impacto que o mais recente acordo legal da Meta terá sobre a gigante de tecnologia. A empresa já sobreviveu a escândalos, audi…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/06/por-que-o-acordo-de-us-18-bilhoes-da-meta-importa-alem-dos-estados-unidos.ghtml",
-    "time": "2026-09-06T08:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Currículo inovador ajuda a driblar a IA? Veja quando inovar pode atrapalhar a seleção",
-    "d": "O designer australiano Felix Toohey cria currículos criativos e personalizados para cada empresa, transformando a candidatura em objetos e experiências inusitadas para chamar a atenção dos recrutadores. Reprodução/Red…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/06/curriculo-inovador-ajuda-a-driblar-a-ia-veja-quando-inovar-pode-atrapalhar-a-selecao.ghtml",
-    "time": "2026-09-06T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Restos de carne, gordura e até ossos que iriam para o lixo viram ração para outros animais no ES",
-    "d": "Restos de carne se transformam em alimentos para animais em fazendas no ES O que para muitos é considerado apenas descarte, para o setor de reciclagem animal é matéria-prima valiosa. Diariamente, toneladas de resíduos…",
-    "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/09/06/restos-de-carne-gordura-e-ate-ossos-que-iriam-para-o-lixo-viram-racao-para-outros-animais-no-es.ghtml",
-    "time": "2026-09-06T07:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
@@ -550,14 +566,6 @@
     "d": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking n…",
     "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
     "time": "2026-09-05T18:00:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
-    "d": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks…",
-    "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-    "time": "2026-09-05T10:00:34.000Z"
   },
   {
     "cat": "economia",
