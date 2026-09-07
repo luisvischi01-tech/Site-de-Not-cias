@@ -2,18 +2,226 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-    "d": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T04:48:02.000Z"
+    "h": "Rescuers dig through debris as seven dead in building collapse in Delhi",
+    "d": "It's not clear how many people were inside the building - or if there are still people under the debris.",
+    "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T10:31:01.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-    "d": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-    "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T04:07:23.000Z"
+    "h": "Israeli strikes in southern Lebanese village kill nine",
+    "d": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T10:16:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enviados dos EUA defendem retorno a negociações trilaterais na Ucrânia",
+    "d": "Enviado dos EUA e genro de Trump visitaram capital ucraniana e pediram retomada de conversas entre Washington, Moscou e Kiev",
+    "link": "https://www.cnnbrasil.com.br/internacional/enviados-dos-eua-defendem-retorno-a-negociacoes-trilaterais-na-ucrania/",
+    "time": "2026-09-07T10:15:42.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+    "d": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T10:14:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O incessante aumento da proibição de livros nas escolas públicas dos EUA",
+    "d": "Bibliotecas das escolas públicas americanas se transformaram no campo de intensa batalha ideológica sobre quais livros devem estar disponíveis para os alunos.",
+    "link": "https://www.bbc.com/portuguese/articles/cde0202dl49o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T10:13:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grêmio e Vitória fazem confronto direto contra rebaixamento na Série A",
+    "d": "Equipes se enfrentam no Barradão, em Salvador, nesta segunda-feira (7), às 20h",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-e-vitoria-fazem-confronto-direto-contra-rebaixamento-na-serie-a/",
+    "time": "2026-09-07T10:10:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Buscas por morango cravejado cresceram e dobram faturamento de docerias",
+    "d": "Após a “febre” do morango do amor em 2025, a nova sobremesa se torna fonte de renda para doceiras e ganha várias releituras durante o período de auge da safra no Brasil",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/buscas-por-morango-cravejado-cresceram-e-dobram-faturamento-de-docerias/",
+    "time": "2026-09-07T10:00:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Morre Roney Facchini, de “Rá-Tim-Bum” e “Cheias de Charme”, aos 73 anos",
+    "d": "Ator construiu trajetória no teatro, cinema e televisão",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-roney-facchini-de-ra-tim-bum-e-cheias-de-charme-aos-73-anos/",
+    "time": "2026-09-07T09:57:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sete aeroportos seguem fechados na Indonésia por cinzas vulcânicas",
+    "d": "Cinzas do Anak Krakatau, localizado entre as ilhas de Java e Sumatra, cobrem Jacarta e várias áreas próximas desde a erupção",
+    "link": "https://www.cnnbrasil.com.br/internacional/aeroportos-fechados-na-indonesia-cinzas-vulcanicas/",
+    "time": "2026-09-07T09:56:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Drone não autorizado é apreendido durante Rock in Rio 2026",
+    "d": "Piloto informou que não tinha autorização de voo nem documentação exigida para a operação do equipamento; caso ocorreu no segundo dia de festival no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/drone-nao-autorizado-e-apreendido-durante-rock-in-rio-2026/",
+    "time": "2026-09-07T09:55:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Probe begins into why Amazon cargo plane overran Miami runway",
+    "d": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
+    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T09:54:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Russia and North Korea open first road bridge across their shared border",
+    "d": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine Russia and North Korea have opened the first road bridge across their shared border, in the latest s…",
+    "link": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
+    "time": "2026-09-07T09:53:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Irã reagirá se agência da ONU aprovar resolução contra país, diz porta-voz",
+    "d": "Porta-voz do governo de Teerã chama países europeus de \"irracionais\" e reitera postura de defesa frente a possíveis sanções; político também faz ameaças contra a Coreia do Sul",
+    "link": "https://www.cnnbrasil.com.br/internacional/ira-agencia-nuclear-onu/",
+    "time": "2026-09-07T09:40:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O dilema da Europa após direita radical na Alemanha obter vitória inédita desde a 2ª Guerra",
+    "d": "Os próximos 12 meses serão marcados por intensa temporada eleitoral em toda a UE; haverá votações em países-chave como França, Itália, Espanha e Polônia. Bruxelas teme que partidos mais 'extremistas', possam se benefi…",
+    "link": "https://www.bbc.com/portuguese/articles/crr4q7zj985o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T09:19:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tráfego de navios no Estreito de Ormuz atinge menor nível desde maio",
+    "d": "Cinco navios atravessaram o estreito no domingo, contra apenas dois no sábado",
+    "link": "https://www.cnnbrasil.com.br/internacional/trafego-de-navios-no-estreito-de-ormuz-atinge-menor-nivel-desde-maio/",
+    "time": "2026-09-07T09:15:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eleições 2026: entenda como são eleitos deputados federais e estaduais",
+    "d": "Votação para membros da Câmara dos Deputados não segue o mesmo sistema que os demais representantes",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-entenda-como-sao-eleitos-deputados-federais-e-estaduais/",
+    "time": "2026-09-07T09:10:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "7 de setembro: o que significa a letra do Hino Nacional? Entenda expressões como “raios fúlgidos” e “impávido colosso”",
+    "d": "Com palavras pouco usadas atualmente, o Hino Nacional exalta a Independência, a natureza e os símbolos do Brasil, em uma história que remonta ao Império.",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/7-de-setembro-o-que-significa-a-letra-do-hino-nacional-entenda-expressoes-como-raios-fulgidos-e-impavido-colosso/",
+    "time": "2026-09-07T09:07:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enchente relâmpago no Nepal e na China soma quase 1.400 mortos",
+    "d": "Número total de desaparecidos passa de 5 mil pessoas, enquanto 13 mil foram resgatadas desde o deslizamento que atingiu a fronteira entre os dois países",
+    "link": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-em-enchentes-no-nepal-sobe/",
+    "time": "2026-09-07T09:07:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vitória x Grêmio: horário e onde assistir ao Campeonato Brasileiro",
+    "d": "Equipes se enfrentam na noite desta segunda-feira (7), em Salvador, fechando a 26ª rodada",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-x-gremio-horario-e-onde-assistir-ao-campeonato-brasileiro/",
+    "time": "2026-09-07T09:03:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Dia da independência do Brasil: a mulher que assinou separação de Portugal e foi a primeira a governar o país",
+    "d": "Como a independência do Brasil ocorreu durante a regência da imperatriz Maria Leopoldina, ela se tornou a primeira mulher a governar o país, ocupando o cargo interinamente por alguns dias.",
+    "link": "https://www.bbc.com/portuguese/articles/c93v9l32r3ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T08:58:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+    "d": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian an…",
+    "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+    "time": "2026-09-07T08:27:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?",
+    "d": "BBC News Brasil conversou com historiadores para entender causas que levaram à unificação do Brasil e à fragmentação de seus vizinhos.",
+    "link": "https://www.bbc.com/portuguese/articles/c3gjpmvkv5eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T08:21:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como o Dia da Independência apagou a memória da luta negra por independência e abolição",
+    "d": "Uma articulação popular pedia, entre suas bandeiras, o regime republicano e o fim da escravidão. Mas seus líderes foram executados em praça pública décadas antes de 7 de setembro de 1822.",
+    "link": "https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T08:11:21.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Trabalhar, dever, trabalhar mais: como crédito caro prende entregadores argentinos aos aplicativos",
+    "d": "Camarotti comenta dívida pública e crise com Argentina Quando a moto de um entregador é apreendida pelas autoridades de trânsito em Buenos Aires, voltar ao trabalho pode depender de um empréstimo caro. O empréstimo aj…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/07/trabalhar-dever-trabalhar-mais-como-credito-caro-prende-entregadores-argentinos-aos-aplicativos.ghtml",
+    "time": "2026-09-07T08:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Crise do STF embala 7 de setembro e vira trunfo para Flávio Bolsonaro tentar recuperar força eleitoral",
+    "d": "Com empate nas simulações de segundo turno, candidato do PL aposta no desgaste de Alexandre de Moraes para mobilizar a base bolsonarista no 7 de Setembro — mas enfrenta o desafio de não afastar eleitores moderados.",
+    "link": "https://www.bbc.com/portuguese/articles/c87vpnpel9jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T07:54:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo",
+    "d": "O partido alemão AfD comemorou o 'resultado histórico' na Saxônia-Anhalt e deve ficar muito à frente do partido conservador CDU",
+    "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T07:04:04.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+    "d": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
+    "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T06:13:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "New videos of man in 9/11 lawsuit reveal extremist links",
+    "d": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-07T05:31:06.000Z"
   },
   {
     "cat": "internacional",
@@ -22,22 +230,6 @@
     "d": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
     "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T03:40:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chances de título do Flamengo no Brasileirão disparam após tomar liderança",
-    "d": "Equipe rubro-negra venceu o Remo fora de casa, neste domingo, e assumiu a primeira colocação do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/chances-de-titulo-do-flamengo-no-brasileirao-disparam-apos-tomar-lideranca/",
-    "time": "2026-09-07T03:09:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tatuagem de fã e capa com viseira: o que rolou no 3º dia de Rock in Rio",
-    "d": "Público precisou ser criativo e se proteger para conseguir curtir as atrações diante de frio e chuva",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/tatuagem-de-fa-e-capa-com-viseira-o-que-rolou-no-3o-dia-de-rock-in-rio/",
-    "time": "2026-09-07T03:04:23.000Z"
   },
   {
     "cat": "brasil",
@@ -64,108 +256,12 @@
     "time": "2026-09-07T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rock in Rio 2026: conheça as áreas de luxo do festival de música",
-    "d": "Experiência começa no gramado, passa pela Área VIP e, lá dentro, ainda existem espaços cada vez mais restritos",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-conheca-as-areas-de-luxo-do-festival-de-musica/",
-    "time": "2026-09-07T02:31:23.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "China to pump $54bn into state banks and insurers to boost economy",
     "d": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T02:26:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Memphis critica o Corinthians e faz cobrança: “Jogar como um time grande”",
-    "d": "Equipe de Fernando Diniz decepcionou neste domingo (6) e perdeu em casa de virada para a lanterna Chapecoense por 2 a 1, pelo Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/memphis-critica-o-corinthians-e-faz-cobranca-jogar-como-um-time-grande/",
-    "time": "2026-09-07T02:25:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Neve cobre a Serra Gaúcha em domingo (6) gelado no Sul do Brasil",
-    "d": "Temperaturas negativas e previsão de frio intenso pela manhã levam prefeitura a transferir evento cívico para a tarde",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/neve-cobre-a-serra-gaucha-em-domingo-gelado-no-sul-do-brasil/",
-    "time": "2026-09-07T02:18:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Grand Slams encerram tradição de 150 anos do backhand de uma mão; entenda",
-    "d": "Derrota do grego Tsitsipas para Ben Shelton no US Open encerra sequência iniciada em 1877 e reforça o declínio de um dos golpes mais tradicionais do esporte",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/grand-slams-encerram-tradicao-de-150-anos-do-backhand-de-uma-mao-entenda/",
-    "time": "2026-09-07T01:52:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "7 lugares do banheiro que acumulam germes e você pode esquecer de limpar",
-    "d": "Maçanetas, tapetes, esponjas e até o suporte da escova de dentes podem concentrar sujeira e microrganismos mesmo quando o banheiro parece limpo",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/7-lugares-do-banheiro-que-acumulam-germes-e-voce-pode-esquecer-de-limpar/",
-    "time": "2026-09-07T01:42:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Diretor do Palmeiras diz que árbitro cometeu “erro clássico” em empate",
-    "d": "Time comandado por Abel Ferreira perdeu a liderança do campeonato após empate em 0 a 0 com o Botafogo neste domingo, no Rio de Janeiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/diretor-do-palmeiras-diz-que-arbitro-cometeu-erro-classico-em-empate/",
-    "time": "2026-09-07T01:41:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quadrilha é presa no RJ por roubos de veículos de luxo sob encomenda do CV",
-    "d": "Quatro homens foram detidos em ação conjunta de autoridades policiais, grupo é suspeito de ter furtado pelo menos 20 carros",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/quadrilha-e-presa-no-rj-por-roubos-de-veiculos-de-luxo-sob-encomenda-do-cv/",
-    "time": "2026-09-07T01:30:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Torcida do Botafogo protesta contra Marlon Freitas e rasga imagem: “Judas”",
-    "d": "Ex-capitão do Glorioso, agora no Palmeiras, foi alvo de bandeirão rasgado e vaias no Nilton Santos em sua primeira partida",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/torcida-do-botafogo-protesta-contra-marlon-freitas-judas/",
-    "time": "2026-09-07T01:20:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Torcedores do Corinthians fazem cobrança após derrota: “Time sem vergonha!”",
-    "d": "Time comandado por Fernando Diniz perdeu em casa para a lanterna Chapecoense por 2 a 1, neste domingo, de virada, pelo Brasileirão",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/torcedores-do-corinthians-fazem-cobranca-apos-derrota-time-sem-vergonha/",
-    "time": "2026-09-07T01:09:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial",
-    "d": "O partido alemão AfD comemorou o 'resultado histórico' na Saxônia-Anhalt e deve ficar muito à frente do partido conservador CDU",
-    "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T01:08:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fabinho Soldado mantém Pezzolano no Inter: “Acreditamos no projeto”",
-    "d": "Diretor executivo defende treinador uruguaio e destaca confiança no projeto, mesmo com Colorado na zona de rebaixamento",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/fabinho-soldado-mantem-pezzolano-no-inter-acreditamos-no-projeto/",
-    "time": "2026-09-07T01:01:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five dead after Amazon cargo plane crashes at Miami airport",
-    "d": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T00:57:38.000Z"
   },
   {
     "cat": "internacional",
@@ -186,14 +282,6 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Robert Pattinson faz 'melhor atuação da carreira' como caçador de pedófilos em novo filme, diz crítico da BBC",
-    "d": "Robert Pattinson vem tendo um ano excepcional nas telas — e isso se confirma com sua performance estonteante nesta sátira sombria inspirada no programa de TV americano dos anos 2000 To Catch a Predator",
-    "link": "https://www.bbc.com/portuguese/articles/c624g97edd0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T23:02:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
     "h": "Avião de carga da Amazon deixa pelo menos 5 mortos ao sair da pista em aeroporto de Miami",
     "d": "Boeing 767-300 da Amazon saiu da pista durante o pouso em Miami; autoridades ainda investigam as causas do acidente",
     "link": "https://www.bbc.com/portuguese/articles/cz0z9m31kmyo?at_medium=RSS&at_campaign=rss",
@@ -206,14 +294,6 @@
     "d": "Análise: Guerra do Irã é a causa da queda na aprovação de Trump, diz Guga Chacra A aprovação do Presidente dos Estados Unidos, Donald Trump, caiu para 33%, o menor nível desde o início do segundo mandato, segundo pesq…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/06/aprovacao-de-trump-cai-para-33percent-menor-nivel-ja-registrado-com-piora-na-avaliacao-da-economia-e-do-custo-de-vida.ghtml",
     "time": "2026-09-06T21:11:39.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-    "d": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T20:52:12.000Z"
   },
   {
     "cat": "brasil",
@@ -249,14 +329,6 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que esperam os 6 milhões de afegãos deportados de volta ao país governado pelo Talibã",
-    "d": "Até agosto, mais 1 milhão de afegãos haviam sido obrigados a retornar neste ano do Paquistão e do Irã",
-    "link": "https://www.bbc.com/portuguese/articles/c9qrjzr5n0no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T18:04:27.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Crise STF: 'problemas reais e graves estão sendo misturados com interesses eleitorais', diz Flávio Dino em postagem",
     "d": "Flávio Dino comenta crise no STF O ministro Flávio Dino, do Supremo Tribunal Federal (STF), usou neste domingo (6) as redes sociais para se manifestar sobre a crise na Suprema Corte após a revelação de mensagens troca…",
@@ -281,43 +353,11 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia",
-    "d": "Caso conquiste a maioria absoluta na Saxônia-Anhalt, será a primeira vez que um partido de direita radical detém o poder em nível estadual na Alemanha desde a Segunda Guerra Mundial.",
-    "link": "https://www.bbc.com/portuguese/articles/cjrx7xl1pvwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T16:59:18.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Dozens feared trapped in collapsed building in Delhi",
-    "d": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T16:54:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-    "d": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T16:00:21.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Na véspera do 7 de Setembro, candidatos a presidente usam redes e participam de atos públicos para mobilizar eleitores",
     "d": "Na véspera do 7 de Setembro, alguns candidatos à Presidência da República recorreram a redes sociais e a agendas públicas na manhã deste domingo (6) para mobilizar eleitores e reforçar mensagens de campanha. O preside…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/06/na-vespera-do-7-de-setembro-candidatos-a-presidente-usam-redes-e-participam-de-atos-publicos-para-mobilizar-eleitores.ghtml",
     "time": "2026-09-06T15:36:14.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-    "d": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurer…",
-    "link": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
-    "time": "2026-09-06T15:16:43.000Z"
   },
   {
     "cat": "brasil",
@@ -334,22 +374,6 @@
     "d": "Concurso 3054 da Mega-Sena - veja sorteio O sorteio do concurso 3054 da Mega-Sena foi realizado na manhã deste domingo (6), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 47,4 milhões.…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/06/mega-sena-concurso-3054-confira-os-numeros-sorteados.ghtml",
     "time": "2026-09-06T14:01:45.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo",
-    "d": "Ao tratar Malvinas como prioridade, Javier Milei tenta reverter baixa popularidade a um ano de eleição presidencial, e presença de petróleo no território amplia importância do tema.",
-    "link": "https://www.bbc.com/portuguese/articles/c3058em249no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T13:26:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Sem luz, água, nem transporte: as frustrações da minha vida em Cuba e seus apagões",
-    "d": "O serviço em espanhol da BBC conversou durante uma semana com um jovem historiador de arte da capital de Cuba, Havana, para entender como a crise reconfigurou sua vida e seus sonhos para o futuro.",
-    "link": "https://www.bbc.com/portuguese/articles/c74ekv4emn9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-06T12:28:03.000Z"
   },
   {
     "cat": "economia",
@@ -512,14 +536,6 @@
     "time": "2026-09-05T18:00:15.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'EUA em primeiro lugar': como Trump troca diplomacia por aliados políticos e tensiona a relação com o Brasil",
-    "d": "Desde início do segundo mandato, presidente americano tem implementado mudanças profundas no Departamento de Estado",
-    "link": "https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-05T17:32:41.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
@@ -630,21 +646,5 @@
     "d": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024 The powerful Teamsters union is backing Republican candidates in the 2026 election cycle even…",
     "link": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
     "time": "2026-09-02T11:00:22.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-    "d": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that signif…",
-    "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-    "time": "2026-09-02T09:20:55.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Global bond sell-off intensifies as US-Iran tensions stoke inflation fears",
-    "d": "UK borrowing costs driven up, adding to challenges facing John Healey as he prepares for first budget The global government bond sell-off resumed on Wednesday, driving up the UK’s borrowing costs and exacerbating the…",
-    "link": "https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears",
-    "time": "2026-09-02T08:54:52.000Z"
   }
 ]
