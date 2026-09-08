@@ -1,35 +1,291 @@
 [
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Bolsas da Europa fecham sem direção única com alta do petróleo",
-    "d": "FTSE 100 fechou em queda de 0,1%, DAX caiu 0,05%, enquanto CAC 40 subiu 0,14%",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-sem-direcao-unica-com-alta-do-petroleo/",
-    "time": "2026-09-08T17:34:55.000Z"
+    "src": "G1",
+    "h": "Petróleo encosta em US$ 100, nova máxima em seis semanas, após ataque de houthis na Arábia Saudita",
+    "d": "Os preços do petróleo atingiram uma nova máxima em seis semanas nesta terça-feira (8), após os houthis, grupo apoiado pelo Irã no Iêmen, atacarem instalações energéticas na Arábia Saudita. Os contratos futuros do Bren…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/08/petroleo-encosta-em-us-100-nova-maxima-em-seis-semanas-apos-ataque-de-houthis-na-arabia-saudita.ghtml",
+    "time": "2026-09-08T20:26:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado em PE: Marília, 17%; Humberto, 14%; Mendonça, 11%",
+    "d": "Imagem urna eletrônica Reprodução/TV Globo Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está a disputa pelo Senado em Pernambuco. O levantamento foi encomendado pela Globo. Em 2026, serão eleitos dois s…",
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/08/quaest-para-o-senado-em-pe-marilia-17percent-humberto-14percent-mendonca-11percent.ghtml",
+    "time": "2026-09-08T20:23:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Gilmar Mendes defende análise pelo plenário do afastamento de Andrei e cita risco de 'desequilíbrio da disputa político-eleitoral'",
+    "d": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), defendeu nesta terça-feira (8) que a competência para analisar o afastamento do diretor da Polícia Federal é do plenário e citou que o impacto da ordem do m…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/08/gilmar-mendes-defende-analise-pelo-plenario-do-afastamento-de-andrei-e-cita-risco-de-desequilibrio-da-disputa-politico-eleitoral.ghtml",
+    "time": "2026-09-08T20:13:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no DF: Flávio, 31%; Lula, 28%; Caiado, 12%; Cury, 8%; Zema, 2%; Renan, 2%",
+    "d": "Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema Globo Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está a disputa pela Presidência da República entre os eleitores do Dist…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/08/quaest-df-presidente-8-setembro.ghtml",
+    "time": "2026-09-08T20:12:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em Pernambuco: Raquel Lyra, 43%; João Campos, 37%",
+    "d": "Raquel Lyra (PSD) e João Campos (PSB) Reprodução/TV Globo Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está o cenário da eleição estadual, a menos de um mês do 1º turno -- que acontecerá em 4 de outubro…",
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/08/quaest-1o-turno-raquel-lyra-43percent-joao-campos-37percent.ghtml",
+    "time": "2026-09-08T20:10:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado no DF: Michelle, 26%; Leila, 17%; Erika, 13%; Bia, 11%",
+    "d": "Michelle Bolsonaro (PL); Leila do Vôlei (PDT); Erika Kokay (PT) e Bia Kicis (PL) são candidatas ao Senado pelo DF. Alan Santos/PR; Carlos Moura/Agência Senado; Kayo Magalhães/Câmara dos Deputados e Bruno Spada/Câmara…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/08/quaest-df-senado-8-setembro.ghtml",
+    "time": "2026-09-08T20:07:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em MG: Lula, 31%; Flávio Bolsonaro, 27%; Cury, 8%;  Zema, 6%; Caiado, 3%; Renan, 2%",
+    "d": "Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está a disputa pela Presidência da República no 1º turno entre os eleitores de Minas Gerais. O levantamento foi encomendado pela Globo. Na pesquisa estimulad…",
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-presidente-8-setembro.ghtml",
+    "time": "2026-09-08T20:05:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no RJ: Paes, 39%; Ruas, 18%; Garotinho, 8%",
+    "d": "Quaest no RJ: Paes, 39%; Douglas Ruas, 18%; Garotinho, 8% Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está a disputa pelo governo do Rio de Janeiro, com o ex-prefeito Eduardo Paes (PSD) 21 pontos perce…",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/08/quaest-rj-governador-08-09.ghtml",
+    "time": "2026-09-08T20:05:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em SP: Flávio Bolsonaro, 31%, Lula, 30%; Cury, 8%; Caiado, 4%; Renan, 2%; Zema, 1%",
+    "d": "Candidatos à Presidência da República em 2026: Lula, Flávio, Renan, Caiado, Cury, Zema, Samara, Edmilson Costa, Clariana, Hertz Dias, Marçal, Rui Costa Pimenta e Wilson Grassi Montagem g1 Pesquisa Quaest divulgada nes…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-presidente-8-setembro.ghtml",
+    "time": "2026-09-08T20:05:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado em MG: Marília, 13%; Aécio, 10%; Viana, 8%; Sávio, 6%",
+    "d": "Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está a disputa pelo Senado em Minas Gerais. O levantamento foi encomendado pela Globo. Em 2026, serão eleitos dois senadores em cada estado e no Distrito Fed…",
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-senado-8-setembro.ghtml",
+    "time": "2026-09-08T20:05:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest no DF: Celina, 35%; Arruda, 18%; Grass, 17%",
+    "d": "Celina Leão (PP), Arruda (PSD) e Leandro Grass (PT), em imagens de arquivo Reprodução Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está a disputa pelo governo do Distrito Federal. O levantamento foi enc…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/08/quaest-df-governador-8-setembro.ghtml",
+    "time": "2026-09-08T20:05:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em MG, 2º turno: veja cenários da disputa ao governo",
+    "d": "Pesquisa Quaest divulgada nesta terça-feira (8), encomendada pela Globo, mostra seis simulações de 2º turno. Veja os números: Alexandre Kalil x Cleitinho Azevedo Cleitinho Azevedo (Republicanos): 49% (eram 48% no leva…",
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-governador-2-turno-8-setembro.ghtml",
+    "time": "2026-09-08T20:05:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em MG, 1º turno: Cleitinho, 32%; Patrus, 11%; Kalil, 11%; Simões, 8%",
+    "d": "Cidade Administrativa de Minas Gerais, sede do governo do estado Raquel Freitas/TV Globo Pesquisa Quaest divulgada nesta terça-feira (8) mostra como está o cenário da disputa para o governo de Minas Gerais, a menos de…",
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-governador-8-setembro.ghtml",
+    "time": "2026-09-08T20:05:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Meta lança Muse, IA que consegue acessar outros aplicativos para enviar e-mails e fazer pagamentos",
+    "d": "Muse, agente de IA da Meta Divulgação/Meta A Meta lançou nesta terça-feira (8) o Muse, um assistente de inteligência artificial que consegue fazer tarefas como enviar e-mails e reservar viagens por conta própria. O pr…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/08/meta-lanca-agente-ia-muse.ghtml",
+    "time": "2026-09-08T20:00:34.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Fable e Astra: estamos mais perto da inteligência artificial geral?",
-    "d": "Especialista de IA, Álvaro Machado avalia os novos modelos de ponta da OpenAI e Anthropic",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/fable-e-astra-estamos-mais-perto-da-inteligencia-artificial-geral/",
-    "time": "2026-09-08T17:34:42.000Z"
+    "h": "F1: chefe da Ferrari pode sair após atrito entre Leclerc e Hamilton",
+    "d": "Comandante da escuderia italiana passa a ter seu cargo questionado após colisão entre Lewis Hamilton e Charles Leclerc em Monza",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-chefe-da-ferrari-pode-sair-apos-atrito-entre-leclerc-e-hamilton/",
+    "time": "2026-09-08T19:55:24.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Surto de dengue persiste e Santarém prorroga emergência em saúde",
-    "d": "Município registrou mais de mil casos confirmados e seis mortes pela doença",
-    "link": "https://www.cnnbrasil.com.br/saude/surto-de-dengue-persiste-e-santarem-prorroga-emergencia-em-saude/",
-    "time": "2026-09-08T17:32:38.000Z"
+    "h": "Há demanda por 3ª via, mas falta nome, diz autor de livro sobre polarização",
+    "d": "Pesquisador afirma que o eleitor vive uma \"ressaca emocional\" e que, por mais que deseje sair da polarização, não consegue enxergar outras opções",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/ha-demanda-por-3a-via-mas-falta-nome-diz-autor-de-livro-sobre-polarizacao/",
+    "time": "2026-09-08T19:47:21.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ex-banqueiro suíço admite pagar R$ 500 milhões em propina e recebe pena de 2 anos",
+    "d": "Operação do MP prende ex-número 3 da Fazenda de SP e advogado em operação contra esquema de propina Pierre Mirabaud, de 77 anos, ex-sócio do banco privado suíço Mirabaud & Cie e ex-presidente da associação dos bancos…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/08/ex-banqueiro-suico-admite-pagar-r-500-milhoes-em-propina-e-recebe-pena-de-2-anos.ghtml",
+    "time": "2026-09-08T19:43:59.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Vacinas podem proteger olhos de doença que causa cegueira, aponta estudo",
-    "d": "Levantamento analisou mais de 120 milhões de pacientes nos EUA e associa imunização com proteção contra inflamação ocular",
-    "link": "https://www.cnnbrasil.com.br/saude/vacinas-podem-proteger-olhos-de-doenca-que-causa-cegueira-aponta-estudo/",
-    "time": "2026-09-08T17:28:06.000Z"
+    "h": "Entenda como Neymar “faz força” para contar com Coutinho no Santos",
+    "d": "Jogador de 34 anos está livre no mercado e pode chegar à Vila Belmiro sem a pressa da janela de transferências",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/entenda-como-neymar-faz-forca-para-contar-com-coutinho-no-santos/",
+    "time": "2026-09-08T19:42:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Novo pede a Fachin prisão preventiva de Andrei Rodrigues",
+    "d": "Partido levanta suspeita de monitoramento ilegal de André Mendonça e questiona origem de documentos de inteligência",
+    "link": "https://www.cnnbrasil.com.br/politica/novo-pede-a-fachin-prisao-preventiva-de-andrei-rodrigues/",
+    "time": "2026-09-08T19:41:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fluminense chegará ao seu 100º jogo na Libertadores contra o Platense",
+    "d": "Campeão em 2023, Tricolor entra em campo pelas quartas de final em busca do bicampeonato",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/fluminense-chegara-ao-seu-100o-jogo-na-libertadores-contra-o-platense/",
+    "time": "2026-09-08T19:39:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda o que é o Conselho da República e o papel de Lula na crise do STF",
+    "d": "Interlocutores do presidente discutem resposta mais incisiva à crise institucional, incluindo PEC de mandato para ministros do STF",
+    "link": "https://www.cnnbrasil.com.br/politica/entenda-o-que-e-o-conselho-da-republica-e-o-papel-de-lula-na-crise-do-stf/",
+    "time": "2026-09-08T19:39:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Biden diz que tratamento para câncer de próstata “funcionou como esperado”",
+    "d": "Gabinete do ex-presidente dos EUA informou que ele foi diagnosticado com a doença em maio de 2025",
+    "link": "https://www.cnnbrasil.com.br/internacional/biden-diz-que-tratamento-para-cancer-de-prostata-funcionou-como-esperado/",
+    "time": "2026-09-08T19:36:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tarcísio apoia afastamento de Andrei e cobra Senado por Moraes: “Deve agir”",
+    "d": "Governador diz que decisão de André Mendonça é caminho a ser seguido e afirma que STF vive “crise de credibilidade”",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tarcisio-apoia-afastamento-de-andrei-e-cobra-senado-por-moraes-deve-agir/",
+    "time": "2026-09-08T19:32:44.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Mesmo com avanço, UE não garante data para retomar importações brasileiras",
+    "d": "Técnicos consideraram satisfatório controle brasileiro de antimicrobianos, mas decisão deve ficar para novembro; governo tenta antecipar",
+    "link": "https://www.cnnbrasil.com.br/agro/mesmo-com-avanco-ue-nao-garante-data-para-retomar-importacoes-brasileiras/",
+    "time": "2026-09-08T19:31:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Confut Sudamericana 2026 começa no Rio reunindo líderes e marcas do futebol",
+    "d": "Esta terça-feira (8) abre os três dias de conexões estratégicas, negócios e experiências exclusivas no futebol sul-americano",
+    "link": "https://www.cnnbrasil.com.br/esportes/confut-sudamericana-2026-comeca-no-rio-reunindo-lideres-e-marcas-do-futebol/",
+    "time": "2026-09-08T19:29:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Juros elevados diminuem apetite ao risco",
+    "d": "Renda fixa mais atrativa reduz apetite por ativos de maior risco e pode limitar recursos para economia real",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-elevados-diminuem-apetite-ao-risco/",
+    "time": "2026-09-08T19:26:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Preço do cacau despenca 4,44% em NY com avanço da oferta na costa do marfim",
+    "d": "Contrato para dezembro recua 4,44%, enquanto aumento da colheita na Costa do Marfim reforça perspectiva de maior oferta",
+    "link": "https://www.cnnbrasil.com.br/agro/preco-do-cacau-despenca-444-em-ny-com-avanco-da-oferta-na-costa-do-marfim/",
+    "time": "2026-09-08T19:24:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+    "d": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T19:11:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem são os diretores da PF que colocaram os cargos à disposição após afastamento de Andrei Rodrigues",
+    "d": "A decisão foi publicada cinco dias depois do pedido de investigação feito pelo ministro Alexandre de Moraes contra Mendonça.",
+    "link": "https://www.bbc.com/portuguese/articles/cp30ez2zgl2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T18:55:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Receita barra mais de R$ 1 bilhão em pedidos suspeitos de reembolso de salário-maternidade",
+    "d": "Mulher ganha na Justiça direito a salário-maternidade rural mais de três anos após parto Imagem ilustrativa/Divulgação A Receita Federal identificou mais de R$ 1 bilhão em pedidos suspeitos de reembolso de salário-mat…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/08/receita-barra-r-1-bilhao-em-pedidos-suspeitos-de-salario-maternidade.ghtml",
+    "time": "2026-09-08T18:39:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+    "d": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
+    "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T18:21:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "British widow faces deportation from Sweden after 22 years",
+    "d": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+    "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T18:02:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Governo cobra do Google retirada de vídeos com falsos médicos de IA após reportagens da BBC e alerta Polícia Federal",
+    "d": "Ministério da Saúde analisou perfis que prometem curas e promovem produtos sem comprovação científica. Conteúdos, revelados pela BBC News Brasil, também motivaram boletim de ocorrência e investigação policial.",
+    "link": "https://www.bbc.com/portuguese/articles/c1wx8q4jzz4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T18:02:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça",
+    "d": "Nome do chefe da PF indicado por Lula esteve envolvido em uma suposta rede de proteção a Vorcaro e na 'guerra civil' entre ministros no STF",
+    "link": "https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T17:57:33.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "EUA acusam empresas chinesas de IA de copiar modelos avançados para reduzir custos",
+    "d": "Inteligência Artificial: quando confiar? Autoridades americanas de segurança cibernética e de combate ao crime acusaram, nesta terça-feira (8), empresas chinesas de inteligência artificial (IA) de realizar “atividades…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/08/eua-acusam-empresas-chinesas-de-ia-de-copiar-modelos-avancados-para-reduzir-custos.ghtml",
+    "time": "2026-09-08T17:57:12.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Volkswagen prepara van com ‘espírito de Kombi’ para o Brasil em parceria com gigante chinesa",
+    "d": "Uma Kombi, uma casa e o Brasil como destino A Volkswagen Caminhões e Ônibus (VWCO) prepara sua entrada em um novo mercado no Brasil: o de veículos utilitários. A empresa, que completa 45 anos, vai ampliar sua atuação…",
+    "link": "https://g1.globo.com/carros/noticia/2026/09/08/volkswagen-prepara-nova-van-para-o-brasil-em-parceria-com-gigante-chinesa.ghtml",
+    "time": "2026-09-08T17:50:58.000Z"
   },
   {
     "cat": "internacional",
@@ -40,68 +296,12 @@
     "time": "2026-09-08T17:24:25.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fiuk, Erthal e mais: veja famosos que já relataram dificuldades financeiras",
-    "d": "Celebridades declararam estar passando por dificuldades ao enfrentarem problemas familiares e faltas de oportunidades profissionais",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/fiuk-erthal-e-mais-veja-famosos-que-ja-relataram-dificuldades-financeiras/",
-    "time": "2026-09-08T17:23:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "A corrida pelos minerais críticos exige também construir demanda",
-    "d": "Em artigo à CNN Infra, Rinaldo Mancin argumenta que não basta minerar; é preciso construir demanda para sustentar novos projetos",
-    "link": "https://www.cnnbrasil.com.br/infra/a-corrida-pelos-minerais-criticos-exige-tambem-construir-demanda/",
-    "time": "2026-09-08T17:20:12.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
-    "h": "'Meu Feed, Meu Jeito': Austrália propõe que usuários escolham o que aparece nas redes sociais",
-    "d": "Meta remove 756 mil contas de menores na Austrália O governo australiano propôs nesta terça-feira (8) uma mudança nas regras das redes sociais que permitirá aos usuários escolher quais conteúdos aparecem em seus feeds…",
+    "h": "'Meu Feed, Meu Jeito': Austrália quer dar a usuários opção de 'desligar' algoritmo das redes sociais",
+    "d": "Primeiro-ministro da Austrália defende internet sem sugestões de algoritmos O governo australiano anunciou nesta terça-feira (8) um projeto de lei que exigiria uma mudança nas regras das redes sociais para dar aos usu…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/08/australia-redes-algoritmos.ghtml",
     "time": "2026-09-08T17:19:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Desextinção: Por que a ciência não pode criar cópias exatas dos animais?",
-    "d": "Pesquisa com rato-de-christmas-island revela que a divergência evolutiva resulta na perda de material genético, impossibilitando a criação de cópias",
-    "link": "https://www.cnnbrasil.com.br/ciencia/desextincao-por-que-a-ciencia-nao-pode-criar-copias-exatas-dos-animais/",
-    "time": "2026-09-08T17:18:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Estudo: Enxaguante com canabidiol pode controlar placa bacteriana dental",
-    "d": "Pesquisa da da FORP-USP (Faculdade de Odontologia de Ribeirão Preto da USP) mostrou que formulações com CBD tiveram eficácia semelhante à da clorexidina e provocaram menos alterações na cor do esmalte",
-    "link": "https://www.cnnbrasil.com.br/saude/estudo-enxaguante-com-canabidiol-pode-controlar-placa-bacteriana-dental/",
-    "time": "2026-09-08T17:16:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem é William Murad, número 2 que assumiu o comando da PF",
-    "d": "Diretor-executivo foi alçado ao comando da Polícia Federal depois de o ministro do STF André Mendonça determinar o afastamento temporário do diretor-geral da corporação, Andrei Rodrigues",
-    "link": "https://www.cnnbrasil.com.br/politica/quem-e-william-murad-numero-2-que-assumiu-o-comando-da-pf/",
-    "time": "2026-09-08T17:14:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula é orientado a convocar Conselho da República e defender mandato no STF",
-    "d": "Auxiliares do presidente defendem reunião urgente com Fachin, abertura de investigação contra Moraes e afastamento de Mendonça das relatorias do Master e do INSS",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-e-orientado-a-convocar-conselho-da-republica-e-defender-mandato-no-stf/",
-    "time": "2026-09-08T17:13:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávia Alessandra e Renata Sorrah são parentes? Entenda relação familiar",
-    "d": "Atrizes mantêm proximidade por causa de Giulia Costa",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/flavia-alessandra-e-renata-sorrah-sao-parentes-entenda-relacao-familiar/",
-    "time": "2026-09-08T17:11:45.000Z"
   },
   {
     "cat": "internacional",
@@ -113,75 +313,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gilberto Gil e Jon Batiste se conhecem antes de shows no Rock in Rio",
-    "d": "CNN Brasil acompanhou o momento, após um desencontro dos artistas há 20 anos",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/gilberto-gil-e-jon-batiste-se-conhecem-antes-de-show-no-rock-in-rio/",
-    "time": "2026-09-08T17:09:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Onze diretores da PF colocam cargos à disposição e manifestam 'total apoio' a Andrei Rodrigues após afastamento",
-    "d": "Diretores da PF manifestam 'total apoio' a Andrei após afastamento e colocam cargos à disposição Os diretores da Polícia Federal manifestaram, por meio de uma nota, seu \"total apoio\" ao diretor-geral afastado Andrei R…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/nota-diretores-pf-andrei-rodrigues.ghtml",
-    "time": "2026-09-08T17:03:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Luiz Fux cancela sessão da Segunda Turma do STF marcado para a tarde desta terça-feira",
-    "d": "Luiz Fux cancela sessão da Segunda Turma do STF marcado para a tarde desta terça-feira Encontro estava marcado antes mesmo da decisão de André Mendonça que afastou o diretor-geral da corporação, Andrei Rodrigues. O mi…",
-    "link": "https://g1.globo.com/politica/ao-vivo/segunda-turma-stf-sessao-crise-pf.ghtml",
-    "time": "2026-09-08T16:57:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fux cancela sessão da Segunda Turma do STF",
-    "d": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), cancelou a sessão da Segunda Turma da Corte que estava prevista para a tarde desta terça-feira (8). A Segunda Turma é o colegiado do STF que analisa a decisão de…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/08/sessao-segunda-turma-cancelada.ghtml",
-    "time": "2026-09-08T16:47:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "British widow faces deportation from Sweden after 22 years",
-    "d": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-    "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T16:23:01.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Reino Unido anuncia sanções inéditas contra assentamentos israelenses; Israel responde com fechamento de consulado britânico",
     "d": "O secretário de Relações Exteriores, Ed Miliband, acusa \"colonos terroristas\" de expulsarem palestinos de suas terras na Cisjordânia.",
     "link": "https://www.bbc.com/portuguese/articles/cly53nyz3vjo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-08T16:22:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja o que os candidatos à Presidência disseram sobre a decisão de Mendonça de afastar cúpula da PF",
-    "d": "André Mendonça e Andrei Rodrigues Gustavo Moreno/STF e Andressa Anholete/Agência Senado O ministro do Supremo Tribunal Federal (STF) André Mendonça determinou o afastamento preventivo nesta terça-feira (8) do diretor-…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/08/candidatos-a-presidencia-repercute-decisao-mendonca.ghtml",
-    "time": "2026-09-08T16:16:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Críticas, reuniões para 'acalmar ânimos', pedidos de investigação; veja bastidores e fatos que elevaram a tensão entre Mendonça e Andrei",
-    "d": "André Mendonça e Andrei Rodrigues Gustavo Moreno/STF e Andressa Anholete/Agência Senado A indicação de que o ministro André Mendonça poderia afastar o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, começou a…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/08/criticas-reunioes-para-acalmar-animos-pedidos-de-investigacao-veja-bastidores-e-fatos-que-elevaram-a-tensao-entre-mendonca-e-andrei.ghtml",
-    "time": "2026-09-08T16:00:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Sabotage suspect held in Germany after spate of attacks on power grid",
-    "d": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T15:57:06.000Z"
   },
   {
     "cat": "brasil",
@@ -192,30 +328,6 @@
     "time": "2026-09-08T15:54:28.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "William Marcel Murad assume interinamente direção-geral da PF",
-    "d": "William Marcel Murad, número 2 da PF Reprodução O diretor-geral da Polícia Federal, Andrei Rodrigues, e o diretor de inteligência policial, Leandro Almada da Costa, foram oficialmente notificados no início da tarde de…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/08/cupula-da-pf-e-notificada-de-afastamento-do-stf-e-numero-2-assume-a-direcao-geral-da-corporacao.ghtml",
-    "time": "2026-09-08T15:51:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Decisão de afastar Andrei do comando da PF amplia pressão e STF busca saída para crise",
-    "d": "Queda de diretor-geral da PF amplia pressão e STF busca saída para crise A decisão do ministro André Mendonça de afastar Andrei Rodrigues do comando da Polícia Federal é mais um capítulo da crise instalada no coração…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/crise-stf-pf-moraes.ghtml",
-    "time": "2026-09-08T15:35:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Livro '1984', citado por Mendonça em decisão que afasta diretor da PF, mostra vigilância em mundo distópico",
-    "d": "Mendonça determina afastamento de diretor-geral da PF O ministro André Mendonça, do Supremo Tribunal Federal (STF), citou o livro \"1984\", de George Orwell, ao descrever como grave o contexto envolvendo a produção e a…",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/09/08/livro-1984-citado-por-mendonca-em-decisao-que-afasta-diretor-da-pf-mostra-vigilancia-em-mundo-distopico.ghtml",
-    "time": "2026-09-08T15:18:06.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
@@ -224,36 +336,12 @@
     "time": "2026-09-08T15:06:56.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Diretor da PF afastado: veja os principais argumentos de Mendonça na decisão contra Andrei Rodrigues",
-    "d": "O ministro do Supremo Tribunal Federal (STF) André Mendonça determinou nesta terça-feira (8) os afastamentos preventivos de Andrei Rodrigues, do cargo de diretor-geral da Polícia Federal, e de Leandro Almada, da Diret…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/08/diretor-da-pf-afastado-veja-os-principais-argumentos-de-mendonca-na-decisao-contra-andrei-rodrigues.ghtml",
-    "time": "2026-09-08T14:53:41.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
     "d": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
     "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-08T14:46:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lewandowski diz não ter sido procurado para assinar manifesto de ministros aposentados sobre crise no STF",
-    "d": "Ricardo Lewandowski, ex-ministro do STF e da Justiça Fátima Meira/Estadão Conteúdo O ex-ministro da Justiça e do STF Ricardo Lewandowski não foi procurado para assinar o manifesto de ex-integrantes do tribunal sobre a…",
-    "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/09/08/lewandowski-manifesto-ministros-aposentados-stf.ghtml",
-    "time": "2026-09-08T14:41:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Peritos da PF defendem que afastamento de diretor-geral seja decidido pelo plenário do STF",
-    "d": "A Associação Nacional dos Peritos Criminais Federais (APCF) divulgou uma nota nesta terça-feira (8) em que reage diretamente ao afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues, determinado…",
-    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/08/peritos-da-pf-defendem-que-afastamento-de-andrei-seja-decidido-pelo-plenario.ghtml",
-    "time": "2026-09-08T14:39:02.000Z"
   },
   {
     "cat": "internacional",
@@ -265,27 +353,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Autoridades e políticos repercutem decisão de Mendonça de afastar diretor-geral da PF",
-    "d": "Mendonça determina afastamento do diretor-geral da PF, Andrei Rodrigues Autoridades e políticos comentaram, nesta terça-feira (8), a decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF), sobre o afast…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/08/autoridades-e-politicos-repercutem-decisao-de-mendonca-de-afastar-diretor-geral-da-pf.ghtml",
-    "time": "2026-09-08T14:27:45.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Decisão de Mendonça afasta também delegado que investigou morte de Marielle Franco",
     "d": "Decisão do ministro STF André Mendonça de afastar o diretor-geral da Polícia Federal, Andrei Rodrigues, também atingiu o diretor de Inteligência da corporação, o delegado Leandro Almada.",
     "link": "https://www.bbc.com/portuguese/articles/cg7kj85xgkro?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-08T14:23:44.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-    "d": "The New York mayor says newly released documents show asbestos \"nearly everywhere\" around Ground Zero.",
-    "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T14:03:39.000Z"
   },
   {
     "cat": "economia",
@@ -302,14 +374,6 @@
     "d": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
     "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-08T13:58:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues",
-    "d": "A decisão foi publicada cinco dias depois do pedido de investigação feito pelo ministro Alexandre de Moraes contra Mendonça.",
-    "link": "https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T13:39:35.000Z"
   },
   {
     "cat": "internacional",
@@ -339,7 +403,7 @@
     "cat": "economia",
     "src": "G1",
     "h": "Grindr aceita pagar R$ 180 milhões para encerrar ação no Reino Unido por vazamento de dados, diz jornal",
-    "d": "Aly Song/Reuters O aplicativo de relacionamentos Grindr concordou em pagar 26 milhões de libras (R$ 180 milhões em conversão direta) para encerrar uma ação judicial promovida por milhares de usuários no Reino Unido, s…",
+    "d": "Aly Song/Reuters O aplicativo de relacionamentos Grindr concordou em pagar 26 milhões de libras (R$ 180 milhões) para encerrar uma ação judicial promovida por milhares de usuários no Reino Unido, segundo o jornal \"The…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/08/grindr-aceita-acordo-reino-unido.ghtml",
     "time": "2026-09-08T12:40:14.000Z"
   },
@@ -354,42 +418,10 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar opera em queda, de olho em alta do petróleo e cenário eleitoral; Ibovespa sobe",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta terça-feira (8), na volta dos negócios após o feriado do Dia da Independência do Brasil e do Dia do Trabalho (Labor Day, em inglês) nos Est…",
+    "h": "Dólar cai a R$ 5,08 e Ibovespa sobe, com petróleo e cenário eleitoral no radar",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda nesta terça-feira (8), recuando 0,86%, a R$ 5,0857. Já o Ibovespa, principal índice da bolsa brasileira, subiu 1,20%, aos 187.367 pontos. A inte…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/08/dolar-ibovespa.ghtml",
     "time": "2026-09-08T12:00:14.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ford do Brasil faz recall da Ranger Raptor por possível problema em airbags laterais",
-    "d": "Ford Ranger Raptor Divulgação / Ford A Ford do Brasil anunciou nesta terça-feira (8) a convocação de um recall para os proprietários do modelo Ranger Raptor, ano 2026. O problema, segundo a marca, está localizado na c…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/08/recall-ford-ranger-raptor.ghtml",
-    "time": "2026-09-08T11:40:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "As obras de Renoir roubadas em invasão a museu no sul da França",
-    "d": "Prefeito diz que ladrões, ao serem perseguidos pela polícia, deixaram para trás outros dois quadros.",
-    "link": "https://www.bbc.com/portuguese/articles/c0revk5qn0go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T11:33:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mercado financeiro reduz estimativa de inflação para 5% e eleva projeção de crescimento da economia em 2026",
-    "d": "O mercado financeiro reduziu sua estimativa de inflação, mas, ao mesmo tempo, elevou sua projeção de crescimento do Produto Interno Bruto (PIB) em 2026. As informações fazem parte do \"Boletim Focus\", divulgado nesta t…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/08/mercado-financeiro-reduz-estimativa-de-inflacao-para-5percent-e-eleva-projecao-de-crescimento-da-economia-em-2026.ghtml",
-    "time": "2026-09-08T11:30:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trend dos anos 80: saiba como criar sua foto com visual da época usando IA",
-    "d": "Trend dos anos 80: saiba como fazer a sua foto usando IA Reprodução/Redes sociais Uma nova trend em que pessoas aparecem com roupas e cortes de cabelo no estilo dos anos 1980 viralizou nas redes sociais, principalment…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/08/trend-dos-anos-80-saiba-como-criar-sua-foto-com-visual-da-epoca-usando-ia.ghtml",
-    "time": "2026-09-08T11:19:35.000Z"
   },
   {
     "cat": "internacional",
@@ -406,14 +438,6 @@
     "d": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
     "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-08T11:09:07.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Volkswagen abre caminho para converter fábrica desativada para produção de armas",
-    "d": "Fábrica da Volkswagen em Osnabrück, Alemanha Divulgação / Volkswagen A Volkswagen anunciou nesta segunda-feira (07) que uma de suas fábricas na Alemanha, que terá sua produção de automóveis encerrada, será vendida e c…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/08/volkswagen-fabrica-alemanha.ghtml",
-    "time": "2026-09-08T10:45:42.000Z"
   },
   {
     "cat": "brasil",
@@ -448,14 +472,6 @@
     "time": "2026-09-08T07:43:25.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Tarifas do Canadá sobre produtos dos EUA entram em vigor nesta terça-feira; entenda a disputa",
-    "d": "Após tarifas de Trump, Canadá anuncia retaliação de até 50% contra os EUA O Canadá começa a aplicar nesta terça-feira (8) novas tarifas de 15%, 25% e 50% sobre produtos importados dos Estados Unidos, acirrando a dispu…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/08/canada-tarifas-eua-entenda.ghtml",
-    "time": "2026-09-08T06:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
@@ -472,28 +488,12 @@
     "time": "2026-09-08T04:00:27.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena pode pagar R$ 70 milhões nesta terça-feira; g1 transmite ao vivo",
-    "d": "Como funciona a Mega-Sena? O concurso 3.055 da Mega-Sena pode pagar um prêmio de R$ 70 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (8), em São Paulo. 📱Favorite…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/08/mega-sena-pode-pagar-r-70-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-    "time": "2026-09-08T03:00:01.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
     "d": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Carter Rhoad in 2024 The suspected murderers of two Australian surfers and an American at a Mexican su…",
     "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
     "time": "2026-09-08T02:00:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política",
-    "d": "Para a pesquisadora Mariana Llanos, abalo na Corte sem precedentes na história recente pode impedir que Supremo exerça seu papel de contrapeso a outras instituições.",
-    "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T19:50:28.000Z"
   },
   {
     "cat": "economia",
