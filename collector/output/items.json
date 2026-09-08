@@ -1,99 +1,227 @@
 [
   {
-    "cat": "brasil",
+    "cat": "comercio",
     "src": "CNN Brasil",
-    "h": "Cleitinho anuncia apoio a Sávio e Marco Antônio Superman ao Senado em MG",
-    "d": "Candidato ao governo mineiro também manifestou apoio a Carlos Viana e Marcelo Aro em agendas anteriores",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/cleitinho-anuncia-apoio-a-savio-e-marco-antonio-superman-ao-senado-em-mg/",
-    "time": "2026-09-08T00:31:43.000Z"
+    "h": "Tarifas de retaliação do Canadá entram em vigor em meio a impasse com EUA",
+    "d": "Medidas atingem US$ 20 bilhões em produtos americanos e ampliam tensão comercial entre os países vizinhos",
+    "link": "https://www.cnnbrasil.com.br/economia/tarifas-de-retaliacao-do-canada-entram-em-vigor-em-meio-a-impasse-com-eua/",
+    "time": "2026-09-08T04:46:29.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Argentina anuncia acusação criminal contra petroleira que atua nas Malvinas",
-    "d": "Medida ocorre após Javier Milei prometer impor sanções contra empresas que explorem petróleo no arquipélago, alvo de disputa com o Reino Unido",
-    "link": "https://www.cnnbrasil.com.br/internacional/argentina-anuncia-acusacao-criminal-contra-petroleira-que-atua-nas-malvinas/",
-    "time": "2026-09-08T00:30:43.000Z"
+    "h": "Crise de Moraes gera mais desgaste que caso Lulinha, diz CEO da Dharma",
+    "d": "Ao WW, Creomar de Souza aponta impacto maior da polêmica com ministro do STF na imagem do presidente Lula",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/crise-de-moraes-gera-mais-desgaste-que-caso-lulinha-diz-ceo-da-dharma/",
+    "time": "2026-09-08T04:02:51.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+    "d": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a tra…",
+    "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+    "time": "2026-09-08T04:00:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+    "d": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has retur…",
+    "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+    "time": "2026-09-08T04:00:27.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "North Korea and Russia open first road bridge linking both countries",
+    "d": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T03:53:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Em carta a Fachin, ministros aposentados manifestam apoio e cobram apuração 'pública' e 'rigorosa' diante de crise no STF",
+    "d": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
+    "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T03:36:21.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 70 milhões nesta terça-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.055 da Mega-Sena pode pagar um prêmio de R$ 70 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (8), em São Paulo. 📱Favorite…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/08/mega-sena-pode-pagar-r-70-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-09-08T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ainda restam cinco feriados nacionais em 2026; confira as datas",
+    "d": "Feriadão à vista: falta uma semana para o próximo feriado prolongado Depois do feriado da Independência do Brasil, celebrado em 7 de setembro, na última segunda-feira, o próximo feriado nacional será em 12 de outubro,…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/08/ainda-restam-cinco-feriados-nacionais-em-2026-confira-as-datas.ghtml",
+    "time": "2026-09-08T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: O que você não pode ganhar dos candidatos?",
+    "d": "Guia do eleitor: o que não posso ganhar de um candidato? Candidatos à eleição são proibidos de distribuir camisetas, bonés, chaveiros, canetas ou qualquer outra coisa que possa proporcionar um presente ao eleitor. Alé…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/08/video-o-que-voce-nao-pode-ganhar-dos-candidatos.ghtml",
+    "time": "2026-09-08T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião no cenário com Pablo Marçal",
+    "d": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2% Pesquisa Datafolha divulgada nesta segunda-feira (7) mostra Lula (PT) com 36% das intenções de voto no 1º turno da eleição…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/08/quaest-1o-turno-segmentos-cenario-2.ghtml",
+    "time": "2026-09-08T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião no cenário sem Pablo Marçal",
+    "d": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2% Pesquisa Datafolha divulgada nesta segunda-feira (7) mostra Lula (PT) com 36% das intenções de voto no 1º turno da eleição…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/08/quaest-1o-turno-segmentos-cenario-1.ghtml",
+    "time": "2026-09-08T03:00:00.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Se erros forem provados, Moraes tem que sofrer impeachment, diz Cury à CNN",
-    "d": "Para o candidato a presidente pelo Avante, Moraes é um colaborador público e não deve ser isento de culpa",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/se-erros-forem-provados-moraes-tem-que-sofrer-impeachment-diz-cury-a-cnn/",
-    "time": "2026-09-08T00:29:15.000Z"
+    "h": "Corinthians desembarca para pegar o Estudiantes com desfalque de peso",
+    "d": "Equipes se enfrentam na próxima quarta-feira (9), na Argentina, pelas quartas de final da Copa Libertadores da América",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-desembarca-para-pegar-o-estudiantes-com-desfalque-de-peso/",
+    "time": "2026-09-08T02:59:37.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Homem morre atropelado na via do trem no Rio",
-    "d": "O acidente ocorreu na manhã desta segunda-feira (7) entre as estações Inhoaíba e Cosmos; Trens RJ lamentou o ocorrido",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/homem-morre-atropelado-na-via-do-trem-no-rio/",
-    "time": "2026-09-08T00:25:45.000Z"
+    "h": "Luís Castro lamenta desempenho do Grêmio como visitante no Brasileirão",
+    "d": "Sequência sem vitórias longe de casa incomoda o treinador português",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/luis-castro-lamenta-desempenho-do-gremio-como-visitante-no-brasileirao/",
+    "time": "2026-09-08T02:56:12.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Cury: Condenações do 8/1 foram exageradas e não houve golpe materializado",
-    "d": "Candidato à Presidência afirmou que houve penas “cruéis” em casos relacionados aos atos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/cury-condenacoes-do-8-1-foram-exageradas-e-nao-houve-golpe-materializado/",
-    "time": "2026-09-08T00:23:53.000Z"
+    "h": "Quem são os candidatos ao Senado pelo Mato Grosso do Sul em 2026",
+    "d": "Estado do Centro-Oeste tem 2.024.884 eleitores aptos a votar em dez nomes",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-pelo-mato-grosso-do-sul-em-2026/",
+    "time": "2026-09-08T02:31:51.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Receita realiza quatro abordagens com apreensão na Ponte da Amizade",
-    "d": "Medicamentos emagrecedores, anabolizantes e cigarros eletrônicos foram encontrados em quatro abordagens na alfândega da Ponte Internacional da Amizade, entre o Brasil e o Paraguai",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/receita-realiza-quatro-abordagens-com-apreensao-na-ponte-da-amizade/",
-    "time": "2026-09-08T00:15:33.000Z"
+    "h": "Quem são os candidatos ao Senado pelo Amapá em 2026",
+    "d": "Estado terá nove candidatos na disputa por duas vagas ao Senado em 2026",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-pelo-amapa-em-2026-2/",
+    "time": "2026-09-08T02:28:37.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Quem são os candidatos ao Senado por Mato Grosso em 2026",
-    "d": "De ex-governadores e parlamentares a empresários e agricultores, disputa reúne dez candidatos por duas vagas no Senado",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-por-mato-grosso-em-2026/",
-    "time": "2026-09-08T00:15:20.000Z"
+    "h": "Goleiro do Grêmio critica regra “anti-cera” e afirma: “Impossível competir”",
+    "d": "Jogador alerta para aumento de lesões com a nova dinâmica de jogo e calendário apertado de partidas",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/goleiro-do-gremio-critica-regra-anti-cera-e-afirma-impossivel-competir/",
+    "time": "2026-09-08T02:17:35.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "A surpresa não é tão grande, diz Arko sobre vitória da AfD em estado alemão",
-    "d": "Ao Hora H, o CEO da Arko Advice Internacional, Thiago de Aragão, aponta que características demográficas e históricas da região favoreciam a vitória do partido de extrema direita",
-    "link": "https://www.cnnbrasil.com.br/internacional/a-surpresa-nao-e-tao-grande-diz-arko-sobre-vitoria-da-afd-em-estado-alemao/",
-    "time": "2026-09-08T00:14:37.000Z"
+    "h": "Indonésia reabre aeroporto de Jacarta após dispersão de cinzas vulcânicas",
+    "d": "Interrupção dos serviços aconteceu após uma série de erupções no Monte Anak Krakatau",
+    "link": "https://www.cnnbrasil.com.br/internacional/indonesia-reabre-aeroporto-de-jacarta-apos-dispersao-de-cinzas-vulcanicas/",
+    "time": "2026-09-08T02:12:52.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Eleições 2026: veja a ordem de votação na urna eletrônica",
-    "d": "Eleitor fará seis escolhas no primeiro turno, incluindo dois candidatos ao Senado; votação começa por deputado federal e termina com presidente",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-a-ordem-de-votacao-na-urna-eletronica/",
-    "time": "2026-09-08T00:02:38.000Z"
+    "h": "Palanque em SP reflete estratégia de Flávio para consolidar base eleitoral",
+    "d": "Aliados assumiram discursos voltados a segmentos específicos em ato da direita na Avenida Paulista, em São Paulo, nesta segunda-feira (7)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/palanque-em-sp-reflete-estrategia-de-flavio-para-consolidar-base-eleitoral/",
+    "time": "2026-09-08T02:03:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+    "d": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024 The suspected murderers of two Australian surfers and an American at…",
+    "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+    "time": "2026-09-08T02:00:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Joaquim Barbosa, Rosa Weber, Ayres Britto e outros 10 ministros aposentados pedem a Fachin 'imediata e rigorosa' apuração de crise no STF",
+    "d": "Treze ministros aposentados do Supremo Tribunal Federal (STF) pediram ao presidente da Corte, Edson Fachin, a convocação urgente de uma sessão pública para que o plenário determine uma apuração imediata e rigorosa dos…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/07/ministros-aposentados-apuracao-crise-stf.ghtml",
+    "time": "2026-09-08T01:55:18.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "História das tartarugas-gigantes de Galápagos é um conto de piratas: agora, ‘tartarugas alienígenas’ apareceram pela primeira vez desde o século XIX",
-    "d": "Descobertas no Vulcão Wolf, linhagem rara volta à sua ilha natal após 150 anos em ação de conservação",
-    "link": "https://www.cnnbrasil.com.br/ciencia/historia-das-tartarugas-gigantes-de-galapagos-e-um-conto-de-piratas-agora-tartarugas-alienigenas-apareceram-pela-primeira-vez-desde-o-seculo-xix/",
-    "time": "2026-09-08T00:02:03.000Z"
+    "h": "Botafogo recebe proposta milionária pelo atacante Arthur Cabral",
+    "d": "Jogador e diretoria alvinegra analisam oferta e janela de transferências fecha nesta sexta-feira (11)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/botafogo-recebe-proposta-milionaria-pelo-atacante-arthur-cabral/",
+    "time": "2026-09-08T01:53:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "UK government expected to announce restrictions on trade with West Bank settlements",
+    "d": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T01:50:55.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Cantor do “Estrela da Casa” esquece letra no palco do Rock in Rio e chora",
-    "d": "Filgueira estava ao lado de Belo quando se atrapalhou e não conseguiu terminar solo",
-    "link": "https://www.cnnbrasil.com.br/pop/realities/cantor-do-estrela-da-casa-esquece-letra-no-palco-do-rock-in-rio-e-chora/",
-    "time": "2026-09-07T23:58:03.000Z"
+    "h": "Quem são os candidatos ao Senado pela Paraíba em 2026",
+    "d": "Disputa no estado é composta por 10 candidaturas registradas no TSE (Tribunal Superior Eleitoral)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-pela-paraiba-em-2026/",
+    "time": "2026-09-08T01:50:33.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "“Da Magia à Sedução 2” e mais: veja os lançamentos da semana",
-    "d": "\"Estilhaços\", \"Star Trek\" e \"Masterchef Brasil 13\" estreiam novos episódios nos próximos dias",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/da-magia-a-seducao-2-e-mais-veja-os-lancamentos-da-semana/",
-    "time": "2026-09-07T23:56:43.000Z"
+    "h": "Explosões são ouvidas em Kiev um dia após visita de autoridades dos EUA",
+    "d": "Autoridades relataram danos a prédios residenciais em dois distritos da cidade",
+    "link": "https://www.cnnbrasil.com.br/internacional/explosoes-sao-ouvidas-em-kiev-um-dia-apos-visita-de-autoridades-dos-eua/",
+    "time": "2026-09-08T01:46:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+    "d": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+    "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T01:32:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fachin adia reunião com OAB e alega excesso de demandas nesta semana",
+    "d": "OAB pede ao STF resposta à crise aberta divulgação de mensagens entre Vorcaro e Moraes O presidente do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, adiou uma reunião com representantes da Ordem dos Advo…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/07/fachin-adia-reuniao-oab.ghtml",
+    "time": "2026-09-08T01:28:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+    "d": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+    "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T01:07:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+    "d": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-08T00:48:43.000Z"
   },
   {
     "cat": "internacional",
@@ -106,23 +234,7 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    "d": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T23:29:12.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Canada’s retaliatory US tariffs set to take effect as trade dispute grows",
-    "d": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada is set to impose retaliatory tariffs on billions of dollars’ worth of American imports early on Tuesday, escala…",
-    "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-    "time": "2026-09-07T23:20:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+    "h": "Flight recorders recovered from Amazon cargo plane crash",
     "d": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T22:23:03.000Z"
@@ -208,14 +320,6 @@
     "time": "2026-09-07T21:01:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "No ápice, ato com Flávio Bolsonaro reúne 28,5 mil pessoas na Paulista, aponta metodologia da USP",
-    "d": "Flavio Bolsonaro e Tarcísio participam de ato na Avenida Paulista O ato de campanha do presidenciável Flávio Bolsonaro (PL) e seus apoiadores nesta segunda-feira (7) na Avenida Paulista, em São Paulo, reuniu 28,5 mil…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/no-apice-ato-com-flavio-bolsonaro-reune-285-mil-pessoas-na-paulista-aponta-metodologia-da-usp.ghtml",
-    "time": "2026-09-07T20:56:48.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Trump ameaça impedir Bombardier de vender aviões nos EUA se empresa canadense não passar a produzir no país",
@@ -230,14 +334,6 @@
     "d": "Para a pesquisadora Mariana Llanos, abalo na Corte sem precedentes na história recente pode impedir que Supremo exerça seu papel de contrapeso a outras instituições.",
     "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T19:50:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: 79% dizem que opinião de liderança religiosa não influencia escolha de voto para presidente",
-    "d": "Imagem urna eletrônica Reprodução/TV Globo Levantamento da Quaest questionou aos eleitores qual o nível de influência a opinião de líderes religiosos na escolha de voto para presidente. Para 79% dos eleitores, não há…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-lideranca-religiosa-influencia-voto-presidente.ghtml",
-    "time": "2026-09-07T19:33:12.000Z"
   },
   {
     "cat": "economia",
@@ -257,14 +353,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Campanha de Lula cita tarifaço, defende soberania e critica família Bolsonaro em nova propaganda eleitoral na TV",
-    "d": "Lula em propaganda eleitoral que defende a soberania nacional e critica a família Bolsonaro Reprodução A campanha do presidente Lula (PT) vai reforçar os ataques a Flávio Bolsonaro (PL) na propaganda eleitoral de TV d…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/campanha-lula-propaganda-eleitoral-tv.ghtml",
-    "time": "2026-09-07T19:19:52.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os novos vídeos que indicam possível papel de agente da Arábia Saudita no 11 de Setembro",
     "d": "Imagens e outras evidências que o FBI não compartilhou colocam em dúvida 25 anos de negativas de Omar al-Bayoumi.",
@@ -281,35 +369,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Partidos de direita fazem manifestações com críticas ao STF e ao ministro Alexandre de Moraes",
-    "d": "7 de setembro tem protestos contra Moraes Em paralelo aos desfiles de 7 de Setembro que ocorrem nesta segunda-feira pelo país, ao menos 11 capitais brasileiras registraram manifestações com críticas ao Supremo Tribuna…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/07/capitais-registram-manifestacoes.ghtml",
-    "time": "2026-09-07T17:34:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
-    "d": "Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024 The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on…",
-    "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-    "time": "2026-09-07T17:29:20.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como o Dia da Independência apagou a memória da luta negra por independência e abolição",
     "d": "Uma articulação popular pedia, entre suas bandeiras, o regime republicano e o fim da escravidão. Mas seus líderes foram executados em praça pública décadas antes de 7 de setembro de 1822.",
     "link": "https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T17:25:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Renan Santos faz ato no Ibirapuera e pede afastamento de Toffoli e Moraes do STF, de Andrei da PF e de Gonet da PGR",
-    "d": "Renan Santos durante ato de campanha no Ibirapuera TV Globo O candidato à Presidência da República Renan Santos (Missão) pediu nesta segunda-feira (7), durante um ato no Parque Ibirapuera, em São Paulo, a saída imedia…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/renan-santos-faz-ato-no-ibirapuera-e-pede-afastamento-de-toffoli-e-moraes-do-stf-de-andrei-da-pf-e-de-gonet-da-pgr.ghtml",
-    "time": "2026-09-07T17:23:30.000Z"
   },
   {
     "cat": "brasil",
@@ -326,14 +390,6 @@
     "d": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
     "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-07T15:27:50.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-    "d": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-    "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T14:57:16.000Z"
   },
   {
     "cat": "internacional",
@@ -424,14 +480,6 @@
     "time": "2026-09-07T09:53:53.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nepal observes national day of mourning for victims of flash flood disaster",
-    "d": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
-    "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T09:31:26.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Dia da independência do Brasil: a mulher que assinou separação de Portugal e foi a primeira a governar o país",
@@ -448,14 +496,6 @@
     "time": "2026-09-07T08:27:08.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?",
-    "d": "BBC News Brasil conversou com historiadores para entender causas que levaram à unificação do Brasil e à fragmentação de seus vizinhos.",
-    "link": "https://www.bbc.com/portuguese/articles/c3gjpmvkv5eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T08:21:49.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Trabalhar, dever, trabalhar mais: como crédito caro prende entregadores argentinos aos aplicativos",
@@ -464,28 +504,12 @@
     "time": "2026-09-07T08:00:00.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-    "d": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T07:03:44.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Próximo feriadão é em outubro; veja os cinco feriados que ainda restam em 2026",
     "d": "Feriadão à vista: falta uma semana para o próximo feriado prolongado O próximo feriado nacional será em 12 de outubro, Dia de Nossa Senhora Aparecida, padroeira do Brasil. A data também marca o Dia das Crianças. Ao to…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/07/proximo-feriadao-e-daqui-a-menos-de-um-mes-veja-os-cinco-feriados-que-ainda-restam-em-2026.ghtml",
     "time": "2026-09-07T03:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-    "d": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-07T00:01:32.000Z"
   },
   {
     "cat": "economia",
@@ -526,22 +550,6 @@
     "d": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis The greenest campaigners against climate change have long suffered from a crippling shortcoming: they too often frame…",
     "link": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
     "time": "2026-09-06T11:00:03.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Baixo lucro em safra de urucum preocupa produtores da Nova Alta Paulista",
-    "d": "Baixo lucro em safra de urucum preocupa produtores da Nova Alta Paulista Reprodução / TV TEM A safra de urucum de 2026 tem gerado apreensão entre agricultores da região da Nova Alta Paulista, considerada a maior produ…",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/06/baixo-lucro-em-safra-de-urucum-preocupa-produtores-da-nova-alta-paulista.ghtml",
-    "time": "2026-09-06T10:30:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Safra de laranja cresce no interior de SP, mas queda no consumo de suco derruba preços",
-    "d": "Safra de laranja cresce no interior de SP, mas queda no consumo de suco derruba preços Reprodução / TV TEM A produção de laranja no interior paulista demonstra crescimento na safra deste ano, mas a queda na indústria…",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/06/safra-de-laranja-cresce-no-interior-de-sp-mas-queda-no-consumo-de-suco-derruba-precos.ghtml",
-    "time": "2026-09-06T10:30:00.000Z"
   },
   {
     "cat": "internacional",
@@ -630,13 +638,5 @@
     "d": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a…",
     "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
     "time": "2026-09-03T12:52:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
-    "d": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpevi…",
-    "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
-    "time": "2026-09-03T10:11:37.000Z"
   }
 ]
