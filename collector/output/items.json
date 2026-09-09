@@ -1,115 +1,331 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Apple lança primeiro iPhone dobrável e novos iPhone 18 Pro e Pro Max",
+    "d": "Apple lança primeiro iPhone dobrável e novos iPhone 18 Pro e Pro Max Big tech já anunciou novos Apple Watches e AirPods 5, além de novidades nas câmeras da linha Pro. Apple lançou nesta quarta-feira os iPhones 18 Pro…",
+    "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+    "time": "2026-09-09T18:06:09.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
-    "h": "Dino diz que juízes devem evitar vídeos que alimentem propagandas e comícios: 'Recato deve ser ainda maior em tempos eleitorais'",
-    "d": "",
+    "h": "Caiado e Renan Santos organizam 'debate paralelo' com adversários na próxima segunda-feira",
+    "d": "Augusto Cury (Avante), Renan Santos (Missão) e Ronaldo Caiado (PSD), candidatos à Presidência da República nas eleições 2026, participam do primeiro debate promovido pela TV Band em parceria com o Estadão no estúdio d…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/caiado-renan-debate-paralelo.ghtml",
+    "time": "2026-09-09T18:00:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cratera gigante se abre em mansão de Nicolas Cage em Malibu; veja",
+    "d": "Parte da estrutura desabou e rompeu uma tubulação de gás, precisando de atendimento de bombeiros",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/cratera-gigante-se-abre-em-mansao-de-nicolas-cage-em-malibu-veja/",
+    "time": "2026-09-09T17:58:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pórtico para sensor: por que Free Flow transforma a cibersegurança em risco",
+    "d": "Em artigo à CNN Infra, Rony Neri explica desafios, novidades e mudanças relacionadas a implantação do Free Flow",
+    "link": "https://www.cnnbrasil.com.br/infra/portico-para-sensor-por-que-free-flow-transforma-a-ciberseguranca-em-risco/",
+    "time": "2026-09-09T17:56:18.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Apple apresenta o iPhone Duo, primeiro celular dobrável da marca",
+    "d": "iPhone Duo divulgação/Apple A Apple apresentou nesta quarta-feira (9) o iPhone Duo. O modelo é o primeiro modelo dobrável da marca e responde uma tendência já adotada por concorrentes como Samsung e Huawei. Rumores já…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
+    "time": "2026-09-09T17:54:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sporting x Galatasaray: escalações e onde assistir à Champions League",
+    "d": "Equipes se enfrentam nesta quarta-feira (9), às 16h (de Brasília)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/sporting-x-galatasaray-escalacoes-e-onde-assistir-a-champions-league/",
+    "time": "2026-09-09T17:53:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Projeto de terras raras da Power ganha tratamento prioritário em MG",
+    "d": "Acordo coloca Morro do Ferro em via especializada de licenciamento ambiental e prevê apoio de órgãos estaduais; medida não equivale à concessão de licenças",
+    "link": "https://www.cnnbrasil.com.br/infra/projeto-de-terras-raras-da-power-ganha-tratamento-prioritario-em-mg/",
+    "time": "2026-09-09T17:52:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+    "d": "Gen Muhoozi Kainerugaba announces decision to pull out of event in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief s…",
+    "link": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+    "time": "2026-09-09T17:51:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PSG x Slovan Bratislava: escalações e onde assistir à Champions League",
+    "d": "Equipes jogam nesta quarta-feira (9) pela primeira rodada do torneio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/psg-x-slovan-bratislava-escalacoes-e-onde-assistir-a-champions-league/",
+    "time": "2026-09-09T17:51:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Farofa por feijão: nutricionista entrega táticas básicas e baratas para ter saciedade com simples trocas na alimentação",
+    "d": "Truques no dia a dia podem oferecer mais saciedade e ainda ajudar em processos de emagrecimento",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/farofa-por-feijao-nutricionista-entrega-taticas-basicas-e-baratas-para-ter-saciedade-com-simples-trocas-na-alimentacao/",
+    "time": "2026-09-09T17:50:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Liverpool x Atl. de Madrid: escalações e onde assistir à Champions League",
+    "d": "Equipes jogam nesta quarta-feira (9) pela primeira rodada do torneio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/liverpool-x-atl-de-madrid-escalacoes-e-onde-assistir-a-champions-league/",
+    "time": "2026-09-09T17:49:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CNN Brasil terá Patrícia Ellen como analista de competitividade",
+    "d": "Em posição inédita na emissora, especialista passa a integrar a programação fixa da CNN Brasil e do CNN Money a partir de 16 de setembro, com análises semanais sobre produtividade, competitividade e empregabilidade",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/cnn-brasil-tera-patricia-ellen-como-analista-de-competitividade/",
+    "time": "2026-09-09T17:48:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Napoli x Arsenal: escalações e onde assistir ao jogo da Champions League",
+    "d": "Equipes vão a campo nesta quarta-feira (9), às 16h (de Brasília), pela 1ª rodada da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/napoli-x-arsenal-escalacoes-e-onde-assistir-ao-jogo-da-champions-league/",
+    "time": "2026-09-09T17:47:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em carta a cristãos, Zema diz que uso medicinal do canabidiol não pode ser 'pretexto' para liberar drogas e defende ensino em casa",
+    "d": "Romeu Zema, candidato do Novo à Presidência, participa de reunião com mulheres em São Paulo Jornal Nacional/ Reprodução O ex-governador de Minas Gerais e candidato à Presidência da República Romeu Zema (Novo) apresent…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/zema-carta-cristaos.ghtml",
+    "time": "2026-09-09T17:46:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tesouro dos EUA planeja recomprar US$ 6 bi em títulos de 10 a 20 anos",
+    "d": "Após o anúncio, o rendimento do título do Tesouro dos EUA de 10 anos subiu de 4,81% para 4,83%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/tesouro-dos-eua-planeja-recomprar-us-6-bi-em-titulos-de-10-a-20-anos/",
+    "time": "2026-09-09T17:43:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "1 em cada 5 carros vendidos no Brasil já é elétrico ou híbrido, diz ABVE",
+    "d": "Com recorde de 57,3 mil emplacamentos em agosto, elétricos e híbridos já representam 22% de todos os carros leves vendidos no país",
+    "link": "https://www.cnnbrasil.com.br/auto/1-em-cada-5-carros-vendidos-no-brasil-ja-e-eletrico-ou-hibrido-diz-abve/",
+    "time": "2026-09-09T17:43:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "AO VIVO: Acompanhe a 1ª convocação da Seleção Brasileira pós-Copa do Mundo",
+    "d": "Carlo Ancelotti anuncia nesta quarta-feira (9) os jogadores para os primeiros amistosos do novo ciclo rumo à Copa do Mundo de 2030",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ao-vivo-acompanhe-a-1a-convocacao-da-selecao-brasileira-pos-copa-do-mundo/",
+    "time": "2026-09-09T17:40:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Delator do caso Master detalha pagamentos a fundo de 'Dark Horse' e revela uso de empresa nas Bahamas",
+    "d": "O empresário Antonio Carlos Freixo Junior, que assinou um acordo de delação premiada com a Procuradoria-Geral da República (PGR), afirmou que fez sete repasses, a título de \"subscrições de cotas\", para o fundo Havenga…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/delator-do-caso-master-detalha-pagamentos-a-fundo-de-dark-horse.ghtml",
+    "time": "2026-09-09T17:38:57.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quem é o novo CEO da Apple? John Ternus fez 1ª apresentação como chefe da empresa em evento de lançamento dos novos iPhones",
+    "d": "John Ternus será novo CEO da Apple Divulgação/Apple John Ternus, de 50 anos, fez sua primeira apresentação de lançamento da Apple como CEO da marca nesta quarta-feira (9). Em sua sede em Cupertino, na Califórnia, o ev…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/quem-e-o-novo-ceo-da-apple-john-ternus.ghtml",
+    "time": "2026-09-09T17:33:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Elas conseguiram celebrar o primeiro casamento homossexual na Bolívia, um país onde ele não é legalizado",
+    "d": "Scarlett e Fabiana levaram quatro anos para conseguir se casar, embora o casamento entre pessoas do mesmo sexo não tenha sido legalizado na Bolívia",
+    "link": "https://www.bbc.com/portuguese/articles/c86x0d1gveyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T17:23:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Eleições 2026: o que os candidatos propõem para a Educação?",
+    "d": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
+    "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T17:14:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Empresários, economistas e intelectuais lançam manifesto cobrando reação do STF diante de crise institucional",
+    "d": "Empresários, economistas e intelectuais lançam manifesto cobrando reação do STF Um grupo reunindo autoridades, economistas, intelectuais e personalidades lançou nesta quarta-feira (9) um manifesto pedindo apuração dos…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/09/manifesto-empresarios-economistas-e-intelectuais-crise-stf.ghtml",
+    "time": "2026-09-09T17:08:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Google picks Finland for its largest single investment in Europe",
+    "d": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+    "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T17:06:48.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Apple lança iPhone dobrável e novos iPhone 18 Pro e Pro Max; veja novidades e preços nos EUA",
+    "d": "iPhone Duo Reprodução A Apple lançou o iPhone Duo, seu primeiro celular dobrável, e os novos iPhone 18 Pro e Pro Max. O iPhone Duo tem tela interna de 5,4 polegadas e tela externa de 7,6 polegadas. O modelo tem um for…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-18-lancamento.ghtml",
+    "time": "2026-09-09T17:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+    "d": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T16:46:53.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Brasil pode ficar com até 40% da nova cota de importação de carne bovina dos EUA; entenda",
+    "d": "Pará pode sentir efeitos da proibição da exportação de carne bovina para o mercado europeu A nova cota de importação de carne bovina aberta pelo presidente dos Estados Unidos, Donald Trump, pode garantir ao Brasil até…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/09/brasil-eua-cota-carne.ghtml",
+    "time": "2026-09-09T16:45:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Impasse no STF: por que a decisão de Dino que reconduziu chefe da PF é a que está valendo? Entenda o conflito",
+    "d": "A recondução do delegado Andrei Rodrigues ao comando da Polícia Federal abriu uma discussão sobre os poderes dos ministros do Supremo Tribunal Federal (STF) e o alcance das decisões individuais. A principal dúvida jur…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/09/impasse-no-stf-por-que-a-decisao-de-dino-que-reconduziu-chefe-da-pf-e-a-que-esta-valendo-entenda-o-conflito.ghtml",
+    "time": "2026-09-09T16:39:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+    "d": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T16:33:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Europe's royalty pay respects to King Harald V in Norway",
+    "d": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T16:30:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Metástase' da crise entre ministros do STF ameaça instituições brasileiras, dizem especialistas",
+    "d": "Conflito entre ministros e uma sequência de vazamentos já envolvem PF, Ministério Público, Congresso e governo; especialistas avaliam os riscos para a credibilidade das instituições.",
+    "link": "https://www.bbc.com/portuguese/articles/clyk143m6ymo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T16:30:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "EUA acusam empresas chinesas de usar IA americana para acelerar desenvolvimento; China rebate",
+    "d": "Agora no g1 O governo dos Estados Unidos acusou nesta terça-feira (8) empresas chinesas de inteligência artificial de usar uma técnica conhecida como destilação para extrair capacidades de modelos americanos e acelera…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/eua-acusam-empresas-chinesas-de-usar-ia-americana-para-acelerar-desenvolvimento-china-rebate-e-fala-em-dois-pesos-e-duas-medidas.ghtml",
+    "time": "2026-09-09T16:16:58.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+    "d": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T16:01:54.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Nova CNH: STF arquiva ação e permite uso de carro particular no exame de direção",
+    "d": "Detran-RJ alerta motoristas de CNH C, D e E sobre exame toxicológico O Supremo Tribunal Federal (STF) arquivou a ação que questionava a possibilidade de usar carros particulares em aulas práticas e no exame de direção…",
+    "link": "https://g1.globo.com/carros/noticia/2026/09/09/nova-cnh-carro-particular-stf.ghtml",
+    "time": "2026-09-09T15:28:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Guerra de liminares no STF: ministros ligam para Fachin e cobram providências; Mendonça vê ilegalidade em decisão de Dino",
+    "d": "Andrei Rodrigues volta à PF após decisão de Dino A guerra de liminares no Supremo Tribunal Federal (STF) ampliou a pressão para que o presidente da Corte, Luiz Edson Fachin, anuncie alguma medida concreta para tentar…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/09/guerra-de-liminares-eleva-pressao-sobre-fachin-por-anuncio-de-medida-concreta-para-conter-crise-master-no-stf.ghtml",
+    "time": "2026-09-09T15:09:30.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+    "d": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+    "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T15:01:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Meta começa a testar substituto da checagem de fatos na América Latina",
+    "d": "Meta inicia testes de um sistema de verificação de informações realizado pela comunidade Jornal Nacional/ Reprodução A Meta anunciou, nesta quarta-feira (9), o início dos testes das Notas da Comunidade em 16 países de…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/meta-facebook-notas-da-comunidade.ghtml",
+    "time": "2026-09-09T14:49:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula pede quebra total de sigilo em investigações do caso Master e diz que 'vazamentos seletivos' afetam eleição",
+    "d": "Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência O presidente Luiz Inácio Lula da Silva (PT) defendeu nesta quarta-feira (9) a quebra completa do sigilo das investigações relacion…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml",
+    "time": "2026-09-09T14:42:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Governo destina R$ 6,6 bilhões em subsídios à produção e importação de combustíveis; guerra no Oriente Médio elevou preços",
+    "d": "O governo federal publicou nesta quarta-feira (9) uma Medida Provisória no \"Diário Oficial da União\" que autoriza gastos de R$ 6,6 bilhões para manter subsídios à produção e importação de combustíveis por conta da gue…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/09/governo-destina-r-66-bilhoes-em-subsidios-a-producao-e-importacao-de-combustiveis-guerra-no-oriente-medio-elevou-precos.ghtml",
+    "time": "2026-09-09T14:41:31.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+    "d": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities Business live – latest updates The price of oil has risen above $100 a barrel for the first time since Ju…",
+    "link": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+    "time": "2026-09-09T14:30:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Dino diz que juízes devem evitar vídeos que alimentem comícios: 'Recato deve ser ainda maior em tempos eleitorais'",
+    "d": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), afirmou nesta quarta-feira (9) que, em tempos de campanha eleitoral, magistrados devem adotar uma postura de \"recato ainda maior\", evitando manifestações públ…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/09/dino-diz-que-juizes-devem-evitar-videos-que-alimentem-propagandas-e-comicios-recato-deve-ser-ainda-maior-em-tempos-eleitorais.ghtml",
     "time": "2026-09-09T14:29:04.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Dino determina 'código único' para rastrear emendas e dá 30 dias para estados informarem sobre medidas corretivas",
+    "h": "Dino exige código único para emendas e dá 30 dias para estados informarem sobre transparência",
     "d": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou que o governo federal e o Congresso Nacional apresentem, até o dia 30 de novembro de 2026, uma proposta conjunta com cronograma para a criação de u…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/09/dino-determina-codigo-unico-para-rastrear-emendas-e-da-30-dias-para-estados-informarem-sobre-medidas-corretivas.ghtml",
     "time": "2026-09-09T14:28:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fórmula 1: filho de Kimi Raikkonen é anunciado pela Red Bull para 2027",
-    "d": "Robin Raikkonen, de 11 anos, se junta à equipe de desenvolvimento de pilotos a partir do ano que vem, seguindo os passos do pai campeão mundial",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-filho-de-kimi-raikkonen-e-anunciado-pela-red-bull-para-2027/",
-    "time": "2026-09-09T14:25:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "À CNN, Ester Expósito diz que sente mais liberdade 8 anos após estrelato",
-    "d": "Atriz estrela novo romance do Prime Video, intitulado \"Atraídos pelo Destino\", que estreou hoje",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/a-cnn-ester-exposito-diz-que-sente-mais-liberdade-8-anos-apos-estrelato/",
-    "time": "2026-09-09T14:23:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA acusam empresas chinesas de roubar tecnologia de IA",
-    "d": "DeepSeek, Moonshot AI e Alibaba estão entre as acusadas de copiar propriedade intelectual de laboratórios americanos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/eua-acusam-empresas-chinesas/",
-    "time": "2026-09-09T14:20:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula sairá prejudicado se conflito no STF continuar, diz especialista",
-    "d": "Em entrevista ao WW, Leandro Gabiati avalia que, se o conflito no Supremo continuar sem solução, o impacto negativo na campanha petista será inevitável",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-saira-prejudicado-se-conflito-no-stf-continuar-diz-especialista/",
-    "time": "2026-09-09T14:15:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Aspirina tira mancha de roupa branca? Entenda",
-    "d": "Truque popular divulgado na internet promete clarear tecidos com ácido acetilsalicílico, mas testes de laboratório e análise química comprovam a ineficácia do método",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/aspirina-tira-mancha-de-roupa-branca-entenda/",
-    "time": "2026-09-09T14:14:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Petróleo ultrapassa US$ 100 pela primeira vez em seis semanas",
-    "d": "Brent subiu 25% desde o início do mês passado, em decorrência do conflito no Oriente Médio",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-ultrapassa-us-100-pela-primeira-vez-em-seis-semanas/",
-    "time": "2026-09-09T14:12:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem é condenado por morte de policial da Core no Rio de Janeiro",
-    "d": "João Pedro Marquini foi morto durante falsa blitz em março de 2025; juíza Tula Corrêa de Mello, esposa do policial, também foi vítima de tentativa de latrocínio",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/homem-e-condenado-por-morte-de-policial-da-core-no-rio-de-janeiro/",
-    "time": "2026-09-09T14:09:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin cancela sessão plenária após mais uma escalada da crise no STF",
-    "d": "Ministro Flávio Dino determinou reintegração do diretor-geral da PF ao cargo um dia após André Mendonça afastá-lo",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-cancela-sessao-plenaria-apos-mais-uma-escalada-da-crise-no-stf/",
-    "time": "2026-09-09T14:07:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Virginia usa camisa de time de Vini Jr. para atender fãs; veja fotos",
-    "d": "Influenciadora renovou o visual em São Paulo",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-usa-camisa-de-time-de-vini-jr-para-atender-fas-veja-fotos/",
-    "time": "2026-09-09T14:06:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil pode fazer história com semifinal 100% brasileira na Libertadores",
-    "d": "Feito inédito na competição depende do avanço de Fluminense, Palmeiras, Corinthians e Flamengo nas quartas de final",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/brasil-pode-fazer-historia-com-semifinal-100-brasileira-na-libertadores/",
-    "time": "2026-09-09T14:05:03.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "TotalPass: aposta que virou motor de expansão da Smart Fit",
-    "d": "Criado em 2019, serviço chegou a mais de 2 milhões de clientes e se tornou peça importante na estratégia do grupo de transformar a Smart Fit em um ecossistema de saúde e bem-estar",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/totalpass-aposta-de-diogo-corona-vira-motor-de-expansao-da-smart-fit/",
-    "time": "2026-09-09T14:00:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Não deu certo?”: Bonner rebate falas sobre divórcio com Fátima Bernardes",
-    "d": "Apresentador participou de videocast ao lado da ex-esposa e da filha; ele abriu o jogo sobre os questionamentos recebidos após o divórcio há dez anos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nao-deu-certo-bonner-rebate-falas-sobre-divorcio-com-fatima-bernardes/",
-    "time": "2026-09-09T14:00:41.000Z"
   },
   {
     "cat": "economia",
@@ -139,7 +355,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Dino cita impacto em investigação do filme 'Dark Horse' ao reconduzir chefe da PF; entenda o caso",
-    "d": "Na decisão em que determinou o retorno de Andrei Rodrigues ao comando da Polícia Federal, o ministro Flávio Dino, do Supremo Tribunal Federal (STF), citou o impacto do afastamento sobre as investigações do caso envolv…",
+    "d": "Na decisão em que determinou o retorno de Andrei Rodrigues ao comando da Polícia Federal, o ministro Flávio Dino, do Supremo Tribunal Federal (STF), citou o impacto do afastamento do diretor-geral sobre as investigaçõ…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/09/dino-cita-impacto-em-investigacao-do-filme-dark-horse-ao-reconduzir-chefe-da-pf-entenda-o-caso.ghtml",
     "time": "2026-09-09T13:33:53.000Z"
   },
@@ -168,44 +384,12 @@
     "time": "2026-09-09T13:18:09.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Jurisprudência tem que ter compromisso com o acerto', diz jurista sobre decisões do STF que afetaram cúpula da PF",
-    "d": "O jurista Gustavo Sampaio afirmou, em entrevista ao programa GloboNews Radar, que o Supremo Tribunal Federal (STF) se equivocou ao acolher pedidos formulados por partidos políticos para intervir no comando da Polícia…",
-    "link": "https://g1.globo.com/politica/blog/camila-bomfim/noticia/2026/09/09/jurisprudencia-tem-que-ter-compromisso-com-o-acerto-diz-jurista-sobre-decisoes-do-stf-que-afetaram-cupula-da-pf.ghtml",
-    "time": "2026-09-09T13:10:17.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Uber libera vídeo ao vivo para pais em viagens de filhos adolescentes; veja como vai funcionar",
     "d": "Transmissão de vídeo ao vivo em viagens da Uber para adolescentes Divulgação/Uber A Uber anunciou nesta quarta-feira (9) que seu aplicativo terá transmissão de vídeo ao vivo para pais e responsáveis por adolescentes a…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/uber-video-ao-vivo-pais-adolescentes.ghtml",
     "time": "2026-09-09T13:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja o que disseram os presidenciáveis sobre a decisão de Dino que devolveu Andrei à direção-geral da PF",
-    "d": "André Mendonça, STF, Andrei Passos, PF e Flávio Dino, STF Andressa Anholete/Agência Senado, Luiz Silveira e Gustavo Moreno/STF O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quarta-feira (…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-decisao-dino-andrei-direcao-pf.ghtml",
-    "time": "2026-09-09T12:58:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin tem de acabar com guerra de liminares no STF que atropelam sua autoridade, dizem colegas",
-    "d": "Depois da decisão do ministro do Supremo Tribunal Federal (STF) Flávio Dino que reintegrou Andrei Passos Rodrigues ao comando da Polícia Federal (PF), ministros da Corte avaliam reservadamente que o presidente do trib…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/09/fachin-tem-de-acabar-com-guerra-de-liminares-no-stf-que-atropelam-sua-autoridade-dizem-colegas.ghtml",
-    "time": "2026-09-09T12:57:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Reintegração de diretor da PF: veja os principais argumentos de Dino para reverter decisão de Mendonça sobre Andrei Rodrigues",
-    "d": "Dino determina reintegração de diretor-geral da PF, Andrei Rodrigues O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quarta-feira (9) a reintegração de Andrei Rodrigues ao comando da Políci…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/reintegracao-de-diretor-da-pf-veja-os-principais-argumentos-de-dino-para-reverter-decisao-de-mendonca-sobre-andrei-rodrigues.ghtml",
-    "time": "2026-09-09T12:37:58.000Z"
   },
   {
     "cat": "brasil",
@@ -224,46 +408,6 @@
     "time": "2026-09-09T12:06:40.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja o que é #FATO e o que é #FAKE nos debates de candidatos ao Senado por Minas Gerais no g1",
-    "d": "A partir da esquerda, candidatos ao Senado por MG em 2026: Aécio Neves (PSDB), Arcanjo Pimenta (MDB), Áurea Carolina (PSOL), Carlin Moura (Avante), Domingos Sávio (PL), Manoel Carvalho (MDB) e Marcelo Aro (PP) Gledsto…",
-    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-nos-debates-de-candidatos-ao-senado-por-minas-gerais-no-g1.ghtml",
-    "time": "2026-09-09T12:04:38.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar opera em alta com petróleo acima de US$ 100; Ibovespa cai com cenário político no foco",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta terça-feira (9), com um avanço de 0,21% perto das 11h, cotado a R$ 5,0962. Já o Ibovespa, principal índice da bolsa brasileira, caía 0,36% n…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/09/dolar-ibovespa.ghtml",
-    "time": "2026-09-09T12:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Dino reverte afastamento de cúpula da PF, critica 'decisão em causa própria' e aponta risco a investigações do caso 'Dark Horse'",
-    "d": "Dino determina reintegração de diretor-geral da PF, Andrei Rodrigues O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quarta-feira (9) a imediata reintegração de Andrei Rodrigues ao cargo de…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/dino-reintegracao-andrei.ghtml",
-    "time": "2026-09-09T11:55:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Disputa no STF puxa governo Lula para crise, e ala da campanha defende tomar distância de Moraes",
-    "d": "Disputa no STF puxa governo Lula para crise, e ala da campanha defende tomar distância de Moraes A crise no Supremo Tribunal Federal (STF) puxa agora o governo Lula para o centro da disputa — e não apenas do ponto de…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/disputa-no-stf-puxa-governo-lula-para-crise.ghtml",
-    "time": "2026-09-09T11:44:32.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Messi acerta compra de time da 2ª divisão da Espanha e amplia negócios no futebol",
-    "d": "Messi se aposenta da seleção argentina O astro argentino Lionel Messi chegou a um acordo de princípio para comprar o C.D. Eldense, clube da segunda divisão espanhola, e ampliar seus negócios no futebol. O jogador de 3…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/09/messi-compra-time-da-segunda-divisao-da-espanha.ghtml",
-    "time": "2026-09-09T11:30:54.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "N Korea has built two-storey uranium enrichment facility, says watchdog",
@@ -272,28 +416,12 @@
     "time": "2026-09-09T11:29:59.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Petróleo supera US$ 100 pela primeira vez em mais de um mês com aumento das tensões no Oriente Médio",
-    "d": "Petróleo volta a superar US$ 100 com escalada das tensões no Oriente Médio Maryorin Mendez/AFP O petróleo voltou a superar os US$ 100 nesta quarta-feira (9), em meio à escalada das tensões no Oriente Médio. É a primei…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/09/petroleo-oriente-medio.ghtml",
-    "time": "2026-09-09T11:21:31.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Colombia's new president loosens gun control rules",
     "d": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
     "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-09T11:01:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ex-pesquisador da OpenAI e da Anthropic acusa empresas de 'brincar com vidas'",
-    "d": "O pesquisador de inteligência artificial Jacob Coxon X/Reprodução Um pesquisador de inteligência artificial que deixou a OpenAI para trabalhar na Anthropic, por considerá-la mais prudente, abandonou a indústria na ter…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/ex-pesquisador-da-openai-e-da-anthropic-acusa-empresas-de-brincar-com-vidas.ghtml",
-    "time": "2026-09-09T11:00:39.000Z"
   },
   {
     "cat": "economia",
@@ -306,34 +434,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Russia and Ukraine exchange strikes as two killed at Moldova border",
-    "d": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T10:59:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "CNI, Fiesp e outras entidades empresariais cobram em manifesto sessão pública e resposta urgente do STF à crise",
-    "d": "Manifesto cobra respostas sobre crise no STF Entidades empresariais divulgaram nesta quarta-feira (9) um manifesto em que cobram que o Supremo Tribunal Federal (STF) examine, em sessão pública e com urgência, os fatos…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/entidades-empresariais-manifesto-stf.ghtml",
-    "time": "2026-09-09T10:36:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
     "d": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-09T10:20:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Escalada da guerra interna no tribunal politizado': o que disse a imprensa internacional sobre afastamento do diretor da PF",
-    "d": "Segundo agência AP, o conflito no STF 'arrasta o governo' de Lula 'para o turbilhão que antecede as eleições'.",
-    "link": "https://www.bbc.com/portuguese/articles/cj9xw7mz1d4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T10:02:09.000Z"
   },
   {
     "cat": "internacional",
@@ -342,22 +446,6 @@
     "d": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
     "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-09T09:58:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-    "d": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T09:47:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-    "d": "Brent crude up by close to 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities Business live – latest updates The price of oil has risen above $100 a barrel for the first time since Jul…",
-    "link": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-    "time": "2026-09-09T09:27:07.000Z"
   },
   {
     "cat": "brasil",
@@ -369,59 +457,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-    "d": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-    "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T08:21:39.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Family of British man found dead in Grenada ask local police to work with UK investigators",
     "d": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK poli…",
     "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
     "time": "2026-09-09T08:00:03.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Baby orangutans found in Indian forest spark trafficking inquiry",
-    "d": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T07:44:20.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Indústrias e grandes empresas vão investir R$ 1,1 bi em expansão e novos negócios em São Mateus",
-    "d": "20 empresas devem atrair R$ 1,1 bi em investimentos privados para São Mateus A cidade de São Mateus, no Norte do Espírito Santo, se prepara para receber mais de R$ 1,1 bilhão em investimentos. São mais de novas 20 emp…",
-    "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/09/industrias-e-grandes-empresas-vao-investir-r-11-bi-em-expansao-e-novos-negocios-em-sao-mateus.ghtml",
-    "time": "2026-09-09T07:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-    "d": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
-    "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T06:42:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Infestação de mosca-do-estábulo provoca mortes de animais e causa prejuízos a pecuaristas em SP",
-    "d": "Rebanho sofre com o ataque da mosca do estábulo Pecuaristas do noroeste de São Paulo enfrentam uma grave crise provocada por uma forte infestação de mosca-do-estábulo. O inseto, que ataca o gado para se alimentar de s…",
-    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/09/infestacao-de-mosca-do-estabulo-provoca-mortes-de-animais-e-causa-prejuizos-a-pecuaristas-em-sp.ghtml",
-    "time": "2026-09-09T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Promoções de 9.9: como evitar problemas nas compras em 'datas duplas' das lojas",
-    "d": "Carrinho de compras KarolinaA Grabowskakaboompics/Pexels Todo mês, a mesma história se repete: as lojas on-line fazem promoções das chamadas \"datas duplas\" – como 9.9, 10.10 ou 11.11, por exemplo. Mas, com grandes ofe…",
-    "link": "https://g1.globo.com/guia/guia-de-compras/promocoes-de-99-como-evitar-problemas-nas-compras-em-datas-duplas-das-lojas.ghtml",
-    "time": "2026-09-09T06:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -433,35 +473,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hong Kong's first leader after British handover dies",
-    "d": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
-    "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T04:24:30.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Babies born to anaemic mothers have smaller brains, study finds",
     "d": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to moveme…",
     "link": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
     "time": "2026-09-09T04:00:58.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Apple deve lançar primeiro iPhone dobrável nesta quarta; relembre as mudanças de gerações passadas",
-    "d": "Fachada da loja da Apple em Manhattan, em Nova York, em 21 de julho de 2015 REUTERS/Mike Segar A Apple deve anunciar nesta quarta-feira (9) uma das maiores mudanças no iPhone em anos. Segundo fontes da Bloomberg e do…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-deve-lancar-primeiro-iphone-dobravel-nesta-quarta.ghtml",
-    "time": "2026-09-09T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "EUA vão proibir importação de laticínios, bebidas alcoólicas e motocicletas do Canadá",
-    "d": "O presidente dos EUA, Donald Trump, em entrevista no Salão Oval da Casa Branca, em 2 de setembro de 2026. Evelyn Hockstein/ Reuters O governo do presidente Donald Trump irá proibir, a partir de 29 de setembro, a impor…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/08/eua-canada-importacao.ghtml",
-    "time": "2026-09-09T00:22:30.000Z"
   },
   {
     "cat": "internacional",
@@ -478,22 +494,6 @@
     "d": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House s…",
     "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
     "time": "2026-09-08T23:59:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Delegados da PF temem 'efeito cascata' e impacto duradouro da guerra Moraes-Mendonça na corporação",
-    "d": "Agentes ouvidos pela BBC News Brasil dizem temer que crise no STF enfraqueça a PF, atinja carreiras de integrantes da corporação e produza efeitos duradouros sobre sua autonomia institucional.",
-    "link": "https://www.bbc.com/portuguese/articles/c2l8704v88zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T22:53:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues",
-    "d": "A decisão foi publicada cinco dias depois do pedido de investigação feito pelo ministro Alexandre de Moraes contra Mendonça.",
-    "link": "https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T22:28:15.000Z"
   },
   {
     "cat": "brasil",
@@ -590,29 +590,5 @@
     "d": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking n…",
     "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
     "time": "2026-09-05T18:00:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Maria Bartiromo’s lawyer denies she was fired from Fox News anchor role",
-    "d": "Fox announced host’s departure Thursday but gave no explanation, only saying it was effective immediately Maria Bartiromo’s lawyer sharply denied that she was fired from her job at Fox News on Friday, after reports th…",
-    "link": "https://www.theguardian.com/media/2026/sep/04/maria-bartiromo-lawyer-denies-fox-news-firing",
-    "time": "2026-09-04T17:56:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "UN votes to adopt new world map that shows Africa’s true scale",
-    "d": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional…",
-    "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-    "time": "2026-09-04T16:49:29.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-    "d": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising interest rates on US government debt,…",
-    "link": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
-    "time": "2026-09-04T16:49:28.000Z"
   }
 ]
