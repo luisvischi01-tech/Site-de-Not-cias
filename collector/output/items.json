@@ -1,5 +1,277 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iran war won't end until after crucial November elections, says Trump",
+    "d": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T05:56:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Deadly Philippines ferry fire triggers search for scores of missing",
+    "d": "Multiple search and rescue vessels deployed after blaze off Palawan island leaves at least five dead, says coast guard A large-scale ⁠search and rescue operation ​is under way off the western Philippine island of Pala…",
+    "link": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
+    "time": "2026-09-10T05:54:14.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+    "d": "Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge A Hong Kong court has convicted the publisher of the Wall Street Journal of deterri…",
+    "link": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+    "time": "2026-09-10T05:31:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como x RB Leipzig: horário e onde assistir ao jogo da Champions League",
+    "d": "Equipes se enfrentam nesta quinta-feira (10), às 16h (de Brasília)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/como-x-rb-leipzig-horario-e-onde-assistir-ao-jogo-da-champions-league/",
+    "time": "2026-09-10T05:00:09.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "g1 20 anos: férias na Lua, robôs e IA substituindo o celular podem fazer parte da sua vida até 2046",
+    "d": "Como será a tecnologia até 2046? Robôs, IA e até férias na Lua podem fazer parte do futuro Orkut, Twitter, a expansão da internet banda larga, Walkman, celulares com câmera digital e CyberShot estavam entre os temas q…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/g1-20-anos-como-fica-a-tecnologia.ghtml",
+    "time": "2026-09-10T05:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fenerbahçe x Roma: horário e onde assistir ao jogo da Champions League",
+    "d": "Equipes se enfrentam nesta quinta-feira (10), às 13h45 (de Brasília)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/fenerbahce-x-roma-horario-e-onde-assistir-ao-jogo-da-champions-league/",
+    "time": "2026-09-10T04:45:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PSV x Shakhtar Donetsk: horário e onde assistir ao jogo da Champions League",
+    "d": "Equipes se enfrentam nesta quinta-feira (10), às 13h45 (de Brasília)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/psv-x-shakhtar-donetsk-horario-e-onde-assistir-ao-jogo-da-champions-league-2/",
+    "time": "2026-09-10T04:45:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Senado em SP: debate tem discussões sobre segurança e reforma no STF",
+    "d": "Candidatos também falaram maioridade penal, escala 6x1 e concessões",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/senado-em-sp-debate-tem-discussoes-sobre-seguranca-e-reforma-no-stf/",
+    "time": "2026-09-10T04:39:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula diz que não quer Trump interferindo em eleições e TSE com “falcatrua”",
+    "d": "Em comício, petista cita possível ingerência do EUA no processo eleitoral e cita soberania do Brasil: \"Nós somos pobres, mas somos orgulhos\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-nao-quer-trump-interferindo-em-eleicoes-e-tse-com-falcatrua/",
+    "time": "2026-09-10T04:37:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+    "d": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T04:08:07.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention",
+    "d": "He covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+    "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T04:07:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801",
+    "d": "Na manhã da quarta-feira (9), o ministro Flávio Dino suspendeu os efeitos da determinação do também ministro André Mendonça para afastar Andrei Rodrigues da Direção-Geral da Polícia Federal e Leandro Almada do departa…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml",
+    "time": "2026-09-10T03:54:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Guerra Moraes x Mendonça: o que Fachin decidiu e o que acontece agora com os ministros do STF",
+    "d": "Presidente do STF derrubou decisões de ministros sobre a Polícia Federal e retirou relatoria do inquérito das Fake News de Moraes. Para especialistas entrevistados pela BBC News Brasil, Fachin tenta retomar solidez da…",
+    "link": "https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T03:52:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fernando Diniz reclama de falta no gol do Estudiantes contra o Corinthians",
+    "d": "Equipes empataram nesta quarta-feira (9), na Argentina, pelo confronto de ida das quartas de final da Copa Libertadores da América",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/fernando-diniz-reclama-de-falta-no-gol-do-estudiantes-contra-o-corinthians/",
+    "time": "2026-09-10T03:46:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estudiantes 1 x 1 Corinthians: veja os melhores momentos pela Libertadores",
+    "d": "Equipes empataram nesta quarta-feira (9), em La Plata, pela partida de ida das quartas de final do torneio continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/estudiantes-1-x-1-corinthians-veja-os-melhores-momentos-pela-libertadores/",
+    "time": "2026-09-10T03:23:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
+    "d": "Veja a linha do tempo da crise iniciada após a publicação de troca de mensagens entre o ex-banqueiro Daniel Vorcaro e um número telefônico atribuído a Alexandre de Moraes.",
+    "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T03:16:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Incêndio em balsa deixa cinco mortos e 80 desaparecidos nas Filipinas",
+    "d": "Quarenta e três pessoas foram resgatadas; causa do início do fogo está sendo investigada",
+    "link": "https://www.cnnbrasil.com.br/internacional/incendio-em-balsa-deixa-mortos-e-desaparecidos-nas-filipinas/",
+    "time": "2026-09-10T03:15:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Crise do STF nas campanhas: Flávio Bolsonaro intensifica ataques a Moraes, e parte da campanha de Lula defende distância do ministro",
+    "d": "Presidente Luiz Inácio Lula da Silva (PT) e senador Flávio Bolsonaro (PL-RJ) Reprodução A crise no Supremo Tribunal Federal (STF) entrou no centro da disputa presidencial e levou as campanhas de Lula (PT) e Flávio Bol…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/crise-no-stf-campanhas-flavio-bolsonaro-e-lula.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: veja quem são os candidatos a presidente, governador, senador e deputados em todo o Brasil",
+    "d": "Eleições 2026 - Candidatos a Presidente O g1 publica reportagens com nome de urna, partido, número de urna e a situação de cada candidatura das Eleições 2026 no Tribunal Superior Eleitoral (TSE), organizadas por cargo…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-quem-sao-os-candidatos-a-presidente-governador-senador-e-deputados-em-todo-o-brasil.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: O que faz o presidente?",
+    "d": "Os cinco últimos presidentes do Brasil. Palácio do Planalto/Divulgação O presidente da República é o chefe do Poder Executivo federal e a principal autoridade do país. Ele é eleito para um mandato de quatro anos, pode…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-o-que-faz-o-presidente.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula sanciona nesta quinta fim da 'taxa das blusinhas'",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) sanciona nesta quinta-feira (10) a medida provisória (MP) que acaba com a taxa das blusinhas. O texto foi aprovado pelo Congresso Nacional e perderia a validade se não fosse…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/10/lula-sanciona-nesta-quinta-fim-da-taxa-das-blusinhas.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Zelar pela integridade da Corte': Fachin envia recados em meio à crise no STF; veja o que pode acontecer",
+    "d": "Em decisões assinadas nesta quarta-feira (9), o presidente do Supremo Tribunal Federal (STF), Edson Fachin, destacou o papel institucional da Presidência da Corte e a preservação do funcionamento da Corte. em meio à c…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/10/zelar-pela-integridade-da-corte-fachin-envia-recados-em-meio-a-crise-no-stf-veja-o-que-pode-acontecer.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: Quem é obrigado a votar?",
+    "d": "Quem é obrigado a votar? O voto é um direito, e também uma obrigação para a maior parte da população brasileira. Pessoas alfabetizadas com mais de 18 anos e menos de 70 anos precisam votar nas eleições. Quem tem voto…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/10/quem-e-obrigado-a-votar.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Newsletter Eleições 2026: receba as principais notícias da corrida eleitoral no seu e-mail",
+    "d": "O g1 publica toda terça-feira uma newsletter com a cobertura completa das Eleições 2026. O boletim resume o que você precisa saber sobre os candidatos e as propostas que eles têm para o país e o seu estado antes de ir…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/newsletter-eleicoes-2026-receba-as-principais-noticias-da-corrida-eleitoral-no-seu-e-mail.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Como ser candidato? Veja idade mínima e outros requisitos para cada cargo",
+    "d": "Urna eletrônica Divulgação Quem disputa um cargo nas eleições de 2026 cumpre requisitos além da idade mínima exigida pela Constituição. Existe uma série de exigências que são feitas para que uma pessoa tenha elegibili…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/como-ser-candidato-veja-idade-minima-e-outros-requisitos-para-cada-cargo.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Gás do Povo: quem recebe o voucher de setembro e como consultar pelo CPF",
+    "d": "'Gás do Povo': recarga gratuita de botijão começa na segunda (24) em Teresina; veja como vai funcionar Divulgação O voucher do Gás do Povo de setembro será disponibilizado nesta quinta-feira (10) para as famílias que…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/10/gas-do-povo-quem-recebe-o-voucher-de-setembro-e-como-consultar-pelo-cpf.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Capinha de novo iPhone dobrável chama atenção pelo preço; veja detalhes",
+    "d": "Capinha para iPhone Duo com suporte Divulgação/Apple Além do iPhone Duo, celular dobrável que custa até R$ 30.999, a Apple lançou na quarta-feira (9) novas capinhas que também chamaram atenção pelos preços, que chegam…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/capinha-de-novo-iphone-dobravel-chama-atencao-pelo-preco-veja-detalhes.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 76 milhões nesta quinta-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.056 da Mega-Sena pode pagar um prêmio de R$ 70 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (10), em São Paulo. 📱Favori…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/10/mega-sena-pode-pagar-r-76-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Apple aumenta preços de iPhones antigos mesmo com chegada de novas versões; veja reajustes",
+    "d": "iPhone Duo: Apple lança seu primeiro celular dobrável A Apple aumentou os preços de versões antigas do iPhone nesta quarta-feira (9), após revelar seus novos iPhone Duo, 18 Pro e 18 Pro Max. Com a revisão, celulares a…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/apple-aumenta-precos-de-iphones-antigos-mesmo-com-chegada-de-novas-versoes-veja-reajustes.ghtml",
+    "time": "2026-09-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Deyverson revela sonho de se aposentar no Palmeiras: “Quem sabe”",
+    "d": "Atacante garantiu que não comemorará se marcar contra o time alviverde no segundo jogo das quartas de final da Copa Libertadores da América",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/deyverson-revela-sonho-de-se-aposentar-no-palmeiras-quem-sabe/",
+    "time": "2026-09-10T02:59:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Salão de Baile da Casa Branca vai superar Grande Salão da China, diz Trump",
+    "d": "Projeto, com área de quase 8.300 metros quadrados, recebeu permissão da Suprema Corte para prosseguir as construções",
+    "link": "https://www.cnnbrasil.com.br/internacional/salao-de-baile-da-casa-branca-vai-superar-grande-salao-da-china-diz-trump/",
+    "time": "2026-09-10T02:50:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Corinthians quebra jejum como visitante na Libertadores que durava 14 anos",
+    "d": "Timão empatou jogando fora de casa e agora decide a vaga na Neo Química Arena",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/corinthians-quebra-jejum-como-visitante-na-libertadores-que-durava-14-anos/",
+    "time": "2026-09-10T02:35:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump cita “movimentação” na Montanha Pickaxe, no Irã, e ameaça atacá-la",
+    "d": "Local é suspeito de abrigar instalações nucleares iranianas perto do complexo de Natanz, a cerca de 225 quilÔmetros de Teerã",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-cita-movimentacao-na-montanha-pickaxe-no-ira-e-ameaca-ataca-la/",
+    "time": "2026-09-10T02:31:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que inquérito das Fake News gerou tanta polêmica",
+    "d": "O presidente do STF, Edson Fachin, decidiu nesta quarta-feira (09/09) assumir a relatoria do polêmico inquérito.",
+    "link": "https://www.bbc.com/portuguese/articles/c74k1gkl14eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T02:31:44.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "'Não venha o tribunal eleitoral querer falcatrua', diz Lula após citar possível interferência dos EUA nas eleições",
@@ -8,100 +280,12 @@
     "time": "2026-09-10T01:07:42.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Richarlison deve pedir rescisão no Tottenham para assinar com o Vasco",
-    "d": "Estafe do jogador cogita levar o caso à Justiça para encerramento do vínculo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/richarlison-deve-pedir-rescisao-no-tottenham-para-assinar-com-o-vasco/",
-    "time": "2026-09-10T00:53:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ação pede que depósitos judiciais no BRB entrem na cobertura do FGC",
-    "d": "Intenção da petição é anular o dispositivo do regulamento do órgão que exclui depósitos judiciais da cobertura ordinária de até R$ 250 mil por titular",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/acao-pede-que-depositos-judiciais-no-brb-entrem-na-cobertura-do-fgc/",
-    "time": "2026-09-10T00:53:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem é Wilson Grassi, candidato do partido Democrata",
-    "d": "Empresário e médico veterinário, implantou o primeiro hospital público para pets no Brasil",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-wilson-grassi-candidato-do-partido-democrata/",
-    "time": "2026-09-10T00:47:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leilão do aeroporto de Brasília é marcado para 17 de dezembro",
-    "d": "Medida foi costurada pela agência junto com o TCU e a Secretaria Nacional de Aviação Civil",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/leilao-do-aeroporto-de-brasilia-e-marcado-para-17-de-dezembro/",
-    "time": "2026-09-10T00:35:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "OAB pede que Gonet não atue em processo sobre Moraes e Vorcaro",
-    "d": "Entidade diz que procurador-geral foi chamado a prestar esclarecimentos sobre o caso e pede que substituto legal atue no processo",
-    "link": "https://www.cnnbrasil.com.br/politica/oab-pede-que-gonet-nao-atue-em-processo-sobre-moraes-e-vorcaro/",
-    "time": "2026-09-10T00:26:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras 1 x 0 LDU: veja os melhores momentos do jogo pela Libertadores",
-    "d": "Time paulista saiu na frente nas quartas de final da Libertadores",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-1-x-0-ldu-veja-os-melhores-momentos-do-jogo-pela-libertadores/",
-    "time": "2026-09-10T00:26:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda as decisões de Fachin contra Moraes, Mendonça e Dino",
-    "d": "Presidente do Supremo retirou o ministro da relatoria do inquérito das Fake News e suspendeu decisões sobre o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/entenda-as-decisoes-de-fachin-contra-moraes-mendonca-e-dino/",
-    "time": "2026-09-10T00:24:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Menina de 8 anos com doença rara está sem receber medicamento no RJ",
-    "d": "Lara Emanuelly, com síndrome do intestino curto, aguarda teduglutida 5mg após entraves logísticos e judiciais no Rio de Janeiro",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/menina-de-8-anos-com-doenca-rara-esta-sem-receber-medicamento-no-rj/",
-    "time": "2026-09-10T00:23:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caiado muda estratégia na TV e sobe tom contra STF, Lula e Flávio",
-    "d": "Campanha deixará foco em resultados de Goiás e propostas para adotar discurso mais contundente contra grupos políticos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-muda-estrategia-na-tv-e-sobe-tom-contra-stf-lula-e-flavio/",
-    "time": "2026-09-10T00:22:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Memória ruim? Levar choques no rosto pode ajudar, sugere estudo",
-    "d": "Estimulação do nervo trigêmeo na lateral do rosto teria promovido maior conexão entre os neurônios no hipocampo",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/memoria-ruim-levar-choques-no-rosto-pode-ajudar-sugere-estudo/",
-    "time": "2026-09-10T00:21:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Irã pode fazer engenharia reversa de drone submarino capturado dos EUA",
-    "d": "Forças americanas minimizam incidente, mas analistas alertam que os iranianos devem tentar examinar tecnologia",
-    "link": "https://www.cnnbrasil.com.br/internacional/ira-pode-fazer-engenharia-reversa-de-drone-submarino-capturado-dos-eua/",
-    "time": "2026-09-10T00:19:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Santos 2 x 0 Atlético-MG: veja os melhores momentos pela Sul-Americana",
-    "d": "Willian Arão e Christian Oliva marcam na Vila Belmiro, e Peixe leva boa vantagem para o jogo de volta das quartas de final",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/melhores-momentos-santos-2-x-0-atletico-mg-pelas-quartas-da-sul-americana/",
-    "time": "2026-09-10T00:15:22.000Z"
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
+    "d": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ US secretary of state Marco Rubio gave new clarity on the approach toward combating drug trafficking in…",
+    "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
+    "time": "2026-09-10T01:02:42.000Z"
   },
   {
     "cat": "economia",
@@ -129,14 +313,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin tenta retomar controle do STF, freia Mendonça e Dino e impõe revés a Moraes",
-    "d": "Fachin tenta retomar controle do STF ao frear Mendonça, Dino e Moraes O presidente Edson Fachin tenta retomar o controle de um Supremo Tribunal Federal (STF) que, nas últimas semanas, viu a crise entre os seus integra…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/fachin-controle-stf-medonca-dino-moraes.ghtml",
-    "time": "2026-09-09T23:13:44.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O engenheiro da Anthropic que alertou para o risco de a IA exterminar a humanidade",
     "d": "Evan Hubinger fez o mais recente de uma série de alertas cada vez mais contundentes sobre a ameaça à segurança representada pela inteligência artificial",
@@ -152,28 +328,12 @@
     "time": "2026-09-09T22:51:05.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja o que é #FATO e o que é #FAKE na entrevista de William Siri a 'O Globo', 'Extra', 'Valor' e CBN",
-    "d": "William Siri (PSOL), ao centro, participa de sabatina de 'O Globo', 'Extra', 'Valor' e CBN com os candidatos ao governo do Rio Ana Branco/Agência O Globo O candidato ao governo do Rio pelo PSOL, William Siri, foi entr…",
-    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-william-siri-a-o-globo-extra-valor-e-cbn.ghtml",
-    "time": "2026-09-09T22:38:24.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Notorious Ecuadorian crime gang designated a terrorist group by US",
     "d": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live b…",
     "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
     "time": "2026-09-09T22:19:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caiado pede a Fachin fim do sigilo de investigações sobre Banco Master e INSS",
-    "d": "Fachin suspende decisões de Dino e Mendonça; Andrei segue como diretor da PF O candidato à Presidência da República Ronaldo Caiado (PSD) protocolou nesta quarta-feira (9) uma petição no Supremo Tribunal Federal (STF)…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/09/caiado-pede-a-fachin-fim-do-sigilo-de-investigacoes-sobre-banco-master-e-inss.ghtml",
-    "time": "2026-09-09T22:09:54.000Z"
   },
   {
     "cat": "brasil",
@@ -190,46 +350,6 @@
     "d": "Apple lança iPhone Duo, seu primeiro celular dobrável, e os novos 18 Pro e Pro Max Big tech também anunciou novos Apple Watches e AirPods 5, além de trazer novidades nas câmeras dos iPhones. Empresa lançou nesta quart…",
     "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
     "time": "2026-09-09T22:05:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ministério da Justiça diz que PF seguirá com 'independência', AGU que Fachin 'restaura a ordem pública'; a reação à decisão do STF",
-    "d": "Fachin suspende decisões de Dino e Mendonça; Andrei segue como diretor da PF A Advocacia-Geral da União (AGU) e o Ministério da Justiça e Segurança Pública divulgaram notas em reação à decisão do presidente do Supremo…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/decisao-fachin-mendonca-dino-repercussao.ghtml",
-    "time": "2026-09-09T21:45:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Presidenciáveis reagem à decisão de Fachin que mantém Andrei na PF e tira Moraes do inquérito das fake news",
-    "d": "Edson Fachin na abertura dos trabalhos do segundo semestre no STF Gustavo Moreno/STF Os candidatos à Presidência da República começaram a reagir à decisão do presidente do Supremo Tribunal Federal (STF) que suspendeu…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-reacao-decisao-de-fachin-andrei-pf-moraes.ghtml",
-    "time": "2026-09-09T21:43:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PF manda intimar Galípolo, Campos Neto e André Esteves para dar depoimentos sobre Banco Master",
-    "d": "A Polícia Federal (PF) determinou a intimação do atual presidente do Banco Central, Gabriel Galípolo e do ex-presidente da instituição Roberto Campos Neto sobre a fiscalização do Banco Master. O ofício foi assinado em…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/pf-manda-intimar-galipolo-campos-neto-e-andre-esteves-para-dar-depoimentos-sobre-banco-master.ghtml",
-    "time": "2026-09-09T21:43:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que inquérito das Fake News gerou tanta polêmica",
-    "d": "O presidente do STF, Edson Fachin, decidiu nesta quarta-feira (09/09) assumir a relatoria do polêmico inquérito.",
-    "link": "https://www.bbc.com/portuguese/articles/c74k1gkl14eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T21:36:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Guerra Moraes x Mendonça: o que Fachin decidiu e o que acontece agora com os ministros do STF",
-    "d": "Ministro derrubou decisões de ministros sobre Polícia Federal, retirou inquérito das Fake News de Moraes e paralisou investigação contra esse ministro que estava com André Mendonça",
-    "link": "https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T21:34:52.000Z"
   },
   {
     "cat": "brasil",
@@ -258,58 +378,10 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
-    "d": "Veja a linha do tempo da crise iniciada após a publicação de troca de mensagens entre o ex-banqueiro Daniel Vorcaro e um número telefônico atribuído a Alexandre de Moraes.",
-    "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T20:49:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Inquérito das fake news: relembre decisões que marcaram a investigação que passa de Moraes para Fachin",
-    "d": "Fachin tira Moraes da relatoria do inquérito das Fake News e assume caso Aberto há 7 anos para investigar ataques, ameaças e notícias falsas contra o Supremo Tribunal Federal (STF), o chamado inquérito das fake news a…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/inquerito-das-fake-news-relembre-decisoes-que-marcaram-a-investigacao-que-passa-de-moraes-para-fachin.ghtml",
-    "time": "2026-09-09T20:42:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
     "h": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos — e a acusação feita por dois pesquisadores sobre a empresa",
     "d": "A divulgação de que a OpenAI conseguiu resolver partes das equações de Navier-Stokes gerou controvérsia rapidamente.",
     "link": "https://www.bbc.com/portuguese/articles/cnvl794g7l3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-09T20:31:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-    "d": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T20:28:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iran referred to UN Security Council for nuclear non-compliance",
-    "d": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T20:22:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin tira Moraes da relatoria do inquérito das Fake News e assume caso em meio à crise no STF",
-    "d": "Fachin suspende decisões de Dino e Mendonça; Andrei segue como diretor da PF O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, assumiu nesta quarta-feira (9) a relatoria do inquérito das Fake News…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/fachin-assume-relatoria-do-inquerito-das-fake-news.ghtml",
-    "time": "2026-09-09T20:21:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin convoca plenário do STF para analisar decisão de Mendonça sobre suposta relação de Moraes com Vorcaro",
-    "d": "Edson Fachin na abertura dos trabalhos do segundo semestre no STF Gustavo Moreno/STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, convocou o plenário da Corte para discutir na próxima terça-feira (15)…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/fachin-convoca-plenario-do-stf-para-analisar-decisao-de-mendonca-sobre-suposta-relacao-de-moraes-com-vorcaro.ghtml",
-    "time": "2026-09-09T20:20:09.000Z"
   },
   {
     "cat": "economia",
@@ -360,28 +432,12 @@
     "time": "2026-09-09T18:20:24.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
-    "d": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug taking What may be the earliest known evidence for human drug taking has been tra…",
-    "link": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
-    "time": "2026-09-09T18:00:02.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Apple lança o iPhone Duo, primeiro celular dobrável da marca, por até R$ 30.999",
     "d": "iPhone Duo: Apple lança seu primeiro celular dobrável A Apple apresentou nesta quarta-feira (9) o iPhone Duo, com preços que partem de R$ 21.999 e vão R$ 30.999, dependendo da capacidade de armazenamento. (veja todos…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
     "time": "2026-09-09T17:54:14.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Quem é o novo CEO da Apple? John Ternus fez 1ª apresentação como chefe da empresa em evento de lançamento dos novos iPhones",
-    "d": "John Ternus será novo CEO da Apple Divulgação/Apple John Ternus, de 50 anos, fez sua primeira apresentação de lançamento da Apple como CEO da marca nesta quarta-feira (9). Em sua sede em Cupertino, na Califórnia, o ev…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/quem-e-o-novo-ceo-da-apple-john-ternus.ghtml",
-    "time": "2026-09-09T17:33:39.000Z"
   },
   {
     "cat": "brasil",
@@ -400,14 +456,6 @@
     "time": "2026-09-09T17:06:48.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Apple lança primeiro iPhone dobrável e novos 18 Pro e Pro Max; veja as novidades e preços no Brasil",
-    "d": "iPhone Duo: Apple lança seu primeiro celular dobrável A Apple revelou nesta quarta-feira (9), em seu evento anual de lançamentos, o iPhone Duo, o primeiro celular dobrável da marca. A empresa também apresentou os novo…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-18-lancamento.ghtml",
-    "time": "2026-09-09T17:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -416,36 +464,12 @@
     "time": "2026-09-09T16:46:53.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Brasil pode ficar com até 40% da nova cota de importação de carne bovina dos EUA; entenda",
-    "d": "Pará pode sentir efeitos da proibição da exportação de carne bovina para o mercado europeu A nova cota de importação de carne bovina aberta pelo presidente dos Estados Unidos, Donald Trump, pode garantir ao Brasil até…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/09/brasil-eua-cota-carne.ghtml",
-    "time": "2026-09-09T16:45:31.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Europe's royalty pay respects to King Harald V in Norway",
     "d": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
     "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-09T16:30:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "EUA acusam empresas chinesas de usar IA americana para acelerar desenvolvimento; China rebate",
-    "d": "Agora no g1 O governo dos Estados Unidos acusou nesta terça-feira (8) empresas chinesas de inteligência artificial de usar uma técnica conhecida como destilação para extrair capacidades de modelos americanos e acelera…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/eua-acusam-empresas-chinesas-de-usar-ia-americana-para-acelerar-desenvolvimento-china-rebate-e-fala-em-dois-pesos-e-duas-medidas.ghtml",
-    "time": "2026-09-09T16:16:58.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Nova CNH: STF arquiva ação e permite uso de carro particular no exame de direção",
-    "d": "Detran-RJ alerta motoristas de CNH C, D e E sobre exame toxicológico O Supremo Tribunal Federal (STF) arquivou a ação que questionava a possibilidade de usar carros particulares em aulas práticas e no exame de direção…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/09/nova-cnh-carro-particular-stf.ghtml",
-    "time": "2026-09-09T15:28:18.000Z"
   },
   {
     "cat": "internacional",
@@ -489,14 +513,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Family of killed teen call for death penalty in D4vd trial",
-    "d": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-    "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T09:58:48.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Family of British man found dead in Grenada ask local police to work with UK investigators",
     "d": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK poli…",
@@ -522,14 +538,6 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Singapore boosts PM’s salary by $1m amid major pay rise for ministers",
-    "d": "The affluent city-state has justified high-end salaries for its political leaders, arguing they attract talent and ensure good governance Singapore’s prime minister has been given a $1m pay rise as the affluent city-s…",
-    "link": "https://www.theguardian.com/world/2026/sep/09/singapore-pm-ministers-salary-pay-rise",
-    "time": "2026-09-09T00:00:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
     "h": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
     "d": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House s…",
     "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
@@ -550,14 +558,6 @@
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-08T15:54:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
-    "d": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a tra…",
-    "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-    "time": "2026-09-08T04:00:59.000Z"
   },
   {
     "cat": "internacional",
