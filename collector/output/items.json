@@ -1,11 +1,299 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como limpar tênis branco encardido usando detergente e pasta de dente",
+    "d": "Combinação de detergente líquido e creme dental remove manchas e amarelamento em calçados de lona, tela e couro sintético sem agredir as fibras",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/como-limpar-tenis-branco-encardido-usando-detergente-e-pasta-de-dente/",
+    "time": "2026-09-10T11:25:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Alexandre de Moraes fará pronunciamento após Fachin marcar sessão em plenário sobre crise no STF",
+    "d": "O pronunciamento de Moraes acontece um dia depois de o presidente do Supremo, ministro Edison Fachin, convocar uma sessão plenária para discutir a grave crise da Corte.",
+    "link": "https://www.bbc.com/portuguese/articles/c9qrn7rpy47o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T11:24:37.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "iOS 27 turbinado com IA será liberado na próxima segunda; veja iPhones compatíveis",
+    "d": "iPhone Duo: Apple lança seu primeiro celular dobrável A Apple anunciou na terça-feira (9) que o iOS 27, novo sistema operacional dos iPhones, será lançado na próxima segunda-feira (14) para todos os modelos compatívei…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/ios-27-turbinado-com-ia-sera-liberado-na-proxima-segunda-veja-iphones-compativeis.ghtml",
+    "time": "2026-09-10T11:24:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Adversários tentam barrar prefeito muçulmano de cerimônia do 11/9",
+    "d": "Zohran Mamdani, primeiro muçulmano a liderar a cidade, defende sua participação após oposição de adversários políticos e alerta para possível islamofobia",
+    "link": "https://www.cnnbrasil.com.br/internacional/adversarios-tentam-barrar-prefeito-muculmano-de-cerimonia-do-11-9/",
+    "time": "2026-09-10T11:22:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas: JHC tem 49,9% no 2º turno em AL; Renan, 46,7%",
+    "d": "Foram entrevistados 1.208 eleitores entre os dias 4 e 9 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-jhc-tem-499-no-2o-turno-em-al-renan-467/",
+    "time": "2026-09-10T11:21:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Virginia “sai de fininho” da própria festa: “Zero carisma”",
+    "d": "Influenciadora comemorou os 5 anos da marca WePink, mas não aguentou até o fim",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-sai-de-fininho-da-propria-festa-zero-carisma/",
+    "time": "2026-09-10T11:21:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia apreende quase 30 celulares e drogas em unidades prisionais no Rio",
+    "d": "Desde o início da Operação Illicitus, já foram apreendidos mais de 700 celulares, além de 12 visitantes presos ao tentar ingressar com materiais proibidos",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-apreende-quase-30-celulares-e-drogas-em-unidades-prisionais-no-rio/",
+    "time": "2026-09-10T11:11:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Alexandre de Moraes fará pronunciamento após decisões de Fachin em meio à crise no STF",
+    "d": "O ministro Alexandre de Moraes convocou um pronunciamento à imprensa para a manhã desta quinta-feira (10), em meio à crise que envolve o Supremo Tribunal Federal (STF). O gabinete do ministro informou apenas o horário…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/10/alexandre-de-moraes-fara-pronunciamento-apos-decisoes-de-fachin-em-meio-a-crise-no-stf.ghtml",
+    "time": "2026-09-10T11:09:54.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Índia vai pressionar por criação de moeda digital do BRICS apesar de obstáculos, diz agência",
+    "d": "Cédula simbólica dos Brics apresentada em Fórum Econômico de São Petersburgo. Reprodução/Redes sociais A Índia deve pressionar pela integração das moedas digitais emitidas pelos bancos centrais dos países do BRICS par…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/10/india-criacao-moeda-digital-brics.ghtml",
+    "time": "2026-09-10T11:09:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Light anuncia encerramento da recuperação judicial",
+    "d": "Em comunicado, a distribuidora de energia informou que a Justiça do Rio de Janeiro declarou cumpridas todas as obrigações previstas no plano de recuperação judicial",
+    "link": "https://www.cnnbrasil.com.br/infra/light-anuncia-encerramento-da-recuperacao-judicial/",
+    "time": "2026-09-10T11:07:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Spic contrata consórcio chinês para ampliar hidrelétrica na divisa MG-GO",
+    "d": "Expansão está vinculada ao leilão de Capacidade, do qual a empresa foi uma das vencedoras e prevê acréscimo de 310 MW de potência, com início da operação comercial da nova unidade em 2030",
+    "link": "https://www.cnnbrasil.com.br/infra/spic-contrata-consorcio-chines-para-ampliar-hidreletrica-divisa-de-mg-e-go/",
+    "time": "2026-09-10T11:01:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas: JHC tem 49,3% no 1º turno em AL; Renan, 46,4%",
+    "d": "Foram entrevistados 1.208 eleitores entre os dias 4 e 9 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-jhc-tem-493-no-1o-turno-em-al-renan-464/",
+    "time": "2026-09-10T11:00:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 20 dead after fire on cargo ship in eastern China, state media report",
+    "d": "President Xi Jinping has called for urgent search and rescue efforts.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T10:59:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tornados podem atingir áreas de São Paulo, Paraná e MS nesta quinta (10)",
+    "d": "Climatempo aponta risco de tornados, microexplosões, granizo e ventos acima de 90 km/h entre esta quinta (10) e sexta-feira (11)",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/tornados-podem-atingir-areas-de-sao-paulo-parana-e-ms-nesta-quinta-10/",
+    "time": "2026-09-10T10:56:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após Fachin marcar sessão sobre investigação, Moraes anuncia pronunciamento",
+    "d": "Ministro fará declaração pública às 11h nesta quinta (10)",
+    "link": "https://www.cnnbrasil.com.br/politica/apos-fachin-marcar-sessao-sobre-investigacao-moraes-anuncia-pronunciamento/",
+    "time": "2026-09-10T10:55:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Índia recebe cúpula do Brics em meio a divisões sobre guerra no Irã",
+    "d": "Cúpula será realizada em Nova Délhi mais de seis meses depois que Estados Unidos e Israel iniciaram ataques contra o Irã, integrante do Brics desde 2024; principal teste será encontrar consenso para declaração conjunta",
+    "link": "https://www.cnnbrasil.com.br/noticias/india-recebe-cupula-do-brics-em-meio-a-divisoes-sobre-guerra-no-ira/",
+    "time": "2026-09-10T10:54:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Europa operam sem direção definida à espera de juros",
+    "d": "Mercado espera que BCE anuncie alta das taxas na zona do euro em meio às pressões inflacionárias",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-operam-sem-direcao-definida-a-espera-de-juros/",
+    "time": "2026-09-10T10:51:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+    "d": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T10:46:24.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Iran war won't end until after crucial November elections, says Trump",
     "d": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
     "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T05:56:38.000Z"
+    "time": "2026-09-10T10:43:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
+    "d": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
+    "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T10:32:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes",
+    "d": "A convocação de sessão plenária extraordinária aconteceu nesta quarta-feira (9/9), pelo presidente do STF, ministro Edson Fachin, que tomou uma série de decisões para tentar frear a crise na Corte",
+    "link": "https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T10:27:41.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Transpetro prorroga inscrições de concurso com mais de 4 mil vagas e altera data das provas",
+    "d": "Transpetro abre processo seletivo com 4.171 vagas e salários de até R$ 15 mil A Transpetro, empresa de transporte da Petrobras, prorrogou nesta quinta-feira (10) as inscrições dos concursos para as áreas de terra e ma…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/10/transpetro-prorrogra-inscricoes-de-concursos-para-terra-e-mar-e-altera-data-das-provas.ghtml",
+    "time": "2026-09-10T10:27:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quem é Mario Frias, ator que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro",
+    "d": "Mario Frias, secretário especial de Cultura do governo federal Roberto Castro/ Mtur Ator e deputado federal pelo PL de São Paulo, Mario Frias é um dos alvos da operação Make Up, deflagrada nesta quinta-feira (10) pela…",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml",
+    "time": "2026-09-10T10:13:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says every adult American will get $5,000 if Republicans win midterms",
+    "d": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+    "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T10:07:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Caso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente",
+    "d": "Mario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF A operação da Polícia Federal (PF) deflagrada nesta quinta-feira (10) contra suspeitas de desvios de recursos de emendas parlamentares busca i…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-pf-investiga-suspeitas-de-devio-de-emendas-parlamentares.ghtml",
+    "time": "2026-09-10T10:04:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições",
+    "d": "Obra, que é cercada de controvérsias ligadas ao dono do Banco Master, deverá ser lançado só depois das eleições. Veja, em cinco pontos, o que falta ser explicado.",
+    "link": "https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T10:02:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PF faz operação para investigar suposto desvio de emendas para filme 'Dark Horse'",
+    "d": "Mario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF A Polícia Federal cumpre 49 mandados de busca e apreensão nesta quinta-feira (10) em operação relacionada ao financiamento do filme \"Dark Hors…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/10/pf-operacao-dark-horse.ghtml",
+    "time": "2026-09-10T09:52:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Pior crise desde a redemocratização': como imprensa internacional noticiou novo capítulo da guerra no STF",
+    "d": "A agência Bloomberg noticiou que Edson Fachin tomou as medidas \"mais agressivas até o momento\" em sua tentativa de retomar o controle do STF.",
+    "link": "https://www.bbc.com/portuguese/articles/cde0rn1724xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T09:34:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+    "d": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T09:32:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T09:19:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "25 anos do 11 de Setembro: a agonia dos parentes das vítimas, que até hoje aguardam julgamento do 'cérebro' dos atentados",
+    "d": "À medida que se aproxima o 25º aniversário dos piores atentados da história dos EUA, atentados de 11 de setembro de 2001, familiares reclamam da demora em levar autores dos ataques, presos em Guantánamo, à Justiça.",
+    "link": "https://www.bbc.com/portuguese/articles/ckgwjpll9l4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T09:00:53.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+    "d": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+    "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T08:44:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "É #FAKE foto de relatório da PF dizendo não ver crime em conversas de Nikolas Ferreira com Vorcaro; imagem foi criada com IA",
+    "d": "Imagem de relatório falso da PF sobre áudio de conversa entre Nikolas e Vorcaro g1 Circulam nas redes sociais publicações exibindo um suposto documento no qual a Polícia Federal teria dito não haver indícios de crime…",
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/10/e-fake-foto-de-relatorio-da-pf-dizendo-nao-ver-crime-em-conversas-de-nikolas-ferreira-com-vorcaro-imagem-foi-criada-com-ia.ghtml",
+    "time": "2026-09-10T08:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Watch: Is Trump's $5,000 election pledge legal?",
+    "d": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+    "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T07:12:32.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "ES terá um dos menores trechos de rodovia federal do Brasil com a inauguração da BR-447; veja ranking nacional",
+    "d": "Início do novo trecho da BR-447, que vai ligar a BR-101 até a Rodovia Leste-Oeste Fernando Madeira/Rede Gazeta Um novo trecho da BR-447 no Espírito Santo deve ser inaugurado até dezembro deste ano, segundo o governo f…",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/10/es-tera-um-dos-menores-trechos-de-rodovia-federal-do-brasil-com-a-inauguracao-da-br-447-veja-ranking-nacional.ghtml",
+    "time": "2026-09-10T07:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+    "d": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-10T06:30:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+    "d": "Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge A Hong Kong court has convicted the publisher of the Wall Street Journal of deterri…",
+    "link": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+    "time": "2026-09-10T05:57:31.000Z"
   },
   {
     "cat": "internacional",
@@ -16,76 +304,12 @@
     "time": "2026-09-10T05:54:14.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
-    "d": "Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge A Hong Kong court has convicted the publisher of the Wall Street Journal of deterri…",
-    "link": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
-    "time": "2026-09-10T05:31:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como x RB Leipzig: horário e onde assistir ao jogo da Champions League",
-    "d": "Equipes se enfrentam nesta quinta-feira (10), às 16h (de Brasília)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/como-x-rb-leipzig-horario-e-onde-assistir-ao-jogo-da-champions-league/",
-    "time": "2026-09-10T05:00:09.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "g1 20 anos: férias na Lua, robôs e IA substituindo o celular podem fazer parte da sua vida até 2046",
     "d": "Como será a tecnologia até 2046? Robôs, IA e até férias na Lua podem fazer parte do futuro Orkut, Twitter, a expansão da internet banda larga, Walkman, celulares com câmera digital e CyberShot estavam entre os temas q…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/g1-20-anos-como-fica-a-tecnologia.ghtml",
     "time": "2026-09-10T05:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fenerbahçe x Roma: horário e onde assistir ao jogo da Champions League",
-    "d": "Equipes se enfrentam nesta quinta-feira (10), às 13h45 (de Brasília)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/fenerbahce-x-roma-horario-e-onde-assistir-ao-jogo-da-champions-league/",
-    "time": "2026-09-10T04:45:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PSV x Shakhtar Donetsk: horário e onde assistir ao jogo da Champions League",
-    "d": "Equipes se enfrentam nesta quinta-feira (10), às 13h45 (de Brasília)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/psv-x-shakhtar-donetsk-horario-e-onde-assistir-ao-jogo-da-champions-league-2/",
-    "time": "2026-09-10T04:45:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Senado em SP: debate tem discussões sobre segurança e reforma no STF",
-    "d": "Candidatos também falaram maioridade penal, escala 6x1 e concessões",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/senado-em-sp-debate-tem-discussoes-sobre-seguranca-e-reforma-no-stf/",
-    "time": "2026-09-10T04:39:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula diz que não quer Trump interferindo em eleições e TSE com “falcatrua”",
-    "d": "Em comício, petista cita possível ingerência do EUA no processo eleitoral e cita soberania do Brasil: \"Nós somos pobres, mas somos orgulhos\"",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-nao-quer-trump-interferindo-em-eleicoes-e-tse-com-falcatrua/",
-    "time": "2026-09-10T04:37:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-    "d": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T04:08:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention",
-    "d": "He covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
-    "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T04:07:44.000Z"
   },
   {
     "cat": "brasil",
@@ -105,35 +329,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fernando Diniz reclama de falta no gol do Estudiantes contra o Corinthians",
-    "d": "Equipes empataram nesta quarta-feira (9), na Argentina, pelo confronto de ida das quartas de final da Copa Libertadores da América",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/fernando-diniz-reclama-de-falta-no-gol-do-estudiantes-contra-o-corinthians/",
-    "time": "2026-09-10T03:46:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Estudiantes 1 x 1 Corinthians: veja os melhores momentos pela Libertadores",
-    "d": "Equipes empataram nesta quarta-feira (9), em La Plata, pela partida de ida das quartas de final do torneio continental",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/estudiantes-1-x-1-corinthians-veja-os-melhores-momentos-pela-libertadores/",
-    "time": "2026-09-10T03:23:40.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
     "d": "Veja a linha do tempo da crise iniciada após a publicação de troca de mensagens entre o ex-banqueiro Daniel Vorcaro e um número telefônico atribuído a Alexandre de Moraes.",
     "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-10T03:16:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Incêndio em balsa deixa cinco mortos e 80 desaparecidos nas Filipinas",
-    "d": "Quarenta e três pessoas foram resgatadas; causa do início do fogo está sendo investigada",
-    "link": "https://www.cnnbrasil.com.br/internacional/incendio-em-balsa-deixa-mortos-e-desaparecidos-nas-filipinas/",
-    "time": "2026-09-10T03:15:58.000Z"
   },
   {
     "cat": "brasil",
@@ -184,22 +384,6 @@
     "time": "2026-09-10T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Newsletter Eleições 2026: receba as principais notícias da corrida eleitoral no seu e-mail",
-    "d": "O g1 publica toda terça-feira uma newsletter com a cobertura completa das Eleições 2026. O boletim resume o que você precisa saber sobre os candidatos e as propostas que eles têm para o país e o seu estado antes de ir…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/newsletter-eleicoes-2026-receba-as-principais-noticias-da-corrida-eleitoral-no-seu-e-mail.ghtml",
-    "time": "2026-09-10T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Como ser candidato? Veja idade mínima e outros requisitos para cada cargo",
-    "d": "Urna eletrônica Divulgação Quem disputa um cargo nas eleições de 2026 cumpre requisitos além da idade mínima exigida pela Constituição. Existe uma série de exigências que são feitas para que uma pessoa tenha elegibili…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/como-ser-candidato-veja-idade-minima-e-outros-requisitos-para-cada-cargo.ghtml",
-    "time": "2026-09-10T03:00:00.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Gás do Povo: quem recebe o voucher de setembro e como consultar pelo CPF",
@@ -232,54 +416,6 @@
     "time": "2026-09-10T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Deyverson revela sonho de se aposentar no Palmeiras: “Quem sabe”",
-    "d": "Atacante garantiu que não comemorará se marcar contra o time alviverde no segundo jogo das quartas de final da Copa Libertadores da América",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/deyverson-revela-sonho-de-se-aposentar-no-palmeiras-quem-sabe/",
-    "time": "2026-09-10T02:59:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Salão de Baile da Casa Branca vai superar Grande Salão da China, diz Trump",
-    "d": "Projeto, com área de quase 8.300 metros quadrados, recebeu permissão da Suprema Corte para prosseguir as construções",
-    "link": "https://www.cnnbrasil.com.br/internacional/salao-de-baile-da-casa-branca-vai-superar-grande-salao-da-china-diz-trump/",
-    "time": "2026-09-10T02:50:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians quebra jejum como visitante na Libertadores que durava 14 anos",
-    "d": "Timão empatou jogando fora de casa e agora decide a vaga na Neo Química Arena",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/corinthians-quebra-jejum-como-visitante-na-libertadores-que-durava-14-anos/",
-    "time": "2026-09-10T02:35:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump cita “movimentação” na Montanha Pickaxe, no Irã, e ameaça atacá-la",
-    "d": "Local é suspeito de abrigar instalações nucleares iranianas perto do complexo de Natanz, a cerca de 225 quilÔmetros de Teerã",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-cita-movimentacao-na-montanha-pickaxe-no-ira-e-ameaca-ataca-la/",
-    "time": "2026-09-10T02:31:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que inquérito das Fake News gerou tanta polêmica",
-    "d": "O presidente do STF, Edson Fachin, decidiu nesta quarta-feira (09/09) assumir a relatoria do polêmico inquérito.",
-    "link": "https://www.bbc.com/portuguese/articles/c74k1gkl14eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T02:31:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Não venha o tribunal eleitoral querer falcatrua', diz Lula após citar possível interferência dos EUA nas eleições",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) voltou a falar nesta quarta-feira (9) que não aceita a possibilidade de os Estados Unidos interferirem nas eleições do Brasil. Durante discurso em um ato de campanha em Tere…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/nao-venha-o-tribunal-eleitoral-querer-falcatrua-diz-lula-apos-citar-possivel-interferencia-dos-eua-nas-eleicoes.ghtml",
-    "time": "2026-09-10T01:07:42.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
@@ -294,30 +430,6 @@
     "d": "Petrobras Foto Divulgação A Petrobras anunciou nesta quarta-feira (9) que deixará de aplicar um desconto de R$ 0,44 por litro de gasolina A vendido às distribuidoras e fará um ajuste de R$ 0,19 no preço do combustível…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/09/petrobras-preco-gasolina.ghtml",
     "time": "2026-09-09T23:49:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial e em atração de investimentos durante sabatina na Acieg",
-    "d": "Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial Marconi Perillo (PSDB), candidato ao governo de Goiás, defendeu medidas para desburocratizar o setor produtivo, simplificar processos tribu…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-agenda-de-marconi-perillo-de-quarta-feira-9.ghtml",
-    "time": "2026-09-09T23:43:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin dá 48 horas para Andrei prestar informações; presidente ainda vai decidir se diretor fica no cargo",
-    "d": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou nesta quarta-feira (9), em decisão que suspendeu determinações dos ministros André Mendonça e Flávio Dino, que o diretor-geral da Polícia Federal (…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/09/fachin-da-48-horas-para-andrei-prestar-informacoes-presidente-ainda-vai-decidir-se-diretor-fica-no-cargo.ghtml",
-    "time": "2026-09-09T23:39:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O engenheiro da Anthropic que alertou para o risco de a IA exterminar a humanidade",
-    "d": "Evan Hubinger fez o mais recente de uma série de alertas cada vez mais contundentes sobre a ameaça à segurança representada pela inteligência artificial",
-    "link": "https://www.bbc.com/portuguese/articles/cly74j891rxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T23:07:51.000Z"
   },
   {
     "cat": "economia",
@@ -336,28 +448,12 @@
     "time": "2026-09-09T22:19:25.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
-    "d": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
-    "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T22:07:41.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Apple lança iPhone Duo, seu primeiro celular dobrável, e os novos 18 Pro e Pro Max",
     "d": "Apple lança iPhone Duo, seu primeiro celular dobrável, e os novos 18 Pro e Pro Max Big tech também anunciou novos Apple Watches e AirPods 5, além de trazer novidades nas câmeras dos iPhones. Empresa lançou nesta quart…",
     "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
     "time": "2026-09-09T22:05:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Fachin sob pressão: como presidente do STF tenta debelar crise às vésperas de eleição",
-    "d": "Sob críticas por sua atuação, o ministro tomou uma série de medidas contra decisões de seus colegas e convocou reunião do plenário. Para especialistas ouvidos pela BBC News Brasil, Fachin tem ferramentas limitadas par…",
-    "link": "https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T21:33:53.000Z"
   },
   {
     "cat": "internacional",
@@ -368,20 +464,12 @@
     "time": "2026-09-09T21:23:45.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Biocombustível: chuvas atípicas impulsionam preços do etanol mesmo com estoque robusto no mercado paulista, analisa USP",
-    "d": "Cultivo da cana-de-açúcar no interior de São Paulo Claudia Assencio/g1 O clima atípico com maior volume de chuvas do que o previsto desde o fim de agosto, e que se estendeu na primeira semana de setembro de 2026, cont…",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/09/biocombustivel-chuvas-atipicas-impulsionam-precos-do-etanol-em-setembro-mesmo-com-estoque-robusto-no-mercado-paulista-analisa-usp.ghtml",
-    "time": "2026-09-09T20:55:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos — e a acusação feita por dois pesquisadores sobre a empresa",
-    "d": "A divulgação de que a OpenAI conseguiu resolver partes das equações de Navier-Stokes gerou controvérsia rapidamente.",
-    "link": "https://www.bbc.com/portuguese/articles/cnvl794g7l3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T20:31:54.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+    "d": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+    "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T21:21:13.000Z"
   },
   {
     "cat": "economia",
@@ -393,14 +481,6 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Lula assina decreto que reduz tributos sobre gasolina e MP que cria subsídio para diesel",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quarta-feira (9) um decreto que amplia a subvenção à gasolina de R$ 0,44 por litro, ou seja, reduz os tributos incidentes sobre o combustível neste montante. O…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/09/lula-assina-decreto-que-reduz-tributos-sobre-gasolina-e-mp-que-cria-subsidio-para-diesel.ghtml",
-    "time": "2026-09-09T19:30:31.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
     "d": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities The price of oil has risen above $100 a barrel for the first time since July as the escalating conflict i…",
@@ -408,20 +488,12 @@
     "time": "2026-09-09T19:09:13.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Apple lança iPhone dobrável de R$ 30.999 e web reage; veja memes",
-    "d": "iPhone Duo: Apple lança seu primeiro celular dobrável A Apple apresentou nesta quarta-feira (9) o iPhone Duo, seu primeiro celular dobrável, além dos novos iPhone 18 Pro e iPhone 18 Pro Max. A empresa também anunciou…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/iphone-18-memes.ghtml",
-    "time": "2026-09-09T19:02:59.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-    "d": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
-    "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T18:27:35.000Z"
+    "h": "Tate brothers to remain in US jail as they fight extradition to UK",
+    "d": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+    "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-09T19:09:13.000Z"
   },
   {
     "cat": "internacional",
@@ -432,38 +504,6 @@
     "time": "2026-09-09T18:20:24.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Apple lança o iPhone Duo, primeiro celular dobrável da marca, por até R$ 30.999",
-    "d": "iPhone Duo: Apple lança seu primeiro celular dobrável A Apple apresentou nesta quarta-feira (9) o iPhone Duo, com preços que partem de R$ 21.999 e vão R$ 30.999, dependendo da capacidade de armazenamento. (veja todos…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
-    "time": "2026-09-09T17:54:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Elas conseguiram celebrar o primeiro casamento homossexual na Bolívia, um país onde ele não é legalizado",
-    "d": "Scarlett e Fabiana levaram quatro anos para conseguir se casar, embora o casamento entre pessoas do mesmo sexo não tenha sido legalizado na Bolívia",
-    "link": "https://www.bbc.com/portuguese/articles/c86x0d1gveyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T17:23:57.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Google picks Finland for its largest single investment in Europe",
-    "d": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T17:06:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-    "d": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T16:46:53.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Europe's royalty pay respects to King Harald V in Norway",
@@ -472,44 +512,12 @@
     "time": "2026-09-09T16:30:28.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-    "d": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
-    "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T15:01:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-    "d": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-    "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T13:29:33.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-    "d": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T11:29:59.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
     "d": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousan…",
     "link": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
     "time": "2026-09-09T11:00:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-    "d": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-09T10:20:40.000Z"
   },
   {
     "cat": "internacional",
@@ -542,22 +550,6 @@
     "d": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House s…",
     "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
     "time": "2026-09-08T23:59:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Governo cobra do Google retirada de vídeos com falsos médicos de IA após reportagens da BBC e alerta Polícia Federal",
-    "d": "Ministério da Saúde analisou perfis que prometem curas e promovem produtos sem comprovação científica. Conteúdos, revelados pela BBC News Brasil, também motivaram boletim de ocorrência e investigação policial.",
-    "link": "https://www.bbc.com/portuguese/articles/c1wx8q4jzz4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T18:02:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-08T15:54:28.000Z"
   },
   {
     "cat": "internacional",
