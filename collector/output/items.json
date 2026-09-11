@@ -1,11 +1,259 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Fachin dá 24 horas para que Mendonça libere mais documentos do caso Master em meio a críticas sobre 'seletividade'",
+    "d": "Decisão atende a um pedido da PGR. Mais cedo, o ministro Alexandre de Moraes pediu que todos os documentos do caso fossem tornados públicos e disse que Mendonça fez 'escolha seletiva' na retirada de sigilo.",
+    "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T18:44:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após reabilitação, Rafael Cardoso impressiona ao mostrar corpo musculoso",
+    "d": "Ator mostrou evolução do físico depois de se internar para tratar a dependência química",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/apos-reabilitacao-rafael-cardoso-impressiona-ao-mostrar-corpo-musculoso/",
+    "time": "2026-09-11T18:29:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Andrei nega monitoramento de Mendonça e defende relatórios da PF",
+    "d": "Diretor-geral afirma a Fachin que documentos eram análises regulares de inteligência e foram enviados ao STF por ordem de Moraes",
+    "link": "https://www.cnnbrasil.com.br/politica/andrei-nega-monitoramento-de-mendonca-e-defende-relatorios-da-pf/",
+    "time": "2026-09-11T18:23:17.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
-    "h": "Moraes fala em 'escolha seletiva' e pede a Fachin retirada de sigilo de todos documentos do caso Master",
-    "d": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), encaminhou nesta sexta-feira (11) um ofício ao presidente da Corte, ministro Luiz Edson Fachin, no qual cita uma \"escolha seletiva\" no levantamento do…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/moraes-fala-em-escolha-seletiva-e-pede-a-fachin-retirada-de-sigilo-de-todos-documentos-do-caso-master.ghtml",
-    "time": "2026-09-11T15:12:12.000Z"
+    "h": "Andrei diz a Fachin que PF não monitorou André Mendonça e defende relatório contra ministro",
+    "d": "O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou ao ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), que a corporação não monitorou o ministro André Mendonça e defendeu os relatór…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/andrei-diz-a-fachin-que-pf-nao-monitorou-andre-mendonca-e-defende-relatorio-contra-ministro.ghtml",
+    "time": "2026-09-11T18:19:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Capitão do México na Copa do Mundo é acusado de sequestro e se posiciona",
+    "d": "Edson Álvarez respondeu acusações de estar envolvido em sequestro de cineasta em terras mexicanas",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/capitao-do-mexico-na-copa-do-mundo-e-acusado-de-sequestro-e-se-posiciona/",
+    "time": "2026-09-11T18:19:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Omã anuncia reunião entre Irã e países do Golfo sobre Estreito de Ormuz",
+    "d": "Autoridades devem discutir acordo para gestão gestão conjunta da passagem, que se tornou um dos principais alvos de ataques durante o conflito entre Teerã e Washington",
+    "link": "https://www.cnnbrasil.com.br/internacional/oma-anuncia-reuniao-entre-ira-e-paises-do-golfo-sobre-estreito-de-ormuz/",
+    "time": "2026-09-11T18:18:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "11 de setembro: entenda a história da “mulher da poeira”, sobrevivente de atentado às Torres Gêmeas que ficou conhecida por foto tirada no ataque",
+    "d": "Marcy Borders escapou do ataque da Al Qaeda aos Estados Unidos, mas lidou com consequências na saúde",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/11-de-setembro-entenda-a-historia-da-mulher-da-poeira-sobrevivente-de-atentado-as-torres-gemeas-que-ficou-conhecida-por-foto-tirada-no-ataque/",
+    "time": "2026-09-11T18:18:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Maria de Fátima? Glória Pires e Bella Campos se encontram em evento nos EUA",
+    "d": "Protagonistas das duas versões de \"Vale Tudo\" marcaram presença no Inffinito Brazilian Film Festival",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/maria-de-fatima-gloria-pires-e-bella-campos-se-encontram-em-evento-nos-eua/",
+    "time": "2026-09-11T18:16:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Mercado não precifica crise institucional em caso Master, diz estrategista",
+    "d": "Gustavo Cruz, da Sincra, analisa impactos do escândalo no mercado financeiro e nas instituições brasileiras",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-nao-precifica-crise-institucional-em-caso-master-diz-estrategista/",
+    "time": "2026-09-11T18:15:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Guto Miguel na semifinal do US Open juvenil: acompanhe o jogo em tempo real",
+    "d": "Brasileiro enfrenta o austríaco Thilo Behrmann por vaga em final inédita",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-na-semifinal-do-us-open-juvenil-acompanhe-o-jogo-em-tempo-real/",
+    "time": "2026-09-11T18:11:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rosamaria tem lesão confirmada e desfalca Seleção no Sul-Americano de Vôlei",
+    "d": "Oposta sentiu dores e deixou a quadra durante partida contra a Colômbia nesta quinta (10); recuperação pode levar até seis semanas",
+    "link": "https://www.cnnbrasil.com.br/esportes/volei/rosamaria-tem-lesao-confirmada-e-desfalca-selecao-no-sul-americano-de-volei/",
+    "time": "2026-09-11T18:09:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Derrubar esse': Vorcaro pediu para Sicário apagar vídeo no Instagram sobre festa em boate de SP, diz PF; veja prints",
+    "d": "Vorcaro pediu para Sicário apagar vídeo no Instagram sobre festa em boate de SP, diz PF Montagem/g1 O fundador do Banco Master, Daniel Vorcaro, pediu para Felipe Mourão, chamado pelo banqueiro de \"Sicário\", apagar uma…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/derrubar-esse-vorcaro-pediu-para-sicario-apagar-video-no-instagram-sobre-festa-em-boate-de-sp-diz-pf-veja-prints.ghtml",
+    "time": "2026-09-11T18:05:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Antes de ser papa, Leão XIV alertou sobre “vingança” após o 11 de Setembro",
+    "d": "Robert Prevost, então líder agostiniano, relacionou os ataques à pobreza e injustiça, defendendo paz e reconciliação",
+    "link": "https://www.cnnbrasil.com.br/internacional/antes-de-ser-papa-leao-xiv-alertou-sobre-vinganca-apos-o-11-de-setembro/",
+    "time": "2026-09-11T18:03:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Âmbar anuncia plano de R$ 5,5 bilhões para energia no Amazonas",
+    "d": "Braço de energia do grupo J&F apresentou um projeto para modernizar o sistema elétrico estadual com investimentos até 2031",
+    "link": "https://www.cnnbrasil.com.br/infra/ambar-anuncia-plano-de-r-55-bilhoes-para-energia-no-amazonas/",
+    "time": "2026-09-11T18:01:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CNH do Brasil registra mais de 2 milhões de novos habilitados",
+    "d": "Programa digital movimentou R$ 9,6 bilhões ao reduzir tempo e zerar custo teórico do processo",
+    "link": "https://www.cnnbrasil.com.br/auto/cnh-do-brasil-registra-mais-de-2-milhoes-de-novos-habilitados/",
+    "time": "2026-09-11T17:58:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Banco Master e BRB: PF aponta pagamentos antecipados, compras fracionadas e falhas nos controles",
+    "d": "Entrada do BRB, Banco de Brasília, em 18 de novembro de 2025. Reuters/Mateus Bonomi A relação entre o Banco Master e o Banco de Brasília (BRB) ganhou novos contornos nesta semana, após o ministro André Mendonça, do Su…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/11/banco-master-brb-laudo-policia-federal.ghtml",
+    "time": "2026-09-11T17:50:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+    "d": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T17:32:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Após Lula defender reforma do Judiciário, deputado do PT apresenta proposta na Câmara",
+    "d": "Após o presidente Luiz Inácio Lula da Silva (PT) defender uma reforma do Judiciário em meio à crise no Supremo Tribunal Federal (STF), o deputado federal Reginaldo Lopes (PT-MG), apresentou uma proposta de emenda à Co…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/apos-lula-defender-reforma-do-judiciario-deputado-do-pt-apresenta-proposta-na-camara.ghtml",
+    "time": "2026-09-11T17:31:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fachin dá 24 horas para Mendonça liberar sigilo de documentos do caso Master",
+    "d": "Fachin dá 24 horas para Mendonça liberar sigilo de documentos do caso Master O presidente do Supremo Tribunal Federal (STF), Edson Fachin, acolheu nesta sexta-feira (11) o pedido da Procuradoria-Geral da República (PG…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/fachin-acolhe-pedido-da-pgr-para-liberar-todos-os-documentos-do-caso-master.ghtml",
+    "time": "2026-09-11T17:23:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Dino leva ao plenário presencial do STF julgamento sobre alteração na Lei da Ficha Limpa",
+    "d": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), pediu destaque e levou ao plenário presencial da Corte o julgamento que discute mudanças aprovadas pelo Congresso na Lei da Ficha Limpa. O resultado pode impa…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/dino-leva-ao-plenario-presencial-do-stf-julgamento-sobre-alteracao-na-lei-da-ficha-limpa.ghtml",
+    "time": "2026-09-11T17:23:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T17:22:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PF conclui que houve fraude em compras de R$ 17,5 bilhões em carteiras do Master pelo BRB",
+    "d": "Candidatos ao Senado do DF respondem sobre crise do BRB A Polícia Federal (PF) concluiu que houve gestão fraudulenta de ex-dirigentes do Banco Regional de Brasília (BRB) em operações de compra que somaram R$ 17,5 bilh…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-conclui-que-houve-fraude-em-compras-de-r-175-bilhoes-em-carteiras-do-master-pelo-brb.ghtml",
+    "time": "2026-09-11T17:20:02.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+    "d": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+    "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T16:58:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Renan Santos diz que campanha 2026 é 'a mais estranha' que já viu desde 2010",
+    "d": "Renan Santos (Missão) durante Sabatina UOL Folha de São Paulo Reprodução O candidato à Presidência Renan Santos (Missão) afirmou nesta sexta-feira (11) que a eleição de 2026 é a campanha mais estranha que vê em muito…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/renan-santos-sabatina-uol-folha.ghtml",
+    "time": "2026-09-11T16:56:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PGR pede fim do sigilo de documentos do caso Master e diz que medida evita falsa impressão de transparência",
+    "d": "A Procuradoria-Geral da República (PGR) pediu nesta sexta-feira (11) ao presidente do Supremo Tribunal Federal (STF), Edson Fachin, a retirada de sigilo de todos os documentos do caso Master. A PGR argumentou que libe…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/pgr-pede-retirada-de-sigilo-de-todos-os-documentos-do-caso-master-para-nao-induzir-a-ideia-equivocada-de-transparencia.ghtml",
+    "time": "2026-09-11T16:46:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo",
+    "d": "André Mendonça determinou a investigação de Flávio Bolsonaro por supostos crimes no financiamento do filme junto ao Banco Master.",
+    "link": "https://www.bbc.com/portuguese/articles/c4g5ky0r25jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T16:42:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Master-BRB: Vorcaro tem depoimento à PF marcado para a próxima terça; defesa deve tentar adiamento",
+    "d": "O ex-banqueiro Daniel Vorcaro, do Master, tem depoimento marcado na Polícia Federal para a próxima terça-feira (15). A oitiva está inserida nas investigações que apuram supostas fraudes em operações financeiras e créd…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/master-brb-vorcaro-tem-depoimento-a-pf-marcado-para-a-proxima-terca-defesa-deve-tentar-adiamento.ghtml",
+    "time": "2026-09-11T16:21:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro é investigado: 5 pontos que a PF quer esclarecer sobre o financiamento de 'Dark Horse'",
+    "d": "Flávio Bolsonaro é investigado no caso 'Dark Horse' A Polícia Federal (PF) investiga, em inquérito aberto com autorização do ministro André Mendonça, do Supremo Tribunal Federal (STF), a origem e a movimentação dos re…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-5-pontos-que-a-pf-quer-esclarecer-sobre-o-financiamento-de-dark-horse.ghtml",
+    "time": "2026-09-11T16:05:30.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+    "d": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T16:00:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "China e Irã estão entre países que utilizaram IA para espionagem, diz Anthropic",
+    "d": "Anthropic bloqueia uso de IA em pesquisa de armas biológicas A Anthropic anunciou nesta semana que encerrou várias operações de vigilância patrocinadas por Estados que utilizavam seus modelos de inteligência artificia…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/09/11/china-e-ira-estao-entre-paises-que-utilizaram-ia-para-espionagem-diz-anthropic.ghtml",
+    "time": "2026-09-11T15:55:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Israel says it has destroyed major underground Hezbollah base",
+    "d": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T15:50:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Defesa de Vorcaro joga parada e espera STF para definir estratégia",
+    "d": "Caso Master: Daniel Vorcaro é transferido do presídio para a Superintendência da PF Jornal Nacional/ Reprodução A defesa de Daniel Vorcaro está em compasso de espera. A avaliação é que não adianta definir agora os pró…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/11/estrategia-defesa-vorcaro-stf.ghtml",
+    "time": "2026-09-11T15:40:29.000Z"
   },
   {
     "cat": "brasil",
@@ -16,156 +264,20 @@
     "time": "2026-09-11T15:10:58.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "ChatGPT inventou depoimentos policiais falsos em caso de homicídio nos EUA",
-    "d": "Advogado será investigado por não conferir documentos gerados com IA apresentados ao tribunal",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/chatgpt-inventou-depoimentos-policiais-falsos-em-caso-de-homicidio-nos-eua/",
-    "time": "2026-09-11T15:02:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Campanha de Flávio minimiza impacto da quebra de sigilo do caso Master",
-    "d": "Coordenador da campanha, senador Rogério Marinho (PL-RN), afirma não haver um \"fato novo\" sobre o candidato à Presidência",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-flavio-minimiza-impacto-da-quebra-de-sigilo-do-caso-master/",
-    "time": "2026-09-11T15:02:21.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Thai police arrest Buddhist abbot on suspicion of embezzling $2.8m",
+    "h": "Buddhist monk arrested in Thailand on suspicion of embezzling $2.8m",
     "d": "Phra Wachirayan Wi arrested alongside woman he was filmed having sex with in latest scandal to hit country’s clergy Police in Thailand have arrested a senior Buddhist monk on suspicion of embezzling $2.8m intended for…",
     "link": "https://www.theguardian.com/world/2026/sep/11/thai-police-arrest-buddhist-abbot-suspicion-embezzling",
     "time": "2026-09-11T15:01:36.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em mensagem, Eduardo Bolsonaro orientou gestão de recursos de 'Dark Horse' nos EUA, diz documento da PGR",
-    "d": "Um documento da Procuradoria-Geral da República (PGR), elaborado com base em investigações da Polícia Federal (PF), aponta que o ex-deputado Eduardo Bolsonaro orientou a gestão e a remessa de recursos nos Estados Unid…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/em-mensagem-eduardo-bolsonaro-orientou-gestao-de-recursos-de-dark-horse-nos-eua-diz-documento-da-pgr.ghtml",
-    "time": "2026-09-11T14:59:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sabalenka perde top 1 para Elena Rybakina e desabafa: “Estranho”",
-    "d": "Rivalidade se intensifica na final do Grand Slam estadunidense, onde as duas tenistas se enfrentarão neste sábado (12)",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/sabalenka-perde-top-1-para-elena-rybakina-e-desabafa-estranho/",
-    "time": "2026-09-11T14:58:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Maracanã: MP investiga desvio de R$ 1 milhão por mês em ingressos",
-    "d": "Ministério Público do Rio apura venda de ingressos acima da capacidade do estádio",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/maracana-mp-investiga-desvio-de-r-1-milhao-por-mes-em-ingressos/",
-    "time": "2026-09-11T14:52:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Califórnia aprova novas restrições às redes sociais para crianças",
-    "d": "Medida proíbe a exposição de menores de 16 anos a recursos de redes sociais que geram dependência comportamental e bane brinquedos que contenham chatbots de companhia com IA",
-    "link": "https://www.cnnbrasil.com.br/internacional/california-aprova-novas-restricoes-as-redes-sociais-para-criancas/",
-    "time": "2026-09-11T14:51:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Toffoli seria beneficiário de fundo ligado a Vorcaro, diz revista",
-    "d": "Relatório obtido pela revista Piauí aponta ministro como suspeito de ser proprietário ou beneficiário final de fundo que recebeu R$ 35 milhões",
-    "link": "https://www.cnnbrasil.com.br/politica/toffoli-seria-beneficiario-de-fundo-ligado-a-vorcaro-diz-revista/",
-    "time": "2026-09-11T14:49:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Metrô de SP terá pagamento por aproximação em todas as catracas",
-    "d": "Tecnologia estará disponível a partir de segunda-feira (14) nas linhas 1-Azul, 2-Verde, 3-Vermelha e 15-Prata",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/metro-de-sp-tera-pagamento-por-aproximacao-em-todas-as-catracas/",
-    "time": "2026-09-11T14:49:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Israel says it has destroyed major underground Hezbollah base",
-    "d": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T14:46:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cruzeiro negocia Matías Viña, lateral ex-Flamengo e River",
-    "d": "Matías Viña, de 28 anos, pertence ao Flamengo e está no River Plate, mas sem espaço; Raposa corre contra o tempo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/cruzeiro-negocia-matias-vina-lateral-ex-flamengo-e-river/",
-    "time": "2026-09-11T14:45:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dois PMs se tornam réus por morte de médica no Rio de Janeiro",
-    "d": "Andréa Marins Dias foi baleada após policiais confundirem o carro dela com um veículo suspeito, segundo o MPRJ",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/dois-pms-se-tornam-reus-por-morte-de-medica-no-rio-de-janeiro/",
-    "time": "2026-09-11T14:42:43.000Z"
-  },
-  {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Liquidação de títulos leva rendimentos de 10 anos para quase 5%",
-    "d": "Com custos de financiamento de Tóquio e Sydney a Nova York e Londres em níveis máximos, investidores estão precificando a necessidade de aumentos nas taxas de juros",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/liquidacao-de-titulos-leva-rendimentos-de-10-anos-para-quase-5/",
-    "time": "2026-09-11T14:40:26.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Técnico do América-MG é direto sobre reação na Série B: “Apegar a tudo”",
-    "d": "Douglas Leite, comandante da equipe mineira, falou sobre a importância do resultado e o momento delicado vivido pelo clube",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/tecnico-do-america-mg-e-direto-sobre-reacao-na-serie-bapegar-a-tudo/",
-    "time": "2026-09-11T14:39:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ações da Oracle sobem 3% com avanço na carteira de pedidos",
-    "d": "Aproximadamente metade dos US$ 664 bilhões em pedidos em carteira deverá se converter em vendas nos próximos 36 meses",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-da-oracle-sobem-3-com-avanco-na-carteira-de-pedidos/",
-    "time": "2026-09-11T14:38:06.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "PF vê indícios de irregularidades em R$ 7 bilhões em créditos cedidos ao Master em investigação que envolve operações com o BRB",
     "d": "Vorcaro teve acesso a dados sigilosos do MPF A Polícia Federal (PF) identificou fortes indícios de irregularidades na transferência de R$ 7,15 bilhões em créditos da empresa Tirreno Consultoria Promotoria de Créditos…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-ve-indicios-de-irregularidades-em-r-716-bilhoes-em-creditos-cedidos-ao-master-parte-dos-valores-foi-repassado-ao-brb.ghtml",
     "time": "2026-09-11T14:37:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caso Master: veja diálogos obtidos pela PF que mostram que grupo de Vorcaro tinha acesso a investigações do Ministério Público",
-    "d": "Vorcaro teve acesso a dados sigilosos do MPF, diz PF Mensagens obtidas pela Polícia Federal revelam que o banqueiro Daniel Vorcaro teve acesso antecipado a procedimentos sigilosos do Ministério Público Federal (MPF) q…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/caso-master-veja-dialogos-obtidos-pela-pf-que-mostram-que-grupo-de-vorcaro-tinha-acesso-a-investigacoes-do-ministerio-publico.ghtml",
-    "time": "2026-09-11T14:34:06.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "China e Irã estão entre países que utilizaram IA para espionagem, diz Anthropic",
-    "d": "Anthropic bloqueia uso de IA em pesquisa de armas biológicas A Anthropic anunciou nesta semana que encerrou várias operações de vigilância patrocinadas por Estados que utilizavam seus modelos de inteligência artificia…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/11/china-e-ira-estao-entre-paises-que-utilizaram-ia-para-espionagem-diz-anthropic.ghtml",
-    "time": "2026-09-11T14:29:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja o que os presidenciáveis falaram sobre o fim do sigilo de parte dos documentos do caso Master",
-    "d": "A retirada de sigilo de parte dos documentos do caso Master, decidida na noite dessa quinta-feira (10), repercute nesta sexta entre os candidatos à Presidência da República. Até o momento, Renan Santos (Missão), Ronal…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/presidenciaveis-sigilo-master.ghtml",
-    "time": "2026-09-11T14:23:02.000Z"
   },
   {
     "cat": "brasil",
@@ -184,46 +296,6 @@
     "time": "2026-09-11T14:03:31.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Tribunal de Contas do Paraná propôs ressarcimento de R$ 4 milhões de previdência municipal aplicados no Master",
-    "d": "Banco Master. Reprodução/TV Globo Uma auditoria do Tribunal de Contas do Estado do Paraná (TCE-PR) propôs cobrar de quatro responsáveis pela gestão da previdência de Imbituva e de uma consultoria o ressarcimento de R$…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/caso-master-previdencia-imbituva-investimento-tce.ghtml",
-    "time": "2026-09-11T13:56:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo",
-    "d": "André Mendonça determinou a investigação de Flávio Bolsonaro por supostos crimes no financiamento do filme junto ao Banco Master.",
-    "link": "https://www.bbc.com/portuguese/articles/c4g5ky0r25jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T13:31:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "CGU pediu ao STF dados para avaliar cassação da aposentadoria de ex-PF ligado a Vorcaro",
-    "d": "Marilson Roseno, à esquerda, e Daniel Vorcaro, à direita Reprodução A Controladoria-Geral da União (CGU) pediu ao Supremo Tribunal Federal (STF) acesso a provas do caso Master para avaliar uma eventual cassação da apo…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/caso-master-cgu-marilson-roseno-aposentadoria.ghtml",
-    "time": "2026-09-11T13:15:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "CNBB cobra esclarecimentos sobre a crise no STF e diz que ninguém está acima da lei: 'Justiça sem privilégios'",
-    "d": "Grupos no STF travam disputa sobre sigilo e sessão fechada no caso Master A Conferência Nacional dos Bispos do Brasil (CNBB) se manifestou sobre a crise envolvendo o Supremo Tribunal Federal (STF), a Polícia Federal e…",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/11/cnbb-cobra-esclarecimentos-sobre-a-crise-no-stf-e-diz-que-ninguem-esta-acima-da-lei-justica-sem-privilegios.ghtml",
-    "time": "2026-09-11T13:11:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Campanha de Lula vai explorar na TV investigação no STF de Flávio Bolsonaro no financiamento de 'Dark Horse'",
-    "d": "O comando da campanha do presidente Luiz Inácio Lula da Silva (PT) vai explorar, no horário eleitoral de TV e rádio e também nas redes sociais, a divulgação nesta sexta-feira (11) de informações sobre a investigação a…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/11/campanha-de-lula-vai-explorar-na-tv-investigacao-no-stf-de-flavio-bolsonaro-no-financiamento-de-dark-horse.ghtml",
-    "time": "2026-09-11T13:00:20.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "US consumers faced more high prices in August as Iran war raised energy costs",
@@ -238,14 +310,6 @@
     "d": "Trabalhadores dos Correios entram em greve em todo o país a partir desta sexta Jornal Nacional/ Reprodução Trabalhadores dos Correios aprovaram uma greve por tempo indeterminado, com adesão de sindicatos de todos os e…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/11/trabalhadores-dos-correios-entram-em-greve-em-todo-o-pais-a-partir-desta-sexta.ghtml",
     "time": "2026-09-11T12:31:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Termina nesta sexta prazo para diretor da PF se manifestar sobre ação que pede afastamento dele do cargo",
-    "d": "O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, tem até esta sexta-feira (11) para se manifestar, caso queira, no âmbito das duas decisões do Supremo Tribunal Federal (STF) que questionam a permanência dele…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/termina-nesta-sexta-prazo-para-diretor-da-pf-se-manifestar-sobre-acao-que-pede-afastamento-dele-do-cargo.ghtml",
-    "time": "2026-09-11T12:21:53.000Z"
   },
   {
     "cat": "internacional",
@@ -274,8 +338,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar e Ibovespa operam em queda, com inflação no Brasil e nos EUA no foco",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta sexta-feira (11), com um recuo de 0,13% perto das 12h, cotado a R$ 5,0959. O Ibovespa, principal índice da bolsa brasileira, tinha perdas d…",
+    "h": "Dólar opera em alta com novos dados de inflação no Brasil e nos EUA no foco; Ibovespa cai",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera com volatilidade nesta sexta-feira (11) e marcava uma alta de 0,35% perto das 14h45, cotado a R$ 5,1204. Já o Ibovespa, principal índice da bolsa brasilei…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/11/dolar-ibovespa.ghtml",
     "time": "2026-09-11T12:00:00.000Z"
   },
@@ -286,22 +350,6 @@
     "d": "Cartilha do Serviço Nacional de Aprendizagem Rural (Senar) reúne informações sobre todas as etapas da criação de porcos. Divulgação Quer aprender sobre a criação de porcos? Uma opção gratuita é a publicação do Serviço…",
     "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/11/criacao-de-porcos-publicacao-gratuita-orienta-sobre-alimentacao-e-manejo.ghtml",
     "time": "2026-09-11T11:50:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro é investigado em inquérito no STF aberto para apurar financiamento do filme 'Dark Horse'",
-    "d": "Flávio Bolsonaro é investigado no caso 'Dark Horse' O senador e candidato à Presidência da República Flávio Bolsonaro (PL-RJ) é investigado pela Polícia Federal (PF) em inquérito aberto para apurar a possível prática…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-em-inquerito-da-pf-aberto-para-apurar-financiamento-do-filme-dark-horse.ghtml",
-    "time": "2026-09-11T11:39:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Grupos no STF travam disputa sobre sigilo e sessão fechada no caso Master; pedido de vista entra no radar",
-    "d": "Grupos no STF travam disputa sobre sigilo e sessão fechada no caso Master Ministros do Supremo Tribunal Federal (STF) querem saber como vai ser o rito da sessão de terça-feira (15). O presidente da Corte, ministro Eds…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/11/stf-master-moraes-fachin.ghtml",
-    "time": "2026-09-11T11:10:59.000Z"
   },
   {
     "cat": "internacional",
@@ -408,14 +456,6 @@
     "time": "2026-09-11T06:28:42.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-    "d": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T05:41:54.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Primeira fábrica de carro voador no interior de SP deve operar até 2028 e produzir até 480 aeronaves por ano",
@@ -440,44 +480,12 @@
     "time": "2026-09-11T03:00:00.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3056 acumula e prêmio vai a R$ 85 milhões; confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.056 da Mega-Sena foi realizado na noite desta quinta-feira (10), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 75,9 milhões. No enta…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/10/mega-sena-concurso-3056-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-09-11T00:02:54.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Califórnia passa a exigir protocolo de crise para IAs e proíbe recursos viciantes para menores em redes sociais",
-    "d": "Governador da Califórnia, Gavin Newsom, em 10 de setembro de 2026 AP Photo/Jeff Chiu O governador da Califórnia, Gavin Newsom, aprovou nesta quinta-feira (10) 13 leis que mudam regras para assistentes de inteligência…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/california-exige-protocolo-de-crise-para-ias-e-proibe-recursos-viciantes-para-menores-em-redes-sociais.ghtml",
-    "time": "2026-09-10T22:57:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Cruzada' de Mendonça no STF traz eleitor evangélico de volta para Flávio Bolsonaro, diz Renato Meirelles",
-    "d": "Pesquisador da classe C brasileira, Meirelles explica que campanha de Flávio pode ganhar ânimo agora. Para ele, transformar essa crise em uma cruzada é a 'forma mais eficiente para que o eleitorado bolsonarista consig…",
-    "link": "https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T21:08:30.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Canada offers air defense support for Ukraine as Zelenskyy visits",
     "d": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the c…",
     "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
     "time": "2026-09-10T20:35:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "More than 20 children killed in DR Congo school fire",
-    "d": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T19:16:24.000Z"
   },
   {
     "cat": "economia",
@@ -494,14 +502,6 @@
     "d": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the fam…",
     "link": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
     "time": "2026-09-10T17:29:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-    "d": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T16:31:30.000Z"
   },
   {
     "cat": "economia",
@@ -526,14 +526,6 @@
     "d": "The new ‘true-scale’ map shrinks Europe and North America while enlarging Africa – and depicts the disputed Kuril islands as ruled by Moscow Japan has asked for the revision of a new world map adopted by the UN becaus…",
     "link": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception",
     "time": "2026-09-10T12:55:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T09:19:35.000Z"
   },
   {
     "cat": "brasil",
