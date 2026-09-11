@@ -1,9 +1,145 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
+    "d": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
+    "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T01:07:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Coach crash kills several people in Swiss Alps",
+    "d": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T01:01:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia investiga se há ligação entre dois corpos achados na ZL de SP",
+    "d": "Uma mulher foi encontrada com marca de tiro e um homem sem ferimentos; ambos os casos foram registrados como homicídio",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-investiga-se-ha-ligacao-entre-dois-corpos-achados-na-zl-de-sp/",
+    "time": "2026-09-11T00:55:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump diz não se arrepender pela guerra contra o Irã",
+    "d": "Em entrevista à Fox News, presidente americano afirmou que \"se tivesse que fazer tudo de novo, faria exatamente como fez\"",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-nao-se-arrepender-pela-guerra-contra-o-ira/",
+    "time": "2026-09-11T00:53:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump deve sancionar banco “grande” não identificado na segunda, diz Bessen",
+    "d": "Governo Trump intensificou sua campanha no mês passado impondo sanções a quase 60 entidades",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-deve-sancionar-banco-grande-nao-identificado-na-segunda-diz-bessen/",
+    "time": "2026-09-11T00:53:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vox Radar: 85,8% apoiam abertura de investigação contra Alexandre de Moraes",
+    "d": "Levantamento analisou 2.313.616 comentários em 5.135 postagens únicas no Instagram entre 7 e 10 de setembro",
+    "link": "https://www.cnnbrasil.com.br/politica/vox-radar-858-apoiam-abertura-de-investigacao-contra-alexandre-de-moraes/",
+    "time": "2026-09-11T00:52:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sabalenka vence Pegula e vai à final do US Open pelo quarto ano consecutivo",
+    "d": "Após perder o posto de número 1 do mundo, tenista bielorrussa segue na luta pelo tricampeonato em Nova York",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/sabalenka-vence-pegula-e-vai-a-quarta-final-de-us-open-consecutiva/",
+    "time": "2026-09-11T00:51:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Esta é a Swiftiephylus, nova espécie de inseto em homenagem a Taylor Swift",
+    "d": "Descoberta de 12 novas espécies inclui o Swiftiephylus, cujos nomes são inspirados em seus álbuns e na aparência da cantora",
+    "link": "https://www.cnnbrasil.com.br/ciencia/esta-e-a-swiftiephylus-nova-especie-de-inseto-em-homenagem-a-taylor-swift/",
+    "time": "2026-09-11T00:33:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vance ganha destaque enquanto republicanos debatem futuro pós-Trump",
+    "d": "Constituição dos Estados Unidos não permite que o presidente dispute um terceiro mandato",
+    "link": "https://www.cnnbrasil.com.br/internacional/vance-ganha-destaque-enquanto-republicanos-debatem-futuro-pos-trump/",
+    "time": "2026-09-11T00:32:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PT fala em “controle social” da Justiça e mandatos para o STF",
+    "d": "Em resolução, sigla defende ainda códigos de ética para tribunais, tipos penais mais duros para corrupção e fim de supersalários e penduricalhos",
+    "link": "https://www.cnnbrasil.com.br/politica/pt-fala-em-controle-social-da-justica-e-mandatos-para-o-stf/",
+    "time": "2026-09-11T00:30:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Morre o filho de Raz B, do grupo B2K, aos 3 meses de vida, diz site",
+    "d": "Astro Monte Thornton era o caçula do casal; a causa da morte não foi revelada",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-filho-de-raz-b-do-grupo-b2k-aos-3-meses-de-vida-diz-site/",
+    "time": "2026-09-11T00:22:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Por que a Anac proibiu o uso de power banks em voos no Brasil? Entenda",
+    "d": "Dispositivo pode provocar incêndio se sofrer sobrecarga de energia ou se permanecer superaquecido",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-a-anac-proibiu-o-uso-de-power-banks-em-voos-no-brasil-entenda/",
+    "time": "2026-09-11T00:21:41.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Dupla do Fluminense vira desfalque no Brasileirão e na Libertadores",
+    "d": "Atacante e zagueiro ficarão fora de jogos importantes nas próximas semanas",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/dupla-do-fluminense-vira-desfalque-no-brasileirao-e-na-libertadores/",
+    "time": "2026-09-11T00:19:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump sugere conversar com legisladores sobre US$ 5 mil: “podemos fazer”",
+    "d": "Presidente americano prometeu, durante discurso em convenção republicana, pagar o valor a todos os adultos americanos caso seu partido vença as eleições de Meio de Mandato",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-sugere-conversar-com-legisladores-sobre-us-5-mil-podemos-fazer/",
+    "time": "2026-09-11T00:17:20.000Z"
+  },
+  {
+    "cat": "economia",
     "src": "G1",
-    "h": "Lula diz estar 'satisfeito' com decisões de Fachin sobre crise no STF: 'colocou ordem na casa'",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (10) estar satisfeito com as decisões que o presidente do Supremo Tribunal Federal (STF) tomou nesta quarta-feira (9) em meio à crise na Corte. \"S…",
+    "h": "Mega-Sena 3056 acumula e prêmio vai a R$ 85 milhões; confira os números sorteados",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.056 da Mega-Sena foi realizado na noite desta quinta-feira (10), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 75,9 milhões. No enta…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/10/mega-sena-concurso-3056-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-09-11T00:02:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em meio à crise no STF, PT defende mandato para ministros de Tribunais Superiores no Brasil",
+    "d": ",O Partido dos Trabalhadores (PT) decidiu nesta quinta-feira (10) que o partido irá defender mandato para ministros de Tribunais Superiores no Brasil. Segundo o presidente nacional da sigla, Edinho Silva, não foram de…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/10/em-meio-a-crise-no-stf-pt-defende-mandato-para-ministros-de-tribunais-superiores-no-brasil.ghtml",
+    "time": "2026-09-10T23:53:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula sai em defesa de Andrei: 'é da minha total confiança'",
+    "d": "Presidente Luiz Inácio Lula da Silva (PT) Ricardo Stuckert O presidente Luiz Inácio Lula da Silva (PT) saiu em defesa do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, em entrevista ao SBT nesta quinta-feira…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml",
+    "time": "2026-09-10T23:31:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula diz estar satisfeito com decisões de Fachin sobre crise no STF: 'colocou ordem na casa'",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (10) estar satisfeito com as decisões que o presidente do Supremo Tribunal Federal (STF), Edson Fachin, tomou nesta quarta-feira (9) em meio à cri…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/lula-diz-estar-satisfeito-com-decisoes-de-fachin-sobre-crise-no-stf-colocou-ordem-na-casa.ghtml",
     "time": "2026-09-10T23:13:32.000Z"
   },
@@ -11,15 +147,15 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Quaest no DF: 78% são a favor da ampliação das escolas cívico-militares",
-    "d": "Pesquisa Quaest divulgada nesta quinta-feira (10) aponta que 78% dos eleitores do Distrito Federal são a favor da ampliação das escolas cívico-militares. Outros 18% são contrários e 4% não sabem ou não responderam. O…",
+    "d": "Centro de Ensino Fundamental 17 de Taguatinga, escola com gestão cívico-militar Felipe de Noronha/SEEDF Pesquisa Quaest divulgada nesta quinta-feira (10) aponta que 78% dos eleitores do Distrito Federal são a favor da…",
     "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/10/quaest-df-escola-civico-militar-10-setembro.ghtml",
     "time": "2026-09-10T23:04:19.000Z"
   },
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Califórnia exige protocolo de crise para IAs e proíbe recursos viciantes para menores em redes sociais",
-    "d": "Governador da Califórnia, Gavin Newsom, em 10 de setembro de 2026 AP Photo/Jeff Chiu O governador da Califórnia, Gavin Newsom, aprovou nesta quinta-feira (10) 13 leis com foco que mudam regras para assistentes de inte…",
+    "h": "Califórnia passa a exigir protocolo de crise para IAs e proíbe recursos viciantes para menores em redes sociais",
+    "d": "Governador da Califórnia, Gavin Newsom, em 10 de setembro de 2026 AP Photo/Jeff Chiu O governador da Califórnia, Gavin Newsom, aprovou nesta quinta-feira (10) 13 leis que mudam regras para assistentes de inteligência…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/california-exige-protocolo-de-crise-para-ias-e-proibe-recursos-viciantes-para-menores-em-redes-sociais.ghtml",
     "time": "2026-09-10T22:57:37.000Z"
   },
@@ -49,38 +185,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Conheça “Hope”, o terror sul-coreano “mais estranho em muito tempo”",
-    "d": "O terror sul-coreano, um dos filmes mais caros do país, chega às telonas em 8 de outubro",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/conheca-hope-o-terror-sul-coreano-mais-estranho-em-muito-tempo/",
-    "time": "2026-09-10T22:40:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Champions: técnico leva garrafada, pede demissão, mas fica no Fenerbahçe",
-    "d": "Ismail Kartal chegou a anunciar que estava de saída \"para nunca mais voltar\" em coletiva",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/champions-tecnico-leva-garrafada-pede-demissao-mas-fica-no-fenerbahce/",
-    "time": "2026-09-10T22:39:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Wall Street fecha em queda com alta do petróleo e dos Treasuries",
-    "d": "Dow Jones fechou em queda de 0,6%, S&P 500 perdeu 0,58% e o Nasdaq teve baixa de 0,65%",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-queda-com-alta-do-petroleo-e-dos-treasuries/",
-    "time": "2026-09-10T22:37:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "SP supera média de chuva mensal para setembro em apenas 10 dias",
-    "d": "A cidade registrou cerca de 100 milímetros acumulados, enquanto o esperado para o mês era de 66 milímetros",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-supera-media-de-chuvas-mensal-para-setembro-em-apenas-10-dias/",
-    "time": "2026-09-10T22:35:01.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Quaest no DF: 84% são a favor da internação involuntária para pessoas em situação de rua",
     "d": "DF tem 1º caso de internação involuntária de pessoa em situação de rua Reprodução Pesquisa Quaest divulgada nesta quinta-feira (10) perguntou a opinião dos eleitores sobre a internação involuntária de pessoas em situa…",
@@ -89,75 +193,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cientistas descobrem vírus que combate bactéria resistente a antibiótico",
-    "d": "Colaboração brasileira com pesquisadores internacionais descobre o bacteriófago KP47, com potencial contra infecções graves como pneumonia e sepse",
-    "link": "https://www.cnnbrasil.com.br/ciencia/cientistas-descobrem-virus-que-combate-bacteria-resistente-a-antibiotico/",
-    "time": "2026-09-10T22:24:43.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Fux dá 15 dias para governo e Banco Central responderem sobre ajuda ao BRB",
-    "d": "União, Fundo Garantidor de Crédito e Banco Central terão de se manifestar sobre pedido de empréstimo feito pelo banco público de Brasília para cobrir o rombo da instituição",
-    "link": "https://www.cnnbrasil.com.br/politica/fux-da-15-dias-para-governo-e-banco-central-responderem-sobre-ajuda-ao-brb/",
-    "time": "2026-09-10T22:23:24.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas",
     "d": "PF aponta suspeita em repasse de R$ 645 mil feito por Mário Frias a produtora de filme Investigação da Polícia Federal (PT) aponta que a produtora do filme \"Dark Horse\", que recebeu emendas parlamentares do deputado f…",
     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml",
     "time": "2026-09-10T22:22:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Insetos dentro de casa? Um erro em oito lugares pode estar facilitando a entrada indesejada sem que você saiba",
-    "d": "Veja os principais pontos que merecem atenção dentro e fora de casa",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/insetos-dentro-de-casa-um-erro-em-oito-lugares-pode-estar-facilitando-a-entrada-indesejada-sem-que-voce-saiba/",
-    "time": "2026-09-10T22:19:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem é Maíra de Souza, candidata ao Senado por SP",
-    "d": "Professora e militante, candidata concorre a uma posição política pela primeira vez em 2026",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-maira-de-souza-candidata-ao-senado-por-sp/",
-    "time": "2026-09-10T22:19:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Robô da Nasa identifica buracos misteriosos no solo de Marte",
-    "d": "Equipe tenta descobrir se cavidades rasas surgiram de erosões ou de outro processo desconhecido no planeta vermelho",
-    "link": "https://www.cnnbrasil.com.br/ciencia/robo-da-nasa-identifica-buracos-misteriosos-no-solo-de-marte/",
-    "time": "2026-09-10T22:17:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bia Haddad Maia reflete sobre saúde mental e pausa na carreira: “Esgotada”",
-    "d": "Tenista brasileira chegou a oito jogos sem vencer no circuito e afirmou buscar ressignificar a relação com o esporte",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/bia-haddad-reflete-sobre-saude-mental-e-pausa-na-carreira-esgotada/",
-    "time": "2026-09-10T22:14:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula prepara nova fase na TV com propostas de centros para tratar câncer",
-    "d": "Orientação da campanha petista é priorizar propostas com viabilidade orçamentária e algum nível de execução ou estrutura já existente",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-prepara-nova-fase-na-tv-com-propostas-de-centros-para-tratar-cancer/",
-    "time": "2026-09-10T22:12:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem é Geraldo Rufino, candidato ao Senado por SP",
-    "d": "Empresário, escritor e palestrantejá tentou uma vaga para a Câmara dos Deputados em 2018",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-geraldo-rufino-candidato-ao-senado-por-sp/",
-    "time": "2026-09-10T22:08:42.000Z"
   },
   {
     "cat": "brasil",
@@ -193,14 +233,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no DF: 60% dos eleitores são contra a privatização do Metrô",
-    "d": "Estação Central do Metrô do DF fechada após pane em sinalização de trecho na Asa Sul TV Globo/Reprodução Pesquisa Quaest divulgada nesta quinta-feira (10) aponta que 60% dos eleitores do Distrito Federal são contra a…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/10/quaest-no-df-60percent-dos-eleitores-sao-contra-a-privatizacao-do-metro.ghtml",
-    "time": "2026-09-10T21:12:28.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Cruzada' de Mendonça no STF traz eleitor evangélico de volta pra Flávio Bolsonaro, diz Renato Meirelles",
     "d": "Pesquisador da classe C brasileira, Meirelles explica que campanha de Flávio pode ganhar ânimo agora. Para ele, transformar essa crise em uma cruzada é a 'forma mais eficiente para que o eleitorado bolsonarista consig…",
@@ -214,22 +246,6 @@
     "d": "Embarcações perto de Ormuz. Reuters O petróleo disparou novamente nesta quinta-feira (10) em meio à escalada da guerra no Oriente Médio. O barril do Brent, referência internacional, subiu 6,3% e fechou a US$ 107,63, a…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/10/preco-petroleo.ghtml",
     "time": "2026-09-10T20:53:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Coach crash kills several people in Swiss Alps",
-    "d": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T20:44:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PF identifica R$ 1,4 milhão de Frias e de empresa investigada para produtora de filme sobre Bolsonaro",
-    "d": "Veja a cronologia das investigações sobre 'Dark Horse' A Polícia Federal identificou transferências de R$ 645,4 mil feitas pelo deputado federal Mário Frias (PL-SP) e de outros R$ 750 mil pela NTT Brasil à Go Up Enter…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml",
-    "time": "2026-09-10T20:43:42.000Z"
   },
   {
     "cat": "internacional",
@@ -360,14 +376,6 @@
     "time": "2026-09-10T16:31:30.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
-    "d": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
-    "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-10T15:57:43.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
@@ -406,14 +414,6 @@
     "d": "Em evento protagonizado por novo CEO da empresa, a Apple apresentou primeira grande mudança no design do iPhone em quase 20 anos.",
     "link": "https://www.bbc.com/portuguese/articles/c3d7reexypvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-10T13:44:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Fim do desconto da Petrobras: como ficam os preços da gasolina?",
-    "d": "Sede da Petrobras, no Rio de Janeiro. Fernando Frazão/Agência Brasil A Petrobras deixará de aplicar o desconto de R$ 0,44 por litro na gasolina A vendida às distribuidoras a partir desta quinta-feira (10). Com isso, o…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/10/fim-do-desconto-da-petrobras-como-ficam-os-precos-da-gasolina.ghtml",
-    "time": "2026-09-10T13:40:15.000Z"
   },
   {
     "cat": "internacional",
