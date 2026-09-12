@@ -1,6 +1,158 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil é representado no Festival de Veneza com coprodução",
+    "d": "“Retorno a Buenos Aires”, uma coprodução ítalo-brasileira, teve sua estreia mundial no evento",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/brasil-e-representado-no-festival-de-veneza-com-coproducao/",
+    "time": "2026-09-12T00:53:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "6 perguntas para entender inquérito contra Flávio Bolsonaro — e o que falta ser esclarecido",
+    "d": "Investigação foi instaurada em julho, mas desdobramentos ainda estão em sigilo",
+    "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-12T00:50:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula diz que dará recado a Trump na ONU: 'Eu não me meto nas eleições americanas e gosto de ser respeitado'",
+    "d": "Presidente Lula durante entrevista. Foto: Ricardo Stuckert O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira (11) que vai reforçar ao presidente Donald Trump na Assembleia Geral da ONU, em Nova Yor…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/11/lula-diz-que-dara-recado-a-trump-na-onu-eu-nao-me-meto-nas-eleicoes-americanas-e-gosto-de-ser-respeitado.ghtml",
+    "time": "2026-09-12T00:48:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chamado por Ancelotti, Arthur Dias marca em clássico pelo Athletico; veja",
+    "d": "Clássico acontece na noite desta sexta-feira (11)",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/chamado-por-ancelotti-arthur-dias-marca-em-classico-pelo-athletico-veja/",
+    "time": "2026-09-12T00:47:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Madame Satã: ícone da noite de SP teria sido palco de festa de Vorcaro",
+    "d": "Boate underground foi criada nos anos 1980 e virou referência da cena alternativa da capital paulista",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/madame-sata-icone-da-noite-de-sp-teria-sido-palco-de-festa-de-vorcaro/",
+    "time": "2026-09-12T00:42:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Governo publica MP que autoriza nova subvenção ao diesel",
+    "d": "Medida Provisória tem finalidade de garantir fornecimento em território nacional diante da instabilidade da oferta do combustível",
+    "link": "https://www.cnnbrasil.com.br/infra/governo-publica-mp-que-autoriza-nova-subvencao-ao-diesel/",
+    "time": "2026-09-12T00:42:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump volta a dizer que pagamento de US$ 5 mil para adultos vai acontecer",
+    "d": "Presidente dos EUA prometeu pagar dividendo para cada adulto americano caso o partido vença a disputa de meio de mandato no Senado e na Câmara dos Representantes",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-volta-a-dizer-que-pagamento-de-us-5-mil-para-adultos-vai-acontecer/",
+    "time": "2026-09-12T00:33:45.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+    "d": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-12T00:31:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Convocado por Ancelotti, Morisco falha, e Athletico-PR abre o placar; veja",
+    "d": "Clássico acontece na noite desta sexta-feira (11)",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/convocado-por-ancelotti-morisco-falha-e-athletico-pr-abre-o-placar-veja/",
+    "time": "2026-09-12T00:31:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Copa do Mundo foi uma decepção”, diz Ancelotti sobre campanha no Mundial",
+    "d": "Ao CNN Esportes S/A deste domingo (13), técnico da Seleção Brasileira faz uma análise do Mundial de 2026",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/copa-do-mundo-foi-uma-decepcao-diz-ancelotti-sobre-campanha-no-mundial/",
+    "time": "2026-09-12T00:30:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mendonça cede em processos, mas mantém sigilo sobre celular de Vorcaro",
+    "d": "Ministro enfrenta ofensiva de colegas; \"guerra de despachos\" escancarou crise instaurada no STF",
+    "link": "https://www.cnnbrasil.com.br/politica/mendonca-cede-em-processos-mas-mantem-sigilo-sobre-celular-de-vorcaro/",
+    "time": "2026-09-12T00:27:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "DF quer dados fiscais do Master para recuperar rombo no BRB",
+    "d": "objetivo é identificar os recursos \"subtraídos\" do BRB na tentativa de compra do Master e pedir a restituição dos valores",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/df-quer-dados-fiscais-do-master-para-recuperar-rombo-no-brb/",
+    "time": "2026-09-12T00:22:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Colisão entre três veículos no norte da Rússia mata ao menos 13 pessoas",
+    "d": "Duas crianças estão entre os mortos, segundo a mídia estatal russa",
+    "link": "https://www.cnnbrasil.com.br/internacional/colisao-entre-tres-veiculos-no-norte-da-russia-mata-pessoas/",
+    "time": "2026-09-12T00:22:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que diz inquérito sobre relação de Jaques Wagner com Banco Master e Vorcaro",
+    "d": "Em relatório da PF cujo sigilo foi derrubado nessa sexta-feira (11/09), investigadores afirmam haver 'robustos indícios' da participação de Wagner em crimes de corrupção ativa e passiva e lavagem de ativos.",
+    "link": "https://www.bbc.com/portuguese/articles/cz6znw0ev0vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-12T00:22:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chave do carro no papel-alumínio pode ajudar a evitar furtos? Entenda o truque",
+    "d": "Prática é associada a veículos com entrada e partida sem chave e tem explicação em um princípio da física",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/chave-do-carro-no-papel-aluminio-pode-ajudar-a-evitar-furtos-entenda-o-truque/",
+    "time": "2026-09-12T00:21:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Clássico Athletiba começa com atraso; Athletico-PR queria adiamento",
+    "d": "Clássico acontece na noite desta sexta-feira (11)",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/classico-athletiba-comeca-com-atraso-athletico-pr-queria-adiamento/",
+    "time": "2026-09-12T00:20:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira (11)",
+    "d": "Eleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira Os candidatos ao governo de Goiás cumpriram agenda de campanha nesta sexta-feira (11). Em Goiânia, Marconi Perillo (PSDB) fez u…",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml",
+    "time": "2026-09-12T00:14:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
+    "d": "Novos documentos sobre o caso Master vieram a público após o presidente do STF dar 24h para o ministro André Mendonça levantar o sigilo de 'todas as peças' relativas à investigação.",
+    "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-12T00:08:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial em visita a Aparecida de Goiânia",
+    "d": "Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial Em visita a Aparecida de Goiânia, o candidato ao governo de Goiás Marconi Perillo (PSDB) apresentou a proposta de criar um polo de i…",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-11ghtml.ghtml",
+    "time": "2026-09-11T23:26:16.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Veja o que é #FATO e o que é #FAKE na entrevista de Eduardo Paes a 'O Globo', 'Extra', 'Valor' e CBN",
     "d": "Sabatina candidatos ao Governo do Estado do Rio de Janeiro Eduardo Paes ( PSD) com os entrevistadores Leandro Resende, Chico Goes, Bernardo Mello Franco , Bianca Santos e Thiago Prado Ana Branco / Agência O Globo O ca…",
@@ -9,43 +161,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidente do Irã diz que país não vai ceder à pressão dos EUA e de Israel",
-    "d": "Masoud Pezeshkian participou de um evento com líderes religiosos e empresariais em Nova Délhi, à margem da cúpula do Brics",
-    "link": "https://www.cnnbrasil.com.br/internacional/presidente-do-ira-diz-que-pais-nao-vai-ceder-a-pressao-dos-eua-e-de-israel/",
-    "time": "2026-09-11T23:12:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Everton Cebolinha é relacionado e pode estrear pelo Santos contra Cruzeiro",
-    "d": "Partida será realizada neste sábado (12), na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/everton-cebolinha-e-relacionado-e-pode-estrear-pelo-santos-contra-cruzeiro/",
-    "time": "2026-09-11T23:10:35.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Aviões se chocam contra torres do World Trade Center e provocam pânico mundial: veja como a Nasa acompanhou o atentado do espaço",
-    "d": "Frank Culbertson estava na ISS e documentou os ataques com fotos, registrando seus pensamentos enquanto o mundo mudava",
-    "link": "https://www.cnnbrasil.com.br/ciencia/avioes-se-chocam-contra-torres-do-world-trade-center-e-provocam-panico-mundial-veja-como-a-nasa-acompanhou-o-atentado-do-espaco/",
-    "time": "2026-09-11T23:03:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Coritiba x Athletico-PR: escalações e onde assistir ao jogo do Brasileirão",
-    "d": "Clássico Athletiba será disputado na noite desta sexta-feira (11)",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-x-athletico-pr-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "time": "2026-09-11T23:01:34.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Renan quer queda de sigilo completa do Master e diz que caso é “assustador”",
-    "d": "Candidato à Presidência pelo Missão defendeu a importância do STF, mas falou em \"recuperar a instituição com novas pessoas\"",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/renan-quer-queda-de-sigilo-completa-do-master-e-diz-que-caso-e-assustador/",
-    "time": "2026-09-11T22:59:37.000Z"
+    "src": "BBC News Brasil",
+    "h": "Os argumentos de Gilmar Mendes para que sessão do dia 15 também analise acusações contra Mendonça",
+    "d": "Em ofício enviado ao presidente do STF nesta sexta-feira (11/09), o decano Gilmar Mendes pediu que petição envolvendo acusações contra André Mendonça também seja avaliada, assim como o pedido de nulidade feito pela PG…",
+    "link": "https://www.bbc.com/portuguese/articles/cj64n212xleo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-11T23:11:39.000Z"
   },
   {
     "cat": "brasil",
@@ -56,68 +176,12 @@
     "time": "2026-09-11T22:58:35.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Arrest made over the death of black woman found hanged from tree",
-    "d": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T22:57:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mendonça atende PGR e libera nova leva de processos do caso Master",
-    "d": "Documentos são referentes a nomes como Jaques Wagner, Ciro Nogueira e Cláudio Castro, além do filme Dark Horse",
-    "link": "https://www.cnnbrasil.com.br/politica/mendonca-atende-pgr-e-libera-nova-leva-de-processos-do-caso-master/",
-    "time": "2026-09-11T22:57:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vitória da AfD na Alemanha é resultado de erros dos globalistas, diz Putin",
-    "d": "Líder russo criticou a postura das elites que, segundo ele, acreditaram que tudo lhes era permitido e que não erravam",
-    "link": "https://www.cnnbrasil.com.br/internacional/vitoria-da-afd-na-alemanha-e-resultado-de-erros-dos-globalistas-diz-putin/",
-    "time": "2026-09-11T22:52:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PF cumpriu mandados em mansão “super luxo” de ex-esposa de Vorcaro; veja",
-    "d": "Imóvel em condomínio fechado em Nova Lima (MG) conta com boate, academia, pista de boliche, estande de tiro e parque aquático",
-    "link": "https://www.cnnbrasil.com.br/politica/pf-cumpriu-mandados-em-mansao-super-luxo-de-ex-esposa-de-vorcaro-veja/",
-    "time": "2026-09-11T22:51:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "US Open: Zverev bate Khachanov e se aproxima do 2º título de Grand Slam",
-    "d": "Atual campeão de Roland Garros, alemão espera Ben Shelton ou Frances Tiafoe na grande final",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/us-open-zverev-bate-khachanov-e-se-aproxima-do-2o-titulo-de-grand-slam/",
-    "time": "2026-09-11T22:51:24.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
-    "h": "IA da dona do ChatGPT fez outro ataque hacker antes de empresa revelar incidente 'sem precedentes', diz jornal",
-    "d": "O logotipo da OpenAI é visto em um telefone celular em frente a uma tela de computador que exibe a tela inicial do ChatGPT AP/Michael Dwyer, Arquivo Agentes de inteligência artificial da OpenAI, desenvolvedora do Chat…",
+    "h": "IA da dona do ChatGPT fez outro ataque hacker antes de empresa revelar incidente 'sem precedentes', dizem pesquisadores",
+    "d": "O logotipo da OpenAI é visto em um telefone celular em frente a uma tela de computador que exibe a tela inicial do ChatGPT AP/Michael Dwyer, Arquivo Agentes de inteligência artificial da OpenAI, dona do ChatGPT, fizer…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/11/ia-da-dona-do-chatgpt-fez-outro-ataque-hacker-antes-de-empresa-revelar-incidente-sem-precedentes-diz-jornal.ghtml",
     "time": "2026-09-11T22:50:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mendonça nega usurpação de competência e pede afastamento de diretor da PF",
-    "d": "Ministro diz a Fachin que medida tem respaldo legal, não invade competência de Lula nem do Plenário e já tem maioria na Segunda Turma",
-    "link": "https://www.cnnbrasil.com.br/politica/mendonca-nega-usurpacao-de-competencia-e-pede-afastamento-de-diretor-da-pf/",
-    "time": "2026-09-11T22:48:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CIA divulga dados enviados à Casa Branca antes de ataques de 11 de setembro",
-    "d": "Relatório entregue em 10 de setembro de 1998 afirmava que um grupo associado ao líder da Al-Qaeda, Osama bin Laden, \"poderia lançar um avião carregado de explosivos contra uma cidade dos EUA",
-    "link": "https://www.cnnbrasil.com.br/internacional/cia-divulga-dados-enviados-a-casa-branca-antes-de-ataques-de-11-de-setembro/",
-    "time": "2026-09-11T22:48:22.000Z"
   },
   {
     "cat": "brasil",
@@ -129,17 +193,9 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tênis: SP Open terá entrada gratuita neste fim de semana; saiba mais",
-    "d": "WTA 250 acontece no Parque Villas-Lobos, em São Paulo e começa no sábado (12)",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-sp-open-tera-entrada-gratuita-neste-fim-de-semana-saiba-mais/",
-    "time": "2026-09-11T22:46:39.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Mendonça defende afastamento do diretor-geral da PF e nega lesão à ordem pública",
-    "d": "O ministro do Supremo Tribunal Federal (STF) André Mendonça defendeu sua decisão de afastar preventivamente do cargo o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, e o diretor de Inteligência Policial da c…",
+    "d": "Mendonça libera sigilo de mais documentos do caso Master O ministro do Supremo Tribunal Federal (STF) André Mendonça defendeu sua decisão de afastar preventivamente do cargo o diretor-geral da Polícia Federal (PF), An…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/11/mendonca-defende-afastamento-do-diretor-geral-da-pf-e-nega-lesao-a-ordem-publica.ghtml",
     "time": "2026-09-11T22:45:20.000Z"
   },
@@ -192,30 +248,6 @@
     "time": "2026-09-11T21:54:34.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: 50% desaprovam e 47% aprovam governo Lula",
-    "d": "Pesquisa Datafolha divulgada nesta sexta-feira (11) mostra que 50% desaprovam e 47% aprovam o governo do presidente Lula (PT), candidato à reeleição. O levantamento foi encomendado pela Globo e pelo jornal Folha de S.…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-aprova-desaprova-governo-11-setembro.ghtml",
-    "time": "2026-09-11T21:41:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%",
-    "d": "Pesquisa Datafolha divulgada nesta sexta-feira (11) mostra que o presidente Lula (PT) aparece com 46% das intenções de voto, enquanto o senador Flávio Bolsonaro (PL) tem 44% em eventual disputa de 2º turno da eleição…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
-    "time": "2026-09-11T21:39:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 35%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%",
-    "d": "Datafolha, 1º turno: Lula tem 39%, e Flávio Bolsonaro, 35% Pesquisa Datafolha divulgada nesta sexta-feira (11) mostra o cenário da disputa pela Presidência da República. Lula tem 39% das intenções de voto no 1º turno,…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-presidente-11-setembro.ghtml",
-    "time": "2026-09-11T21:39:07.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Passenger train derails in France leaving at least 44 injured",
@@ -240,14 +272,6 @@
     "time": "2026-09-11T20:39:48.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "6 perguntas para entender inquérito contra Flávio Bolsonaro — e o o que falta ser esclarecido",
-    "d": "Investigação foi instaurada em julho, mas desdobramentos ainda estão em sigilo",
-    "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T20:34:59.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Tragic death of woman who testified against father in notorious mafia murder of mother",
@@ -270,14 +294,6 @@
     "d": "A família do rei Oyo afirma que ele deixou um testamento nomeando seu filho pequeno como herdeiro do reino de Tooro.",
     "link": "https://www.bbc.com/portuguese/articles/cy0zv15knyvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-11T18:55:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Fachin dá 24 horas para que Mendonça libere mais documentos do caso Master em meio a críticas sobre 'seletividade'",
-    "d": "Decisão atende a um pedido da PGR. Mais cedo, o ministro Alexandre de Moraes pediu que todos os documentos do caso fossem tornados públicos e disse que Mendonça fez 'escolha seletiva' na retirada de sigilo.",
-    "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T18:44:04.000Z"
   },
   {
     "cat": "economia",
@@ -310,14 +326,6 @@
     "d": "Candidatos ao Senado do DF respondem sobre crise do BRB A Polícia Federal (PF) concluiu que houve gestão fraudulenta de ex-dirigentes do Banco Regional de Brasília (BRB) em operações de compra que somaram R$ 17,5 bilh…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-conclui-que-houve-fraude-em-compras-de-r-175-bilhoes-em-carteiras-do-master-pelo-brb.ghtml",
     "time": "2026-09-11T17:20:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo",
-    "d": "André Mendonça determinou a investigação de Flávio Bolsonaro por supostos crimes no financiamento do filme junto ao Banco Master.",
-    "link": "https://www.bbc.com/portuguese/articles/c4g5ky0r25jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T16:42:27.000Z"
   },
   {
     "cat": "internacional",
@@ -454,14 +462,6 @@
     "d": "Sophia Amoruso. Getty Images A fortuna de Sophia Amoruso, em certo momento, chegou a ser maior que a de Beyoncé. Mas, para chegar a este ponto, ela andou de carona, roubou livros e revirou latões de lixo em busca de c…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/11/criei-do-nada-um-imperio-da-moda-que-me-deixou-multimilionaria-mas-cresceu-tanto-que-abri-falencia.ghtml",
     "time": "2026-09-11T10:14:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Mario Frias e a produtora do filme 'Dark Horse', sobre Bolsonaro, são alvo da PF",
-    "d": "Polícia Federal diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
-    "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-11T09:32:31.000Z"
   },
   {
     "cat": "economia",
