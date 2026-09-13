@@ -1,11 +1,243 @@
 [
   {
     "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como o ar mais limpo acelera o aquecimento global — e vem revelando um problema maior",
+    "d": "Uma curiosa discussão nas redes sociais sobre as ondas de calor ocorridas no último verão europeu destaca uma preocupante mudança no estudo científico das mudanças climáticas.",
+    "link": "https://www.bbc.com/portuguese/articles/cly74p4dznpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T16:30:25.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+    "d": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T16:05:41.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Sobe para 3 número de mortos após desabamento de prédio na zona leste de SP",
-    "d": "Até o momento, vítimas são duas mulheres, uma delas grávida, e um homem; segundo o Corpo de Bombeiros, ainda restam três desaparecidos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sobe-para-3-numero-de-mortos-apos-desabamento-de-predio-na-zona-leste-de-sp/",
-    "time": "2026-09-13T11:47:31.000Z"
+    "h": "Torcedores do Vasco protestam contra Coutinho, que acertou com o Santos",
+    "d": "Camisa com a foto do jogador e a palavra \"Judas\" foi exibida antes da partida contra o Grêmio pelo Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/torcedores-do-vasco-protestam-contra-coutinho-que-acertou-com-o-santos/",
+    "time": "2026-09-13T15:59:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cristiano Ronaldo pede punição a torcedores após cânticos sobre Diogo Jota",
+    "d": "Jogador português exigiu banimento para fãs que provocaram Rúben Neves durante partida da Liga Saudita",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-pede-punicao-a-torcedores-apos-canticos-sobre-diogo-jota/",
+    "time": "2026-09-13T15:58:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Relatório da Polícia Civil de SP vê 'consistentes suspeitas' de desvio de recursos de contrato de wi-fi para Dark Horse",
+    "d": "Relatório da Polícia Civil de São Paulo identificou \"consistentes suspeitas\" de que os recursos públicos do programa 'WiFi Livre SP\", contratados por meio do Instituto Conhecer Brasil (ICB), tenham sido desviados para…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/13/relatorio-da-policia-civil-de-sp-ve-consistentes-suspeitas-de-desvio-de-recursos-de-contrato-de-wi-fi-para-dark-horse.ghtml",
+    "time": "2026-09-13T15:54:51.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump doubles down on united Ireland comments on day two of visit",
+    "d": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T15:42:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US congressman swims to safety after his plane is forced to land on a lake",
+    "d": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T15:30:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Plantas: como escolher a melhor para cada ambiente da casa",
+    "d": "Mais do que um elemento de decoração, as plantas são organismos vivos que dependem de fatores como luminosidade, ventilação, umidade e frequência de regas para se desenvolver",
+    "link": "https://www.cnnbrasil.com.br/comportamento/casa-e-decoracao/plantas-como-escolher-a-melhor-para-cada-ambiente-da-casa/",
+    "time": "2026-09-13T15:15:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lotofácil da Independência: sorteio terá prêmio estimado em R$ 300 milhões",
+    "d": "Sorteio será realizado nesta terça-feira (15), às 11h; apostas podem ser feitas até as 20h de segunda-feira (14)",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/lotofacil-da-independencia-sorteio-tera-premio-estimado-em-r-300-milhoes/",
+    "time": "2026-09-13T15:12:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Série “Scooby-Doo: A Origem” tem gravações encerradas, anuncia Netflix",
+    "d": "Série live-action estreia em 2027, mas não tem data definida",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/serie-scooby-doo-a-origem-tem-gravacoes-encerradas-anuncia-netflix/",
+    "time": "2026-09-13T15:04:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ex-noivo de Shailene Woodley diz que ela revelou “desejo” por outro homem",
+    "d": "Aaron Rodgers, jogador de futebol americano, comentou sobre fim do relacionamento com a atriz, cerca de cinco anos depois",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-noivo-de-shailene-woodley-diz-que-ela-revelou-desejo-por-outro-homem/",
+    "time": "2026-09-13T15:03:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ataques russos frustram nova tentativa de paz de Trump na Ucrânia",
+    "d": "Bombardeios recentes na Europa Oriental contrastam com o otimismo da retórica americana sobre negociações de paz",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-ucrania-paz-frustrada-russia/",
+    "time": "2026-09-13T15:00:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Medidas para frear alta da gasolina devem custar R$ 6,5 bi em 2026",
+    "d": "Subvenção descontinuada do combustível custou R$ 4,8 bi, enquanto gastos da desoneração estão estimados em R$ 1,7 bi",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/medidas-para-frear-alta-da-gasolina-devem-custar-r-65-bi-em-2026/",
+    "time": "2026-09-13T15:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Geely EX5 elétrico ganha nova opção de acabamento interno; confira detalhes",
+    "d": "Primeiro modelo da Geely lançado no mercado brasileiro, o EX5 chegou em julho de 2025 e acumula quase 3 mil unidades emplacadas",
+    "link": "https://www.cnnbrasil.com.br/auto/geely-ex5-eletrico-ganha-nova-opcao-de-acabamento-interno-confira-detalhes/",
+    "time": "2026-09-13T15:00:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "d": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T14:53:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeo: Avião com cantor Rey Vaqueiro pega fogo após sair de pista no RN",
+    "d": "Segundo o Corpo de Bombeiros, havia oito pessoas na aeronave, sendo dois tripulantes e seis passageiros, incluindo o artista e sua equipe; ninguém ficou ferido gravemente",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/rn/video-aviao-com-cantor-rey-vaqueiro-pega-fogo-apos-sair-de-pista-no-rn/",
+    "time": "2026-09-13T14:52:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "F1: Kimi Antonelli vence estreia do novo circuito de Madri no GP da Espanha",
+    "d": "Piloto italiano de 20 anos é o mais rápido em Madring e abre 81 pontos de vantagem sobre o segundo colocado na disputa pelo título",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-kimi-antonelli-vence-estreia-do-novo-circuito-de-madri-no-gp-da-espanha/",
+    "time": "2026-09-13T14:51:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: deu vergonha do Cruzeiro contra o Santos",
+    "d": "Derrota por 2 a 1 na Vila Belmiro expõe fragilidade da equipe celeste na 27ª rodada do Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/analise-deu-vergonha-do-cruzeiro-contra-o-santos/",
+    "time": "2026-09-13T14:40:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em resposta a Fachin, PF diz que tem condições de enviar dados do celular de Vorcaro ao STF",
+    "d": "A Polícia Federal informou ao presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, na manhã deste domingo (13), que dispõe de plenas condições técnicas para produzir e enviar uma cópia idêntica dos dados e…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/13/pf-celular-de-vorcaro-stf.ghtml",
+    "time": "2026-09-13T14:31:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+    "d": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+    "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T14:25:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Dark Horse': Dino retira sigilo de material da polícia de SP sobre financiamento do filme",
+    "d": "Entre os alvos da investigação que está sob relatoria de Dino no STF estão o deputado federal Mario Frias (PL-SP), produtor executivo do filme, e Karina Gama, dona da produtora responsável.",
+    "link": "https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T14:23:42.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena 3057 acumula e prêmio sobe para R$ 95 milhões; confira os números sorteados",
+    "d": "Mega-Sena, concurso 3057: confira os números sorteados O sorteio do concurso 3.057 da Mega-Sena foi realizado na manhã desta domingo (13), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/13/mega-sena-concurso-3057-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-09-13T14:02:38.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
+    "d": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers The Guardian view on controlling AI: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a…",
+    "link": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+    "time": "2026-09-13T14:02:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Legendary Canadian boxer George Chuvalo dies aged 89",
+    "d": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T14:01:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Ela postou, sem saber, sobre uma festa de Daniel Vorcaro no Madame Satã e sua vida sofreu um terremoto: 'Só agora entendi tudo'",
+    "d": "A contadora Ana Raquel Ribeiro havia deixado o emprego para viver de um perfil sobre música eletrônica. A conta saiu do ar sem explicação específica; Três anos depois, documentos da PF mostram agora uma ordem de um do…",
+    "link": "https://www.bbc.com/portuguese/articles/c4gdpwelzeqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T13:43:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Dark Horse: Dino levanta sigilo de investigação que cita Mário Frias, aponta indícios de irregularidades e menciona possível elo com PCC",
+    "d": "Dino retira sigilo de inquérito sobre Dark Horse O ministro do Supremo Tribunal Federal (STF), Flávio Dino, levantou neste domingo (13) o sigilo de documentos enviados pela Justiça de São Paulo e unificou sob sua rela…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-dino-levanta-sigilo-de-investigacao-que-cita-mario-frias-aponta-indicios-de-irregularidades-e-menciona-possivel-elo-com-pcc.ghtml",
+    "time": "2026-09-13T13:43:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+    "d": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T13:30:38.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Paralisação em oleoduto da Arábia Saudita ameaça perda de 4% da oferta global de petróleo",
+    "d": "A Arábia Saudita ficará sem estoques de petróleo para exportação se não reiniciar seu principal oleoduto para o Mar Vermelho dentro de alguns dias, levando a uma perda de até 4% do suprimento global, disseram comprado…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/13/paralisacao-em-oleoduto-da-arabia-saudita-ameaca-perda-de-4percent-da-oferta-global-de-petroleo.ghtml",
+    "time": "2026-09-13T12:50:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic",
+    "d": "Alerta vem em um momento em que o chefe da empresa de IA pediu que o desenvolvimento da tecnologia seja desacelerado, citando riscos \"sérios\".",
+    "link": "https://www.bbc.com/portuguese/articles/c1mv342273vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T12:49:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+    "d": "Search and rescue agency says 107 people brought to safety from vessel hit by bad weather in Java Sea Rescue workers in Indonesia said at least six people had died and 130 others were missing on Sunday after a ferry s…",
+    "link": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
+    "time": "2026-09-13T12:18:49.000Z"
   },
   {
     "cat": "internacional",
@@ -16,44 +248,12 @@
     "time": "2026-09-13T11:23:42.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "El Niño pode afetar oferta e cotações de soja, diz economista",
-    "d": "Alexandre Mendonça de Barros aponta virada de ciclo no agro para 2026/27, com estoques menores e risco climático elevando preços",
-    "link": "https://www.cnnbrasil.com.br/agro/el-nino-pode-afetar-oferta-e-cotacoes-de-soja-diz-economista/",
-    "time": "2026-09-13T11:20:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil ganha primeira escala para medir angústia com degradação ambiental",
-    "d": "Estudo da Santa Casa, financiado pela Natura, validou ferramenta para avaliar solastalgia; quase metade da amostra atingiu limiar de rastreio para ansiedade moderada",
-    "link": "https://www.cnnbrasil.com.br/saude/brasil-ganha-primeira-escala-para-medir-angustia-com-degradacao-ambiental/",
-    "time": "2026-09-13T11:16:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-    "d": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-    "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T11:13:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "São Paulo segue em alerta de perigo para tempestades; veja previsão",
-    "d": "No decorrer do domingo (13), na Grande São Paulo, deve ocorrer chuva generalizada, com intensidade moderada a forte; cidade de São Paulo registrou o maior volume de chuva em 24 horas de todo o Brasil",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-segue-em-alerta-de-perigo-para-tempestades-veja-previsao/",
-    "time": "2026-09-13T11:04:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arqueólogos revelam maior mosaico romano já encontrado na história",
-    "d": "Especialistas acreditam que ele seja o maior do mundo romano e ainda escavam para descobrir sua extensão total",
-    "link": "https://www.cnnbrasil.com.br/internacional/maior-mosaico-de-parede-romano-ja-encontrado-retrata-cidade-misteriosa/",
-    "time": "2026-09-13T11:00:10.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
+    "d": "President has hyped growth of federal investment accounts to help US children – for his own political gain Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pu…",
+    "link": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
+    "time": "2026-09-13T11:00:05.000Z"
   },
   {
     "cat": "comercio",
@@ -62,14 +262,6 @@
     "d": "A escritora e ativista é uma das vozes mais importantes do feminismo latino-americano. Ela lidera há mais de 30 anos o coletivo Mulheres Criando, que ela própria define como 'índias, putas e lésbicas juntas, misturada…",
     "link": "https://www.bbc.com/portuguese/articles/cvgyp1pdpy0o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T10:53:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Matemática: por que só 28% dos brasileiros atingem nível básico no Pisa?",
-    "d": "Resultado do Brasil na avaliação de 2025 ficou estável pela quarta avaliação seguida, mas aumentou a distância entre estudantes de maior e menor desempenho em matemática",
-    "link": "https://www.cnnbrasil.com.br/educacao/matematica-por-que-so-28-dos-brasileiros-atingem-nivel-basico-no-pisa/",
-    "time": "2026-09-13T10:30:32.000Z"
   },
   {
     "cat": "economia",
@@ -97,46 +289,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Acidente radioativo com Césio 137 em Goiânia completa 39 anos; relembre caso",
-    "d": "Contaminação de locais e habitantes da capital de Goiás foi causada pelo descarte indevido de um aparelho de radiologia",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/acidente-radioativo-com-cesio-137-em-goiania-completa-39-anos-relembre-caso/",
-    "time": "2026-09-13T10:07:58.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Análise: Juros dos EUA podem ofuscar brilho de eleições no Brasil",
-    "d": "Analista do CNN Money avalia que mercado está em reprecificação de cenários eleitorais, mas alerta para risco dos juros americanos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-juros-dos-eua-podem-ofuscar-brilho-de-eleicoes-no-brasil/",
-    "time": "2026-09-13T10:04:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como Zara Larsson alcançou estrelato após mais de 10 anos na música",
-    "d": "Cantora sobe ao palco do Rock in Rio 2026 mais bombada do que em presença anterior no evento",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/como-zara-larsson-alcancou-estrelato-apos-mais-de-10-anos-na-musica/",
-    "time": "2026-09-13T10:00:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Uruguai segue caminho oposto à América Latina em plano de segurança",
-    "d": "Iniciativa busca políticas baseadas em evidências e coordenação ampla para combater o crime, fugindo de soluções autoritárias",
-    "link": "https://www.cnnbrasil.com.br/internacional/uruguai-segue-caminho-oposto-a-america-latina-em-plano-de-seguranca/",
-    "time": "2026-09-13T10:00:42.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-    "d": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T09:42:08.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O que novo presidente da Colômbia pretende com polêmicas imagens caminhando entre cadáveres",
     "d": "Uma imagem vale mais que mil palavras. O novo presidente da Colômbia envia uma mensagem forte, explícita e controversa sobre segurança.",
@@ -144,20 +296,12 @@
     "time": "2026-09-13T09:25:53.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "IA é fundamental para modelo de operação das empresas, diz CIO da MRV",
-    "d": "Reinaldo Sima afirma que inteligência artificial ocupa papel semelhante ao da internet há 20 anos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-e-fundamental-para-modelo-de-operacao-das-empresas-diz-cio-da-mrv/",
-    "time": "2026-09-13T09:15:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Manchester United x City: horário e onde assistir ao jogo da Premier League",
-    "d": "Clássico é válido pela quarta rodada do Campeonato Inglês e acontece neste domingo (13)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-united-x-city-horario-e-onde-assistir-ao-jogo-da-premier-league/",
-    "time": "2026-09-13T09:11:32.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    "d": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T09:05:10.000Z"
   },
   {
     "cat": "economia",
@@ -198,14 +342,6 @@
     "d": "OpenAI e Anthropic Reuters/Dado Ruvic/Illustration Um pesquisador de inteligência artificial (IA) que deixou a OpenAI, criadora do ChatGPT, para trabalhar na Anthropic decidiu abandonar o setor. Ele acusa as duas empr…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/13/pode-matar-todos-nos-por-que-pesquisador-deixou-setor-de-ia-e-acusa-empresas-de-ignorar-riscos.ghtml",
     "time": "2026-09-13T06:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Indonesian rescue crews searching for 140 people after ferry hit bad weather",
-    "d": "More than 100 others on board were evacuated from the Virgo ⁠Transport 8 ship, including one who died Indonesian rescuers were searching on Sunday for 140 people from a ⁠passenger ship that was earlier reported missin…",
-    "link": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
-    "time": "2026-09-13T05:10:38.000Z"
   },
   {
     "cat": "brasil",
@@ -264,14 +400,6 @@
     "time": "2026-09-13T02:39:50.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
-    "d": "Decisão foi divulgada pelo presidente do Supremo na noite de sábado e vai se refletir na sessão de terça, 15, marcada para analisar elo entre Moraes e dono do Master.",
-    "link": "https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T01:09:08.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
@@ -286,22 +414,6 @@
     "d": "Renan Santos, candidato do Missão, à presidência cumpriu agenda em Santa Catarina TV Globo/Reprodução O candidato do Missão à presidência da República Renan Santos cumpriu agenda de campanha neste sábado (12) em Joinv…",
     "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/12/renan-santos-agenda-joinville-santa-catarina.ghtml",
     "time": "2026-09-13T00:33:35.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-    "d": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-    "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T23:51:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que alguns chefões do Vale do Silício rejeitam previsão de que IA pode extinguir a humanidade",
-    "d": "Uma recente onda de alertas sobre uma ameaça existencial da IA contra a humanidade foi recebida com ceticismo por executivos e investidores.",
-    "link": "https://www.bbc.com/portuguese/articles/cy4zpg8pjgwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T23:28:40.000Z"
   },
   {
     "cat": "brasil",
@@ -336,52 +448,12 @@
     "time": "2026-09-12T22:16:24.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
-    "d": "O inquérito da Polícia Federal sobre o filme Dark Horse, que apura suspeitas de irregularidades no financiamento da produção, que recebeu recursos de Daniel Vorcaro, traz novos detalhes sobre o orçamento do longa-metr…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/12/os-numeros-milionarios-de-dark-horse-que-flavio-bolsonaro-prometeu-a-vorcaro-cache-de-oppenheimer-bilheteria-da-zendaya.ghtml",
-    "time": "2026-09-12T21:49:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-    "d": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T21:25:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin dá 24 horas para PF prestar informações sobre celular de Vorcaro",
-    "d": "Fachin dá prazo de 24 horas para a PF se manifestar sobre celular de Daniel Vorcaro O presidente do Supremo Tribunal Federal, ministro Luiz Edson Fachin, deu 24 horas para a Polícia Federal prestar informações sobre o…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/12/fachin-da-24-horas-para-pf-prestar-informacoes-sobre-celular-de-vorcaro.ghtml",
-    "time": "2026-09-12T21:23:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: mais de 80% dizem que crise no STF não alterou voto para presidente",
-    "d": "Na imagem, ministros do STF: Alexandre de Moraes (dir.) e André Mendonça Fotos de: Fabio Rodrigues-Pozzebom da Agência Brasil e Carlos Moura do STF Pesquisa Datafolha divulgada neste sábado (12) mediu o impacto da cri…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/12/datafolha-stf-voto.ghtml",
-    "time": "2026-09-12T21:21:33.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Afghan woman deported from US in first use of 'alien terrorist' court",
     "d": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
     "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-12T21:19:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "d": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T21:16:47.000Z"
   },
   {
     "cat": "brasil",
@@ -400,30 +472,6 @@
     "time": "2026-09-12T20:27:25.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Fire at nursing home in Chile kills 16 residents",
-    "d": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T19:36:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Ela postou, sem saber, sobre uma festa de Daniel Vorcaro no Madame Satã e sua vida sofreu um terremoto: 'Só agora entendi tudo'",
-    "d": "A contadora Ana Raquel Ribeiro havia deixado o emprego para viver de um perfil sobre música eletrônica. A conta saiu do ar sem explicação específica; Três anos depois, documentos da PF mostram agora uma ordem de um do…",
-    "link": "https://www.bbc.com/portuguese/articles/c4gdpwelzeqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T18:44:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Uganda's King Oyo buried amid calls for unity over his successor",
-    "d": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-    "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T16:55:31.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido",
@@ -438,14 +486,6 @@
     "d": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (12) que a economia brasileira precisa crescer para gerar empregos no país. O petista acrescentou que, para isso, o governo precisa investir e parar com…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/12/para-o-governo-investir-e-preciso-parar-com-essa-babaquice-de-fazer-superavit-diz-lula.ghtml",
     "time": "2026-09-12T16:10:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-    "d": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T15:09:55.000Z"
   },
   {
     "cat": "internacional",
@@ -497,35 +537,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Omoda 5: como o SUV desconhecido virou o 3º híbrido mais vendido do Brasil; veja o teste",
-    "d": "Omoda 5: como o SUV desconhecido virou o 3º híbrido mais vendido do Brasil Para os mais desatentos, ele ainda pode causar algum estranhamento à primeira vista. Mas quem acompanha o trânsito das grandes cidades talvez…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/12/omoda-5-como-o-suv-desconhecido-virou-o-3o-hibrido-mais-vendido-do-brasil-veja-o-teste.ghtml",
-    "time": "2026-09-12T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
     "d": "Rampant Yemeni fighters take control of island in narrow point of Bab al-Mandab strait, which Saudi is relying on for oil exports Why the rapid Houthi advance matters and what’s at stake Yemen’s rampant Houthi forces…",
     "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
     "time": "2026-09-12T04:45:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Como o Banco Master usou empresa de R$ 100 para simular R$ 7,15 bilhões em consignados, segundo a PF",
-    "d": "Fachin dá 24 horas para Mendonça liberar sigilo de documentos do caso Master Uma empresa criada com apenas R$ 100 de capital social, sem funcionários, sem movimentação bancária efetiva e sem estrutura operacional comp…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/12/como-o-banco-master-usou-empresa-de-r-100-para-simular-r-715-bilhoes-em-consignados-segundo-a-pf.ghtml",
-    "time": "2026-09-12T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
-    "d": "Novos documentos sobre o caso Master vieram a público após o presidente do STF dar 24h para o ministro André Mendonça levantar o sigilo de 'todas as peças' relativas à investigação.",
-    "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T00:08:59.000Z"
   },
   {
     "cat": "economia",
@@ -610,14 +626,6 @@
   {
     "cat": "economia",
     "src": "The Guardian",
-    "h": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-    "d": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities The price of oil has risen above $100 a barrel for the first time since July as the escalating conflict i…",
-    "link": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-    "time": "2026-09-09T19:09:13.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
     "h": "Apple’s new CEO introduces himself at annual showcase: ‘I continue to be inspired every single day’",
     "d": "John Ternus helms his first major event as head of $4.5tn company, where he announces first foldable iPhone John Ternus, Apple’s new CEO, helmed the company’s annual showcase of new iPhones and other products on Wedne…",
     "link": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
@@ -630,14 +638,6 @@
     "d": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said,…",
     "link": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
     "time": "2026-09-09T18:20:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-    "d": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousan…",
-    "link": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-    "time": "2026-09-09T11:00:07.000Z"
   },
   {
     "cat": "internacional",
