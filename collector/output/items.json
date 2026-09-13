@@ -1,6 +1,174 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Imprevisibilidade mostra mal funcionamento do STF, diz Conrado Hübner",
+    "d": "Ao WW Especial, professor de Direito Constitucional da USP afirma que politização do sistema judiciário leva a decisões casuísticas",
+    "link": "https://www.cnnbrasil.com.br/politica/imprevisibilidade-mostra-mal-funcionamento-do-stf-diz-conrado-hubner/",
+    "time": "2026-09-13T06:00:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Pode matar todos nós': por que pesquisador deixou setor de IA e acusa empresas de ignorar riscos",
+    "d": "OpenAI e Anthropic Reuters/Dado Ruvic/Illustration Um pesquisador de inteligência artificial (IA) que deixou a OpenAI, criadora do ChatGPT, para trabalhar na Anthropic decidiu abandonar o setor. Ele acusa as duas empr…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/13/pode-matar-todos-nos-por-que-pesquisador-deixou-setor-de-ia-e-acusa-empresas-de-ignorar-riscos.ghtml",
+    "time": "2026-09-13T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Indonesian rescue crews searching for 140 people after ferry hit bad weather",
+    "d": "More than 100 others on board were evacuated from the Virgo ⁠Transport 8 ship, including one who died Indonesian rescuers were searching on Sunday for 140 people from a ⁠passenger ship that was earlier reported missin…",
+    "link": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
+    "time": "2026-09-13T05:10:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Coventry City x Brighton: horário e onde assistir ao jogo da Premier League",
+    "d": "Equipes se enfrentam neste domingo (13) em partida válida pela 4ª rodada do Campeonato Inglês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/coventry-city-x-brighton-horario-e-onde-assistir-ao-jogo-da-premier-league/",
+    "time": "2026-09-13T05:00:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Levante x Barcelona: horário e onde assistir ao jogo de LaLiga",
+    "d": "Equipes vão a campo neste domingo (13) pela 5ª rodada do Campeonato Espanhol",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/levante-x-barcelona-horario-e-onde-assistir-ao-jogo-de-laliga/",
+    "time": "2026-09-13T04:15:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Embarcação com 243 pessoas é dada como desaparecida no mar da Indonésia",
+    "d": "Navio perdeu contato horas depois de zarpar de Surabaya rumo a Banjarmasin; agência de busca e salvamento já mobilizou equipes na região",
+    "link": "https://www.cnnbrasil.com.br/internacional/embarcacao-com-243-pessoas-desaparece-no-mar-da-indonesia/",
+    "time": "2026-09-13T03:37:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Celta de Vigo x Málaga: horário e onde assistir ao jogo de LaLiga",
+    "d": "Equipes vão a campo neste domingo (13) pela 5ª rodada do Campeonato Espanhol",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/celta-de-vigo-x-malaga-horario-e-onde-assistir-ao-jogo-de-laliga/",
+    "time": "2026-09-13T03:10:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: qual é a ordem de votação? Veja como montar sua colinha e treinar em uma urna virtual",
+    "d": "Simulador da Justiça Eleitoral permite escolher a eleição e o turno para treinar a votação Reprodução/TSE A 21 dias do primeiro turno das eleições de 2026, já dá para preparar a colinha: em 4 de outubro, o eleitor far…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/eleicoes-2026-ordem-votacao-colinha-eleitoral-simulador-urna.ghtml",
+    "time": "2026-09-13T03:00:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Tem que dar um jeito': como o Master estruturou a produção de documentos falsos, segundo a PF",
+    "d": "Fachin dá 24 horas para Mendonça liberar sigilo de documentos do caso Master Documentos tornados públicos nesta sexta-feira (11) detalham como funcionários do Banco Master participavam da produção de documentos aponta…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/13/documentos-banco-master-relatorio-pf.ghtml",
+    "time": "2026-09-13T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Governadores do Brasil: quem governa cada estado e até quando vai o mandato",
+    "d": "Urna eletrônica Divulgação O Brasil tem 26 estados e o Distrito Federal, cada um com um governador à frente do Poder Executivo. Em 2026, os eleitores voltarão às urnas para escolher os governadores e vice-governadores…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/governadores-do-brasil-quem-governa-cada-estado-e-ate-quando-vai-o-mandato.ghtml",
+    "time": "2026-09-13T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: como baixar e usar o e-Título",
+    "d": "Guia do Eleitor: Como baixar e usar o E-Título? O e-título é o aplicativo da Justiça Eleitoral que funciona como a via digital do seu título de eleitor. Para usá-lo, primeiramente, deve ser feito o download do app no…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/13/video-como-baixar-e-usar-o-e-titulo.ghtml",
+    "time": "2026-09-13T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Prioridade para PT e PL, votação para o Senado tem mais votos brancos e nulos que para presidente e governador",
+    "d": "Guia do eleitor: saiba como votar para as duas vagas para o Senado e evitar erros A eleição para o Senado Federal, uma das prioridades para o PL e para o PT, enfrenta uma dificuldade natural: a não votação. A eleição…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/prioridade-para-pt-e-pl-votacao-para-o-senado-tem-mais-votos-brancos-e-nulos-que-para-presidente-e-governador.ghtml",
+    "time": "2026-09-13T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 85 milhões neste domingo; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.057 da Mega-Sena pode pagar um prêmio de R$ 65 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (6), em São Paulo. 📱Favorite o g…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/13/mega-sena-pode-pagar-r-85-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-09-13T03:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
+    "d": "Prime minister’s office tells families of those missing ‘the nation stands with you’ as search and rescue efforts continue One person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu,…",
+    "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
+    "time": "2026-09-13T02:39:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Auxiliar de Abel Ferreira comenta suspensão do treinador no Palmeiras",
+    "d": "João Martins comandou o time no clássico contra o São Paulo e comparou o futebol à sociedade ao analisar punição ao treinador",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/auxiliar-de-abel-ferreira-comenta-suspensao-do-treinador-no-palmeiras/",
+    "time": "2026-09-13T02:37:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos 2 x 1 Cruzeiro: veja os melhores momentos do Brasileirão",
+    "d": "Jogo contou com a estreia de Everton Cebolinha pelo Peixe",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-2-x-1-cruzeiro-veja-os-melhores-momentos-do-brasileirao/",
+    "time": "2026-09-13T02:35:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Paulo: Dorival explica ausência de Calleri em jogo contra o Palmeiras",
+    "d": "Atacante ficou no banco de reservas e não entrou em campo na derrota tricolor por 2 a 0 pelo Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-dorival-explica-ausencia-de-calleri-em-jogo-contra-o-palmeiras/",
+    "time": "2026-09-13T02:23:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Colocar um rolo de papel higiênico na geladeira: para que serve e por que recomendam fazer isso",
+    "d": "Descubra como papel higiênico controla umidade, elimina maus odores e prolonga a conservação dos alimentos",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/colocar-um-rolo-de-papel-higienico-na-geladeira-para-que-serve-e-por-que-recomendam-fazer-isso/",
+    "time": "2026-09-13T02:04:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos vence Cruzeiro pelo Brasileirão em estreia de Cebolinha",
+    "d": "Atacante jogou pela primeira vez com a camisa do Peixe neste sábado (12)",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-vence-cruzeiro-pelo-brasileirao-em-estreia-de-cebolinha/",
+    "time": "2026-09-13T01:59:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fuchs projeta jogo contra LDU: “Precisamos aprender com os erros passados”",
+    "d": "Possível substituto de Gómez na próxima quarta (16), zagueiro destacou os principais pontos da derrota no jogo que antecedeu a “noite mágica”",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/fuchs-projeta-jogo-contra-ldu-precisamos-aprender-com-os-erros-passados/",
+    "time": "2026-09-13T01:48:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Defesa de Vorcaro pede filtro antes de divulgação de dados do caso Master",
+    "d": "Advogados querem preservar informações privadas e sem relação com as investigações após retirada de sigilo de processos",
+    "link": "https://www.cnnbrasil.com.br/politica/defesa-de-vorcaro-pede-filtro-antes-de-divulgacao-de-dados-do-caso-master/",
+    "time": "2026-09-13T01:32:11.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
     "d": "Decisão foi divulgada pelo presidente do Supremo na noite de sábado e vai se refletir na sessão de terça, 15, marcada para analisar elo entre Moraes e dono do Master.",
@@ -8,12 +176,12 @@
     "time": "2026-09-13T01:09:08.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Simaria esgota ingressos de primeiro show após retorno aos palcos",
-    "d": "Artista se apresenta em São Paulo neste sábado (12) para gravação de seu primeiro DVD em carreira solo",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/simaria-esgota-ingressos-em-primeiro-show-apos-retorno-aos-palcos/",
-    "time": "2026-09-13T00:42:57.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+    "d": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+    "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-13T00:49:08.000Z"
   },
   {
     "cat": "brasil",
@@ -25,99 +193,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Segurança impede suposto invasor em propriedade de Kamala Harris",
-    "d": "Ex-vice-presidente não conta com proteção do Serviço Secreto dos EUA",
-    "link": "https://www.cnnbrasil.com.br/internacional/seguranca-impede-suposto-invasor-em-propriedade-de-kamala-harris/",
-    "time": "2026-09-13T00:28:03.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que jovens chineses são tão fascinados com Mao Tsé Tung, cuja morte completa 50 anos?",
     "d": "Vídeos do falecido líder comunista estão acumulando milhões de visualizações online, indicando um aparente ressurgimento de sua popularidade entre alguns jovens.",
     "link": "https://www.bbc.com/portuguese/articles/c2dwn2059y2o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T00:20:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rock in Rio: Cobra Coral recebeu pedido emergencial para atuar no festival",
-    "d": "Stray Kids, Alok, Hwasa e Nexz se apresentaram sem chuva na sexta (11) após fundação atender a pedido de cliente não revelado",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-cobra-coral-recebeu-pedido-emergencial-para-atuar-no-festival/",
-    "time": "2026-09-13T00:18:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Torcedores do Grêmio xingam Luís Castro e pedem a volta de Renato Gaúcho",
-    "d": "Público presente na Arena do Grêmio neste sábado (12) protestou contra o momento do Tricolor no Brasileirão",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/torcedores-do-gremio-xingam-luis-castro-e-pedem-a-volta-de-renato-gaucho/",
-    "time": "2026-09-13T00:16:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Suspeito é preso com 11 fuzis e uma submetralhadora no RJ",
-    "d": "Armas foram encontradas após veículo ser interceptado pela Polícia Federal, junto à Polícia Rodoviária Federal, na Rodovia Presidente Dutra",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/suspeito-e-preso-com-11-fuzis-e-uma-submetralhadora-no-rj/",
-    "time": "2026-09-13T00:14:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Donos de construtora de prédio que desabou em SP serão presos, diz Nunes",
-    "d": "Prefeito afirma que proprietários cometeram crime ao descumprirem ordem de demolição emitida em 2024",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/donos-de-construtora-de-predio-que-desabou-em-sp-serao-presos-diz-nunes/",
-    "time": "2026-09-13T00:08:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Matías Viña celebra chegada ao Cruzeiro e revela impasse no River Plate",
-    "d": "Lateral uruguaio desembarcou em Belo Horizonte e explicou detalhes do contrato que o tirou do clube argentino",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/matias-vina-celebra-chegada-ao-cruzeiro-e-revela-impasse-no-river-plate/",
-    "time": "2026-09-13T00:07:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras 2 x 0 São Paulo: veja os melhores momentos do Brasileirão",
-    "d": "Verdão dorme na liderança e agora seca Flamengo",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-2-x-0-sao-paulo-veja-os-melhores-momentos-do-brasileirao/",
-    "time": "2026-09-13T00:06:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arnold Schwarzenegger paga US$ 1 por ano para manter objeto de filme",
-    "d": "Ator se recusou a devolver a roupa usada em “Batman & Robin” e fez um acordo inusitado com a Warner Bros.",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/arnold-schwarzenegger-paga-us-1-por-ano-para-manter-objeto-de-filme/",
-    "time": "2026-09-13T00:05:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Reinier responde Neymar após provocações; veja",
-    "d": "Jogador do Atlético-MG minimiza fala do craque do Santos e diz que foco está na partida decisiva das quartas de final",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/reinier-responde-neymar-apos-provocacoes-veja/",
-    "time": "2026-09-12T23:59:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Prédio que desabou na zona Leste de SP já havia sido alvo de ação judicial",
-    "d": "Em 2021, a Prefeitura de São Paulo solicitou a demolição de uma construção irregular no local, após diversas decisões fiscalizatórias da Subprefeitura da Penha, uma ordem de interdição e multas aplicadas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/predio-que-desabou-na-zona-leste-de-sp-ja-havia-sido-alvo-de-acao-judicial/",
-    "time": "2026-09-12T23:55:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Luís Castro se irrita e recusa pergunta após derrota do Grêmio para o Vasco",
-    "d": "Treinador português também debateu com veemência outro questionamento e citou busca por \"sangue\" na imprensa",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/luis-castro-se-irrita-e-recusa-pergunta-apos-derrota-do-gremio-para-o-vasco/",
-    "time": "2026-09-12T23:52:31.000Z"
   },
   {
     "cat": "brasil",
@@ -194,6 +274,14 @@
   {
     "cat": "internacional",
     "src": "BBC News",
+    "h": "Afghan woman deported from US in first use of 'alien terrorist' court",
+    "d": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
+    "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-12T21:19:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
     "h": "Anthropic boss Dario Amodei calls for AI development to slow down",
     "d": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
     "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
@@ -216,44 +304,12 @@
     "time": "2026-09-12T21:02:26.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha no DF: Flávio Bolsonaro, 40%; Lula, 32%; Caiado; 8%; Cury, 6%; Renan, 3%; Zema, 1%",
-    "d": "Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema Globo Pesquisa Datafolha divulgada neste sábado (11) mostra o cenário da disputa pela Presidência da República entre os eleitores do Dist…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/12/datafolha-no-df-flavio-bolsonaro-40percent-lula-32percent-caiado-8percent-renan-3percent-zema-1percent-cury-6percent.ghtml",
-    "time": "2026-09-12T20:57:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha em PE: Lula, 55%; Flávio Bolsonaro, 24%; Cury, 4%; Renan, 2%; Caiado; 2%",
-    "d": "Candidatos à Presidência da República em 2026: Lula, Flávio, Renan, Caiado, Cury, Zema, Samara, Edmilson Costa, Clariana, Hertz Dias, Marçal, Rui Costa Pimenta e Wilson Grassi Montagem g1 Pesquisa Datafolha divulgada…",
-    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/12/datafolha-pe-presidente-setembro.ghtml",
-    "time": "2026-09-12T20:29:45.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
     "d": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
     "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-12T20:27:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Dark Horse': produção esperava bilheteria recorde de US$ 100 milhões no Brasil",
-    "d": "Um plano de negócios encontrado no celular do ex-banqueiro Daniel Vorcaro, dono do extinto Banco Master, projetava para o filme \"Dark Horse\", uma bilheteria capaz de rivalizar com os maiores sucessos do cinema mundial…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/12/dark-horse-producao-esperava-bilheteria-recorde-de-us-100-milhoes-no-brasil.ghtml",
-    "time": "2026-09-12T20:26:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: 34% dizem que Moraes deveria ser afastado; 28% defendem impeachment",
-    "d": "O ministro Alexandre de Moraes em sessão da Primeira Turma do STF Luiz Silveira/STF Pesquisa Datafolha divulgada neste sábado (12) mostra que 34% dos entrevistados defendem o afastamento do ministro Alexandre de Morae…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/12/datafolha-moraes-impeachment.ghtml",
-    "time": "2026-09-12T20:22:12.000Z"
   },
   {
     "cat": "internacional",
@@ -270,14 +326,6 @@
     "d": "A contadora Ana Raquel Ribeiro havia deixado o emprego para viver de um perfil sobre música eletrônica. A conta saiu do ar sem explicação específica; Três anos depois, documentos da PF mostram agora uma ordem de um do…",
     "link": "https://www.bbc.com/portuguese/articles/c4gdpwelzeqo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-12T18:44:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
-    "d": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
-    "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T17:38:21.000Z"
   },
   {
     "cat": "internacional",
@@ -361,14 +409,6 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-    "d": "Chinese president’s arrival in Delhi seen as step towards reconciliation after deadly 2020 military clash The Chinese president, Xi Jinping, has received a red-carpet welcome in India for a summit of Brics developing…",
-    "link": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
-    "time": "2026-09-12T12:39:12.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
     "d": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
@@ -416,14 +456,6 @@
     "time": "2026-09-12T05:55:15.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
-    "d": "The deadly fire had begun in the ferry’s cargo hold, then tore through the ship within seconds The bodies of passengers killed in a ferry fire off the Philippines arrived at a port near the resort town of Coron, Palaw…",
-    "link": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow",
-    "time": "2026-09-12T04:53:10.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
@@ -454,14 +486,6 @@
     "d": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quinta-feira (10) o fim da chamada \"taxa das blusinhas\", imposto de importação para compras internacionais de até US$ 50. A medida está em vigor desde maio e…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/12/medicamentos-raros-reavaliacao-do-impacto-veja-como-ficam-as-compras-internacionais-sem-a-taxa-das-blusinhas.ghtml",
     "time": "2026-09-12T03:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-    "d": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T02:29:49.000Z"
   },
   {
     "cat": "brasil",
@@ -502,30 +526,6 @@
     "d": "Entrada do BRB, Banco de Brasília, em 18 de novembro de 2025. Reuters/Mateus Bonomi A relação entre o Banco Master e o Banco de Brasília (BRB) ganhou novos contornos nesta semana, após o ministro André Mendonça, do Su…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/11/banco-master-brb-laudo-policia-federal.ghtml",
     "time": "2026-09-11T17:50:33.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "PF conclui que houve fraude em compras de R$ 17,5 bilhões em carteiras do Master pelo BRB",
-    "d": "Candidatos ao Senado do DF respondem sobre crise do BRB A Polícia Federal (PF) concluiu que houve gestão fraudulenta de ex-dirigentes do Banco Regional de Brasília (BRB) em operações de compra que somaram R$ 17,5 bilh…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-conclui-que-houve-fraude-em-compras-de-r-175-bilhoes-em-carteiras-do-master-pelo-brb.ghtml",
-    "time": "2026-09-11T17:20:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "China e Irã estão entre países que utilizaram IA para espionagem, diz Anthropic",
-    "d": "Anthropic bloqueia uso de IA em pesquisa de armas biológicas A Anthropic anunciou nesta semana que encerrou várias operações de vigilância patrocinadas por Estados que utilizavam seus modelos de inteligência artificia…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/09/11/china-e-ira-estao-entre-paises-que-utilizaram-ia-para-espionagem-diz-anthropic.ghtml",
-    "time": "2026-09-11T15:55:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "PF vê indícios de irregularidades em R$ 7 bilhões em créditos cedidos ao Master em investigação que envolve operações com o BRB",
-    "d": "Vorcaro teve acesso a dados sigilosos do MPF A Polícia Federal (PF) identificou fortes indícios de irregularidades na transferência de R$ 7,15 bilhões em créditos da empresa Tirreno Consultoria Promotoria de Créditos…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-ve-indicios-de-irregularidades-em-r-716-bilhoes-em-creditos-cedidos-ao-master-parte-dos-valores-foi-repassado-ao-brb.ghtml",
-    "time": "2026-09-11T14:37:06.000Z"
   },
   {
     "cat": "economia",
