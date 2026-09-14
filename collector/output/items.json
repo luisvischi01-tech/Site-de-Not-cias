@@ -1,27 +1,475 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "AirBaltic pede recuperação judicial nos EUA em meio à guerra com o Irã, diz agência",
+    "d": "Placas da AirBaltic são vistas em uma aeronave Airbus A220-300 no Aeroporto Internacional de Riga, na Letônia, em 8 de agosto de 2018. REUTERS/Ints Kalnins/Arquivo A companhia aérea letã airBaltic entrou voluntariamen…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/14/airbaltic-pede-recuperacao-judicial-nos-eua.ghtml",
+    "time": "2026-09-14T14:46:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Grupo de Mendonça articula antecipação de votos se houver pedido de vista",
+    "d": "Alexandre de Moraes e André Mendonça Luiz Silveira/STF e Antonio Augusto/STF Às vésperas da sessão que vai decidir se o Supremo Tribunal Federal (STF) abre investigação contra Alexandre de Moraes, ministros do grupo a…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/14/grupo-de-mendonca-articula-antecipacao-de-votos-se-houver-pedido-de-vista.ghtml",
+    "time": "2026-09-14T14:43:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "US tech stocks drop after calls for AI slowdown, as Trump blasts ‘sick conspiracy’ – business live",
+    "d": "Rolling coverage of the latest economic and financial news AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development AI CEOs say they need to slow the pace of development. But will they? The…",
+    "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+    "time": "2026-09-14T14:35:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Corteva aprova cisão da área de sementes e cria a Vylor",
+    "d": "Acionistas receberão uma ação da Vylor para cada papel da Corteva; nova companhia estreia na Bolsa de Nova York em 1º de outubro",
+    "link": "https://www.cnnbrasil.com.br/agro/corteva-aprova-cisao-da-area-de-sementes-e-cria-a-vylor/",
+    "time": "2026-09-14T14:27:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: 41% dos eleitores de Cury escolhem Flávio no 2º turno; 25%, Lula",
+    "d": "Levantamento divulgado nesta segunda-feira (14) ouviu 2.004 pessoas entre os dias 10 e 13 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-41-dos-eleitores-de-cury-escolhem-flavio-no-2o-turno-25-lula/",
+    "time": "2026-09-14T14:24:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bahia x Remo: horário e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes se enfrentam nesta segunda (14), pela 27ª rodada da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-x-remo-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-09-14T14:24:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PF libera dados de celular de Vorcaro para ministros do STF",
+    "d": "Gabinetes de Gilmar e Zanin já receberam e analisam o material entregue pela Polícia Federal; expectativa é que outros ministros peçam acesso ao longo do dia",
+    "link": "https://www.cnnbrasil.com.br/politica/pf-libera-dados-de-celular-de-vorcaro-para-ministros-do-stf/",
+    "time": "2026-09-14T14:21:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Felipe Melo alerta Pedro após duelo com o Corinthians: “Faltou seriedade”",
+    "d": "Ex-jogador avaliou atacante do Flamengo e destacou papel de Bruno Henrique em vitória que manteve a liderança do Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/felipe-melo-alerta-pedro-apos-duelo-com-o-corinthians-faltou-seriedade/",
+    "time": "2026-09-14T14:21:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Zanin e Gilmar Mendes recebem acesso integral a conteúdo do celular de Daniel Vorcaro",
+    "d": "Os gabinetes dos ministros Gilmar Mendes e Cristiano Zanin confirmaram ter recebido da Polícia Federal as informações do aparelho de celular do banqueiro Daniel Vorcaro",
+    "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T14:19:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TV Globo entrevista daqui a pouco Fernando Haddad (PT); acompanhe",
+    "d": "TV Globo entrevista daqui a pouco Fernando Haddad (PT); acompanhe Ex-ministro é o primeiro convidado para as entrevistas com os candidatos ao governo de São Paulo. Fernando Haddad (PT) participa, às 12h15 desta segund…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/tv-globo-entrevista-daqui-a-pouco-fernando-haddad-pt-acompanhe.ghtml",
+    "time": "2026-09-14T14:17:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pressionado, Lula cede a aliados, faz live e gravará “selfie”",
+    "d": "Presidente resistia a pedidos do entorno para aderir a formatos digitais, mas crise no STF vem levando campanha a correções de rota",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/pressionado-lula-cede-a-aliados-faz-live-e-gravara-selfie/",
+    "time": "2026-09-14T14:16:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: Preocupação com corrupção sobe de 14% para 22% em 12 dias",
+    "d": "A preocupação dos brasileiros com a corrupção subiu oito pontos percentuais em um intervalo de doze dias, mostra pesquisa Quaest divulgada nesta segunda-feira (14). LEIA TAMBÉM: Quaest, 1º turno: Lula, 36%; Flávio Bol…",
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2026/09/14/quaest-preocupacao-com-corrupcao-14-setembro.ghtml",
+    "time": "2026-09-14T14:15:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Freio' na IA? Debate coloca gigantes da tecnologia no radar dos investidores; ações operam mistas",
+    "d": "Bolsa de valores. Jornal Nacional/ Reprodução As ações das sete maiores e mais influentes empresas de tecnologia do mundo — conhecidas no mercado financeiro como as \"sete magníficas\" — operavam mistas nesta segunda-fe…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/14/acoes-tecnologia.ghtml",
+    "time": "2026-09-14T14:14:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Papa Leão XIV comemora aniversário de 71 anos com bolo de aniversário",
+    "d": "Pontífice visitou visitou Biblioteca Apostólica e inaugurou uma nova exposição no local",
+    "link": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-comemora-aniversario-de-71-anos-com-bolo-de-aniversario/",
+    "time": "2026-09-14T14:13:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por dentro da rede de influenciadores que ataca o voto feminino no Brasil",
+    "d": "Reportagem mapeou questionamento ao direito das mulheres ao voto e seus ecos no mundo político. À BBC News Brasil, ministra Cármen Lúcia, do STF, criticou declarações e disse que propor qualquer mudança neste direito…",
+    "link": "https://www.bbc.com/portuguese/articles/cy74n45p7dyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T14:13:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rock in Rio 2026: qual foi o melhor show do festival? Vote",
+    "d": "Evento reuniu mais de 700 mil espectadores durante sete dias de apresentações na Cidade do Rock",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-qual-foi-o-melhor-show-do-festival-vote/",
+    "time": "2026-09-14T14:11:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: 44% têm mais medo de reeleição de Lula; 42%, da volta da família Bolsonaro",
+    "d": "Flávio Bolsonaro e Lula Getty Images via BBC Pesquisa Quaest divulgada nesta segunda-feira (14) mostra que 44% dos eleitores têm mais medo de uma reeleição de Lula (PT), enquanto 42% temem mais a volta da família Bols…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-medo-reeleicao-lula-volta-familia-bolsonaro.ghtml",
+    "time": "2026-09-14T14:09:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+    "d": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+    "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T14:08:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Juju Salimeni chama atenção com macacão “a vácuo” em dia de samba",
+    "d": "Musa fitness apostou em look ousado para sambar muito na quadra da Barroca Zona Sul",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/juju-salimeni-chama-atencao-com-macacao-a-vacuo-em-dia-de-samba/",
+    "time": "2026-09-14T14:04:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Irmãs cariocas, recordistas do Guinness como o trio mais longevo do mundo, são escolhidas para estudo científico",
+    "d": "Moradoras do Rio foram reconhecidas pelo Guinness e têm outros relatos de longevidade na família, além de despertarem o interesse de pesquisadores da USP",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/irmas-cariocas-recordistas-do-guinness-como-o-trio-mais-longevo-do-mundo-sao-escolhidas-para-estudo-cientifico/",
+    "time": "2026-09-14T14:03:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Três dias antes de ser alvo de operação da PF, Cezinha divulgou vídeo no qual disse que teve celular furtado",
+    "d": "Deputado Cezinha de Madureira é alvo de operação da PF sobre tráfico de influência junto a tribunais superiores Três dias antes de ser alvo de mandados de busca e apreensão da Polícia Federal nesta segunda-feira (14),…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/14/cezinha-de-madureira-diz-que-teve-celular-furtado-tres-dias-antes-de-ser-alvo-de-operacao-da-pf.ghtml",
+    "time": "2026-09-14T14:02:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jornal chinês acusa EUA de tentar frear IA e fala em “Guerra Fria”",
+    "d": "Mídia propriedade do Estado chinês acusa CEO da Anthropic de tentar conter avanço tecnológico e chama manifestação de \"manual da Guerra Fria\" contra China",
+    "link": "https://www.cnnbrasil.com.br/internacional/jornal-estatal-chines-critica-apelos-para-desacelerar-ia-guerra-fria/",
+    "time": "2026-09-14T14:02:55.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Freio na IA: Trump contra-ataca e fala em 'conspiração doentia' para favorecer a China",
+    "d": "Empresários das 'Big Tech' defendem desacelerar o desenvolvimento da inteligência artificial O presidente dos Estados Unidos, Donald Trump, voltou a criticar nesta segunda-feira (14) os apelos de líderes de empresas d…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/09/14/freio-na-ia-trump-contra-ataca-e-fala-de-conspiracao-doentia-contra-a-tecnologia.ghtml",
+    "time": "2026-09-14T14:02:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Lula e Flávio empatam com 55% de rejeição",
+    "d": "Foram ouvidos 2.004 eleitores, entre os dias 10 e 13 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-lula-e-flavio-empatam-com-55-de-rejeicao/",
+    "time": "2026-09-14T13:54:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: transferência de votos de eleitores de Cury, Renan e Caiado favorece Flávio Bolsonaro no 2º turno",
+    "d": "Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado e Renan Santos Globo Pesquisa Quaest divulgada nesta segunda-feira (14) mostra que, em um eventual segundo turno contra Lula (PT), Flávio Bolsonaro (PL) recebe 41% das in…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-transferencia-votos-flavio-segundo-turno.ghtml",
+    "time": "2026-09-14T13:43:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 14 de setembro",
+    "d": "Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 40% 🧶Veja o fio: 1. Quaest: Lula mantém a liderança (36%), mas vê Flávio se aproximar (31%). É a menor distância entre os dois na série histórica de 1º turno da Quaest.…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/fio-felipe-nunes-14-setembro.ghtml",
+    "time": "2026-09-14T13:38:52.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que empresas que aceleraram a corrida da IA agora defendem pisar no freio; entenda o que está por trás disso",
+    "d": "CEO da Anthropic pede que setor desacelere ritmo de desenvolvimento da IA Executivos de grandes empresas de tecnologia passaram a defender uma pausa no avanço da inteligência artificial para tornar o desenvolvimento d…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/por-que-empresas-que-aceleraram-a-corrida-da-ia-agora-defendem-limites-entenda-o-que-esta-por-tras-disso.ghtml",
+    "time": "2026-09-14T13:34:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "2º turno entre Lula e Flávio Bolsonaro: veja números da Quaest por posicionamento político, região, sexo, faixa etária, escolaridade, renda e religião",
+    "d": "Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 40% Os dados da pesquisa Quaest divulgados nesta segunda-feira (14), mostram o senador Flávio Bolsonaro (PL) com 42% das intenções de voto contra o presidente Lula (PT),…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/2-turno-lula-e-flavio-bolsonaro-quaest-segmentos.ghtml",
+    "time": "2026-09-14T13:33:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem é Cezinha de Madureira, deputado federal do PL alvo da Polícia Federal",
+    "d": "Operação apura suspeita de 'práticas dos crimes de exploração de prestígio, tráfico de influência, corrupção passiva e lavagem de dinheiro'.",
+    "link": "https://www.bbc.com/portuguese/articles/c98r633vr87go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T13:27:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Julgamento sobre Moraes no STF: como deve ser a sessão desta terça e o que ainda é dúvida",
+    "d": "O Supremo Tribunal Federal (STF) realiza nesta terça-feira (15), a partir das 10h, uma sessão plenária extraordinária marcada para ser um dos momentos mais decisivos da crise institucional na Corte. Os ministros vão a…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml",
+    "time": "2026-09-14T13:21:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: entre eleitores de Cury, 25% escolhem Lula e 41%, Flávio Bolsonaro no 2º turno",
+    "d": "Montagem de fotos com os candidatos Lula (PT), Flávio Bolsonaro (PL) e Augusto Cury (Avante). Manoella Mello/Globo Pesquisa Quaest divulgada nesta segunda-feira (14) mostra que, entre os eleitores que pretendem votar…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-eleitores-cury-lula-flavio-segundo-turno-setembro.ghtml",
+    "time": "2026-09-14T13:21:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 40%",
+    "d": "Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 40% Pesquisa Quaest divulgada nesta segunda-feira (14), encomendada pelo jornal O Globo e pela Globo, mostra Flávio Bolsonaro (PL) à frente numericamente de Lula (PT) no…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-2-turno-setembro.ghtml",
+    "time": "2026-09-14T13:16:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 31%; Cury, 7%; Renan, 4%; Caiado, 4%; Zema, 1%",
+    "d": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 31%; Cury, 7%; Renan, 4%; Caiado, 4%; Zema, 1% Pesquisa Quaest divulgada nesta segunda-feira (14) sobre a eleição presidencial mostra Lula (PT) com 36% das intenções de v…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-pesquisa-presidente-primeiro-turno-14-setembro.ghtml",
+    "time": "2026-09-14T13:16:32.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Greve dos Correios continua e não tem previsão de encerramento; veja como ficam as entregas",
+    "d": "Greve dos Correios continua e não tem previsão de encerramento; veja como ficam as entregas Jornal Nacional/ Reprodução A greve dos trabalhadores dos Correios continua nesta segunda-feira (14), por tempo indeterminado…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/14/greve-dos-correios-continua-veja-como-ficam-as-entregas.ghtml",
+    "time": "2026-09-14T13:07:18.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "The London hospital funded by donors who invested in the slave trade",
+    "d": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from who…",
+    "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
+    "time": "2026-09-14T13:00:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Após dono do Claude pedir freio no desenvolvimento de IA, Trump minimiza riscos, China vê ameaças e UE pede segurança",
+    "d": "CEO da Anthropic pede que setor desacelere ritmo de desenvolvimento da IA O debate sobre o avanço da inteligência artificial voltou a ganhar destaque nesta semana após o CEO da Anthropic, Dario Amodei, defender, em um…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/como-autoridades-reagiram-apos-ceo-da-anthropic-pedir-freio-do-avanco-da-ia.ghtml",
+    "time": "2026-09-14T12:43:34.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
+    "d": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in…",
+    "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+    "time": "2026-09-14T12:38:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que os médicos gostam tanto da série 'The Pitt'",
+    "d": "Profissionais da área médica afirmam que a série da HBO Max sobre um pronto-socorro de um hospital americano é o drama médico mais realista já produzido.",
+    "link": "https://www.bbc.com/portuguese/articles/cm2dwzr339kko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T12:33:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Oil prices soar above $108 as Houthis strike Saudi infrastructure",
+    "d": "Iran-linked rebels force closure of east-west pipeline and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forc…",
+    "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+    "time": "2026-09-14T12:32:50.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Freio na IA: China acusa 'forças hostis' de abusarem da tecnologia após Trump dizer que lidera corrida",
+    "d": "Empresários das 'Big Tech' defendem desacelerar o desenvolvimento da inteligência artificial O chefe da Inteligência chinesa alertou que a inteligência artificial representa uma ameaça à segurança nacional do país, po…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/09/14/china-alerta-para-risco-da-ia-a-sua-seguranca-nacional.ghtml",
+    "time": "2026-09-14T12:20:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "d": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T12:18:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar opera em alta e vai a R$ 5,18, à espera de juros e de olho em quadro político brasileiro; Ibovespa cai",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta segunda-feira (14), em meio a uma maior aversão ao risco no mercado. A moeda subia 0,78% perto das 11h45, cotada a R$ 5,1651. Na máxima do d…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/14/dolar-ibovespa.ghtml",
+    "time": "2026-09-14T12:00:23.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Claro recebe aval para comprar Desktop por R$ 4 bilhões",
+    "d": "Agora no g1 O Conselho Administrativo de Defesa Econômica (Cade) aprovou, sem restrições, a compra da Desktop pela Claro por R$ 4 bilhões. A operação amplia a presença da Claro no mercado de banda larga de São Paulo,…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/14/claro-desktop-compra.ghtml",
+    "time": "2026-09-14T11:55:14.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development",
     "d": "Shares in tech firms tumble across Asia with Nasdaq also likely to dip later after Anthropic, OpenAI and SpaceX leaders back call Business news – live updates AI-linked stocks tumbled on Monday after the bosses of Ant…",
     "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-    "time": "2026-09-14T07:32:15.000Z"
+    "time": "2026-09-14T11:46:34.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+    "d": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T11:35:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "China criticises idea it is in 'malicious competition' over AI",
+    "d": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T11:31:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Economistas do  mercado reduzem estimativa de inflação e de crescimento do PIB em 2026",
+    "d": "O mercado financeiro reduziu sua estimativa de inflação e, também, sua projeção de crescimento do Produto Interno Bruto (PIB) em 2026. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (14)…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/14/economistas-do-mercado-reduzem-estimativa-de-inflacao-e-de-crescimento-do-pib-em-2026.ghtml",
+    "time": "2026-09-14T11:31:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Thousands demand end to violence in Mexican cartel hotspot",
+    "d": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+    "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T11:28:36.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hyrox apologises for allowing race to continue after athlete soils herself",
+    "d": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T11:20:07.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "She’s Donald Trump’s least-favorite Fox News host. But Jessica Tarlov remains undeterred",
+    "d": "The 42-year-old liberal commentator regularly co-hosts the network’s 5pm talk show, taking flak from her conservative colleagues and harsh insults from the president. Jessica Tarlov is the left-leaning Fox News host t…",
+    "link": "https://www.theguardian.com/media/2026/sep/14/jessica-tarlov-fox-news-liberal",
+    "time": "2026-09-14T11:00:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Preços do petróleo sobem quase 3% após novos ataques à Arábia Saudita e ao Estreito de Ormuz",
+    "d": "Maryorin Mendez/AFP Os preços do petróleo subiam cerca de 3% nesta segunda-feira (14), após novos ataques a instalações de energia da Arábia Saudita e a navios no Golfo. O cenário agravou as preocupações com a oferta…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/14/precos-do-petroleo-sobem-quase-3-apos-novos-ataques-a-arabia-saudita-e-ao-estreito-de-ormuz.ghtml",
+    "time": "2026-09-14T10:55:02.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Área técnica da Aneel é contra devolver encargos à Tesla Comercializadora",
-    "d": "Parecer aponta que a devolução de R$ 21,2 milhões transferiria custos aos demais consumidores; pedido já foi negado pela superintendência",
-    "link": "https://www.cnnbrasil.com.br/infra/area-tecnica-da-aneel-e-contra-devolver-encargos-a-tesla-comercializadora/",
-    "time": "2026-09-14T07:30:54.000Z"
+    "src": "BBC News Brasil",
+    "h": "Claudia Raia estrela reality sobre maternidade e defende o nome Enzo: 'Homem adequado aos novos tempos'",
+    "d": "Atriz, que é mãe de três, debate temas ligados à maternidade no reality show 'Sua Mãe Te Conhece?', da Netflix.",
+    "link": "https://www.bbc.com/portuguese/articles/cx2z033dw3xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T10:30:46.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz Financial Times",
+    "d": "Flávio Bolsonaro e Lula Getty Images via BBC Uma reportagem do jornal \"Financial Times\", publicada neste domingo (13), afirma que a crise sem precedentes no Supremo Tribunal Federal (STF) poderá ter um impacto decisiv…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/09/14/crise-no-stf-pode-ter-impacto-decisivo-na-eleicao-brasileira-diz-financial-times.ghtml",
+    "time": "2026-09-14T10:27:55.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com concessão em risco, Enel SP reduz em quase 60% atendimento emergencial",
-    "d": "Dados da Aneel mostram que tempo médio de resposta emergencial caiu de 12h39 para 5h06 nos períodos de janeiro a julho de 2023 e 2026; distribuidora passou da terceira pior média para a quinta melhor entre 33 empresas",
-    "link": "https://www.cnnbrasil.com.br/infra/com-concessao-em-risco-enel-sp-reduz-em-quase-60-atendimento-emergencial/",
-    "time": "2026-09-14T07:30:35.000Z"
+    "src": "BBC News Brasil",
+    "h": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz FT",
+    "d": "Jornal britânico descreve crise como uma 'disputa acirrada' entre os ministros Alexandre de Moraes e André Mendonça, que está 'lançando uma sombra sobre a disputa' eleitoral.",
+    "link": "https://www.bbc.com/portuguese/articles/cwyzldd1871o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T10:10:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Guia explica tudo o que os ministros do STF decidiram sobre o caso Master no fim de semana",
+    "d": "Fim de semana foi marcado por divulgação intensa de despachos e ofícios de ministros do Supremo Tribunal Federal em meio à crise sem precedentes da Corte.",
+    "link": "https://www.bbc.com/portuguese/articles/czdzg00rzp4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T09:53:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como o ronco do seu parceiro pode prejudicar seu sono e sua saúde: 'Foi como uma ressaca'",
+    "d": "Para especialista, muitos casais passam 'tempo demais' ignorando o ronco, o que prejudica o relacionamento e o seu bem-estar. Saiba quais medidas podem ser tomadas.",
+    "link": "https://www.bbc.com/portuguese/articles/cwyzwrzlp7po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T09:04:42.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+    "d": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+    "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T08:58:27.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
+    "d": "Police in Bali believe the two young children died as a result of violence, while a 57-year-old man is believed to have taken his own life Indonesian police are investigating the deaths of three Australians who died i…",
+    "link": "https://www.theguardian.com/world/2026/sep/14/indonesian-police-deaths-of-australian-man-and-two-children-ntwnfb",
+    "time": "2026-09-14T08:44:44.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Swedish left-wing bloc narrowly ahead with election too close to call",
+    "d": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T08:36:09.000Z"
   },
   {
     "cat": "internacional",
@@ -33,235 +481,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CEO da Yara vê queda na demanda por fertilizante e na produção de alimentos",
-    "d": "Para Svein Tore Holsether, em entrevista à CNN, redução no uso de nutrientes abaixo do nível adequado pode comprometer a produtividade das lavouras",
-    "link": "https://www.cnnbrasil.com.br/agro/ceo-da-yara-ve-queda-na-demanda-por-fertilizante-e-na-producao-de-alimentos/",
-    "time": "2026-09-14T07:10:34.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Mercado espera que “superquarta” reajuste juros no Brasil e EUA",
-    "d": "Países terão reunião de seus respectivos bancos centrais nesta quarta-feira (16) para nova decisão de política monetária",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-espera-que-superquarta-reajuste-juros-no-brasil-e-eua/",
-    "time": "2026-09-14T07:05:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Guerra de ofícios aumenta tensão e expõe racha no STF em semana-chave",
-    "d": "Ministros divergem sobre acesso a dados de Vorcaro e abertura de processos às vésperas de sessão que pode definir futuro de Moraes",
-    "link": "https://www.cnnbrasil.com.br/politica/guerra-de-oficios-aumenta-tensao-e-expoe-racha-no-stf-em-semana-chave/",
-    "time": "2026-09-14T07:01:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nova regra da Anac permite suspender passageiro de voos por até um ano",
-    "d": "Medida entra em vigor nesta segunda-feira (14) e estabelece punições para casos considerados gravíssimos; especialista aponta possíveis conflitos judiciais na aplicação da regra",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/nova-regra-da-anac-permite-suspender-passageiro-de-voos-por-ate-um-ano/",
-    "time": "2026-09-14T07:00:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Punições para passageiros indisciplinados começam a valer nesta segunda",
-    "d": "Nova regra da Anac prevê multa e suspensão do direito de voar em casos mais graves",
-    "link": "https://www.cnnbrasil.com.br/infra/punicoes-para-passageiros-indisciplinados-comecam-a-valer-nesta-segunda/",
-    "time": "2026-09-14T07:00:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Criminosos criam site e app falsos do Mercado Livre para invadir celulares de vítimas",
-    "d": "Operação logística do Mercado Livre Mercado Livre Golpistas desenvolveram um site e um aplicativo falsos em nome do Mercado Livre Coleta para tentar invadir celulares e obter dados pessoais das vítimas. A ação foi des…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/criminosos-criam-site-e-app-falsos-do-mercado-livre-para-invadir-celulares-de-vitimas.ghtml",
-    "time": "2026-09-14T07:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Judicialização da política levou à politização do STF, diz especialista",
-    "d": "Vera Chemim avalia ao CNN Agora que a judicialização da política levou à politização do STF e alerta para riscos ao Estado democrático de direito",
-    "link": "https://www.cnnbrasil.com.br/politica/judicializacao-da-politica-levou-a-politizacao-do-stf-diz-especialista/",
-    "time": "2026-09-14T06:53:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chuvas deixam rastro de destruição e mortes em SP no fim de semana",
-    "d": "Estado sofreu com desabamentos, enxurradas e pessoas desaparecidas durante os últimos dias",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuvas-deixam-rastro-de-destruicao-e-mortes-em-sp-no-fim-de-semana/",
-    "time": "2026-09-14T06:01:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando?",
-    "d": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando? Getty Images via BBC \"MEU DEUS!\" \"Encontramos outros agentes!\" Este é o momento em que um bot de inte…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/inteligencia-artificial-esta-cada-vez-mais-dificil-de-se-controlar-ate-quando-os-humanos-vao-se-manter-no-comando.ghtml",
-    "time": "2026-09-14T06:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Amazon suspende operações com 21 Air após acidente aéreo em Miami",
-    "d": "Empresa operava voo de carga que saiu da pista e atingiu veículos; cinco pessoas morreram no episódio",
-    "link": "https://www.cnnbrasil.com.br/infra/amazon-suspende-operacoes-com-21-air-apos-acidente-aereo-em-miami/",
-    "time": "2026-09-14T05:48:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hyrox athlete sparks debate for continuing race after soiling herself",
-    "d": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-14T05:34:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump minimiza relato de ajuda chinesa ao Irã antes de ataque na Jordânia",
-    "d": "Relatório aponta que entidades da China forneceram imagens de satélite de base onde três militares dos EUA morreram",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-minimiza-relato-de-ajuda-chinesa-ao-ira-antes-de-ataque-na-jordania/",
-    "time": "2026-09-14T04:46:26.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-    "d": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-14T03:38:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "As veias abertas do STF e os embates sobre o fim do sigilo no Caso Master - O Assunto #1803",
-    "d": "O mais recente capítulo da crise inédita no Supremo Tribunal Federal teve início na noite da última quinta-feira (10), quando o presidente da Corte, Edson Fachin, solicitou ao ministro André Mendonça que levantasse o…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/14/as-veias-abertas-do-stf-e-os-embates-sobre-o-fim-do-sigilo-no-caso-master-o-assunto-1803.ghtml",
-    "time": "2026-09-14T03:30:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fim de semana teve 10 movimentações do STF; entenda como impacta julgamento",
-    "d": "Despachos de Fachin, Mendonça, Zanin, Moraes, Gilmar Mendes e Flávio Dino tratam do acesso à íntegra dos dados do celular de Daniel Vorcaro e antecedem a sessão de terça-feira (15), que analisa as mensagens entre o ex…",
-    "link": "https://www.cnnbrasil.com.br/politica/fim-de-semana-teve-10-movimentacoes-do-stf-entenda-como-impacta-julgamento/",
-    "time": "2026-09-14T03:01:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ministros do STF discutem se Moraes e Mendonça devem participar de julgamento na terça",
-    "d": "O Supremo Tribunal Federal chega às vésperas da sessão desta terça-feira (15) que pode decidir sobre a abertura de uma apuração contra o ministro Alexandre de Moraes por mensagens enviadas por Daniel Vorcaro sem defin…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/14/ministros-do-stf-discutem-se-moraes-e-mendonca-devem-participar-de-julgamento-na-terca.ghtml",
-    "time": "2026-09-14T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "VÍDEO: Como consultar o horário e local de votação?",
-    "d": "Guia do Eleitor: Como consultar o horário e local de votação? Vai votar e não lembra onde é a sua seção? Está na dúvida sobre horário? É fácil descobrir. Você pode consultar o seu local de votação pelo autoatendimento…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/14/video-como-consultar-o-horario-e-local-de-votacao.ghtml",
-    "time": "2026-09-14T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Descubra como funciona a folga eleitoral e quais são seus direitos",
-    "d": "Mesário conferindo documento / Eleição Tomaz Silva/Agência Brasil Quem trabalha nas eleições como mesário ou exerce outra função convocada pela Justiça Eleitoral tem direito à chamada \"folga eleitoral\". O benefício ga…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-descubra-como-funciona-a-folga-eleitoral-e-quais-sao-seus-direitos.ghtml",
-    "time": "2026-09-14T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Precisamos excluir a data': Banco Master usou Word, PDFs e códigos para fabricar documentos falsos, diz PF",
-    "d": "Camarotti: Queda de sigilo de documentos do caso Master eleva tensão para terça-feira A fraude investigada pela Polícia Federal no Banco Master funcionava como uma espécie de linha de montagem digital. A PF identifico…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/banco-master-usou-word-pdfs-e-codigos-para-fabricar-documentos-falsos-diz-pf.ghtml",
-    "time": "2026-09-14T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Entenda novas regras da Anac que podem impedir por até um ano embarque de passageiros indisciplinados",
-    "d": "Um passageiro retirado de um voo da Latam pela Polícia Federal no Aeroporto de Brasília após descumprir orientações da tripulação ilustra o tipo de conduta que a Agência Nacional de Aviação Civil (Anac) passará a puni…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/14/entenda-novas-regras-da-anac-que-podem-impedir-por-ate-um-ano-embarque-de-passageiros-indisciplinados.ghtml",
-    "time": "2026-09-14T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "José Sarney é internado com pneumonia em hospital de São Luís",
-    "d": "Ex-presidente José Sarney é internado com pneumonia em hospital de São Luís Divulgação/André Medeiros O ex-presidente José Sarney foi internado neste domingo (13) na UDI Hospital, da Rede D'Or, em São Luís, após apres…",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/13/jose-sarney-e-internado-com-pneumonia-em-hospital-de-sao-luis.ghtml",
-    "time": "2026-09-14T02:24:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Em meio à tensão comercial com os EUA, premiê do Canadá diz buscar 'aliança única' com a União Europeia",
-    "d": "FILE PHOTO: Canada’s Prime Minister Mark Carney suspends trade negotiations with the U.S. Chris Tanouye O primeiro-ministro do Canadá, Mark Carney, afirmou neste domingo (13) que o país quer construir uma \"aliança úni…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/09/13/canada-uniao-europeia.ghtml",
-    "time": "2026-09-14T02:01:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Swedish left-wing bloc narrowly ahead with election too close to call",
-    "d": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-14T01:58:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Entrevistas com candidatos a governador começam nesta segunda-feira na TV Globo e afiliadas",
-    "d": "Entrevistas com candidatos a governador começam nesta segunda-feira na TV Globo e afiliadas Reprodução/TV Globo A partir desta segunda-feira (14), a TV Globo e suas afiliadas iniciam uma série de entrevistas com candi…",
-    "link": "https://g1.globo.com/fantastico/noticia/2026/09/13/entrevistas-com-candidatos-a-governador-comecam-nesta-segunda-feira-na-tv-globo-e-afiliadas.ghtml",
-    "time": "2026-09-14T01:21:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Perícia aponta falha em lacre de 27 dispositivos apreendidos em operação contra produtora de 'Dark Horse'",
-    "d": "Aparelhos com lacres mal fechados por agentes da Polícia Civil de São Paulo Reprodução/Polícia Civil A perícia da Polícia Civil de São Paulo apontou que 27 dispositivos eletrônicos apreendidos por agentes durante oper…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/pericia-aponta-falha-em-lacre-de-27-dispositivos-apreendidos-em-operacao-contra-produtora-de-dark-horse.ghtml",
-    "time": "2026-09-14T00:32:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "PF diz estar pronta para entregar ao STF registros do celular de Vorcaro: Gilmar Mendes e Zanin requisitam dados do aparelho",
-    "d": "No comunicado, a Polícia Federal afirma que possui \"plenas condições técnicas para produzir e encaminhar cópia idêntica da extração aos demais gabinetes\" de ministros do Supremo.",
-    "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-14T00:26:41.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como o Uruguai virou destino preferido de milhares de cubanos",
     "d": "O país sul-americano recebeu um fluxo extraordinário de refugiados vindos de uma Cuba em crise. Hoje, eles fazem parte do seu cotidiano: há até uma parlamentar nascida na ilha.",
     "link": "https://www.bbc.com/portuguese/articles/crl6z468xw4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T23:52:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Gilmar Mendes pede para PF enviar cópia do celular de Vorcaro e afirma que 'não se cogita qualquer levantamento de sigilo'",
-    "d": "Após Zanin, Gilmar Mendes pede acesso a cópia do celular de Vorcaro O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes pediu neste domingo (13) que o diretor-geral da Polícia Federal, Andrei Rodrigues, encamin…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/gilmar-mendes-pede-para-pf-enviar-copia-do-celular-de-vorcaro-e-afirma-que-nao-se-cogita-qualquer-levantamento-de-sigilo.ghtml",
-    "time": "2026-09-13T23:30:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula faz 'live' com apoiadores no Alvorada; em 2022, TSE proibiu Bolsonaro de promover própria campanha no palácio",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) participou neste domingo (13) de uma transmissão ao vivo no Palácio da Alvorada com apoiadores para promover a própria candidatura à reeleição. Na transmissão, estavam prese…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/lula-faz-live-com-apoiadores-no-alvorada-em-2022-tse-proibiu-bolsonaro-de-promover-propria-campanha-no-palacio.ghtml",
-    "time": "2026-09-13T23:11:46.000Z"
   },
   {
     "cat": "brasil",
@@ -272,84 +496,12 @@
     "time": "2026-09-13T23:09:45.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "DTV+: Globo ganha prêmio no IBC, um dos principais eventos globais de tecnologia e inovação",
-    "d": "Globo ganha prêmio na Holanda pelo lançamento da DTV+ A Globo foi premiada neste domingo (13) no IBC (International Broadcasting Convention), um dos principais eventos globais de tecnologia e inovação, em Amsterdã, na…",
-    "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/13/dtv-globo-premio-ibc.ghtml",
-    "time": "2026-09-13T22:16:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Moraes pede nova quebra de sigilo sobre Master antes de sessão desta terça; Fachin aciona PGR",
-    "d": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), pediu ao presidente da Corte, Edson Fachin, a quebra do sigilo de um dos inquéritos sobre o caso Master antes do julgamento marcado para esta terça-fe…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/moraes-pede-nova-quebra-de-sigilo-sobre-master-antes-de-sessao-desta-terca-fachin-aciona-pgr.ghtml",
-    "time": "2026-09-13T22:07:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Às vésperas da sessão, STF vive disputa nos bastidores sobre votos, alcance do julgamento e pedido de vista",
-    "d": "Estátua da Justiça, em frente à sede do Supremo Tribunal Federal, em Brasília Antonio Augusto/STF A sessão de terça-feira (15) do Supremo vem sendo tratada como um momento decisivo para a crise envolvendo o caso Maste…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/13/stf-vive-disputa-nos-bastidores-sobre-votos-alcance-do-julgamento-e-pedido-de-vista.ghtml",
-    "time": "2026-09-13T20:53:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Os pais palestinos preocupados com ataques a escolas na Cisjordânia ocupada: 'O que fazer quando colonos atiram em seus filhos?",
-    "d": "Um diretor de escola na Cisjordânia ocupada instalou uma nova cerca de arame farpado após a morte de três alunos este ano.",
-    "link": "https://www.bbc.com/portuguese/articles/c93vdw4k742o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T20:52:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em depoimento, Vorcaro diz não lembrar destinatário de mensagem que, segundo PF, era Moraes",
-    "d": "Vorcaro diz não se lembrar de mensagens enviadas a celular atribuído a Moraes Em depoimento à Polícia Federal, Daniel Vorcaro afirmou que não se recorda de quem seria o destinatário de uma mensagem que os investigador…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/em-depoimento-vorcaro-diz-nao-lembrar-destinatario-de-mensagem-que-segundo-pf-era-moraes.ghtml",
-    "time": "2026-09-13T20:37:44.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Propina do Master a servidores do Banco Central pode ter chegado a R$ 12 milhões, diz sindicância",
-    "d": "O Banco Central encontrou indícios de que dois servidores do órgão receberam R$ 12 milhões em propinas do Banco Master. Eles teriam, segundo as investigações, simulado negócios com empresas ligadas a Daniel Vorcaro pa…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/propina-do-master-a-servidores-do-banco-central-pode-ter-chegado-a-r-12-milhoes-diz-sindicancia.ghtml",
-    "time": "2026-09-13T19:53:06.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
     "d": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T19:34:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump downplays warnings of AI risks, citing rivalry with China",
-    "d": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-    "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T18:49:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando?",
-    "d": "Agentes de IA entraram em uma onda de ataques cibernéticos descontrolados, deixando alguns no setor preocupados.",
-    "link": "https://www.bbc.com/portuguese/articles/c4gr2e95ypxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T18:48:02.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Questions mount over what an AI 'slowdown' would look like",
-    "d": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T18:20:22.000Z"
   },
   {
     "cat": "economia",
@@ -362,26 +514,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "US congressman swims to safety after his plane is forced to land on a lake",
-    "d": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T15:30:43.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
     "d": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
     "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T14:25:56.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3057 acumula e prêmio sobe para R$ 95 milhões; confira os números sorteados",
-    "d": "Mega-Sena, concurso 3057: confira os números sorteados O sorteio do concurso 3.057 da Mega-Sena foi realizado na manhã desta domingo (13), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/13/mega-sena-concurso-3057-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-09-13T14:02:38.000Z"
   },
   {
     "cat": "economia",
@@ -394,50 +530,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Legendary Canadian boxer George Chuvalo dies aged 89",
-    "d": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T14:01:44.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
     "d": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
     "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T13:30:38.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Paralisação em oleoduto da Arábia Saudita ameaça perda de 4% da oferta global de petróleo",
-    "d": "A Arábia Saudita ficará sem estoques de petróleo para exportação se não reiniciar seu principal oleoduto para o Mar Vermelho dentro de alguns dias, levando a uma perda de até 4% do suprimento global, disseram comprado…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/13/paralisacao-em-oleoduto-da-arabia-saudita-ameaca-perda-de-4percent-da-oferta-global-de-petroleo.ghtml",
-    "time": "2026-09-13T12:50:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic",
-    "d": "Alerta vem em um momento em que o chefe da empresa de IA pediu que o desenvolvimento da tecnologia seja desacelerado, citando riscos \"sérios\".",
-    "link": "https://www.bbc.com/portuguese/articles/c1mv342273vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T12:49:59.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
-    "d": "Search and rescue agency says 107 people brought to safety from vessel hit by bad weather in Java Sea Rescue workers in Indonesia said at least six people had died and 130 others were missing on Sunday after a ferry s…",
-    "link": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
-    "time": "2026-09-13T12:18:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iran war reshapes Brics ties but also exposes divisions",
-    "d": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T11:23:42.000Z"
   },
   {
     "cat": "economia",
@@ -446,62 +542,6 @@
     "d": "President has hyped growth of federal investment accounts to help US children – for his own political gain Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pu…",
     "link": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
     "time": "2026-09-13T11:00:05.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Cidades do noroeste paulista investem na experiência do campo para atrair visitantes",
-    "d": "Colheita de frutas é uma das atrações do turismo rural na região de Jales (SP) Reprodução / TV TEM O turismo rural cresce na região de Jales (SP) e atrai visitantes com colheita de frutas, culinária caipira e campos d…",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/13/cidades-do-noroeste-paulista-investem-na-experiencia-do-campo-para-atrair-visitantes.ghtml",
-    "time": "2026-09-13T10:30:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Pesquisadores de Sorocaba criam nano-herbicida para controle de ervas daninhas",
-    "d": "Pesquisadores de Sorocaba criam nano-herbicida para controle de ervas daninhas Reprodução / TV TEM Uma equipe do Instituto Nacional de Ciência e Tecnologia (INCT), com sede em Sorocaba (SP), desenvolve há quatro anos…",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/13/pesquisadores-de-sorocaba-criam-nano-herbicida-para-controle-de-ervas-daninhas.ghtml",
-    "time": "2026-09-13T10:30:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que novo presidente da Colômbia pretende com polêmicas imagens caminhando entre cadáveres",
-    "d": "Uma imagem vale mais que mil palavras. O novo presidente da Colômbia envia uma mensagem forte, explícita e controversa sobre segurança.",
-    "link": "https://www.bbc.com/portuguese/articles/c14d7400emlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T09:25:53.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Tenho 27 anos e já escrevi meu testamento': por algumas pessoas decidem fazer o documento ainda na juventude",
-    "d": "'Tenho 27 anos e já escrevi meu testamento': por algumas pessoas decidem fazer o documento ainda na juventude Erin Atkinson (via BBC) Escrever um testamento provavelmente não está na lista de tarefas da maioria das pe…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/13/tenho-27-anos-e-ja-escrevi-meu-testamento-por-algumas-pessoas-decidem-fazer-o-documento-ainda-na-juventude.ghtml",
-    "time": "2026-09-13T08:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
-    "d": "Decisão foi divulgada pelo presidente do Supremo na noite de sábado e vai se refletir na sessão de terça, 15, marcada para analisar elo entre Moraes e dono do Master.",
-    "link": "https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T01:09:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
-    "d": "Produtor ouvido pela BBC News Brasil diz que ator Jim Caviezel recebeu para interpretar Jair Bolsonaro o mesmo cachê que Robert Downey Jr. teve para participar da megaprodução 'Oppenheimer'.",
-    "link": "https://www.bbc.com/portuguese/articles/cm2rllgyjdvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T21:02:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido",
-    "d": "Investigação foi instaurada em julho; detalhes sobre os desdobramentos foram revelados em nova leva de documentos liberados pelo ministro André Mendonça.",
-    "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T16:11:04.000Z"
   },
   {
     "cat": "internacional",
@@ -526,14 +566,6 @@
     "d": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more…",
     "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
     "time": "2026-09-12T14:05:45.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘There’s a weird market failure in media’: David Brooks on how his new podcast will tackle the big questions",
-    "d": "The former New York Times columnist is taking a step away from politics to focus on moral and humanistic concerns the media rarely cover David Brooks knows there are plenty of podcasts out there. But as the veteran co…",
-    "link": "https://www.theguardian.com/media/2026/sep/12/david-brooks-podcast-permanent-questions",
-    "time": "2026-09-12T11:00:33.000Z"
   },
   {
     "cat": "economia",
@@ -584,14 +616,6 @@
     "time": "2026-09-10T18:05:15.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
-    "d": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the fam…",
-    "link": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
-    "time": "2026-09-10T17:29:20.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
@@ -622,29 +646,5 @@
     "d": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live b…",
     "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
     "time": "2026-09-09T22:19:25.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Apple’s new CEO introduces himself at annual showcase: ‘I continue to be inspired every single day’",
-    "d": "John Ternus helms his first major event as head of $4.5tn company, where he announces first foldable iPhone John Ternus, Apple’s new CEO, helmed the company’s annual showcase of new iPhones and other products on Wedne…",
-    "link": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
-    "time": "2026-09-09T19:07:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
-    "d": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said,…",
-    "link": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-    "time": "2026-09-09T18:20:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Family of British man found dead in Grenada ask local police to work with UK investigators",
-    "d": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK poli…",
-    "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
-    "time": "2026-09-09T08:00:03.000Z"
   }
 ]
