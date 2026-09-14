@@ -1,5 +1,205 @@
 [
   {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development",
+    "d": "Shares in tech firms tumble across Asia with Nasdaq also likely to dip later after Anthropic, OpenAI and SpaceX leaders back call Business news – live updates AI-linked stocks tumbled on Monday after the bosses of Ant…",
+    "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+    "time": "2026-09-14T07:32:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Área técnica da Aneel é contra devolver encargos à Tesla Comercializadora",
+    "d": "Parecer aponta que a devolução de R$ 21,2 milhões transferiria custos aos demais consumidores; pedido já foi negado pela superintendência",
+    "link": "https://www.cnnbrasil.com.br/infra/area-tecnica-da-aneel-e-contra-devolver-encargos-a-tesla-comercializadora/",
+    "time": "2026-09-14T07:30:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com concessão em risco, Enel SP reduz em quase 60% atendimento emergencial",
+    "d": "Dados da Aneel mostram que tempo médio de resposta emergencial caiu de 12h39 para 5h06 nos períodos de janeiro a julho de 2023 e 2026; distribuidora passou da terceira pior média para a quinta melhor entre 33 empresas",
+    "link": "https://www.cnnbrasil.com.br/infra/com-concessao-em-risco-enel-sp-reduz-em-quase-60-atendimento-emergencial/",
+    "time": "2026-09-14T07:30:35.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Bali police investigate after Australian man and children found dead in home",
+    "d": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T07:15:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CEO da Yara vê queda na demanda por fertilizante e na produção de alimentos",
+    "d": "Para Svein Tore Holsether, em entrevista à CNN, redução no uso de nutrientes abaixo do nível adequado pode comprometer a produtividade das lavouras",
+    "link": "https://www.cnnbrasil.com.br/agro/ceo-da-yara-ve-queda-na-demanda-por-fertilizante-e-na-producao-de-alimentos/",
+    "time": "2026-09-14T07:10:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Mercado espera que “superquarta” reajuste juros no Brasil e EUA",
+    "d": "Países terão reunião de seus respectivos bancos centrais nesta quarta-feira (16) para nova decisão de política monetária",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-espera-que-superquarta-reajuste-juros-no-brasil-e-eua/",
+    "time": "2026-09-14T07:05:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Guerra de ofícios aumenta tensão e expõe racha no STF em semana-chave",
+    "d": "Ministros divergem sobre acesso a dados de Vorcaro e abertura de processos às vésperas de sessão que pode definir futuro de Moraes",
+    "link": "https://www.cnnbrasil.com.br/politica/guerra-de-oficios-aumenta-tensao-e-expoe-racha-no-stf-em-semana-chave/",
+    "time": "2026-09-14T07:01:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nova regra da Anac permite suspender passageiro de voos por até um ano",
+    "d": "Medida entra em vigor nesta segunda-feira (14) e estabelece punições para casos considerados gravíssimos; especialista aponta possíveis conflitos judiciais na aplicação da regra",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/nova-regra-da-anac-permite-suspender-passageiro-de-voos-por-ate-um-ano/",
+    "time": "2026-09-14T07:00:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Punições para passageiros indisciplinados começam a valer nesta segunda",
+    "d": "Nova regra da Anac prevê multa e suspensão do direito de voar em casos mais graves",
+    "link": "https://www.cnnbrasil.com.br/infra/punicoes-para-passageiros-indisciplinados-comecam-a-valer-nesta-segunda/",
+    "time": "2026-09-14T07:00:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Criminosos criam site e app falsos do Mercado Livre para invadir celulares de vítimas",
+    "d": "Operação logística do Mercado Livre Mercado Livre Golpistas desenvolveram um site e um aplicativo falsos em nome do Mercado Livre Coleta para tentar invadir celulares e obter dados pessoais das vítimas. A ação foi des…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/criminosos-criam-site-e-app-falsos-do-mercado-livre-para-invadir-celulares-de-vitimas.ghtml",
+    "time": "2026-09-14T07:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Judicialização da política levou à politização do STF, diz especialista",
+    "d": "Vera Chemim avalia ao CNN Agora que a judicialização da política levou à politização do STF e alerta para riscos ao Estado democrático de direito",
+    "link": "https://www.cnnbrasil.com.br/politica/judicializacao-da-politica-levou-a-politizacao-do-stf-diz-especialista/",
+    "time": "2026-09-14T06:53:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chuvas deixam rastro de destruição e mortes em SP no fim de semana",
+    "d": "Estado sofreu com desabamentos, enxurradas e pessoas desaparecidas durante os últimos dias",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuvas-deixam-rastro-de-destruicao-e-mortes-em-sp-no-fim-de-semana/",
+    "time": "2026-09-14T06:01:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando?",
+    "d": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando? Getty Images via BBC \"MEU DEUS!\" \"Encontramos outros agentes!\" Este é o momento em que um bot de inte…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/inteligencia-artificial-esta-cada-vez-mais-dificil-de-se-controlar-ate-quando-os-humanos-vao-se-manter-no-comando.ghtml",
+    "time": "2026-09-14T06:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Amazon suspende operações com 21 Air após acidente aéreo em Miami",
+    "d": "Empresa operava voo de carga que saiu da pista e atingiu veículos; cinco pessoas morreram no episódio",
+    "link": "https://www.cnnbrasil.com.br/infra/amazon-suspende-operacoes-com-21-air-apos-acidente-aereo-em-miami/",
+    "time": "2026-09-14T05:48:07.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hyrox athlete sparks debate for continuing race after soiling herself",
+    "d": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T05:34:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump minimiza relato de ajuda chinesa ao Irã antes de ataque na Jordânia",
+    "d": "Relatório aponta que entidades da China forneceram imagens de satélite de base onde três militares dos EUA morreram",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-minimiza-relato-de-ajuda-chinesa-ao-ira-antes-de-ataque-na-jordania/",
+    "time": "2026-09-14T04:46:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "d": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-14T03:38:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "As veias abertas do STF e os embates sobre o fim do sigilo no Caso Master - O Assunto #1803",
+    "d": "O mais recente capítulo da crise inédita no Supremo Tribunal Federal teve início na noite da última quinta-feira (10), quando o presidente da Corte, Edson Fachin, solicitou ao ministro André Mendonça que levantasse o…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/14/as-veias-abertas-do-stf-e-os-embates-sobre-o-fim-do-sigilo-no-caso-master-o-assunto-1803.ghtml",
+    "time": "2026-09-14T03:30:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fim de semana teve 10 movimentações do STF; entenda como impacta julgamento",
+    "d": "Despachos de Fachin, Mendonça, Zanin, Moraes, Gilmar Mendes e Flávio Dino tratam do acesso à íntegra dos dados do celular de Daniel Vorcaro e antecedem a sessão de terça-feira (15), que analisa as mensagens entre o ex…",
+    "link": "https://www.cnnbrasil.com.br/politica/fim-de-semana-teve-10-movimentacoes-do-stf-entenda-como-impacta-julgamento/",
+    "time": "2026-09-14T03:01:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Ministros do STF discutem se Moraes e Mendonça devem participar de julgamento na terça",
+    "d": "O Supremo Tribunal Federal chega às vésperas da sessão desta terça-feira (15) que pode decidir sobre a abertura de uma apuração contra o ministro Alexandre de Moraes por mensagens enviadas por Daniel Vorcaro sem defin…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/14/ministros-do-stf-discutem-se-moraes-e-mendonca-devem-participar-de-julgamento-na-terca.ghtml",
+    "time": "2026-09-14T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: Como consultar o horário e local de votação?",
+    "d": "Guia do Eleitor: Como consultar o horário e local de votação? Vai votar e não lembra onde é a sua seção? Está na dúvida sobre horário? É fácil descobrir. Você pode consultar o seu local de votação pelo autoatendimento…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/14/video-como-consultar-o-horario-e-local-de-votacao.ghtml",
+    "time": "2026-09-14T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Descubra como funciona a folga eleitoral e quais são seus direitos",
+    "d": "Mesário conferindo documento / Eleição Tomaz Silva/Agência Brasil Quem trabalha nas eleições como mesário ou exerce outra função convocada pela Justiça Eleitoral tem direito à chamada \"folga eleitoral\". O benefício ga…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-descubra-como-funciona-a-folga-eleitoral-e-quais-sao-seus-direitos.ghtml",
+    "time": "2026-09-14T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Precisamos excluir a data': Banco Master usou Word, PDFs e códigos para fabricar documentos falsos, diz PF",
+    "d": "Camarotti: Queda de sigilo de documentos do caso Master eleva tensão para terça-feira A fraude investigada pela Polícia Federal no Banco Master funcionava como uma espécie de linha de montagem digital. A PF identifico…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/banco-master-usou-word-pdfs-e-codigos-para-fabricar-documentos-falsos-diz-pf.ghtml",
+    "time": "2026-09-14T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Entenda novas regras da Anac que podem impedir por até um ano embarque de passageiros indisciplinados",
+    "d": "Um passageiro retirado de um voo da Latam pela Polícia Federal no Aeroporto de Brasília após descumprir orientações da tripulação ilustra o tipo de conduta que a Agência Nacional de Aviação Civil (Anac) passará a puni…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/14/entenda-novas-regras-da-anac-que-podem-impedir-por-ate-um-ano-embarque-de-passageiros-indisciplinados.ghtml",
+    "time": "2026-09-14T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "José Sarney é internado com pneumonia em hospital de São Luís",
+    "d": "Ex-presidente José Sarney é internado com pneumonia em hospital de São Luís Divulgação/André Medeiros O ex-presidente José Sarney foi internado neste domingo (13) na UDI Hospital, da Rede D'Or, em São Luís, após apres…",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/13/jose-sarney-e-internado-com-pneumonia-em-hospital-de-sao-luis.ghtml",
+    "time": "2026-09-14T02:24:00.000Z"
+  },
+  {
     "cat": "economia",
     "src": "G1",
     "h": "Em meio à tensão comercial com os EUA, premiê do Canadá diz buscar 'aliança única' com a União Europeia",
@@ -11,25 +211,9 @@
     "cat": "internacional",
     "src": "BBC News",
     "h": "Swedish left-wing bloc narrowly ahead with election too close to call",
-    "d": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+    "d": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
     "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-14T01:58:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rodrigo Caetano avalia Copa de 2026: “Sabíamos que seria difícil”",
-    "d": "Coordenador-executivo-geral das Seleções Masculinas da CBF é o entrevistado do CNN Esportes S/A deste domingo (13)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/rodrigo-caetano-avalia-copa-de-2026-sabiamos-que-seria-dificil/",
-    "time": "2026-09-14T01:45:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "STF foi incapaz de compreender as demandas da sociedade, diz especialista",
-    "d": "Jurista Oscar Vilhena afirma ao CNN Agora que crise interna no Supremo é a maior em 135 anos e cobra transparência e responsabilização",
-    "link": "https://www.cnnbrasil.com.br/politica/stf-foi-incapaz-de-compreender-as-demandas-da-sociedade-diz-especialista/",
-    "time": "2026-09-14T01:44:41.000Z"
   },
   {
     "cat": "brasil",
@@ -41,51 +225,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Folha de louro: conheça o analgésico escondido no armário da cozinha",
-    "d": "Especiaria possui compostos que atuam diretamente na saúde",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/folha-de-louro-conheca-o-analgesico-escondido-no-armario-da-cozinha/",
-    "time": "2026-09-14T01:15:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fãs? Brad Pitt e Matthew McConaughey posam ao lado de Ronaldo",
-    "d": "O ex-jogador encontrou estrelas de Hollywood durante o US Open, torneio de tênis que aconteceu em Nova York",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/fas-brad-pitt-e-matthew-mcconaughey-posam-ao-lado-de-ronaldo/",
-    "time": "2026-09-14T00:55:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Grêmio chega a acordo para o retorno de Renato Gaúcho",
-    "d": "Ídolo gremista volta ao comando da equipe para sua quinta passagem pelo clube, com contrato inicialmente até o fim da temporada",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-chega-a-acordo-para-o-retorno-de-renato-gaucho/",
-    "time": "2026-09-14T00:48:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ancelotti detalha trabalho com técnicos de base da Seleção em renovação",
-    "d": "Ao CNN Esportes S/A deste domingo (13), técnico italiano conta detalhes sobre novo ciclo da Seleção Brasileira",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-detalha-trabalho-com-tecnicos-de-base-da-selecao-em-renovacao/",
-    "time": "2026-09-14T00:45:32.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Perícia aponta falha em lacre de 27 dispositivos apreendidos em operação contra produtora de 'Dark Horse'",
     "d": "Aparelhos com lacres mal fechados por agentes da Polícia Civil de São Paulo Reprodução/Polícia Civil A perícia da Polícia Civil de São Paulo apontou que 27 dispositivos eletrônicos apreendidos por agentes durante oper…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/13/pericia-aponta-falha-em-lacre-de-27-dispositivos-apreendidos-em-operacao-contra-produtora-de-dark-horse.ghtml",
     "time": "2026-09-14T00:32:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "À CNN, Ancelotti confirma fim de ciclo de Neymar na Seleção Brasileira",
-    "d": "Durante entrevista ao CNN Esportes S/A deste domingo (13), técnico italiano também defendeu a ida de Neymar à Copa",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/a-cnn-ancelotti-confirma-fim-de-ciclo-de-neymar-na-selecao-brasileira/",
-    "time": "2026-09-14T00:30:43.000Z"
   },
   {
     "cat": "brasil",
@@ -97,51 +241,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ator brasileiro agradece ajuda após incêndio atingir sua casa nos EUA",
-    "d": "Erik Marmo, que mora em Los Angeles desde 2014, mostrou imagens do local e agradeceu a mobilização de amigos e instituições",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ator-brasileiro-agradece-ajuda-apos-incendio-atingir-sua-casa-nos-eua/",
-    "time": "2026-09-14T00:21:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que EUA estão aumentando seu arsenal de armas “muito rapidamente”",
-    "d": "Apuração da CNN revelou estoques de mísseis cruciais de defesa aérea estavam severamente reduzidos após uma grande escalada do conflito com o Irã",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-estao-aumentando-seu-arsenal-de-armas-muito-rapidamente/",
-    "time": "2026-09-14T00:05:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Louro com vinagre branco: para que serve essa mistura na limpeza da casa?",
-    "d": "Fácil de preparar e econômica, a solução pode ajudar na higienização de pisos e deixar um aroma herbal suave nos ambientes",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/louro-com-vinagre-branco-para-que-serve-essa-mistura-na-limpeza-da-casa/",
-    "time": "2026-09-14T00:00:14.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como o Uruguai virou destino preferido de milhares de cubanos",
     "d": "O país sul-americano recebeu um fluxo extraordinário de refugiados vindos de uma Cuba em crise. Hoje, eles fazem parte do seu cotidiano: há até uma parlamentar nascida na ilha.",
     "link": "https://www.bbc.com/portuguese/articles/crl6z468xw4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T23:52:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PT aciona STF para apurar suposto custeio estrangeiro à campanha de Flávio",
-    "d": "Petição relaciona fundo de investimento co-fundado por J.D. Vance, vice-presidente norte-americano, e apresentação sobre terras raras feita pelo candidato ao governo do Rio, André Marinho",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/pt-aciona-stf-para-apurar-suposto-custeio-estrangeiro-a-campanha-de-flavio/",
-    "time": "2026-09-13T23:47:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ator de “Velozes e Furiosos” anuncia divórcio após 20 anos de casamento",
-    "d": "Alan e Cat Ritchson divulgaram que seguirão caminhos diferentes em uma publicação no Instagram; os dois são pais de três filhos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ator-de-velozes-e-furiosos-anuncia-divorcio-apos-20-anos-de-casamento/",
-    "time": "2026-09-13T23:44:11.000Z"
   },
   {
     "cat": "brasil",
@@ -208,23 +312,7 @@
     "time": "2026-09-13T20:37:44.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ex-ministros, juristas e empresários assinam carta de apoio a Fachin em meio à crise no STF",
-    "d": "Decisões de Edson Fachin foram notícia na imprensa internacional Getty Images via BBC Um grupo de autoridades, incluindo ex-ministros dos governos Fernando Henrique Cardoso, Lula e Dilma Rousseff, juristas, empresário…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/ex-ministros-juristas-e-empresarios-assinam-carta-de-apoio-a-fachin-em-meio-a-crise-no-stf.ghtml",
-    "time": "2026-09-13T20:28:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Zanin manda PF entregar ao seu gabinete cópia de todo celular de Vorcaro até as 23h deste domingo",
-    "d": "Zanin manda PF entregar cópia de todo celular do Vorcaro até as 23h O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), determinou que o diretor-geral da Polícia Federal, Andrei Rodrigues, entregue até as 2…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/zanin-manda-pf-entregar-copia-de-todo-celular-do-vorcaro-ate-as-23h-deste-domingo.ghtml",
-    "time": "2026-09-13T20:11:52.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Propina do Master a servidores do Banco Central pode ter chegado a R$ 12 milhões, diz sindicância",
     "d": "O Banco Central encontrou indícios de que dois servidores do órgão receberam R$ 12 milhões em propinas do Banco Master. Eles teriam, segundo as investigações, simulado negócios com empresas ligadas a Daniel Vorcaro pa…",
@@ -238,14 +326,6 @@
     "d": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T19:34:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-    "d": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T19:14:21.000Z"
   },
   {
     "cat": "internacional",
@@ -270,22 +350,6 @@
     "d": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
     "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T18:20:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Polícia Civil de SP solicita desde maio acesso aos dados do Coaf de instituto e produtora de 'Dark Horse'",
-    "d": "A Polícia Civil de São Paulo solicita desde maio acesso a dados do Conselho de Controle de Atividades Financeiras (Coaf) de Karina Ferreira da Gama, empresária responsável pelo Instituto Conhecer Brasil (ICB) e produt…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/policia-civil-de-sp-solicita-desde-maio-acesso-aos-dados-do-coaf-de-instituto-e-produtora-de-dark-horse.ghtml",
-    "time": "2026-09-13T17:53:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça diz que compartilhar conteúdo do celular de Vorcaro só serviria para 'tumultuar' e pode colocar investigações em risco",
-    "d": "O ministro do Supremo Tribunal Federal (STF) André Mendonça afirmou, em ofício neste domingo (13), que incluir novos elementos e abrir a íntegra das informações extraídas do celular do ex-banqueiro Daniel Vorcaro \"som…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/13/mendonca-celular-vorcaro.ghtml",
-    "time": "2026-09-13T17:20:15.000Z"
   },
   {
     "cat": "economia",
@@ -416,68 +480,12 @@
     "time": "2026-09-13T08:00:00.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ervas orgânicas produzidas na capital do ovo e da cultura pomerana no ES viram chás premiados na França",
-    "d": "Produtora cultiva mais de 100 tipos de ervas e flores para chás em Santa Maria de Jetibá Da terra da cultura pomerana e da capital do ovo na Região Serrana do Espírito Santo, uma propriedade rural de Santa Maria de Je…",
-    "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/09/13/ervas-organicas-produzidas-na-capital-do-ovo-e-da-cultura-pomerana-no-es-viram-chas-premiados-na-franca.ghtml",
-    "time": "2026-09-13T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "VÍDEO: um Porsche é mesmo difícil de 'domar'? g1 testou esportivo de 711 cv e R$ 2,1 milhões",
-    "d": "Um Porsche é mesmo difícil de 'domar'? g1 testou esportivo de 711 cv e R$ 2,1 milhões Nos últimos anos, algumas manchetes de acidentes com carros da Porsche deram a impressão de que os carros da marca seriam difíceis…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/13/um-porsche-e-mesmo-dificil-de-domar-g1-testou-esportivo-de-711-cv-e-r-21-milhoes.ghtml",
-    "time": "2026-09-13T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Pode matar todos nós': por que pesquisador deixou setor de IA e acusa empresas de ignorar riscos",
-    "d": "OpenAI e Anthropic Reuters/Dado Ruvic/Illustration Um pesquisador de inteligência artificial (IA) que deixou a OpenAI, criadora do ChatGPT, para trabalhar na Anthropic decidiu abandonar o setor. Ele acusa as duas empr…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/13/pode-matar-todos-nos-por-que-pesquisador-deixou-setor-de-ia-e-acusa-empresas-de-ignorar-riscos.ghtml",
-    "time": "2026-09-13T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Tem que dar um jeito': como o Master estruturou a produção de documentos falsos, segundo a PF",
-    "d": "Fachin dá 24 horas para Mendonça liberar sigilo de documentos do caso Master Documentos tornados públicos nesta sexta-feira (11) detalham como funcionários do Banco Master participavam da produção de documentos aponta…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/13/documentos-banco-master-relatorio-pf.ghtml",
-    "time": "2026-09-13T03:00:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
-    "d": "Prime minister’s office tells families of those missing ‘the nation stands with you’ as search and rescue efforts continue One person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu,…",
-    "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
-    "time": "2026-09-13T02:39:50.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
     "d": "Decisão foi divulgada pelo presidente do Supremo na noite de sábado e vai se refletir na sessão de terça, 15, marcada para analisar elo entre Moraes e dono do Master.",
     "link": "https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-13T01:09:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-    "d": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-    "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-13T00:49:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Afghan woman deported from US in first use of 'alien terrorist' court",
-    "d": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-    "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-12T21:19:11.000Z"
   },
   {
     "cat": "brasil",
@@ -638,13 +646,5 @@
     "d": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK poli…",
     "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
     "time": "2026-09-09T08:00:03.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
-    "d": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years ago testified in c…",
-    "link": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
-    "time": "2026-09-09T04:46:23.000Z"
   }
 ]
