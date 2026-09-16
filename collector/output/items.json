@@ -1,6 +1,278 @@
 [
   {
     "cat": "internacional",
+    "src": "BBC News",
+    "h": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "d": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T10:02:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Journalist and pilot among three killed after news helicopter crashes in LA",
+    "d": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T09:49:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 20 killed after war-damaged Gaza building collapses",
+    "d": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living.",
+    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T09:45:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Me respeite, Gilmar', 'assumam que estão ferrados': ministros do STF têm embate no celular antes de sessão",
+    "d": "Ministros Gilmar Mendes (à esq), Luiz Fux e Nunes Marqus (à dir) Rosinei Coutinho/STF Ministros do Supremo Tribunal Federal tiveram embates em sessão ao vivo para todo o Brasil nesta terça-feira (15), quando abordaram…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ministros-do-stf-tem-embate-no-celular-antes-de-sessao.ghtml",
+    "time": "2026-09-16T09:45:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "UE propõe Conselho de Segurança paralelo com Canadá, Reino Unido e Noruega",
+    "d": "Proposta da Comissão Europeia é resposta a temores de guerra híbrida contra a Rússia; países de fora bloco integrariam Conselho",
+    "link": "https://www.cnnbrasil.com.br/noticias/ue-propoe-conselho-de-seguranca-paralelo-com-canada-reino-unido-e-noruega/",
+    "time": "2026-09-16T09:42:31.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+    "d": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T09:36:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Número de mortos por chuvas sobe para 5 após corpo ser encontrado no PR",
+    "d": "Homem foi localizado no Rio Ribeira, na região de Tunas do Paraná, nesta terça-feira (15); uma pessoa continua desaparecida no Vale do Ribeira",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/numero-de-mortos-por-chuvas-sobe-para-5-apos-corpo-ser-encontrado-no-pr/",
+    "time": "2026-09-16T09:36:21.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "EU chief opens door for Canada to become 'associate member'",
+    "d": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T09:34:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+    "d": "South Korea's delegation slams the wooden containers housing its athletes at the Asian Games in Nagoya city.",
+    "link": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T09:33:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Por que a batata frita fica dura na air fryer? Veja a técnica simples que resolve o problema",
+    "d": "Técnica em três etapas combina imersão em água, agitação e pré-cozimento no micro-ondas para evitar o ressecamento do alimento",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-a-batata-frita-fica-dura-na-air-fryer-veja-a-tecnica-simples-que-resolve-o-problema/",
+    "time": "2026-09-16T09:30:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EUA restringem vistos de autoridades sul-africanas por “racismo reverso”",
+    "d": "É a mais recente medida do governo do presidente Donald Trump contra o governo da África do Sul, acusado de discriminar sul-africanos brancos",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-restringem-vistos-de-autoridades-sul-africanas-por-racismo-reverso/",
+    "time": "2026-09-16T09:27:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "UE quer banir acesso a redes sociais e IA para menores de 13 anos",
+    "d": "Presidente da Comissão Europeia anunciará detalhes esta semana; Ursula von der Leyen também irá se reunir com empresas de IA para discutir medidas de segurança",
+    "link": "https://www.cnnbrasil.com.br/internacional/ue-redes-sociais-13-anos/",
+    "time": "2026-09-16T09:10:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Michelin-starred Seoul restaurant fined for serving dessert topped with ants",
+    "d": "Prosecutors sought jail term for chief executive of Evett after insects not approved for consumption were on menu A South Korean court has fined the operator of one of Seoul’s most celebrated restaurants and its chief…",
+    "link": "https://www.theguardian.com/world/2026/sep/16/michelin-starred-seoul-restaurant-evett-fined-dessert-ants",
+    "time": "2026-09-16T09:09:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Palmeiras: o provável time para enfrentar a LDU pela Libertadores",
+    "d": "Alviverde encara o time equatoriano na altitude de Quito nesta quarta-feira (16), às 19h (de Brasília)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-o-provavel-time-para-enfrentar-a-ldu-pela-libertadores/",
+    "time": "2026-09-16T09:05:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como foi o papel de cada ministro em sessão tensa e inédita no STF",
+    "d": "Julgamento de petição que implica Alexandre de Moraes no caso Master foi marcado por discursos pedindo união e bate-bocas.",
+    "link": "https://www.bbc.com/portuguese/articles/c9rk3r6lylmpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T09:04:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Guerra pressiona custos do saneamento no Paraná e reduz apetite do mercado",
+    "d": "Alta de insumos como PVC e do flúor preocupa companhia de saneamento paranaenese e pode afetar futuras licitações da empresa",
+    "link": "https://www.cnnbrasil.com.br/infra/guerra-pressiona-custos-do-saneamento-no-parana-e-reduz-apetite-do-mercado/",
+    "time": "2026-09-16T09:00:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula sanciona nova lei dos minerais críticos hoje; entenda o que muda",
+    "d": "Texto cria conselho com poder para barrar operações estratégicas e prevê incentivos ao processamento de minerais no país; pontos centrais ainda dependem de regulamentação",
+    "link": "https://www.cnnbrasil.com.br/infra/lula-sanciona-nova-lei-dos-minerais-criticos-hoje-entenda-o-que-muda/",
+    "time": "2026-09-16T09:00:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "IA nas escolas: a tecnologia pode aumentar as desigualdades?",
+    "d": "Novas diretrizes do CNE limitam o uso da IA em sala, mas especialista alerta que, sem formação e infraestrutura, a distância entre redes pode crescer",
+    "link": "https://www.cnnbrasil.com.br/educacao/ia-nas-escolas-a-tecnologia-pode-aumentar-as-desigualdades/",
+    "time": "2026-09-16T09:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Prefeitura de Macapá empregou ligados à facção criminosa entre 2021 e 2026",
+    "d": "Segundo investigação da Polícia Civil, ao menos 12 pessoas apontadas como ligadas ao crime organizado ocuparam cargos na gestão de Dr. Furlan, que nega qualquer relação com facções",
+    "link": "https://www.cnnbrasil.com.br/politica/prefeitura-de-macapa-empregou-ligados-a-faccao-criminosa-entre-2021-e-2026/",
+    "time": "2026-09-16T09:00:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entre lágrimas e risos, Demi Lovato faz show em São Paulo; veja como foi",
+    "d": "Cantora aumentou setlist do Rock in Rio, com espaço para canção surpresa e desabafo emocionado",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/entre-lagrimas-e-risos-demi-lovato-faz-show-em-sao-paulo-veja-como-foi/",
+    "time": "2026-09-16T08:57:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Consequências imprevisíveis' para eleição: como imprensa internacional noticiou sessão tumultuada do STF",
+    "d": "Veja os principais embates da sessão do STF que julgou investigação de Moraes A sessão extraordinária do Supremo Tribunal Federal (STF) de terça-feira (15/09) que analisou a situação do ministro Alexandre de Moraes fo…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/09/16/consequencias-imprevisiveis-para-eleicao-como-imprensa-internacional-noticiou-sessao-tumultuada-do-stf.ghtml",
+    "time": "2026-09-16T08:53:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Consequências imprevisíveis' para eleição: como imprensa internacional noticiou sessão tumultuada do STF",
+    "d": "Sessão extraordinária do STF que decidiria o destino de Alexandre de Moraes foi destaque na imprensa internacional.",
+    "link": "https://www.bbc.com/portuguese/articles/cq1mv77n38zro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T08:43:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T08:39:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+    "d": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
+    "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T08:36:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quando jogar videogame deixa de ser só diversão?",
+    "d": "Mais do que contar horas na tela, especialistas indicam observar se os jogos começam a interferir no sono, na escola, nas relações e em outras rotinas",
+    "link": "https://www.cnnbrasil.com.br/comportamento/cultura/quando-jogar-videogame-deixa-de-ser-so-diversao/",
+    "time": "2026-09-16T08:30:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de São Paulo no SP1",
+    "d": "Fernando Haddad (esq.) e Tarcísio de Freitas (dir.) durante sabatina no SP1 Reprodução Os candidatos ao governo de São Paulo Fernando Haddad (PT) e Tarcísio de Freitas (Republicanos) foram entrevistados pelo SP1 nesta…",
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/16/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-sao-paulo-no-sp1.ghtml",
+    "time": "2026-09-16T08:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem venceu primeiro embate da batalha entre Moraes e Mendonça no STF? O que dizem os analistas",
+    "d": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
+    "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T08:21:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como Flávio Dino 'sequestrou o debate' em sessão do Supremo que acabou sem decisão",
+    "d": "Ministro pede mais tempo para apreciar questão de ordem após discussão entre Gilmar Mendes e André Mendonça e diz que pedido de vista ocorreu porque Fachin não tomou 'providências'.",
+    "link": "https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T07:50:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+    "d": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of seven women around Johannesburg’s international airport, including five i…",
+    "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+    "time": "2026-09-16T07:00:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Impasse em sessão do STF sobre Moraes pode adiar análise sobre a condução de Mendonça do caso Master",
+    "d": "Ministros alinhados a André Mendonça defendem que seja adiada a discussão pelo plenário do Supremo Tribunal Federal (STF) sobre a possível abertura de uma investigação para apurar a condução dos inquéritos do Master e…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/16/impasse-em-sessao-do-stf-sobre-moraes-pode-adiar-analise-sobre-a-conducao-de-mendonca-do-caso-master.ghtml",
+    "time": "2026-09-16T07:00:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US limits visas for South African officials over alleged anti-white discrimination",
+    "d": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T06:12:04.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+    "d": "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror Islamist extremist violence in Africa’s Sahel region is set to reach historic highs af…",
+    "link": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+    "time": "2026-09-16T06:00:12.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quanto um porco come até chegar aos 120 kg para o abate? Veja a conta",
+    "d": "Do nascimento ao abate: quanto um porco come de ração? Um porco pronto para o abate pesa cerca de 120 kg. Mas você já parou para pensar quanto ele precisa comer ao longo da vida para atingir esse peso? Segundo o zoote…",
+    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/16/quanto-um-porco-come-ate-chegar-aos-120-kg-para-o-abate-veja-a-conta.ghtml",
+    "time": "2026-09-16T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "O que é a 'pobreza de luxo' e por que o consumo imediato ganha espaço entre a geração Z?",
+    "d": "Pobreza de luxo: por que o presente vale mais que o futuro? A expressão \"pobreza de luxo\" ganhou espaço nas redes sociais para definir um comportamento marcado pelo consumo de itens e experiências acessíveis por meio…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/09/16/o-que-e-a-pobreza-de-luxo.ghtml",
+    "time": "2026-09-16T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
     "src": "The Guardian",
     "h": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
     "d": "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans The Bank of England and the British financial system were for centuries deeply involved in the enslavement and…",
@@ -22,70 +294,6 @@
     "d": "Cresce a pressão por regras para a IA, à medida que pesquisadores e executivos fazem alertas preocupantes sobre os possíveis riscos da tecnologia. Getty Images via BBC Os alertas sobre os possíveis riscos da inteligên…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/16/por-que-ha-o-temor-sobre-ia-acabar-com-a-humanidade-e-existe-mesmo-o-risco.ghtml",
     "time": "2026-09-16T05:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sessão do STF foi para permitir novos vazamentos, diz Rogério Marinho",
-    "d": "Coordenador de campanha de Flávio Bolsonaro critica adiamento da decisão e afirma que plenário foi para \"ganhar tempo\"",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/rogerio-marinho-sessao-do-stf-foi-para-ganhar-tempo-e-permitir-novos-vazamentos/",
-    "time": "2026-09-16T04:52:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CNJ orienta Judiciário a remunerar cooperativas de catadores de recicláveis",
-    "d": "Medida recomenda que tribunais realizem contratações para que \"trabalhadores sejam tratados com dignidade e respeito\"",
-    "link": "https://www.cnnbrasil.com.br/nacional/cnj-orienta-judiciario-a-remunerar-cooperativas-de-catadores-de-reciclaveis/",
-    "time": "2026-09-16T04:02:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dorival detona primeiro tempo do São Paulo contra Boca: “Não tivemos nada”",
-    "d": "Em atuação ruim, time tricolor apenas empatou com o Boca Juniors-ARG em 1 a 1 no Morumbis e caiu nas quartas de final do torneio continental",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/dorival-detona-primeiro-tempo-do-sao-paulo-contra-boca-nao-tivemos-nada/",
-    "time": "2026-09-16T03:54:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Queda de helicóptero deixa pelo menos três mortos em Los Angeles, nos EUA",
-    "d": "Uma pessoa foi levada a um hospital da região; incêndio foi controlado por bombeiros",
-    "link": "https://www.cnnbrasil.com.br/internacional/queda-de-helicoptero-deixa-mortos-em-los-angeles-nos-eua/",
-    "time": "2026-09-16T03:40:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Nunca recebi em dia”, diz Luciano após eliminação do São Paulo",
-    "d": "Atacante desabafou após queda para o Boca Juniors na Sul-Americana",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/nunca-recebi-em-dia-diz-luciano-apos-eliminacao-do-sao-paulo/",
-    "time": "2026-09-16T03:28:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Veja quanto o São Paulo deixou de ganhar após queda para o Boca Juniors",
-    "d": "Conmebol paga valor de acordo com a fase que os times disputam na competição continental",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-quanto-o-sao-paulo-deixou-de-ganhar-apos-queda-para-o-boca-juniors/",
-    "time": "2026-09-16T03:11:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "São Paulo 1 x 1 Boca Juniors: veja os melhores momentos pela Sul-Americana",
-    "d": "Mesmo com empate, Tricolor é eliminado jogando em casa e dá adeus ao torneio continental",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/sao-paulo-1-x-1-boca-juniors-veja-os-melhores-momentos-pela-sul-americana/",
-    "time": "2026-09-16T03:03:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "WW Talks discute crise do STF e reflexo nas eleições",
-    "d": "Novo episódio aborda papel do Judiciário no cenário político e preocupação dos brasileiros com corrupção",
-    "link": "https://www.cnnbrasil.com.br/politica/ww-talks-crise-stf-eleicoes-2026/",
-    "time": "2026-09-16T03:01:03.000Z"
   },
   {
     "cat": "brasil",
@@ -177,38 +385,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quatro são investigados por homicídio após desabamento que matou seis em SP",
-    "d": "Investigados são um sócio oculto preso, o responsável técnico foragido, uma sócia e uma servidora municipal",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/quatro-sao-investigados-por-homicidio-apos-desabamento-que-matou-seis-em-sp/",
-    "time": "2026-09-16T02:57:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câmara dos EUA aprova medida para limitar poderes de Trump em guerra no Irã",
-    "d": "Com apoio de sete republicanos, esta é a terceira vez em que a casa autoriza a ação",
-    "link": "https://www.cnnbrasil.com.br/internacional/camara-dos-eua-aprova-medida-para-limitar-poderes-de-trump-em-guerra-no-ira/",
-    "time": "2026-09-16T02:56:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Universalização do saneamento é pagar dívida histórica, diz CEO da Sabesp",
-    "d": "Marco Legal do Saneamento Básico estabeleceu que país deve garantir que 99% da população tenha acesso à água potável e 90% à coleta e ao tratamento de esgoto",
-    "link": "https://www.cnnbrasil.com.br/infra/universalizacao-do-saneamento-e-pagar-divida-historica-diz-ceo-da-sabesp/",
-    "time": "2026-09-16T02:54:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Saneamento articula resposta para lidar com impacto de reforma tributária",
-    "d": "CNN Talks Infra Saneamento reuniu nesta terça-feira (15) autoridades, empresários e especialistas para debater principais gargalos e apontar caminhos do setor",
-    "link": "https://www.cnnbrasil.com.br/infra/saneamento-articula-resposta-para-lidar-com-impacto-de-reforma-tributaria/",
-    "time": "2026-09-16T02:47:58.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "STF não decide sobre Alexandre de Moraes e crise se prolonga",
     "d": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar acusações contra Mendonça, marcada par…",
@@ -218,50 +394,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-    "d": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-16T01:29:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TRE-SP multa Ricardo Salles em R$ 5 mil por informações falsas contra André do Prado e manda retirar vídeos com ataques",
-    "d": "Os deputados André do Prado (PL) e Ricardo Salles (Novo), candidatos ao Senado por São Paulo no campo da direita conservadora. Reprodução/TV Globo e Marcelo Camargo/Agência Brasil O Tribunal Regional Eleitoral de São…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/15/tre-sp-multa-ricardo-salles-em-r-5-mil-por-informacoes-falsas-contra-andre-do-prado-e-manda-retirar-videos-com-ataques.ghtml",
-    "time": "2026-09-16T01:23:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Dino: 'Há mensagens dos ministros Fux, Kassio e André. Onde vamos parar?'",
-    "d": "Ministro Flávio Dino disse que Edson Fachin \"está condenado a marcar dezenas de sessões iguais a essa\"",
-    "link": "https://www.bbc.com/portuguese/articles/cmq8j47dky0wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-16T01:04:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Veja como foi a agenda dos candidatos ao governo de Goiás nesta terça-feira (15)",
-    "d": "Eleições 2026: Veja como foi a agenda dos candidatos ao governo de Goiás nesta terça-feira Os candidatos ao governo de Goiás cumpriram compromissos de campanha nesta terça-feira (15). Luís César Bueno (PT) participou…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-terca-feira-15.ghtml",
-    "time": "2026-09-16T01:02:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Pode chorar': os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro",
-    "d": "A sessão foi marcada pelo presidente da Corte, Edson Fachin, para decidir se o ministro Alexandre de Moraes, também do STF, deverá ou não ser alvo de uma investigação por sua relação com Daniel Vorcaro, do Banco Master.",
-    "link": "https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-16T00:54:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em dia de julgamento no STF, Flávio Bolsonaro liga Lula a Moraes, e presidente explora investigação contra senador em horário eleitoral",
-    "d": "Flávio Bolsonaro (PL) e Lula (PT) durante a propaganda eleitoral na TV nesta terça-feira (15). Reprodução No dia em que o STF (Supremo Tribunal Federal) fez sessão para discutir os desdobramentos da crise envolvendo o…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/em-dia-de-julgamento-no-stf-flavio-bolsonaro-liga-lula-a-moraes-e-presidente-explora-investigacao-contra-senador.ghtml",
-    "time": "2026-09-16T00:28:01.000Z"
+    "h": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+    "d": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-16T02:40:51.000Z"
   },
   {
     "cat": "brasil",
@@ -270,14 +406,6 @@
     "d": "Após sessão marcada por bate-bocas e trocas de acusações entre ministros, Cármen Lúcia disse estar 'consternada' com situação da Corte",
     "link": "https://www.bbc.com/portuguese/articles/cqevwn2jkez1o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-16T00:19:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Luis César Bueno fala sobre plano de mobilidade urbana e retomada da política de implantação dos BRTs",
-    "d": "Luis César Bueno fala sobre plano de mobilidade urbana Em sabatina realizada pelo jornal O Popular e pela rádio CBN, o candidato Luís César Bueno (PT) defendeu a criação de um Plano Estadual de Mobilidade Urbana com f…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-agenda-de-luis-cesar-bueno-de-terca-feira-15.ghtml",
-    "time": "2026-09-16T00:19:09.000Z"
   },
   {
     "cat": "brasil",
@@ -298,18 +426,10 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC",
+    "h": "Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC sobre sessão histórica do STF",
     "d": "Especialistas respondem às perguntas enviadas à redação sobre julgamento do Supremo em que ministros debateriam se Moraes deve ser investigado por sua suposta relação com o banqueiro Daniel Vorcaro.",
     "link": "https://www.bbc.com/portuguese/articles/cwkgvk44l5jeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-15T23:51:26.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five takeaways from Canada's push to woo the world's richest investors",
-    "d": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T22:46:20.000Z"
   },
   {
     "cat": "internacional",
@@ -344,14 +464,6 @@
     "time": "2026-09-15T19:08:37.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-    "d": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T18:49:45.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'É um tapa na cara das mulheres': as fortes críticas de atletas de elite ao polêmico anúncio de Sydney Sweeney para casa de apostas",
@@ -376,28 +488,12 @@
     "time": "2026-09-15T17:54:48.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "British woman abducted in Malawi, police say",
-    "d": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
-    "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T17:44:45.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Radares que fiscalizam velocidade média serão testados em 8 estados; veja onde",
     "d": "medidor de velocidade / radar / lombada eletronica g1 / Cauê Adamuz A Superintendência de Infraestrutura Rodoviária (SUROD) autorizou, por pelo menos seis meses, testes com radares que registram a velocidade média dos…",
     "link": "https://g1.globo.com/carros/noticia/2026/09/15/radares-que-medem-velocidade-media-serao-testados-em-8-estados.ghtml",
     "time": "2026-09-15T17:12:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Suspected sabotage causes major Netherlands rail disruption",
-    "d": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T16:55:04.000Z"
   },
   {
     "cat": "internacional",
@@ -411,7 +507,7 @@
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Indonesian wildfires threaten leading orangutan research site in Borneo",
-    "d": "Critically endangered Bornean orangutans flee forests as staff at Cabang Panti work round the clock to stave off blaze Wildfires in Indonesia are sweeping through a critical research site for Bornean orangutans and ar…",
+    "d": "Critically endangered Bornean orangutans flee forests as staff at Rangkong research station work round the clock to stave off blaze Wildfires in Indonesia are sweeping through a critical research site for Bornean oran…",
     "link": "https://www.theguardian.com/environment/2026/sep/15/indonesia-wildfires-threaten-leading-orangutan-research-site-borneo-cabang-panti",
     "time": "2026-09-15T15:57:16.000Z"
   },
@@ -432,76 +528,12 @@
     "time": "2026-09-15T15:18:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Kassio Nunes Marques se declarou impedido de analisar futuro de Moraes",
-    "d": "Ministro disse que não se sente confortável em participar do julgamento por sua posição como presidente do Tribunal Superior Eleitoral (TSE) e se declarou impedido.",
-    "link": "https://www.bbc.com/portuguese/articles/cmx2zlpklk6yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T15:14:53.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Meta One: plano pago de Instagram, WhatsApp e Facebook chega ao Brasil por até R$ 2 mil por mês",
     "d": "Instagram Plus é liberado no Brasil; veja preço e benefícios A Meta oficializou nesta terça-feira (15) o lançamento do Meta One no Brasil. O plano de assinatura libera recursos extras para usuários, criadores de conte…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/15/meta-one-plano-pago-de-instagram-whatsapp-e-facebook-chega-ao-brasil-por-ate-r-2-mil-por-mes.ghtml",
     "time": "2026-09-15T15:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "OpenAI trabalha com Anthropic e Google para reforçar segurança em IA, diz agência",
-    "d": "Empresa OpenAI lançou novo modelo de IA capaz de raciocinar e resolver questões complexas Dado Ruvic/Reuters A OpenAI, criadora do ChatGPT, afirmou que está trabalhando com as concorrentes Anthropic e Google DeepMind…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/15/openai-anthropic-google-seguranca-ia.ghtml",
-    "time": "2026-09-15T14:55:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ash from Mount Etna grounds flights at Sicily airport",
-    "d": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T14:35:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "What weapon could the US have put into space?",
-    "d": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T14:23:14.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "ONU pede 'ação urgente' para regular IA e alerta para riscos sem precedentes",
-    "d": "O alto comissário da ONU para os Direitos Humanos, Volker Turk. Denis Balibouse/ Reuters O alto comissário das Nações Unidas para os Direitos Humanos, Volker Türk, pediu na segunda-feira (14) uma \"ação urgente\" para r…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/15/onu-ia.ghtml",
-    "time": "2026-09-15T14:04:55.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "More than 100,000 people in Japan are now aged 100 or older",
-    "d": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
-    "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T13:43:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Denmark says Russian warship fired flares at military helicopter",
-    "d": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T11:40:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Emmy 2026: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
-    "d": "A série 'O Segredo de Widow's Bay' levou 14 dos 19 prêmios aos quais estava indicada — entre eles o de melhor série de comédia.",
-    "link": "https://www.bbc.com/portuguese/articles/cm74kx40vl08o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-15T11:35:58.000Z"
   },
   {
     "cat": "internacional",
@@ -528,20 +560,12 @@
     "time": "2026-09-15T02:43:18.000Z"
   },
   {
-    "cat": "internacional",
+    "cat": "economia",
     "src": "The Guardian",
     "h": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
     "d": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a slowdown in AI “rec…",
     "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
     "time": "2026-09-14T22:10:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-    "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-14T18:30:54.000Z"
   },
   {
     "cat": "internacional",
@@ -558,22 +582,6 @@
     "d": "Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled b…",
     "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
     "time": "2026-09-14T16:48:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "The London hospital funded by donors who invested in the slave trade",
-    "d": "Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom L…",
-    "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
-    "time": "2026-09-14T13:00:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
-    "d": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in…",
-    "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
-    "time": "2026-09-14T12:38:51.000Z"
   },
   {
     "cat": "economia",
