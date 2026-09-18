@@ -1,99 +1,235 @@
 [
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula promete caneta emagrecedora pelo SUS para pacientes com obesidade",
-    "d": "Presidente propôs a distribuição do medicamento durante evento de visita à Eurofarma em MG; iniciativa do Ministério da Saúde faz parte de um estudo sobre o uso de análogos de GLP-1 em pacientes do SUS",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-promete-caneta-emagrecedora-pelo-sus-para-pacientes-com-obesidade/",
-    "time": "2026-09-18T01:39:25.000Z"
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Japan raises interest rates to 31-year high to curb impact of rising prices",
+    "d": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it…",
+    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
+    "time": "2026-09-18T07:14:13.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Polícia prende homem que esfaqueou esposa e fugiu com filhos em SP",
-    "d": "Polícia Militar prendeu o agressor na Zona Leste de São Paulo após perseguição; vítima foi atendida no local, encaminhada ao hospital, mas segue hospitalizada em estado grave",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-prende-homem-que-esfaqueou-esposa-e-fugiu-com-filhos-em-sp/",
-    "time": "2026-09-18T01:35:00.000Z"
+    "h": "Oposição quer grupo de trabalho sobre reforma do Judiciário em meio à crise",
+    "d": "Movimento no Senado ocorre enquanto PT tenta avançar com PEC na Câmara; tema já estava entre as diretrizes do partido antes da campanha eleitoral",
+    "link": "https://www.cnnbrasil.com.br/politica/oposicao-quer-grupo-de-trabalho-sobre-reforma-do-judiciario-em-meio-a-crise/",
+    "time": "2026-09-18T07:09:55.000Z"
   },
   {
     "cat": "economia",
     "src": "CNN Brasil",
-    "h": "Flávio nega ter autorizado ação de aliado contra reajuste do Bolsa Família",
-    "d": "Candidato à Presidência disse que não concorda com iniciativa de Zé Trovão, protocolada na Justiça Eleitoral; ação foi rejeitada pelo ministro André Mendonça",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-nega-ter-autorizado-acao-de-aliado-contra-reajuste-do-bolsa-familia/",
-    "time": "2026-09-18T01:26:04.000Z"
+    "h": "Análise: Medida sobre Bolsa Família expõe alta preocupação com reeleição",
+    "d": "Os analistas de Política da CNN Caio Junqueira e Jussara Soares avaliam, ao CNN Prime Time, que anúncio do aumento do benefício, a 17 dias do 1º turno, tem forte viés eleitoral",
+    "link": "https://www.cnnbrasil.com.br/politica/analise-medida-sobre-bolsa-familia-expoe-alta-preocupacao-com-reeleicao/",
+    "time": "2026-09-18T07:03:51.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Cuello desabafa após ser decisivo no Atlético-MG: “Não define quem eu sou”",
-    "d": "Jogador argentino superou grave lesão há um ano e foi peça chave na classificação heroica do Galo na Sul-Americana",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/cuello-desabafa-apos-ser-decisivo-no-atletico-mg-nao-define-quem-eu-sou/",
-    "time": "2026-09-18T01:20:44.000Z"
+    "h": "Brentford x Chelsea: horário e onde assistir ao jogo da Premier League",
+    "d": "Equipes entram em campo nesta sexta-feira (18) em mais uma rodada do Campeonato Inglês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/brentford-x-chelsea-horario-e-onde-assistir-ao-jogo-da-premier-league-3/",
+    "time": "2026-09-18T07:00:49.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Interceptação de drone dos Houthis na Arábia Saudita deixa um morto",
-    "d": "Cidadão do Iêmen que morava no reino foi morto após um dispositivo do grupo apoiado pelo Irã ser derrubado; outras duas pessoas ficaram feridas",
-    "link": "https://www.cnnbrasil.com.br/internacional/interceptacao-de-drone-dos-houthis-na-arabia-saudita-deixa-um-morto/",
-    "time": "2026-09-18T01:16:27.000Z"
+    "h": "Vila Nova x América-MG: horário e onde assistir ao jogo da Série B",
+    "d": "Equipes se enfrentam nesta sexta-feira (18), no Estádio OBA, pela 29ª rodada da Série B do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vila-nova-x-america-mg-horario-e-onde-assistir-ao-jogo-da-serie-b-3/",
+    "time": "2026-09-18T07:00:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bayern de Munique x Union Berlin: horário e onde assistir à Bundesliga",
+    "d": "Equipes vão a campo nesta sexta-feira (18), pela 4ª rodada do campeonato alemão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/bayern-de-munique-x-union-berlin-horario-e-onde-assistir-a-bundesliga-2/",
+    "time": "2026-09-18T07:00:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Monaco x Lens: horário e onde assistir ao jogo do Campeonato Francês",
+    "d": "Equipes se enfrentam nesta sexta-feira (18), no Estádio Louis II, pela quinta rodada da liga nacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/monaco-x-lens-horario-e-onde-assistir-ao-jogo-do-campeonato-frances/",
+    "time": "2026-09-18T07:00:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "João Fonseca x Dominic Stricker: horário e onde assistir à Copa Davis",
+    "d": "Equipe brasileira enfrenta grupo suíço entre sexta-feira (18) e sábado (19), na Farmasi Arena, no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-dominic-stricker-horario-e-onde-assistir-a-copa-davis/",
+    "time": "2026-09-18T07:00:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gustavo Heide x Stan Wawrinka: horário e onde assistir à Copa Davis",
+    "d": "Equipe brasileira enfrenta grupo suíço entre sexta-feira (18) e sábado (19), na Farmasi Arena, no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/gustavo-heide-x-stan-wawrinka-horario-e-onde-assistir-a-copa-davis/",
+    "time": "2026-09-18T07:00:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após atrasos, governo quer leiloar ferrovia no Sudeste em 2027",
+    "d": "Anel Ferroviário do Sudeste terá edital publicado até dezembro, porém só irá a disputa no primeiro trimestre do ano que vem; leilão também depende de decisão do TCU sobre contas vinculadas",
+    "link": "https://www.cnnbrasil.com.br/infra/apos-atrasos-governo-quer-leiloar-ferrovia-no-sudeste-em-2027/",
+    "time": "2026-09-18T07:00:07.000Z"
   },
   {
     "cat": "economia",
     "src": "CNN Brasil",
-    "h": "Flávio Bolsonaro diz que, se eleito, manterá reajuste do Bolsa Família",
-    "d": "Candidato à Presidência afirmou que deve manter reajuste de 15% sobre o benefício; medida foi anunciada nesta quinta-feira (17) pelo presidente Lula",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-diz-que-se-eleito-mantera-reajuste-do-bolsa-familia/",
-    "time": "2026-09-18T01:08:27.000Z"
+    "h": "Bolsa Família: reajuste mantém distorção sobre crianças, dizem economistas",
+    "d": "Governo anuncia medida de R$ 22 bilhões a menos de 20 dias do primeiro turno",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-reajuste-mantem-distorcao-sobre-criancas-dizem-economistas/",
+    "time": "2026-09-18T06:49:19.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Waack: Lula escolhe lado e mergulha na briga no STF",
-    "d": "Ao assumir publicamente um lado na fratura dentro do Supremo, Lula embarcou o executivo oficialmente na crise monstruosa, que tem como principal característica a dissolução das instituições",
-    "link": "https://www.cnnbrasil.com.br/politica/waack-lula-escolhe-lado-e-mergulha-na-briga-no-stf/",
-    "time": "2026-09-18T01:05:12.000Z"
+    "h": "EUA fazem rara visita a Mianmar para libertar ex-fuzileiro detido",
+    "d": "Delegação se reuniu com governo apoiado por militares em meio à tentativa da junta de ampliar contatos internacionais",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-fazem-rara-visita-a-mianmar-para-libertar-ex-fuzileiro-detido/",
+    "time": "2026-09-18T06:40:30.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "MPT pede R$ 30 milhões de Luciano Hang e Havan por assédio eleitoral",
-    "d": "Empresário criticou a proposta de redução da jornada de trabalho e relacionou a discussão sobre o fim da escala 6×1 às eleições de outubro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/mpt-pede-r-30-milhoes-de-luciano-hang-e-havan-por-assedio-eleitoral/",
-    "time": "2026-09-18T01:05:03.000Z"
+    "h": "Vênus atinge brilho máximo nesta sexta e poderá ser observado do Brasil. Planeta será o objeto natural mais luminoso do céu",
+    "d": "Para conseguir observá-lo, basta procurar um ponto extremamente luminoso no céu oeste, na mesma direção em que o Sol se põe",
+    "link": "https://www.cnnbrasil.com.br/ciencia/venus-atinge-brilho-maximo-nesta-sexta-e-podera-ser-observado-do-brasil-planeta-sera-o-objeto-natural-mais-luminoso-do-ceu/",
+    "time": "2026-09-18T06:34:27.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Mendonça vai relatar ação de Renan Santos contra reajuste do Bolsa Família",
-    "d": "Candidato do Missão à Presidência ingressou com ação na Justiça Eleitoral contra aumento de 15% no benefício anunciado pelo presidente Lula nesta quinta-feira (17)",
-    "link": "https://www.cnnbrasil.com.br/politica/mendonca-vai-relatar-acao-de-renan-santos-contra-reajuste-do-bolsa-familia/",
-    "time": "2026-09-18T01:02:16.000Z"
+    "src": "G1",
+    "h": "Anatel bloqueia empresas que fizeram mais de 4 milhões de chamadas adulteradas",
+    "d": "Anatel deu 30 dias para elas rastrearem a origem de outras milhões de ligaçõadulteradas Priscilla Du Preez/ Unsplash A Agência Nacional de Telecomunicações (Anatel) exigiu o bloqueio de ligações de duas empresas que s…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/18/anatel-bloqueio-chamadas-adulteradas.ghtml",
+    "time": "2026-09-18T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "O alerta de chefe da Microsoft sobre a IA: 'Tratar a IA como humana é um erro'",
+    "d": "Mustafa Suleyman acredita que a rival Anthropic está ensinando o modelo Claude que ele 'pode ser consciente' Getty Images via BBC O chefe da divisão de IA da Microsoft afirmou que, a menos que restrições adequadas sej…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/18/o-alerta-de-chefe-da-microsoft-sobre-a-ia-tratar-a-ia-como-humana-e-um-erro.ghtml",
+    "time": "2026-09-18T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+    "d": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’ South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the…",
+    "link": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+    "time": "2026-09-18T05:54:29.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "CNH vencida voltou a valer: entenda por que governo prorrogou prazo até dezembro",
+    "d": "Aplicativo da CNH do Brasil Divulgação / Serpro O Conselho Nacional de Trânsito (Contran) prorrogou a data de vencimento da Carteira Nacional de Habilitação (CNH) e da Autorização para Conduzir Ciclomotor (ACC). Docum…",
+    "link": "https://g1.globo.com/carros/noticia/2026/09/18/cnh-vencida-voltou-a-valer-entenda-por-que-governo-prorrogou-prazo-ate-dezembro.ghtml",
+    "time": "2026-09-18T05:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "R$ 30 milhões por dano moral: o que fez Luciano Hang, dono da Havan, ser processado por assédio eleitoral?",
+    "d": "Luciano Hang, dono das Lojas Havan Havan/Divulgação O empresário Luciano Hang, dono das lojas Havan, virou alvo de uma ação por assédio eleitoral após um discurso feito para funcionários durante a inauguração de uma u…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/18/luciano-hang-mpt-assedio-eleitoral.ghtml",
+    "time": "2026-09-18T05:00:00.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Operações não enxergam partidos”, diz Tarcísio sobre ação contra PCC",
-    "d": "Ação investiga infiltração do Primeiro Comando da Capital no poder público e no sistema de transporte coletivo de São Paulo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacoes-nao-enxergam-partidos-diz-tarcisio-sobre-acao-contra-pcc/",
-    "time": "2026-09-18T00:56:02.000Z"
+    "src": "G1",
+    "h": "A interferência (cada vez mais explícita) dos EUA na eleição brasileira - O Assunto #1807",
+    "d": "Convidados: Oliver Stuenkel, professor de Relações Internacionais da FGV e pesquisador do Carnegie Endowment. O podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Morett…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/18/a-interferencia-cada-vez-mais-explicita-dos-eua-na-eleicao-brasileira-o-assunto-1807.ghtml",
+    "time": "2026-09-18T03:30:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "BBC News Brasil",
+    "h": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
+    "d": "Segundo governo, aumento é apenas reajuste da inflação após anos de congelamento dos benefícios.",
+    "link": "https://www.bbc.com/portuguese/articles/c62kw8qqy0d8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T03:09:53.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil bate Colômbia e mantém liderança do Sul-Americano de vôlei masculino",
-    "d": "Seleção Brasileira teve um primeiro set acirrado, mas depois se organizou e conquistou o triunfo na noite desta quinta-feira (17)",
-    "link": "https://www.cnnbrasil.com.br/esportes/volei/brasil-bate-colombia-e-mantem-lideranca-do-sul-americano-de-volei-masculino/",
-    "time": "2026-09-18T00:52:22.000Z"
+    "src": "G1",
+    "h": "VÍDEO: o que é e como denunciar assédio eleitoral",
+    "d": "Guia do Eleitor: O que é e como denunciar assédio eleitoral Se um trabalhador é constrangido, pressionado, influenciado ou até punido por causa de suas escolhas políticas ou eleitorais, isso é considerado assédio elei…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/18/video-o-que-e-e-como-denunciar-assedio-eleitoral.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chimpanzé Serafim é sacrificado aos 38 anos por zoológico em BH após avanço de dores provocadas por diabetes",
-    "d": "Animal será levado ao Museu de História Natural da PUC Minas para fins de educação ambiental e incentivo à pesquisa",
-    "link": "https://www.cnnbrasil.com.br/ciencia/chimpanze-serafim-e-sacrificado-aos-38-anos-por-zoologico-em-bh-apos-avanco-de-dores-provocadas-por-diabetes/",
-    "time": "2026-09-18T00:48:47.000Z"
+    "src": "G1",
+    "h": "Entenda se o governo pode reajustar benefício social em ano eleitoral e diferenças de aumentos de Lula e Bolsonaro",
+    "d": "Governo anuncia reajuste de 15% para o Bolsa Família Especialistas entendem que o reajuste de 15,04% no valor do Bolsa Família concedido pelo governo do presidente Luiz Inácio Lula da Silva (PT) apenas repõe a inflaçã…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/entenda-se-o-governo-pode-reajustar-beneficio-social-em-ano-eleitoral-e-diferencas-de-aumentos-de-lula-e-bolsonaro.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Exame Nacional da Magistratura tem inscrições abertas de prova obrigatória para quem quer ser juiz",
+    "d": "Inscritos para o Exame Nacional da Magistratura (ENAM) se encaminham para local de prova, no DF TV Globo/Reprodução As inscrições para o Exame Nacional da Magistratura (ENAM), prova em que os candidatos precisam ser a…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/18/exame-nacional-da-magistratura-tem-inscricoes-abertas-de-prova-obrigatoria-para-quem-quer-ser-juiz.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "‘É de direita ou esquerda?’: buscas sobre espectro político de candidatos disparam; especialistas analisam impacto",
+    "d": "Como os posts de campanha chegam até o eleitor? A três semanas do primeiro turno das Eleições de 2026, as buscas no Google por nomes de candidatos acompanhadas pela pergunta “é de direita ou esquerda?” quase triplicar…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/e-de-direita-ou-esquerda-buscas-sobre-espectro-politico-de-candidatos-disparam-especialistas-analisam-impacto.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha, 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião",
+    "d": "Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2% Pesquisa Datafolha divulgada nesta quinta-feira (17) mostra Lula (PT) com 39% das intenções de voto no 1º turno da eleiç…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-1-turno-17-setembro-recortes.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Aumento do Bolsa Família: quanto vou receber? Como medida chegou ao TSE? Veja perguntas e respostas",
+    "d": "Governo anuncia reajuste de 15% no Bolsa Família O governo do presidente Lula (PT) anunciou nesta quinta-feira (17) o aumento do valor mínimo pago pelo Bolsa Família, de R$ 600 para R$ 691. 📱Favorite o g1 no Google e…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Bolsa Família: de R$ 70 a R$ 700; veja como o valor do benefício mudou em 23 anos",
+    "d": "Governo anuncia reajuste nos valores do Bolsa Família O valor mínimo pago pelo Bolsa Família vai subir de R$ 600 para R$ 691 a partir de outubro, o que eleva o valor médio a R$ 777. O reajuste de 15,04% foi anunciado…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/18/bolsa-familia-veja-como-o-valor-do-beneficio-mudou-em-23-anos.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Mulheres são 7 em cada 10 mesários nas eleições de 2026; veja o perfil",
+    "d": "TRE/AC está com inscrições abertas para quem deseja ser mesário voluntário As mulheres são pouco mais de sete em cada dez mesários registrados para o primeiro turno das eleições de 2026. Elas somam 1,31 milhão de pess…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/perfil-mesarios-eleicoes-2026.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Proporção de candidatos milionários cresce em 2026; parcela sem patrimônio diminui",
+    "d": "Os milionários ganharam espaço entre os candidatos nas eleições de 2026. Dos concorrentes deste ano, 6.354 declararam patrimônio de pelo menos R$ 1 milhão, o equivalente a 30,3% do total. Outros 7.078 (33,8%) não info…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/proporcao-de-candidatos-milionarios-cresce-em-2026-parcela-sem-patrimonio-diminui.ghtml",
+    "time": "2026-09-18T03:00:00.000Z"
   },
   {
     "cat": "brasil",
@@ -126,86 +262,6 @@
     "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.059 da Mega-Sena foi realizado na noite desta quinta-feira (10), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 101,9 milhões. Um bol…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/17/mega-sena-concurso-3059-confira-os-numeros-sorteados.ghtml",
     "time": "2026-09-18T00:14:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Luciana Amorim propõe tarifa zero no transporte público de Goiânia",
-    "d": "Eleições 2026: Luciana Amorim propõe tarifa zero no transporte público de Goiânia A candidata ao Governo de Goiás pela Unidade Popular (UP), Luciana Amorim, realizou panfletagem no Centro de Goiânia nesta quinta-feira…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-agenda-de-luciana-amorim-de-quinta-feira-17.ghtml",
-    "time": "2026-09-18T00:14:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro diz que não autorizou ação de Zé Trovão contra reajuste do Bolsa Família: 'Não concordo'",
-    "d": "Flávio Bolsonaro durante live na noite de quinta-feira, 30 de julho Reprodução/YouTube O candidato à Presidência Flávio Bolsonaro (PL) afirmou, em transmissão ao vivo nesta quinta-feira (17), que não autorizou o deput…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-diz-que-nao-autorizou-acao-de-ze-trovao-contra-reajuste-do-bolsa-familia-nao-concordo.ghtml",
-    "time": "2026-09-17T23:54:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: Lula tem 53% entre eleitores que recebem Bolsa Família, e Flávio Bolsonaro, 28%",
-    "d": "Programa Bolsa Família Divulgação/MDS Pesquisa Datafolha divulgada nesta quinta-feira (17) mostra que, entre quem recebe o Bolsa Família ou mora com um beneficiário, Lula (PT) tem 53% das intenções de voto no primeiro…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/datafolha-bolsa-familia.ghtml",
-    "time": "2026-09-17T23:22:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha aponta empate triplo entre Lula e Flávio Bolsonaro; entenda",
-    "d": "Flávio Bolsonaro e Lula Getty Images via BBC A duas semanas do 1º turno da eleição, a pesquisa Datafolha divulgada nesta quinta-feira (17) aponta um empate triplo entre Lula (PT) e Flávio Bolsonaro (PL) na disputa pel…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-17-setembro-lula-flavio-bolsonaro-1-turno-2-turno-rejeicao.ghtml",
-    "time": "2026-09-17T22:44:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: Lula e Flávio Bolsonaro empatam na rejeição, com 47% cada um",
-    "d": "Datafolha: 47% rejeitaram Flávio; 47% rejeitaram Lula Pesquisa Datafolha divulgada nesta quinta-feira (17) mostra que Lula (PT) e Flávio Bolsonaro (PL) são os candidatos à Presidência mais rejeitados, ambos com o mesm…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-rejeicao-lula-flavio-17-setembro.ghtml",
-    "time": "2026-09-17T22:28:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Haddad diz que cidade de SP viveu 'guerra por contratos do transporte' e que sistema é 'vespeiro'",
-    "d": "O candidato ao governo Fernando Haddad (PT) durante agenda de campanha em SP Giba Bergamim/TV Globo O candidato ao governo estadual Fernando Haddad (PT) disse na tarde desta quinta-feira (17) que os alvos da operação…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/17/haddad-diz-que-cidade-de-sp-viveu-guerra-por-contratos-do-transporte-e-que-sistema-e-vespeiro.ghtml",
-    "time": "2026-09-17T22:26:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: 50% desaprovam e 48% aprovam governo Lula",
-    "d": "Pesquisa Datafolha divulgada nesta quinta-feira (17) mostra que 50% desaprovam e 48% aprovam o governo do presidente Lula (PT), candidato à reeleição. O levantamento foi encomendado pela Globo e pelo jornal Folha de S…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-50percent-desaprovam-e-48percent-aprovam-governo-lula.ghtml",
-    "time": "2026-09-17T22:05:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%",
-    "d": "Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44% Pesquisa Datafolha divulgada nesta quinta-feira (17) mostra que persiste o empate técnico no 2º turno entre Lula (PT), com 46% das intenções de voto, e Flávio Bols…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-segundo-turno-presidente-17-setembro.ghtml",
-    "time": "2026-09-17T22:04:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%",
-    "d": "Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2% Lula (PT) e Flávio Bolsonaro (PL) estão tecnicamente empatados na disputa pela presidência no 1º turno, segundo pesquisa…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-presidente-17-setembro.ghtml",
-    "time": "2026-09-17T22:04:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça rejeita ação que questionava reajuste do Bolsa Família sem analisar legalidade da medida",
-    "d": "Mendonça rejeita ação sobre reajuste do Bolsa Família O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), rejeitou uma ação em que o deputado federal e candidato à reeleição Zé Trovão (PL-SC), aliado do s…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/17/medonca-extingue-processo-que-questiona-reajuste-do-bolsa-familia-sem-analisar-a-legalidade-da-medida.ghtml",
-    "time": "2026-09-17T21:49:40.000Z"
   },
   {
     "cat": "internacional",
@@ -344,44 +400,12 @@
     "time": "2026-09-17T15:17:50.000Z"
   },
   {
-    "cat": "economia",
-    "src": "BBC News Brasil",
-    "h": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
-    "d": "Segundo governo, aumento é apenas reajuste da inflação após anos de congelamento dos benefícios.",
-    "link": "https://www.bbc.com/portuguese/articles/c62kw8qqy0d8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T15:16:37.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Hyrox athlete apologises for continuing race after soiling herself",
     "d": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
     "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-17T15:05:13.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Órgão do Senado projeta rombo de R$ 86 bilhões em 2027, contraria governo e prevê necessidade de bloqueio para cumprir meta",
-    "d": "A Instituição Fiscal Independente (IFI), órgão ligado ao Senado, projetou nesta quinta-feira (17), para o próximo ano, um déficit nas contas do governo da ordem de R$ 86,1 bilhões. A estimativa, que consta no Relatóri…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/17/orgao-do-senado-projeta-rombo-de-r-86-bilhoes-em-2027-contraria-governo-e-preve-necessidade-de-bloqueio-para-cumprir-meta.ghtml",
-    "time": "2026-09-17T14:30:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Governo nega influência eleitoral na decisão de reajustar Bolsa Família; aumento não estava previsto no Orçamento de 2027",
-    "d": "A equipe econômica do governo Lula negou que o reajuste do Bolsa Família anunciado nesta quinta-feira (17) tenha relação com as eleições de 2026. A medida deve beneficiar 19,3 milhões de famílias no Brasil. O anúncio…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/17/mesmo-sem-reajuste-previsto-no-orcamento-de-2027-governo-nega-influencia-eleitoral-em-reajuste-do-bolsa-familia.ghtml",
-    "time": "2026-09-17T14:15:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Carne bovina: setor espera que UE reliste Brasil este ano e retome importações em 2027",
-    "d": "Presidente da Abiec, Roberto Perosa. Divulgação/Abiec O presidente da Associação Brasileira das Indústrias Exportadoras de Carne (Abiec), Roberto Perosa, afirmou nesta quinta-feira (17) que espera que o Brasil volte a…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/17/carne-bovina-setor-pede-que-governo-negocie-periodo-de-transicao.ghtml",
-    "time": "2026-09-17T14:05:02.000Z"
   },
   {
     "cat": "internacional",
@@ -392,28 +416,12 @@
     "time": "2026-09-17T13:44:07.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Em meio à corrida eleitoral, governo Lula anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
-    "d": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691. Já o benefício médio subirá dos atuais R$ 675…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
-    "time": "2026-09-17T13:33:13.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Klopp wants to 'reclaim' flag amid German elections",
     "d": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
     "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-17T13:02:40.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Conhecida como 'capital do agro', Sorriso (MT) perde posto de cidade mais rica do setor após 6 anos; conheça a nova líder",
-    "d": "Agora no g1 Sorriso, em Mato Grosso, conhecida como a “capital do agro”, não é mais o município brasileiro com o maior valor de produção agrícola. Depois de seis anos no topo, a cidade terminou 2025 na 3ª posição, atr…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/17/conhecida-como-capital-do-agro-sorriso-mt-perde-posto-de-cidade-mais-rica-do-setor-apos-6-anos-conheca-a-nova-lider.ghtml",
-    "time": "2026-09-17T13:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -424,28 +432,12 @@
     "time": "2026-09-17T12:41:05.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "OpenAI promete comunicar quando suas IAs agirem de forma inesperada",
-    "d": "'Parece lixo de IA': por que plataformas agora estão 'dedurando' conteúdos feitos com IA A OpenAI prometeu comunicar quando seus modelos de inteligência artificial fizerem o que não deveriam, mesmo antes de conseguir…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/17/openai-promete-comunicar-quando-suas-ias-agirem-de-forma-inesperada.ghtml",
-    "time": "2026-09-17T12:29:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Canada welcomes EU proposal to become 'associate member'",
     "d": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
     "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-17T12:27:18.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar cai e fecha a R$ 5,13 após reajuste do Bolsa Família e decisões de juros; Ibovespa sobe",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda de 0,24% nesta quinta-feira (17), cotado a R$ 5,1386. O Ibovespa, principal índice da bolsa de valores brasileira, avançou 0,24%, aos 185.992 po…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/17/dolar-ibovespa.ghtml",
-    "time": "2026-09-17T12:00:00.000Z"
   },
   {
     "cat": "economia",
@@ -512,14 +504,6 @@
     "time": "2026-09-17T04:00:39.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Fiji declares national HIV emergency as Pacific nation grapples with surge in cases",
-    "d": "Government estimates that one in 60 adults in Fiji now living with HIV, as escalating use of methamphetamine fuels ‘epidemic’ Fiji has declared a national HIV emergency amid a spike in infections as the Pacific nation…",
-    "link": "https://www.theguardian.com/world/2026/sep/17/fiji-declares-national-hiv-emergency-infections-surge-health",
-    "time": "2026-09-17T01:43:49.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "US Federal Reserve raises interest rates for the first time since 2023",
@@ -574,14 +558,6 @@
     "d": "Tech CEOs banding together is an old ruse recycled from corporate America to get a pass from antitrust laws Anthropic’s Dario Amodei is not the first corporate CEO to suggest that excessive competition is driving the…",
     "link": "https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws",
     "time": "2026-09-16T11:00:18.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Michelin-starred Seoul restaurant fined for serving dessert topped with ants",
-    "d": "Prosecutors sought jail term for chief executive of Evett after insects not approved for consumption were on menu A South Korean court has fined the operator of one of Seoul’s most celebrated restaurants and its chief…",
-    "link": "https://www.theguardian.com/world/2026/sep/16/michelin-starred-seoul-restaurant-evett-fined-dessert-ants",
-    "time": "2026-09-16T09:09:50.000Z"
   },
   {
     "cat": "internacional",
