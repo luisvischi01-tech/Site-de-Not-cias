@@ -1,107 +1,299 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Zema diz que quem acredita no PT deve se mudar para Venezuela ou Cuba",
+    "d": "Romeu Zema, candidato do Novo à Presidência da República Reprodução O candidato do Novo à Presidência da República, Romeu Zema, afirmou nesta sexta-feira (18) que as pessoas que acreditam no PT deveriam sair do Brasil…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/zema-critica-pt.ghtml",
+    "time": "2026-09-18T12:15:53.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar abre em queda, com foco em política brasileira e preços do petróleo no exterior",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta sexta-feira (18) em queda, com um recuo de 0,10% perto das 9h, cotado a R$ 5,1337. Já as negociações do Ibovespa, principal índice da bolsa…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/18/dolar-ibovespa.ghtml",
+    "time": "2026-09-18T12:00:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Police begin operation to move migrants from Ceuta beaches",
+    "d": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T11:59:42.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Dozens of suspected illegal miners die in Nigerian custody",
+    "d": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+    "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T11:56:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lívia Andrade sobre rumores com Scooby: “Sou solteira e ele também”",
+    "d": "Surfista também já havia se pronunciado sobre boatos de romance",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/livia-andrade-sobre-rumores-com-scooby-sou-solteira-e-ele-tambem/",
+    "time": "2026-09-18T11:52:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+    "d": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+    "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T11:49:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Defesa de Vorcaro pede fim da prisão preventiva e substituição por medidas cautelares",
+    "d": "Defesa de Daniel Vorcaro pede revogação da prisão Vorcaro foi preso pela segunda vez há mais seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A d…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/18/defesa-de-vorcaro-pede-fim-da-prisao-preventiva.ghtml",
+    "time": "2026-09-18T11:49:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dona da Serra Verde aposta em computação quântica para refinar terras raras",
+    "d": "USA Rare Earth fechou parceria com Pasqal e Riven Systems para desenvolver moléculas capazes de tornar a separação dos elementos mais barata e eficiente",
+    "link": "https://www.cnnbrasil.com.br/infra/dona-da-serra-verde-aposta-em-computacao-quantica-para-refinar-terras-raras/",
+    "time": "2026-09-18T11:45:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Vorcaro joga com crise no STF enquanto investigadores temem reviravolta no Master",
+    "d": "Sadi: Defesa de Vorcaro aproveita crise no STF Enquanto o debate se concentra no plenário do Supremo Tribunal Federal (STF), nos embates entre ministros e nos vencedores e derrotados dessa disputa institucional, uma p…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/18/vorcaro-joga-com-crise-no-stf.ghtml",
+    "time": "2026-09-18T11:44:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula confirma encontro com prefeito de NY, Zohran Mamdani",
+    "d": "Reunião bilateral, a pedido do democrata socialista, acontece às margens da Assembleia Geral da ONU",
+    "link": "https://www.cnnbrasil.com.br/politica/lula-confirma-encontro-com-prefeito-de-ny-zohran-mamdani/",
+    "time": "2026-09-18T11:43:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Memphis fica fora da primeira convocação de Xavi na Holanda",
+    "d": "Maior artilheiro da história do país é ausência no início do ciclo para 2030",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/memphis-fica-fora-de-primeira-convocacao-de-xavi-na-holanda/",
+    "time": "2026-09-18T11:41:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem foi Anne Frank e 9 curiosidades sobre o diário mais famoso do mundo, que agora é objeto de polêmica no Brasil",
+    "d": "Influenciadora classificou a obra como 'vitimista' durante a 28ª Bienal do Livro de São Paulo. Museu do Holocausto e Federação Israelita repudiaram afirmação.",
+    "link": "https://www.bbc.com/portuguese/articles/cw1mvjv9k51zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T11:39:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+    "d": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T11:39:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Jorginho Mello, candidato pelo PL à reeleição em Santa Catarina",
+    "d": "Atual governador do estado tem longa carreira política, com passagem por câmara municipal até o Senado",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-jorginho-mello-candidato-pelo-pl-a-reeleicao-em-santa-catarina/",
+    "time": "2026-09-18T11:37:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Corinthians, hoje, não é uma potência financeira”: reconhece Marcelo Paz",
+    "d": "Em coletiva, dirigente reconheceu a crise financeira do clube e afirmou que medidas estão sendo tomadas para reverter a situação",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-hoje-nao-e-uma-potencia-financeira-reconhece-marcelo-paz/",
+    "time": "2026-09-18T11:37:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Diretor da Microsoft chamou de 'roubo' uso de reportagens do NYT para treinar modelos da própria empresa e da OpenAI",
+    "d": "Logo da Microsoft em Cambridge, em foto de arquivo Reuters/Brian Snyder A OpenAI cometeu um \"roubo impressionante de proporções sem precedentes\" ao utilizar milhões de artigos jornalísticos para treinar seus modelos d…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/18/batalha-judicial-nyt-openai-microsoft.ghtml",
+    "time": "2026-09-18T11:34:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Ministro da Defesa tem celular clonado e golpistas pedem contribuição para falso evento beneficente",
+    "d": "Ministro e print de mensagem golpista. Reprodução O ministro da Defesa, José Múcio Monteiro, foi alvo de golpistas que clonaram o número dele em um aplicativo de mensagens. Os criminosos passaram a enviar mensagens a…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/18/ministro-da-defesa-tem-celular-clonado-e-golpistas-mandam-mensagem-pedindo-contribuicao-para-evento-beneficente.ghtml",
+    "time": "2026-09-18T11:31:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Reajuste do Bolsa Família é aposta de Lula para mudar foco da eleição após crise no STF",
+    "d": "O reajuste do Bolsa Família vinha sendo defendido havia algumas semanas por alas do Ministério da Fazenda como forma de conter o mau humor do eleitor com a economia. O martelo, no entanto, só foi batido depois da cris…",
+    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/18/reajuste-do-bolsa-familia-e-aposta-de-lula-para-mudar-foco-da-eleicao-apos-crise-no-stf.ghtml",
+    "time": "2026-09-18T11:27:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vasco não vai buscar novos reforços após “não” de Richarlison, diz diretor",
+    "d": "Diretor de futebol do Vasco detalha nova estratégia para o ataque, com valorização do elenco e Brenner como aposta principal",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-nao-vai-buscar-novos-reforcos-apos-nao-de-richarlison-diz-diretor/",
+    "time": "2026-09-18T11:27:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Resident Evil”: nova adaptação recebe 96% de aprovação da crítica",
+    "d": "Filme chega aos cinemas com recorde, sendo o mais bem avaliado do gênero e da franquia",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/resident-evil-nova-adaptacao-recebe-96-de-aprovacao-da-critica/",
+    "time": "2026-09-18T11:23:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Integrante do Comando Vermelho de Mato Grosso é presa em operação no Rio",
+    "d": "Investigada por organização criminosa e lavagem de dinheiro, mulher foi localizada pela Polícia Civil durante ação contra grupo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/integrante-do-comando-vermelho-de-mato-grosso-e-presa-em-operacao-no-rio/",
+    "time": "2026-09-18T11:23:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Karen Guerreiro, candidata ao Senado pelo Paraná",
+    "d": "Candidata de Pelotas (RS) disputa o cargo pelo partido Missão",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-karen-guerreiro-candidata-ao-senado-pelo-parana/",
+    "time": "2026-09-18T11:23:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Debate em PE é marcado por falas sobre segurança, educação e bets",
+    "d": "Raquel Lyra, João Campos e Ivan Moraes trocaram críticas e apresentaram propostas de suas campanhas na disputa pelo governo pernambucano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/debate-em-pe-e-marcado-por-falas-sobre-seguranca-educacao-e-bets/",
+    "time": "2026-09-18T11:23:02.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-    "d": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it…",
-    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
-    "time": "2026-09-18T07:14:13.000Z"
+    "h": "British woman who was kidnapped in Malawi rescued by police after shootout",
+    "d": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which…",
+    "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+    "time": "2026-09-18T11:21:36.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Oposição quer grupo de trabalho sobre reforma do Judiciário em meio à crise",
-    "d": "Movimento no Senado ocorre enquanto PT tenta avançar com PEC na Câmara; tema já estava entre as diretrizes do partido antes da campanha eleitoral",
-    "link": "https://www.cnnbrasil.com.br/politica/oposicao-quer-grupo-de-trabalho-sobre-reforma-do-judiciario-em-meio-a-crise/",
-    "time": "2026-09-18T07:09:55.000Z"
+    "h": "Harry Kane destaca temporada incrível, mas evita falar sobre Bola de Ouro",
+    "d": "Atacante marcou 73 gols pelo Bayern de Munique e pela seleção inglesa, ficando entre os candidatos ao prêmio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/harry-kane-destaca-temporada-incrivel-mas-evita-falar-sobre-bola-de-ouro/",
+    "time": "2026-09-18T11:21:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Família acusa polícia de levar à morte suspeito de empurrar mulher na frente de ônibus em 2017 em Londres",
+    "d": "Irmãs de Nicholas Brandram deram à BBC lista de razões pelas quais ele não poderia ser o corredor que empurrou uma mulher para a frente de um ônibus na ponte de Putney, em Londres.",
+    "link": "https://www.bbc.com/portuguese/articles/ckzdz8mrj2ezo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T11:08:27.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Three dead and eight injured in Philippines school shooting",
+    "d": "The gunman is among the dead in what is the third school shooting in the country since June.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T11:01:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
+    "d": "Simon Peter Carman appeared in a Pattaya court on Friday charged with killing Tunchanok Donhomla An Australian man accused of murdering a Thai teenager and putting her body in a suitcase pleaded not guilty on Friday i…",
+    "link": "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb",
+    "time": "2026-09-18T10:00:35.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
+    "d": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa…",
+    "link": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
+    "time": "2026-09-18T10:00:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que SP já tem setembro mais chuvoso em mais de 80 anos — e chuva deve voltar neste fim de semana",
+    "d": "Especialistas explicam como uma combinação de frentes frias, umidade e o El Niño em curso levou a cidade a superar o recorde de 1983 — e apontam que o risco de deslizamentos e alagamentos continua alto nos próximos dias.",
+    "link": "https://www.bbc.com/portuguese/articles/c6n9wzr8wen2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T09:50:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
+    "d": "At least one person dead as stormy weather causes severe flooding in Barcelona and Valencia Intense and slow-moving thunderstorms broke out on Wednesday afternoon across parts of eastern Spain, bringing some severe fl…",
+    "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon",
+    "time": "2026-09-18T08:36:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
+    "d": "More than 180 writers sign letter renewing calls for information on 12 authors detained incommunicado since 2001 crackdown on free speech by Isaias Afwerki More than 180 writers have signed a letter to Eritrean presid…",
+    "link": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers",
+    "time": "2026-09-18T08:30:12.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Análise: Medida sobre Bolsa Família expõe alta preocupação com reeleição",
-    "d": "Os analistas de Política da CNN Caio Junqueira e Jussara Soares avaliam, ao CNN Prime Time, que anúncio do aumento do benefício, a 17 dias do 1º turno, tem forte viés eleitoral",
-    "link": "https://www.cnnbrasil.com.br/politica/analise-medida-sobre-bolsa-familia-expoe-alta-preocupacao-com-reeleicao/",
-    "time": "2026-09-18T07:03:51.000Z"
+    "src": "BBC News Brasil",
+    "h": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
+    "d": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleitoral.",
+    "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T08:12:33.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brentford x Chelsea: horário e onde assistir ao jogo da Premier League",
-    "d": "Equipes entram em campo nesta sexta-feira (18) em mais uma rodada do Campeonato Inglês",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/brentford-x-chelsea-horario-e-onde-assistir-ao-jogo-da-premier-league-3/",
-    "time": "2026-09-18T07:00:49.000Z"
+    "src": "G1",
+    "h": "Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de Pernambuco no NE1",
+    "d": "João Campos (à esq.) e Raquel Lyra (à dir.) durante entrevista à TV Globo Reprodução/TV Globo Os candidatos ao governo de Pernambuco João Campos (PSB) e Raquel Lyra (PSD) foram entrevistados pelo NE1 nesta semana. Con…",
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/18/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-pernambuco-no-ne1.ghtml",
+    "time": "2026-09-18T08:00:01.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vila Nova x América-MG: horário e onde assistir ao jogo da Série B",
-    "d": "Equipes se enfrentam nesta sexta-feira (18), no Estádio OBA, pela 29ª rodada da Série B do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vila-nova-x-america-mg-horario-e-onde-assistir-ao-jogo-da-serie-b-3/",
-    "time": "2026-09-18T07:00:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bayern de Munique x Union Berlin: horário e onde assistir à Bundesliga",
-    "d": "Equipes vão a campo nesta sexta-feira (18), pela 4ª rodada do campeonato alemão",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/bayern-de-munique-x-union-berlin-horario-e-onde-assistir-a-bundesliga-2/",
-    "time": "2026-09-18T07:00:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Monaco x Lens: horário e onde assistir ao jogo do Campeonato Francês",
-    "d": "Equipes se enfrentam nesta sexta-feira (18), no Estádio Louis II, pela quinta rodada da liga nacional",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/monaco-x-lens-horario-e-onde-assistir-ao-jogo-do-campeonato-frances/",
-    "time": "2026-09-18T07:00:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "João Fonseca x Dominic Stricker: horário e onde assistir à Copa Davis",
-    "d": "Equipe brasileira enfrenta grupo suíço entre sexta-feira (18) e sábado (19), na Farmasi Arena, no Rio de Janeiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-dominic-stricker-horario-e-onde-assistir-a-copa-davis/",
-    "time": "2026-09-18T07:00:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gustavo Heide x Stan Wawrinka: horário e onde assistir à Copa Davis",
-    "d": "Equipe brasileira enfrenta grupo suíço entre sexta-feira (18) e sábado (19), na Farmasi Arena, no Rio de Janeiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/gustavo-heide-x-stan-wawrinka-horario-e-onde-assistir-a-copa-davis/",
-    "time": "2026-09-18T07:00:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após atrasos, governo quer leiloar ferrovia no Sudeste em 2027",
-    "d": "Anel Ferroviário do Sudeste terá edital publicado até dezembro, porém só irá a disputa no primeiro trimestre do ano que vem; leilão também depende de decisão do TCU sobre contas vinculadas",
-    "link": "https://www.cnnbrasil.com.br/infra/apos-atrasos-governo-quer-leiloar-ferrovia-no-sudeste-em-2027/",
-    "time": "2026-09-18T07:00:07.000Z"
+    "src": "G1",
+    "h": "É #FAKE áudio de Flávio Dino dizendo que objetivo do governo federal é 'arruinar economia'",
+    "d": "É #FAKE áudio de Flávio Dino dizendo que objetivo do governo é 'arruinar economia' Reprodução Circulam nas redes sociais publicações com um áudio atribuído ao ministro Flávio Dino, do Supremo Tribunal Federal (STF), n…",
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/18/e-fake-audio-de-flavio-dino-dizendo-que-objetivo-do-governo-federal-e-arruinar-economia.ghtml",
+    "time": "2026-09-18T08:00:00.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Bolsa Família: reajuste mantém distorção sobre crianças, dizem economistas",
-    "d": "Governo anuncia medida de R$ 22 bilhões a menos de 20 dias do primeiro turno",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-reajuste-mantem-distorcao-sobre-criancas-dizem-economistas/",
-    "time": "2026-09-18T06:49:19.000Z"
+    "src": "G1",
+    "h": "Depois do viral: o que acontece quando acaba o assunto que fez um influenciador famoso?",
+    "d": "Da esquerda para direita, influenciadores Christy Cabrera, Caio Barbosa e Lucas Felpi. Arquivo pessoal O que acontece com um influenciador quando acaba o assunto que o tornou viral? A 10 meses de seu casamento, Christ…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/18/depois-do-viral-o-que-acontece-quando-acaba-o-assunto-que-fez-um-influenciador-famoso.ghtml",
+    "time": "2026-09-18T08:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA fazem rara visita a Mianmar para libertar ex-fuzileiro detido",
-    "d": "Delegação se reuniu com governo apoiado por militares em meio à tentativa da junta de ampliar contatos internacionais",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-fazem-rara-visita-a-mianmar-para-libertar-ex-fuzileiro-detido/",
-    "time": "2026-09-18T06:40:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vênus atinge brilho máximo nesta sexta e poderá ser observado do Brasil. Planeta será o objeto natural mais luminoso do céu",
-    "d": "Para conseguir observá-lo, basta procurar um ponto extremamente luminoso no céu oeste, na mesma direção em que o Sol se põe",
-    "link": "https://www.cnnbrasil.com.br/ciencia/venus-atinge-brilho-maximo-nesta-sexta-e-podera-ser-observado-do-brasil-planeta-sera-o-objeto-natural-mais-luminoso-do-ceu/",
-    "time": "2026-09-18T06:34:27.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Japan raises interest rate to new 31-year high to curb rising prices",
+    "d": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+    "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T07:14:57.000Z"
   },
   {
     "cat": "economia",
@@ -118,14 +310,6 @@
     "d": "Mustafa Suleyman acredita que a rival Anthropic está ensinando o modelo Claude que ele 'pode ser consciente' Getty Images via BBC O chefe da divisão de IA da Microsoft afirmou que, a menos que restrições adequadas sej…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/18/o-alerta-de-chefe-da-microsoft-sobre-a-ia-tratar-a-ia-como-humana-e-um-erro.ghtml",
     "time": "2026-09-18T06:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "South Korea will not send military to support US war on Iran, defying Trump pressure",
-    "d": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’ South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the…",
-    "link": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
-    "time": "2026-09-18T05:54:29.000Z"
   },
   {
     "cat": "economia",
@@ -147,7 +331,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "A interferência (cada vez mais explícita) dos EUA na eleição brasileira - O Assunto #1807",
-    "d": "Convidados: Oliver Stuenkel, professor de Relações Internacionais da FGV e pesquisador do Carnegie Endowment. O podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Morett…",
+    "d": "Durante as negociações entre os governos do Brasil e dos Estados Unidos, a gestão de Donald Trump enviou à diplomacia brasileira um documento com uma lista de exigências, entre elas a de que o país permitisse que \"dis…",
     "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/18/a-interferencia-cada-vez-mais-explicita-dos-eua-na-eleicao-brasileira-o-assunto-1807.ghtml",
     "time": "2026-09-18T03:30:01.000Z"
   },
@@ -192,15 +376,7 @@
     "time": "2026-09-18T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião",
-    "d": "Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2% Pesquisa Datafolha divulgada nesta quinta-feira (17) mostra Lula (PT) com 39% das intenções de voto no 1º turno da eleiç…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-1-turno-17-setembro-recortes.ghtml",
-    "time": "2026-09-18T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Aumento do Bolsa Família: quanto vou receber? Como medida chegou ao TSE? Veja perguntas e respostas",
     "d": "Governo anuncia reajuste de 15% no Bolsa Família O governo do presidente Lula (PT) anunciou nesta quinta-feira (17) o aumento do valor mínimo pago pelo Bolsa Família, de R$ 600 para R$ 691. 📱Favorite o g1 no Google e…",
@@ -208,7 +384,7 @@
     "time": "2026-09-18T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Bolsa Família: de R$ 70 a R$ 700; veja como o valor do benefício mudou em 23 anos",
     "d": "Governo anuncia reajuste nos valores do Bolsa Família O valor mínimo pago pelo Bolsa Família vai subir de R$ 600 para R$ 691 a partir de outubro, o que eleva o valor médio a R$ 777. O reajuste de 15,04% foi anunciado…",
@@ -216,36 +392,12 @@
     "time": "2026-09-18T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mulheres são 7 em cada 10 mesários nas eleições de 2026; veja o perfil",
-    "d": "TRE/AC está com inscrições abertas para quem deseja ser mesário voluntário As mulheres são pouco mais de sete em cada dez mesários registrados para o primeiro turno das eleições de 2026. Elas somam 1,31 milhão de pess…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/perfil-mesarios-eleicoes-2026.ghtml",
-    "time": "2026-09-18T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Proporção de candidatos milionários cresce em 2026; parcela sem patrimônio diminui",
-    "d": "Os milionários ganharam espaço entre os candidatos nas eleições de 2026. Dos concorrentes deste ano, 6.354 declararam patrimônio de pelo menos R$ 1 milhão, o equivalente a 30,3% do total. Outros 7.078 (33,8%) não info…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/proporcao-de-candidatos-milionarios-cresce-em-2026-parcela-sem-patrimonio-diminui.ghtml",
-    "time": "2026-09-18T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Renan Santos aciona TSE contra reajuste do Bolsa Família",
-    "d": "O candidato à Presidência Renan Santos (Missão) entrou com uma representação no Tribunal Superior Eleitoral (TSE) contra o reajuste do Bolsa Família anunciado pelo presidente Luiz Inácio Lula da Silva (PT) nesta quint…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/17/renan-santos-aciona-tse-contra-reajuste-do-bolsa-familia.ghtml",
-    "time": "2026-09-18T00:38:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em live, Flávio Bolsonaro diz que vai criar site para recrutar 'fiscais de urna'",
-    "d": "Como a urna eletrônica é testada antes das eleições Candidato do PL à Presidência da República, Flávio Bolsonaro afirmou que irá recrutar pessoas para fazer a fiscalização das urnas eletrônicas no dia das eleições. Em…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-bolsonaro-fiscais-urna.ghtml",
-    "time": "2026-09-18T00:31:49.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zara Larsson criticises White House for using her song in deportation video",
+    "d": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-18T01:20:33.000Z"
   },
   {
     "cat": "internacional",
@@ -259,17 +411,25 @@
     "cat": "economia",
     "src": "G1",
     "h": "Mega-Sena 3059: bolão no interior de SP ganha R$ 101,9 milhões; confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.059 da Mega-Sena foi realizado na noite desta quinta-feira (10), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 101,9 milhões. Um bol…",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.059 da Mega-Sena foi realizado na noite desta quinta-feira (17), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 101,9 milhões. Um bol…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/17/mega-sena-concurso-3059-confira-os-numeros-sorteados.ghtml",
     "time": "2026-09-18T00:14:24.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-    "d": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T21:41:19.000Z"
+    "h": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+    "d": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-17T23:24:07.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "New wild cat species discovered - with only one known living member",
+    "d": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-17T23:15:55.000Z"
   },
   {
     "cat": "brasil",
@@ -278,22 +438,6 @@
     "d": "Em meio à crise no Supremo e a 17 dias da eleição presidencial, ex-deputado teve encontros com integrantes do Departamento de Estado e da Casa Branca.",
     "link": "https://www.bbc.com/portuguese/articles/cwdr72zgnvmvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-17T21:26:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O alerta de chefe da Microsoft sobre a IA: 'Tratar a IA como humana é um erro'",
-    "d": "Mustafa Suleyman acredita que a empresa rival de IA, Anthropic, está na prática ensinando o modelo Claude que ele 'pode ser consciente'.",
-    "link": "https://www.bbc.com/portuguese/articles/crwyz939e6g9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T21:11:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Quem é Robert Kraft, o bilionário no centro da polêmica sobre turnê de Ed Sheeran",
-    "d": "A polêmica em torno de Ed Sheeran envolve um bilionário americano que é dono, entre outras coisas, de um dos estádios onde o artista britânico planeja se apresentar.",
-    "link": "https://www.bbc.com/portuguese/articles/cx1l678jdzz0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T20:43:44.000Z"
   },
   {
     "cat": "internacional",
@@ -328,14 +472,6 @@
     "time": "2026-09-17T19:00:14.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-    "d": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T17:08:00.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que Fachin decidiu adiar julgamento sobre atuação de Mendonça no caso Master",
@@ -354,34 +490,10 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "As imagens da destruição em bases militares americanas após ataques do Irã",
-    "d": "Um avião e edifícios destruídos estão entre as imagens publicadas pela CBS News, emissora parceira da BBC nos Estados Unidos.",
-    "link": "https://www.bbc.com/portuguese/articles/cw05rv7qj174o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T16:54:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
     "h": "Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-17T16:50:14.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Especialistas de EUA e China propõem para IA ações de segurança semelhantes às do setor nuclear",
-    "d": "Vale do Silício X Shenzhen: as cidades que viraram polos da disputa tecnológica entre China-EUA Reprodução/TV Globo Um sistema de inteligência artificial que interfira na rede de comando nuclear ou lance uma operação…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/17/especialistas-de-eua-e-china-propoem-para-ia-acoes-de-seguranca-semelhantes-as-do-setor-nuclear.ghtml",
-    "time": "2026-09-17T15:57:21.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Reajuste do Bolsa Família: governo diz que reposição da inflação não viola lei eleitoral",
-    "d": "Governo anuncia reajuste de 15% no Bolsa Família O Ministério da Fazenda informou nesta quinta-feira (17) que o reajuste do Bolsa Família para repor somente as perdas inflacionárias dos últimos anos não corresponde a…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/17/reajuste-do-bolsa-familia-governo-diz-que-reposicao-da-inflacao-nao-viola-lei-eleitoral.ghtml",
-    "time": "2026-09-17T15:47:39.000Z"
   },
   {
     "cat": "internacional",
@@ -392,44 +504,12 @@
     "time": "2026-09-17T15:46:15.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "O que mudaria na União Europeia com a nova lei sobre crianças e redes sociais?",
-    "d": "Bandeiras da União Europeia Stephanie Lecocq/Reuters A União Europeia apresentou planos para impor limites rigorosos de idade ao acesso de crianças a redes sociais, videogames e assistentes de IA. A proposta também ob…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/17/o-que-mudaria-na-uniao-europeia-com-a-nova-lei-sobre-criancas-e-redes-sociais.ghtml",
-    "time": "2026-09-17T15:17:50.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hyrox athlete apologises for continuing race after soiling herself",
-    "d": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-    "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T15:05:13.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Ninth woman's body found as South African police investigate string of deaths",
     "d": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
     "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-17T13:44:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Klopp wants to 'reclaim' flag amid German elections",
-    "d": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T13:02:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Swedish PM Kristersson resigns after election loss",
-    "d": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T12:41:05.000Z"
   },
   {
     "cat": "internacional",
@@ -448,14 +528,6 @@
     "time": "2026-09-17T11:00:48.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Aztec document goes on display in Mexico after 186 years abroad",
-    "d": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-    "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T11:00:41.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Canadá na União Europeia? O plano de tornar país associado ao bloco",
@@ -464,36 +536,12 @@
     "time": "2026-09-17T10:54:57.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "EU announces plan to restrict social media access for under-15s",
-    "d": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
-    "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T10:00:14.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
     "d": "US president responds as Mark Carney seeks to move closer to Europe and diversify defence ties Europe live – latest updates Donald Trump has threatened the EU with “serious tariffs” and a halt to trade after the bloc…",
     "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
     "time": "2026-09-17T08:25:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-    "d": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T08:22:12.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-    "d": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-    "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-17T05:00:18.000Z"
   },
   {
     "cat": "internacional",
@@ -512,14 +560,6 @@
     "time": "2026-09-16T21:01:39.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como a fama de bom moço da música contribuiu para a maior crise da carreira de Ed Sheeran",
-    "d": "Ed Sheeran tenta se afastar de política e controvérsias, mas seu posicionamento gerou críticas e até uma crise na sua turnê de 2026.",
-    "link": "https://www.bbc.com/portuguese/articles/c80461krq3q9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-16T20:04:48.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Amazon raises starting pay to $20 an hour and adds Whole Foods discount",
@@ -530,26 +570,10 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-    "d": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five i…",
-    "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-    "time": "2026-09-16T15:02:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
     "h": "Battle of Chile director Patricio Guzmán dies aged 85",
     "d": "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political…",
     "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
     "time": "2026-09-16T13:15:02.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "US to bar some South Africans over claims of anti-white discrimination",
-    "d": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues…",
-    "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
-    "time": "2026-09-16T12:35:45.000Z"
   },
   {
     "cat": "economia",
@@ -558,14 +582,6 @@
     "d": "Tech CEOs banding together is an old ruse recycled from corporate America to get a pass from antitrust laws Anthropic’s Dario Amodei is not the first corporate CEO to suggest that excessive competition is driving the…",
     "link": "https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws",
     "time": "2026-09-16T11:00:18.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
-    "d": "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror Islamist extremist violence in Africa’s Sahel region is set to reach historic highs af…",
-    "link": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
-    "time": "2026-09-16T06:00:12.000Z"
   },
   {
     "cat": "internacional",
@@ -630,13 +646,5 @@
     "d": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its…",
     "link": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
     "time": "2026-09-13T14:02:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
-    "d": "President has hyped growth of federal investment accounts to help US children – for his own political gain Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pu…",
-    "link": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
-    "time": "2026-09-13T11:00:05.000Z"
   }
 ]
