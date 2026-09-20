@@ -2,114 +2,146 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+    "h": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
     "d": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
     "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-20T16:50:21.000Z"
+    "time": "2026-09-20T19:21:28.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Quem é Cid Gomes, candidato ao Senado pelo Ceará",
-    "d": "Senador do PSB (Partido Socialista Brasileiro) busca a reeleição após ter sido governador do estado por dois mandatos e ministro da Educação",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-cid-gomes-candidato-ao-senado-pelo-ceara/",
-    "time": "2026-09-20T16:39:35.000Z"
+    "h": "Eleições alemãs: AfD lidera em mais um estado e esquerda avança em Berlim",
+    "d": "Chanceler Friedrich Merz enfrenta pressão após seu partido ter um dos piores desempenhos históricos em votações estaduais no interior e na capital da Alemanha",
+    "link": "https://www.cnnbrasil.com.br/noticias/eleicoes-alemas-afd-lidera-em-mais-um-estado-e-esquerda-avanca-em-berlim/",
+    "time": "2026-09-20T19:12:21.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Receita de avó nos dias frios: como preparar canja de galinha",
-    "d": "Clássico da cozinha caseira, a canja de galinha reúne ingredientes simples em uma preparação reconfortante e cheia de sabor",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/receita-de-avo-nos-dias-frios-como-preparar-canja-de-galinha/",
-    "time": "2026-09-20T16:39:23.000Z"
+    "h": "Prefeito de Nova York deve se reunir com Trump na segunda-feira (21)",
+    "d": "Encontro será o terceiro realizado entre as autoridades, e deve acontecer na residência oficial do prefeito, em Manhattan",
+    "link": "https://www.cnnbrasil.com.br/internacional/prefeito-de-nova-york-deve-se-reunir-trump-na-segunda-feira-21/",
+    "time": "2026-09-20T19:11:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Sob crescente pressão, chanceler alemão chama eleições regionais de 'desastre' e promete permanecer no cargo",
+    "d": "Sondagens de boca das urnas mostram perdas significativas para o partido de centro-direita CDU de Merz nos estados de Berlim e Mecklemburgo-Pomerânia Ocidental",
+    "link": "https://www.bbc.com/portuguese/articles/cv4g50pnnx23o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-20T19:05:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Antes da Assembleia da ONU, Lula e aliados propõem nova frente multilateral",
+    "d": "Manifesto publicano no Financial Times foi assinado em conjunto com o presidente do Conselho Europeu, António Costa, o presidente do Quênia, William Ruto, e o primeiro-ministro do Canadá, Mark Carney",
+    "link": "https://www.cnnbrasil.com.br/internacional/antes-da-assembleia-da-onu-lula-e-aliados-propoem-nova-frente-multilateral/",
+    "time": "2026-09-20T19:04:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Casa do Inter Miami sediará Copa das Campeãs da Fifa de 2027",
+    "d": "Torneio inaugural foi vencido pelo Arsenal, que derrotou o Corinthians, no Emirates Stadium, em Londres, em fevereiro, e recebeu US$ 2,3 milhões (quase R$ 12 milhões) em prêmios",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/casa-do-inter-miami-sediara-copa-das-campeas-da-fifa-de-2027/",
+    "time": "2026-09-20T19:04:30.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+    "h": "Sister of Pakistan's ex-PM Imran Khan arrested",
+    "d": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+    "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-20T19:04:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Trump prepara sanções contra o Tribunal Penal Internacional, diz jornal",
+    "d": "Sanções podem implicar na paralisação da corte, impedindo-o de realizar transações em dólares, informou o Wall Street Journal citando autoridades",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-prepara-sancoes-contra-o-tribunal-penal-internacional-diz-jornal/",
+    "time": "2026-09-20T19:02:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caiado: “Brasil tem estrutura para combater o narcotráfico”",
+    "d": "Candidato do PSD reafirmou intenção de classificar facções criminosas como terroristas e criticou a condução do governo Lula na segurança pública",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-brasil-tem-estrutura-para-combater-o-narcotrafico/",
+    "time": "2026-09-20T19:01:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Esposa de Lito Sousa faz desabafo: “Às vezes a gente não entende”",
+    "d": "Mila Seidl está acompanhando o criador de conteúdo sobre aviação em sua internação na UTI, onde está recebendo tratamento experimental",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/esposa-de-lito-sousa-faz-desabafo-as-vezes-a-gente-nao-entende/",
+    "time": "2026-09-20T18:55:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Italiano: com gol de Bremer, Juventus vence Atalanta por 2 a 0",
+    "d": "Frosinone manteve o bom início de temporada na Lega Serie A e ganhou do Como, enquanto o Napoli empatou com a Fiorentina, em Florença",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/italiano-com-gol-de-bremer-juventus-vence-atalanta-por-2-a-0/",
+    "time": "2026-09-20T18:37:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Partido de Putin lidera eleição parlamentar na Rússia",
+    "d": "Rússia Unida aparece com ampla vantagem após quase 14% dos votos serem contabilizados, segundo a Comissão Eleitoral Central",
+    "link": "https://www.cnnbrasil.com.br/internacional/partido-de-putin-lidera-eleicao-parlamentar-na-russia/",
+    "time": "2026-09-20T18:36:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Marcelo Millet Oliveira, candidato ao Senado pela Bahia",
+    "d": "Político tem como suplentes Robson José Leal Lyra e Maria do Carmo Oliveira Reis, como primeiro e segundo suplentes, respectivamente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-marcelo-millet-oliveira-candidato-ao-senado-pela-bahia/",
+    "time": "2026-09-20T18:36:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Lula “usa a dor dos vulneráveis” com aumento do Bolsa Família, diz Cury",
+    "d": "Candidato do Avante critica medida do presidente, mas também afirma que população “merece muito mais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-usa-a-dor-dos-vulneraveis-com-aumento-do-bolsa-familia-diz-cury/",
+    "time": "2026-09-20T18:35:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pabllo Vittar vai passar mal hoje? Entenda meme que completa 9 anos",
+    "d": "Relembre a história da frase icônica dita por ela e veja os melhores posts deste domingo",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/pabllo-vittar-vai-passar-mal-hoje-entenda-meme-que-completa-9-anos/",
+    "time": "2026-09-20T18:35:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que grandes petroleiras americanas não integram acordo que dá controle de reservas da Venezuela aos EUA de Trump",
+    "d": "No acordo petrolífero com a Venezuela, o governo dos EUA está trabalhando com uma empresa pouco conhecida, em vez de gigantes do setor de energia como a ExxonMobil. Por quê?",
+    "link": "https://www.bbc.com/portuguese/articles/cm89jqkqnzd5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-20T17:26:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Vídeo mostra Moraes e esposa saindo de jatinho de empresa de Vorcaro em 2025; escritório Barci de Moraes nega irregularidade",
+    "d": "Moraes e esposa desembarcam de avião de Vorcaro no Rio de Janeiro O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), e sua esposa, a advogada Viviane Barci, voaram em um avião de uma empresa que tinha…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/20/video-mostra-moraes-desembarcando-de-jatinho-de-empresa-de-vorcaro-aviao-foi-apontado-pela-pf-como-pagamento-ao-escritorio-da-esposa-do-ministro.ghtml",
+    "time": "2026-09-20T17:05:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says triumphal arch will be military complex with drones and snipers",
     "d": "Trump said the updated plans were at the request of the US military and for national security purposes.",
     "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-20T16:36:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após 20 anos, Daniel volta ao rodeio de Jaguariúna e canta com pai e filha",
-    "d": "Artista subiu no palco com participações de parentes; Gusttavo Lima e Panda também fizeram shows",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/apos-20-anos-daniel-volta-ao-rodeio-de-jaguariuna-e-canta-com-pai-e-filha/",
-    "time": "2026-09-20T16:36:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Deu match na pecuária”; IA ajuda na escolha de touro para vacada Brangus",
-    "d": "Criadores da raça Brangus contam com ajuda de programa de inteligência artificial para analisar dados zootécnicos de reprodutores e agilizar tomada de decisão no melhoramento genético do rebanho",
-    "link": "https://www.cnnbrasil.com.br/agro/deu-match-na-pecuaria-ia-ajuda-na-escolha-de-touro-para-vacada-brangus/",
-    "time": "2026-09-20T16:32:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Zagueiro faz trapalhada, e Atlético de Madrid vence Real Madrid em La Liga",
-    "d": "Resultado do clássico foi condicionado por erro de Dean Huijsen no segundo tempo da partida no Metropolitano",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/zagueiro-faz-trapalhada-e-atletico-de-madrid-vence-real-madrid-em-la-liga/",
-    "time": "2026-09-20T16:26:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Moraes e Viviane usaram jatinho de Vorcaro em 2025, diz jornal",
-    "d": "Escritório da esposa do ministro afirma que contrata serviços de táxi aéreo e que não realizou voos com o ex-banqueiro em aeronaves da Prime Aviation",
-    "link": "https://www.cnnbrasil.com.br/politica/moraes-e-viviane-usaram-jatinho-de-vorcaro-em-2025-diz-jornal/",
-    "time": "2026-09-20T16:15:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Isak marca, e Liverpool vence Bournemouth pela Premier League",
-    "d": "Atacante sueco decide no segundo tempo, mas Reds voltam a apresentar dificuldades no setor ofensivo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/isak-marca-e-liverpool-vence-bournemouth-pela-premier-league/",
-    "time": "2026-09-20T16:13:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dallagnol contesta suspensão de campanha e diz que irá recorrer",
-    "d": "Candidato ao Senado citou \"contradições\" em decisão do TSE e afirma que o registro de sua candidatura segue ativo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/dallagnol-contesta-suspensao-de-campanha-e-diz-que-ira-recorrer/",
-    "time": "2026-09-20T16:05:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras para em Weverton e empata com o Grêmio pelo Campeonato Brasileiro",
-    "d": "Verdão perdeu a chance de voltar a liderar, enquanto Imortal termina rodada no Z4",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-para-em-weverton-e-empata-com-o-gremio-pelo-campeonato-brasileiro/",
-    "time": "2026-09-20T16:02:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump “some” de propaganda dos republicanos para as Midterms",
-    "d": "Análise da CNN mostra que republicanos gastam menos de 1% em anúncios mencionando o presidente americano, que pediu para que as eleições de meio de mandato girem em torno dele",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-some-de-propaganda-dos-republicanos-para-as-midterms/",
-    "time": "2026-09-20T16:00:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cacau Protásio, de “Avenida Brasil”, dá entrada em hospital após peça",
-    "d": "Famosa publicou nas redes sociais registros dentro do hospital depois de se sentir mal após",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/cacau-protasio-de-avenida-brasil-da-entrada-em-hospital-apos-peca/",
-    "time": "2026-09-20T15:50:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rota marítima mais mortal do mundo está cada vez mais movimentada",
-    "d": "Uma em cada sete pessoas que tentam a travessia de Bangladesh ou Myanmar para a Malásia ou Indonésia não chega ao destino",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/rota-maritima-mais-mortal-do-mundo-esta-cada-vez-mais-movimentada/",
-    "time": "2026-09-20T15:47:09.000Z"
   },
   {
     "cat": "economia",
@@ -222,14 +254,6 @@
     "d": "Jogos de cartas do Pokémon é inspirado no desenho clássico dos anos 90 Hennzo Pinheiro/Arquivo Pessoal Brinquedos e colecionáveis que fizeram parte da infância de uma geração movimentam hoje cifras que vão muito além…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/20/nostalgia-milionaria-por-que-adultos-pagam-fortunas-por-brinquedos-da-infancia.ghtml",
     "time": "2026-09-20T08:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "German elections under way which could decide fate of Chancellor Merz",
-    "d": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
-    "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-20T07:57:32.000Z"
   },
   {
     "cat": "economia",
@@ -392,20 +416,12 @@
     "time": "2026-09-19T23:00:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Trump intensifica disputa com a imprensa ao barrar jornalistas da Casa Branca",
-    "d": "Presidente dos Estados Unidos elevou a um novo patamar a hostilidade com a imprensa da Casa Branca após uma semana de reveses, analisa correspondente da BBC",
-    "link": "https://www.bbc.com/portuguese/articles/cm2dw881e21xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-19T22:44:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que as mortes por overdose de fentanil caíram vertiginosamente nos EUA",
-    "d": "O número de mortes causadas por fentanil despencou, mas não se sabe ao certo quais motivos levaram a esta redução",
-    "link": "https://www.bbc.com/portuguese/articles/c4gmej0rkp5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-19T20:24:32.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+    "d": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-19T21:01:56.000Z"
   },
   {
     "cat": "brasil",
@@ -414,14 +430,6 @@
     "d": "Mendonça e Fux afirmam à PF que não conseguem acessar cópia de celular de Vorcaro e pedem auxílio técnico Os ministros do Supremo Tribunal Federal (STF) André Mendonça e Luiz Fux enviaram ofícios à Polícia Federal, ne…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/19/mendonca-e-fux-afirmam-a-pf-que-nao-conseguem-acessar-copia-de-celular-de-vorcaro-e-pedem-auxilio-tecnico.ghtml",
     "time": "2026-09-19T19:38:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Journalists denied White House access after Trump banned some media outlets",
-    "d": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-19T19:13:49.000Z"
   },
   {
     "cat": "brasil",
@@ -446,14 +454,6 @@
     "d": "Segundo especialistas, o governo de Vladimir Putin estaria por trás de diversos ataques na Europa que combinam métodos militares e não militares para exercer pressão sem desencadear uma guerra aberta",
     "link": "https://www.bbc.com/portuguese/articles/ckg8207gn9xo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-19T17:24:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula faz campanha em reduto do bolsonarismo, diz que Flávio quer tirar o pai da cadeia e prega fim das bets",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, participou de um evento de campanha em Santa Catarina, estado que deu 69% dos votos para Jair Bolsonaro (PL) em 2022. Lula defendeu o fim das bets e…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/lula-faz-campanha-em-sc-estado-onde-bolsonaro-teve-69percent-dos-votos-em-2022-e-prega-fim-das-bets.ghtml",
-    "time": "2026-09-19T17:16:31.000Z"
   },
   {
     "cat": "brasil",
