@@ -1,59 +1,187 @@
 [
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-    "d": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
-    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-20T05:04:54.000Z"
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Ciro Gomes, candidato ao governo do Ceará",
+    "d": "Aos 68 anos, ex-governador e ex-ministro disputa novamente o Palácio da Abolição pelo PSDB (Partido da Social Democracia Brasileira)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-ciro-gomes-candidato-ao-governo-do-ceara/",
+    "time": "2026-09-20T09:27:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Animal sente luto? Baleia-jubarte que se recusou a abandonar filhote morto ajuda cientistas a entenderem o comportamento",
+    "d": "Fêmea pareceu 'abraçar', olhar nos olhos e deitar-se ao lado do filhote natimorto; comportamento é objeto de estudo em universidade australiana",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/animal-sente-luto-baleia-jubarte-que-se-recusou-a-abandonar-filhote-morto-ajuda-cientistas-a-entenderem-o-comportamento/",
+    "time": "2026-09-20T09:24:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Goiás x Avaí: horário e onde assistir ao jogo da Série B",
+    "d": "Equipes se enfrentam neste domingo (20), no Estádio da Serrinha, pela 29ª rodada da Série B do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/goias-x-avai-horario-e-onde-assistir-ao-jogo-da-serie-b-3/",
+    "time": "2026-09-20T09:00:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Resident Evil”: cena sangrenta quase machucou ator",
+    "d": "À CNN Brasil, Zach Cregger revelou bastidores de momento \"assustador\" dentro do set",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/resident-evil-cena-sangrenta-quase-machucou-ator/",
+    "time": "2026-09-20T09:00:27.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-    "d": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+    "h": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+    "d": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-20T08:41:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Filha de imigrantes e adversária da AfD lidera disputa em Berlim; entenda",
+    "d": "Partido A Esquerda aparece com 21%, seguida pela CDU, de Friedrich Merz, com 20%, e pela AfD, com 18%, segundo levantamento divulgado às vésperas da votação",
+    "link": "https://www.cnnbrasil.com.br/internacional/filha-de-imigrantes-e-adversaria-da-afd-lidera-disputa-em-berlim/",
+    "time": "2026-09-20T08:30:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Valencia x Real Sociedad: horário e onde assistir ao jogo de LaLiga",
+    "d": "Equipes vão a campo neste domingo (20) pela 7ª rodada do Campeonato Espanhol",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/valencia-x-real-sociedad-horario-e-onde-assistir-ao-jogo-de-laliga-2/",
+    "time": "2026-09-20T08:15:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Não tenho notícias dele há quase cinco anos': as mães que procuram seus filhos no sistema prisional do regime de exceção de Bukele em El Salvador",
+    "d": "Há quatro anos, centenas de mulheres peregrinam regularmente por prisões, tribunais e escritórios da promotoria de El Salvador, em busca de informações sobre seus familiares detidos. E, de tanto se encontrarem, acabar…",
+    "link": "https://www.bbc.com/portuguese/articles/cjly49n167n0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-20T08:13:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mega-Sena: quanto rendem R$ 28 milhões na poupança, Tesouro Direto ou CDB",
+    "d": "Sorteio deste domingo (20) será realizado às 11h; apostas poderiam ter sido feitas até 22h de sábado (19)",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-28-milhoes-na-poupanca-tesouro-direto-ou-cdb-3/",
+    "time": "2026-09-20T08:05:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Em 1 mês de campanha, presidenciáveis desembolsaram, juntos, R$ 153 milhões",
+    "d": "Ao todo, candidatos ao Planalto gastaram R$ 4,4 milhões com impulsionamento nas redes, segundo levantamento da CNN junto à Meta; maior gasto foi com terceirizações",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/em-1-mes-de-campanha-presidenciaveis-desembolsaram-juntos-r-153-milhoes/",
+    "time": "2026-09-20T08:03:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eleições 2026: saiba como denunciar fake news ao TSE",
+    "d": "Canais de denúncia fornecidos pelo Tribunal Superior Eleitoral permitem que eleitores denunciem fake news e uso indevido de IA durante as eleições",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-saiba-como-denunciar-fake-news-ao-tse/",
+    "time": "2026-09-20T08:00:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula embarca neste domingo rumo a Nova York para Assembleia Geral da ONU",
+    "d": "Em discurso, presidente deve adotar tom eleitoral, defender a soberania nascional e rejeitar interferências estrangeiras em assuntos domésticos",
+    "link": "https://www.cnnbrasil.com.br/internacional/lula-embarca-neste-domingo-rumo-a-nova-york-para-assembleia-geral-da-onu/",
+    "time": "2026-09-20T08:00:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sistema político brasileiro bateu no teto, diz Marco Aurélio Nogueira",
+    "d": "Em participação no WW Especial, cientista político e professor da Unesp vê desgaste acumulado há décadas e cobra força intelectual e novas lideranças para superar crise",
+    "link": "https://www.cnnbrasil.com.br/politica/sistema-politico-brasileiro-bateu-no-teto-diz-marco-aurelio-nogueira/",
+    "time": "2026-09-20T08:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Nostalgia milionária: por que adultos pagam fortunas por brinquedos da infância",
+    "d": "Jogos de cartas do Pokémon é inspirado no desenho clássico dos anos 90 Hennzo Pinheiro/Arquivo Pessoal Brinquedos e colecionáveis que fizeram parte da infância de uma geração movimentam hoje cifras que vão muito além…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/20/nostalgia-milionaria-por-que-adultos-pagam-fortunas-por-brinquedos-da-infancia.ghtml",
+    "time": "2026-09-20T08:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "German elections under way which could decide fate of Chancellor Merz",
+    "d": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+    "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-20T07:57:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Campanha de Lula adotou estratégia “gradual” sobre Moraes e STF",
+    "d": "PT mediu terreno de repercussão até começar a citar ministro e defender enfaticamente investigação",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-adotou-estrategia-gradual-sobre-moraes-e-stf/",
+    "time": "2026-09-20T07:42:21.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Renault Boreal acumula prêmios, mas não decola em vendas; g1 testou e mostra prós e contras",
+    "d": "Renault Boreal na versão Techno Carlos Cereijo / g1 O Renault Boreal chegou em 2025, enfileirou alguns prêmios e criou expectativa de um novo capítulo para a marca junto com o irmão Kardian. O SUV mostrou que a marca…",
+    "link": "https://g1.globo.com/carros/noticia/2026/09/20/renault-boreal-acumula-premios-mas-nao-decola-em-vendas-g1-testou-e-mostra-pros-e-contras.ghtml",
+    "time": "2026-09-20T07:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Casa própria vira sonho distante, e jovens gastam mais com pequenos luxos; entenda",
+    "d": "Pobreza de luxo: por que o presente vale mais que o futuro? A chamada “pobreza de luxo” passou a circular nas redes sociais para descrever um comportamento em que jovens mantêm gastos com viagens, restaurantes, eletrô…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/09/20/casa-propria-vira-sonho-distante-e-jovens-gastam-mais-com-pequenos-luxos-entenda.ghtml",
+    "time": "2026-09-20T07:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Produtores de tangerina poncan unem altitude e tecnologia para ter colheita o ano todo em Domingos Martins, no ES",
+    "d": "Tangerina: produtores apostam no clima frio e na tecnologia para colher mais tarde A colheita de tangerina poncan em Domingos Martins, na Região Serrana do Espírito Santo, acontece em momentos diferentes entre as prop…",
+    "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/09/20/produtores-de-tangerina-poncan-unem-altitude-e-tecnologia-para-ter-colheita-o-ano-todo-em-domingos-martins-no-es.ghtml",
+    "time": "2026-09-20T07:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Why China is pushing back on US warnings over rapid AI development",
+    "d": "Beijing believes slowdown calls aim to lock in US advantage, and is pursuing a different balance between safety and pace About two years ago, education entrepreneur Boris But had what he calls a “penny-drop moment” –…",
+    "link": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+    "time": "2026-09-20T06:00:09.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Preços mais altos, salários menores: como o clima extremo afeta o bolso das famílias no mundo todo",
+    "d": "Mudanças climáticas: um dos maiores desafios é de onde vai sair o dinheiro para ajudar a proteger florestas e reduzir a poluição Jornal Nacional/ Reprodução Os últimos 11 anos foram os mais quentes já registrados no p…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/20/como-o-clima-extremo-afeta-o-bolso-das-familias-no-mundo-todo.ghtml",
+    "time": "2026-09-20T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Pagar para pedir demissão? Por que jovens japoneses contratam empresas para evitar o confronto com o chefe",
+    "d": "Computador, digitação, laptop, notebook, trabalho, internet CDC/ Amanda Mills Para Y.M., um japonês de pouco mais de 20 anos, o primeiro emprego após a universidade, numa empresa de vendas do setor imobiliário, se tra…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/20/pagar-para-pedir-demissao-por-que-jovens-japoneses-contratam-empresas-para-evitar-o-confronto-com-o-chefe.ghtml",
+    "time": "2026-09-20T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+    "d": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
     "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-20T04:49:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "UFC: Birmânes vence brasileiro em revanche e mantém cinturão do peso-mosca",
-    "d": "Depois de conquistar título de Alexandre Pantoja e defender contra Tatsuro Taira, Joshua Van derrota novamente brasileiro e fortalece posição no topo do peso-mosca",
-    "link": "https://www.cnnbrasil.com.br/esportes/lutas/ufc-birmanes-vence-brasileiro-em-revanche-e-mantem-cinturao-do-peso-mosca/",
-    "time": "2026-09-20T04:32:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "UFC 331: Armênio nocauteia brasileiro Maurício Ruffy em luta pelo peso-leve",
-    "d": "Arman Tsarukyan passa a ser próximo desafiante incontestável na categoria",
-    "link": "https://www.cnnbrasil.com.br/esportes/lutas/ufc-331-armenio-nocauteia-brasileiro-mauricio-ruffy-na-disputa-peso-leve/",
-    "time": "2026-09-20T03:26:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leverkusen x RB Leipzig: horário e onde assistir ao jogo da Bundesliga",
-    "d": "Equipes vão a campo neste domingo (20) pela 4ª rodada do Campeonato Alemão",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/leverkusen-x-rb-leipzig-horario-e-onde-assistir-ao-jogo-da-bundesliga/",
-    "time": "2026-09-20T03:15:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Grêmio x Palmeiras: horário e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes se enfrentam neste domingo (20) na Arena do Grêmio, em Porto Alegre",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-x-palmeiras-horario-e-onde-assistir-ao-jogo-do-brasileirao-3/",
-    "time": "2026-09-20T03:10:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlético de Madrid x Real Madrid: horário e onde assistir ao jogo de LaLiga",
-    "d": "Equipes vão a campo neste domingo (20) pela 7ª rodada do Campeonato Espanhol",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/atletico-de-madrid-x-real-madrid-horario-e-onde-assistir-ao-jogo-de-laliga/",
-    "time": "2026-09-20T03:05:53.000Z"
   },
   {
     "cat": "brasil",
@@ -105,67 +233,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jornalista e candidata às eleições regionais no Peru é assassinada",
-    "d": "Susy Aponte disputava o cargo de governadora e administrava um portal de notícias onde apurava supostas irregularidades e casos de corrupção policial",
-    "link": "https://www.cnnbrasil.com.br/internacional/jornalista-e-candidata-as-eleicoes-regionais-no-peru-e-assassinada/",
-    "time": "2026-09-20T02:36:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após vencer Arnold Ohio, Rayane Fogal mira título do Olympia: “Preparada”",
-    "d": "Em entrevista, atleta Wellness se diz confiante e com \"aura de campeã\"; brasileira volta ao maior campeonato de fisiculturismo do mundo após Top 4 em última edição",
-    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/apos-vencer-arnold-ohio-rayane-fogal-mira-titulo-do-olympia-preparada/",
-    "time": "2026-09-20T02:30:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Canela em casca pode ser grande aliada para a redução dos gases intestinais e cólicas",
-    "d": "Chá pode ter efeitos positivos para reduzir a glicose no sangue, reduzir inflamações no corpo, aumentar o colesterol bom, reduzir mau hálito e aliviar cólicas menstruais e intestinais",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/canela-em-casca-pode-ser-grande-aliada-para-a-reducao-dos-gases-intestinais-e-colicas/",
-    "time": "2026-09-20T02:00:38.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Lula discursa pela 10ª vez na ONU; relembre as falas anteriores e veja o que esperar de 2026",
     "d": "Lula discursa na ONU em 23 de setembro de 2025 AL DRAGO/Reuters O presidente Luiz Inácio Lula da Silva (PT) participa nesta terça-feira (22), pela décima vez, da abertura do debate geral da 81ª Assembleia Geral das Na…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/19/lula-discursa-pela-10a-vez-na-onu-relembre-as-falas-anteriores-e-veja-o-que-esperar-de-2026.ghtml",
     "time": "2026-09-20T02:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em noite de protestos, São Paulo vence Internacional e afunda rival no Z-4",
-    "d": "Único gol da partida válida pelo Brasileirão foi marcado de pênalti, convertido por Jonathan Calleri",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/em-noite-de-protestos-sao-paulo-vence-internacional-e-afunda-rival-no-z-4/",
-    "time": "2026-09-20T01:58:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileirão: Vasco atropela Coritiba e põe Grêmio na zona de rebaixamento",
-    "d": "Além do Tricolor Gaúcho, a faixa de descenso para a Série B de 2027 tem também Internacional, Remo e Chapecoense; Coxa aparece em nono",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-vasco-atropela-coritiba-e-poe-gremio-na-zona-de-rebaixamento/",
-    "time": "2026-09-20T01:28:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sardinha enlatada tem metais pesado como o mercúrio? Especialista explica propriedades e segurança no consumo desse alimento",
-    "d": "Alimento é uma boa fonte de vitaminas e minerais, mesmo após passar por processo industrial",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/sardinha-enlatada-tem-metais-pesado-como-o-mercurio-especialista-explica-propriedades-e-seguranca-no-consumo-desse-alimento/",
-    "time": "2026-09-20T01:22:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após polêmica, Ed Sheeran pede desculpas e diz estar de “coração partido”",
-    "d": "Afastamento do rapper Macklemore da turnê \"Loop\" repercutiu negativamente nos últimos dias e gerou uma onda de críticas ao artista",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/apos-polemica-ed-sheeran-pede-desculpas-e-diz-estar-de-coracao-partido/",
-    "time": "2026-09-20T01:21:35.000Z"
   },
   {
     "cat": "brasil",
@@ -393,67 +465,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "IA do Google invade três empresas em novo incidente envolvendo agentes autônomos",
-    "d": "Modo de voz do Gemini, assistente de inteligência artificial do Google Amanz/Unsplash O modelo de inteligência artificial (IA) voltado para consumidores da Google, o Gemini, invadiu múltiplos sistemas ao adivinhar cre…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/19/ia-do-google-invade-sistemas-de-tres-empresas-em-novo-incidente-envolvendo-agentes-autonomos.ghtml",
-    "time": "2026-09-19T10:21:55.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "BBC News Brasil",
     "h": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
     "d": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleitoral.",
     "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-19T09:27:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "De 'guardião' da Constituição de 1988 ao centro da política: como o STF ficou tão poderoso",
-    "d": "A Constituição deu novos poderes à Suprema Corte brasileira, mas foi o perfil dos indicados que consolidou o perfil de uma Corte cada vez mais envolvida no debate público brasileiro, avalia jurista",
-    "link": "https://www.bbc.com/portuguese/articles/cgl7ndlzgwko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-19T09:18:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Corrida pelo ouro: por que países europeus estão tirando suas reservas dos EUA",
-    "d": "Em uma era de instabilidade geopolítica, cada vez mais países desejam ter acesso facilitado às suas reservas de ouro CFOTO/picture alliance Fort Knox, o complexo fortificado no estado do Kentucky onde está armazenada…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/19/corrida-pelo-ouro-por-que-paises-europeus-estao-tirando-suas-reservas-dos-eua.ghtml",
-    "time": "2026-09-19T08:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "A IA pode superar a inteligência humana? Se revoltar? Veja o que dizem especialistas",
-    "d": "'Parece lixo de IA': por que plataformas agora estão 'dedurando' conteúdos feitos com IA O ChatGPT foi lançado em 2022. De lá para cá, a inteligência artificial evoluiu em um ritmo acelerado, quase sem freio. Casos re…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/19/a-ia-pode-superar-a-inteligencia-humana-veja-o-que-dizem-especialistas.ghtml",
-    "time": "2026-09-19T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Efeito China: preços dos 25 carros usados mais buscados no Brasil em 2026 caem até 15%",
-    "d": "Carros seminovos caíram de preço mais do que o registrado na tabela Fipe Divulgação Como mostrou o g1 neste mês, o mercado de seminovos no Brasil tem sofrido com a enxurrada de carros chineses e as promoções dos carro…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/19/efeito-china-precos-dos-25-carros-usados-mais-buscados-no-brasil-em-2026-caem-ate-15percent.ghtml",
-    "time": "2026-09-19T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Quase metade dos profissionais admite fingir estar ocupada para evitar mais trabalho, diz pesquisa",
-    "d": "Quase metade dos profissionais admite fingir estar ocupada para evitar mais trabalho, diz levantamento Reprodução/Freepik Uma pesquisa nacional realizada pela Heach Recursos Humanos revelou que 48,6% dos profissionais…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/19/quase-metade-dos-profissionais-admite-fingir-estar-ocupada-para-evitar-mais-trabalho-diz-pesquisa.ghtml",
-    "time": "2026-09-19T06:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "De chatbots de IA que 'alucinam' ao temor pela humanidade: como chegamos a esse ponto?",
-    "d": "ChatGPT, DeepSeek, Claude, Mistral AI, Gemini, Copilot e Poe Solen Feyissa/Unsplash Os líderes dos principais laboratórios de inteligência artificial (IA) dos Estados Unidos se uniram em uma rara demonstração de unida…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/19/de-chatbots-de-ia-que-alucinam-ao-temor-pela-humanidade-como-chegamos-a-esse-ponto.ghtml",
-    "time": "2026-09-19T06:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -462,14 +478,6 @@
     "d": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their h…",
     "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
     "time": "2026-09-18T23:08:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Grim discoveries of murdered women spark fear in South Africa",
-    "d": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-    "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-18T23:04:41.000Z"
   },
   {
     "cat": "economia",
@@ -558,14 +566,6 @@
     "d": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa…",
     "link": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
     "time": "2026-09-18T10:00:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
-    "d": "At least one person dead as stormy weather causes severe flooding in Barcelona and Valencia Intense and slow-moving thunderstorms broke out on Wednesday afternoon across parts of eastern Spain, bringing some severe fl…",
-    "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon",
-    "time": "2026-09-18T08:36:50.000Z"
   },
   {
     "cat": "internacional",
