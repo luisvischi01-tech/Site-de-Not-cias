@@ -1,83 +1,179 @@
 [
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlético-MG: CEO explica novo modelo de negócios que impacta contratações",
-    "d": "Em entrevista ao CNN Esportes S/A deste domingo (20), Pedro Daniel detalha a aposta nas categorias de base e a redução da idade média do elenco",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-ceo-explica-novo-modelo-de-negocios-que-impacta-contratacoes/",
-    "time": "2026-09-21T00:15:26.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Gasolina com 35% de etanol pode estragar o carro? Veja peças que podem ser afetadas",
+    "d": "Carros que não são flex podem sofrer com aumento da mistura de etanol na gasolina Marcelo Camargo/Agência Brasil O governo autorizou o início dos testes que aumentam a mistura de etanol na gasolina comum, chegando a 3…",
+    "link": "https://g1.globo.com/carros/noticia/2026/09/21/gasolina-com-35percent-de-etanol-pode-estragar-o-carro-veja-pecas-que-podem-ser-afetadas.ghtml",
+    "time": "2026-09-21T05:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Chefes de empresas de tecnologia pedem desaceleração da IA — mas o que a China pensa?",
+    "d": "Com o avanço acelerado da inteligência artificial (IA), líderes do setor alertam para os riscos da tecnologia Getty Images via BBC Com o avanço acelerado da inteligência artificial (IA), alguns dos principais nomes do…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/chefes-de-empresas-de-tecnologia-pedem-desaceleracao-da-ia-mas-o-que-a-china-pensa.ghtml",
+    "time": "2026-09-21T05:00:00.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Polícia tenta localizar namorado de estudante de direito que morreu no CE",
-    "d": "Isabelle Caracristi foi encontrada morta no condomínio dele em Fortaleza (CE); mandados de busca e apreensão foram cumpridos contra a mãe do homem",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ce/policia-tenta-localizar-namorado-de-estudante-de-direito-que-morreu-no-ce/",
-    "time": "2026-09-21T00:10:11.000Z"
+    "h": "Filho de Cindy Crawford, modelo Presley Gerber morre aos 27 anos",
+    "d": "Causa não foi divulgada; ele estava em uma clínica de reabilitação, segundo o Instituto Médico Legal do Condado de Los Angeles",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-cindy-crawford-modelo-presley-gerber-morre-aos-27-anos/",
+    "time": "2026-09-21T04:32:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+    "d": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-21T03:22:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Como consultar meu título de eleitor?",
+    "d": "Título de eleitor Foto: Agência Brasil/Divulgação Quem vai votar nas eleições de 2026 pode consultar o número do título de eleitor, verificar a situação da inscrição eleitoral e descobrir o local de votação pela inter…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-como-consultar-meu-titulo-de-eleitor.ghtml",
+    "time": "2026-09-21T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Limite a supersalários e penduricalhos: veja o que propõem os candidatos para o funcionalismo público",
+    "d": "Imagem urna eletrônica Reprodução/TV Globo O limite para os salários do funcionalismo público é de R$ 46,4 mil. Porém, verbas indenizatórias, gratificações e outros benefícios podem fazer com que servidores recebam va…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/propostas-funcionalismo-publico.ghtml",
+    "time": "2026-09-21T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: Posso usar o celular durante a votação?",
+    "d": "Guia do Eleitor: Posso usar celular na cabine de votação? Se você é daquelas pessoas que não desgrudam do celular, precisa saber: o uso do aparelho dentro da cabine de votação é proibido por lei. Entrar com o celular…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/21/video-posso-usar-o-celular-durante-a-votacao.ghtml",
+    "time": "2026-09-21T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Transpetro: inscrições para concurso terminam nesta segunda; salários chegam a R$ 15 mil",
+    "d": "Transpetro abre processo seletivo com 4.171 vagas e salários de até R$ 15 mil Os interessados em participar do concurso público da Transpetro, empresa de transporte da Petrobras, têm até as 23h59 desta segunda-feira (…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/21/transpetro-inscricoes-para-concurso-terminam-nesta-segunda-salarios-chegam-a-r-15-mil.ghtml",
+    "time": "2026-09-21T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Greve da Caixa pode acabar nesta segunda; funcionários votam nova proposta do banco",
+    "d": "Agência da Caixa de Mogi das Cruzes tem avisos de greve Beatriz Andreoli/TV Diário Os funcionários da Caixa Econômica Federal participam nesta segunda-feira (21) de assembleias eletrônicas em todo o país para decidir…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-da-caixa-pode-acabar-nesta-segunda-funcionarios-votam-nova-proposta-do-banco.ghtml",
+    "time": "2026-09-21T03:00:00.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Superendividamento é fenômeno que vai além da dívida, diz desembargadora",
-    "d": "Conselho Nacional de Justiça discute repactuação de débitos e destaca atuação conjunta do Judiciário com credores para enfrentamento de problemática",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/superendividamento-e-fenomeno-que-vai-alem-da-divida-diz-desembargadora/",
-    "time": "2026-09-20T23:57:45.000Z"
+    "h": "Internacional anuncia demissão do técnico Paulo Pezzolano",
+    "d": "Auxiliar técnico permanente do Colorado, Pablo Fernandez comandará as próximas atividades da equipe gaúcha no CT Parque Gigante, em Porto Alegre",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/internacional-anuncia-demissao-do-tecnico-paulo-pezzolano/",
+    "time": "2026-09-21T02:24:14.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Celular pode ouvir conversas? Veja como proteger o microfone do aparelho",
-    "d": "Android e iPhone permitem consultar e bloquear as permissões concedidas aos aplicativos; veja como fazer",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/celular-pode-ouvir-conversas-veja-como-proteger-o-microfone-do-aparelho/",
-    "time": "2026-09-20T23:51:19.000Z"
+    "h": "Messi chega a 930 gols na carreira, e Inter Miami empata pela MLS; veja",
+    "d": "Com o 2 a 2 diante do San Diego, franquia da Flórida fica na terceira colocação da Conferência Leste, com os mesmos 46 pontos do New England Revolution e a 11 de distância do Nashville",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-chega-a-930-gols-na-carreira-e-inter-miami-empata-pela-mls-veja/",
+    "time": "2026-09-21T02:08:58.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Famosos prestigiam festa de 1 ano de filho de Thiaguinho e Carol Peixinho",
-    "d": "Bento fez aniversário no sábado (19), mas o casal celebrou a data especial em uma festa na Vila Leopoldina, em São Paulo, neste domingo (20)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-prestigiam-festa-de-1-ano-de-filho-de-thiaguinho-e-carol-peixinho/",
-    "time": "2026-09-20T23:50:53.000Z"
+    "h": "Por que se diz que as vacas têm 4 estômagos? Saiba o que o ditado significa",
+    "d": "Entenda como funciona o sistema digestivo das vacas e por que elas precisam de quatro compartimentos no estômago para realizar a digestão",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-se-diz-que-as-vacas-tem-4-estomagos-saiba-o-que-o-ditado-significa/",
+    "time": "2026-09-21T02:00:58.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Fortaleza arranca vitória do Londrina e assume vice-liderança da Série B",
-    "d": "Com gol aos 42 do segundo tempo, Leão do Pici conquista três pontos e assume o segundo lugar",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fortaleza-arranca-vitoria-do-londrina-e-assume-vice-lideranca-da-serie-b/",
-    "time": "2026-09-20T23:48:58.000Z"
+    "h": "Tênis: Chuva adia finais do SP Open para segunda; saiba mais",
+    "d": "Jogos foram transferidos devido às condições climáticas da capital paulista",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-chuva-adia-finais-do-sp-open-para-segunda-sabia-mais/",
+    "time": "2026-09-21T01:54:06.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Flamengo domina, vence Red Bull Bragantino em casa e dispara como líder",
-    "d": "Equipes se enfrentaram pela 28º rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-domina-vence-red-bull-bragantino-em-casa-e-desponta-como-lider/",
-    "time": "2026-09-20T23:36:49.000Z"
+    "h": "Truque da agulha de costura recupera o corte da tesoura em menos de um minuto",
+    "d": "Aprenda a recuperar o corte da tesoura com agulha de costura em menos de um minuto; descubra quando o truque funciona e quando não adianta",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/truque-da-agulha-de-costura-recupera-o-corte-da-tesoura-em-menos-de-um-minuto/",
+    "time": "2026-09-21T01:30:41.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Ocupante de helicóptero que caiu no interior de SP estava foragido, diz PM",
-    "d": "Além dele, o piloto da aeronave já havia sido preso por tráfico de drogas; caso foi registrado como atentado contra a segurança de transporte aéreo, lesão corporal e captura de procurado",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ocupante-de-helicoptero-que-caiu-no-interior-de-sp-estava-foragido-diz-pm/",
-    "time": "2026-09-20T23:33:56.000Z"
+    "h": "Flamengo atualiza situação física de Plata após vitória sobre o Bragantino",
+    "d": "Jogador foi substituído nos minutos finais da vitória do Rubro-Negro sobre o Bragantino neste domingo (20)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-atualiza-situacao-fisica-de-plata-apos-vitoria-sobre-o-bragantino/",
+    "time": "2026-09-21T01:20:41.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Artur Jorge exalta elenco do Cruzeiro após vitória",
-    "d": "Técnico celeste celebrou o resultado no Barradão, mas pediu apoio e disse que tem sido difícil gerir a parte emocional da equipe após as quedas nas copas",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/artur-jorge-exalta-elenco-do-cruzeiro-apos-vitoria/",
-    "time": "2026-09-20T23:23:33.000Z"
+    "h": "Pedro elogia atuação do Flamengo e é direto sobre gramado do Maracanã",
+    "d": "Rubro-Negro venceu o Red Bull Bragantino por 2 a 1 na noite deste domingo, no Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/pedro-elogia-atuacao-do-flamengo-e-e-direto-sobre-gramado-do-maracana/",
+    "time": "2026-09-21T01:17:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+    "d": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical…",
+    "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+    "time": "2026-09-21T01:09:23.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "“Clube não está organizado”: dispara Gustavo Henrique após derrota",
-    "d": "Após mais um revés no Brasileirão, zagueiro destacou pendências financeiras e problemas políticos atrapalhando o desempenho da equipe alvinegra",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/clube-nao-esta-organizado-dispara-gustavo-henrique-apos-derrota/",
-    "time": "2026-09-20T23:15:23.000Z"
+    "h": "Botox pode gerar impacto nas relações? Procedimento pode afetar emoções, conexões sociais e até a vida sexual; entenda",
+    "d": "Procedimento que congela a face pode dificultar a leitura de expressões e dificultar relações sociais",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/botox-pode-gerar-impacto-nas-relacoes-procedimento-pode-afetar-emocoes-conexoes-sociais-e-ate-a-vida-sexual-entenda/",
+    "time": "2026-09-21T00:54:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasileirão: Athletico-PR vence Bahia em casa em briga direta pelo G-4",
+    "d": "Com o resultado, Furacão assume a terceira colocação; Esquadrão é o quinto",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-athletico-pr-vence-bahia-em-casa-em-briga-direta-pelo-g-4/",
+    "time": "2026-09-21T00:48:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Conselho do MPF não deve declarar parcialidade de Gonet",
+    "d": "Segundo apuração da âncora da CNN Débora Bergamasco, o órgão deve acatar argumentos da defesa do procurador-geral, que seguirá à frente dos casos envolvendo o Banco Master",
+    "link": "https://www.cnnbrasil.com.br/politica/conselho-do-mpf-nao-deve-declarar-parcialidade-de-gonet/",
+    "time": "2026-09-21T00:47:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com novo aporte milionário, CEO explica futuro da SAF do Atlético-MG",
+    "d": "Ao CNN Esportes S/A deste domingo (20), dirigente revela próximos passos de gestão do Galo, com foco no pagamento de dívidas",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/com-novo-aporte-milionario-ceo-explica-futuro-da-saf-do-atletico-mg/",
+    "time": "2026-09-21T00:45:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A remota ilha onde hackers se preparam para nos defender de uma guerra invisível",
+    "d": "Quão fácil é paralisar nosso mundo moderno? Conheça os especialistas que estão tentando descobrir a resposta para essa pergunta em uma ilha remota ao norte do Círculo Polar Ártico",
+    "link": "https://www.bbc.com/portuguese/articles/cke87p208rg9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-21T00:39:06.000Z"
   },
   {
     "cat": "brasil",
@@ -86,22 +182,6 @@
     "d": "A BBC vai à Bélgica para caminhar um trecho com o aventureiro Karl Bushby, cuja viagem de volta para casa se aproxima do fim após 28 anos",
     "link": "https://www.bbc.com/portuguese/articles/c6vgyz14p0x8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-20T23:13:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Motorista de ônibus que caiu em ribanceira em SP é preso por homicídio",
-    "d": "Segundo a Polícia Militar, homem estava com a autorização da ANTT (Agência Nacional de Transportes Terrestres) vencida; ao menos seis pessoas morreram",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/motorista-de-onibus-que-caiu-em-ribanceira-em-sp-e-preso-por-homicidio/",
-    "time": "2026-09-20T23:09:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Soltar pum é sinal de saúde? Dispositivo eletrônico na roupa íntima mede flatulência para saber a resposta",
-    "d": "Medidor de pum foi criado por cientistas para voluntários de um estudo; inscrições foram pausadas por excesso de demanda",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/soltar-pum-e-sinal-de-saude-dispositivo-eletronico-na-roupa-intima-mede-flatulencia-para-saber-a-resposta/",
-    "time": "2026-09-20T23:02:41.000Z"
   },
   {
     "cat": "internacional",
@@ -134,14 +214,6 @@
     "d": "O prefeito de Moscou afirma que drones foram abatidos durante o ataque noturno, no qual duas pessoas morreram.",
     "link": "https://www.bbc.com/portuguese/articles/cr4gv45gyepeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-20T20:32:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-    "d": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-20T20:21:40.000Z"
   },
   {
     "cat": "internacional",
@@ -232,14 +304,6 @@
     "time": "2026-09-20T13:52:22.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Ed Sheeran admite ter cometido 'erros' após polêmica pela exclusão de rapper pró-Palestina de sua turnê nos EUA",
-    "d": "O cantor falou sobre Israel e Gaza depois que o rapper Macklemore foi retirado de sua turnê por ter feito comentários pró-palestinos no palco.",
-    "link": "https://www.bbc.com/portuguese/articles/c6gqdp2jwx9yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-20T13:05:58.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Michelle Bachelet withdraws from race to become UN secretary general",
@@ -320,14 +384,6 @@
     "time": "2026-09-20T07:00:01.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Produtores de tangerina poncan unem altitude e tecnologia para ter colheita o ano todo em Domingos Martins, no ES",
-    "d": "Tangerina: produtores apostam no clima frio e na tecnologia para colher mais tarde A colheita de tangerina poncan em Domingos Martins, na Região Serrana do Espírito Santo, acontece em momentos diferentes entre as prop…",
-    "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/09/20/produtores-de-tangerina-poncan-unem-altitude-e-tecnologia-para-ter-colheita-o-ano-todo-em-domingos-martins-no-es.ghtml",
-    "time": "2026-09-20T07:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Why China is pushing back on US warnings over rapid AI development",
@@ -337,19 +393,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Preços mais altos, salários menores: como o clima extremo afeta o bolso das famílias no mundo todo",
-    "d": "Mudanças climáticas: um dos maiores desafios é de onde vai sair o dinheiro para ajudar a proteger florestas e reduzir a poluição Jornal Nacional/ Reprodução Os últimos 11 anos foram os mais quentes já registrados no p…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/20/como-o-clima-extremo-afeta-o-bolso-das-familias-no-mundo-todo.ghtml",
-    "time": "2026-09-20T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Pagar para pedir demissão? Por que jovens japoneses contratam empresas para evitar o confronto com o chefe",
-    "d": "Computador, digitação, laptop, notebook, trabalho, internet CDC/ Amanda Mills Para Y.M., um japonês de pouco mais de 20 anos, o primeiro emprego após a universidade, numa empresa de vendas do setor imobiliário, se tra…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/20/pagar-para-pedir-demissao-por-que-jovens-japoneses-contratam-empresas-para-evitar-o-confronto-com-o-chefe.ghtml",
-    "time": "2026-09-20T06:00:00.000Z"
+    "src": "The Guardian",
+    "h": "Are global stock markets heading for a crash?",
+    "d": "Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarm At the height of the summer, the mood was optimistic in the world’s financial capitals. Powered by the AI revolu…",
+    "link": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+    "time": "2026-09-20T05:00:07.000Z"
   },
   {
     "cat": "internacional",
@@ -424,14 +472,6 @@
     "time": "2026-09-19T23:49:26.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Campanha de Lula pede para TSE suspender plataforma de vídeos de Flávio Bolsonaro",
-    "d": "A campanha do presidente Luiz Inácio Lula da Silva (PT) pediu ao Tribunal Superior Eleitoral (TSE) a suspensão de uma plataforma de vídeos do adversário Flávio Bolsonaro (PL), a \"TV Celular\". O argumento da coligação…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/19/campanha-de-lula-pede-para-tse-suspender-plataforma-de-videos-de-flavio-bolsonaro.ghtml",
-    "time": "2026-09-19T23:14:42.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -446,22 +486,6 @@
     "d": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
     "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-19T21:01:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça e Fux afirmam à PF que não conseguem acessar cópia de celular de Vorcaro e pedem auxílio técnico",
-    "d": "Mendonça e Fux afirmam à PF que não conseguem acessar cópia de celular de Vorcaro e pedem auxílio técnico Os ministros do Supremo Tribunal Federal (STF) André Mendonça e Luiz Fux enviaram ofícios à Polícia Federal, ne…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/19/mendonca-e-fux-afirmam-a-pf-que-nao-conseguem-acessar-copia-de-celular-de-vorcaro-e-pedem-auxilio-tecnico.ghtml",
-    "time": "2026-09-19T19:38:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TSE aceita ação de Flávio Bolsonaro contra Lula e Alckmin por desfile de escola de samba",
-    "d": "TSE abre ação contra Lula por desfile no Carnaval O Tribunal Superior Eleitoral (TSE) decidiu aceitar uma ação de investigação judicial eleitoral contra o presidente Lula (PT) e seu vice Geraldo Alckmin (PSB), candida…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/tse-aceita-acao-de-flavio-bolsonaro-contra-lula-e-alckmin-por-desfile-de-escola-de-samba.ghtml",
-    "time": "2026-09-19T18:26:33.000Z"
   },
   {
     "cat": "brasil",
@@ -606,14 +630,6 @@
     "d": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unkno…",
     "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
     "time": "2026-09-17T20:43:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-    "d": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means Europe live – latest updates Mark Carney received a rapturous reception in the European parliament when…",
-    "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-    "time": "2026-09-17T15:46:15.000Z"
   },
   {
     "cat": "economia",
