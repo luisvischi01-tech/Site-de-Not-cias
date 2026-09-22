@@ -1,27 +1,299 @@
 [
   {
     "cat": "internacional",
+    "src": "BBC News",
+    "h": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+    "d": "The 2019 attacks were the deadliest the country had seen since the end of its civil war.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T12:42:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Revolução no Brasil”: jornal espanhol repercute mudança no Brasileirão",
+    "d": "Regra entrará em vigor em 2027. Os clubes terão listas de 50 atletas divididas entre o elenco principal e jovens do Sub-23",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/revolucao-no-brasil-jornal-espanhol-repercute-mudanca-no-brasileirao/",
+    "time": "2026-09-22T12:32:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Senado SE: André David tem 18%; Alessandro, 14%; Rogério, 12%",
+    "d": "Levantamento do Real Time Big Data detalha cenário das duas vagas ao Senado pelo estado, além de registrar a aprovação da atual gestão e simulações para o governo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-senado-se-andre-david-tem-18-alessandro-14-rogerio-12/",
+    "time": "2026-09-22T12:28:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Varejo brasileiro cresce 7% em agosto, afirma Stone",
+    "d": "Maior avanço foi ​observado na categoria de Combustíveis e Lubrificantes , de 2,7%, ,enquanto, dentre as regiões o maior crescimento foi visto no estado do Amazonas, de 21,8%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/varejo-brasileiro-cresce-7-em-agosto-afirma-stone/",
+    "time": "2026-09-22T12:27:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time: Fábio tem 46% e Valmir 43% no 2º turno em SE",
+    "d": "Levantamento ouviu 1.600 eleitores; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-fabio-tem-46-e-valmir-43-no-2o-turno-em-se/",
+    "time": "2026-09-22T12:25:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Buscas por helicóptero desaparecido em SC têm apoio de drone térmico",
+    "d": "Operações de buscas foram intensificadas nesta terça-feira (22) e contam com cerca de 20 bombeiros, além de dois binômios, formados por cães e seus condutores",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/buscas-por-helicoptero-desaparecido-em-sc-tem-apoio-de-drone-termico/",
+    "time": "2026-09-22T12:24:54.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vale compra 30% de mineradora por R$ 975 milhões e amplia acesso a minério no Pará",
+    "d": "Agora no g1 A Vale confirmou nesta terça-feira (22) a compra de 30% da mineradora Ligga S.A. por aproximadamente US$ 190 milhões. A operação também inclui um contrato de longo prazo para que a Vale compre 100% do miné…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/22/vale-compra-ferro.ghtml",
+    "time": "2026-09-22T12:24:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Oil falls below $100 a barrel on reports Iran ‘makes strait of Hormuz offer’; UK government borrowing paints ‘dismal picture’ – business live",
+    "d": "The rising cost of servicing the UK national debt pushed up borrowing last month How much ‘headroom’ might John Healey still have to keep within the government’s fiscal rules? That’s the question dogging Westminster a…",
+    "link": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
+    "time": "2026-09-22T12:23:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time Big Data: Fábio tem 43% no 1º turno em SE; Valmir, 38%",
+    "d": "Levantamento ouviu 1.600 eleitores em Sergipe entre 17 e 21 de setembro e tem margem de erro de dois pontos percentuais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-fabio-tem-43-no-1o-turno-em-se-valmir-38/",
+    "time": "2026-09-22T12:23:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é David Almeida, candidato ao governo do Amazonas",
+    "d": "Atual prefeito de Manaus tenta voltar ao comando do governo estadual após ter ocupado o cargo interinamente em 2017",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-david-almeida-candidato-ao-governo-do-amazonas/",
+    "time": "2026-09-22T12:21:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ford do Brasil faz recall de Mustang por falhas elétricas; reparo será feito em 2027",
+    "d": "Ford Mustang GT Divulgação / Ford A Ford anunciou nesta terça-feira (22) um recall para o Mustang, modelos 2024 a 2026. O problema, segundo a Ford, está nos terminais de aterramento do chicote elétrico do compartiment…",
+    "link": "https://g1.globo.com/carros/noticia/2026/09/22/ford-do-brasil-faz-recall-de-mustang.ghtml",
+    "time": "2026-09-22T12:17:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mendonça rebate acusações de Moraes e pede a Fachin arquivamento de ação",
+    "d": "Ministro diz que colega de Corte deveria ser investigado por abuso de autoridade; manifestação foi enviada ao presidente do STF",
+    "link": "https://www.cnnbrasil.com.br/politica/mendonca-responde-acusacoes-moraes-sobre-conducao-do-caso-master/",
+    "time": "2026-09-22T12:17:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Mendonça diz que Moraes distorceu teor de relatórios da PF e pede arquivamento de investigação",
+    "d": "Mendonça se manifesta sobre acusações de Moraes O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou que Alexandre de Moraes distorceu o teor de relatórios de inteligência produzidos pela Polícia Fede…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml",
+    "time": "2026-09-22T12:16:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Petróleo cai 1% após notícias sugerirem que Irã poderia reabrir Ormuz",
+    "d": "Alta ⁠autoridade do governo iraniano afirmou que o país do Oriente Médio se ofereceu para reabrir o Estreito em até sete dias caso os EUA tomem medidas iniciais para aliviar a pressão militar",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-22-setembro-2026/",
+    "time": "2026-09-22T12:16:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Cabo Daciolo, candidato ao governo do Amazonas",
+    "d": "Político já foi eleito deputado federal pelo Rio de Janeiro; auge da notoriedade política de Daciolo foi o período eleitoral de 2018, quando concorreu pelo partido Patriota ao cargo de presidente da República",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-cabo-daciolo-candidato-ao-governo-do-amazonas/",
+    "time": "2026-09-22T12:14:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "A Lei de Bem-Estar Animal proíbe que donos de cães e gatos coloquem os animais de estimação em situações de sofrimento; entenda",
+    "d": "A lei em vigor na Espanha visa proteger pets de ocasiões que provoquem dor, sofrimento, angústia ou danos físicos e psicológicos; descumprimento das regras pode resultar em diferentes tipos de punições, que variam con…",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/a-lei-de-bem-estar-animal-proibe-que-donos-de-caes-e-gatos-coloquem-os-animais-de-estimacao-em-situacoes-de-sofrimento-entenda/",
+    "time": "2026-09-22T12:14:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Helicóptero que sumiu em SC: “Buscamos pessoas com vida”, dizem bombeiros",
+    "d": "Aeronave desapareceu na tarde desta segunda-feira (21) com quatro pessoas a bordo, entre elas o cantor Rick, da dupla com Renner",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-que-sumiu-em-sc-buscamos-pessoas-com-vida-dizem-bombeiros/",
+    "time": "2026-09-22T12:07:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "SIGA: Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar",
+    "d": "SIGA: Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar Comitivas mundiais começaram a chegar à sede da ONU na manhã desta terça (22). Logo após Lula, é a vez do discurso d…",
+    "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
+    "time": "2026-09-22T12:07:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar abre em alta, de olho em ata do Copom e Lula na ONU",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta terça-feira em alta, com um avanço de 0,22% perto das 9h10, cotado a R$ 5,1195. Já as negociações do Ibovespa, principal índice da bolsa br…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/22/dolar-ibovespa.ghtml",
+    "time": "2026-09-22T12:00:35.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Arteta agrees new deal with Premier League champions Arsenal",
+    "d": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T11:48:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em NY para acompanhar Lula na ONU, chanceler brasileiro faz alerta para 'relativização da soberania'",
+    "d": "Chanceler Mauro Vieira Mateus Oliveira/MRE Diante da avaliação de integrantes do governo brasileiro de que os Estados Unidos têm tentado interferir nas eleições brasileiras, o ministro das Relações Exteriores, Mauro V…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/22/em-ny-para-acompanhar-lula-na-onu-chanceler-brasileiro-faz-alerta-para-relativizacao-da-soberania.ghtml",
+    "time": "2026-09-22T11:44:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "British man missing after diving into Lake Como to rescue teenager",
+    "d": "The man had jumped in to save a father and son in difficulty in the water, local officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T11:44:34.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Doctor in court to face Rwanda genocide charges in UK",
+    "d": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
+    "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T11:25:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Helicóptero com cantor Rick e empresário Bruno Avelar desaparece em Santa Catarina: o que se sabe",
+    "d": "Aeronave saiu de Porto Belo em direção a São Joaquim. Bombeiros de Santa Catarina e a Força Aérea Brasileira (FAB) fazem buscas nesta terça-feira (22). Segundo nota publicada pelo perfil do empresário, helicóptero dec…",
+    "link": "https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T11:17:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem é Rick, da dupla Rick & Renner, e como ele ajudou a renovar o sertanejo com letras bem-humoradas e sensuais",
+    "d": "Cantor estava a bordo de helicóptero que desapareceu em Santa Catarina na segunda-feira (21/09). Ele participou de um movimento de renovação de seu gênero no fim dos anos 1990.",
+    "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T11:14:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação",
+    "d": "O Banco Central reafirmou nesta terça-feira (22) que manterá \"perseverança, firmeza e serenidade' na condução da política de juros, pois isso colaborará para a chamada \"reancoragem das expectativas\", ou seja, trazer a…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/22/sem-dar-pistas-sobre-proximos-passos-bc-diz-que-mantera-restricao-adequada-na-politica-de-juros-para-conter-inflacao.ghtml",
+    "time": "2026-09-22T11:09:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Primavera começa nesta terça: o que esperar da estação com o El Niño no Brasil",
+    "d": "Dados confirmam recorde histórico de temperatura no Pacífico Equatorial; meteorologistas preveem mais eventos extremos no Sul e seca mais forte no Centro-Norte do país.",
+    "link": "https://www.bbc.com/portuguese/articles/c6rr48988ggzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T10:54:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+    "d": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T10:45:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Vereador do ES é condenado a indenizar comerciante após chamá-lo de 'corno' durante reunião na Câmara",
+    "d": "Vereador Igor Costa da Silva (Podemos), condenado por chamar comerciante de corno durante reunião na Câmara de Sooretama, Espírito Santo Reprodução Um vereador de Sooretama, no Norte do Espírito Santo, foi condenado a…",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/22/vereador-e-condenado-a-indenizar-comerciante-apos-chama-lo-de-corno-durante-reuniao-no-es.ghtml",
+    "time": "2026-09-22T10:45:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Eleven injured in shooting outside Turkish school",
+    "d": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T10:42:47.000Z"
+  },
+  {
+    "cat": "internacional",
     "src": "The Guardian",
     "h": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
     "d": "Disappearance of jet components sparks concern some of the program’s technology secrets could have been exposed Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily new…",
     "link": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong",
-    "time": "2026-09-22T07:36:25.000Z"
+    "time": "2026-09-22T10:00:15.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Test-drive: como anda o Renault Kardian Vibe, o turbo mais barato do país",
-    "d": "Sem a postura de SUV e 43 kg mais leve, nova versão manual de R$ 99.990 resgata a \"vibe\" de hatchback compacto com fôlego de sobra do turbo",
-    "link": "https://www.cnnbrasil.com.br/auto/test-drive-como-anda-o-renault-kardian-vibe-o-turbo-mais-barato-do-pais/",
-    "time": "2026-09-22T07:30:43.000Z"
+    "src": "BBC News Brasil",
+    "h": "A propaganda da Converse que foi retirada por ser 'profundamente perturbadora' e acusada de racista",
+    "d": "Usuários de redes sociais apontaram que imagem na conta do Instagram da marca lembrava um capuz da Ku Klux Klan e um enforcamento.",
+    "link": "https://www.bbc.com/portuguese/articles/cm4glyz668gyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T09:51:58.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Falta de dados da Eneva e da BBF trava recálculo de subsídios, diz Âmbar",
-    "d": "Revisão pode alterar pagamentos a térmicas de Roraima; Eneva afirma ter enviado todos os dados solicitados e aguarda a análise técnica do pedido",
-    "link": "https://www.cnnbrasil.com.br/infra/falta-de-dados-da-eneva-e-da-bbf-trava-recalculo-de-subsidios-diz-ambar/",
-    "time": "2026-09-22T07:30:01.000Z"
+    "src": "BBC News Brasil",
+    "h": "'Eu não quero morrer, quero parar de sentir dor': os anos sem diagnóstico que levaram jovem a pedir a eutanásia",
+    "d": "Melisa Gaona passou quase toda a vida ouvindo que a dor que sentia era normal. Aos 26 anos, depois de mais de uma década de diagnósticos errados e de uma endometriose em estágio grave, ela pediu a eutanásia na Colômbia.",
+    "link": "https://www.bbc.com/portuguese/articles/c4gv30ly4rzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T09:32:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Campanha de Jaques Wagner vai à Justiça e derruba site que exibia mensagens de Daniel Vorcaro",
+    "d": "Site apresentava mensagens atribuídas ao ex-banqueiro Daniel Vorcaro, do Banco Master, e a outras figuras públicas; BBC News Brasil teve acesso à íntegra do processo.",
+    "link": "https://www.bbc.com/portuguese/articles/cr3wj2jljej0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T08:18:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Major US outlets boycott shared Trump coverage in protest at media ban",
+    "d": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+    "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T08:17:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de Minas Gerais no MG1",
+    "d": "Montagem mostra candidatos ao governo de Minas Gerais Flávio Roscoe (PL), Alexandre Kalil (PDT), Patrus Ananias (PT), Gabriel (MDB), Cleitinho (Republicanos) e Mateus Simões (PSD) MG1 Os candidatos ao governo de Minas…",
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/22/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-minas-gerais-no-mg1.ghtml",
+    "time": "2026-09-22T08:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Gasolina sobe nos EUA e Trump diz que alta é 'baixo preço a pagar' por guerra no Irã",
+    "d": "Um posto de gasolina da Terrible's, na Sunset Road, exibe os preços dos combustíveis enquanto um avião da Southwest Airlines se prepara para pousar no Aeroporto Internacional Harry Reid, na sexta-feira (18), em Las Ve…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/22/gasolina-sobe-nos-eua-e-trump-diz-que-alta-e-baixo-preco-a-pagar-por-guerra-no-ira.ghtml",
+    "time": "2026-09-22T08:00:00.000Z"
   },
   {
     "cat": "brasil",
@@ -30,30 +302,6 @@
     "d": "Presidente brasileiro discursa nesta terça-feira (22/9), imediatamente antes de Trump, em meio à tentativa de reaproximação com Washington e a duas semanas das eleições.",
     "link": "https://www.bbc.com/portuguese/articles/c65y7984x48lo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-22T07:28:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Capital do Abacaxi” colhe mais de 9 milhões de frutos e atrai moradores pela qualidade de vida",
-    "d": "Município do Triângulo Mineiro responde por 24% da produção de abacaxi de Minas Gerais e reúne tradição agrícola, educação superior e opções de lazer",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/capital-do-abacaxi-colhe-mais-de-9-milhoes-de-frutos-e-atrai-moradores-pela-qualidade-de-vida/",
-    "time": "2026-09-22T07:26:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mau tempo na serra catarinense dificulta buscas pelo helicóptero de Rick",
-    "d": "Bombeiros ainda não encontraram aeronave ou ocupantes; operação foi ampliada após sinal de celular",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/mau-tempo-na-serra-catarinense-dificulta-buscas-por-helicoptero-de-rick/",
-    "time": "2026-09-22T07:24:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eleitor alemão busca extremos na direita e na esquerda, diz especialista",
-    "d": "Ao WW, Vinícius Rodrigues Vieira, professor de R.I da FAAP, FGV e do IDP analisa o avanço da AfD e a radicalização do eleitorado alemão, ligando o fenômeno à inércia do CDU",
-    "link": "https://www.cnnbrasil.com.br/internacional/eleitor-alemao-busca-extremos-na-direita-e-na-esquerda-diz-especialista/",
-    "time": "2026-09-22T07:23:07.000Z"
   },
   {
     "cat": "internacional",
@@ -65,19 +313,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câmara reduz jornada presencial dos servidores em período eleitoral",
-    "d": "Funcionários da Casa podem ficar em esquema hibrido por até 20 horas na semana; objetivo é reduzir custos durante a campanha, já que deputados e senadores estão dedicados às campanhas nos estados",
-    "link": "https://www.cnnbrasil.com.br/politica/camara-reduz-jornada-presencial-dos-servidores-em-periodo-eleitoral/",
-    "time": "2026-09-22T07:00:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Agro tenta se afastar da polarização política após anos de desgaste",
-    "d": "Lideranças avaliam que associação com disputas eleitorais trouxe custos para o setor, que busca preservar espaço para negociar com qualquer governo",
-    "link": "https://www.cnnbrasil.com.br/agro/agro-tenta-se-afastar-da-polarizacao-politica-apos-anos-de-desgaste/",
-    "time": "2026-09-22T07:00:16.000Z"
+    "src": "G1",
+    "h": "Tarcísio já gastou 88% do teto permitido para campanha ao governo de SP; Haddad, 46%",
+    "d": "Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) em agendas de campanhas ao governo de SP Caiuá Maia e Diogo Zacarias Os dois principais candidatos ao governo de São Paulo apresentam ritmos bastante diferente…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/22/tarcisio-ja-gastou-88percent-do-teto-permitido-para-campanha-ao-governo-de-sp-haddad-46percent.ghtml",
+    "time": "2026-09-22T07:00:02.000Z"
   },
   {
     "cat": "economia",
@@ -94,46 +334,6 @@
     "d": "Um modelo de datacenter Crédito: Divulgação Uma frase ajuda a resumir o espírito dos dias atuais: \"Soltamos a besta\". A declaração foi feita por Maliyka Muhammad, analista nova-iorquina de 46 anos, em uma série de ent…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/09/22/soltamos-a-besta-como-o-mundo-se-dividiu-sobre-ate-onde-deixar-a-ia-avancar.ghtml",
     "time": "2026-09-22T07:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Efeito chicote”: entenda qual tipo de lesão uma montanha-russa pode causar",
-    "d": "Julia Rimoli Bossoni, de 28 anos, perdeu os movimentos do lado esquerdo do corpo após andar no brinquedo; especialistas alertam sobre complicações",
-    "link": "https://www.cnnbrasil.com.br/saude/efeito-chicote-entenda-qual-tipo-de-lesao-uma-montanha-russa-pode-causar/",
-    "time": "2026-09-22T06:37:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Groenlândia e Antártica perderam 12,5 trilhões de toneladas de gelo em menos de 50 anos",
-    "d": "Pesquisa aponta que 2 a 3 milhões de pessoas podem ser afetadas por inundações anuais a cada centímetro de aumento; quantidade de gelo derretida entre 1979 e 2023 equivale toda a área continental dos EUA",
-    "link": "https://www.cnnbrasil.com.br/ciencia/groenlandia-e-antartica-perderam-125-trilhoes-de-toneladas-de-gelo-em-menos-de-50-anos/",
-    "time": "2026-09-22T06:33:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Inmet emite alerta de tempestade de até 100 mm e ventos de 100 km/h para SP",
-    "d": "Previsão indica chuva forte, ventos intensos e granizo, com riscos de queda de energia e alagamentos na região; outros quatro estados também têm alertas",
-    "link": "https://www.cnnbrasil.com.br/clima/inmet-emite-alerta-de-tempestade-de-ate-100-mm-e-ventos-de-100-km-h-para-sp/",
-    "time": "2026-09-22T06:33:08.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Eleições 2026: por que votos para deputados e senadores também importam",
-    "d": "Mais de 158 milhões de brasileiros vão às urnas no próximo dia 4; especialistas ouvidos pela CNN explicam papel dos membros do Legislativo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-por-que-votos-para-deputados-e-senadores-tambem-importam/",
-    "time": "2026-09-22T06:30:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Conheça o helicóptero que desapareceu com o cantor Rick em Santa Catarina",
-    "d": "Modelo é um Bell 430, fabricado em 2001; aeronave decolou de Porto Belo com destino a São Joaquim",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/conheca-modelo-de-helicoptero-que-desapareceu-com-o-cantor-rick-em-sc/",
-    "time": "2026-09-22T06:23:25.000Z"
   },
   {
     "cat": "brasil",
@@ -166,6 +366,14 @@
     "d": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
     "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-22T05:57:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Outrage in India over viral video of teen molested and her friend beaten",
+    "d": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
+    "link": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T05:14:42.000Z"
   },
   {
     "cat": "internacional",
@@ -202,14 +410,6 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar",
-    "d": "Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar Logo após Lula, é a vez do discurso de Trump. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as…",
-    "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-    "time": "2026-09-22T03:25:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
     "h": "Guerras, soberania e democracia: Lula quer fazer contraponto a Trump em abertura de assembleia da ONU",
     "d": "Lula discursa na ONU em 23 de setembro de 2025; presidente brasileiros faz o primero discurso da Assembleia Geral das Nações Unidas Shannon Stapleton/Reuters O presidente Luiz Inácio Lula da Silva (PT) abre na manhã d…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/22/guerras-soberania-e-democracia-lula-quer-fazer-contraponto-a-trump-em-abertura-de-assembleia-da-onu.ghtml",
@@ -221,38 +421,6 @@
     "h": "Por que o Brasil é sempre o primeiro país a falar na Assembleia Geral da ONU?",
     "d": "Por que o Brasil é sempre o primeiro país a falar na Assembleia Geral da ONU? O presidente Luiz Inácio Lula da Silva vai discursar na abertura da Assembleia Geral na Organização das Nações Unidas (ONU), em Nova York,…",
     "link": "https://g1.globo.com/mundo/noticia/2026/09/22/por-que-o-brasil-e-sempre-o-primeiro-pais-a-falar-na-assembleia-geral-da-onu.ghtml",
-    "time": "2026-09-22T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "VÍDEO: Eleitor pode votar de bermuda e chinelo?",
-    "d": "Guia do eleitor: Pode votar de bermuda e chinelo? No dia da eleição, o eleitor pode votar vestindo uma bermuda, calçando chinelos ou com qualquer outra roupa que preferir. A restrição é em relação a trajes de banho, c…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/22/video-eleitor-pode-votar-de-bermuda-e-chinelo.ghtml",
-    "time": "2026-09-22T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
-    "d": "Lula e Flávio Bolsonaro Montagem/g1 Pesquisa Quaest divulgada nesta segunda-feira (21) mostra Flávio Bolsonaro (PL) e Lula (PT) em empate técnico em um eventual segundo turno da eleição presidencial. Flávio tem 42% da…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/22/quaest-2o-turno-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml",
-    "time": "2026-09-22T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula deve reforçar agenda social e tentar tirar foco da crise no STF na reta final do 1º turno; Flávio mira Sudeste e aposta no voto útil",
-    "d": "Presidente Lula e o senador Flávio Bolsonaro Ricardo Stuckert/Presidência da República; Vittor Sales Na reta final do 1º turno, as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) traçam estratégias…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/lula-flavio-estrategias-reta-final-campanha.ghtml",
-    "time": "2026-09-22T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest, 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião",
-    "d": "Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 33%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 1% Pesquisa Datafolha divulgada nesta quinta-feira (17) mostra Lula (PT) com 37% das intenções de voto no 1º turno da eleição…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/22/quaest-1-turno-21-setembro-recortes.ghtml",
     "time": "2026-09-22T03:00:00.000Z"
   },
   {
@@ -280,46 +448,6 @@
     "time": "2026-09-22T01:44:17.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Helicóptero com cantor Rick e empresário Bruno Avelar desaparece em Santa Catarina: o que se sabe",
-    "d": "Aeronave saiu de Porto Belo em direção a São Joaquim; Bombeiros de Santa Catarina e a Força Aérea Brasileira (FAB) fazem buscas. Segundo nota publicada pelo perfil do empresário Bruno Avelar, helicóptero decolou com c…",
-    "link": "https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T01:10:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-    "d": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T01:04:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em evento com jovens influenciadores, Cury promete 'revolucionar' turismo, educação, medicina e agricultura",
-    "d": "Augusto Cury em agenda nesta segunda-feira (21) em São Paulo TV Globo O candidato à Presidência da República Augusto Cury (Avante) participou de um encontro com influenciadores digitais na capital paulista nesta segun…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/21/em-evento-com-jovens-influenciadores-cury-promete-revolucionar-turismo-educacao-medicina-e-agricultura.ghtml",
-    "time": "2026-09-22T00:31:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás",
-    "d": "Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás O candidato ao governo de Goiás Daniel Vilela (MDB) prometeu destinar um pacote de investimentos financeiros voltado ao agronegócio e ao f…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-agenda-de-daniel-vilela-de-segunda-feira-21.ghtml",
-    "time": "2026-09-22T00:28:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-    "d": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T00:16:06.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Governo encontra espaço fiscal de R$ 19,6 bilhões no orçamento; parte vai bancar reajuste do Bolsa Família, diz ministro",
@@ -336,44 +464,12 @@
     "time": "2026-09-21T22:33:40.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Funcionários da Caixa rejeitam proposta e greve continua; como ficam as contas e benefícios?",
-    "d": "Greve da Caixa: veja como ficam pagamentos do Bolsa Família Os empregados da Caixa Econômica Federal rejeitaram nesta segunda-feira (21) a última proposta do banco para o Acordo Coletivo de Trabalho. Em assembleia vir…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-da-caixa-continua-apos-funcionarios-rejeitarem-nova-proposta-do-banco.ghtml",
-    "time": "2026-09-21T21:56:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O luto da professora que perdeu mais de 200 alunos no duplo terremoto na Venezuela: 'Eram como meus filhos'",
-    "d": "Madeleine é uma professora secundária que chora os estudantes que perdeu nos terremotos que sacudiram o norte da Venezuela em junho.",
-    "link": "https://www.bbc.com/portuguese/articles/ck3re23jvxezo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T21:28:10.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Morte de Presley Gerber investigada como overdose: a luta do filho de Cindy Crawford contra o vício e os problemas de saúde mental",
     "d": "A família pediu privacidade durante este 'momento muito difícil e doloroso' após a morte do modelo, aos 27 anos.",
     "link": "https://www.bbc.com/portuguese/articles/cx5yl7076zmpo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-21T21:10:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Empresa é condenada a pagar R$ 1,25 milhão a funcionária demitida por faltar para fazer quimioterapia",
-    "d": "Butterball concordou em pagar US$ 230 mil para encerrar ação Butterball/ Divulgação A Butterball, uma das principais fabricantes de peru e produtos avícolas dos Estados Unidos, concordou em pagar US$ 230 mil, o equiva…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/empresa-e-condenada-a-pagar-r-125-milhao-a-funcionaria-demitida-por-faltar-para-fazer-quimioterapia.ghtml",
-    "time": "2026-09-21T21:05:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Colúmbia Britânica processa OpenAI nos EUA por ataque armado em escola no Canadá",
-    "d": "OpenAI Reuters/Dado Ruvic A província canadense de Colúmbia Britânica entrou com uma ação judicial nesta segunda-feira (21), na Califórnia, nos Estados Unidos, contra a OpenAI. Segundo comunicado divulgado pelo govern…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/columbia-britanica-processa-openai-nos-eua-por-ataque-armado-em-escola-no-canada.ghtml",
-    "time": "2026-09-21T20:11:52.000Z"
   },
   {
     "cat": "economia",
@@ -384,22 +480,6 @@
     "time": "2026-09-21T20:05:50.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Companheiros de IA': governo pede investigação contra chatbots que simulam amizade e romance",
-    "d": "Character.AI, plataforma de inteligência artificial para criar personagens que se passam por pessoas reais Divulgação/Character.AI O Ministério da Justiça e Segurança Pública (MJSP) recomendou nesta segunda-feira (21)…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/companheiros-de-ia-governo-pede-investigacao-contra-chatbots-que-simulam-amizade-e-romance.ghtml",
-    "time": "2026-09-21T19:55:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Infantino says he is open to talks over Fifa reform",
-    "d": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T19:50:57.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'A próxima coisa que veremos é ação militar direta dos EUA em diferentes países', diz jornalista americano especializado em América Latina",
@@ -408,52 +488,12 @@
     "time": "2026-09-21T19:16:24.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "OpenAI pede que EUA liderem criação de padrões globais para inteligência artificial",
-    "d": "O logotipo da OpenAI é visto em um telefone celular em frente a uma tela de computador que exibe a tela inicial do ChatGPT AP/Michael Dwyer, Arquivo A OpenAI pediu nesta segunda-feira (21) que os Estados Unidos lidere…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/openai-pede-que-eua-liderem-criacao-de-padroes-globais-para-inteligencia-artificial.ghtml",
-    "time": "2026-09-21T18:16:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "First UK charges brought over 1994 Rwanda genocide",
-    "d": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-    "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T17:48:23.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Colombia declares public calamity as wildfire threatens popular tourist area",
     "d": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the count…",
     "link": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
     "time": "2026-09-21T17:13:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Seven Ethiopian rebel groups form new alliance",
-    "d": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-    "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T17:02:47.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Merz vows to keep coalition together for Germany's 'democratic future'",
-    "d": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-    "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T16:54:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "As razões de ex-marido para perdoar a ex-mulher acusada de matar seus 3 filhos: 'Teria me consumido por dentro para sempre'",
-    "d": "Em entrevista à rede americana CBS, o pai dos três menores afirmou também ter tido pensamentos suicidas.",
-    "link": "https://www.bbc.com/portuguese/articles/cqm27prwk8w0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T16:33:03.000Z"
   },
   {
     "cat": "internacional",
@@ -480,30 +520,6 @@
     "time": "2026-09-21T14:42:12.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-    "d": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T14:14:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "9 pontos da entrevista com irmão da princesa Diana —  e o que eles revelam sobre a monarquia britânica",
-    "d": "Charles Spencer, o conde Spencer, falou à BBC sobre revelações em livro que está lançando nesta semana sobre a irmã, Diana, princesa de Gales.",
-    "link": "https://www.bbc.com/portuguese/articles/cq5y4ejdyxlmo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T13:36:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
-    "d": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você v…",
-    "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T13:04:41.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Converse apologizes and pulls ad that critics said evoked racist imagery",
@@ -520,22 +536,6 @@
     "time": "2026-09-21T11:00:23.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A nova e implacável tática russa contra moradores da capital da Ucrânia",
-    "d": "Ataques cada vez mais frequentes e intensos contra a capital da Ucrânia têm deixado moradores apreensivos.",
-    "link": "https://www.bbc.com/portuguese/articles/cwp80p5pn8lyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T10:54:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Do voto feminino à habitação popular: quem foi Carmen Portinho, pioneira do feminismo no Brasil",
-    "d": "Carmem Velasco Portinho foi uma das pioneiras da luta pelo direito de voto das mulheres e a primeira brasileira a obter o título de urbanista.",
-    "link": "https://www.bbc.com/portuguese/articles/ckg3ydpz23ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T08:04:40.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Banished to alien lands: Trump’s secret deportation deals",
@@ -550,22 +550,6 @@
     "d": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical…",
     "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
     "time": "2026-09-21T01:09:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-    "d": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-    "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-21T00:05:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que grandes petroleiras americanas não integram acordo que dá controle de reservas da Venezuela aos EUA de Trump",
-    "d": "No acordo petrolífero com a Venezuela, o governo dos EUA está trabalhando com uma empresa pouco conhecida, em vez de gigantes do setor de energia como a ExxonMobil. Por quê?",
-    "link": "https://www.bbc.com/portuguese/articles/cm89jqkqnzd5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-20T17:26:33.000Z"
   },
   {
     "cat": "economia",
@@ -626,8 +610,8 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Clique aqui",
-    "d": "Confira as estimativas de votos para Eleição 2026 no Agregador da BBC News Brasil",
+    "h": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+    "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-18T13:39:55.000Z"
   },
@@ -654,13 +638,5 @@
     "d": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are now Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getti…",
     "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
     "time": "2026-09-18T11:00:17.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Trump and Rubio allies are vying for control of Cuba’s assets if regime falls",
-    "d": "Washington and Florida insiders are exploring lucrative deals for a post-communist Cuba crushed by ever-increasing US sanctions Spanish hotel chains. A Canadian mining firm. European shipping giants. Visa and Masterca…",
-    "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
-    "time": "2026-09-17T11:00:48.000Z"
   }
 ]
