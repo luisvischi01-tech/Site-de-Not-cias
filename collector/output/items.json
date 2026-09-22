@@ -1,27 +1,251 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Flávio tem oscilação positiva no Nordeste e Lula, no Sudeste",
+    "d": "Levantamento ouviu 2.004 eleitores entre os dias 17 e 20 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-oscilacao-positiva-no-nordeste-e-lula-no-sudeste/",
+    "time": "2026-09-22T20:16:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Conab vê maior oferta de feijão com entrada da terceira safra",
+    "d": "Presidente da Companhia diz que preço do produto caiu em 20 capitais e prevê aumento da disponibilidade com a entrada de mais de 700 mil toneladas no mercado",
+    "link": "https://www.cnnbrasil.com.br/agro/conab-ve-maior-oferta-de-feijao-com-entrada-da-terceira-safra/",
+    "time": "2026-09-22T20:16:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Renegociação de dívidas do agro deve avançar em 30 dias, diz ministra",
+    "d": "Apesar de lentidão, Fernanda Machiaveli afirma que R$ 3,6 bilhões já foram contratados e atribui ritmo inicial à regulamentação das novas linhas pelos bancos; mais de R$ 25 bilhões foram liberados pelo governo",
+    "link": "https://www.cnnbrasil.com.br/agro/renegociacao-de-dividas-do-agro-deve-avancar-em-30-dias-diz-ministra/",
+    "time": "2026-09-22T20:15:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bella Longuinho desabafa sobre transição de gênero e mudanças familiares",
+    "d": "Influenciadora abriu o coração a respeito da transição de gênero e disse como processo impactou sua própria relação familiar",
+    "link": "https://www.cnnbrasil.com.br/pop/bella-longuinho-desabafa-sobre-transicao-de-genero-e-mudancas-familiares/",
+    "time": "2026-09-22T20:15:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "MC Livinho celebra funk brasileiro em estreia no Tiny Desk Brasil; assista",
+    "d": "Cantor apresentou novas versões de hits como \"Fazer Falta\" e \"Cheia de Marra\"",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/mc-livinho-celebra-funk-brasileiro-em-estreia-no-tiny-desk-brasil-assista/",
+    "time": "2026-09-22T20:15:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Furacão na costa do México atinge categoria máxima e passa de 260 km/h",
+    "d": "Alertas de tempestade entraram em vigor na região sudoeste do país; porém, fenômeno natural deve permanecer em alto-mar enquanto se desloca para o noroeste",
+    "link": "https://www.cnnbrasil.com.br/internacional/furacao-na-costa-do-mexico-atinge-categoria-maxima-e-passa-de-260-km-h/",
+    "time": "2026-09-22T20:15:27.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Trump made over 1,000 July stock trades worth up to $270m, filings reveal",
+    "d": "President made more than 440 purchases and 700 sales despite voter anger over elected officials trading stocks Donald Trump made over a thousand stock sales and purchases worth between $79m and $270m in July, accordin…",
+    "link": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
+    "time": "2026-09-22T20:13:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Lívia Noronha, candidata ao Senado pelo Pará",
+    "d": "Em 2020, a candidata ficou em segundo lugar pela Prefeitura de Ananindeua",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-livia-noronha-candidata-ao-senado-pelo-para/",
+    "time": "2026-09-22T20:12:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Novo VW Constellation offroad transporta até 91 toneladas",
+    "d": "Voltado ao agronegócio e transporte extrapesado, novo modelo traz motor de 540 cv e capacidade máxima de tração de até 150 toneladas",
+    "link": "https://www.cnnbrasil.com.br/auto/novo-vw-constellation-offroad-transporta-ate-91-toneladas/",
+    "time": "2026-09-22T20:10:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Gizelle Freitas, candidata ao Senado pelo Pará",
+    "d": "Candidata é assistente social e defende políticas públicas de proteção às mulheres",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-gizelle-freitas-candidata-ao-senado-pelo-para/",
+    "time": "2026-09-22T20:09:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Tarcísio promete universalizar saneamento básico em 371 municípios até 2029 com R$ 70 bilhões em investimentos",
+    "d": "Tarcísio de Freitas na Estação de Tratamento de Esgoto (ETE) de Barueri. Reprodução/TV Globo O governador de São Paulo, Tarcísio de Freitas (Republicanos), prometeu nesta terça-feira (22) universalizar o saneamento bá…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/22/tarcisio-promete-universalizar-saneamento-basico-em-371-municipios-ate-2029-com-r-70-bilhoes-em-investimentos.ghtml",
+    "time": "2026-09-22T20:08:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cauã Reymond se juntará a Kim Kardashian em drama jurídico; saiba detalhes",
+    "d": "Ator brasileiro estreará na segunda temporada da série produzida por Ryan Murphy; novos episódios ainda não possuem data de estreia prevista",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/caua-reymond-se-juntara-a-kim-kardashian-em-drama-juridico-saiba-detalhes/",
+    "time": "2026-09-22T20:07:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Edlaine Rodrigues, candidata ao Senado pelo Pará",
+    "d": "Concorrendo sua primeira eleição, candidata ao Senado pelo Pará defende políticas de combate ao crime organizado e o fim da escala 6X1",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-edlaine-rodrigues-candidata-ao-senado-pelo-para/",
+    "time": "2026-09-22T20:06:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Diretor do Flamengo critica redução de estrangeiros: “Abaixar a qualidade”",
+    "d": "Atualmente, cada clube pode ter até nove jogadores de outras nacionalidades em seu elenco em cada partida",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/diretor-do-flamengo-critica-reducao-de-estrangeiros-abaixar-a-qualidade/",
+    "time": "2026-09-22T20:04:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "INSS amplia prazo de auxílio-doença sem perícia; veja o que muda",
+    "d": "Auxílio-doença sem carência: veja quais condições dão esse direito O Ministério da Previdência Social e o Instituto Nacional do Seguro Social (INSS) prorrogaram por mais 365 dias a regra que amplia o prazo máximo de d…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/inss-prazo-auxilio-doenca.ghtml",
+    "time": "2026-09-22T20:02:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+    "d": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T19:47:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo",
+    "d": "O intérprete de 'Ela é Demais' participou de um movimento no fim dos anos 1990 com letras que exploravam um lado mais bem-humorado, malicioso e sensual do romance, em vez de apostar só no sofrimento amoroso.",
+    "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T19:16:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "OpenAI lança dois novos chatbots mais baratos, mas alerta que podem tentar escapar do controle humano",
+    "d": "Google e Chat GPT não são médicos; conheça os riscos de se informar somente com eles A OpenAI lançou nesta terça-feira (22) dois novos modelos de inteligência artificial da linha GPT-6 com preços até 50% menores que o…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/22/openai-lanca-dois-novos-chatbots-mais-baratos-mas-alerta-que-podem-tentar-escapar-do-controle-humano.ghtml",
+    "time": "2026-09-22T19:11:53.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+    "d": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in…",
+    "link": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+    "time": "2026-09-22T19:09:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+    "d": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T19:06:06.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US to build two military bases in Greenland under new deal with Denmark",
+    "d": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+    "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T18:43:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como é feito o controle de voo dos helicópteros — e por que alguns 'somem do radar' mesmo sem acidentes",
+    "d": "Helicópteros apresentam um perfil de operação diferente em relação à maioria das aeronaves, operando com frequência mais próximos ao solo e realizando decolagens e pousos verticais",
+    "link": "https://www.bbc.com/portuguese/articles/cmvgydnl9j18o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T18:36:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+    "d": "US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this yea…",
+    "link": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+    "time": "2026-09-22T18:23:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em carta a ministros do STF, Henrique Vorcaro diz que não pode ser arrastado para caso Master por ser pai de banqueiro",
+    "d": "Preso na Operação Compliance Zero, Henrique Vorcaro enviou nesta terça-feira (22) uma carta aos ministros do Supremo Tribunal Federal (STF) afirmando que não pode ser arrastado para o escândalo do Master só porque é p…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/22/em-carta-a-ministros-do-stf-henrique-vorcaro-diz-que-nao-pode-ser-arrastado-para-caso-master-por-ser-pai-de-banqueiro.ghtml",
+    "time": "2026-09-22T18:13:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Six-year-old Chinese girl ‘sets new women’s Rubik’s Cube world record’",
+    "d": "Lian Yunzhi solves 3x3 puzzle on several occasions in average time of under 4.5 seconds, according to state media A six-year-old Chinese girl has set a new women’s world record for solving a Rubik’s Cube in just over…",
+    "link": "https://www.theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi",
+    "time": "2026-09-22T18:10:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE aceita ação do PT que pede investigação de suposta rede de collabs para promover Flávio Bolsonaro no Instagram",
+    "d": "Flávio Bolsonaro faz campanha em Vitória da Conquista (BA) Charles Vieira O Tribunal Superior Eleitoral (TSE) aceitou uma ação de investigação judicial eleitoral protocolada pela campanha de Lula (PT) contra Flávio Bo…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/tse-aceita-acao-do-pt-que-pede-investigacao-de-suposta-rede-de-collabs-para-promover-flavio-bolsonaro-no-instagram.ghtml",
+    "time": "2026-09-22T18:04:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro e Lula trocam críticas e focam em preço dos alimentos em propaganda eleitoral",
+    "d": "Flávio Bolsonaro e Lula durante a propaganda eleitoral nesta terça-feira (22). Reprodução Na reta final para o primeiro turno, as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) intensificaram o co…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/flavio-bolsonaro-e-lula-trocam-criticas-e-focam-em-preco-dos-alimentos-em-propaganda-eleitoral.ghtml",
+    "time": "2026-09-22T17:52:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Na ONU, Lula critica ação dos EUA na região: 'Brasil não cabe no quintal de ninguém'",
+    "d": "Lula falou sobre eleições e fez referências às cobranças dos EUA para combate ao crime organizado no Brasil, dizendo que seu país não vai \"terceirizar a responsabilidade\" de defender suas fronteiras",
+    "link": "https://www.bbc.com/portuguese/articles/c5wyze0jej7vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-22T17:35:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Na ONU, Trump fala em 'proteger' Hemisfério Ocidental; Lula defende soberania e diz que Brasil não é quintal",
+    "d": "Na ONU, Trump fala em 'proteger' Hemisfério Ocidental; Lula defende soberania e diz que Brasil não é quintal Os dois líderes discursaram na sequência na Assembleia Geral. Neste ano, g1 está em Nova York para mostrar o…",
+    "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
+    "time": "2026-09-22T17:33:52.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fazenda reduz previsão de crescimento da economia para 2% e cita alta do peso das dívidas das famílias",
+    "d": "O Ministério da Fazenda revisou para baixo a projeção de crescimento da economia brasileira neste ano, de 2,3% para 2,0%, refletindo principalmente a desaceleração do setor de serviços, influenciada pelo comprometimen…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/22/fazenda-reduz-previsao-de-crescimento-da-economia-para-2percent-e-cita-alta-do-peso-das-dividas-das-familias.ghtml",
+    "time": "2026-09-22T17:30:56.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Quaest: 59% dizem que pessoas com quem moram têm posições políticas muito parecidas com as suas",
     "d": "Quaest divulga nova pesquisa de intenção de voto para presidente Pesquisa Quaest divulgada nesta terça-feira (22) mostra que 59% dos eleitores brasileiros consideram suas posições políticas muito parecidas com as das…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/22/quaest-pesquisa-posicao-politica-familia.ghtml",
     "time": "2026-09-22T17:19:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atriz detalha supostas mensagens de Rafael Cardoso quando ela tinha 13 anos",
-    "d": "Duda Wedling contracenou com o ator quando tinha 6 anos em \"Joia Rara\"",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/atriz-detalha-supostas-mensagens-de-rafael-cardoso-quando-ela-tinha-13-anos/",
-    "time": "2026-09-22T17:03:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que os Estados da antiga Alemanha comunista passaram a ser o bastião da extrema direita no país",
-    "d": "A imigração, a queda da economia, as sequelas da reunificação e até o legado do nazismo são alguns dos fatores indicados por especialistas para explicar o voto dos eleitores do leste da Alemanha.",
-    "link": "https://www.bbc.com/portuguese/articles/cqm27je7wyk0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T16:58:00.000Z"
   },
   {
     "cat": "internacional",
@@ -30,22 +254,6 @@
     "d": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
     "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-22T16:57:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Além de Rick, relembre mortes de sertanejos que comoveram o Brasil",
-    "d": "Sertanejo Rick Sollo, da dupla com Renner, faleceu após seu helicóptero desaparecer em Santa Catarina na segunda-feira (21)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/alem-de-rick-relembre-mortes-de-sertanejos-que-comoveram-o-brasil/",
-    "time": "2026-09-22T16:57:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rick era amigo de João Paulo, compositor que também morreu em acidente",
-    "d": "Cantor, que fazia dupla com Renner, faleceu aos 59 anos na segunda-feira (21) após a queda de seu helicóptero",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/rick-era-amigo-de-joao-paulo-compositor-que-tambem-morreu-em-acidente/",
-    "time": "2026-09-22T16:57:04.000Z"
   },
   {
     "cat": "internacional",
@@ -57,59 +265,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lionel Richie passa por procedimento cardíaco e pausa agenda de shows",
-    "d": "Cantor passou por procedimento para tratar fibrilação atrial e ficará temporariamente afastado dos palcos, segundo seu representante",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/lionel-richie-passa-por-procedimento-cardiaco-e-pausa-agenda-de-shows/",
-    "time": "2026-09-22T16:54:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Helicóptero com cantor Rick: veja como é local onde aeronave foi encontrada",
-    "d": "Queda da aeronave matou o cantor Rick, o empresário Bruno Avelar, o videomaker Paulo Soares, o piloto Antônio e o copiloto Leopoldo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-do-cantor-rick-foi-encontrado-em-santa-barbara-veja-onde-e/",
-    "time": "2026-09-22T16:54:25.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Morre cantor sertanejo Rick em acidente de helicóptero que matou outras 4 pessoas; o que se sabe",
     "d": "Aeronave saiu de Porto Belo em direção a São Joaquim. Bombeiros de Santa Catarina e a Força Aérea Brasileira (FAB) estavam trabalhando nas buscas desde ontem.",
     "link": "https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-22T16:50:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Alvo de racismo, apresentador de programa de Zucco registra notícia-crime",
-    "d": "Defesa de Thiago Souza anexou cerca de 800 comentários ofensivos no documento enviado à Justiça Eleitoral",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/alvo-de-racismo-apresentador-de-programa-de-zucco-registra-noticia-crime/",
-    "time": "2026-09-22T16:49:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem é Luis Cesar Bueno, candidato ao governo de Goiás",
-    "d": "Professor e deputado estadual concorre ao cargo de governador pela primeira vez",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-luis-cesar-bueno-candidato-ao-governo-de-goias/",
-    "time": "2026-09-22T16:48:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cury cancela agenda após morte de empresário em queda de aeronave em SC",
-    "d": "Bruno Avelar era conselheiro de campanha do candidato à Presidência pelo Avante",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/cury-cancela-agenda-apos-morte-de-empresario-em-queda-de-aeronave-em-sc/",
-    "time": "2026-09-22T16:47:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nora de Glória Menezes se emociona ao sonhar com a atriz: “Sempre comigo”",
-    "d": "Mocita Fagundes é casada com Tarcísio Filho, herdeiro de Glória Menezes e Tarcísio Meira",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nora-de-gloria-menezes-se-emociona-ao-sonhar-com-a-atriz-sempre-comigo/",
-    "time": "2026-09-22T16:46:30.000Z"
   },
   {
     "cat": "brasil",
@@ -144,30 +304,6 @@
     "time": "2026-09-22T16:38:58.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Desde que assumi o governo acabei com oito guerras”, diz Trump na ONU",
-    "d": "Em discurso na 81ª Assembleia Geral da ONU, o presidente norte-americano citou conflitos entre países como Índia e Paquistão, além de Gaza",
-    "link": "https://www.cnnbrasil.com.br/internacional/desde-que-assumi-o-governo-acabei-com-oito-guerras-diz-trump-na-onu/",
-    "time": "2026-09-22T16:36:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Zé Felipe detalha acidente de José Leonardo: “Muito sangue”",
-    "d": "Cantor atualizou estado de saúde do pequeno de 2 anos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ze-felipe-detalha-acidente-de-jose-leonardo-muito-sangue/",
-    "time": "2026-09-22T16:35:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Aliados de Milton Leite perdem força em SP após prisão de ex-vereador",
-    "d": "Dirigente do União Brasil deixa presidência estadual da federação com PP; substituto será escolhido após eleições",
-    "link": "https://www.cnnbrasil.com.br/politica/aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador/",
-    "time": "2026-09-22T16:34:39.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Testes de radar de velocidade média são suspensos pela ANTT para ajustes",
@@ -193,43 +329,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Dino diz que momento adequado para STF analisar ação sobre emendas é depois das eleições",
-    "d": "Flávio Dino durante audiência Pública relativa à ADI 7995/DF - 22/09/2026 Audiência Pública relativa à ADI 7995/DF - 22/09/2026 O ministro do Supremo Tribunal Federal (STF) Flávio Dino disse nesta terça-feira (22) que…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/22/dino-diz-que-momento-adequado-de-stf-analisar-acao-sobre-emendas-e-depois-das-eleicoes.ghtml",
-    "time": "2026-09-22T16:23:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Na ONU, Lula critica ação dos EUA na região: 'Brasil não cabe no quintal de ninguém'",
-    "d": "Lula falou sobre eleições e fez referências às cobranças dos EUA para combate ao crime organizado no Brasil, dizendo que seu país não vai \"terceirizar a responsabilidade\" de defender suas fronteiras",
-    "link": "https://www.bbc.com/portuguese/articles/c5wyze0jej7vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T16:20:14.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Trump ameaça usar poder militar dos EUA para garantir 'interesses' na América Latina",
     "d": "Ele foi o segundo líder a discursar na Assembleia Geral das Nações Unidas, em Nova York, depois do discurso do presidente Lula.",
     "link": "https://www.bbc.com/portuguese/articles/cq3d7ykxgj3no?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-22T16:15:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo",
-    "d": "O intérprete de 'Ela é Demais' participou de um movimento no fim dos anos 1990 com letras que exploravam um lado mais bem-humorado, malicioso e sensual do romance, em vez de apostar só no sofrimento amoroso.",
-    "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T16:09:08.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Oil falls below $100 a barrel; UK government borrowing paints ‘dismal picture’ as bond vigilantes assemble – as it happened",
-    "d": "The rising cost of servicing the UK national debt pushed up borrowing last month, while oil is dropping, and M&G holds Bond Vigilantes Forum in London How much ‘headroom’ might John Healey still have to keep within th…",
-    "link": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-    "time": "2026-09-22T16:07:06.000Z"
   },
   {
     "cat": "economia",
@@ -240,30 +344,6 @@
     "time": "2026-09-22T16:03:07.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula na ONU: veja recados ao público brasileiro, a Trump e à comunidade internacional",
-    "d": "'O Brasil não cabe no quintal de ninguém', diz Lula em discurso na ONU Ao discursar nesta terça-feira (22) na Assembleia Geral da Organização das Nações Unidas (ONU), o presidente Luiz Inácio Lula da Silva (PT) dedico…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/22/lula-na-onu-veja-recados-ao-publico-brasileiro-a-trump-e-a-comunidade-internacional.ghtml",
-    "time": "2026-09-22T15:51:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Na ONU, Trump fala em 'proteger' Hemisfério Ocidental; Lula defende soberania e diz que Brasil 'não é quintal'",
-    "d": "Na ONU, Trump fala em 'proteger' Hemisfério Ocidental; Lula defende soberania e diz que Brasil 'não é quintal' Os dois líderes discursaram na sequência na Assembleia Geral. Neste ano, g1 está em Nova York para mostrar…",
-    "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-    "time": "2026-09-22T15:21:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Na ONU, Lula manda recados para os EUA, mas também faz discurso de campanha voltado ao Brasil",
-    "d": "Em seu discurso na Assembleia Geral das Nações Unidas (ONU), o presidente Lula mandou recados para o presidente dos Estados Unidos, Donald Trump, sem citá-lo nominalmente, mas fez também um discurso marcado com um tom…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/22/na-onu-lula-manda-recados-para-os-eua-mas-tambem-faz-discurso-em-tom-de-campanha-voltado-ao-brasil.ghtml",
-    "time": "2026-09-22T15:19:23.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Autopsy shows Hayden Panettiere died from a drug overdose",
@@ -272,44 +352,12 @@
     "time": "2026-09-22T15:17:37.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Delegação dos EUA não aplaude discurso de Lula na ONU em nenhum momento",
-    "d": "O presidente do Brasil, Luiz Inácio Lula da Silva, discursa durante a 81ª Assembleia Geral das Nações Unidas na sede da ONU em Nova York, em 22 de setembro de 2026 TIMOTHY A. CLARY/AFP A delegação dos Estados Unidos p…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/09/22/delegacao-dos-eua-nao-aplaude-discurso-de-lula-na-onu.ghtml",
-    "time": "2026-09-22T14:51:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-    "d": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-    "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T14:51:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Leia a íntegra do discurso de Lula na Assembleia Geral da ONU",
-    "d": "Não precisamos de porta-aviões, mas de cooperação, diz Lula sobre o crime organizado O presidente Luiz Inácio Lula da Silva (PT) fez o discurso de abertura do debate geral da 81ª edição da Assembleia Geral da Organiza…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/22/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.ghtml",
-    "time": "2026-09-22T14:28:34.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
     "d": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
     "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-22T14:16:42.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-    "d": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T14:03:20.000Z"
   },
   {
     "cat": "economia",
@@ -410,8 +458,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar opera em alta, de olho em ata do Copom e Lula na ONU; Ibovespa cai",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta terça-feira (22), com um avanço de 0,06% perto das 12h, cotado a R$ 5,1115. Já o Ibovespa, principal índice da bolsa brasileira, tinha queda…",
+    "h": "Dólar recua a R$ 5,10, de olho em negociações entre EUA e Irã e cenário eleitoral; Ibovespa sobe",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda nesta terça-feira (22), com um recuo de 0,11%, cotado a R$ 5,1028. Já o Ibovespa, principal índice da bolsa brasileira, encerrou as negociações…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/22/dolar-ibovespa.ghtml",
     "time": "2026-09-22T12:00:35.000Z"
   },
@@ -419,25 +467,9 @@
     "cat": "economia",
     "src": "The Guardian",
     "h": "EU spends three times more on imports from China than bloc exports there",
-    "d": "Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald Trump Business live – latest updates Consumers and businesses in the EU are spending three times more on Chine…",
+    "d": "Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in July Consumers and businesses in the EU are spending three times more on Chinese imports than their count…",
     "link": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
     "time": "2026-09-22T11:54:08.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Doctor in court to face Rwanda genocide charges in UK",
-    "d": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
-    "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-22T11:25:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação",
-    "d": "O Banco Central reafirmou nesta terça-feira (22) que manterá \"perseverança, firmeza e serenidade' na condução da política de juros, pois isso colaborará para a chamada \"reancoragem das expectativas\", ou seja, trazer a…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/22/sem-dar-pistas-sobre-proximos-passos-bc-diz-que-mantera-restricao-adequada-na-politica-de-juros-para-conter-inflacao.ghtml",
-    "time": "2026-09-22T11:09:00.000Z"
   },
   {
     "cat": "internacional",
@@ -456,22 +488,6 @@
     "time": "2026-09-22T10:00:15.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Gasolina sobe nos EUA e Trump diz que alta é 'baixo preço a pagar' por guerra no Irã",
-    "d": "Um posto de gasolina da Terrible's, na Sunset Road, exibe os preços dos combustíveis enquanto um avião da Southwest Airlines se prepara para pousar no Aeroporto Internacional Harry Reid, na sexta-feira (18), em Las Ve…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/22/gasolina-sobe-nos-eua-e-trump-diz-que-alta-e-baixo-preco-a-pagar-por-guerra-no-ira.ghtml",
-    "time": "2026-09-22T08:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Lei Seca: drogômetro terá de diferenciar uso de remédio de 'abuso na balada', diz secretário",
-    "d": "Lei Seca Divulgação/Magno Segllia GOVRJ Em agosto deste ano, uma nova resolução do Conselho Nacional de Trânsito (Contran) estabeleceu novas regras para a fiscalização da Lei Seca. Entre as novidades está a regulament…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/22/lei-seca-drogometro-tera-de-diferenciar-uso-de-remedio-de-abuso-na-balada-diz-secretario.ghtml",
-    "time": "2026-09-22T07:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Four dead after powerful Typhoon Dujuan lashes Japan",
@@ -482,16 +498,8 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
-    "d": "Rescuers search for missing in collapsed homes after storm causes landslides, travel chaos and power outages Typhoon Dujuan has killed at least four people and injured 22 in Japan, while tens of thousands of houses ne…",
-    "link": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
-    "time": "2026-09-22T04:48:59.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
     "h": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
-    "d": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the provinc…",
+    "d": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI, saying a mass shooting at a school in the Canadian province cou…",
     "link": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
     "time": "2026-09-22T04:29:22.000Z"
   },
@@ -536,14 +544,6 @@
     "time": "2026-09-21T15:54:43.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
-    "d": "Officials say man was critically injured and officer was wounded in Yom Kippur incident near Belleville synagogue A police officer and a man were wounded in an exchange of gunfire on Sunday near a synagogue in Ontario…",
-    "link": "https://www.theguardian.com/world/2026/sep/21/gunfire-belleville-ontario-synagogue-yom-kippur",
-    "time": "2026-09-21T14:56:58.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "CNN, MS Now and Politico sue Trump after being blocked from White House",
@@ -574,14 +574,6 @@
     "d": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with doze…",
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
     "time": "2026-09-21T05:00:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
-    "d": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical…",
-    "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
-    "time": "2026-09-21T01:09:23.000Z"
   },
   {
     "cat": "economia",
