@@ -1,107 +1,251 @@
 [
   {
-    "cat": "brasil",
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+    "d": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-25T08:09:26.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Petróleo na costa do Amapá divide moradores entre expectativa de riqueza e medo de impactos",
+    "d": "Moradores de Oiapoque falam das expectativas e preocupações com a exploração de petróleo A descoberta de petróleo na costa do Amapá alimenta expectativas de crescimento econômico em Oiapoque, cidade na fronteira com a…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/25/petroleo-na-costa-do-amapa-divide-moradores-entre-expectativa-de-riqueza-e-medo-de-impactos.ghtml",
+    "time": "2026-09-25T08:00:00.000Z"
+  },
+  {
+    "cat": "comercio",
     "src": "CNN Brasil",
-    "h": "Cientistas fazem tecido cerebral humano crescer em ratos e descobrem novas pistas para a neurologia",
-    "d": "Pesquisadores da Universidade de Stanford desenvolveram um modelo que permite cultivar tecido cortical humano dentro de camundongos geneticamente modificados",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/cientistas-fazem-tecido-cerebral-humano-crescer-em-ratos-e-descobrem-novas-pistas-para-a-neurologia/",
-    "time": "2026-09-25T02:01:33.000Z"
+    "h": "Extensão de acordo dos EUA com China não ajuda Trump, diz especialista",
+    "d": "Ao WW, Roberto Dumas, professor de economia chinesa do Insper, a não extensão do acordo comercial seria mais prejudicial a Trump do que a extensão é benéfica ao republicano",
+    "link": "https://www.cnnbrasil.com.br/internacional/extensao-de-acordo-dos-eua-com-china-nao-ajuda-trump-diz-especialista/",
+    "time": "2026-09-25T07:54:20.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Mercado livre pode ter preço maior, mas qualidade pode atrair, diz Ultragaz",
-    "d": "Diretor-executivo da empresa diz que atrativo da nova modalidade de contratação de energia é pacote de serviços",
-    "link": "https://www.cnnbrasil.com.br/infra/mercado-livre-pode-ter-preco-maior-mas-qualidade-pode-atrair-diz-ultragaz/",
-    "time": "2026-09-25T01:59:55.000Z"
+    "h": "Ex-membro do Opus Dei relata abusos dentro da instituição em série da HBO",
+    "d": "À CNN Brasil, Enrique Mackenzie contou que ficou 17 anos na organização que foi investigada na produção que estreia nesta sexta (25)",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/ex-membro-do-opus-dei-relata-abusos-dentro-da-instituicao-em-serie-do-hbo/",
+    "time": "2026-09-25T07:30:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Citi: Juros devem demorar a cair, mas empresariado é resiliente",
+    "d": "Em entrevista exclusiva ao CNN Money, André Cury destacou impacto das altas taxas do país no mercado de capitais e nas decisões de investimento, além de apontar oportunidades",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/citi-juros-devem-demorar-a-cair-mas-empresariado-e-resiliente/",
+    "time": "2026-09-25T07:20:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil é um dos principais mercados para o Citi no mundo, diz CEO à CNN",
+    "d": "Banco transaciona US$ 6 trilhões globalmente, e tem o país como \"um dos principais mercados\" nesse quesito, relatou André Cury",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/brasil-e-um-dos-principais-mercados-para-o-citi-no-mundo-diz-ceo-a-cnn/",
+    "time": "2026-09-25T07:15:49.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Citi vê “muitas oportunidades” e aponta interesse de estrangeiros no Brasil",
+    "d": "Executivo destacou fatores que passam desde queda de juros até potencial em suprir demanda global por segurança alimentar, matriz energética e insumos para IA",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/citi-ve-muitas-oportunidades-e-aponta-interesse-de-estrangeiros-no-brasil/",
+    "time": "2026-09-25T07:10:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eleições não impactam decisões das empresas, diz CEO do Citi no Brasil",
+    "d": "André Cury relatou que está cotidianemente em contato com estrangeiros interessados em investir ou iniciar novas operações no Brasil",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/eleicoes-nao-impactam-decisoes-das-empresas-diz-ceo-do-citi-no-brasil/",
+    "time": "2026-09-25T07:05:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Itália x Bélgica: horário e onde assistir ao jogo da Nations League",
+    "d": "Equipes vão a campo nesta sexta-feira (25), às 15h45, pela primeira rodada da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/italia-x-belgica-horario-e-onde-assistir-ao-jogo-da-nations-league-2/",
+    "time": "2026-09-25T07:00:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "U2 completa 50 anos: entenda a história por trás do nome da banda",
+    "d": "Integrantes, que seguem juntos desde o primeiro dia, serão nomeados como as Personalidades do Ano em 2027",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/u2-completa-50-anos-entenda-a-historia-por-tras-do-nome-da-banda/",
+    "time": "2026-09-25T07:00:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Os carros elétricos mais vendidos no mês de agosto; veja ranking",
+    "d": "Na primeira posição, o BYD Dolphin Mini aparece com 8.299 unidades registradas, com um market share de 30% no mês de agosto",
+    "link": "https://www.cnnbrasil.com.br/auto/os-carros-eletricos-mais-vendidos-no-mes-de-agosto-veja-ranking/",
+    "time": "2026-09-25T07:00:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quando é a Black Friday em 2026? Veja data e dicas para não cair em ciladas",
+    "d": "Black Friday: o que fazer para não cair em falsas promoções A Black Friday 2026 vai acontecer na semana do dia 27 de novembro. Mas todo mundo já sabe que nem todo desconto é real, o que já levou o período a ser apelid…",
+    "link": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-e-a-black-friday-em-2026-veja-data-e-dicas-para-nao-cair-em-ciladas.ghtml",
+    "time": "2026-09-25T07:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Segunda Turma começa a analisar hoje envio de caso de usinas ao plenário",
+    "d": "Colegiado decidirá se confirma decisão de Gilmar Mendes; discussão ganhou destaque após mensagens de Vorcaro sobre voto de Kassio Nunes Marques",
+    "link": "https://www.cnnbrasil.com.br/politica/segunda-turma-comeca-a-analisar-hoje-envio-de-caso-de-usinas-ao-plenario/",
+    "time": "2026-09-25T06:50:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Papa Leão viaja à França com desculpas por abusos do clero e IA na agenda",
+    "d": "Pontífice se reunirá com vítimas e líderes políticos e defenderá regras globais para a inteligência artificial",
+    "link": "https://www.cnnbrasil.com.br/internacional/papa-leao-viaja-a-franca-com-desculpas-por-abusos-do-clero-e-ia-na-agenda/",
+    "time": "2026-09-25T06:49:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba quem é quem no Conselho Superior do MPF que analisa caso sobre Gonet",
+    "d": "Além de Gonet, nove integrantes compõem o Conselho; procedimento em análise foi aberto após divulgação de mensagens extraídas pela Polícia Federal do celular de Daniel Vorcaro nas quais o nome do atual PGR aparece em…",
+    "link": "https://www.cnnbrasil.com.br/politica/saiba-quem-e-quem-no-conselho-superior-do-mpf-que-analisa-caso-sobre-gonet/",
+    "time": "2026-09-25T06:45:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Dia de eleição é feriado nacional: o que muda para quem trabalhar na data? Veja direitos",
+    "d": "Título de eleitor Foto: Agência Brasil/Divulgação Mais de 150 milhões de brasileiros voltarão às urnas em outubro para escolher presidente da República, governadores, senadores, deputados federais, estaduais e distrit…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/dia-de-eleicao-e-feriado-nacional-o-que-muda-para-quem-trabalhar-na-data-veja-direitos.ghtml",
+    "time": "2026-09-25T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "TikTok é usado por criminosos para promover a venda de conteúdo de abuso sexual infantil no Telegram; g1 monitorou perfis",
+    "d": "⚠️ Aviso: esta reportagem contém conteúdo sensível sobre abuso sexual infantil. Ao final dela, veja como denunciar casos desse tipo. Criminosos usam TikTok para promover de conteúdo de abuso sexual infantil no Telegra…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/25/tiktok-e-usado-por-criminosos-para-promover-a-venda-de-conteudo-de-abuso-sexual-infantil-no-telegram-g1-monitorou-perfis.ghtml",
+    "time": "2026-09-25T06:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: 52% não sabem o número da urna do seu candidato a governador em SP",
+    "d": "Datafolha em SP, 1º turno: Tarcísio, 50%; Haddad, 30% Pesquisa Datafolha divulgada na quinta-feira (24) indica que 52% dos eleitores paulistas não sabem qual é o número de urna do candidato em quem pretendem votar par…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/datafolha-52percent-nao-sabem-o-numero-da-urna-do-seu-candidato-a-governador-em-sp.ghtml",
+    "time": "2026-09-25T05:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Xi got Trump's red carpet welcome - but not everything he wanted",
+    "d": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+    "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-25T03:57:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+    "d": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonis…",
+    "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+    "time": "2026-09-25T03:33:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "A fé e o voto: Igreja e Estado diante da urna - O Assunto #1812",
+    "d": "Convidada: Ana Carolina Evangelista, cientista política e pesquisadora sênior do Instituto de Estudos da Religião (Iser). O podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Ju…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/25/a-fe-e-o-voto-igreja-e-estado-diante-da-urna-o-assunto-1812.ghtml",
+    "time": "2026-09-25T03:30:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: Como justificar ausência nas eleições?",
+    "d": "Guia do Eleitor: Como justificar ausência nas eleições? Vai estar fora da sua cidade no dia da eleição e não vai conseguir votar? Nesse caso, é possível justificar a ausência pelo aplicativo e-Título. Basta acessar a…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/25/video-como-justificar-ausencia-nas-eleicoes.ghtml",
+    "time": "2026-09-25T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Candidatos a deputado estadual e federal são alvo de 69% das denúncias ao TSE sobre campanha eleitoral",
+    "d": "Candidatos a deputado estadual e federal são alvo de 69,2% das denúncias sobre a campanha eleitoral de 2026 registradas no Pardal, aplicativo do Tribunal Superior Eleitoral (TSE). Entre os tipos de reclamação, lidera…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/tse-campanha-eleitoral-2026-denuncias.ghtml",
+    "time": "2026-09-25T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Conselho do MPF decide nesta sexta se abre investigação sobre atuação de Gonet no caso Master",
+    "d": "Procurador-Geral da República Paulo Gonet em sessão plenária extraordinária do STF Rosinei Coutinho/STF O Conselho Superior do Ministério Público Federal (CSMPF) decide nesta sexta-feira (25) se abre ou não uma apuraç…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/25/conselho-do-mpf-decide-nesta-sexta-se-abre-investigacao-sobre-atuacao-de-gonet-no-caso-master.ghtml",
+    "time": "2026-09-25T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha, 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião",
+    "d": "Datafolha, 1º turno: Lula tem 40% contra 36% de Flávio Bolsonaro Pesquisa Datafolha divulgada nesta quinta-feira (23) mostra Lula (PT) com 40% das intenções de voto no 1º turno da eleição presidencial, contra 36% de F…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/25/datafolha-1-turno-24-setembro-recortes.ghtml",
+    "time": "2026-09-25T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Quais os documentos que precisa para votar?",
+    "d": "Para votar, o eleitor precisa apenas de um documento oficial com foto, mas precisa saber qual sua zona e seção eleitoral. Érico Andrade/G1 Para votar nas eleições de 2026, o eleitor deve apresentar um documento oficia…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-quais-os-documentos-que-precisa-para-votar.ghtml",
+    "time": "2026-09-25T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha em SP: 29% afirmam que podem mudar de voto para governador",
+    "d": "Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) em agendas de campanhas ao governo de SP Caiuá Maia e Diogo Zacarias Pesquisa Datafolha divulgada na quinta-feira (24) aponta que 71% dos eleitores paulistas a…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/datafolha-em-sp-29percent-afirmam-que-podem-mudar-de-voto-para-governador.ghtml",
+    "time": "2026-09-25T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Debate do g1 com candidatos de SP ao Senado: veja quem participa, horário, regras e como assistir",
+    "d": "Marina Silva (Rede), Simone Tebet (PSB), Guilherme Derrite (PP), André do Prado (PL), Geraldo Rufino (Podemos) e Soninha Francine (Cidadania) Reprodução O g1 promove nesta sexta-feira (25), às 13h, um debate com candi…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/debate-do-g1-com-candidatos-de-sp-ao-senado-veja-quem-participa-horario-regras-e-como-assistir.ghtml",
+    "time": "2026-09-25T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha no DF: 63% não sabem o número de urna do candidato a governador em que querem votar",
+    "d": "Eleições 2026: Datafolha mostra Celina Leão na liderança com 42% Pesquisa Datafolha divulgada nesta quinta-feira (25) mostra que 63% dos eleitores do Distrito Federal não sabem o número de urna dos candidatos em que d…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-no-df-63percent-nao-sabem-o-numero-de-urna-do-candidato-a-governador-em-que-querem-votar.ghtml",
+    "time": "2026-09-25T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Antigo PIS/Pasep: novo lote de dinheiro esquecido começa a ser pago nesta sexta; veja quem tem direito",
+    "d": "PIS/Pasep, FGTS - Saque José Cruz/Agência Brasil Trabalhadores com valores no antigo fundo PIS/Pasep começam a receber, nesta sexta-feira (25), um novo lote de pagamentos do chamado \"dinheiro esquecido\". Nesta etapa,…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/antigo-pispasep-novo-lote-de-dinheiro-esquecido-comeca-a-ser-pago-nesta-sexta-veja-quem-tem-direito.ghtml",
+    "time": "2026-09-25T03:00:00.000Z"
   },
   {
     "cat": "economia",
     "src": "The Guardian",
     "h": "CNN and MS Now journalists denied access to White House state dinner despite court ruling",
-    "d": "Officials deny entry even after federal judge rules Trump administration must grant banned journalists access US politics live – latest updates Journalists for CNN and MS Now were denied access to the White House stat…",
+    "d": "Officials deny entry even after federal judge rules Trump administration must grant banned journalists access Journalists for CNN and MS Now were denied access to the White House state dinner in honor of Xi Jinping, C…",
     "link": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
     "time": "2026-09-25T01:56:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest: Marcos Rogério tem 37% e Adailton Fúria, 21% no 1º turno em RO",
-    "d": "Pesquisa ouviu 804 eleitores entre os dias 20 e 23 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-marcos-rogerio-tem-37-e-adailton-furia-21-no-1o-turno-em-ro/",
-    "time": "2026-09-25T01:53:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mercado livre não pode gerar concentração privada, alerta Aneel",
-    "d": "Sandoval Feitosa defende fiscalização para evitar abusos econômicos e cobra recursos para preparar agência para abertura do mercado livre",
-    "link": "https://www.cnnbrasil.com.br/infra/mercado-livre-nao-pode-gerar-concentracao-privada-alerta-aneel/",
-    "time": "2026-09-25T01:50:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trabalhadores dos Correios de SP desmobilizam greve",
-    "d": "TST definiu retorno imediato ao trabalho para esta sexta-feira (25)",
-    "link": "https://www.cnnbrasil.com.br/economia/trabalhadores-dos-correios-de-sp-desmobilizam-greve/",
-    "time": "2026-09-25T01:49:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Casal é preso em SC após atrair e matar homem em falso encontro",
-    "d": "Vítima foi atraída pela internet para um encontro com uma mulher, sofreu tentativa de extorsão e acabou morta com golpe de faca; crime aconteceu no município de Passo de Torres",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/casal-e-preso-em-sc-apos-atrair-e-matar-homem-em-falso-encontro/",
-    "time": "2026-09-25T01:48:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mercado livre testa soluções antes de chegar ao consumidor residencial",
-    "d": "Para diretor da entidade, problemas atuais foram absorvidos pelo próprio mercado",
-    "link": "https://www.cnnbrasil.com.br/infra/mercado-livre-testa-solucoes-antes-de-chegar-ao-consumidor-residencial/",
-    "time": "2026-09-25T01:45:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem baleado em comício de Trump em 2024 morre dois anos após ataque",
-    "d": "James Copenhaver faleceu em um hospital aos 76 anos; causa da morte não foi divulgada",
-    "link": "https://www.cnnbrasil.com.br/internacional/homem-baleado-em-comicio-de-trump-de-2024-morre-dois-anos-apos-ataque/",
-    "time": "2026-09-25T01:44:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lucas Moura treina parcialmente no São Paulo; time pode ter outro reforço",
-    "d": "Em transição, dupla participou da etapa de aquecimento ao lado dos companheiros e, na sequência, trabalhou com a preparação física do clube",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/lucas-moura-treina-parcialmente-no-sao-paulo-time-pode-ter-outro-reforco/",
-    "time": "2026-09-25T01:39:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula “cutuca” regalia de Memphis no Corinthians: “Vai ser chique assim…”",
-    "d": "Presidente e candidato à reeleição cumpriu agenda de campanha em Maceió, nesta quinta-feira (24), e fez comparação envolvendo o atacante holandês e o salário de jogadores da Série B",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/lula-cutuca-regalia-de-memphis-no-corinthians-vai-ser-chique-assim/",
-    "time": "2026-09-25T01:37:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CNJ terá 2 meses para decidir se abre processo contra desembargador do TRF1",
-    "d": "Desembargador foi alvo de correição extraordinária, procedimento de fiscalização e auditoria para avaliar indícios de irregularidades",
-    "link": "https://www.cnnbrasil.com.br/politica/cnj-tera-2-meses-para-decidir-se-abre-processo-contra-desembargador-do-trf1/",
-    "time": "2026-09-25T01:35:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula: Fomos a vida toda contra jogo e eles levaram o cassino pra sua casa",
-    "d": "Presidente e candidato à reeleição mencionou jogo do bicho, loteria e voltou a dizer que pretende acabar com as casas de aposta em todo o país",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-fomos-a-vida-toda-contra-jogo-e-eles-levaram-o-cassino-pra-sua-casa/",
-    "time": "2026-09-25T01:28:09.000Z"
   },
   {
     "cat": "brasil",
@@ -115,7 +259,7 @@
     "cat": "internacional",
     "src": "BBC News",
     "h": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-    "d": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+    "d": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
     "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-25T01:10:35.000Z"
   },
@@ -166,94 +310,6 @@
     "d": "Quaest para o senado em Rondônia: Confira os número da segunda pesquisa no Estado Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a disputa pelo Senado em Rondônia. O levantamento foi encomendado pe…",
     "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-senado-24-de-setembro.ghtml",
     "time": "2026-09-24T23:13:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em RO: Flávio Bolsonaro, 53%; Lula, 19%; Augusto Cury, 4%; Ronaldo Caiado, 3%; Renan Santos, 2%",
-    "d": "Quaest em RO: Flávio Bolsonaro, 53%; Lula, 19%; Augusto Cury, 4%; Ronaldo Caiado, 3%; Renan Santos, 2% Reprodução/acervo pessoal Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a disputa pela Presid…",
-    "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-presidente-24-de-setembro.ghtml",
-    "time": "2026-09-24T22:53:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: 23% não sabem o número da urna do candidato a presidente em quem pretendem votar",
-    "d": "Datafolha, 1º turno: Lula tem 40% contra 36% de Flávio Bolsonaro Pesquisa Datafolha divulgada nesta quinta-feira (24) indica que 23% dos eleitores brasileiros não sabem qual é o número de urna do candidato em quem pre…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-numero-da-urna-presidente.ghtml",
-    "time": "2026-09-24T22:51:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em SE: 68% aprovam e 24% desaprovam governo de Fábio",
-    "d": "Quaest em SE: 68% aprovam e 24% desaprovam governo de Fábio Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a avaliação do governo de Sergipe e os índices de aprovação e desaprovação. O levantamento…",
-    "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-avaliacao-governo-24-setembro.ghtml",
-    "time": "2026-09-24T22:49:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em RO: 46% aprovam e 31% desaprovam governo de Marcos Rocha (PSD)",
-    "d": "Coronel Marcos Rocha, governador de Rondônia. Arte/g1 Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a avaliação do governo de Marcos Rocha (PSD) e os índices de aprovação e desaprovação. O levanta…",
-    "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-ro-avaliacao-governo-24-de-setembro.ghtml",
-    "time": "2026-09-24T22:44:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no AP: Dr Furlan, 53%; Clécio, 40%",
-    "d": "Eleições 2026: veja pesquisa Quaest para o governo do Amapá Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a disputa pelo governo do Amapá. O levantamento foi encomendado pela Rede Amazônica. Veja,…",
-    "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/quaest-ap-governador-24-setembro.ghtml",
-    "time": "2026-09-24T22:38:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no AP: 56% aprovam e 37% desaprovam governo Clécio Luís",
-    "d": "Eleições 2026: veja pesquisa Quaest sobre avaliação do governo Clécio no Amapá Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a avaliação do governo de Clécio Luís (União Brasil) e os índices de ap…",
-    "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/quaest-ap-avaliacao-governo-24-setembro.ghtml",
-    "time": "2026-09-24T22:37:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em GO: Flávio Bolsonaro, 33%; Lula, 27%; Ronaldo Caiado, 23%",
-    "d": "Flávio Bolsonaro, Lula e Ronaldo Caiado Jefferson Rudy/Agência Senado; Reprodução/Instagram de Lula; Diomício Gomes/OPopular A Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a disputa pela Presidên…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-presidente-24-setembro.ghtml",
-    "time": "2026-09-24T22:36:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em RO: Marcos Rogério, 37%; Adailton Furia, 21%; Hildon Chaves, 9%; Expedito Netto, 6%",
-    "d": "Pesquisa Quaest: Veja a intenção de voto para o governo de Rondônia na segunda pesquisa Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a disputa pelo governo de Rondônia. O levantamento foi encomen…",
-    "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-governador-24-de-setembro.ghtml",
-    "time": "2026-09-24T22:29:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em GO: 68% aprovam e 10% desaprovam governo de Daniel Vilela",
-    "d": "Pesquisa Quaest mostra avaliação do governo de Goiás nesta quinta-feira (24) A Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a avaliação do governo de Daniel Vilela (MDB) e os índices de aprovação…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-go-avaliacao-governo-24-setembro.ghtml",
-    "time": "2026-09-24T22:28:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em GO: Daniel Vilela, 42%; Marconi Perillo, 19%; Wilder Morais, 15%",
-    "d": "Pesquisa Quaest revela intenções de votos para governador de Goiás nesta quinta-feira (24) Pesquisa Quaest divulgada nesta quinta-feira (24) mostra como está a disputa pelo governo de Goiás. O levantamento foi encomen…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-governador-24-setembro.ghtml",
-    "time": "2026-09-24T22:27:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em Sergipe: Lula, 54%; Flávio Bolsonaro, 26%",
-    "d": "Lula e Flávio Bolsonaro Montagem/g1 Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a disputa pela Presidência da República no 1º turno entre os eleitores de Sergipe. O levantamento foi encomendado…",
-    "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-presidente-24-setembro.ghtml",
-    "time": "2026-09-24T22:27:08.000Z"
   },
   {
     "cat": "economia",
@@ -339,7 +395,7 @@
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
-    "d": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tips One is an authoritarian who represses the media with a strong allergy to democratic…",
+    "d": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tips One is an authoritarian who represses the media and has a strong allergy to democra…",
     "link": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
     "time": "2026-09-24T18:30:54.000Z"
   },
@@ -393,30 +449,6 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "BC está preocupado com ofertas 'agressivas e predatórias' de crédito, diz Galípolo",
-    "d": "Gabriel Galípolo, presidente do Banco Central (BC) Raphael Ribeiro/Banco Central O presidente do Banco Central (BC), Gabriel Galípolo, afirmou nesta quinta-feira (24) que a instituição está preocupada com ofertas de c…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/24/bc-esta-preocupado-com-ofertas-agressivas-e-predatorias-de-credito-diz-galipolo.ghtml",
-    "time": "2026-09-24T16:42:17.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Petroleiros ligados ao Irã apreendidos pelos EUA navegam pelo Atlântico",
-    "d": "Petroleiro iraniano Majestic X, apreendido pelo Exército dos Estados Unidos em abril em meio à guerra no Oriente Médio. Divulgação/Departamento de Guerra dos EUA Três petroleiros ligados ao Irã apreendidos pelos Estad…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/09/24/petroleiros-iranianos-apreendidos-pelos-eua-cruzam-atlantico.ghtml",
-    "time": "2026-09-24T16:41:09.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Greek PM urges UK PM to return Elgin Marbles permanently",
-    "d": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
-    "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-24T16:36:33.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "US mortgage rates top 7% for first time in 20 months",
     "d": "Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Fr…",
@@ -442,14 +474,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-    "d": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-    "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-24T16:00:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
     "d": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
     "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
@@ -465,16 +489,8 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Subvenções aos combustíveis já custaram R$ 40 bilhões, diz ministro",
-    "d": "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou nesta quinta-feira (24) que, até o momento, as subvenções relativas aos combustíveis somam R$ 40 bilhões. As medidas vêm sendo implementadas ao longo do a…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/24/subvencoes-aos-combustiveis-ja-custaram-r40-bi-diz-ministro.ghtml",
-    "time": "2026-09-24T15:28:05.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
-    "h": "EU says Trump plan to ban US diesel exports would ‘negatively impact both sides’",
+    "h": "EU says Trump’s plan to ban US diesel exports would ‘negatively impact both sides’",
     "d": "US president’s suggested 90-day export ban before midterm elections could bring even higher fuel prices across Europe The EU has warned Donald Trump against plans to ban US diesel exports to the global market, saying…",
     "link": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
     "time": "2026-09-24T14:46:44.000Z"
@@ -486,22 +502,6 @@
     "d": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
     "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-24T14:37:34.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Justiça libera funcionamento de supermercados em feriados sem negociação coletiva",
-    "d": "Justiça libera funcionamento de supermercados em feriados sem negociação coletiva Reprodução/EPTV Mercados, supermercados e hipermercados poderão funcionar em feriados sem a necessidade de acordo ou convenção coletiva…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/justica-libera-funcionamento-de-supermercados-em-feriados-sem-negociacao-coletiva.ghtml",
-    "time": "2026-09-24T14:34:18.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Google testa chips de IA no espaço em lançamento de satélite",
-    "d": "Logo do Google exibido em um evento em Berlim, Alemanha. REUTERS/Lisi Niesner O Google anunciou nesta quinta-feira (24) que lançará um satélite protótipo na próxima semana. A ação marca o primeiro teste em órbita do P…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
-    "time": "2026-09-24T14:21:29.000Z"
   },
   {
     "cat": "brasil",
@@ -634,14 +634,6 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
-    "d": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in…",
-    "link": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
-    "time": "2026-09-22T19:09:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
     "h": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
     "d": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare i…",
     "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
@@ -662,13 +654,5 @@
     "d": "Trump says he digs coal – but pneumoconiosis cases are at a 50-year high, and sick miners are mired in benefit delays For 38 years, Josh Armes worked as a coal miner in West Virginia and Virginia. After retirement, Ar…",
     "link": "https://www.theguardian.com/us-news/2026/sep/20/us-coalminers-black-lung-disease",
     "time": "2026-09-20T11:00:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Are global stock markets heading for a crash?",
-    "d": "Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarm At the height of the summer, the mood was optimistic in the world’s financial capitals. Powered by the AI revolu…",
-    "link": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
-    "time": "2026-09-20T05:00:07.000Z"
   }
 ]
