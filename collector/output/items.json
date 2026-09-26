@@ -1,43 +1,243 @@
 [
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-    "d": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-26T00:09:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Marconi Perillo fala de investir em transporte público no Entorno do DF",
-    "d": "Eleições 2026: Marconi Perillo fala em investir em transporte público no Entorno do DF Marconi Perillo (PSDB), candidato ao governo de Goiás, defendeu a melhoria do transporte público no Entorno do Distrito Federal co…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-25.ghtml",
-    "time": "2026-09-26T00:05:10.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Stephen Curry: astro da NBA revela doença que afeta sua visão",
-    "d": "Jogador do Golden State Warriors foi diagnosticado com ceratocone, doença ocular que afeta a córnea; atleta utiliza lentes para corrigir a deformação",
-    "link": "https://www.cnnbrasil.com.br/esportes/basquete/stephen-curry-astro-da-nba-revela-doenca-que-afeta-sua-visao/",
-    "time": "2026-09-25T23:46:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mr. Olympia: Eduarda Bezerra entra bem e se destaca nas prévias da Wellness",
-    "d": "Atual campeã apresentou físico equilibrado e divide primeiro confronto com a também brasileira Isa Pereira Nunes e a dominicana Elisa Alcantara",
-    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/eduarda-bezerra-entra-bem-e-se-destaca-nas-previas-da-wellness/",
-    "time": "2026-09-25T23:42:34.000Z"
+    "h": "Mr. Olympia: Derek Lunsford e Nick Walker lideram prévias da Open",
+    "d": "Andrew Jacked e Samson Dauda fecharam primeiro confronto da categoria e desenham possível pódio para as finais",
+    "link": "https://www.cnnbrasil.com.br/noticias/mr-olympia-derek-lunsford-e-nick-walker-lideram-previas-da-open/",
+    "time": "2026-09-26T05:05:05.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-    "d": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+    "d": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
     "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-25T23:38:48.000Z"
+    "time": "2026-09-26T05:03:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eslovênia x Escócia: horário e onde assistir ao jogo da Nations League",
+    "d": "Seleções se enfrentam neste sábado (26) pela 1ª rodada do Grupo B1",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/eslovenia-x-escocia-horario-e-onde-assistir-ao-jogo-da-nations-league/",
+    "time": "2026-09-26T05:00:26.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dívida boa existe? Entenda quando dever pode ajudar — ou prejudicar — seu bolso",
+    "d": "Dívida boa e dívida ruim: qual é a diferença e por que isso importa? Nem toda dívida é ruim. A diferença entre “dívida boa” e “dívida ruim” é econômica, não moral — e saber identificar isso é essencial. A boa é aquela…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/09/26/divida-boa-existe-entenda-quando-dever-pode-ajudar-ou-prejudicar-seu-bolso.ghtml",
+    "time": "2026-09-26T05:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Andrea Shaw vence Women’s Bodybuilding é heptacampeã do Mr. Olympia",
+    "d": "Brasileira Leyvina Barros manteve a posição da última edição e ficou na terceira colocação",
+    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/mr-olympia-2026-americana-andrea-shaw-vence-womens-bodybuilding/",
+    "time": "2026-09-26T03:58:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Riedel vai a 51% e lidera disputa pelo governo de MS",
+    "d": "Pesquisa ouviu 804 eleitores no estado; margem de erro é de três pontos percentuais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-riedel-vai-a-51-e-lidera-disputa-pelo-governo-de-ms/",
+    "time": "2026-09-26T03:36:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "STF condena Eduardo a pagar R$ 80 mil por difamação contra Tabata",
+    "d": "Julgamento aconteceu nesta sexta-feira (25) e terminou com placar de 7 a 3 pela condenação do ex-deputado",
+    "link": "https://www.cnnbrasil.com.br/politica/stf-condena-eduardo-a-pagar-r-80-mil-por-difamacao-contra-tabata/",
+    "time": "2026-09-26T03:30:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "2026 pode ter até 19 eleições para governador resolvidas no 1º turno; leia análise de Felipe Nunes",
+    "d": "Com menos candidatos na disputa e governadores polarizando as corridas, até 19 estados podem conhecer o novo governador já em 4 de outubro, no 1º turno. A eleição de 2026 caminha para ser uma das mais curtas nos estad…",
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2026/09/26/eleicoes-governador-1o-turno-analise-felipe-nunes.ghtml",
+    "time": "2026-09-26T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Proibição das bets: governo prevê advertência, multa e suspensão das atividades para empresas que descumprirem regras",
+    "d": "O governo federal proíbe todas as bets no país O governo publicou nesta sexta-feira (25) uma medida provisória que proíbe apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassino…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/26/proibicao-das-bets-governo-preve-advertencia-multa-e-suspensao-das-atividades-para-empresas-que-descumprirem-regras.ghtml",
+    "time": "2026-09-26T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
+    "d": "Datafolha, 2º turno: Lula tem 47%; Flávio, 45% Pesquisa Datafolha divulgada nesta quinta-feira (24) mostra Lula (PT) e Flávio Bolsonaro (PL) em empate técnico no cenário de 2º turno: o presidente tem 47% das intenções…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/26/datafolha-24-set-segmentos.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleição no Sul: Veja os números da Quaest para os governos do Paraná, Rio Grande do Sul e de Santa Catarina",
+    "d": "Quaest no Paraná: Sergio Moro tem 37%; Requião Filho aparece com 21%; Sandro Alex tem 15% Reprodução Uma nova série de pesquisas Quaest, divulgadas entre quarta (23) e quinta-feira (24), mostra como está a disputa pel…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/26/eleicao-no-sul-veja-os-numeros-da-quaest-para-os-governos-do-parana-rio-grande-do-sul-e-de-santa-catarina.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em debate, candidatos ao Senado por SP divergem sobre emendas e defendem mudanças na relação entre Poderes",
+    "d": "Candidatos ao Senado de SP respondem sobre relação entre poderes Em debate na sexta-feira (25), os candidatos ao Senado divergiram sobre o destino e o controle das emendas parlamentares e defenderam mudanças na relaçã…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/em-debate-candidatos-ao-senado-por-sp-divergem-sobre-emendas-e-defendem-mudancas-na-relacao-entre-poderes.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Bets e 'jogo do tigrinho' proibidos: tudo o que você precisa saber em 11 pontos",
+    "d": "Governo anuncia proibição das bets no Brasil O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição de apostas e jogos virtuais online, como o \"jogo do tigrin…",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/26/bets-e-jogo-do-tigrinho-proibidos-o-que-voce-precisa-saber.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "MAPA: Quaest mostra como está a disputa presidencial nos estados",
+    "d": "Uma nova série de pesquisas Quaest, divulgadas entre terça (22) e quarta-feira (23), mostra como está a disputa presidencial no 1º turno em 24 estados e no Distrito Federal. Segundo os resultados: Lula lidera em 9 est…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/26/mapa-quaest-mostra-como-esta-a-disputa-presidencial-nos-estados.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: Por que existem duas casas no Congresso?",
+    "d": "CONGRESSO: Por que existem duas casas? Câmara e Senado participam da elaboração das leis, mas representam interesses diferentes dentro do Congresso Nacional. A Câmara representa a população brasileira. Por isso, estad…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/26/video-por-que-existem-duas-casas-no-congresso.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: em quantos candidatos o eleitor terá que votar?",
+    "d": "Guia do eleitor: Qual a ordem de votação na urna? No dia 4 de outubro, primeiro turno das eleições 2026, o eleitor brasileiro vai fazer seis escolhas nas urnas. Qual a ordem de votação na urna no primeiro turno? O ele…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/26/eleicoes-2026-em-quantos-candidatos-o-eleitor-tera-que-votar.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleição no Sudeste: Veja os números da Quaest para os governos de São Paulo, Rio, Minas e Espírito Santo",
+    "d": "Uma nova série de pesquisas Quaest, divulgadas entre quarta (23) e quinta-feira (24), mostra como está a disputa pelos governos dos estados do Sudeste no 1º turno da eleição 2026. Segundo os resultados: Espírito Santo…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/26/eleicao-no-sudeste-veja-os-numeros-da-quaest-para-os-governos-de-sao-paulo-rio-minas-e-espirito-santo.ghtml",
+    "time": "2026-09-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mr. Olympia 2026: Keone Pearson domina e conquista tetra na 212",
+    "d": "Brasileiro Lucas Garcia ficou em segundo colocado, seguido pelo britânico Shaun Clarida",
+    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/mr-olympia-2026-keone-pearson-domina-e-conquista-tetra-na-212/",
+    "time": "2026-09-26T02:53:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "OpenAI bots meddled with multiple US government agency sites",
+    "d": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+    "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-26T02:50:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como vai funcionar a proibição das bets e qual seu impacto na eleição",
+    "d": "Presidente Lula assinou uma medida provisória proibindo apostas online no Brasil. Apostadores têm até o dia 5 de outubro para retirar saldos; plataformas sairão do ar no dia 06 de outubro.",
+    "link": "https://www.bbc.com/portuguese/articles/cqde009w65y8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-26T02:45:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula fala a empresários sobre conciliar responsabilidade social e fiscal",
+    "d": "Presidente afirma que ajuste fiscal não pode ocorrer à custa do empobrecimento da população",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-fala-a-empresarios-sobre-conciliar-responsabilidade-social-e-fiscal/",
+    "time": "2026-09-26T02:38:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil terá ‘biblioteca digital’ de anúncios para frear golpes digitais",
+    "d": "Plataformas deverão repassar ao governo federal dados sobre impulsionamentos de anúncios para disponibilidade de consulta da Justiça e do consumidor, segundo equipe da Secom da Presidência da República em entrevista à…",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-tera-biblioteca-digital-de-anuncios-para-frear-golpes-digitais/",
+    "time": "2026-09-26T02:30:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mr. Olympia 2026: canadense Lola Montez vence categoria Figure",
+    "d": "Na última edição, a atleta ficou na segunda colocação e desta vez levou a categoria",
+    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/mr-olympia-2026-canadense-lola-montez-vence-categoria-figure/",
+    "time": "2026-09-26T02:25:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Por que o sorvete dá a sensação de que o cérebro está “congelando”? Entenda o que acontece",
+    "d": "Sensação conhecida como \"brain freeze\" provoca uma dor repentina na testa ou nas têmporas, mas não significa que o cérebro esteja realmente sendo resfriado",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-o-sorvete-da-a-sensacao-de-que-o-cerebro-esta-congelando-entenda-o-que-acontece/",
+    "time": "2026-09-26T02:23:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Trump pode usar relação com Xi para pressionar Putin",
+    "d": "Analista de Internacional da CNN Fernanda Magnotta, durante o CNN 360º, avaliou que aproximação entre EUA e China pode fornecer novas ferramentas para avançar no cessar-fogo do conflito",
+    "link": "https://www.cnnbrasil.com.br/internacional/analise-trump-pode-usar-relacao-com-xi-para-pressionar-putin/",
+    "time": "2026-09-26T02:19:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Se vocês tivessem em dúvida entre mim e um gênio, mas não é isso, diz Lula",
+    "d": "Em jantar com empresários, presidente ainda disse que eleição não é jogo de truco para blefar",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/se-voces-tivessem-em-duvida-entre-mim-e-um-genio-mas-nao-e-isso-diz-lula/",
+    "time": "2026-09-26T02:17:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Black woman found hanging from tree was dead before body was 'staged', police say",
+    "d": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-26T01:24:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Veja como foi a agenda dos candidatos ao governo de Goiás nesta sexta-feira (25)",
+    "d": "Eleições 2026: veja como foi a agenda dos candidatos ao governo de Goiás Os candidatos ao governo de Goiás cumpriram compromissos de campanha pelo interior do estado e na região do Entorno do Distrito Federal nesta se…",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-sexta-feira-25.ghtml",
+    "time": "2026-09-26T01:01:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Veja o que é #FATO ou #FAKE no debate de candidatos ao Senado por São Paulo no g1",
+    "d": "Debate do g1 com candidatos ao Senado por São Paulo (Marina Silva, Simone Tebet, Soninha Francine e Geraldo Rufino) Noah Denser/Divulgação O g1 promoveu, nesta sexta-feira (25), um debate com candidatos ao Senado por…",
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/25/veja-o-que-e-fato-ou-fake-nos-debates-de-candidatos-ao-senado-por-sao-paulo-no-g1.ghtml",
+    "time": "2026-09-26T00:48:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Bets no Brasil: o papel dos governos Temer, Bolsonaro e Lula no mercado de apostas",
+    "d": "Lula endurece discurso pela proibição das apostas online, mas foi seu governo que regulamentou os jogos, depois que Temer e Bolsonaro deixaram decretos no apagar das luzes dos seus governos.",
+    "link": "https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-26T00:45:58.000Z"
   },
   {
     "cat": "brasil",
@@ -48,52 +248,12 @@
     "time": "2026-09-25T23:30:43.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem é Niall Darwen, um dos adversários de Ramon Dino no Mr. Olympia 2026",
-    "d": "Fisiculturista britânico se destacou na Classic Physique com vitórias em 2026 e top 5 no Mr. Olympia anterior",
-    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/quem-e-niall-darwen-um-dos-adversarios-de-ramon-dino-no-mr-olympia-2026/",
-    "time": "2026-09-25T23:28:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda como vai funcionar a proibição das bets no Brasil",
-    "d": "Medida Provisória foi assinada pelo presidente Luiz Inácio Lula da Silva em cerimônia na noite desta sexta-feira (25)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/entenda-como-vai-funcionar-a-proibicao-das-bets-no-brasil/",
-    "time": "2026-09-25T23:27:50.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "South African white genocide does not exist, new ambassador to US tells BBC",
     "d": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
     "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-25T23:20:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Espécie rara de tartarugas marinhas tem viajado oceanos e estão sendo avistadas em novas praias",
-    "d": "Cientista afrima que omportamento dos animais foi provavelmente influenciado pelo fenômeno climático El Niño, que elevou as temperaturas oceânicas",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/especie-rara-de-tartarugas-marinhas-tem-viajado-oceanos-e-estao-sendo-avistadas-em-novas-praias/",
-    "time": "2026-09-25T23:15:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vox Radar: Boato de padroeira tem impacto moderado em campanha de Flávio",
-    "d": "Candidato recorreu às redes sociais e protocolou uma notícia-crime no Ministério Público Eleitoral após ser associado a projeto de lei contra Nossa Senhora Aparecida",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-boato-de-padroeira-tem-impacto-moderado-em-campanha-de-flavio/",
-    "time": "2026-09-25T23:15:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Suspeito de furto de carro na Vila Mariana é preso pela PM em SP",
-    "d": "Veículo estava sem chave e com vidro quebrado quando foi interceptado pelos policiais após perseguição",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/suspeito-de-furto-de-carro-na-vila-mariana-e-preso-pela-pm-em-sp/",
-    "time": "2026-09-25T23:12:08.000Z"
   },
   {
     "cat": "economia",
@@ -104,60 +264,12 @@
     "time": "2026-09-25T23:10:12.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rompimento da barragem é descartado por empresa, apesar de alerta no RS",
-    "d": "Seis equipamentos retiram mais de três milhões de litros por hora da estrutura para reduzir a pressão na Barragem de Arroio São Luiz, em São Marco; Defesa Civil emitiu aviso de colapso iminente",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/rompimento-da-barragem-e-descartado-por-empresa-apesar-de-alerta-no-rs/",
-    "time": "2026-09-25T23:07:39.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
     "d": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
     "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-25T23:05:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula faz piada com Palmeiras ao citar clubes campeões mundiais sem bets",
-    "d": "Presidente da República e candidato à reeleição pelo PT fez discurso em São Paulo, nesta sexta-feira (25), após anunciar a proibição de cassinos online e casas de apostas esportivas no Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/lula-faz-piada-com-palmeiras-ao-citar-clubes-campeoes-mundiais-sem-bets/",
-    "time": "2026-09-25T23:04:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "MP denuncia sete policiais por agressões no Carnaval de Salvador",
-    "d": "Denúncia apresentada pelo Ministério Público da Bahia cita fratura na mandíbula de uma das vítimas e tentativa de impedir filmagem; dois policias de folga participaram do espancamento",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/mp-denuncia-sete-policiais-por-agressoes-no-carnaval-de-salvador/",
-    "time": "2026-09-25T23:02:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cruzeiro avança por Paulinho, mas esbarra em obstáculo e avalia cenário",
-    "d": "Ex-jogador da Seleção Brasileira é alvo da presidência para reforçar a diretoria do clube celeste",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/cruzeiro-avanca-por-paulinho-mas-esbarra-em-obstaculo-e-avalia-cenario/",
-    "time": "2026-09-25T22:58:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro chama proibição das bets de oportunismo de Lula e 'estelionato eleitoral'",
-    "d": "Flávio Bolsonaro durante live na noite de 23 de setembro Reprodução O candidato do PL à Presidência da República, Flávio Bolsonaro, criticou Lula (PT) pela decisão de proibir, a nove dias da eleição, a operação das em…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/flavio-bolsonaro-chama-proibicao-das-bets-de-oportunismo-de-lula-e-estelionato-eleitoral.ghtml",
-    "time": "2026-09-25T22:53:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "AtlasIntel: Helder lidera corrida ao Senado pelo PA; 2ª vaga é indefinida",
-    "d": "Delegado Éder Mauro (PL), Zequinha Marinho (Podemos) e Chicão (União) aparecem tecnicamente empatados pela segunda vaga paraense ao Senado",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/atlasintel-helder-lidera-corrida-ao-senado-pelo-pa-2a-vaga-e-indefinida/",
-    "time": "2026-09-25T22:52:53.000Z"
   },
   {
     "cat": "brasil",
@@ -176,31 +288,7 @@
     "time": "2026-09-25T22:50:51.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no MA: Lula, 59%; Flávio Bolsonaro, 22%",
-    "d": "Flávio Bolsonaro (esquerda) e Lula (direita). Reprodução. Pesquisa Quaest divulgada nesta sexta-feira (25) mostra como está a disputa pela Presidência da República no 1º turno entre os eleitores do Maranhão. O levanta…",
-    "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-ma-presidente-25-setembro.ghtml",
-    "time": "2026-09-25T22:48:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no AC: Flávio, 50%; Lula, 24%; Cury, 4%; Caiado, 3%",
-    "d": "Flávio Bolsonaro (PL), Lula (PT), Augusto Cury (Avante) e Ronaldo Caiado (PSD) Reprodução Pesquisa Quaest divulgada nesta sexta-feira (25) mostra como está a disputa pela Presidência da República no 1º turno entre os…",
-    "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-presidente-25-setembro.ghtml",
-    "time": "2026-09-25T22:42:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no Maranhão: 55% aprovam e 28% desaprovam governo de Brandão",
-    "d": "Carlos Brandão, governador do Maranhão Matheus Soares/Grupo Mirante Pesquisa Quaest divulgada nesta sexta-feira (25) mostra como está a avaliação do governo de Carlos Brandão (MDB) no Maranhão e os índices de aprovaçã…",
-    "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-no-maranhao-avaliacao-governo-25-setembro.ghtml",
-    "time": "2026-09-25T22:40:55.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Governo anuncia Desenrola 3.0 para renegociar R$ 150 bilhões em dívidas",
     "d": "O governo federal anunciou nesta sexta-feira (25) uma nova rodada do Desenrola, programa de renegociação de dívidas de pessoas físicas. O governo estima que as dívidas nessas modalidades somem R$ 300 bilhões e pretend…",
@@ -208,52 +296,12 @@
     "time": "2026-09-25T22:35:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em Roraima: Flávio Bolsonaro, 59%; Lula, 20%",
-    "d": "Flávio Bolsonaro (PL) e Lula (PT) g1 Pesquisa Quaest divulgada nesta sexta-feira (25) mostra como está a disputa pela Presidência da República entre os eleitores de Roraima. O levantamento foi encomendado pela Rede Am…",
-    "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-presidente-25-de-setembro.ghtml",
-    "time": "2026-09-25T22:32:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica à frente em PE; e MG tem empate técnico",
-    "d": "Pesquisas divulgadas pelo Datafolha nesta sexta-feira (25) mostram que Flávio Bolsonaro (PL) lidera a disputa pela Presidência da República no 1º turno em São Paulo, no Rio de Janeiro e no Distrito Federal, enquanto L…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/25/datafolha-presidente-estados-25-setembro.ghtml",
-    "time": "2026-09-25T22:31:02.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Governo envia projeto que criminaliza apostas e jogos online; penas podem chegar a seis anos de prisão",
     "d": "Jogo do Tigrinho: mulher de Ribeirão Preto, SP, perdeu reserva financeira com apostas Carlos Trinca/EPTV Junto da proibição de apostas e jogos virtuais online, o governo do presidente Luiz Inácio Lula da Silva (PT) en…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/25/governo-envia-projeto-que-criminaliza-apostas-e-jogos-online-penas-podem-chegar-a-seis-anos-de-prisao.ghtml",
     "time": "2026-09-25T22:30:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em Roraima: 54% aprovam e 27% desaprovam governo de Soldado Sampaio",
-    "d": "Quaest em Roraima mostra a avaliação do governo de Soldado Sampaio Pesquisa Quaest divulgada nesta sexta-feira (25) mostra como está a avaliação do governo de Soldado Sampaio (Republicanos) e os índices de aprovação e…",
-    "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-de-setembro.ghtml",
-    "time": "2026-09-25T22:30:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest para o Senado no MA: Roseana Sarney, 19%; Fufuca, 15%; Lahesio Bonfim, 12%; Weverton Rocha, 10%",
-    "d": "Quaest no Maranhão: Veja os cenários para o Senado do Maranhão nas eleições 2026 Pesquisa Quaest divulgada nesta sexta-feira (25) mostra como está a disputa pelo Senado no Maranhão. O levantamento foi encomendado pela…",
-    "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-ma-senado-25-setembro.ghtml",
-    "time": "2026-09-25T22:29:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest para o Senado no AC: Gladson, 19%; Márcio, 14%; Mara, 13%; Jorge, 12%",
-    "d": "Quaest no AC: Veja os números para Senado Pesquisa Quaest divulgada nesta quinta-feira (27) mostra como está a disputa pelo Senado no Acre. O levantamento foi encomendado pela Rede Amazônica. Em 2026, serão eleitos do…",
-    "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-senado-25-setembro.ghtml",
-    "time": "2026-09-25T22:28:58.000Z"
   },
   {
     "cat": "internacional",
@@ -328,38 +376,6 @@
     "time": "2026-09-25T21:38:11.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Por que é tão difícil ganhar dinheiro com bets? A matemática explica",
-    "d": "Governo anuncia proibição das bets no Brasil Ganhar dinheiro em casas de apostas, proibidas pelo governo federal nesta sexta-feira (25), é possível, mas por que tão poucas pessoas conseguem acumular ganhos expressivos…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/25/por-que-e-tao-dificil-ganhar-dinheiro-com-bets-a-matematica-explica.ghtml",
-    "time": "2026-09-25T21:34:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Quanto os brasileiros deixam nas bets? Estudo estimou R$ 62,5 bilhões em 2025, mas o setor contesta",
-    "d": "Entenda como vai funcionar o alerta em publicidade de bets O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, que estão proibidas as plataformas de apostas e jogos vi…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/25/quanto-os-brasileiros-deixam-nas-bets.ghtml",
-    "time": "2026-09-25T21:32:50.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "A 9 dias das eleições, governo Lula anuncia proibição de bets no Brasil",
-    "d": "Governo anuncia proibição das bets no Brasil O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets.…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/proibicao-de-bets-no-brasil.ghtml",
-    "time": "2026-09-25T21:22:44.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Black woman found hanging from tree was dead before body was 'staged', police say",
-    "d": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-    "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-25T21:16:59.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
@@ -398,14 +414,6 @@
     "d": "Inmet emitiu aviso vermelho de calor até quarta-feira (30/09) em seis Estados: Mato Grosso do Sul, Paraná, São Paulo, Mato Grosso, Rio de Janeiro e Minas Gerais.",
     "link": "https://www.bbc.com/portuguese/articles/ckeq8e30r8qgo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-25T17:17:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Bets no Brasil: o papel dos governos Temer, Bolsonaro e Lula no mercado de apostas",
-    "d": "Lula endurece discurso pela proibição das apostas online, mas foi seu governo que regulamentou os jogos, depois que Temer e Bolsonaro deixaram decretos no apagar das luzes dos seus governos.",
-    "link": "https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-25T16:51:05.000Z"
   },
   {
     "cat": "internacional",
@@ -520,14 +528,6 @@
     "time": "2026-09-24T23:58:11.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista em pesquisas da Universidade de Michigan explica",
-    "d": "O estatístico Raphael Nishimura explica que diferentes hipóteses ajudam a explicar o fenômeno que dá origem a essa crença, que não é recente e tem paraelo com a eleição de Trump nos EUA.",
-    "link": "https://www.bbc.com/portuguese/articles/ck9qr20pwjlwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-24T18:54:05.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
@@ -622,13 +622,5 @@
     "d": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare i…",
     "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
     "time": "2026-09-21T22:33:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Banished to alien lands: Trump’s secret deportation deals",
-    "d": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with doze…",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-    "time": "2026-09-21T05:00:38.000Z"
   }
 ]
