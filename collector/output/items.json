@@ -3,65 +3,345 @@
     "cat": "internacional",
     "src": "BBC News",
     "h": "OpenAI scraps rollout of new model over safety concerns",
-    "d": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+    "d": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
     "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-29T01:51:25.000Z"
+    "time": "2026-09-29T08:41:06.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ana Paula Renault confirma programa no GNT e explica por que saiu da Band",
-    "d": "Atração da Campeã do BBB 26 deve estrear em maio de 2027, após o BBB 27; ela também contou que terá um quadro no \"Fantástico\", da TV Globo",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/ana-paula-renault-confirma-programa-no-gnt-e-explica-por-que-saiu-da-band/",
-    "time": "2026-09-29T01:35:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-galã de “Malhação”, Ronny Kriwatt mostra filho em viagem",
-    "d": "Ex-ator viajou com a esposa Tatiana para um casamento em Barcelona, na Espanha, onde registrou o pequeno",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-gala-de-malhacao-ronny-kriwatt-mostra-filho-em-viagem/",
-    "time": "2026-09-29T01:31:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Petróleo sobe depois de Trump rejeitar acordo de paz",
-    "d": "Brent fechou acima de US$ 105 e Wall Street recuou e o Ibovespa caiu 0,26% em dia marcado por cautela eleitoral; a analista de Economia da CNN Lucinda Pinto comenta o tema ao CNN Prime Time",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-petroleo-sobe-depois-de-trump-rejeitar-acordo-de-paz/",
-    "time": "2026-09-29T01:28:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "A menor bombeira do mundo tem 147 centímetros e recorde comprovado pelo Guinness: ‘Subo no que precisar’",
-    "d": "Autumn Kelso, do Corpo de Bombeiros de St. Pete Beach, nos Estados Unidos, diz que sua baixa estatura até rende piadas, mas não a atrapalha no trabalho",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/menor-bombeira-mundo-recorde-guinness/",
-    "time": "2026-09-29T01:22:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula: “Enquanto eu for presidente, ninguém vai avacalhar com Nossa Senhora”",
-    "d": "Candidato à reeleição recebeu a imagem de Nossa Senhora de Nazaré no fim do ato de campanha e a ergueu ao público de Belém",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-enquanto-eu-for-presidente-ninguem-vai-avacalhar-com-nossa-senhora/",
-    "time": "2026-09-29T01:19:16.000Z"
+    "src": "BBC News Brasil",
+    "h": "Brasil seguir nacionalismo de Trump seria ruim para o mundo, diz Piketty à BBC",
+    "d": "Para economista francês, 'estamos em um período repleto de distopias. Os tecnobilionários, os tecnonacionalistas estão elaborando visões malucas sobre o futuro'. Mesmo assim, ele se diz otimista, e que 'a longo prazo,…",
+    "link": "https://www.bbc.com/portuguese/articles/c8ly40d6y0vno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T08:22:55.000Z"
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Vietnamese government accused of abducting Melbourne human rights activist",
-    "d": "Tran Hiep, a 50-year-old Vietnamese Australian anti-human trafficking campaigner, not heard from since 18 September Vietnamese authorities have detained three activists, including an Australian, on what have been desc…",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/29/melbourne-human-rights-activist-tran-hiep-missing-cambodia-ntwnfb",
-    "time": "2026-09-29T01:16:28.000Z"
+    "src": "BBC News",
+    "h": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+    "d": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T08:05:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Burkina Faso's junta leader opens major gold refinery to keep mining profits at home",
+    "d": "Junta leader Ibrahim Traoré wants the country to profit more from its mineral wealth.",
+    "link": "https://www.bbc.co.uk/news/articles/c61mvdlk0327o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T08:01:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tensão entre STF e TSE cresce a cinco dias das eleições",
+    "d": "Divergências entre magistrados sobre remoção de conteúdos expõem crise institucional a poucos dias do primeiro turno",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tensao-entre-stf-e-tse-cresce-a-5-dias-das-eleicoes/",
+    "time": "2026-09-29T07:51:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump não consegue mobilizar a sua própria base, diz especialista",
+    "d": "Ao WW, Clifford Young, presidente da Ipsos, afirma que Donald Trump não mobiliza sua base com apenas 37% de aprovação nas pesquisas",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-nao-consegue-mobilizar-a-sua-propria-base-diz-especialista/",
+    "time": "2026-09-29T07:32:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Aneel determina plano de emergência para garantir energia nas eleições",
+    "d": "Agência orienta empresas a evitar manutenções nos dias de votação e apuração e alerta para dificuldades no abastecimento de termelétricas em localidades isoladas da Amazônia",
+    "link": "https://www.cnnbrasil.com.br/infra/aneel-determina-plano-de-emergencia-para-garantir-energia-nas-eleicoes/",
+    "time": "2026-09-29T07:30:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Renault Kwid Evolution: como é a versão de entrada do hatch",
+    "d": "Com preço de tabela de R$ 82.790, a parte visual frontal mudou e o para-choque frontal ficou mais robusto, com detalhes em preto brilhante na parte superior",
+    "link": "https://www.cnnbrasil.com.br/auto/renault-kwid-evolution-como-e-a-versao-de-entrada-do-hatch/",
+    "time": "2026-09-29T07:30:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ministros tomam decisões de olho nas repercussões eleitorais, diz Eurasia",
+    "d": "Ao WW, Christopher Garman, diretor-executivo da Eurasia Group, analisa conflito interno no STF e afirma que decisões têm motivação eleitoral",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/ministros-tomam-decisoes-de-olho-nas-repercussoes-eleitorais-diz-eurasia/",
+    "time": "2026-09-29T07:12:26.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Dólar a R$ 5,20: Câmbio deve sofrer forte volatilidade à espera de eleições",
+    "d": "Mercado aguarda luz sobre ajuste fiscal, enquanto exterior também pesa contra real; retrovisor mostra como período pré-eleitoral gera instabilidade nos negócios",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/dolar-a-r-5-20-cambio-deve-sofrer-forte-volatilidade-a-espera-de-eleicoes/",
+    "time": "2026-09-29T07:10:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ramon Dino fatura premiação milionária no Mr. Olympia; confira os valores",
+    "d": "Brasileiro alcançou a terceira colocação no tornei disputado em Las Vegas, nos Estados Unidos; competidoras brasileiras foram campeãs em duas categorias",
+    "link": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/ramon-dino-fatura-premiacao-milionaria-no-mr-olympia-confira-os-valores/",
+    "time": "2026-09-29T07:00:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em meio à crise, STF retoma hoje análise de plano estratégico até 2031",
+    "d": "Documento prevê fortalecimento da confiança pública, transparência e integridade; julgamento foi interrompido por pedido de vista de Alexandre de Moraes",
+    "link": "https://www.cnnbrasil.com.br/politica/em-meio-a-crise-stf-retoma-hoje-analise-de-plano-estrategico-ate-2031/",
+    "time": "2026-09-29T07:00:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Por que os alunos deixam de ler — e como a escola pode formar leitores",
+    "d": "O Brasil perdeu 6,7 milhões de leitores em quatro anos, e a queda também atinge os estudantes; entenda como a escola pode recuperar esse hábito",
+    "link": "https://www.cnnbrasil.com.br/educacao/por-que-os-alunos-deixam-de-ler-e-como-a-escola-pode-formar-leitores/",
+    "time": "2026-09-29T07:00:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Além da Série A, fim das bets pode impactar nas divisões inferiores",
+    "d": "Séries A, B e C contam com 32 equipes com patrocínio máster de casas de apostas esportivas",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/alem-da-seria-a-fim-das-bets-pode-impactar-nas-divisoes-inferiores/",
+    "time": "2026-09-29T07:00:10.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Lula diz que 'ninguém vai avacalhar com Nossa Senhora Aparecida' enquanto ele for presidente",
-    "d": "Presidente Luiz Inácio Lula da Silva (PT) durante ato de campanha em Belém (PA) Foto: Ricardo Stuckert. O presidente Luiz Inácio Lula da Silva (PT) disse nesta segunda-feira (28) que \"ninguém vai avacalhar com Nossa S…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/lula-diz-que-ninguem-vai-avacalhar-com-nossa-senhora-aparecida-enquanto-ele-for-presidente.ghtml",
-    "time": "2026-09-29T01:14:51.000Z"
+    "h": "Crise no STF se arrasta por quase um mês e chega ao TSE às vésperas do 1º turno",
+    "d": "A crise institucional instalada no Supremo Tribunal Federal (STF) está prestes a completar um mês produzindo desgastes internos em várias frentes. Agora, ela também corre o risco de ter impactos no Tribunal Superior E…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/29/crise-no-stf-se-arrasta-por-quase-um-mes-e-chega-ao-tse-as-vesperas-do-1o-turno.ghtml",
+    "time": "2026-09-29T07:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dá para desligar uma IA? Entenda por que um 'botão de emergência' pode não ser tão simples",
+    "d": "ChatGPT, DeepSeek, Claude, Mistral AI, Gemini, Copilot e Poe Solen Feyissa/Unsplash É possível parar uma inteligência artificial? Tecnicamente, uma IA pode ser interrompida, enquanto estiver em um ambiente controlado.…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/29/da-para-desligar-uma-ia-entenda-por-que-um-botao-de-emergencia-pode-nao-ser-tao-simples.ghtml",
+    "time": "2026-09-29T07:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eleições chegam à reta final com tensão entre STF e TSE; entenda",
+    "d": "Decisões sobre publicações de Nossa Senhora de Aparecida abriram divergência sobre os limites de atuação do Supremo em casos julgados pela Justiça Eleitoral",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-chegam-a-reta-final-com-tensao-entre-stf-e-tse-entenda/",
+    "time": "2026-09-29T06:50:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Rubio diz que EUA esperam que Cuba “escolha um caminho diferente”",
+    "d": "Secretário de Estado ameaça endurecer pressão sobre Havana caso governo não mude de rumo e cita eleições livres",
+    "link": "https://www.cnnbrasil.com.br/internacional/rubio-diz-que-eua-esperam-que-cuba-escolha-um-caminho-diferente/",
+    "time": "2026-09-29T06:44:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
+    "d": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
+    "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T06:06:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Política no trabalho: onde termina a conversa e começa o assédio eleitoral?",
+    "d": "Ministério Público do Trabalho alerta para casos de assédio eleitoral Discussões sobre candidatos e eleições chegam a escritórios, fábricas e grupos corporativos de WhatsApp. Mas lei proíbe que relações de trabalho se…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/politica-no-trabalho-onde-termina-a-conversa-e-comeca-o-assedio-eleitoral.ghtml",
+    "time": "2026-09-29T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Rights group accuses Vietnam of abducting Australian and Norwegian activists",
+    "d": "Vietnam says the men entered the country illegally and accused them of planning terrorist activities.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgy2wwvzlqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T05:31:37.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que a corrupção custa tanto? Entenda os efeitos além do dinheiro desviado",
+    "d": "Quanto custa a corrupção para a economia? Não há um cálculo preciso de quanto custa a corrupção. O prejuízo vai além do dinheiro desviado e inclui recursos que deixam de chegar a áreas como saúde, educação e infraestr…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/09/29/por-que-a-corrupcao-custa-tanto-entenda-os-efeitos-alem-do-dinheiro-desviado.ghtml",
+    "time": "2026-09-29T05:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+    "d": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T04:10:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "New York Times executive fatally shot by elderly in-laws, police say",
+    "d": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+    "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T04:06:43.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+    "d": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T03:50:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "O eleitor independente: quem é e o que pensa - O Assunto #1814",
+    "d": "Há uma parcela do eleitorado que não está fidelizada a nenhum campo político, candidato ou partido. O instituto de pesquisa Quaest estima que cerca de um terço dos eleitores pode mudar de lado de uma eleição para outr…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/29/o-eleitor-independente-quem-e-e-o-que-pensa-o-assunto-1814.ghtml",
+    "time": "2026-09-29T03:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest, 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião",
+    "d": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, Pesquisa Quaest divulgada nesta segunda-feira (28) mostra Lula (PT) com 39% das intenções de voto no 1º turno da eleição presi…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-1-turno-28-setembro-recortes.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Debates da Globo e afiliadas reúnem candidatos a governador dos 26 estados e do Distrito Federal; veja como assistir",
+    "d": "Debate entre candidatos a senador por MG no estúdio da EPTV, em Varginha Luciano Firmino Pilili, mascote das eleições Antonio Augusto/TSE A TV Globo e suas afiliadas promoverão, nesta terça-feira (29), debates entre o…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-debates-da-globo-e-afiliadas-reunem-candidatos-a-governador-dos-26-estados-e-do-distrito-federal-veja-como-assistir.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: Lula x Flávio tem vaivém entre mulheres, empate técnico no Sudeste e vantagens mantidas em setembro",
+    "d": "Saiba o resultado da pesquisa Quaest de 28 de setembro Pesquisa Quaest divulgada nesta segunda-feira (28) mostra Flávio Bolsonaro (PL) e Lula (PT) em empatados em eventual cenário de 2º turno. Os dois candidatos têm 4…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-lula-x-flavio2-turno-setembro.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TV Globo promove debate com candidatos ao governo de SP nesta terça; veja regras, quem participa e como assistir",
+    "d": "Tarcísio e Haddad Reprodução A TV Globo promove nesta terça-feira (29), logo após a novela ‘Quem Ama Cuida’, o debate com candidatos a governador de São Paulo. Participam do debate Tarcísio de Freitas (Republicanos) e…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/tv-globo-promove-debate-com-candidatos-ao-governo-de-sp-nesta-terca-veja-regras-quem-participa-e-como-assistir.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: Roupa, celular, números dos candidatos – o que pode e o que não pode no dia da eleição",
+    "d": "Urna eletrônica. Reprodução/TV Globo Para conseguir registrar o seu voto é preciso seguir alguns critérios estabelecidos pela Justiça Eleitoral. Além de ser proibido entrar na cabine portando celular ou qualquer equip…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-roupa-celular-numeros-dos-candidatos-o-que-pode-e-o-que-nao-pode-no-dia-da-eleicao.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: posso votar em deputado, senador ou governador de outro estado?",
+    "d": "Eleições 2026. Reprodução/EPTV Nas eleições de 2026, o eleitor não pode votar em candidatos a governador, senador ou deputado que disputem a eleição por outro estado. Para esses cargos, a escolha fica restrita aos can…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-posso-votar-em-deputado-senador-ou-governador-de-outro-estado.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: como os partidos recebem recursos?",
+    "d": "CONGRESSO: Entenda os fundos eleitoral e partidário Você sabia que, no Brasil, empresas não podem financiar campanhas? Para compensar essa mudança, foi criado o fundo eleitoral, o fundão, que nada mais é que uma cota…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/29/video-como-os-partidos-recebem-recursos.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: como baixar o e-Título no celular?",
+    "d": "Guia do Eleitor: Como baixar e usar o E-Título? Para votar no 1º turno das Eleições 2026, o eleitor pode usar o e-Título, aplicativo oficial da Justiça Eleitoral que funciona como a versão digital do título de eleitor…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-como-baixar-o-e-titulo-no-celular.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Óculos inteligentes são proibidos na cabine de votação, mas não são citados nas regras do TSE",
+    "d": "Eleitora vota em cabine de votação na Faculdade Anhanguera, em Campinas Thomaz Marostegan/g O uso de celular na cabine de votação é proibido, e quem leva o aparelho à seção eleitoral precisa deixá-lo em local indicado…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/29/oculos-inteligentes-proibidos-cabine-de-votacao.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Greve na Caixa: Tribunal do Trabalho julga paralisação nesta terça; o que pode acontecer?",
+    "d": "Greve da Caixa: veja como ficam pagamentos do Bolsa Família O Tribunal Superior do Trabalho (TST) analisa nesta terça-feira (29), às 14h30, o julgamento do dissídio coletivo envolvendo a Caixa Econômica Federal e seus…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/greve-na-caixa-tribunal-do-trabalho-julga-paralisacao-nesta-terca.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 52 milhões nesta terça-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.064 da Mega-Sena pode pagar um prêmio de R$ 52 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (28), em São Paulo. 📱Favorit…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/29/mega-sena-pode-pagar-r-52-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-09-29T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fux suspende decisão de Dino e retoma determinação de Mendonça sobre posts de Nossa Senhora Aparecida",
+    "d": "Fux suspende decisão de Dino que liberou posts sobre Nossa Senhora Aparecida O ministro do Supremo Tribunal Federal (STF) Luiz Fux suspendeu nesta segunda-feira (28) a decisão do ministro Flávio Dino que havia derruba…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/28/fux-suspende-decisao-de-dino-e-retoma-determinacao-de-mendonca-sobre-posts-de-nossa-senhora-aparecida.ghtml",
+    "time": "2026-09-29T02:58:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Executivo do New York Times é morto a tiros; sogros de 77 anos são suspeitos",
+    "d": "Documentos judiciais revelados pelo próprio New York Times registram disputas e acusações de violência entre McKinsey e sua esposa",
+    "link": "https://www.bbc.com/portuguese/articles/ck4glndgvw6do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T02:37:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Tennessee governor declines to halt execution of state's lone woman on death row",
+    "d": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
+    "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T02:36:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Lost songs from iconic Australian rockstar found in garage",
+    "d": "Divinyls frontwoman Chrissy Amphlett recorded the songs with Split Enz's Tim Finn in 1998.",
+    "link": "https://www.bbc.co.uk/news/articles/cmrl6ylzy4zxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T01:33:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Evicted Spanish pensioner can move back home, lawyer says",
+    "d": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T01:28:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Vietnamese government accused of abducting human rights activists",
+    "d": "Detained anti-human trafficking campaigners include Tran Hiep, a Vietnamese Australian, not heard from since 18 September Vietnamese authorities have detained three activists, including a Norwegian and an Australian,…",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/29/melbourne-human-rights-activist-tran-hiep-missing-cambodia-ntwnfb",
+    "time": "2026-09-29T01:16:28.000Z"
   },
   {
     "cat": "economia",
@@ -72,100 +352,20 @@
     "time": "2026-09-29T01:08:48.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Amigas de longa data, Paula Fernandes reencontra Shania Twain: “Referência”",
-    "d": "Cantora sertaneja esteve no interior paulista a convite da estrela canadense para relembrar histórias e falar sobre a paixão por cavalos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/amigas-de-longa-data-paula-fernandes-reencontra-shania-twain-referencia/",
-    "time": "2026-09-29T01:06:39.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US prosecutors reopen case of alleged gang rape at Cornell University",
+    "d": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-09-29T00:38:23.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Waack: Guerra no STF arrasta Tribunal Eleitoral para crise",
-    "d": "Nesse contexto que a ala de força dentro do Supremo aposta na reeleição do presidente Luiz Inácio Lula da Silva (PT) como fator promordial da própria sobrevivência",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/waack-guerra-no-stf-arrasta-tribunal-eleitoral-para-crise/",
-    "time": "2026-09-29T01:02:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA e Irã conversam com mediadores em nova tentativa de pôr fim à guerra",
-    "d": "Autoridades dos países confirmaram as conversas com intermediários; expectativa é de que novas negociações se concentrem na versão revisada da propsota de sete dias que Teerã apresentou na semana passada",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-conversam-com-mediadores-em-nova-tentativa-de-por-fim-a-guerra/",
-    "time": "2026-09-29T00:58:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians renova contrato do marroquino Zakaria Labyad; veja detalhes",
-    "d": "Meia se recupera de grave lesão que sofreu, e só deve voltar a atuar no início da temporada de 2027",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-renova-contrato-do-marroquino-zakaria-labyad-veja-detalhes/",
-    "time": "2026-09-29T00:58:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arthur Aguiar recebe ordem de despejo de imóvel de alto padrão em SP",
-    "d": "Empreendimento em São Paulo conseguiu ordem judicial contra o ex-BBB junto ao Tribunal de Justiça de São Paulo; segundo a decisão, o aluguel era de R$ 59,3 mil mensais",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/arthur-aguiar-recebe-ordem-de-despejo-de-imovel-de-alto-padrao-em-sp/",
-    "time": "2026-09-29T00:50:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Não tenho ninguém”: A luta de crianças migrantes para permanecer nos EUA",
-    "d": "Menores de idade comparecem a tribunais sozinhos, muitas vezes sem acesso a advogados, e sob o risco de deportação; alguns têm apenas dois anos de idade",
-    "link": "https://www.cnnbrasil.com.br/internacional/nao-tenho-ninguem-a-luta-de-criancas-migrantes-para-permanecer-nos-eua/",
-    "time": "2026-09-29T00:46:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Por que o The Town convidou Marilyn Manson? Saiba o que diz o festival",
-    "d": "Cantor se apresenta na Cidade da Música, no Autódromo de Interlagos, em São Paulo, no dia 4 setembro; Slipknot foi anunciado como atração principal da data",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/por-que-o-the-town-convidou-marilyn-manson-saiba-o-que-diz-o-festival/",
-    "time": "2026-09-29T00:43:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "2ª pesquisa Quaest para o Senado em MS: veja quem lidera, quem é o mais rejeitado e quantos eleitores ainda podem mudar o voto",
-    "d": "Quaest para o Senado em MS: Contar, 23%; Azambuja, 22%; Soraya, 10%; e Vander, 8% A 2ª pesquisa Quaest, divulgada na última sexta-feira (25), sobre as intenções de voto para senador de Mato Grosso do Sul, traçou um pa…",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/28/2a-pesquisa-quaest-para-o-senado-em-ms-veja-quem-lidera-quem-e-o-mais-rejeitado-e-quantos-eleitores-ainda-podem-mudar-o-voto.ghtml",
-    "time": "2026-09-29T00:31:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Posso considerar uma espécie de facada essa fake news em mim', diz Flávio Bolsonaro em podcast católico",
-    "d": "Candidato Flávio Bolsonaro (PL) participou de live católica nesta segunda-feira (28) Reprodução Candidato à Presidência da República pelo PL, Flávio Bolsonaro participou de um podcast católico na noite desta segunda-f…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/flavio-bolsonaro-podcast-catolico-nossa-senhora-aparecida.ghtml",
-    "time": "2026-09-29T00:21:01.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Governo adia reunião com clubes para discutir impactos da proibição das bets",
     "d": "O governo federal decidiu adiar a reunião com representantes de clubes de futebol para discutir os impactos da proibição das bets no país, prevista para esta terça-feira (29). Nova data ainda não foi marcada. Segundo…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/28/governo-adia-reuniao-com-clubes-para-discutir-impactos-da-proibicao-das-bets.ghtml",
     "time": "2026-09-29T00:15:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Renan Santos afirma que vai 'resolver problema do STF' e defende volta da prisão em 2ª instância",
-    "d": "Em agenda no ES, Renan Santos afirma que vai 'resolver problema do STF' Em agenda de campanha em Vitória na noite desta segunda-feira (28), o candidato à Presidência da República Renan Santos (Missão) defendeu uma ref…",
-    "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/28/renan-santos-afirma-que-vai-resolver-problema-do-stf-e-defende-volta-da-prisao-em-2a-instancia.ghtml",
-    "time": "2026-09-29T00:14:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: Veja a agenda dos candidatos ao governo de Goiás nesta segunda-feira (28)",
-    "d": "Veja a agenda dos candidatos ao governo de Goiás nesta segunda-feira (28) Os candidatos ao governo de Goiás cumpriram compromissos de campanha na capital e no interior do estado nesta segunda-feira (28). Entre as ativ…",
-    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-segunda-feira-28.ghtml",
-    "time": "2026-09-29T00:12:07.000Z"
   },
   {
     "cat": "economia",
@@ -176,36 +376,12 @@
     "time": "2026-09-29T00:04:14.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Candidatos ao governo de SP participam de debate na Globo; acompanhe também no g1",
-    "d": "Candidatos ao governo de SP participam de debate na Globo; acompanhe também no g1 Confirmaram presença os candidatos Tarcísio de Freitas e Fernando Haddad. A mediação será feita pelo jornalista Alan Severiano. Confirm…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/debate-globo-candidatos-governo-sp.ghtml",
-    "time": "2026-09-28T23:03:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Zanin determina que Anatel garanta acesso gratuito a serviços do TSE entre 72 horas antes e 24 horas após eleições",
-    "d": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), determinou que usuários de telefonia móvel com planos pré-pagos e franquia de dados esgotada tenham acesso gratuito a serviços da Justiça Eleitoral durant…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/zanin-determina-acesso-gratuito-a-servicos-do-tse-entre-72-horas-antes-e-24-horas-depois-das-eleicoes.ghtml",
-    "time": "2026-09-28T22:59:09.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "UE conclui que produções de frango e mel do Brasil atendem requisitos para exportações",
     "d": "Mel Pixabay/Pexels A Comissão Europeia publicou um relatório oficial, nesta segunda-feira (28), em que considera satisfatória a qualidade do sistema brasileiro de produção das cadeias de carne de aves e mel. Segundo o…",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/28/ue-conclui-que-producoes-de-frango-e-mel-do-brasil-atendem-requisitos-para-exportacoes.ghtml",
     "time": "2026-09-28T22:54:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
-    "d": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
-    "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T22:27:33.000Z"
   },
   {
     "cat": "economia",
@@ -216,60 +392,12 @@
     "time": "2026-09-28T22:00:05.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "French PM warns against escalation of school protests after 164 arrested",
-    "d": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
-    "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T21:46:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Kassio Nunes Marques reclama de 'indevida sobreposição de competência' do STF sobre o TSE",
-    "d": "Nunes Marques reclama de 'indevida sobreposição de competência' do STF sobre o TSE O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, reclamou ao presidente do Supremo Tribunal Federal (STF), Eds…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/28/kassio-nunes-marques-reclama-de-indevida-sobreposicao-de-competencia-do-stf-sobre-o-tse.ghtml",
-    "time": "2026-09-28T21:25:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Governo vai à Justiça contra 17 bets e pede R$ 1 bilhão de indenização por danos morais coletivos por vício de apostadores",
-    "d": "O governo brasileiro decidiu mover uma ação nesta segunda-feira (28) no valor de R$ 1 bilhão contra 17 operadoras de apostas online — as bets — para cobrar danos morais coletivos pelos efeitos causados nos apostadores…",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/28/governo-vai-a-justica-contra-17-bets-e-pede-r-1-bilhao-de-indenizacao-por-danos-morais-coletivos-por-vicio-de-apostadores.ghtml",
-    "time": "2026-09-28T21:15:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "New York Times executive fatally shot allegedly by elderly in-laws",
-    "d": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-    "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T20:50:03.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Após proibição, mais de 500 novas bets ilegais foram criadas, aponta levantamento",
     "d": "Lula diz que acabar com bets não traz 'prejuízo para o futebol' Um levantamento da plataforma Bet Legal mostra que 543 casas de apostas foram lançadas ilegalmente após a proibição das bets pelo governo federal na últi…",
     "link": "https://g1.globo.com/economia/noticia/2026/09/28/bets-ilegais-foram-criadas-aponta-levantamento.ghtml",
     "time": "2026-09-28T20:30:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Stand-up comic released after being convicted of insulting Erdoğan",
-    "d": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
-    "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T20:23:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "O que é a Rockbridge Network, a rede conservadora dos EUA que virou tema na eleição no Brasil",
-    "d": "O presidente dos EUA, Donald Trump, e seu vice, JD Vance, no palco da convenção nacional do Partido Republicano, em Dallas, no Texas, em 10 de setembro de 2026. Callaghan O'Hare/ Reuters A Rockbridge Network é um grup…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/09/28/o-que-e-a-rockbridge-network-a-rede-conservadora-dos-eua-que-virou-tema-na-eleicao-no-brasil.ghtml",
-    "time": "2026-09-28T20:19:11.000Z"
   },
   {
     "cat": "economia",
@@ -312,54 +440,6 @@
     "time": "2026-09-28T18:12:26.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "gov.br e site da Receita Federal têm instabilidade; usuários reclamam nas redes",
-    "d": "Conta Gov.br Reprodução/Globo Usuários foram às redes sociais nesta segunda-feira (28) relatar instabilidade no gov.br, no site da Receita Federal e no e-CAC, plataforma de serviços digitais do órgão. 📱Favorite o g1…",
-    "link": "https://g1.globo.com/empreendedorismo/noticia/2026/09/28/instabilidade-site-receita-federal-e-govbr.ghtml",
-    "time": "2026-09-28T18:09:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dívida pública federal cresce em agosto e atinge R$ 9,29 trilhões",
-    "d": "Tesouro Nacional Ministério da Fazenda/Reprodução A dívida pública federal cresceu 0,04% em agosto atingiu R$R$ 9,29 trilhões, informou nesta segunda-feira (28) a Secretaria do Tesouro Nacional. Em julho o endividamen…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/28/divida-publica-federal-cresce-em-agosto-e-atinge-r-929-trilhoes.ghtml",
-    "time": "2026-09-28T18:07:59.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Governo amplia fiscalização de preços de combustíveis e prevê multas de até R$ 500 milhões contra práticas abusivas",
-    "d": "O governo federal anunciou nesta segunda-feira (28) novas medidas para tentar conter aumentos abusivos nos preços dos combustíveis. As ações incluem mais fiscalizações em postos e distribuidoras e multas que podem che…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/28/governo-amplia-fiscalizacao-de-precos-de-combustiveis-e-preve-multas-de-ate-r-500-milhoes-contra-praticas-abusivas.ghtml",
-    "time": "2026-09-28T17:59:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-    "d": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-    "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T17:26:21.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Iran court upholds lashes sentence for singer who performed without hijab",
-    "d": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-    "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T17:15:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "ChatGPT caiu? Usuários relatam instabilidade nesta segunda-feira",
-    "d": "O logotipo da OpenAI é visto em um telefone celular em frente a uma tela de computador que exibe a tela inicial do ChatGPT AP/Michael Dwyer, Arquivo O ChatGPT apresenta instabilidade nesta segunda-feira (28), segundo…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/28/chatgpt-instabilidade-nesta-segunda-feira.ghtml",
-    "time": "2026-09-28T16:55:45.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Eleições presidenciais: o que as pesquisas diziam sobre Lula x Bolsonaro a uma semana da eleição em 2022 e 2018 — e o que dizem em 2026",
@@ -369,75 +449,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Four bodies found after avalanche hits Himalayan climbing group",
-    "d": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
-    "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T16:13:44.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "DRC politician beaten to death after radio appearance about Ebola outbreak",
     "d": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday…",
     "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
     "time": "2026-09-28T15:54:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nigerian attempts to break world record by dancing non-stop for seven days",
-    "d": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T15:39:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "d": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T14:57:31.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Entidades que representam bets pedem ao STF suspensão da MP de Lula que proíbe apostas online",
-    "d": "Empresas de bets pedem para STF derrubar suspensão A Associação Nacional de Jogos e Loterias (ANJL) e o Instituto Brasileiro de Jogo Responsável (IBJR) protocolaram nesta segunda-feira (28) um pedido, no Supremo Tribu…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/28/entidades-que-representam-bets-pedem-ao-stf-suspensao-da-mp-de-lula-que-proibe-apostas-online.ghtml",
-    "time": "2026-09-28T13:55:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como fazendeira ajudou polícia a prender suspeitos de ataque a base militar no Reino Unido",
-    "d": "Fazendeira telefonou para a polícia após observar 'um grande grupo de homens encapuzados e mascarados' perto de base aérea usada por aviões americanos para ataques contra o Irã.",
-    "link": "https://www.bbc.com/portuguese/articles/cq39m83nj298o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T13:33:56.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Petróleo sobe quase 3% após Trump rejeitar proposta de cessar-fogo do Irã",
-    "d": "Petróleo acima de US$ 100: por que o Oriente Médio vive uma “tempestade perfeita”? Os preços do petróleo subiram cerca de 3% na manhã desta segunda-feira (28) depois que o presidente dos Estados Unidos, Donald Trump,…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/28/preco-do-petroleo-sobe-quase-3percent-apos-trump-rejeitar-proposta-do-ira.ghtml",
-    "time": "2026-09-28T13:16:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Plan for controversial Sydney data centre scrapped after push-back",
-    "d": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
-    "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T12:47:09.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "BBC News Brasil",
-    "h": "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império",
-    "d": "Bilionário Aliko Dangote lançou a maior oferta pública inicial da história da África, ao listar sua refinaria de petróleo na bolsa de valores do país.",
-    "link": "https://www.bbc.com/portuguese/articles/c893vzw726x9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-28T11:20:25.000Z"
   },
   {
     "cat": "economia",
@@ -510,14 +526,6 @@
     "d": "Após cancelamentos, por ausência dos candidatos que lideram as pesquisas, só há um debate presidencial previsto para o primeiro turno das eleições de 2026, mas nem todos os candidatos têm presença garantida nos encont…",
     "link": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-27T22:27:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Inside Yemen's front-line city as Houthis battle for control",
-    "d": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-    "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-27T21:16:31.000Z"
   },
   {
     "cat": "internacional",
