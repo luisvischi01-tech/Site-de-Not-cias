@@ -1,59 +1,331 @@
 [
   {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Bolsa Família de outubro já tem pagamento marcado; veja datas",
-    "d": "Valor mínimo do benefício passou por ajustes de acordo com aumento de preços no país; famílias agora recebem R$ 691",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/bolsa-familia-de-outubro-ja-tem-pagamento-marcado-veja-datas/",
-    "time": "2026-10-01T13:14:23.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Christa Pike is in 'critical condition' after failed execution, her lawyers say",
+    "d": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T19:04:31.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "BBC News Brasil",
+    "h": "Trump diz que está acompanhando as eleições presidenciais no Brasil 'muito de perto'",
+    "d": "'O Brasil é um país muito importante. É um ótimo país. As pessoas do Brasil são fantásticas. É uma eleição muito importante', disse o presidente americano.",
+    "link": "https://www.bbc.com/portuguese/articles/cwm2q2yd1jp8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T19:00:55.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eleições 2026: Saiba a função de um presidente da República",
-    "d": "Brasileiros decidirão neste mês quem será o chefe do Executivo pelos próximos quatro anos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-saiba-a-funcao-de-um-presidente-da-republica/",
-    "time": "2026-10-01T13:14:19.000Z"
+    "src": "BBC News Brasil",
+    "h": "Por que astrônomos fabricam estrelas falsas com lasers gigantes?",
+    "d": "Pela primeira vez na história, o Telescópio Muito Grande, no Chile, está operando com até quatro lasers disparados para a atmosfera. Mas por que eles são necessários?",
+    "link": "https://www.bbc.com/portuguese/articles/cm4gdg5n8e1vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T18:56:21.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-    "d": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T13:13:33.000Z"
+    "h": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+    "d": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+    "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T18:48:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Globo realiza debate com candidatos à Presidência nesta quinta-feira (1º)",
+    "d": "Globo realiza debate com candidatos à Presidência nesta quinta-feira (1º) Debate terá mediação de César Tralli e será transmitido ao vivo logo após o Jornal Nacional. Também será possível assistir simultaneamente no g…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-da-globo-eleicao-presidencial.ghtml",
+    "time": "2026-10-01T18:44:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fachin rejeita pedido para afastar Dino de processos relacionados a Flávio, Lula e eleições 2026",
+    "d": "O presidente do Supremo Tribunal Federal, Edson Fachin, rejeitou o pedido da defesa do senador e candidato à Presidência, Flávio Bolsonaro (PL-RJ), para afastar o ministro Flávio Dino de processos relacionados ao pres…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/01/fachin-rejeita-pedido-para-afastar-dino-de-processos-relacionados-a-flavio-lula-e-eleicoes-2026.ghtml",
+    "time": "2026-10-01T18:41:03.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+    "d": "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’, as nation prepares to go to polls Brazil’s attorney general has said foreign meddling in his country’s institutions and democracy “ca…",
+    "link": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+    "time": "2026-10-01T18:34:10.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Famosos marcam presença na première de “Amor da Minha Vida”; veja fotos",
-    "d": "Bruna Marquezine e Sérgio Malheiros protagonizam a série; segunda temporada estreia em 9 de outubro",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-marcam-presenca-na-premiere-de-amor-da-minha-vida-veja-fotos/",
-    "time": "2026-10-01T13:10:39.000Z"
+    "h": "Entenda por que a inteligência artificial consome tanta energia",
+    "d": "Data centers, chips e treinamento aumentam o gasto elétrico",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/entenda-por-que-a-inteligencia-artificial-consome-tanta-energia/",
+    "time": "2026-10-01T18:30:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Debate na Globo: que horas começa, quais as regras e o que esperar",
+    "d": "Tradicional debate da TV Globo será realizado na noite desta quinta-feira (01/10), mas sem a presença de Luiz Inácio Lula da Silva (PT).",
+    "link": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T18:30:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "AGU aciona PF e PGR para investigar suposto financiamento do governo dos EUA a ações contra o Supremo",
+    "d": "Sede do Supremo Tribunal Federal, em Brasília Reprodução/TV Globo A Advocacia-Geral da União (AGU) protocolou nesta quinta (1), junto à Polícia Federal e ao Procurador-Geral da República, Paulo Gonet, um pedido de inv…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/01/agu-pf-pgr-guardian-financiamento-stf.ghtml",
+    "time": "2026-10-01T18:28:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "No último dia de campanha na TV, Lula usa religião e bets contra Flávio Bolsonaro; candidato do PL fala em mudar 'velho sistema'",
+    "d": "Lula e Flávio Bolsonaro no horário eleitoral desta quinta-feira, 1º de outubro Reprodução No último dia de horário eleitoral gratuito, o presidente Lula (PT) levou à TV o caso de Nossa Senhora Aparecida e a proibição…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/ultimo-dia-horario-eleitoral-lula-flavio.ghtml",
+    "time": "2026-10-01T18:26:06.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Geopolítica amplia pressão comercial no agro e requer estratégia do Brasil",
+    "d": "Painel do GAFFFF 2026 debateu rastreabilidade, novas exigências ambientais e sanitárias e o uso das exportações brasileiras como instrumento de negociação internacional",
+    "link": "https://www.cnnbrasil.com.br/agro/geopolitica-amplia-pressao-comercial-no-agro-e-requer-estrategia-do-brasil/",
+    "time": "2026-10-01T18:24:28.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "É possível sobreviver à injeção letal? Entenda caso de mulher no corredor da morte dos EUA",
-    "d": "Chista Gail Pike sobreviveu após receber duas doses de pentobarbital em prisão na cidade de Nashville, no Tennessee; casos como de Pike podem ocorrer por conta de falhas técnicas ou até mesmo resistência biológica",
-    "link": "https://www.cnnbrasil.com.br/saude/e-possivel-sobreviver-a-injecao-letal-entenda-caso-de-mulher-no-corredor-da-morte-dos-eua/",
-    "time": "2026-10-01T13:08:37.000Z"
+    "h": "“TV Globinho”: veja as primeiras fotos da edição especial do programa",
+    "d": "Exibição inédita de antigo programa infantil será exibida durante a Maratona Esperança, no dia 10 de outubro",
+    "link": "https://www.cnnbrasil.com.br/pop/tv/tv-globinho-veja-as-primeiras-fotos-da-edicao-especial-do-programa/",
+    "time": "2026-10-01T18:23:16.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Fires break out at French schools as students protest nationwide",
+    "d": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T18:22:29.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Paul McCartney diz que teve colapso após fim do Beatles: “Assustador”",
-    "d": "Músico contou como lidou com o fim da banda e o início da carreira solo",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/paul-mccartney-diz-que-teve-colapso-apos-fim-do-beatles-assustador/",
-    "time": "2026-10-01T13:06:28.000Z"
+    "h": "Sia vende metade do catálogo musical por R$ 900 milhões",
+    "d": "Venda foi feita para empresa de entretenimento e investimentos de Björn Ulvaeus, do ABBA",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/sia-vende-metade-do-catalogo-musical-por-r-900-milhoes/",
+    "time": "2026-10-01T18:19:11.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "USP perde primeira colocação na América Latina em ranking internacional",
-    "d": "No recorte de América Latina e Caribe do QS World University Rankings, universidade paulistana ficou atrás da Pontifícia Universidade Católica do Chile",
-    "link": "https://www.cnnbrasil.com.br/educacao/usp-perde-primeira-colocacao-na-america-latina-em-ranking-internacional/",
-    "time": "2026-10-01T13:05:21.000Z"
+    "h": "Área técnica da Aneel propõe cortar R$ 804 milhões em repasses ao Proinfa",
+    "d": "Segundo documento, as distribuidoras já recolheram R$ 135 milhões acima da quota anual revisada; dispensa das duas parcelas restantes depende de decisão colegiada da agência reguladora antes de 10 de outubro",
+    "link": "https://www.cnnbrasil.com.br/infra/area-tecnica-da-aneel-propoe-cortar-r-804-milhoes-em-repasses-ao-proinfa/",
+    "time": "2026-10-01T18:13:30.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+    "d": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T18:09:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jorge Jesus sobre atrito com Cristiano Ronaldo: “Um assunto encerrado”",
+    "d": "Técnico da seleção portuguesa evita aprofundar o assunto e afirma ter a “consciência tranquila” antes do duelo contra a Dinamarca pela Nations League",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/jorge-jesus-sobre-atrito-com-cristiano-ronaldo-um-assunto-encerrado/",
+    "time": "2026-10-01T18:08:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Adão e Eva do algoritmo: quem eram as pessoas comuns usadas em um experimento militar nos anos 90 para ensinar máquinas a reconhecer rostos",
+    "d": "Funcionários públicos dos EUA posaram para fotos da DARPA sem prever que seus dados biométricos moldariam a tecnologia de reconhecimento facial moderna",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/adao-e-eva-do-algoritmo-quem-eram-as-pessoas-comuns-usadas-em-um-experimento-militar-nos-anos-90-para-ensinar-maquinas-a-reconhecer-rostos/",
+    "time": "2026-10-01T18:06:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda por que Haaland acionou companhia aérea por uso indevido de imagem",
+    "d": "Companhia aérea Norwegian contesta processo e classifica como incompreensível a ação judicial motivada por brincadeira na internet",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/entenda-por-que-haaland-acionou-companhia-aerea-por-uso-indevido-de-imagem/",
+    "time": "2026-10-01T18:01:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após depoimento de Vorcaro, PF prevê fim de inquérito da “Turma” este mês",
+    "d": "Daniel Vorcaro e o pai prestaram depoimento à PF na quarta-feira (30); investigação sobre grupo aponta repasse de informações sigilosas",
+    "link": "https://www.cnnbrasil.com.br/politica/apos-depoimento-de-vorcaro-pf-preve-fim-de-inquerito-da-turma-este-mes/",
+    "time": "2026-10-01T18:00:18.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+    "d": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US g…",
+    "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+    "time": "2026-10-01T17:56:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mistério, fantasia e romance: séries asiáticas para ver no mês de outubro",
+    "d": "Entre mistérios, fantasia e histórias sobrenaturais, a seleção reúne títulos já conhecidos pelo público e novidades que chegam ao streaming neste mês",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/misterio-fantasia-e-romance-series-asiaticas-para-ver-no-mes-de-outubro/",
+    "time": "2026-10-01T17:55:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vasco foca em duelo contra o Z4 antes de decisões na temporada",
+    "d": "Cruzmaltino enfrenta Botafogo na Série A, buscando estabilidade no Brasileiro para encarar Copa do Brasil e Sul-Americana",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-foca-em-duelo-contra-o-z4-antes-de-decisoes-na-temporada/",
+    "time": "2026-10-01T17:52:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alemanha x Sérvia: escalações e onde assistir ao jogo da Nations League",
+    "d": "Seleções vão a campo nesta quinta-feira (1°), às 15h45, em confronto válido pela 3ª rodada da competição europeia",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/alemanha-x-servia-escalacoes-e-onde-assistir-ao-jogo-da-nations-league/",
+    "time": "2026-10-01T17:46:35.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+    "d": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+    "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T17:32:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "What happened in the failed execution of Christa Pike - and what next?",
+    "d": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+    "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T17:31:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Jaecoo 5 mira sucesso do Omoda 5 e quer desbancar Hyundai Creta e VW T-Cross; será que consegue?",
+    "d": "Jaecoo 5 anda bem e é econômico, mas escorrega em alguns detalhes Mostrando que há vida além de BYD e GWM entre os carros chineses, a Omoda&Jaecoo tenta repetir seu maior acerto de portfólio. O Omoda 5 é hoje o tercei…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/01/jaecoo-5-mira-sucesso-do-omoda-5-e-quer-desbancar-hyundai-creta-e-vw-t-cross-sera-que-consegue.ghtml",
+    "time": "2026-10-01T17:03:18.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "59% dos brasileiros querem parar de trabalhar até os 60 anos, mas só 28% acham que vão conseguir, diz pesquisa",
+    "d": "Dia do Idoso: atividade física ajuda a envelhecer com mais qualidade de vida Aos 60 anos, uma pessoa já é considerada idosa pela legislação brasileira. Mas, para boa parte dos trabalhadores, chegar a essa idade não si…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/59percent-dos-brasileiros-querem-parar-de-trabalhar-ate-os-60-anos-mas-so-28percent-acham-que-vao-conseguir-diz-pesquisa.ghtml",
+    "time": "2026-10-01T16:37:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Algeria introduces death penalty for arsonists after deadly wildfires",
+    "d": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
+    "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T16:31:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Debate da Globo sem Lula: o que pode ajudar ou prejudicar Flávio Bolsonaro?",
+    "d": "Especialistas avaliam que Flávio Bolsonaro é o principal beneficiado pela ausência de Lula, mas alertam que o senador também ficará mais exposto aos ataques dos demais candidatos.",
+    "link": "https://www.bbc.com/portuguese/articles/c6lyr7002jx4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T16:17:14.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Polícia espanhola prende adolescente de 16 anos suspeito de liderar grupo de hackers em investigação na Europa",
+    "d": "Rússia fala em ataque hacker ao sistema eleitoral em meio a votações para o Congresso A polícia da Espanha informou nesta quinta-feira (1º) que prendeu um adolescente de 16 anos suspeito de ser o principal responsável…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/01/policia-espanhola-prende-adolescente-de-16-anos-suspeito-de-liderar-grupo-de-hackers-em-investigacao-na-europa.ghtml",
+    "time": "2026-10-01T16:05:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Agentes de IA tentam invadir site do governo do Canadá; caso acende alerta após ataque na Austrália",
+    "d": "Uso da inteligência artificial exige cuidados no trabalho Uma empresa de pesquisa em inteligência artificial (IA) afirmou na quarta-feira (30) que agentes de IA tentaram invadir um site do governo do Canadá. A empresa…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/01/agentes-de-ia-tentam-invadir-site-do-governo-do-canada-caso-acende-alerta-apos-ataque-na-australia.ghtml",
+    "time": "2026-10-01T15:55:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula assina medida que garante benefício do INSS por até 6 meses a vítimas de violência doméstica",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (1º) um parecer que garante o afastamento remunerado do trabalho, por até seis meses, a mulheres vítimas de violência doméstica que tenham o afast…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/01/lula-assina-medida-que-que-concede-beneficio-do-inss-a-mulheres-vitimas-de-violencia-domestica.ghtml",
+    "time": "2026-10-01T15:27:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Moraes aplica multa de R$ 5 mil a advogado de réu do 8/1 por uso de prompt oculto de IA para tentar manipular sistema do STF",
+    "d": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), aplicou uma multa de R$ 5 mil ao advogado Marcelo Henrique Martins, que defende um dos réus investigados pelos atos golpistas do 8 de Janeiro de 2023.…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/01/moraes-aplica-multa-de-r-5-mil-a-advogado-de-reu-do-81-por-uso-de-prompt-oculto-de-ia-para-manipular-sistema-do-stf.ghtml",
+    "time": "2026-10-01T14:44:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Equipe de Lula já debate estratégia para segundo turno",
+    "d": "A equipe do presidente Luiz Inácio Lula da Silva (PT) já começou a discutir a estratégia para um eventual segundo turno da eleição presidencial. Segundo conselheiros do petista, a avaliação interna é que a disputa irá…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/01/equipe-de-lula-ja-debate-estrategia-para-segundo-turno.ghtml",
+    "time": "2026-10-01T14:14:33.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Petrobras aumenta preço do querosene de aviação em outubro",
+    "d": "Sede da Petrobras, no Rio de Janeiro. Fernando Frazão/Agência Brasil A Petrobras aumentou, a partir desta quinta-feira (1º), os preços de venda do querosene de aviação (QAV) para as distribuidoras, segundo dados divul…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/petrobras-querosene.ghtml",
+    "time": "2026-10-01T14:13:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Exportações agrícolas da Argentina à União Europeia crescem 21% após acordo Mercosul-UE",
+    "d": "Javier Milei, Luis Lacalle Pou, Ursula von der Leyen, Luiz Inacio Lula da Silva e Santiago Pena durante cúpula do Mercosul, no qual o acordo com a União Europeia foi fechado Mariana Greif/Reuters As exportações agroin…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/exportacoes-agricolas-da-argentina-para-a-uniao-europeia-disparam-apos-acordo-comercial-com-o-mercosul.ghtml",
+    "time": "2026-10-01T14:08:49.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Brasil bate recorde de produção de petróleo pelo 3º mês seguido em agosto",
+    "d": "Petróleo é termômetro que mede a temperatura das tensões globais Jornal Nacional/ Reprodução A produção de petróleo do Brasil atingiu o recorde de 4,615 milhões de barris por dia (bpd) em agosto, alta de 2,6% em relaç…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/producao-de-petroleo-brasil.ghtml",
+    "time": "2026-10-01T14:07:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+    "d": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T14:05:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Da pergunta sobre Deus a FHC à cadeirada de Datena: 5 debates que marcaram as eleições brasileiras",
+    "d": "Analista político elenca episódios de 1985, 1989, 2022 e 2024 que ajudam a entender como os programas passaram da TV para a lógica dos memes e dos cortes.",
+    "link": "https://www.bbc.com/portuguese/articles/cqe9ekkzdl89o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T13:02:32.000Z"
   },
   {
     "cat": "brasil",
@@ -65,89 +337,17 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "ONS restringe cortes de energia durante período de votação; entenda",
-    "d": "Operador Nacional do Sistema Elétrico elabora plano especial com medidas extras de segurança para garantir fornecimento durante votação",
-    "link": "https://www.cnnbrasil.com.br/infra/ons-restringe-cortes-de-energia-durante-periodo-de-votacao-entenda/",
-    "time": "2026-10-01T12:59:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lynas planeja planta de refino de terras raras em MG, diz ministro à CNN",
-    "d": "Alexandre Silveira diz à CNN que unidade de separação de óxidos na região de Poços de Caldas pode se tornar a maior planta do setor fora da China; compra da Meteoric é vista com bons olhos",
-    "link": "https://www.cnnbrasil.com.br/infra/lynas-planeja-planta-de-refino-de-terras-raras-em-mg-diz-ministro-a-cnn/",
-    "time": "2026-10-01T12:58:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "El Niño “muito forte” deve trazer seca e chuva ao Brasil já em outubro",
-    "d": "Painel do Inmet aponta 95% de chance de intensificação entre outubro e dezembro e alerta para seca e risco de fogo no centro-norte, enquanto Sul deve ter chuva acima da média",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/el-nino-muito-forte-deve-trazer-seca-e-chuva-ao-brasil-ja-em-outubro/",
-    "time": "2026-10-01T12:57:20.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Eleições: o que as pesquisas diziam sobre Lula x Bolsonaro no dia do debate da Globo em 2022 e 2018 — e o que dizem em 2026",
+    "h": "O que as pesquisas diziam sobre Lula x Bolsonaro no dia do debate da Globo em 2022 e 2018 — e o que dizem em 2026",
     "d": "Segundo Agregador de Pesquisas da BBC News Brasil, petista tem 41% das intenções de votos, enquanto o filho do ex-presidente Jair Bolsonaro soma 38%.",
     "link": "https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T12:56:45.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "What happened in failed execution of Christa Pike - and what next?",
-    "d": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-    "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T12:51:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sem Cristiano Ronaldo, Jorge Jesus escala novo camisa 7 em Portugal",
-    "d": "Seleção lusa enfrenta Dinamarca nesta quinta-feira sem seu principal jogador após atrito com técnico",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sem-cristiano-ronaldo-jorge-jesus-escala-novo-camisa-7-em-portugal/",
-    "time": "2026-10-01T12:49:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sem veias após anos de vício, preso deu instruções aos executores para conseguir receber injeção letal e cumprir a pena de morte",
-    "d": "Randy Lynn Wolls, condenado por um homicídio, tinha veias muito degradadas por anos de aplicação de drogas injetáveis; dificuldade de acesso a veias é uma dos principais causas de execuções falhas",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/sem-veias-apos-anos-de-vicio-preso-deu-instrucoes-aos-executores-para-conseguir-receber-injecao-letal-e-cumprir-a-pena-de-morte/",
-    "time": "2026-10-01T12:40:53.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "UK 30-year borrowing costs hit 6%, highest since 1998, as government bond sell-off intensifies – business live",
-    "d": "Global bond rout kicks off again, with US 10-year Treasury yields hitting highest since 2002 Worryingly for Paris, the difference between French and German borrowing costs has widened to a 14-year high this morning. T…",
-    "link": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
-    "time": "2026-10-01T12:39:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Explosions heard in Ethiopia's capital after drone flights banned",
-    "d": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T12:38:55.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Dólar inicia dia em alta acompanhando guerra no Oriente Médio",
-    "d": "Na quarta-feira (30), a moeda à vista encerrou o dia em queda de 0,76%, aos R$ 5,1735",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-1-outubro-2026/",
-    "time": "2026-10-01T12:36:07.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
-    "h": "Celulares em presídios: operação apreende 598 aparelhos em uma semana",
-    "d": "Uma operação nacional em presídios apreendeu 598 celulares na última semana, segundo informou o Ministério da Justiça e Segurança Pública nesta quinta-feira (1º). A ação foi realizada em mais de 100 estabelecimentos p…",
+    "h": "Celulares em presídios: operação apreendeu quase 10 mil aparelhos nos últimos três anos",
+    "d": "Quase 10 mil celulares foram apreendidos dentro de presídios de todo o país ao longo dos últimos três anos por operações de varredura em celas coordenadas pelo Ministério da Justiça e Segurança Pública. A chamada Oper…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/01/policiais-apreendem-598-celulares-em-presidios-em-uma-semana-acao-integra-esforco-contra-o-crime-organizado.ghtml",
     "time": "2026-10-01T12:24:12.000Z"
   },
@@ -170,8 +370,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Dólar abre em alta, de olho nos preços do petróleo e cenário político brasileiro",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quinta-feira (1º) em alta, com um avanço de 0,24% perto das 9h10, cotado a R$ 5,1862. Já as negociações do Ibovespa, principal índice da bo…",
+    "h": "Dólar opera em alta, de olho nos preços do petróleo e cenário político brasileiro; Ibovespa oscila",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quinta-feira (1º), com um avanço de 0,90% perto das 15h30, cotado a R$ 5,2207. Já o Ibovespa, principal índice da bolsa brasileira, tinha vo…",
     "link": "https://g1.globo.com/economia/noticia/2026/10/01/dolar-ibovespa.ghtml",
     "time": "2026-10-01T12:00:12.000Z"
   },
@@ -194,14 +394,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
-    "d": "Victims often have to navigate both university and local law enforcement processes to find justice.",
-    "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T11:40:35.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
     "d": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
     "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
@@ -214,22 +406,6 @@
     "d": "Presidente do STF, ministro Edson Fachin em sessão plenária extraordinária do STF - 15/09/2026 Rosinei Coutinho/STF Fontes da Polícia Federal ouvidas pelo blog afirmam que a corporação deve levar ao ministro Edson Fac…",
     "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/10/01/pf-fachin-master-ministros.ghtml",
     "time": "2026-10-01T11:28:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-    "d": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T11:26:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Debate na Globo: que horas começa, quais as regras e o que esperar",
-    "d": "Tradicional debate da TV Globo será realizado na noite desta quinta-feira (01/10), mas sem a presença de Luiz Inácio Lula da Silva (PT).",
-    "link": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T11:19:39.000Z"
   },
   {
     "cat": "economia",
@@ -258,34 +434,10 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "O que se sabe sobre suposto estupro coletivo de estudante em uma fraternidade da Universidade Cornell",
-    "d": "Mulher, que tinha 20 anos na época, alega que foi drogada e estuprada em uma casa de fraternidade no campus em 2024 - e que a universidade não a protegeu nem puniu adequadamente os homens envolvidos.",
-    "link": "https://www.bbc.com/portuguese/articles/cv62k28xpnj8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T10:45:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US death row inmate survives execution attempt after two lethal injections",
-    "d": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T09:59:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
     "h": "Israel diz que é cedo para dizer se Irã está envolvido em ataque a facadas contra piloto em avião",
     "d": "Primeiro-ministro israelense, Benjamin Netanyahu, disse que piloto responsável pelo ataque pretendia derrubar avião, em que grande maioria dos passageiros era israelense. Ele foi preso e está sendo interrogado.",
     "link": "https://www.bbc.com/portuguese/articles/ck1e5w1503jjo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T09:58:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Quem é o piloto esfaqueado em voo para Israel e elogiado por ato heroico",
-    "d": "Mesmo gravemente ferido, o piloto indiano Smit Machchhar lutou com agressor e conseguiu abrir porta da cabine, permitindo que a tripulação intercedesse.",
-    "link": "https://www.bbc.com/portuguese/articles/c6dj4j9v4907o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T09:50:32.000Z"
   },
   {
     "cat": "brasil",
@@ -306,7 +458,7 @@
   {
     "cat": "comercio",
     "src": "BBC News Brasil",
-    "h": "Como votam evangélicos e católicos nesta eleição?",
+    "h": "Católicos mais com Lula, evangélicos mais com Flávio: o que as pesquisas mostram sobre a batalha do voto e as religiões",
     "d": "A preferência por Lula e Flávio Bolsonaro segue um padrão visto em 2022, mas com diferenças importantes. Pesquisadores explicam o que mudou e quais fatores podem ser decisivos no fim da corrida eleitoral.",
     "link": "https://www.bbc.com/portuguese/articles/cmx2z70jq94wo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T08:50:15.000Z"
@@ -314,7 +466,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Mulher que seria executada no Tennessee sobrevive a duas injeções letais",
+    "h": "Christa Pike, a americana que seria executada com pena de morte, sobrevive a duas injeções letais",
     "d": "Seu advogado afirma que ela está recebendo 'medidas para salvar sua vida' no hospital após a administração de duas seringas de pentobarbital.",
     "link": "https://www.bbc.com/portuguese/articles/cmqxvxez1exqo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T08:03:56.000Z"
@@ -336,44 +488,12 @@
     "time": "2026-10-01T08:00:00.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "PIX na Europa? Conexão pode baratear transferências e reduzir envio a segundos",
-    "d": "Polícia mapeou valor do prejuízo após analisar transferências via PIX do suspeito Bruno Peres/Agência Brasil/Arquivo Os pagamentos transfronteiriços são um desafio que o Banco Central Europeu (BCE) quer resolver conec…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/01/pix-na-europa-conexao-pode-baratear-transferencias-e-reduzir-envio-a-segundos.ghtml",
-    "time": "2026-10-01T08:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
     "d": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday The lunchtime crowds drifted slowly back to their office…",
     "link": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
     "time": "2026-10-01T06:04:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Casos de assédio eleitoral no trabalho disparam antes da eleição; veja como denunciar",
-    "d": "Entenda o que é assédio eleitoral no trabalho e como denunciar Thiago Gadelha/SVM A três dias do primeiro turno das eleições de 2026, o Ministério Público do Trabalho (MPT) recebeu 738 denúncias de assédio eleitoral n…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/casos-de-assedio-eleitoral-no-trabalho-disparam-antes-da-eleicao-veja-como-denunciar.ghtml",
-    "time": "2026-10-01T06:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Horário eleitoral do 1º turno das Eleições 2026 termina hoje; entenda",
-    "d": "Lula, Flávio, Cury e Caiado no horário eleitoral de TV Reprodução O horário eleitoral gratuito das Eleições 2026 no rádio e na televisão termina nesta quinta-feira (1º), três dias antes do primeiro turno, marcado para…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/horario-eleitoral-do-1oturno-das-eleicoes-2026-termina-hoje-entenda.ghtml",
-    "time": "2026-10-01T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Inteligência artificial muda planos de carreira dos jovens; veja profissões que ganham espaço",
-    "d": "Profissões técnicas vêm ganhando espaço como opção de carreira Pexels O modelo tradicional de carreira está mudando, e a Geração Z está repensando a forma de planejar o próprio futuro. A empresa de tecnologia Thumbtac…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/inteligencia-artificial-muda-planos-de-carreira-dos-jovens-veja-profissoes-que-ganham-espaco.ghtml",
-    "time": "2026-10-01T06:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -384,116 +504,12 @@
     "time": "2026-10-01T05:24:10.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "A fotografia das pesquisas eleitorais às vésperas do 1º turno - O Assunto #1816",
-    "d": "A linha do tempo das pesquisas de intenção de voto já há algum tempo apresenta um cenário estável: Lula lidera no 1º turno, com vantagem estreita para Flávio Bolsonaro, enquanto os demais candidatos seguem com um dígi…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/01/a-fotografia-das-pesquisas-eleitorais-as-vesperas-do-1o-turno-o-assunto-1816.ghtml",
-    "time": "2026-10-01T03:30:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha divulga última pesquisa antes do debate da Globo nesta quinta (1º)",
-    "d": "Entenda por que pesquisa eleitoral é 'fotografia do momento' O Datafolha divulga nesta quinta-feira (1º), no início da noite, uma nova rodada de pesquisas eleitorais com os números da corrida presidencial. Um pouco an…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/datafolha-divulga-quinta-1o-de-outubro.ghtml",
-    "time": "2026-10-01T03:00:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Violência política: pesquisa registra período pré-eleitoral mais violento dos últimos 10 anos",
-    "d": "Uma pesquisa das organizações de direitos humanos Terra de Direitos e Justiça Global registrou o período pré-eleitoral mais violento dos últimos 10 anos no Brasil. Os números demonstram que os ataques por questões pol…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/violencia-politica-pesquisa-registra-periodo-pre-eleitoral-mais-violento-dos-ultimos-10-anos.ghtml",
-    "time": "2026-10-01T03:00:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Homens, brancos e candidatos à reeleição são perfil médio de quem mais recebe recursos de campanha dos partidos",
-    "d": "Homens, brancos e candidatos que tentam renovar seus mandatos predominam entre os favorecidos com os maiores repasses feitos pelos partidos para candidatos a deputado federal nas eleições de 2026. Os dados são de um l…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/perfil-candidatos-recursos-campanha-partidos.ghtml",
-    "time": "2026-10-01T03:00:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bolsa Família 2026: veja calendário de pagamentos em outubro, primeiro mês após reajuste",
-    "d": "Governo federal anuncia reajuste de 15% no Bolsa Família a 17 dias das eleições A Caixa Econômica Federal inicia os pagamentos de outubro do Bolsa Família no dia 19. Os primeiros a receber serão os beneficiários com N…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/01/bolsa-familia-2026-veja-calendario-de-pagamentos-em-outubro.ghtml",
-    "time": "2026-10-01T03:00:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Pagamento do INSS de outubro: veja calendário e datas",
-    "d": "Simulador do INSS mostra valores e tempo de contribuição pelas novas regras de aposentados O pagamento do INSS de outubro de 2026 começa no dia 26 de outubro para os beneficiários que recebem até um salário mínimo. Os…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/01/pagamento-do-inss-de-outubro-veja-calendario-e-datas.ghtml",
-    "time": "2026-10-01T03:00:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Debate presidencial da Globo: onde assistir e qual o horário?",
-    "d": "Debate de presidenciáveis na Globo acontece nesta quinta (1) Divulgação O debate presidencial da Globo para as eleições de 2026 será realizado nesta quinta-feira (1º), três dias antes do primeiro turno. O programa ser…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/debate-presidencial-da-globo-onde-assistir-e-qual-o-horario.ghtml",
-    "time": "2026-10-01T03:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Calendário BPC/Loas outubro 2026: veja datas de pagamento",
-    "d": "Calendário BPC/Loas outubro 2026. Divulgação O calendário de pagamento do BPC/Loas de outubro de 2026 já está disponível. Os beneficiários que recebem até um salário mínimo terão os valores liberados entre 26 de outub…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/01/calendario-bpcloas-outubro-2026-veja-datas-de-pagamento.ghtml",
-    "time": "2026-10-01T03:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Quinto dia útil de outubro de 2026: veja a data do pagamento",
-    "d": "Carteira de trabalho Geraldo Bubniak/AEN Para quem trabalha com carteira assinada, o quinto dia útil de outubro de 2026 cai na terça-feira, dia 6. A data é o prazo máximo para o pagamento do salário referente ao mês a…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/quinto-dia-util-de-outubro-de-2026-veja-a-data-do-pagamento.ghtml",
-    "time": "2026-10-01T03:00:01.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Japan raises permanent residency fee by 20 times",
     "d": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
     "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T02:57:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "TSE proíbe posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida; Mendonça suaviza voto sobre publicação de Antonio Tabet",
-    "d": "O Tribunal Superior Eleitoral (TSE) decidiu nesta quarta-feira (30/9) manter a proibição a publicações que associem Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do B…",
-    "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T02:45:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-    "d": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T00:08:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-    "d": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-30T23:10:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O cálculo de Lula para não ir ao debate da Globo",
-    "d": "Especialistas ouvidos pela BBC News Brasil avaliam que Lula tem mais a perder do que a ganhar com a exposição e que, ao não participar do confronto, se poupa de ataques e de eventuais deslizes.",
-    "link": "https://www.bbc.com/portuguese/articles/cr5y511e9edwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-30T20:35:48.000Z"
   },
   {
     "cat": "internacional",
@@ -638,13 +654,5 @@
     "d": "Loved ones describe Jordan Yap, 30, as an experienced hiker who set out for a 10-day solo trek Peru before falling silent Get our breaking news email, free app or daily news podcast Loved ones of a missing Australian…",
     "link": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
     "time": "2026-09-27T06:45:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-    "d": "Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’ While the US secretary of state, Marco Rubio, was being decorated in Quito by Ecuador’s presid…",
-    "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
-    "time": "2026-09-26T16:00:39.000Z"
   }
 ]
