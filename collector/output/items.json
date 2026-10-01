@@ -1,115 +1,331 @@
 [
   {
     "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+    "d": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday The lunchtime crowds drifted slowly back to their office…",
+    "link": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+    "time": "2026-10-01T06:04:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Regra para redes sociais de jornalistas para visto dos EUA entra em vigor",
+    "d": "Solicitantes devem manter perfis públicos para simplificar o processo de verificação e reforçar a segurança nacional",
+    "link": "https://www.cnnbrasil.com.br/internacional/regra-para-redes-sociais-de-jornalistas-para-visto-dos-eua-entra-em-vigor/",
+    "time": "2026-10-01T06:00:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Casos de assédio eleitoral no trabalho disparam antes da eleição; veja como denunciar",
+    "d": "Entenda o que é assédio eleitoral no trabalho e como denunciar Thiago Gadelha/SVM A três dias do primeiro turno das eleições de 2026, o Ministério Público do Trabalho (MPT) recebeu 738 denúncias de assédio eleitoral n…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/casos-de-assedio-eleitoral-no-trabalho-disparam-antes-da-eleicao-veja-como-denunciar.ghtml",
+    "time": "2026-10-01T06:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Horário eleitoral do 1ºturno das Eleições 2026 termina hoje; entenda",
+    "d": "Lula, Flávio, Cury e Caiado no horário eleitoral de TV Reprodução O horário eleitoral gratuito das Eleições 2026 no rádio e na televisão termina nesta quinta-feira (1º), três dias antes do primeiro turno, marcado para…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/horario-eleitoral-do-1oturno-das-eleicoes-2026-termina-hoje-entenda.ghtml",
+    "time": "2026-10-01T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Inteligência artificial muda planos de carreira dos jovens; veja profissões que ganham espaço",
+    "d": "Profissões técnicas vêm ganhando espaço como opção de carreira Pexels O modelo tradicional de carreira está mudando, e a Geração Z está repensando a forma de planejar o próprio futuro. A empresa de tecnologia Thumbtac…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/inteligencia-artificial-muda-planos-de-carreira-dos-jovens-veja-profissoes-que-ganham-espaco.ghtml",
+    "time": "2026-10-01T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+    "d": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T05:34:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Seis em cada 10 senadores com mandato garantido em 2027 apoiam Flávio",
+    "d": "30% declararam apoio a Lula na eleição; presidente do Senado, Davi Alcolumbre é um dos únicos três a se manter neutro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/senadores-mandato-2027-lula-flavio-neutros/",
+    "time": "2026-10-01T05:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mulher sobrevive a tentativa de execução com injeção letal nos EUA",
+    "d": "Christa Pike, condenada por assassinato, permaneceu viva após aplicação de duas doses de pentobarbital",
+    "link": "https://www.cnnbrasil.com.br/internacional/mulher-sobrevive-a-tentativa-de-execucao-com-injecao-letal-nos-eua/",
+    "time": "2026-10-01T04:59:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Antonio Tabet faz novo post sobre Nossa Senhora após decisão do TSE",
+    "d": "Publicação do humorista havia sido retirada duas vezes antes de nova manifestação nas redes sociais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/antonio-tabet-faz-novo-post-sobre-nossa-senhora-apos-decisao-do-tse/",
+    "time": "2026-10-01T04:25:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba qual é o número de Romeu Zema, candidato do Novo à Presidência",
+    "d": "Empresário disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Eduardo Girão (Novo), candidato a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-romeu-zema-candidato-do-novo-a-presidencia/",
+    "time": "2026-10-01T04:16:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba o número de Wilson Grassi, candidato do Democrata à Presidência",
+    "d": "Veterinário disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Suêd Haidar (Democrata), candidata a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-o-numero-de-wilson-grassi-candidato-do-democrata-a-presidencia/",
+    "time": "2026-10-01T04:15:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba qual é o número de Rui Costa Pimenta, candidato do PCO à Presidência",
+    "d": "Jornalista disputa a Presidência pela quarta vez em 2026; sua chapa é composta também por Antônio Carlos (PCO), candidato a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-rui-costa-pimenta-candidato-do-pco-a-presidencia/",
+    "time": "2026-10-01T04:13:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba qual é o número de Samara Martins, candidata da UP à Presidência",
+    "d": "Odotológa disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Raquel Brício (UP), candidata a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-samara-martins-candidata-da-up-a-presidencia/",
+    "time": "2026-10-01T04:13:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba qual é o número de Ronaldo Caiado, candidato do PSD à Presidência",
+    "d": "Médico disputa a Presidência pela segunda vez em 2026; sua chapa é composta também por Gilberto Kassab (PSD), candidato a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-ronaldo-caiado-candidato-do-psd-a-presidencia/",
+    "time": "2026-10-01T04:12:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba qual é o número de Hertz Dias, candidato do PSTU à Presidência",
+    "d": "Professor disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Vanessa Portugal (PSTU), candidata a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-hertz-dias-candidato-do-pstu-a-presidencia/",
+    "time": "2026-10-01T04:11:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba qual é o número de Augusto Cury, candidato do Avante à Presidência",
+    "d": "Escritor disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Júlio Delgado (Avante), candidato a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-augusto-cury-candidato-do-avante-a-presidencia/",
+    "time": "2026-10-01T04:10:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saiba qual é o número de Clariana Barão, candidata do DC à Presidência",
+    "d": "Advogada disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Fabiana Torquato (DC), candidata a vice-presidente",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-clariana-barao-candidata-do-dc-a-presidencia/",
+    "time": "2026-10-01T04:09:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+    "d": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T03:43:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "A fotografia das pesquisas eleitorais às vésperas do 1º turno - O Assunto #1816",
+    "d": "A linha do tempo das pesquisas de intenção de voto já há algum tempo apresenta um cenário estável: Lula lidera no 1º turno, com vantagem estreita para Flávio Bolsonaro, enquanto os demais candidatos seguem com um dígi…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/01/a-fotografia-das-pesquisas-eleitorais-as-vesperas-do-1o-turno-o-assunto-1816.ghtml",
+    "time": "2026-10-01T03:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha divulga última pesquisa antes do debate da Globo nesta quinta (1º)",
+    "d": "Entenda por que pesquisa eleitoral é 'fotografia do momento' O Datafolha divulga nesta quinta-feira (1º), no início da noite, uma nova rodada de pesquisas eleitorais com os números da corrida presidencial. Um pouco an…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/datafolha-divulga-quinta-1o-de-outubro.ghtml",
+    "time": "2026-10-01T03:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Violência política: pesquisa registra período pré-eleitoral mais violento dos últimos 10 anos",
+    "d": "Uma pesquisa das organizações de direitos humanos Terra de Direitos e Justiça Global registrou o período pré-eleitoral mais violento dos últimos 10 anos no Brasil. Os números demonstram que os ataques por questões pol…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/violencia-politica-pesquisa-registra-periodo-pre-eleitoral-mais-violento-dos-ultimos-10-anos.ghtml",
+    "time": "2026-10-01T03:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Homens, brancos e candidatos à reeleição são perfil médio de quem mais recebe recursos de campanha dos partidos",
+    "d": "Homens, brancos e candidatos que tentam renovar seus mandatos predominam entre os favorecidos com os maiores repasses feitos pelos partidos para candidatos a deputado federal nas eleições de 2026. Os dados são de um l…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/perfil-candidatos-recursos-campanha-partidos.ghtml",
+    "time": "2026-10-01T03:00:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Bolsa Família 2026: veja calendário de pagamentos em outubro, primeiro mês após reajuste",
+    "d": "Governo federal anuncia reajuste de 15% no Bolsa Família a 17 dias das eleições A Caixa Econômica Federal inicia os pagamentos de outubro do Bolsa Família no dia 19. Os primeiros a receber serão os beneficiários com N…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/bolsa-familia-2026-veja-calendario-de-pagamentos-em-outubro.ghtml",
+    "time": "2026-10-01T03:00:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Pagamento do INSS de outubro: veja calendário e datas",
+    "d": "Simulador do INSS mostra valores e tempo de contribuição pelas novas regras de aposentados O pagamento do INSS de outubro de 2026 começa no dia 26 de outubro para os beneficiários que recebem até um salário mínimo. Os…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/pagamento-do-inss-de-outubro-veja-calendario-e-datas.ghtml",
+    "time": "2026-10-01T03:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Debate presidencial da Globo: onde assistir e qual o horário?",
+    "d": "Debate de presidenciáveis na Globo acontece nesta quinta (1) Divulgação O debate presidencial da Globo para as eleições de 2026 será realizado nesta quinta-feira (1º), três dias antes do primeiro turno. O programa ser…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/debate-presidencial-da-globo-onde-assistir-e-qual-o-horario.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Um terço das emendas Pix para obras em 2025 não detalha destino dos recursos, diz Transparência Brasil",
+    "d": "A Transparência Brasil divulgou um estudo que aponta que um terço das emendas parlamentares individuais de transferência especial, conhecidas como emendas Pix, destinadas a obras em 2025 não trazem informações detalha…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/01/um-terco-das-emendas-pix-para-obras-em-2025-nao-detalha-destino-dos-recursos-diz-transparencia-brasil.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: TV Globo promove debate com candidatos à Presidência",
+    "d": "Debate de presidenciáveis na Globo acontece nesta quinta (1) Divulgação A TV Globo promove nesta quinta-feira (1º) o último debate entre candidatos à Presidência da República antes do primeiro turno das Eleições 2026,…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/eleicoes-2026-tv-globo-promove-debate-com-candidatos-a-presidencia-nesta-quinta.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO: quantos deputados e senadores cada estado tem e como esse número é definido?",
+    "d": "CONGRESSO: Quantos deputados e senadores cada estado tem e por quê? Por que alguns estados elegem mais deputados do que outros, mas todos têm o mesmo número de senadores? A diferença está no que cada Casa do Congresso…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/10/01/video-quantos-deputados-e-senadores-cada-estado-tem-e-como-esse-numero-e-definido.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Calendário BPC/Loas outubro 2026: veja datas de pagamento",
+    "d": "Calendário BPC/Loas outubro 2026. Divulgação O calendário de pagamento do BPC/Loas de outubro de 2026 já está disponível. Os beneficiários que recebem até um salário mínimo terão os valores liberados entre 26 de outub…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/calendario-bpcloas-outubro-2026-veja-datas-de-pagamento.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quinto dia útil de outubro de 2026: veja a data do pagamento",
+    "d": "Carteira de trabalho Geraldo Bubniak/AEN Para quem trabalha com carteira assinada, o quinto dia útil de outubro de 2026 cai na terça-feira, dia 6. A data é o prazo máximo para o pagamento do salário referente ao mês a…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/quinto-dia-util-de-outubro-de-2026-veja-a-data-do-pagamento.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Saque-aniversário FGTS outubro: veja calendário e quem pode sacar",
+    "d": "Saque-aniversário FGTS outubro. Reprodução/Jornal Nacional O saque-aniversário do FGTS de outubro de 2026 já está disponível para os trabalhadores que nasceram neste mês e aderiram à modalidade. O dinheiro pode ser re…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/saque-aniversario-fgts-outubro-veja-calendario.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Feriados de outubro de 2026: veja o calendário e se haverá folga prolongada",
+    "d": "Com mais feriados prolongados, calendário de 2026 favorece turismo; veja datas Jornal Nacional/ Reprodução O mês de outubro de 2026 terá um feriado nacional no Brasil. O Dia de Nossa Senhora Aparecida, celebrado em 12…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/feriados-de-outubro-de-2026-calendario.ghtml",
+    "time": "2026-10-01T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: o que acontece se você não votar?",
+    "d": "Guia do Eleitor: o que acontece se eu não votar? No Brasil, o voto é obrigatório para as pessoas alfabetizadas que têm entre 18 e 70 anos. Quem não puder comparecer à votação pode justificar a ausência. 🤔 Mas o que a…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/10/01/eleicoes-2026-o-que-acontece-se-voce-nao-votar.ghtml",
+    "time": "2026-10-01T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dia Internacional do Café: teste seus conhecimentos sobre a bebida queridinha dos brasileiros",
+    "d": "Dia Mundial do Café: teste seus conhecimentos sobre a bebida queridinha dos brasileiros. Freepik O café espresso tem mais cafeína que o coado? Quantas xícaras pode tomar por dia? Qual é a diferença entre café especial…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/01/dia-internacional-do-cafe-teste-seus-conhecimentos-sobre-a-bebida-queridinha-dos-brasileiros.ghtml",
+    "time": "2026-10-01T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.065 da Mega-Sena pode pagar um prêmio de R$ 75 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (1º), em São Paulo. 📱Favori…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/01/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-10-01T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "China eleva tarifa sobre carne brasileira a 67% após fim da cota de exportação; o que acontece agora?",
+    "d": "O presidente do Brasil, Luiz Inácio Lula da Silva e o presidente da China, Xi Jinping, cumprimentam-se cerimônia no Palácio do Povo, em Pequim, no dia 13 de maio de 2025 Ricardo Stuckert/Presidência da República A par…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/01/china-eleva-tarifa-sobre-carne-brasileira-apos-fim-da-cota-de-exportacao.ghtml",
+    "time": "2026-10-01T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "TSE proíbe posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida; Mendonça suaviza voto sobre publicação de Antonio Tabet",
+    "d": "O Tribunal Superior Eleitoral (TSE) decidiu nesta quarta-feira (30/9) manter a proibição a publicações que associem Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do B…",
+    "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T02:45:25.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "What we know about stabbing on Flydubai flight to Israel",
+    "d": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T02:31:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Após Mendonça mudar voto, TSE decide liberar post de humorista sobre Nossa Senhora Aparecida",
+    "d": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), alterou o voto que havia apresentado na manhã desta quarta-feira (30) e votou para liberar de uma publicação do humorista Antonio Tabet sobre Nossa Senh…",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/30/apos-mendonca-mudar-voto-tse-decide-liberar-post-de-humorista-sobre-nossa-senhora-aparecida.ghtml",
+    "time": "2026-10-01T02:04:16.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "California bans child marriage, a practice still legal in 32 US states",
+    "d": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-01T00:57:04.000Z"
+  },
+  {
+    "cat": "internacional",
     "src": "BBC News",
     "h": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
     "d": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
     "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T00:08:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US Supreme Court allows execution of Christa Pike to go ahead",
-    "d": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-30T23:55:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Relembre briga antiga de Renato Aragão com filha que moveu ação contra ele",
-    "d": "Juliana Rangel já foi alvo de outra polêmica envolvendo o humorista, quando o acusaram de esconder a herdeira por ela ter um relacionamento homoafetivo",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/relembre-briga-antiga-de-renato-aragao-com-filha-que-moveu-acao-contra-ele/",
-    "time": "2026-09-30T23:48:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Haddad volta a citar combate ao Comando Vermelho em cidades de SP durante agenda na capital",
-    "d": "'Ele não presta conta do filme ‘Dark Horse’ porque ele não presta mesmo', diz Haddad sobre Flávio Bolsonaro A quatro dias do 1ª turno das eleições, o candidato do PT ao governo de São Paulo, Fernando Haddad, visitou b…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/haddad-volta-a-citar-combate-ao-comando-vermelho-em-cidades-de-sp-durante-agenda-na-capital.ghtml",
-    "time": "2026-09-30T23:46:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cade aprova compra de 12% do Assaí por sócios do Grupo Muffato",
-    "d": "",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/cade-aprova-compra-de-parte-do-assai-por-socios-do-grupo-muffato/",
-    "time": "2026-09-30T23:42:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Artur Jorge diz o que mudaria em eliminações para Flamengo e Atlético-MG",
-    "d": "Treinador comentou as duas duras quedas em sequência do Cruzeiro na Copa Libertadores da América e na Copa do Brasil",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/artur-jorge-diz-o-que-mudaria-em-eliminacoes-para-flamengo-e-atletico-mg/",
-    "time": "2026-09-30T23:38:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vasco x Boca: Pedrinho prefere São Januário, mas vai à Justiça por Maracanã",
-    "d": "Presidente do clube carioca confirmou, em entrevista a apresentador, que vai judicializar o debate após nova negativa de usar o estádio administrado por Flamengo e Fluminense",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/vasco-x-boca-pedrinho-prefere-sao-januario-mas-vai-a-justica-por-maracana/",
-    "time": "2026-09-30T23:38:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lynas compra Meteoric e projeto de terras raras em MG por R$ 3,5 bilhões",
-    "d": "Aquisição dependerá de aval no Brasil e deve ser o primeiro grande teste do novo conselho de minerais críticos; australiana também vai estudar refino em território nacional",
-    "link": "https://www.cnnbrasil.com.br/infra/lynas-compra-meteoric-e-projeto-de-terras-raras-em-mg-por-r-35-bilhoes/",
-    "time": "2026-09-30T23:36:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Polícia investiga origem dos tiros que mataram homem no BRT",
-    "d": "Flávio de Abreu Lira, de 53 anos, foi baleado dentro de um ônibus do BRT durante o trajeto entre as estações Ventura e Asa Branca, na Barra Olímpica, na zona Sudoeste do Rio, na manhã desta quarta-feira (30)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-origem-dos-tiros-que-mataram-homem-no-brt/",
-    "time": "2026-09-30T23:32:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Parlamento de Portugal aprova reforma que acelera despejos",
-    "d": "Medida também acaba com controles de aluguel nos novos contratos; associações de inquilinos chamaram a movimentação de \"selvageria\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/parlamento-de-portugal-aprova-reforma-que-acelera-despejos/",
-    "time": "2026-09-30T23:27:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O urso ‘mais gordo’ do Alasca se chama Mochila, tem mãe famosa e é descrito como ‘gigante gentil’",
-    "d": "A Katmai Conservancy, organização ambiental sem fins lucrativos, promove há 13 anos o concurso Fat Bear Week para eleger o urso que mais ganhou peso pré-hibernação",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/o-urso-mais-gordo-do-alasca-se-chama-mochila-tem-mae-famosa-e-e-descrito-como-gigante-gentil/",
-    "time": "2026-09-30T23:20:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro pede ao STF que Dino seja afastado de casos envolvendo ele, Lula e eleições",
-    "d": "A defesa do senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) apresentou ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, um pedido para que o ministro Flávio Dino seja declarado suspei…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/flavio-bolsonaro-pede-ao-stf-que-dino-seja-afastado-de-processos-envolvendo-o-parlamentar-lula-e-eleicoes.ghtml",
-    "time": "2026-09-30T23:19:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: veja como foi a agenda dos candidatos ao governo de Goiás nesta quarta-feira (30)",
-    "d": "Veja como foi a agenda dos candidatos ao governo de Goiás nesta quarta-feira (30) Os candidatos ao governo de Goiás cumpriram agendas de campanha pelo interior do estado nesta quarta-feira (30). Na região sul, Wilder…",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/09/30/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-quarta-feira-30.ghtml",
-    "time": "2026-09-30T23:16:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que discutiu libertação de presos políticos com Xi Jinping",
-    "d": "Presidente foi questionado sobre os casos do acadêmico de Mianmar e cidadão americano Min Zin, preso em junho, e o magnata da mídia, Jimmy Lai",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-discutiu-libertacao-de-presos-politicos-com-xi-jinping/",
-    "time": "2026-09-30T23:11:15.000Z"
   },
   {
     "cat": "internacional",
@@ -120,60 +336,12 @@
     "time": "2026-09-30T23:10:19.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Miss Universo Brasil resgata vestido de 15 kg para clipe do Rosa de Saron",
-    "d": "Maria Gabriela Lacerda, que venceu o concurso em 2025, usou novamente o look escolhido para a disputa mundial; veja fotos exclusivas",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/miss-universo-brasil-resgata-vestido-de-15-kg-para-clipe-do-rosa-de-saron/",
-    "time": "2026-09-30T23:10:18.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
     "d": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
     "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-30T23:10:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Messi joga? Veja as escalações e onde assistir a Argentina x Bolívia",
-    "d": "Seleções vão a campo nesta quarta-feira (25), às 21h (de Brasília), no Mario Alberto Kempes, em Córdoba, na Argentina",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-joga-veja-as-escalacoes-e-onde-assistir-a-argentina-x-bolivia/",
-    "time": "2026-09-30T23:05:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Frigorífico Barra Mansa amplia investimentos na indústria e confinamento",
-    "d": "Frigorífico familiar de São Paulo abateu cerca de 330 mil animais no último ano e pretende ampliar confinamento próprio após concluir modernização da unidade de desossa",
-    "link": "https://www.cnnbrasil.com.br/agro/frigorifico-barra-mansa-amplia-investimentos-na-industria-e-confinamento/",
-    "time": "2026-09-30T22:58:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja o que é #FATO ou #FAKE no debate da Globo com candidatos ao Governo de Pernambuco",
-    "d": "Candidatos ao governo de PE: João Campos (PSB), Ivan Moraes (PSOL) e Raquel Lyra (PSD) Brenda Alcântara/Globo A Globo promoveu, nesta terça-feira (29), um debate com candidatos ao Governo de Pernambuco. Com mediação d…",
-    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-de-pernambuco.ghtml",
-    "time": "2026-09-30T22:52:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "TSE tem três votos por proibição ampla de posts que ligam Flávio Bolsonaro a Nossa Senhora e dois por restrições mais brandas; siga julgamento",
-    "d": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de…",
-    "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-30T22:24:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Maioria ainda não decidiu voto para senador e deputado, diz Datafolha",
-    "d": "Cúpula do Senado Federal e prédio do Congresso Nacional durante o amanhecer. Pedro França/Agência Senado A maioria dos brasileiros ainda não decidiu seu voto para senador, deputado federal e deputado estadual, segundo…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/maioria-ainda-nao-decidiu-voto-para-senador-e-deputado-diz-datafolha.ghtml",
-    "time": "2026-09-30T22:04:28.000Z"
   },
   {
     "cat": "internacional",
@@ -184,30 +352,6 @@
     "time": "2026-09-30T22:01:16.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "What we know about stabbing on Flydubai flight to Israel",
-    "d": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-30T21:36:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Leonardo Avalanche (PRTB) renuncia à candidatura à Presidência",
-    "d": "O influenciador Pablo Marçal e o presidente do PRTB, Leonardo Avalanche Reprodução/Instagram O presidente do PRTB, Leonardo Avalanche, anunciou nesta quarta-feira (30) a renúncia à candidatura à Presidência da Repúbli…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/leonardo-avalanche-prtb-renuncia-a-candidatura-a-presidencia.ghtml",
-    "time": "2026-09-30T21:05:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em meio à crise interna, ministros do STF participam de sessão",
-    "d": "Em meio à crise interna, ministros do STF participam de sessão Supremo enfrenta 'guerra de decisões' entre os ministros. Após embate entre Moraes e Mendonça, disputa agora envolve posts sobre Nossa Senhora Aparecida.…",
-    "link": "https://g1.globo.com/politica/ao-vivo/ministros-do-stf-sessao.ghtml",
-    "time": "2026-09-30T20:57:26.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O cálculo de Lula para não ir ao debate da Globo",
@@ -216,28 +360,12 @@
     "time": "2026-09-30T20:35:48.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Aliado de Alcolumbre, Rodrigo Pacheco toma posse como ministro do TCU",
     "d": "Rodrigo Pacheco, novo ministro do TCU Edilson Rodrigues/Agência Senado O ex-presidente do Senado Rodrigo Pacheco tomou posse nesta quarta-feira (30) como ministro do Tribunal de Contas da União (TCU), mas não particip…",
     "link": "https://g1.globo.com/politica/noticia/2026/09/30/aliado-de-alcolumbre-rodrigo-pacheco-toma-posse-como-ministro-do-tcu.ghtml",
     "time": "2026-09-30T20:22:57.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mesmo fora da presidência do Fed, Powell volta a ser alvo de Trump",
-    "d": "Foto de arquivo: O presidente dos EUA, Donald Trump, observa Jerome Powell, seu indicado para presidir o Federal Reserve (Fed), durante discurso na Casa Branca, em Washington, EUA, em 2 de novembro de 2017. REUTERS/Ca…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/30/mesmo-fora-da-presidencia-do-fed-powell-volta-a-ser-alvo-de-trump.ghtml",
-    "time": "2026-09-30T20:17:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Google lança Argon e diz que nova IA pode rivalizar com OpenAI e Anthropic",
-    "d": "Crianças e IA: como elas já estão usando ChatGPT e Gemini na escola A Alphabet, controladora do Google, anunciou nesta quarta-feira um novo modelo de inteligência artificial de ponta para liderar a nova geração Gemini…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/30/google-lanca-gemini-4-e-diz-que-ele-pode-rivalizar-com-openai-e-anthropic.ghtml",
-    "time": "2026-09-30T20:06:22.000Z"
   },
   {
     "cat": "brasil",
@@ -254,30 +382,6 @@
     "d": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $…",
     "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
     "time": "2026-09-30T19:51:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Dark Horse': PF faz nova perícia em material apreendido pela Polícia Civil de SP por ordem de Flávio Dino",
-    "d": "O ministro Flávio Dino, do STF, e a empresário Karina da Gama, produtora do filme 'Dark Horse'. Montagem/g1/Reprodução/STF e Agência Brasil O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou que a P…",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/30/dark-horse-pf-faz-nova-pericia-em-material-apreendido-pela-policia-civil-de-sp-por-ordem-de-flavio-dino.ghtml",
-    "time": "2026-09-30T19:42:32.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Paramount recebe sinal verde de juiz dos EUA para comprar a Warner Bros.",
-    "d": "Governo Trump aprova fusão da Paramount e nova empresa afirma que não terá iniciativas de diversidade Um juiz dos EUA emitiu uma decisão na quarta-feira (30) permitindo que a Paramount conclua a aquisição da Warner Br…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/30/juiz-dos-eua-emite-ordem-permitindo-que-a-paramount-conclua-a-aquisicao-da-warner-bros.ghtml",
-    "time": "2026-09-30T19:26:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Augusto Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'",
-    "d": "Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda' O candidato à Presidência Augusto Cury (Avante) afirmou nesta quarta-feira (30), em entrevista ao podcast Inteligência Ltda., que…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/augusto-cury-entrevista-podcast.ghtml",
-    "time": "2026-09-30T19:20:26.000Z"
   },
   {
     "cat": "brasil",
@@ -304,30 +408,6 @@
     "time": "2026-09-30T18:55:59.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quem vai ao debate presidencial da Globo? Confira os confirmados",
-    "d": "Debate de presidenciáveis na Globo acontece nesta quinta (1) Divulgação A TV Globo realiza nesta quinta-feira (1º) o debate entre candidatos à Presidência da República nas eleições de 2026. O encontro acontece três di…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/quem-vai-ao-debate-presidencial-da-globo.ghtml",
-    "time": "2026-09-30T18:34:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Institutos de pesquisa questionam no TSE mudanças no registro de pesquisas eleitorais",
-    "d": "Fachada do prédio do Tribunal Superior Eleitoral (TSE) Luiz Roberto/Secom/tse A Associação Brasileira de Empresas de Pesquisa (Abep) entrou com um mandado de segurança no Tribunal Superior Eleitoral (TSE) na noite de…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/institutos-de-pesquisa-regras-tse-pesquisas-eleitorais.ghtml",
-    "time": "2026-09-30T18:03:09.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Como ativar o controle parental para adolescentes no WhatsApp",
-    "d": "WhatsApp ganha nomes de usuário e vai dispensar número para começar conversa O WhatsApp anunciou nesta quarta-feira (30) novos controles parentais para adolescentes no Brasil. Segundo a empresa, pais e responsáveis po…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/30/como-ativar-o-controle-parental-para-adolescentes-no-whatsapp.ghtml",
-    "time": "2026-09-30T17:59:33.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
@@ -344,22 +424,6 @@
     "time": "2026-09-30T17:14:03.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Jaecoo 5 chega por R$ 154.990 e mira esforços contra Volkswagen, Chevrolet e Hyundai",
-    "d": "Jaecoo 5 divulgação/Omoda&Jaecoo A Omoda&Jaecoo lançou o Jaecoo 5, SUV compacto híbrido produzido na China que custa a partir de R$ 154.990. Diferentemente de modelos eletrificados vendidos na faixa dos R$ 200 mil, qu…",
-    "link": "https://g1.globo.com/carros/noticia/2026/09/30/jaecoo-5.ghtml",
-    "time": "2026-09-30T17:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "EUA abrem investigação inédita sobre OpenAI e Anthropic após agentes de IA invadirem sistemas",
-    "d": "OpenAI diz que ataque de sua IA atingiu mais alvos do que se sabia A Comissão Federal de Comércio dos Estados Unidos (FTC) abriu, pela primeira vez, uma investigação de teor regulatório sobre o setor de inteligência a…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/30/eua-abrem-investigacao-inedita-sobre-openai-e-anthropic-apos-agentes-de-ia-invadirem-sistemas.ghtml",
-    "time": "2026-09-30T16:51:16.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Avião para Israel despenca no ar após piloto esfaquear outro, e reação dos passageiros evita desastre; o que se sabe",
@@ -374,14 +438,6 @@
     "d": "Centenas de passageiros teriam se ferido no X2, montanha-russa cujos assentos giravam 360 graus",
     "link": "https://www.bbc.com/portuguese/articles/c8ly4dr35redo?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-30T16:17:30.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
-    "d": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
-    "time": "2026-09-30T16:11:46.000Z"
   },
   {
     "cat": "economia",
@@ -416,14 +472,6 @@
     "time": "2026-09-30T14:43:55.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "WhatsApp anuncia novos controles parentais para adolescentes no Brasil",
-    "d": "WhatsApp ganha nomes de usuário e vai dispensar número para começar conversa O WhatsApp anunciou nesta quarta-feira (30) novos recursos de controle parental para adolescentes no Brasil. Segundo a empresa, as ferrament…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/30/whatsapp-anuncia-novos-controles-parentais-para-adolescentes-no-brasil.ghtml",
-    "time": "2026-09-30T14:19:22.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "South African leader urges men to speak up on gender-based violence after series of killings",
@@ -446,38 +494,6 @@
     "d": "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert…",
     "link": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
     "time": "2026-09-30T13:36:25.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Tribunal dos EUA analisa ação contra tarifas de Trump ligadas a trabalho forçado",
-    "d": "Imagem do presidente dos EUA, Donald Trump, no Salão Oval da Casa Branca, em Washington, DC, EUA, em 28 de setembro de 2026 REUTERS/Kevin Lamarque O Tribunal de Comércio Internacional dos Estados Unidos analisa nesta…",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/30/tribunal-comercial-dos-eua-analisara-contestacao-a-tarifas-relacionadas-ao-trabalho-forcado.ghtml",
-    "time": "2026-09-30T13:25:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "MI5 warns UK universities over ‘theft of tech secrets by Chinese front company’",
-    "d": "Security service says academics should stop working with and taking grants from firm backed by Chinese intelligence MI5 China alert will send chill through UK’s cash-strapped universities MI5 has issued a rare public…",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
-    "time": "2026-09-30T13:00:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Youtuber diz que agente de IA da Meta forneceu seu endereço a um estranho — e a pessoa apareceu na casa dele",
-    "d": "Boneco Muse, que representa a nova IA da Meta Divulgação/Meta O youtuber de tecnologia Matt J. Robb, que vive no Canadá, afirmou que o Muse AI, novo agente de IA da Meta, forneceu o endereço de sua casa a um estranho.…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/30/youtuber-diz-que-agente-de-ia-da-meta-forneceu-seu-endereco-a-um-estranho-e-a-pessoa-apareceu-na-casa-dele.ghtml",
-    "time": "2026-09-30T13:00:14.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Brasil tem mais de 1 boi e quase 8 galinhas por brasileiro; veja onde estão e conheça a cidade que tem quase 400 galinhas por habitante",
-    "d": "Tecnologia usa biometria do focinho para identificar o gado Se os animais da pecuária brasileira fossem divididos igualmente entre todos os moradores do país, daria mais de um boi e quase oito galinhas para cada brasi…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/30/brasil-tem-mais-de-1-boi-e-quase-8-galinhas-por-brasileiro-veja-onde-estao-e-conheca-a-cidade-que-tem-quase-400-galinhas-por-habitante.ghtml",
-    "time": "2026-09-30T13:00:01.000Z"
   },
   {
     "cat": "internacional",
@@ -504,28 +520,12 @@
     "time": "2026-09-30T10:00:24.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-    "d": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
-    "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-30T08:59:38.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil",
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-09-30T08:43:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Girl has multiple surgeries to control infections after strike in Gaza",
-    "d": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-    "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-09-30T05:02:50.000Z"
   },
   {
     "cat": "economia",
