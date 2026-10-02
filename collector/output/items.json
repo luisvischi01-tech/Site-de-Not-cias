@@ -1,51 +1,331 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PF cumpre dois mandados de busca e apreensão em investigação sobre suposto plano contra embaixada dos EUA",
+    "d": "A Polícia Federal cumpriu dois mandados de busca e apreensão nesta sexta-feira (2) em uma investigação sobre um suposto plano contra a embaixada e consulados dos Estados Unidos no Brasil.",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/02/pf-cumpre-dois-mandados-de-busca-e-apreensao-em-investigacao-sobre-suposto-plano-contra-embaixada-dos-eua.ghtml",
+    "time": "2026-10-02T19:48:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Movimento “das baratas” protesta na Índia por suposta manipulação eleitoral",
+    "d": "Manifestantes exigem renúncia do chefe da Comissão Eleitoral do país devido a uma revisão controversa da lista de eleitores que seria feita para beneficiar partido do atual primeiro-ministro, Narendra Modi",
+    "link": "https://www.cnnbrasil.com.br/internacional/movimento-das-baratas-protesta-na-india-por-suposta-manipulacao-eleitoral/",
+    "time": "2026-10-02T19:34:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ucrânia captura 250 soldados russos em operação com drones terrestres",
+    "d": "Ação contou com robôs lançados atrás das linhas inimigas e veículos blindados de transporte de pessoal \"Trojan\" carregados com explosivos",
+    "link": "https://www.cnnbrasil.com.br/internacional/ucrania-captura-250-soldados-russos-em-operacao-com-drones-terrestres/",
+    "time": "2026-10-02T19:34:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Filho de Fernanda Lima e Rodrigo Hilbert é elogiado nas redes: “Desenhado”",
+    "d": "Casal é pai dos gêmeos Chico e João, de 18 anos, e de Maria Manoela, de 6 anos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-fernanda-lima-e-rodrigo-hilbert-e-elogiado-nas-redes-desenhado/",
+    "time": "2026-10-02T19:33:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ouro fecha em queda apesar de sinais de pausa do Fed",
+    "d": "Na Comex, metal para dezembro encerrou em queda de 0,95%, a US$ 4.162,30 por onça-troy",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-fecha-em-queda-apesar-de-sinais-de-pausa-do-fed/",
+    "time": "2026-10-02T19:32:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Petróleo cai com liberação de reservas do G7 e Oriente Médio no radar",
+    "d": "Brent para dezembro fechou em baixa de 0,06%, a US$ 102,25 o barril, e o WTI para novembro caiu 1,9%, a US$ 91,11 o barril; na semana, Brent subiu 4,94%, enquanto o WTI cedeu 1,41%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-cai-com-liberacao-de-reservas-do-g7-e-oriente-medio-no-radar/",
+    "time": "2026-10-02T19:31:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tarcísio cobra “autocontenção” do Judiciário após debate cancelado",
+    "d": "Governador afirma que eleitor foi prejudicado após decisões do TSE e do STF alterarem regras do último encontro entre presidenciáveis",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tarcisio-cobra-autocontencao-do-judiciario-apos-debate-cancelado/",
+    "time": "2026-10-02T19:28:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atriz de “Roque Santeiro” deixou novelas e atua como psicóloga; veja quem",
+    "d": "Artista que interpretou Tânia, filha de Sinhozinho Malta e que viveu romance proibido com um padre, deixou as telinhas em 1990 e não tem redes sociais",
+    "link": "https://www.cnnbrasil.com.br/pop/tv/atriz-de-roque-santeiro-deixou-novelas-e-atua-como-psicologa-veja-quem/",
+    "time": "2026-10-02T19:27:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Futura Senado/SP: Derrite, 40,8%; Marina, 36,2%; Tebet, 35,5%; André, 32,8%",
+    "d": "Levantamento entrevistou 1.600 eleitores, entre os dias 29 de setembro e 1º de outubro; margem de erro do levantamento é de 2,4 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/futura-senado-sp-derrite-408-marina-362-tebet-355-andre-328/",
+    "time": "2026-10-02T19:26:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ana Castela diverte fãs ao passar perrengue com bota em festa; veja vídeos",
+    "d": "Boiadeira passou os últimos dias em São Paulo para acompanhar um show de sua amiga de longa data, a também cantora Duda Bertelli",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ana-castela-diverte-fas-ao-passar-perrengue-com-bota-em-festa-veja-videos/",
+    "time": "2026-10-02T19:26:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“A Usurpadora” volta ao streaming com 102 capítulos; saiba onde assistir",
+    "d": "Originalmente transmitida em 1998, a trama continua sendo uma das mais emblemáticas da televisão mexicana e narra a história de Paulina Martins e Paola Bracho",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/a-usurpadora-volta-ao-streaming-com-102-capitulos-saiba-onde-assistir/",
+    "time": "2026-10-02T19:25:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Djokovic pode ultrapassar recorde que Nadal estabeleceu em Roland Garros",
+    "d": "Aos 39 anos, tenista sérvio chegou a 31 vitórias consecutivas no ATP 500 de Pequim e empatou com marca do espanhol no Grand Slam francês",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/djokovic-pode-ultrapassar-recorde-que-nadal-estabeleceu-em-roland-garros/",
+    "time": "2026-10-02T19:25:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fachin defende apuração de fatos envolvendo ministros no caso Master",
+    "d": "Em ofício a Andrei Rodrigues, presidente do Supremo diz que dará \"encaminhamentos devidos\" quando receber informações \"sem exceção de pessoa\"",
+    "link": "https://www.cnnbrasil.com.br/politica/fachin-defende-apuracao-de-fatos-envolvendo-ministros-no-caso-master/",
+    "time": "2026-10-02T19:23:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Presidente da Petrobras diz que petróleo encontrado é de 'boa qualidade' e não descarta novas descobertas no poço Morpho",
+    "d": "Petrobras anuncia descoberta de petróleo em águas ainda mais profundas na Foz do Amazonas A presidente da Petrobras, Magda Chambriard, afirmou nesta sexta-feira (2), em coletiva de imprensa, que a nova descoberta de p…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/02/coletiva-chambriard-petrobras.ghtml",
+    "time": "2026-10-02T19:10:05.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Leapmotor B10 híbrido é mais barato que os rivais e tenta fazer marca decolar no Brasil; vale a pena?",
+    "d": "Leapmotor B10 REEV divulgação/Leapmotor Com um ano de operação no Brasil, a Leapmotor ainda tenta ganhar espaço no mercado brasileiro, disputado por outras marcas chinesas, como GAC, Omoda&Jaecoo, Geely, GWM e BYD. A…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/02/leapmotor-b10-teste.ghtml",
+    "time": "2026-10-02T19:00:00.000Z"
+  },
+  {
     "cat": "economia",
     "src": "The Guardian",
-    "h": "Nasdaq hits record high after weaker-than-expected US jobs report – business live",
-    "d": "US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates UK diesel price hits record high of £2 a litre Core inflation in the eurozone also inched up last month…",
-    "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-    "time": "2026-10-02T15:02:01.000Z"
+    "h": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+    "d": "Leaders agree a coordinated drawdown after surge in prices and Donald Trump’s threat to cut off US supplies Leaders of G7 nations are to release up to 100m barrels of their emergency diesel and crude oil stockpiles af…",
+    "link": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+    "time": "2026-10-02T18:52:03.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileirão Feminino: confira a lista de todas as campeãs da competição",
-    "d": "São Paulo e Corinthians se enfrentam neste sábado (3), às 16h30, no MorumBis, em São Paulo, em partida válida pela volta do competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-feminino-confira-a-lista-de-todas-as-campeas-da-competicao/",
-    "time": "2026-10-02T15:00:25.000Z"
+    "src": "G1",
+    "h": "Governo apura o que os EUA classificaram como 'possível ameaça' para suspender atendimento em embaixada",
+    "d": "O governo brasileiro apura o que seria a \"possível ameaça\" apontada pelos Estados Unidos como motivo para suspender o atendimento na embaixada norte-americana em Brasília e em consulados no Brasil nesta quinta-feira (…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/02/governo-eua-embaixada-brasilia.ghtml",
+    "time": "2026-10-02T18:50:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Caso Master: Fachin marca reunião com PF para tratar de menções a ministros do STF",
+    "d": "Fachin pede reunião com a PF sobre ministros do Supremo citados no caso Master O ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), marcou uma reunião com o diretor-geral da Polícia Federal (PF), del…",
+    "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/02/fachin-marca-reuniao-com-pf-para-tratar-de-mencoes-a-ministros-do-stf-no-master.ghtml",
+    "time": "2026-10-02T18:39:21.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lotes de antitranspirante e gel íntimo são suspensos pela Anvisa",
-    "d": "Medida atinge o hidratante Hidrafemme e o Perspirex Strong após identificação de falsificação e falta de notificação",
-    "link": "https://www.cnnbrasil.com.br/saude/lotes-de-antitranspirante-e-gel-intimo-sao-suspensos-pela-anvisa/",
-    "time": "2026-10-02T14:58:48.000Z"
+    "src": "G1",
+    "h": "MPE defende que o TSE mantenha candidatura de Deltan Dallagnol ao Senado",
+    "d": "O candidato ao Senado Deltan Dallagnol em 2023 TON MOLINA/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO A Procuradoria-Geral Eleitoral defendeu nesta sexta-feira (2) que o Tribunal Superior Eleitoral (TSE) mantenha a candidatu…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/mpe-defende-que-o-tse-mantenha-candidatura-de-deltan-dallagnol-ao-senado.ghtml",
+    "time": "2026-10-02T18:38:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PF investiga empréstimo do BRB a Flávio Bolsonaro para compra de uma mansão avaliada em R$ 6 milhões",
+    "d": "Flávio Bolsonaro, candidato do PL à Presidência Raul Luciano/Ato Press/Estadão Conteúdo A Polícia Federal (PF) passou a investigar, em uma nova frente de apuração, uma operação de crédito destinada à compra de uma man…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/02/pf-investiga-emprestimo-do-brb-a-flavio-bolsonaro-para-compra-de-uma-mansao-avaliada-em-r-6-milhoes.ghtml",
+    "time": "2026-10-02T18:32:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula reúne apoiadores em ato no Centro do Rio",
+    "d": "Lula ao lado dos candidatos ao Senado Pedro Paulo (PSD) e Benedita da Silva (PT) Reprodução/TV Globo O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) participou de um ato de campanha no Centro do Ri…",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/02/lula-reune-apoiadores-em-ato-no-centro-do-rio.ghtml",
+    "time": "2026-10-02T18:15:02.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+    "d": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T17:44:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Riot police clash with students as education protests rage in France",
+    "d": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T17:43:10.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil",
+    "h": "Por que a nova onda de protestos estudantis assusta o governo francês",
+    "d": "Um movimento que começou há quase duas semanas se espalhou. E na França, jovens protestando nas ruas significam problemas para o governo.",
+    "link": "https://www.bbc.com/portuguese/articles/cwm26n81jl0lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T17:41:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleitores do Rio de Janeiro vão às urnas neste domingo",
+    "d": "Eleitores do Rio de Janeiro vão às urnas neste domingo Fluminenses vão escolher candidatos a deputado federal, deputado estadual, duas vagas para o Senado, governador e presidente. O primeiro turno das Eleições 2026 a…",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-rj.ghtml",
+    "time": "2026-10-02T17:27:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quem é Shivon Zilis, ex-companheira de Elon Musk e executiva da Neuralink",
+    "d": "Shivon Zilis é executiva na Neuralink. Repropdução/X Shivon Zilis, executiva da Neuralink, empresa de Elon Musk voltada ao desenvolvimento de implantes cerebrais, confirmou nesta sexta-feira (2) o fim de seu relaciona…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/02/quem-e-shivon-zilis-ex-companheira-de-elon-musk-e-executiva-da-neuralink.ghtml",
+    "time": "2026-10-02T17:19:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
+    "d": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
+    "time": "2026-10-02T17:04:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que deu errado para a Nike? Como gigante mundial de artigos esportivos perdeu 'brilho'",
+    "d": "Diversos erros cometidos pela própria empresa custaram caro à maior marca de roupas esportivas do planeta nos últimos anos",
+    "link": "https://www.bbc.com/portuguese/articles/cqrk3kkn406no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T16:59:47.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Executiva Shivon Zilis diz que seu relacionamento com Elon Musk terminou: 'Vou sentir falta dele'",
+    "d": "Executiva Shivon Zilis diz que seu relacionamento com Elon Musk terminou: 'Vou sentir falta dele' Reprodução redes social (X) e Reuters Elon Musk terminou abruptamente seu relacionamento com a executiva Shivon Zilis,…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/02/shivon-zilis-e-elon-musk.ghtml",
+    "time": "2026-10-02T16:56:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Tesla sobe 5% após superar previsão de entregas, e fortuna de Elon Musk encosta em US$ 1 trilhão",
+    "d": "Um Tesla Cybertruck está estacionado no pátio de uma unidade da Tesla no bairro de Queens, em Nova York, nos Estados Unidos. Reuters lAs ações da Tesla dispararam na bolsa de valores americana nesta sexta-feira (2), a…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/02/acoes-tesla-entregas.ghtml",
+    "time": "2026-10-02T16:44:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fortuna do dono da Nvidia ultrapassa US$ 200 bilhões após ações da empresa baterem recorde",
+    "d": "O lavador de pratos que criou a Nvidia, a empresa mais valiosa do mundo A fortuna de Jensen Huang, cofundador e presidente-executivo da Nvidia, ultrapassou US$ 200 bilhões (R$ 1 trilhão), segundo estimativas da Forbes…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/02/fortuna-do-dono-da-nvidia-ultrapassa-us-200-bilhoes-apos-acoes-da-empresa-baterem-recorde.ghtml",
+    "time": "2026-10-02T16:40:44.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Paramount e Warner Bros. vão operar sob o nome Skydance após fusão",
+    "d": "Logo da Warner Bros. Eric Gaillard/Reuters A empresa que resultará da fusão entre a Paramount e a Warner Bros. Discovery terá o nome Skydance, anunciou nesta sexta-feira (2) o presidente-executivo da Paramount, David…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/02/paramount-e-warner-bros-vao-operar-sob-o-nome-skydance-apos-fusao.ghtml",
+    "time": "2026-10-02T16:28:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Presidente do PT quer negociar aliança com a 'direita que valoriza a democracia' no 2º turno",
+    "d": "Edinho Silva, presidente nacional do PT, fala a jornalistas em São Paulo nesta sexta-feira (1). Letícia Brito Silva O presidente nacional do PT, Edinho Silva, afirmou nesta sexta-feira (2) que o PT está aberto para ou…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/presidente-do-pt-alianca-segundo-turno.ghtml",
+    "time": "2026-10-02T16:23:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Distância entre Lula e Flávio Bolsonaro é de 3 pontos no 1º turno no Agregador de Pesquisas da BBC News Brasil",
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T14:57:55.000Z"
+    "time": "2026-10-02T16:16:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Proibição das bets: governo diz que já adotou providências para derrubar mais de 10 mil sites ilegais desde publicação de MP",
+    "d": "O ministro da Justiça, Wellington César Lima e Silva, afirmou nesta sexta-feira (2) que o governo federal já adotou providências para derrubar mais de 10 mil sites ilegais de apostas online em uma semana de vigência d…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/02/proibicao-das-bets-governo-diz-que-ja-derrubou-mais-de-10-mil-sites-ilegais.ghtml",
+    "time": "2026-10-02T16:09:02.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+    "d": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+    "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T16:08:25.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "MP recorre da liberdade de bombeiro suspeito de matar estudante após briga",
-    "d": "Estudante de medicina foi baleado durante uma discussão de trânsito em Taubaté (SP); bombeiro foi preso mas liberado em audiência de custódia",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mp-recorre-da-liberdade-de-bombeiro-suspeito-de-matar-estudante-apos-briga/",
-    "time": "2026-10-02T14:56:24.000Z"
+    "src": "G1",
+    "h": "Dia do voto: Eleitores de São Paulo vão às urnas neste domingo",
+    "d": "Dia do voto: Eleitores de São Paulo vão às urnas neste domingo Paulistas vão escolher candidatos a deputado federal, deputado estadual, duas vagas para o Senado, governador e presidente. O primeiro turno das Eleições…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-sp.ghtml",
+    "time": "2026-10-02T15:52:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+    "d": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+    "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T15:30:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+    "d": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T15:26:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+    "d": "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba,…",
+    "link": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+    "time": "2026-10-02T15:13:23.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ferran Torres deixa seleção espanhola e dá lugar a jovem do Real Madrid",
-    "d": "Atacante do Paris Saint-Germain sente dores no tornozelo e dá lugar a Carlos Espi nos próximos confrontos da Nations League",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ferran-torres-deixa-selecao-espanhola-e-da-lugar-a-jovem-do-real-madrid/",
-    "time": "2026-10-02T14:55:39.000Z"
+    "src": "G1",
+    "h": "STF cria novas regras para evitar que pedidos sejam direcionados a ministro específico",
+    "d": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, fixou nesta sexta-feira (2) uma espécie de filtro para tentar barrar o direcionamento de pedidos para ministros. Pela nova regra, novas petições deixam de…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/02/stf-cria-novas-regras-para-evitar-que-pedidos-sejam-direcionados-a-ministro-especifico.ghtml",
+    "time": "2026-10-02T15:11:51.000Z"
   },
   {
     "cat": "brasil",
@@ -56,68 +336,20 @@
     "time": "2026-10-02T14:53:53.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Anthropic alerta que ações do governo dos EUA podem afetar negócios",
-    "d": "Empresa citou veto do Departamento de Defesa e restrições de exportação como riscos para clientes e reputação",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/anthropic-alerta-que-acoes-do-governo-dos-eua-podem-afetar-negocios/",
-    "time": "2026-10-02T14:51:45.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ações da Nvidia batem recorde e empresa se aproxima de valer US$ 6 trilhões",
+    "d": "O lavador de pratos que criou a Nvidia, a empresa mais valiosa do mundo As ações da Nvidia bateram recorde nesta sexta-feira (2), algo que não acontecia desde maio. A empresa, que vem sendo valorizada pelos investimen…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/02/acoes-da-nvidia-batem-recorde-e-empresa-se-aproxima-de-valer-us-6-trilhoes.ghtml",
+    "time": "2026-10-02T14:34:18.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin cria filtro para pedidos protocolados em processos já existentes",
-    "d": "Nova resolução estabelece que petições feitas por quem não é parte do processo precisarão passar por validação de uma equipe técnica da presidência antes de ser vinculada",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-cria-filtro-para-pedidos-protocolados-em-processos-ja-existentes/",
-    "time": "2026-10-02T14:45:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lito Sousa ajudou famosos a vencer medo de avião; veja relatos",
-    "d": "Influenciador era especialista em aviação e ficou conhecido por aproximar o público do universo",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-ajudou-famosos-a-vencer-medo-de-aviao-veja-relatos/",
-    "time": "2026-10-02T14:45:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nova aparência de Neymar viraliza nas redes sociais: “Foi substituído”",
-    "d": "Internautas especulam que jogador do Santos tenha passado por procedimento estético",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nova-aparencia-de-neymar-viraliza-nas-redes-sociais-foi-substituido/",
-    "time": "2026-10-02T14:43:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Filho de Gio Ewbank e Bruno Gagliasso fará estreia em “A Nobreza do Amor”",
-    "d": "Aos 11 anos, o pequeno fará sua participação no capítulo desta sexta-feira (2), em um flashback de Cayman II e José (Bukassa Kabengele)",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/filho-de-gio-ewbank-e-bruno-gagliasso-fara-estreia-em-a-nobreza-do-amor/",
-    "time": "2026-10-02T14:27:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Doença que Lito Sousa teve pode matar em até um ano e não tem cura",
-    "d": "Youtuber morreu 41 dias após anunciar o diagnóstico da doença neurodegenerativa de Creutzfeldt-Jakob",
-    "link": "https://www.cnnbrasil.com.br/saude/doenca-que-lito-sousa-teve-pode-matar-em-ate-um-ano-e-nao-tem-cura/",
-    "time": "2026-10-02T14:23:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ashley Tisdale revela que teve depressão pós-parto: “Tentei me divorciar”",
-    "d": "Estrela de \"High School Musical\" compartilhou relato difícil do que enfrentou quando deu à luz Jupiter, sua primeira herdeira, que atualmente tem cinco anos",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ashley-tisdale-revela-que-teve-depressao-pos-parto-tentei-me-divorciar/",
-    "time": "2026-10-02T14:20:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Eleição sem debate expõe ativismo judiciário",
-    "d": "Decisão judicial que impediu púlpito vazio na Globo expõe interferência do judiciário no processo eleitoral, segundo analista de Política da CNN Clarissa Oliveira, ao Live CNN",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/analise-eleicao-sem-debate-expoe-ativismo-judiciario/",
-    "time": "2026-10-02T14:17:20.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Trump deve nomear Jay Clayton, atual diretor de espionagem, como 'czar' da inteligência artificial, diz TV",
+    "d": "Jay Clayton, diretor da inteligência dos EUA, durante reunião com executivos das empresas de IA na Casa Branca KEVIN DIETSCH / GETTY IMAGES / VIA AFP O presidente dos Estados Unidos, Donald Trump, deve escolher Jay Cl…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/02/trump-czar-ia.ghtml",
+    "time": "2026-10-02T14:28:52.000Z"
   },
   {
     "cat": "economia",
@@ -161,14 +393,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Lula e Flávio Bolsonaro focam reta final no Sudeste, onde petista avança e anima campanha",
-    "d": "Os dois líderes da corrida presidencial, o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ), vão concentrar os dois últimos dias de campanha no Sudeste, região que reúne os maiores colégi…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/02/lula-e-flavio-bolsonaro-focam-reta-final-no-sudeste-onde-petista-avanca-e-anima-campanha.ghtml",
-    "time": "2026-10-02T13:43:40.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Preferência por Lula, cautela ao criticar Flávio: como a China (e a imprensa local) vê a eleição no Brasil",
     "d": "Jornais chineses — que são fortemente controlados pelo governo de Pequim — destacam que economia é determinante nas relações entre Brasil e China, independentemente de o presidente ser de esquerda ou direita.",
@@ -176,60 +400,12 @@
     "time": "2026-10-02T13:41:55.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
-    "h": "MP Eleitoral pede multa a Lula, Flávio Bolsonaro e outros candidatos por propaganda irregular",
-    "d": "O Ministério Público Eleitoral entrou com ações no Tribunal Superior Eleitoral (TSE) contra candidatos à Presidência e a vice por supostas irregularidades na propaganda eleitoral na internet. Entre os alvos estão Luiz…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/02/mp-eleitoral-pede-multa-a-lula-flavio-bolsonaro-e-outros-candidatos-por-propaganda-irregular.ghtml",
-    "time": "2026-10-02T13:16:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Diretora do TSE reforça segurança das urnas e diz que 'democracias maduras não temem ser observadas'",
-    "d": "Diretora do TSE reforça segurança das urnas e diz que 'democracias maduras não temem ser observadas' A diretora para Assuntos Internacionais do Tribunal Superior Eleitoral (TSE), Renata Gil, reforçou a transparência e…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/02/diretora-do-tse-reforca-seguranca-das-urnas-e-diz-que-democracias-maduras-nao-temem-ser-observadas.ghtml",
-    "time": "2026-10-02T13:04:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Presidente do TSE, Nunes Marques fará pronunciamento em rede nacional na véspera do 1º turno",
-    "d": "O ministro Kassio Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE), fará um pronunciamento em rede nacional de televisão e rádio neste sábado (3), véspera do primeiro turno das eleições. A manifestação d…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/presidente-do-tse-nunes-marques-fara-pronunciamento-em-rede-nacional-na-vespera-do-1o-turno.ghtml",
-    "time": "2026-10-02T13:01:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Debate presidencial cancelado: veja o que falou imprensa internacional",
-    "d": "Cancelamento do debate da Globo: veja a reação dos candidatos O cancelamento do tradicional debate dos candidatos à Presidência da República da TV Globo, na noite desta quinta-feira (1º), repercutiu na imprensa intern…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/02/debate-presidencial-cancelado-veja-o-que-falou-imprensa-internacional.ghtml",
-    "time": "2026-10-02T12:55:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça comunica às plataformas novos critérios para exclusão de posts associando Flávio Bolsonaro à retirada do posto de padroeira de Nossa Senhora",
-    "d": "Mendonça manda 'X' excluir posts de Flávio Bolsonaro e Nossa Senhora O ministro André Mendonça, vice-presidente do Tribunal Superior Eleitoral (TSE), determinou que as plataformas excluam postagens que atribuam falsam…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/02/mendonca-manda-redes-apagarem-posts-associando-flavio-bolsonaro-a-retirada-do-posto-de-padroeira-de-nossa-senhora.ghtml",
-    "time": "2026-10-02T12:23:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Análise: Judiciário protagoniza a eleição do começo ao fim do 1° turno",
-    "d": "Judiciário protagoniza a eleição do começo ao fim do 1° turno A reta final da campanha para o primeiro turno foi marcada menos pelo confronto de propostas entre os candidatos e mais pela atuação do Judiciário, que se…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/02/judiciario-protagoniza-a-eleicao-do-comeco-ao-fim-do-1-turno.ghtml",
-    "time": "2026-10-02T12:03:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Após aviso dos EUA, embaixada da Austrália também anuncia fechamento por questões de segurança",
-    "d": "Comunicado Embaixada da Austrália Reprodução/Redes Sociais A embaixada da Austrália no Brasil emitiu um comunicado informando que estará fechada nesta sexta-feira (2) \"devido a preocupações com a segurança\". Na public…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/02/apos-aviso-dos-eua-embaixada-da-australia-anuncia-fechamento-por-questoes-de-seguranca.ghtml",
-    "time": "2026-10-02T11:57:31.000Z"
+    "h": "Como plantar girassol? Veja dicas sobre o cultivo",
+    "d": "Plantação de girassóis enfeita cenário na área rural de Cerquilho (SP). Tiago Fogaça Gilmara Vieira, de Paty do Alferes (RJ), quer plantar girassol em um terreno e pediu ao Globo Rural um folheto com orientações sobre…",
+    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/02/como-plantar-girassol-veja-dicas-sobre-o-cultivo.ghtml",
+    "time": "2026-10-02T12:30:55.000Z"
   },
   {
     "cat": "brasil",
@@ -241,22 +417,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Maior juro do mercado, uso do rotativo bate recorde; Lula quer limitar a um cartão de crédito por pessoa",
-    "d": "Juro médio cobrado pelos bancos no rotativo do cartão de crédito era de 445% ao ano em agosto, segundo dados do Banco Central Getty Images via BBC Brasil Alvo do presidente Luiz Inácio Lula da Silva (PT), o uso da lin…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/02/maior-juro-do-mercado-uso-do-rotativo-bate-recorde-lula-quer-limitar-a-um-cartao-de-credito-por-pessoa.ghtml",
-    "time": "2026-10-02T11:19:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "IA impulsiona produção de ataques contra candidatas mulheres nas eleições de 2026",
-    "d": "A inteligência artificial (IA) ganhou espaço em uma nova frente da disputa eleitoral: a produção em escala de imagens ofensivas contra mulheres na política. Levantamento do projeto MonitorA, observatório de violência…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/ia-ataques-contra-candidatas-nas-eleicoes-de-2026.ghtml",
-    "time": "2026-10-02T11:01:11.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Esquerda que ri de 'CEO de MEI' não entende os sonhos do novo trabalhador, diz antropóloga",
     "d": "Rosana Pinheiro-Machado, do University College Dublin, diz que redes sociais ampliaram dramaticamente aspirações de boa parte dos brasileiros e que direita radical domina linguagem para falar com esse público.",
@@ -264,20 +424,12 @@
     "time": "2026-10-02T10:54:31.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-    "d": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-    "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T10:04:56.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Cornell students gather to voice anger over alleged gang rape",
-    "d": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T10:00:24.000Z"
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Clique aqui",
+    "d": "Acompanhe a apuração para presidente e governador em seu Estado e município com o mapa interativo da BBC News Brasil",
+    "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T10:39:09.000Z"
   },
   {
     "cat": "internacional",
@@ -288,20 +440,20 @@
     "time": "2026-10-02T09:08:06.000Z"
   },
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "BBC News Brasil fará cobertura AO VIVO no dia da eleição, com apuração e resultados do primeiro turno",
+    "d": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — começa cedo, às 7h30, no horário de Brasília, acompanhando a abertura das urnas, o clima da votação e os principais acontecimentos…",
+    "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T09:03:53.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
-    "d": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about Pharaohs’ origins On the eve of Chinese president Xi Jinping’s state v…",
+    "d": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s sta…",
     "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
     "time": "2026-10-02T08:55:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Debate na Globo cancelado: as razões da emissora, as reações dos candidatos e as críticas de entidades de imprensa",
-    "d": "Emissora argumentou 'insegurança jurídica' diante de decisões judiciais sobre o debate; Romeu Zema chama episódio de 'vergonha nacional'.",
-    "link": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T08:40:23.000Z"
   },
   {
     "cat": "internacional",
@@ -360,36 +512,12 @@
     "time": "2026-10-02T02:00:07.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
-    "d": "Reconfiguração do confronto com inclusão de Renan Santos e proibição da Globo mostrar púlpitos vazios levou emissora a cancelar o debate alegando 'insegurança jurídica'.",
-    "link": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T01:39:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Morre Lito Sousa, o youtuber que fez milhões se apaixonarem por aviação",
-    "d": "Mecânico e piloto de aviões, Lito Sousa comoveu milhões de pessoas ao revelar que enfrentava a doença de Creutzfeldt-Jakob (DCJ).",
-    "link": "https://www.bbc.com/portuguese/articles/cqz0z0epzdrxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T22:44:11.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
     "d": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
     "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T19:59:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-    "d": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T19:38:30.000Z"
   },
   {
     "cat": "internacional",
@@ -406,22 +534,6 @@
     "d": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US g…",
     "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
     "time": "2026-10-01T17:56:18.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Algeria introduces death penalty for arsonists after deadly wildfires",
-    "d": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-    "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T16:31:35.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-    "d": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T14:05:55.000Z"
   },
   {
     "cat": "economia",
@@ -534,13 +646,5 @@
     "d": "Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’ Sign up for The Stakes 2026: your weekly guide to the US midterms Donald T…",
     "link": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
     "time": "2026-09-28T11:00:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
-    "d": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged…",
-    "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
-    "time": "2026-09-27T23:24:10.000Z"
   }
 ]
