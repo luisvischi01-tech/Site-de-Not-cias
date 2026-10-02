@@ -1,19 +1,235 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Debate na Globo cancelado: as razões da emissora, as reações dos candidatos e as críticas de entidades de imprensa",
+    "d": "Emissora argumentou 'insegurança jurídica' diante de decisões judiciais sobre o debate; Romeu Zema chama episódio de 'vergonha nacional'.",
+    "link": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T08:40:23.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "What happened in the failed execution of Christa Pike - and what next?",
-    "d": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-    "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T02:11:34.000Z"
+    "h": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+    "d": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.",
+    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T08:33:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "OpenAI fires workers for 'mishandling sensitive information'",
+    "d": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T08:20:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+    "d": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T08:16:32.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Flávio: Lula usou seus amigos do Judiciário para impor censura ao debate",
-    "d": "Senador afirmou em transmissão ao vivo que a proibição de cadeira vazia e inclusão de candidato inviabilizaram o confronto",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-lula-usou-seus-amigos-do-judiciario-para-impor-censura-ao-debate/",
-    "time": "2026-10-02T02:01:06.000Z"
+    "h": "Eleições 2026: Entenda o que acontece entre a eleição e a posse",
+    "d": "Pleito define representantes para os poderes Executivo e Legislativo nos âmbitos estadual e federal",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-entenda-o-que-acontece-entre-a-eleicao-e-a-posse/",
+    "time": "2026-10-02T08:03:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+    "d": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+    "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T08:01:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Adversária do Brasil, Índia tem apenas um jogador atuando no exterior",
+    "d": "Índia é a terceira adversária da Seleção Brasileira nesta Super Data Fifa; país asiático ocupa a 137ª posição no ranking da Fifa",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/adversaria-do-brasil-india-tem-apenas-um-jogador-atuando-no-exterior/",
+    "time": "2026-10-02T08:00:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Wall Street questiona plano de financiamento da Nvidia para IA",
+    "d": "Bancos e investidores exigem garantias maiores para conceder empréstimos baseados em chips avançados",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/wall-street-questiona-plano-de-financiamento-da-nvidia-para-ia/",
+    "time": "2026-10-02T08:00:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "INSS vai pagar afastamento para vítimas de violência doméstica; veja quem tem direito e como pedir",
+    "d": "Nesta quinta-feira (1º), o presidente Luiz Inácio Lula da Silva (PT) assinou um parecer que garante o afastamento remunerado do trabalho para mulheres vítimas de violência doméstica. A mulher poderá ficar afastada do…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/02/inss-vai-pagar-afastamento-para-vitimas-de-violencia-domestica-veja-quem-tem-direito-e-como-pedir.ghtml",
+    "time": "2026-10-02T08:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "UE considera 'difícil' liberar carne brasileira antes de 2 anos, diz representante do bloco ao g1",
+    "d": "Chefe-adjunto da Delegação da UE no Brasil, Jean-Pierre Bou. Reprodução X A União Europeia (UE) ainda vê dificuldades para recolocar o Brasil na lista de países autorizados a exportar carne bovina para o bloco em meno…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/02/ue-considera-dificil-liberar-carne-brasileira-antes-de-2-anos-diz-representante-do-bloco-ao-g1.ghtml",
+    "time": "2026-10-02T08:00:00.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "BBC News Brasil",
+    "h": "Vorcaro forneceu jatinho e Moët Chandon para desembargador viajar a Buenos Aires, mostram mensagens",
+    "d": "Desembargador Newton Ramos atua em Tribunal Regional Federal da 1ª Região, em que tramitam causas relacionadas a pré-precatórios do setor sucroalcooleiro compradas pelo Banco Master.",
+    "link": "https://www.bbc.com/portuguese/articles/cmy4z41l1j3eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T07:52:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vai votar fora da cidade? Entenda o que é voto em trânsito e regras",
+    "d": "Eleitor pode votar em qualquer capital ou município com mais de 100 mil eleitores e não precisa realizar novo pedido para voltar ao seu domicílio eleitoral de origem",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/vai-votar-fora-da-cidade-entenda-o-que-e-voto-em-transito-e-regras/",
+    "time": "2026-10-02T07:40:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "BNDES pode virar sócio de refinaria de terras raras em MG",
+    "d": "Banco ainda estuda se apoio será por crédito ou participação acionária; planta em MG pode virar hub para diversos projetos de terras raras, enquanto Lynas mantém Malásia como alternativa",
+    "link": "https://www.cnnbrasil.com.br/infra/bndes-pode-virar-socio-de-refinaria-de-terras-raras-em-mg/",
+    "time": "2026-10-02T07:30:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "França x Itália: horário e onde assistir ao jogo da Nations League",
+    "d": "Seleções vão a campo nesta sexta-feira (2), no Stade de France, em Paris, pela 3ª rodada da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/franca-x-italia-horario-e-onde-assistir-ao-jogo-da-nations-league-2/",
+    "time": "2026-10-02T07:30:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eneva diz ao TCU que Aneel usou “informações incorretas” em veto a acordo",
+    "d": "Em nota técnica obtida pela CNN, companhia defende continuidade da negociação para flexibilizar térmicas e cita saldo positivo de R$ 223 milhões por ano para o sistema elétrico",
+    "link": "https://www.cnnbrasil.com.br/noticias/eneva-diz-ao-tcu-que-aneel-usou-informacoes-incorretas-em-veto-a-acordo/",
+    "time": "2026-10-02T07:30:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Aneel pauta processo sobre caducidade da Enel SP para a próxima terça (6)",
+    "d": "Matéria volta a ser analisada após diretoria colegiada negar recurso da distribuidora contra a decisão que negou uma perícia técnica",
+    "link": "https://www.cnnbrasil.com.br/infra/aneel-pauta-processo-de-caducidade-da-enel-sp-para-a-proxima-terca-6/",
+    "time": "2026-10-02T07:30:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vencedor de concurso de fotografia de microscopia da Nikon enfrenta críticas pelo uso de inteligência artificial",
+    "d": "Autor do vídeo entregou relatórios detalhados sobre os métodos ópticos e equipamentos utilizados na gravação das vias aéreas",
+    "link": "https://www.cnnbrasil.com.br/ciencia/vencedor-de-concurso-de-fotografia-de-microscopia-da-nikon-enfrenta-criticas-pelo-uso-de-inteligencia-artificial/",
+    "time": "2026-10-02T07:24:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Embate STF x TSE é pelo controle da Corte por até 10 anos, diz especialista",
+    "d": "Ao WW, Leandro Gabiati, cientista político e diretor da Dominium, afirma que disputa interna no Supremo define equilíbrio de poder para os próximos anos",
+    "link": "https://www.cnnbrasil.com.br/politica/embate-stf-x-tse-e-pelo-controle-da-corte-por-ate-10-anos-diz-especialista/",
+    "time": "2026-10-02T07:23:44.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "O que está acontecendo no mercado de títulos nos EUA?",
+    "d": "Rendimento dos títulos do Tesouro americano de 10 anos mantém ritmo de alta em meio à economia aquecida, avanço da inflação e expectativa por novo aumento dos juros",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/o-que-esta-acontecendo-no-mercado-de-titulos-nos-eua/",
+    "time": "2026-10-02T07:15:32.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Anac lamenta morte de Lito Sousa e destaca sua importância para a aviação",
+    "d": "Além do órgão, Força Aérea Brasileira também divulga nota de pesar sobre o falecimento do influenciador",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/anac-lamenta-morte-de-lito-sousa-e-destaca-sua-importancia-para-a-aviacao/",
+    "time": "2026-10-02T07:10:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Empresa registra mais de 15,7 mil dias de atestados em 6 meses no ES: número alto de afastamentos pode gerar demissão?",
+    "d": "Empresa no ES registra mais de 15 mil dias de atestados em seis meses Uma rede de supermercados com dez unidades na Grande Vitória, no Espírito Santo, registrou 15.705 dias de atestados entre janeiro e julho deste ano…",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/02/empresa-registra-mais-de-157-mil-dias-de-atestados-em-6-meses-no-es-numero-alto-de-afastamentos-pode-gerar-demissao.ghtml",
+    "time": "2026-10-02T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Leilão da Receita tem iPhone por R$ 3 mil e Camaro Amarelo por R$ 50 mil; saiba como participar",
+    "d": "Camaro amarelo à venda. Reprodução/Receita Federal A Receita Federal em São Paulo começa a receber a partir desta sexta-feira (2), 8h, o recebimento das propostas do novo leilão eletrônico para mercadorias apreendidas…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/02/leilao-da-receita-tem-iphone-por-r-3-mil-e-camaro-amarelo-por-r-50-mil-saiba-como-participar.ghtml",
+    "time": "2026-10-02T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Morango cravejado: a sobremesa viral que encontrou um morango mais caro e escasso",
+    "d": "Em alta nas redes sociais, morango cravejado faz sucesso em Juiz de Fora A nova febre das redes sociais chegou ao morango em um momento pouco favorável para quem produz — e para quem compra. Enquanto o morango craveja…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/02/morango-cravejado-a-sobremesa-viral-que-encontrou-um-morango-mais-caro-e-escasso.ghtml",
+    "time": "2026-10-02T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Trabalhar nas eleições dá direito a folga? Quanto ganha um mesário? Veja os benefícios",
+    "d": "Mesário conferindo documento / Eleição Tomaz Silva/Agência Brasil Trabalhar nas eleições não é considerado emprego temporário e não dá direito a salário. Mas isso não significa que o trabalho de mesário seja voluntári…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/02/trabalhar-nas-eleicoes-da-direito-a-folga-quanto-ganha-um-mesario.ghtml",
+    "time": "2026-10-02T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+    "d": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T05:53:51.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+    "d": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+    "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T04:21:31.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+    "d": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to Sunday A row of Biblical proportions has erupted in the run-up to Brazil’s presidential e…",
+    "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+    "time": "2026-10-02T04:00:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+    "d": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T03:09:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+    "d": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+    "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T02:49:44.000Z"
   },
   {
     "cat": "internacional",
@@ -25,30 +241,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Acho que esses debates não produzem nada”, diz Lula",
-    "d": "Presidente, que decidiu não participar de debates no primeiro turno, concedeu entrevista ao podcast Flow nesta quinta-feira (1º)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/acho-que-esses-debates-nao-produzem-nada-diz-lula/",
-    "time": "2026-10-02T01:42:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Famosos chegam ao tapete vermelho do Festival do Rio; veja fotos",
-    "d": "Evento começou nesta quinta (1) e terá programação até dia 11 de outubro; entre as celebridades estão Betty Faria, Reynaldo Gianecchini, Letícia Sabatella, entre outros",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-chegam-ao-tapete-vermelho-do-festival-do-rio-veja-fotos/",
-    "time": "2026-10-02T01:41:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gilmar exerce “ativismo judicial” ao arbitrar sobre Renan, diz jurista",
-    "d": "Ao CNN Prime Time, Vera Chemin, especialista em Direito Constitucional, afirma que decisão de Gilmar Mendes desrespeita legislação eleitoral e revela viés político-ideológico",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/gilmar-exerce-ativismo-judicial-ao-arbitrar-sobre-renan-diz-jurista/",
-    "time": "2026-10-02T01:39:32.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
     "d": "Reconfiguração do confronto com inclusão de Renan Santos e proibição da Globo mostrar púlpitos vazios levou emissora a cancelar o debate alegando 'insegurança jurídica'.",
@@ -56,76 +248,12 @@
     "time": "2026-10-02T01:39:26.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça manda deputado do PL entregar armas de fogo à PF após ameaça",
-    "d": "TRE-RJ (Tribunal Regional Eleitoral do Rio de Janeiro) suspendeu porte de arma de Flávio Serafini após ele ameaçar comitê de candidato do PSOL",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/justica-manda-deputado-do-pl-entregar-armas-de-fogo-a-pf-apos-ameaca/",
-    "time": "2026-10-02T01:38:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cury após cancelamento do debate: “Colapso da democracia, infelizmente”",
-    "d": "Candidato do Avante criticou o protagonismo do STF e defendeu mandato de oito anos para ministros da Corte após evento da Globo não acontecer",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/cury-apos-cancelamento-do-debate-colapso-da-democracia-infelizmente/",
-    "time": "2026-10-02T01:36:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiro vem da África ao Brasil remando sozinho após 2 anos de treino",
-    "d": "Raphael Garcia repetiu feito de Amyr Klink ao cruzar o Oceano Atlântico 42 anos depois enfrentando perigos mortais; toda viagem foi feita em 136 dias",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasileiro-vem-da-africa-ao-brasil-remando-sozinho-apos-2-anos-de-treino/",
-    "time": "2026-10-02T01:30:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ministra que proibiu púlpito vazio em debate trabalhou no governo Lula",
-    "d": "No governo do petista, magistrada do TSE foi secretária do Ministério da Justiça e assessora especial da Presidência da República",
-    "link": "https://www.cnnbrasil.com.br/politica/ministra-que-proibiu-pulpito-vazio-em-debate-trabalhou-no-governo-lula/",
-    "time": "2026-10-02T01:25:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em último dia de comício, Tarcísio destaca campanha “leve” e sem ataques",
-    "d": "Governador diz que evitou responder a provocações e apostou em propostas durante disputa pelo Palácio dos Bandeirantes",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/em-ultimo-dia-de-comicio-tarcisio-destaca-campanha-leve-e-sem-ataques/",
-    "time": "2026-10-02T01:23:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O que explica a facilidade de algumas pessoas em estalar os dedos, enquanto outras não conseguem fazer o mesmo?",
-    "d": "Sons reproduzidos ao apertar ou puxar as falanges já foi alvo de estudos ao longo dos anos",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/o-que-explica-a-facilidade-de-algumas-pessoas-em-estalar-os-dedos-enquanto-outras-nao-conseguem-fazer-o-mesmo/",
-    "time": "2026-10-02T01:22:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“A Fazenda 18”: parcial mostra que peoa deve ser eliminada na 2ª Roça",
-    "d": "Adryana Ribeiro, Daniel Erthal e Maíra Charken estão na berlinda",
-    "link": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-parcial-mostra-que-peoa-deve-ser-eliminada-na-2a-roca/",
-    "time": "2026-10-02T01:21:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arrascaeta, do Flamengo, recebe alta hospitalar após cirurgia no pulso",
-    "d": "Meio-campista uruguaio realizou uma cirurgia de correção de uma fratura no punho esquerdo, sofrida durante amistoso entre Uruguai e Coreia do Sul, na última segunda-feira",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/arrascaeta-do-flamengo-recebe-alta-hospitalar-apos-cirurgia-no-pulso/",
-    "time": "2026-10-02T01:18:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Debate na Globo cancelado: quem estava confirmado e as razões da emissora",
-    "d": "Tradicional debate da TV Globo seria realizado na noite de hoje (01/10), sem a presença de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Emissora argumentou \"insegurança jurídica\" diante de decisões judiciai…",
-    "link": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T00:01:54.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena 3065 acumula e prêmio vai a R$ 82 milhões; confira os números sorteados",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.065 da Mega-Sena foi realizado na noite desta quinta-feira (1º), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 72,2 milhões. No enta…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/01/mega-sena-concurso-3065-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-10-02T00:02:27.000Z"
   },
   {
     "cat": "brasil",
@@ -138,7 +266,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Morre Lito Sousa, o YouTuber que fez milhões se apaixonarem por aviação",
+    "h": "Morre Lito Sousa, o youtuber que fez milhões se apaixonarem por aviação",
     "d": "Mecânico e piloto de aviões, Lito Sousa comoveu milhões de pessoas ao revelar que enfrentava a doença de Creutzfeldt-Jakob (DCJ).",
     "link": "https://www.bbc.com/portuguese/articles/cqz0z0epzdrxo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T22:44:11.000Z"
@@ -152,12 +280,12 @@
     "time": "2026-10-01T22:28:45.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-    "d": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T20:30:47.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Temos que sobreviver', diz presidente da Disney sobre onda de demissões",
+    "d": "Dana Walden, presidente da Walt Disney Company, em foto de 1º de outubro de 2026 AFP/Frederic J. Brown A presidente da Walt Disney Company, Dana Walden, falou nesta quinta-feira (1º) sobre as demissões na empresa e af…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/temos-que-sobreviver-diz-presidente-da-disney-sobre-onda-de-demissoes.ghtml",
+    "time": "2026-10-01T21:45:33.000Z"
   },
   {
     "cat": "internacional",
@@ -224,28 +352,36 @@
     "time": "2026-10-01T17:56:18.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Algeria introduces death penalty for arsonists after deadly wildfires",
-    "d": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-    "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T16:31:35.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Jaecoo 5 mira sucesso do Omoda 5 e quer desbancar Hyundai Creta e VW T-Cross; será que consegue?",
+    "d": "Jaecoo 5 anda bem e é econômico, mas escorrega em alguns detalhes Mostrando que há vida além de BYD e GWM entre os carros chineses, a Omoda&Jaecoo tenta repetir seu maior acerto de portfólio. O Omoda 5 é hoje o tercei…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/01/jaecoo-5-mira-sucesso-do-omoda-5-e-quer-desbancar-hyundai-creta-e-vw-t-cross-sera-que-consegue.ghtml",
+    "time": "2026-10-01T17:03:18.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-    "d": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T14:05:55.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "59% dos brasileiros querem parar de trabalhar até os 60 anos, mas só 28% acham que vão conseguir, diz pesquisa",
+    "d": "Dia do Idoso: atividade física ajuda a envelhecer com mais qualidade de vida Aos 60 anos, uma pessoa já é considerada idosa pela legislação brasileira. Mas, para boa parte dos trabalhadores, chegar a essa idade não si…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/01/59percent-dos-brasileiros-querem-parar-de-trabalhar-ate-os-60-anos-mas-so-28percent-acham-que-vao-conseguir-diz-pesquisa.ghtml",
+    "time": "2026-10-01T16:37:19.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Da pergunta sobre Deus a FHC à cadeirada de Datena: 5 debates que marcaram as eleições brasileiras",
-    "d": "Analista político elenca episódios de 1985, 1989, 2022 e 2024 que ajudam a entender como os programas passaram da TV para a lógica dos memes e dos cortes.",
-    "link": "https://www.bbc.com/portuguese/articles/cqe9ekkzdl89o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T13:02:32.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Polícia espanhola prende adolescente de 16 anos suspeito de liderar grupo de hackers em investigação na Europa",
+    "d": "Rússia fala em ataque hacker ao sistema eleitoral em meio a votações para o Congresso A polícia da Espanha informou nesta quinta-feira (1º) que prendeu um adolescente de 16 anos suspeito de ser o principal responsável…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/01/policia-espanhola-prende-adolescente-de-16-anos-suspeito-de-liderar-grupo-de-hackers-em-investigacao-na-europa.ghtml",
+    "time": "2026-10-01T16:05:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Agentes de IA tentam invadir site do governo do Canadá; caso acende alerta após ataque na Austrália",
+    "d": "Uso da inteligência artificial exige cuidados no trabalho Uma empresa de pesquisa em inteligência artificial (IA) afirmou na quarta-feira (30) que agentes de IA tentaram invadir um site do governo do Canadá. A empresa…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/01/agentes-de-ia-tentam-invadir-site-do-governo-do-canada-caso-acende-alerta-apos-ataque-na-australia.ghtml",
+    "time": "2026-10-01T15:55:05.000Z"
   },
   {
     "cat": "brasil",
@@ -254,22 +390,6 @@
     "d": "Segundo Agregador de Pesquisas da BBC News Brasil, petista tem 41% das intenções de votos, enquanto o filho do ex-presidente Jair Bolsonaro soma 38%.",
     "link": "https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-01T12:56:45.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-    "d": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
-    "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T12:13:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    "d": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T11:37:46.000Z"
   },
   {
     "cat": "economia",
@@ -302,22 +422,6 @@
     "d": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday The lunchtime crowds drifted slowly back to their office…",
     "link": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
     "time": "2026-10-01T06:04:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "K-pop star convicted of violating military service law",
-    "d": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
-    "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T05:24:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Japan raises permanent residency fee by 20 times",
-    "d": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-01T02:57:43.000Z"
   },
   {
     "cat": "internacional",
@@ -430,14 +534,6 @@
     "d": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged…",
     "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
     "time": "2026-09-27T23:24:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
-    "d": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, fl…",
-    "link": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
-    "time": "2026-09-27T22:59:25.000Z"
   },
   {
     "cat": "internacional",
