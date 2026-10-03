@@ -1,11 +1,235 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
+    "d": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil A votação do 1º turno começa às 8h e termina às 17h, seguindo o horário de Brasília. Em locais com fuso diferente, os horários locais mudam. Ve…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
+    "time": "2026-10-03T21:27:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha para o Senado no RJ, votos válidos: Benedita, 26%; Portinho, 19%; Jordy, 18; Pedro Paulo, 13%; Monica Benicio, 9%; Crivella, 6%",
+    "d": "Plenário do Senado Federal Ton Molina/Agência Senado Pesquisa Datafolha divulgada neste sábado (3) mostra como está a corrida pelas duas vagas do Rio de Janeiro no Senado. Benedita da Silva (PT) tem 26% das intenções…",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/datafolha-rj-senado-3-outubro.ghtml",
+    "time": "2026-10-03T21:23:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha para o Senado no DF, votos válidos: Michelle, 30%; Bia, 24%; Leila, 21%; Erika, 18%",
+    "d": "Michelle Bolsonaro (PL); Leila do Vôlei (PDT); Bia Kicis (PL) e Erika Kokay (PT) são candidatas ao Senado pelo DF. Reprodução Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra como está a disp…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-senado-3-outubro.ghtml",
+    "time": "2026-10-03T21:22:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha em PE, votos válidos: Raquel Lyra, 49%; João Campos, 48%",
+    "d": "Raquel Lyra (PSD) e João Campos (PSB) no debate da TV Globo Brenda Alcântara/TV Globo Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo de Pernambuco. Raquel L…",
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pe-governador-3-outubro.ghtml",
+    "time": "2026-10-03T21:22:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha no DF, votos válidos: Celina Leão, 55%; Leandro Grass, 27%; Paula Belmonte, 10%",
+    "d": "Celina Leão (PP), Leandro Grass (PT) e Paula Belmonte (PSDB). TV Globo Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo do Distrito Federal. O levantamento in…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-governador-3-outubro.ghtml",
+    "time": "2026-10-03T21:20:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha no RJ, votos válidos: Paes tem 46% e Ruas, 38%",
+    "d": "Eduardo Paes e Douglas Ruas Montagem g1 Pesquisa Datafolha divulgada neste sábado (3) mostra Eduardo Paes (PSD) com 46% das intenções de voto para governador do Rio de Janeiro nos votos válidos. Douglas Ruas (PL) apar…",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/datafolha-rj-governador-3-outubro.ghtml",
+    "time": "2026-10-03T21:18:43.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Medical plane with 6 on board missing off Massachusetts coast",
+    "d": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-03T21:16:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha para o Senado em SP: Derrite, 22%; André do Prado, 22%; Marina, 21%; Tebet, 20%",
+    "d": "Os candidatos ao Senado por São Paulo Guilherme Derrite (PP), André do Prado (PL), Marina Silva (Rede) e Simone Tebet (PSB) Reprodução/TV Globo Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostr…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-senado-3-outubro.ghtml",
+    "time": "2026-10-03T21:16:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha em SP, votos válidos: Tarcísio, 60%; Haddad, 35%",
+    "d": "Datafolha em SP, votos válidos: Tarcísio, 60% e Haddad, 35% no 1º turno Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra que a disputa pelo governo de São Paulo tem Tarcísio de Freitas (Repub…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-governador-3-outubro.ghtml",
+    "time": "2026-10-03T21:16:02.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Atlas: Fonteles tem 68,4% dos votos válidos no 1º turno do PI; Joel, 29,7%",
-    "d": "Levantamento ouviu 1.230 eleitores entre os dias 27 de setembro e 2 de outubro; margem de erro é de 3 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-fonteles-tem-684-dos-votos-validos-no-1o-turno-do-pi-joel-297/",
-    "time": "2026-10-03T17:53:07.000Z"
+    "h": "Defesa Civil de SP alerta para chuvas com raios e ventos no domingo (4)",
+    "d": "Primeiro turno das eleições pode ter pancadas isoladas com raios e rajadas de vento em todo o estado, com possibilidade de transtorno em áreas vulneráveis",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-de-sp-alerta-para-chuvas-com-raios-e-ventos-no-domingo-4/",
+    "time": "2026-10-03T21:06:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest SP: Derrite, 25%; André do Prado, 23%; Marina e Tebet, 22% cada",
+    "d": "Levantamento ouviu 3.702 eleitores entre os dias 2 e 3 de outubro; o levantamento considera apenas os votos válidos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-sp-derrite-25-andre-do-prado-23-marina-e-tebet-22-cada/",
+    "time": "2026-10-03T21:04:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest MG: Sávio tem 22% de votos válidos; Viana e Marília, 18%; Aécio, 17%",
+    "d": "Pesquisa ouviu 3.204 eleitores entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-mg-savio-tem-22-de-votos-validos-viana-e-marilia-18-aecio-17/",
+    "time": "2026-10-03T21:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest Senado Pará: Helder tem 28%; Éder, 24%; Chicão, 20%; Zequinha, 17%",
+    "d": "Levantamento considera os votos válidos e reúne as duas escolhas dos eleitores paraenses para o Senado; 1.800 pessoas foram entrevistadas com índice de 95% de confiança",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-pa-helder-28-eder-24-chicao-20-zequinha-17/",
+    "time": "2026-10-03T20:56:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça Eleitoral trocou 72 locais de votação controlados por facções no RJ",
+    "d": "Mudança afetou cerca de 202 mil eleitores em 20 cidades do estado; 43 urnas serão submetidas a auditorias da votação eletrônica",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/justica-eleitoral-trocou-72-locais-de-votacao-controlados-por-faccoes-no-rj/",
+    "time": "2026-10-03T20:55:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest Senado DF: Michelle tem 31% dos votos válidos; Leila, 27%; Bia, 24%",
+    "d": "Pesquisa ouviu 2.625 eleitores entre os dias 2 e 3 de outubro; margem de erro é de 2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-df-michelle-tem-31-dos-votos-validos-leila-27-bia-24/",
+    "time": "2026-10-03T20:54:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest MG: Cleitinho tem 54% dos votos válidos; Patrus, 23%; Kalil, 10%",
+    "d": "Pesquisa ouviu 3.204 eleitores entre os dias 2 e 3 de outubro; margem de erro é de 2 p.p. para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-mg-cleitinho-tem-54-dos-votos-validos-patrus-23-kalil-10/",
+    "time": "2026-10-03T20:53:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Celina tem 53% dos votos válidos pelo governo do DF; Grass, 32%",
+    "d": "Paula Belmonte aparece com 10%; levantamento ouviu 2.652 eleitores na véspera do primeiro turno",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-celina-tem-53-dos-votos-validos-pelo-governo-do-df-grass-32/",
+    "time": "2026-10-03T20:53:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasileiros começam a votar na Nova Zelândia e Austrália",
+    "d": "Eleitores que vivem fora do país votam apenas para presidente e vice-presidente; mais de 918 mil brasileiros estão aptos a participar do pleito no exterior",
+    "link": "https://www.cnnbrasil.com.br/internacional/brasileiros-comecam-a-votar-na-nova-zelandia-e-australia/",
+    "time": "2026-10-03T20:53:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas Senado/PA: Helder, 27,1%; Éder, 21,2%; Chicão, 18,9%; Zequinha, 18,2%",
+    "d": "Levantamento ouviu 1.206 eleitores entre os dias 27 de setembro e 2 de outubro; margem de erro é de três pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-senado-pa-helder-271-eder-212-chicao-189-zequinha-182/",
+    "time": "2026-10-03T20:51:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest PE: Raquel tem 52% dos votos válidos no 1º turno; João Campos, 47%",
+    "d": "Levantamento ouviu 2.652 eleitores de 16 anos ou mais, entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, com nível de confiança é de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-pe-lyra-tem-52-dos-votos-validos-no-1o-turno-joao-campos-47/",
+    "time": "2026-10-03T20:49:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest: Tarcísio tem 60% dos votos válidos no 1º turno em SP; Haddad, 36%",
+    "d": "Levantamento encomendado pela Globo ouviu 3.702 eleitores com margem de erro de dois pontos percentuais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-tarcisio-tem-60-no-1o-turno-em-sp-haddad-36/",
+    "time": "2026-10-03T20:48:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado em PE, votos válidos: Marília, 30%; Humberto, 27%; Mendonça, 18%; Eduardo, 15%",
+    "d": "Marília Arraes (PDT), Humberto Costa (PT), Mendonça Filho (PL) e Eduardo da Fonte (PP) Andréa Rêgo Barros/Divulgação Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Sen…",
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/quaest-pe-senado-3-outubro.ghtml",
+    "time": "2026-10-03T20:46:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado em SP, votos válidos: Derrite, 25%; André do Prado, 23% Marina, 22%; Tebet, 22%",
+    "d": "Os candidatos ao Senado por São Paulo Guilherme Derrite (PP), André do Prado (PL), Marina Silva (Rede) e Simone Tebet (PSB) Reprodução/TV Globo Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra c…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/quaest-sp-senado-3-outubro.ghtml",
+    "time": "2026-10-03T20:42:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest em SP, votos válidos: Tarcísio, 60%; Haddad, 36%",
+    "d": "Quaest em SP, votos válidos: Tarcísio, 60%; Haddad, 36% Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo de São Paulo. Tarcísio de Freitas (Republicanos) aparece…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/quaest-sp-governador-3-outubro.ghtml",
+    "time": "2026-10-03T20:42:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado no RJ, votos totais: Jordy, 17%; Portinho e Benedita, 16% cada; Pedro Paulo, 10%; Crivella, 9%; Monica Benicio, 6%",
+    "d": "Senado Federal - plenário Ton Molina/Agência Senado Pesquisa Quaest divulgada neste sábado (3) mostra como está a disputa para o Senado no Rio de Janeiro. Na pesquisa estimulada sobre intenção de voto para senador, co…",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/quaest-rj-senado-03-10.ghtml",
+    "time": "2026-10-03T20:42:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
+    "d": "Milhares foram às ruas de Madri neste sábado EPA Nos últimos dias, o nome da aposentada Maricarmen Abascal, de 87 anos, esteve presente em muitas rodas de conversa na Espanha. As imagens da idosa sendo retirada de mac…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/03/por-que-a-espanha-que-construia-casas-demais-vive-hoje-uma-grave-crise-de-moradia.ghtml",
+    "time": "2026-10-03T19:36:31.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ex-funcionário da OpenAI diz que empresas de IA não são 'nem de perto cuidadosas o suficiente'",
+    "d": "OpenAI Reuters/Dado Ruvic Um ex-funcionário da área de segurança da OpenAI, empresa que criou o ChatGPT, criticou a forma como a companhia lida com a segurança da inteligência artificial (IA). Segundo David Robinson,…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/03/ex-funcionario-da-openai-critica-empresas-de-ia.ghtml",
+    "time": "2026-10-03T19:24:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
+    "d": "Para muitos especialistas, a crise financeira de 2008, que levou ao desaparecimento de diversas empresas do setor da construção civil, é um dos principais fatores do déficit de moradias que enfrenta hoje o país, aliad…",
+    "link": "https://www.bbc.com/portuguese/articles/c3vgygl0r9v2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-03T19:16:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Presenciei quase 500 execuções de presos – e nunca vi uma como a de Christa Pike'",
+    "d": "O repórter texano Michael Graczyk já presenciou execuções malsucedidas ao longo de sua carreira, mas nunca uma em que o condenado sobrevivesse, como o caso da presa no Tennessee",
+    "link": "https://www.bbc.com/portuguese/articles/crgj9vp328plo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-03T18:27:32.000Z"
   },
   {
     "cat": "brasil",
@@ -16,30 +240,6 @@
     "time": "2026-10-03T17:53:07.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vitória da Seleção não empolga jornal espanhol: “Mais flashes que futebol”",
-    "d": "Time comandado pelo italiano Carlo Ancelotti encerrou a Data Fifa com uma goleada de 4 a 0 sobre a Índia neste sábado (3), em Calcutá",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/vitoria-da-selecao-nao-empolga-jornal-espanhol-mais-flashes-que-futebol/",
-    "time": "2026-10-03T17:51:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlas: Jerônimo tem 51,5% dos votos válidos no 1º turno da BA; ACM, 47,4%",
-    "d": "Levantamento ouviu 2.199 pessoas entre os dias 27 de setembro e 2 de outubro; margem de erro é de 2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-jeronimo-tem-515-dos-votos-validos-no-1o-turno-da-ba-acm-474/",
-    "time": "2026-10-03T17:50:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "França vai suspender carteira de motorista de quem usar celular ao volante",
-    "d": "Decisão administrativa em todo o país busca conscientizar motoristas e promover uma transformação cultural sobre a gravidade da distração",
-    "link": "https://www.cnnbrasil.com.br/internacional/franca-vai-suspender-carteira-de-motorista-de-quem-usar-celular-ao-volante/",
-    "time": "2026-10-03T17:49:04.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Tennessee prison chief to resign after Christa Pike's failed execution",
@@ -48,52 +248,12 @@
     "time": "2026-10-03T17:48:42.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula leva 6×1 à reta final, enquanto Flávio critica STF antes do 1º turno",
-    "d": "Presidente e candidato à reeleição esteve em ato na capital paulista; Flávio, por outro lado, apostou no interior de SP antes de agenda no Rio",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-leva-6x1-a-reta-final-enquanto-flavio-critica-stf-antes-do-1o-turno/",
-    "time": "2026-10-03T17:46:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Paul McCartney revela novos detalhes sobre casamento de Taylor Swift",
-    "d": "Ex-Beatle cantou \"I Want to Hold Your Hand\" para os convidados da cerimônia de casamento da cantora com Travis Kelce",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/paul-mccartney-revela-novos-detalhes-sobre-casamento-de-taylor-swift/",
-    "time": "2026-10-03T17:44:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ancelotti analisa Data Fifa e elege novatos que se destacaram pelo Brasil",
-    "d": "Técnico italiano avaliou positivamente o período de amistosos da Seleção e destacou nomes como Jair, Bontempo e Breno Bidon, além de apontar dificuldades",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-analisa-data-fifa-e-elege-novatos-que-se-destacaram-pelo-brasil/",
-    "time": "2026-10-03T17:31:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Polícia da Índia detém manifestantes em atos contra cadastro eleitoral",
-    "d": "Jovens e oposição exigem a renúncia do chefe da comissão após denúncias de exclusão de milhões de eleitores das listas oficiais. O número de detidos e suas identidades não foram divulgados",
-    "link": "https://www.cnnbrasil.com.br/internacional/policia-da-india-detem-manifestantes-em-atos-contra-cadastro-eleitoral/",
-    "time": "2026-10-03T17:16:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gypsy Rose Blanchard afirma que noivo sofreu overdose, diz revista",
-    "d": "Homem de 34 anos foi encontrado morto em sua cama dentro de casa; jovem ficou conhecida por arquitetar o assassinato da própria mãe",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/gypsy-rose-blanchard-afirma-que-noivo-sofreu-overdose-diz-revista/",
-    "time": "2026-10-03T17:14:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula foca em bets, 6×1 e abstenção em último ato antes do 1º turno",
-    "d": "Presidente e candidato à reeleição realizou caminhada na capital paulista; ato registrou princípio de confusão",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-foca-em-bets-6x1-e-abstencao-em-ultimo-ato-antes-do-1o-turno/",
-    "time": "2026-10-03T17:12:31.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "'O gado está morrendo de sede e fome': o impacto devastador do El Niño no Corredor Seco da América Central",
+    "d": "'Nunca vi uma seca como esta', afirma o agricultor Juan Estanislao Muñoz, que mora no sul de Honduras. Gentileza WFP via BBC Juan Estanislao Muñoz está acostumado com secas intensas. Mas ele garante que a seca atual n…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/03/o-gado-esta-morrendo-de-sede-e-fome-o-impacto-devastador-do-el-nino-no-corredor-seco-da-america-central.ghtml",
+    "time": "2026-10-03T17:09:51.000Z"
   },
   {
     "cat": "internacional",
@@ -102,30 +262,6 @@
     "d": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard is searching for an air ambulance jet with six people onboard that lost contact with the Fede…",
     "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
     "time": "2026-10-03T17:03:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "É higiênico lavar tapete na máquina? Entenda como microrganismos se criam no eletrodoméstico",
-    "d": "Limpeza de peças muito sujas pode ter efeito reverso e contribuir para a contaminação de roupas que são usadas no dia a dia; antes de colocar o produto na máquina, faça uma prova colocando um pouco dele em um pedaço p…",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/e-higienico-lavar-tapete-na-maquina-entenda-como-microrganismos-se-criam-no-eletrodomestico/",
-    "time": "2026-10-03T17:03:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Infraestrutura de recarga rápida cresce 195% em 12 meses no Brasil",
-    "d": "Dos quase 30 mil pontos existentes no Brasil, 61,8% (18.469) oferecem recarga lenta (AC) e 38,2% são de recarga rápida em corrente contínua (DC)",
-    "link": "https://www.cnnbrasil.com.br/auto/infraestrutura-de-recarga-rapida-cresce-195-em-12-meses-no-brasil/",
-    "time": "2026-10-03T17:00:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Copiloto usou machado em ataque a comandante de avião para Israel",
-    "d": "O copiloto atacou o piloto com um machado e tentou derrubar o avião, que despencou 5.200 metros. Passageiros dominaram o agressor e a aeronave pousou em segurança na Arábia Saudita.",
-    "link": "https://www.bbc.com/portuguese/articles/cr86zldp7gv2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-03T16:52:48.000Z"
   },
   {
     "cat": "brasil",
@@ -142,14 +278,6 @@
     "d": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
     "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-03T16:16:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Medical plane with 6 on board missing off Massachusetts coast",
-    "d": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-03T15:56:14.000Z"
   },
   {
     "cat": "brasil",
@@ -195,9 +323,17 @@
     "cat": "internacional",
     "src": "BBC News",
     "h": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-    "d": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+    "d": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
     "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-03T13:34:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Países já liberaram 325 milhões de barris de petróleo para conter alta dos preços, diz IEA",
+    "d": "As reservas estratégicas são estoques de petróleo mantidos pelos países para serem usados em situações de emergência, como interrupções no fornecimento de energia. REUTERS/Dado Ruvic/Ilustração Os países-membros da Ag…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/03/paises-ja-liberaram-325-milhoes-de-barris-de-petroleo-para-conter-alta-dos-precos-diz-iea.ghtml",
+    "time": "2026-10-03T12:00:27.000Z"
   },
   {
     "cat": "brasil",
@@ -248,12 +384,60 @@
     "time": "2026-10-03T08:51:14.000Z"
   },
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "O que deu errado para a Nike? Como gigante mundial de artigos esportivos perdeu 'brilho'",
+    "d": "A maior marca de roupas esportivas do planeta, batizada em homenagem à antiga deusa grega da vitória, vem sofrendo perdas ultimamente. Getty Images via BBC Os últimos anos têm sido difíceis para a Nike. A maior marca…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/03/o-que-deu-errado-para-a-nike-como-gigante-mundial-de-artigos-esportivos-perdeu-brilho.ghtml",
+    "time": "2026-10-03T08:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Qual será o maior desafio da economia para o próximo governo? g1 ouviu mais de 20 economistas",
+    "d": "Dívida bruta do governo atinge R$ 11 trilhões e chega a 82,9% do PIB \"Qual será o principal desafio econômico do próximo governo, seja ele qual for?\" Essa foi a pergunta que o g1 fez a mais de 20 economistas de difere…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/03/nao-sao-so-as-contas-publicas-economistas-listam-desafios-do-proximo-governo.ghtml",
+    "time": "2026-10-03T08:00:00.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
     "d": "Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup ‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election S…",
     "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
     "time": "2026-10-03T07:00:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mico ou inovação? Por que candidatos querem mais data centers no Brasil enquanto cresce a rejeição nos EUA",
+    "d": "Vista aérea de um data center da AWS que integra a região US-EAST-1, no norte da Virgínia, nos EUA Reuters/Jonathan Ernst Incentivos fiscais, fabricação local de componentes e IA brasileira: os candidatos à Presidênci…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/03/mico-ou-inovacao-por-que-candidatos-querem-mais-data-centers-no-brasil-enquanto-cresce-a-rejeicao-nos-eua.ghtml",
+    "time": "2026-10-03T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Qual o futuro da CLT? Candidatos propõem mudanças e até alternativas ao modelo de carteira assinada",
+    "d": "Carteira de trabalho digital Marcelo Camargo/Agência Brasil Para milhões de brasileiros, ter um emprego com carteira assinada significava contar com férias remuneradas, 13º salário, licença médica, aposentadoria e uma…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/03/qual-o-futuro-da-clt.ghtml",
+    "time": "2026-10-03T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Faz diferença? Qual a ciência por trás do ato de lavar o arroz antes de cozinhar",
+    "d": "Água quente com vinagre pode ser o segredo para arroz soltinho Afinal, precisa lavar o arroz antes de cozinhar?Prática vista como essencial por alguns, parece desnecessária para outros. Pesquisas, no entanto, podem ap…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/03/a-ciencia-por-tras-do-ato-de-lavar-o-arroz-antes-de-cozinhar.ghtml",
+    "time": "2026-10-03T06:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vai trabalhar nas eleições? Saiba tudo sobre a folga eleitoral",
+    "d": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE Trabalhar nas eleições não é considerado emprego temporário e não dá direito a salário. Mas isso não significa que o trabalho de mesário seja voluntário…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/03/vai-trabalhar-nas-eleicoes-saiba-tudo-sobre-a-folga-eleitoral.ghtml",
+    "time": "2026-10-03T06:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -270,6 +454,22 @@
     "d": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
     "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-03T04:38:31.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "TSE chega às eleições com 100% do consumo de energia compensado por geração solar; economia será de R$ 745 mil por ano",
+    "d": "O Tribunal Superior Eleitoral (TSE) vai chegar ao primeiro turno das Eleições 2026, neste domingo (4), com todo o seu consumo de energia elétrica compensado por geração solar. É a primeira vez que isso acontece. “Pela…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/tse-chega-as-eleicoes-com-100percent-do-consumo-de-energia-compensado-por-geracao-solar-economia-sera-de-r-745-mil-por-ano.ghtml",
+    "time": "2026-10-03T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Calendário de outubro 2026: veja datas de pagamento do INSS, Bolsa Família pé-de-meia e mais",
+    "d": "Cadastro do Bolsa Família e BPC para quem mora sozinho pode ser atualizado sem visita em casa em Salvador Governo Federal O mês de outubro de 2026 já começou, e com ele chegam os pagamentos de programas e benefícios c…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/03/calendario-de-outubro-2026-veja-datas-de-pagamento-do-inss-bolsa-familia-pe-de-meia.ghtml",
+    "time": "2026-10-03T03:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -350,14 +550,6 @@
     "d": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2% US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose sl…",
     "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
     "time": "2026-10-02T14:04:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que os governos dos EUA e da Austrália dizem sobre fechamento de embaixadas e consulados no Brasil às vésperas da eleição",
-    "d": "Escritórios localizados em Brasília, São Paulo, Rio de Janeiro, Porto Alegre, Recife e Belo Horizonte estão todos fechados; previsão de reabertura não foi informada.",
-    "link": "https://www.bbc.com/portuguese/articles/cmewellkk7zyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T13:54:39.000Z"
   },
   {
     "cat": "brasil",
