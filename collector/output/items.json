@@ -1,51 +1,211 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Cornell president says university 'must do better' after frat house rape allegations",
+    "d": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-04T00:11:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Pesquisas para presidente: o que elas dizem na véspera da eleição – e o que mostravam em 2022 e 2018",
+    "d": "Na véspera do 1º Turno, Datafolha e Quaest mostram cenário de empate técnico entre Lula e Flávio Bolsonaro, na conta de votos válidos.",
+    "link": "https://www.bbc.com/portuguese/articles/c6n8dl07vv4lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-03T23:43:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quaest AM: Aziz tem 40% de votos válidos; Maria do Carmo, 25%; Cidade, 24%",
+    "d": "Pesquisa entrevistou 1.800 eleitores entre os dias 2 e 3 de outubro; a margem de erro é de dois pontos percentuais, com um índice de confiança de 95%",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-am-aziz-tem-40-de-votos-validos-maria-do-carmo-25-cidade-24/",
+    "time": "2026-10-03T23:35:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sala de apuração do TSE tem 150 funcionários para monitorar votos",
+    "d": "Local, que fica no terceiro andar do prédio da Corte eleitoral, em Brasília, é o ponto focal onde chegarão os dados das urnas eletrônicas, à medida que as votações serão concluídas em cada uma das sessões nos estados…",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/sala-de-apuracao-do-tse-tem-150-funcionarios-para-monitorar-votos/",
+    "time": "2026-10-03T23:34:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Na TV, Nunes Marques faz apelo contra desinformação antes do 1º turno",
+    "d": "Presidente do TSE pediu compromisso dos eleitores com a qualidade das informações e recomendou consultar canais oficiais e checar conteúdos antes do compartilhamento",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/na-tv-nunes-marques-faz-apelo-contra-desinformacao-antes-do-1o-turno/",
+    "time": "2026-10-03T23:30:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Kassio diz que ameaças e assédio ao eleitor serão “prontamente reprimidos”",
+    "d": "Em pronunciamento, presidente do TSE disse que ameaças, assédio ou tentativa de interferência na vontade do eleitor não serão tolerados: “Amanhã é o dia da liberdade do voto”",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/kassio-diz-que-ameacas-e-assedio-ao-eleitor-serao-prontamente-reprimidos/",
+    "time": "2026-10-03T23:30:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Kassio reforça defesa da urna e destaca auditabilidade “única” do sistema",
+    "d": "Em pronunciamento, presidente do TSE afirmou que sistema eletrônico reúne mecanismos únicos de segurança, transparência e auditoria; ele ainda lembrou que a urna completa 30 anos em 2026",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/kassio-reforca-defesa-da-urna-e-destaca-auditabilidade-unica-do-sistema/",
+    "time": "2026-10-03T23:30:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE convidará últimos eleitores de cada seção a acompanhar fim da votação",
+    "d": "Em pronunciamento em rede nacional, presidente da Justiça Eleitoral anunciou que últimos cidadãos aptos a votar serão convidados a acompanhar o encerramento dos trabalhos e receberão cópia do boletim de urna da seção",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-convidara-ultimos-eleitores-de-cada-secao-a-acompanhar-fim-da-votacao/",
+    "time": "2026-10-03T23:30:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Presidente do TSE diz que voto é livre e ameaças e assédio serão reprimidos nas eleições",
+    "d": "Eleições: o que saber antes de votar O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, afirmou neste sábado (3), em pronunciamento em rede nacional de rádio e televisão, que ameaças, as…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/presidente-do-tse-diz-que-voto-e-livre-e-ameacas-e-assedio-serao-reprimidos-nas-eleicoes.ghtml",
+    "time": "2026-10-03T23:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha, 1º turno - votos válidos: Na véspera da eleição, Flávio Bolsonaro lidera em SP, RJ e DF; Lula, em PE; os dois empatam em MG",
+    "d": "Datafolha para presidente no Piauí, votos válidos: Lula, 66%; Flávio Bolsonaro, 25% Montagem/g1 Pesquisas Datafolha divulgadas neste sábado (3), véspera da votação, mostram Flávio Bolsonaro (PL) à frente nos votos vál…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/datafolha-1o-turno-presidente-estados-sp-rj-df-pe-mg-df.ghtml",
+    "time": "2026-10-03T23:29:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas Senado PR: Dallagnol tem 27%; Filipe, 23,6%; Gleisi, 19%",
+    "d": "Pesquisa ouviu 1.828 eleitores do Paraná, entre os dias 27 de setembro e 2 de outubro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-senado-pr-dallagnol-tem-27-filipe-236-gleisi-19/",
+    "time": "2026-10-03T23:27:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Presidente de universidade dos EUA quebra silêncio sobre caso de estupro",
+    "d": "Estudante teria sido vítima de estupro coletivo em uma casa de fraternidade em outubro de 2024. Modo como a instituição lidou com o ocorrido causou indignação",
+    "link": "https://www.cnnbrasil.com.br/internacional/presidente-de-universidade-dos-eua-quebra-silencio-sobre-caso-de-estupro/",
+    "time": "2026-10-03T23:25:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em 1920, um agricultor encontrou uma grande placa de ferro de 60 toneladas, a maior massa meteórica intacta conhecida sobre a superfície terrestre",
+    "d": "O meteorito Hoba, descoberto em 1920 pelo agricultor Jacobus Hermanus Brits, é a maior massa intacta da Terra com 60 toneladas; descubra sua história",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/em-1920-um-agricultor-encontrou-uma-grande-placa-de-ferro-de-60-toneladas-a-maior-massa-meteorica-intacta-conhecida-sobre-a-superficie-terrestre/",
+    "time": "2026-10-03T23:20:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE barra candidatura de Deltan ao Senado e votos serão considerados nulos",
+    "d": "Floriano reverte decisão do TRE-PR, indefere o registro do ex-procurador na véspera do primeiro turno e determina que os votos sejam considerados nulos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-barra-candidatura-de-deltan-ao-senado-e-votos-serao-considerados-nulos/",
+    "time": "2026-10-03T23:17:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlas: Raquel tem 48,9% dos votos válidos no 1º turno de PE; João, 48,4%",
+    "d": "Pesquisa entrevistou 2.199 eleitores em Pernambuco entre 27 de setembro e 2 de outubro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-raquel-tem-489-dos-votos-validos-no-1o-turno-de-pe-joao-484/",
+    "time": "2026-10-03T23:16:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Paulo confirma quatro lesões e terá desfalques contra o Cruzeiro",
+    "d": "Tricolor Paulista perdeu para o Santos na última sexta-feira (2), no Morumbis, em jogo atrasado pela 21ª rodada da Série A do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-confirma-quatro-lesoes-e-tera-desfalques-contra-o-cruzeiro/",
+    "time": "2026-10-03T23:15:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: como votam os eleitores de Caiado, Renan e Cury em um 2º turno entre Lula e Flávio Bolsonaro",
+    "d": "Candidatos à Presidência da República em 2026: Lula, Flávio, Cury, Renan e Caiado Reprodução Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como os eleitores de Renan Santos (Missão), Ronaldo…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-como-votam-os-eleitores-de-caiado-renan-e-cury-em-um-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
+    "time": "2026-10-03T23:15:16.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
-    "d": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil A votação do 1º turno começa às 8h e termina às 17h, seguindo o horário de Brasília. Em locais com fuso diferente, os horários locais mudam. Ve…",
+    "d": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil A votação do 1º turno começa às 8h e termina às 17h, seguindo o horário de Brasília. Em locais com fuso diferente, os horários são ajustados. V…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
-    "time": "2026-10-03T21:27:29.000Z"
+    "time": "2026-10-03T23:02:21.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Datafolha para o Senado no RJ, votos válidos: Benedita, 26%; Portinho, 19%; Jordy, 18; Pedro Paulo, 13%; Monica Benicio, 9%; Crivella, 6%",
-    "d": "Plenário do Senado Federal Ton Molina/Agência Senado Pesquisa Datafolha divulgada neste sábado (3) mostra como está a corrida pelas duas vagas do Rio de Janeiro no Senado. Benedita da Silva (PT) tem 26% das intenções…",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/datafolha-rj-senado-3-outubro.ghtml",
-    "time": "2026-10-03T21:23:07.000Z"
+    "h": "Quaest no AP, votos válidos: Dr Furlan, 53%; Clécio, 47%",
+    "d": "Eleições 2026: veja dados da pesquisa Quaest para o governo do Amapá Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo do Amapá. Dr Furlan (PSD) aparece com 53% d…",
+    "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quaest-ap-governador-3-outubro.ghtml",
+    "time": "2026-10-03T22:53:32.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Datafolha para o Senado no DF, votos válidos: Michelle, 30%; Bia, 24%; Leila, 21%; Erika, 18%",
-    "d": "Michelle Bolsonaro (PL); Leila do Vôlei (PDT); Bia Kicis (PL) e Erika Kokay (PT) são candidatas ao Senado pelo DF. Reprodução Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra como está a disp…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-senado-3-outubro.ghtml",
-    "time": "2026-10-03T21:22:08.000Z"
+    "h": "Quaest para o Senado no TO, votos válidos: Eduardo Gomes, 25%; Gaguim, 21%; Alexandre Guimarães, 17%",
+    "d": "Quaest divulga nova rodada de pesquisa para o Senado pelo Tocantins Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Senado em Tocantins. Neste domingo (4), cada eleitor…",
+    "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/quaest-to-senado-3-outubro.ghtml",
+    "time": "2026-10-03T22:51:41.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Datafolha em PE, votos válidos: Raquel Lyra, 49%; João Campos, 48%",
-    "d": "Raquel Lyra (PSD) e João Campos (PSB) no debate da TV Globo Brenda Alcântara/TV Globo Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo de Pernambuco. Raquel L…",
-    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pe-governador-3-outubro.ghtml",
-    "time": "2026-10-03T21:22:08.000Z"
+    "h": "Quaest para o Senado em Rondônia, votos válidos: Máximo, 28%; Scheid, 23%; Cristina, 21%; Mariana, 16%",
+    "d": "Candidatos ao senado de Rondônia mais bem posicionados na terceira pesquisa Quaest Reprodução/Redes Sociais Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Senado em Ro…",
+    "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/03/quaest-rondonia-senado-3-outubro.ghtml",
+    "time": "2026-10-03T22:48:02.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Datafolha no DF, votos válidos: Celina Leão, 55%; Leandro Grass, 27%; Paula Belmonte, 10%",
-    "d": "Celina Leão (PP), Leandro Grass (PT) e Paula Belmonte (PSDB). TV Globo Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo do Distrito Federal. O levantamento in…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-governador-3-outubro.ghtml",
-    "time": "2026-10-03T21:20:47.000Z"
+    "h": "Quaest para o Senado em SE, votos válidos: Delegado André David, 20%; Rogério Carvalho,19%; André Moura, 17%; Delegado Alessandro, 17%",
+    "d": "Quaest para o Senado em SE, votos válidos: saiba como está a disputa Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Senado em Sergipe. Neste domingo (4), cada eleitor…",
+    "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/03/quaest-se-senado-03-outubro.ghtml",
+    "time": "2026-10-03T22:47:50.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Datafolha no RJ, votos válidos: Paes tem 46% e Ruas, 38%",
-    "d": "Eduardo Paes e Douglas Ruas Montagem g1 Pesquisa Datafolha divulgada neste sábado (3) mostra Eduardo Paes (PSD) com 46% das intenções de voto para governador do Rio de Janeiro nos votos válidos. Douglas Ruas (PL) apar…",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/datafolha-rj-governador-3-outubro.ghtml",
-    "time": "2026-10-03T21:18:43.000Z"
+    "h": "Quaest para o Senado em Goiás, votos válidos: Gracinha Caiado (UB), 30%; Gustavo Gayer (PL), 21%; e Zacharias Calil (MDB), 18%",
+    "d": "Quaest para o Senado em GO, votos válidos: Gracinha, 30%; Gayer, 21%; e Calil, 18% Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Senado em Goiás. Neste domingo (4), c…",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/03/quaest-goias-senado-3-outubro.ghtml",
+    "time": "2026-10-03T22:46:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado no Maranhão, votos válidos: Roseana Sarney, 25%; Fufuca, 23%; Lahesio Bonfim, 18%; Eliziane Gama, 16%",
+    "d": "Quaest para o Senado no Maranhão, votos válidos: Roseana Sarney, 25%; Fufuca, 23% Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Senado no Maranhão. Neste domingo (4),…",
+    "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/03/quaest-ma-senado-3-outubro.ghtml",
+    "time": "2026-10-03T22:45:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha para presidente em PE, votos válidos: Lula, 65%; Flávio Bolsonaro, 26%; Cury, 3%; Renan, 2%; Caiado, 2%",
+    "d": "Candidatos à Presidência da República em 2026: Lula, Flávio, Cury, Renan e Caiado Reprodução Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pela Presidência da República…",
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pernambuco-presidente-3-de-outubroghtml.ghtml",
+    "time": "2026-10-03T22:45:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest para o Senado na Paraíba, votos válidos: João Azevêdo, 35%; Veneziano, 25%; Nabor, 20%; Marcelo Queiroga, 15%",
+    "d": "Pesquisa Quaest apresenta cenário de votos válidos para o Senado na Paraíba Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Senado na Paraíba. Neste domingo (4), cada e…",
+    "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/03/quaest-paraiba-senado-3-outubro.ghtml",
+    "time": "2026-10-03T22:44:57.000Z"
   },
   {
     "cat": "internacional",
@@ -54,166 +214,6 @@
     "d": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
     "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-03T21:16:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha para o Senado em SP: Derrite, 22%; André do Prado, 22%; Marina, 21%; Tebet, 20%",
-    "d": "Os candidatos ao Senado por São Paulo Guilherme Derrite (PP), André do Prado (PL), Marina Silva (Rede) e Simone Tebet (PSB) Reprodução/TV Globo Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostr…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-senado-3-outubro.ghtml",
-    "time": "2026-10-03T21:16:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha em SP, votos válidos: Tarcísio, 60%; Haddad, 35%",
-    "d": "Datafolha em SP, votos válidos: Tarcísio, 60% e Haddad, 35% no 1º turno Pesquisa Datafolha divulgada neste sábado (3), véspera do 1º turno, mostra que a disputa pelo governo de São Paulo tem Tarcísio de Freitas (Repub…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-governador-3-outubro.ghtml",
-    "time": "2026-10-03T21:16:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Defesa Civil de SP alerta para chuvas com raios e ventos no domingo (4)",
-    "d": "Primeiro turno das eleições pode ter pancadas isoladas com raios e rajadas de vento em todo o estado, com possibilidade de transtorno em áreas vulneráveis",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-de-sp-alerta-para-chuvas-com-raios-e-ventos-no-domingo-4/",
-    "time": "2026-10-03T21:06:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest SP: Derrite, 25%; André do Prado, 23%; Marina e Tebet, 22% cada",
-    "d": "Levantamento ouviu 3.702 eleitores entre os dias 2 e 3 de outubro; o levantamento considera apenas os votos válidos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-sp-derrite-25-andre-do-prado-23-marina-e-tebet-22-cada/",
-    "time": "2026-10-03T21:04:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest MG: Sávio tem 22% de votos válidos; Viana e Marília, 18%; Aécio, 17%",
-    "d": "Pesquisa ouviu 3.204 eleitores entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-mg-savio-tem-22-de-votos-validos-viana-e-marilia-18-aecio-17/",
-    "time": "2026-10-03T21:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest Senado Pará: Helder tem 28%; Éder, 24%; Chicão, 20%; Zequinha, 17%",
-    "d": "Levantamento considera os votos válidos e reúne as duas escolhas dos eleitores paraenses para o Senado; 1.800 pessoas foram entrevistadas com índice de 95% de confiança",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-pa-helder-28-eder-24-chicao-20-zequinha-17/",
-    "time": "2026-10-03T20:56:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça Eleitoral trocou 72 locais de votação controlados por facções no RJ",
-    "d": "Mudança afetou cerca de 202 mil eleitores em 20 cidades do estado; 43 urnas serão submetidas a auditorias da votação eletrônica",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/justica-eleitoral-trocou-72-locais-de-votacao-controlados-por-faccoes-no-rj/",
-    "time": "2026-10-03T20:55:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest Senado DF: Michelle tem 31% dos votos válidos; Leila, 27%; Bia, 24%",
-    "d": "Pesquisa ouviu 2.625 eleitores entre os dias 2 e 3 de outubro; margem de erro é de 2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-df-michelle-tem-31-dos-votos-validos-leila-27-bia-24/",
-    "time": "2026-10-03T20:54:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest MG: Cleitinho tem 54% dos votos válidos; Patrus, 23%; Kalil, 10%",
-    "d": "Pesquisa ouviu 3.204 eleitores entre os dias 2 e 3 de outubro; margem de erro é de 2 p.p. para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-mg-cleitinho-tem-54-dos-votos-validos-patrus-23-kalil-10/",
-    "time": "2026-10-03T20:53:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest: Celina tem 53% dos votos válidos pelo governo do DF; Grass, 32%",
-    "d": "Paula Belmonte aparece com 10%; levantamento ouviu 2.652 eleitores na véspera do primeiro turno",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-celina-tem-53-dos-votos-validos-pelo-governo-do-df-grass-32/",
-    "time": "2026-10-03T20:53:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileiros começam a votar na Nova Zelândia e Austrália",
-    "d": "Eleitores que vivem fora do país votam apenas para presidente e vice-presidente; mais de 918 mil brasileiros estão aptos a participar do pleito no exterior",
-    "link": "https://www.cnnbrasil.com.br/internacional/brasileiros-comecam-a-votar-na-nova-zelandia-e-australia/",
-    "time": "2026-10-03T20:53:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlas Senado/PA: Helder, 27,1%; Éder, 21,2%; Chicão, 18,9%; Zequinha, 18,2%",
-    "d": "Levantamento ouviu 1.206 eleitores entre os dias 27 de setembro e 2 de outubro; margem de erro é de três pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-senado-pa-helder-271-eder-212-chicao-189-zequinha-182/",
-    "time": "2026-10-03T20:51:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest PE: Raquel tem 52% dos votos válidos no 1º turno; João Campos, 47%",
-    "d": "Levantamento ouviu 2.652 eleitores de 16 anos ou mais, entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, com nível de confiança é de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-pe-lyra-tem-52-dos-votos-validos-no-1o-turno-joao-campos-47/",
-    "time": "2026-10-03T20:49:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quaest: Tarcísio tem 60% dos votos válidos no 1º turno em SP; Haddad, 36%",
-    "d": "Levantamento encomendado pela Globo ouviu 3.702 eleitores com margem de erro de dois pontos percentuais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-tarcisio-tem-60-no-1o-turno-em-sp-haddad-36/",
-    "time": "2026-10-03T20:48:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest para o Senado em PE, votos válidos: Marília, 30%; Humberto, 27%; Mendonça, 18%; Eduardo, 15%",
-    "d": "Marília Arraes (PDT), Humberto Costa (PT), Mendonça Filho (PL) e Eduardo da Fonte (PP) Andréa Rêgo Barros/Divulgação Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo Sen…",
-    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/quaest-pe-senado-3-outubro.ghtml",
-    "time": "2026-10-03T20:46:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest para o Senado em SP, votos válidos: Derrite, 25%; André do Prado, 23% Marina, 22%; Tebet, 22%",
-    "d": "Os candidatos ao Senado por São Paulo Guilherme Derrite (PP), André do Prado (PL), Marina Silva (Rede) e Simone Tebet (PSB) Reprodução/TV Globo Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra c…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/quaest-sp-senado-3-outubro.ghtml",
-    "time": "2026-10-03T20:42:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest em SP, votos válidos: Tarcísio, 60%; Haddad, 36%",
-    "d": "Quaest em SP, votos válidos: Tarcísio, 60%; Haddad, 36% Pesquisa Quaest divulgada neste sábado (3), véspera do 1º turno, mostra como está a disputa pelo governo de São Paulo. Tarcísio de Freitas (Republicanos) aparece…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/quaest-sp-governador-3-outubro.ghtml",
-    "time": "2026-10-03T20:42:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest para o Senado no RJ, votos totais: Jordy, 17%; Portinho e Benedita, 16% cada; Pedro Paulo, 10%; Crivella, 9%; Monica Benicio, 6%",
-    "d": "Senado Federal - plenário Ton Molina/Agência Senado Pesquisa Quaest divulgada neste sábado (3) mostra como está a disputa para o Senado no Rio de Janeiro. Na pesquisa estimulada sobre intenção de voto para senador, co…",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/quaest-rj-senado-03-10.ghtml",
-    "time": "2026-10-03T20:42:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
-    "d": "Milhares foram às ruas de Madri neste sábado EPA Nos últimos dias, o nome da aposentada Maricarmen Abascal, de 87 anos, esteve presente em muitas rodas de conversa na Espanha. As imagens da idosa sendo retirada de mac…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/03/por-que-a-espanha-que-construia-casas-demais-vive-hoje-uma-grave-crise-de-moradia.ghtml",
-    "time": "2026-10-03T19:36:31.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ex-funcionário da OpenAI diz que empresas de IA não são 'nem de perto cuidadosas o suficiente'",
-    "d": "OpenAI Reuters/Dado Ruvic Um ex-funcionário da área de segurança da OpenAI, empresa que criou o ChatGPT, criticou a forma como a companhia lida com a segurança da inteligência artificial (IA). Segundo David Robinson,…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/03/ex-funcionario-da-openai-critica-empresas-de-ia.ghtml",
-    "time": "2026-10-03T19:24:15.000Z"
   },
   {
     "cat": "brasil",
@@ -248,28 +248,12 @@
     "time": "2026-10-03T17:48:42.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'O gado está morrendo de sede e fome': o impacto devastador do El Niño no Corredor Seco da América Central",
-    "d": "'Nunca vi uma seca como esta', afirma o agricultor Juan Estanislao Muñoz, que mora no sul de Honduras. Gentileza WFP via BBC Juan Estanislao Muñoz está acostumado com secas intensas. Mas ele garante que a seca atual n…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/03/o-gado-esta-morrendo-de-sede-e-fome-o-impacto-devastador-do-el-nino-no-corredor-seco-da-america-central.ghtml",
-    "time": "2026-10-03T17:09:51.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
     "d": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard is searching for an air ambulance jet with six people onboard that lost contact with the Fede…",
     "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
     "time": "2026-10-03T17:03:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'O gado está morrendo de sede e fome': o impacto devastador do El Niño no Corredor Seco da América Central",
-    "d": "Nesta região já vulnerável da América Latina, o El Niño, aliado às mudanças climáticas, agravou a escassez de água e empurra milhares de famílias para uma situação de emergência e desespero.",
-    "link": "https://www.bbc.com/portuguese/articles/crq5xnxqw29lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-03T16:31:42.000Z"
   },
   {
     "cat": "internacional",
@@ -328,14 +312,6 @@
     "time": "2026-10-03T13:34:11.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Países já liberaram 325 milhões de barris de petróleo para conter alta dos preços, diz IEA",
-    "d": "As reservas estratégicas são estoques de petróleo mantidos pelos países para serem usados em situações de emergência, como interrupções no fornecimento de energia. REUTERS/Dado Ruvic/Ilustração Os países-membros da Ag…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/03/paises-ja-liberaram-325-milhoes-de-barris-de-petroleo-para-conter-alta-dos-precos-diz-iea.ghtml",
-    "time": "2026-10-03T12:00:27.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Eleições 2026: quem são os principais candidatos a governador em cada Estado",
@@ -384,60 +360,12 @@
     "time": "2026-10-03T08:51:14.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "O que deu errado para a Nike? Como gigante mundial de artigos esportivos perdeu 'brilho'",
-    "d": "A maior marca de roupas esportivas do planeta, batizada em homenagem à antiga deusa grega da vitória, vem sofrendo perdas ultimamente. Getty Images via BBC Os últimos anos têm sido difíceis para a Nike. A maior marca…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/03/o-que-deu-errado-para-a-nike-como-gigante-mundial-de-artigos-esportivos-perdeu-brilho.ghtml",
-    "time": "2026-10-03T08:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Qual será o maior desafio da economia para o próximo governo? g1 ouviu mais de 20 economistas",
-    "d": "Dívida bruta do governo atinge R$ 11 trilhões e chega a 82,9% do PIB \"Qual será o principal desafio econômico do próximo governo, seja ele qual for?\" Essa foi a pergunta que o g1 fez a mais de 20 economistas de difere…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/03/nao-sao-so-as-contas-publicas-economistas-listam-desafios-do-proximo-governo.ghtml",
-    "time": "2026-10-03T08:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
     "d": "Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup ‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election S…",
     "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
     "time": "2026-10-03T07:00:35.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mico ou inovação? Por que candidatos querem mais data centers no Brasil enquanto cresce a rejeição nos EUA",
-    "d": "Vista aérea de um data center da AWS que integra a região US-EAST-1, no norte da Virgínia, nos EUA Reuters/Jonathan Ernst Incentivos fiscais, fabricação local de componentes e IA brasileira: os candidatos à Presidênci…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/03/mico-ou-inovacao-por-que-candidatos-querem-mais-data-centers-no-brasil-enquanto-cresce-a-rejeicao-nos-eua.ghtml",
-    "time": "2026-10-03T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Qual o futuro da CLT? Candidatos propõem mudanças e até alternativas ao modelo de carteira assinada",
-    "d": "Carteira de trabalho digital Marcelo Camargo/Agência Brasil Para milhões de brasileiros, ter um emprego com carteira assinada significava contar com férias remuneradas, 13º salário, licença médica, aposentadoria e uma…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/03/qual-o-futuro-da-clt.ghtml",
-    "time": "2026-10-03T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Faz diferença? Qual a ciência por trás do ato de lavar o arroz antes de cozinhar",
-    "d": "Água quente com vinagre pode ser o segredo para arroz soltinho Afinal, precisa lavar o arroz antes de cozinhar?Prática vista como essencial por alguns, parece desnecessária para outros. Pesquisas, no entanto, podem ap…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/03/a-ciencia-por-tras-do-ato-de-lavar-o-arroz-antes-de-cozinhar.ghtml",
-    "time": "2026-10-03T06:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Vai trabalhar nas eleições? Saiba tudo sobre a folga eleitoral",
-    "d": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE Trabalhar nas eleições não é considerado emprego temporário e não dá direito a salário. Mas isso não significa que o trabalho de mesário seja voluntário…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/03/vai-trabalhar-nas-eleicoes-saiba-tudo-sobre-a-folga-eleitoral.ghtml",
-    "time": "2026-10-03T06:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -456,44 +384,12 @@
     "time": "2026-10-03T04:38:31.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "TSE chega às eleições com 100% do consumo de energia compensado por geração solar; economia será de R$ 745 mil por ano",
-    "d": "O Tribunal Superior Eleitoral (TSE) vai chegar ao primeiro turno das Eleições 2026, neste domingo (4), com todo o seu consumo de energia elétrica compensado por geração solar. É a primeira vez que isso acontece. “Pela…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/tse-chega-as-eleicoes-com-100percent-do-consumo-de-energia-compensado-por-geracao-solar-economia-sera-de-r-745-mil-por-ano.ghtml",
-    "time": "2026-10-03T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Calendário de outubro 2026: veja datas de pagamento do INSS, Bolsa Família pé-de-meia e mais",
-    "d": "Cadastro do Bolsa Família e BPC para quem mora sozinho pode ser atualizado sem visita em casa em Salvador Governo Federal O mês de outubro de 2026 já começou, e com ele chegam os pagamentos de programas e benefícios c…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/03/calendario-de-outubro-2026-veja-datas-de-pagamento-do-inss-bolsa-familia-pe-de-meia.ghtml",
-    "time": "2026-10-03T03:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-    "d": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-03T02:23:07.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Bangkok at breaking point as floods turn streets into stagnant lakes",
     "d": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east Asia Bangkok is used to absorbing the sudden afternoon downpours that inundate the ci…",
     "link": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
     "time": "2026-10-03T02:00:46.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Women given shorts at Oktoberfest to prevent upskirting",
-    "d": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
-    "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-02T23:16:03.000Z"
   },
   {
     "cat": "brasil",
@@ -574,6 +470,14 @@
     "d": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to Sunday A row of Biblical proportions has erupted in the run-up to Brazil’s presidential e…",
     "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
     "time": "2026-10-02T04:00:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+    "d": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-02T03:09:13.000Z"
   },
   {
     "cat": "economia",
