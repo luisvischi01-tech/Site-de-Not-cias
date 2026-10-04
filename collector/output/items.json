@@ -1,27 +1,219 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+    "d": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-04T20:14:49.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
-    "h": "Eleições: principais presidenciáveis já votaram; saem os primeiros resultados da apuração no exterior",
-    "d": "Eleições: principais presidenciáveis já votaram; saem os primeiros resultados da apuração no exterior Acompanhe as principais notícias em todos os estados. Urnas ficam abertas até as 17h de Brasília. Logo na sequência…",
+    "h": "Mais de 180 urnas são substituídas no Paraná",
+    "d": "Mais de 180 urnas são substituídas no Paraná Paranaenses vão votar para escolher deputado federal, deputado estadual, duas vagas para o Senado, governador e presidente. O primeiro turno das Eleições 2026 acontece nest…",
+    "link": "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml",
+    "time": "2026-10-04T20:02:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "ASSISTA: Votação é encerrada; apuração começa em instantes",
+    "d": "ASSISTA: Votação é encerrada; apuração começa em instantes Acompanhe as principais notícias de todos os estados. Urnas ficam abertas até as 17h de Brasília. A votação do 1º turno termina às 17h, seguindo o horário de…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
-    "time": "2026-10-04T17:05:42.000Z"
+    "time": "2026-10-04T20:00:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para governador no Mato Grosso do Sul: acompanhe em tempo real",
+    "d": "Estado tem mais de 2 milhões de eleitores aptos a votar no pleito deste ano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-governador-no-mato-grosso-do-sul-acompanhe-em-tempo-real/",
+    "time": "2026-10-04T19:49:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para governador no Mato Grosso: acompanhe em tempo real a apuração",
+    "d": "Estado tem mais de 2,6 milhões de eleitores aptos a votar no pleito deste ano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-governador-no-mato-grosso-acompanhe-em-tempo-real-a-apuracao/",
+    "time": "2026-10-04T19:49:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para presidente no Mato Grosso: acompanhe em tempo real a apuração",
+    "d": "Estado tem mais de 2,6 milhões de eleitores aptos a votar no pleito deste ano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-presidente-no-mato-grosso-acompanhe-em-tempo-real-a-apuracao/",
+    "time": "2026-10-04T19:49:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para governador em Goiás: acompanhe em tempo real a apuração",
+    "d": "Estado tem mais de 5 milhões de eleitores aptos a votar no pleito deste ano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-governador-em-goias-acompanhe-em-tempo-real-a-apuracao-2/",
+    "time": "2026-10-04T19:48:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para governador em Roraima: acompanhe em tempo real a apuração",
+    "d": "Estado é o 27º maior colégio eleitoral do Brasil, com 401 mil de eleitores",
+    "link": "https://www.cnnbrasil.com.br/noticias/apuracao-para-governador-em-roraima-acompanhe-em-tempo-real-a-apuracao/",
+    "time": "2026-10-04T19:47:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para governador no DF: acompanhe em tempo real a apuração",
+    "d": "Distrito Federal tem mais de 2,2 milhões de eleitores aptos a votar no pleito deste ano",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-governador-no-df-acompanhe-em-tempo-real-a-apuracao/",
+    "time": "2026-10-04T19:47:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para presidente em Rondônia: acompanhe em tempo real a apuração",
+    "d": "Estado é o 23º maior colégio eleitoral do Brasil, com 1,26 milhão de eleitores",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-presidente-em-rondonia-acompanhe-em-tempo-real-a-apuracao/",
+    "time": "2026-10-04T19:43:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para presidente no Amazonas: acompanhe em tempo real a apuração",
+    "d": "O estado tem 2,8 milhões de eleitores aptos a votar nas eleições de 2026",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-presidente-no-amazonas-acompanhe-em-tempo-real-a-apuracao/",
+    "time": "2026-10-04T19:40:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil teve mais de 1.500 urnas substítuidas durante as eleições, diz TSE",
+    "d": "São Paulo foi o estado com mais urnas trocadas, com 299 equipamentos substituídos; o Rio de Janeiro ficou em segundo lugar, com 195 urnas trocadas.",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/urnas-substituidas-durante-as-eleicoes/",
+    "time": "2026-10-04T19:40:12.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Nunes Marques diz que votação 'ocorre normalmente'; 1.212 urnas foram substituídas",
-    "d": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, afirmou neste domingo (4) que a votação do primeiro turno ocorre normalmente em todo o país. Segundo o ministro, 1.212 urnas eletrônica…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/04/nunes-marques-diz-que-votacao-ocorre-normalmente-1212-urnas-foram-substituidas.ghtml",
-    "time": "2026-10-04T17:04:47.000Z"
+    "h": "Apertou 'Confirma' duas vezes? Entenda o intervalo de conferência da urna",
+    "d": "Urna eletrônica Reprodução/TV Globo Durante a votação do primeiro turno das Eleições 2026, eleitores comentaram nas redes sociais que apertaram o botão \"Confirma\" duas vezes ao escolher o candidato. Isso pode acontece…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/confirma-duas-vezes-entenda-o-intervalo-de-conferencia.ghtml",
+    "time": "2026-10-04T19:39:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "250 galinhas seriam abatidas aos 18 meses; resgate muda destino das aves e agora elas aguardam adoção",
+    "d": "Aves foram acolhidas por um refúgio no sul da França, onde passam por recuperação e adaptação antes de serem encaminhadas aos novos tutores",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/250-galinhas-seriam-abatidas-aos-18-meses-resgate-muda-destino-das-aves-e-agora-elas-aguardam-adocao/",
+    "time": "2026-10-04T19:36:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Falta de energia faz eleitores votarem no escuro em cidades de MS",
+    "d": "TRE-MS afirma que urnas eletrônicas têm bateria para aproximadamente 12 horas e que interrupções não comprometeram o andamento da eleição",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/falta-de-energia-faz-eleitores-votarem-no-escuro-em-cidades-de-ms/",
+    "time": "2026-10-04T19:36:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apuração para governador no Amazonas: acompanhe em tempo real a apuração",
+    "d": "O estado tem 2,8 milhões de eleitores aptos a votar nas eleições de 2026",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apuracao-para-governador-no-amazonas-acompanhe-em-tempo-real-a-apuracao/",
+    "time": "2026-10-04T19:35:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "MAPA vai mostrar ao vivo o resultado da apuração para presidente e governador no seu Estado",
+    "d": "Neste interativo, você poderá acompanhar a apuração dos resultados em tempo real na eleição para presidente e governador em seu Estado e município.",
+    "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-04T19:15:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Brazil presidential election 2026: first-round live results",
+    "d": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair…",
+    "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+    "time": "2026-10-04T19:01:28.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Lentidão para votar: eleitores que estiverem na fila às 17h ainda têm direito de votar; entenda",
-    "d": "Guia do Eleitor: Até que horas posso votar? Diferentes regiões do país registraram filas e lentidão para votar neste domingo (4), primeiro turno das Eleições 2026. A votação está prevista para terminar às 17h, no horá…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lentidao-para-votar-eleitores-que-estiverem-na-fila-as-17h-ainda-tem-direito-de-votar-entenda.ghtml",
-    "time": "2026-10-04T17:04:05.000Z"
+    "h": "33 zonas eleitorais ficam sem energia durante chuva que atingiu SP, mas urnas seguem funcionando com bateria",
+    "d": "Urna eleitoral no Ceará Fabiane de Paula/ SVM Ao menos 33 zonas eleitorais ficaram sem energia elétrica ao longo do dia da eleição em diferentes regiões do estado de São Paulo, segundo o Tribunal Regional Eleitoral de…",
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/33-zonas-eleitorais-ficam-sem-energia-durante-chuva-que-atingiu-sp-mas-urnas-seguem-funcionando-com-bateria.ghtml",
+    "time": "2026-10-04T18:50:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Parciais Eleições 2026: acompanhe a apuração em tempo real",
+    "d": "Eleições 2026: apuração em tempo real Reprodução/TV Globo Os primeiros resultados do 1º turno das Eleições 2026 começam a ser divulgados a partir das 17h deste domingo (4), no horário de Brasília, logo após o encerram…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/parcial-eleicoes-2026-acompanhe-a-apuracao-em-tempo-real.ghtml",
+    "time": "2026-10-04T18:44:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Apuração dos votos Eleições 2026: como acompanhar em tempo real os resultados do TSE",
+    "d": "Eleições 2026: apuração em tempo real Reprodução/TV Globo Acompanhe a apuração das eleições 2026 no domingo, 4 de outubro, ao vivo, pelo g1. Ao todo, os 26 estados e o Distrito Federal elegerão governadores, senadores…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/apuracao-dos-votos-eleicoes-2026-como-acompanhar-em-tempo-real-os-resultados-do-tse.ghtml",
+    "time": "2026-10-04T18:38:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Que horas começa a apuração dos votos do primeiro turno das eleições?",
+    "d": "Votação no 1º turno das eleições gerais de 2026 em Campinas Thomaz Marostegan/g1 A apuração dos resultados do 1º turno das Eleições 2026 começa a partir das 17h deste domingo (4), no horário de Brasília, logo após o e…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/que-horas-comeca-a-apuracao-dos-votos-do-primeiro-turno-das-eleicoes.ghtml",
+    "time": "2026-10-04T18:33:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Vorcaro e Stefanutto votam na Papuda; Bolsonaro não pode votar",
+    "d": "O ex-banqueiro Daniel Vorcaro e o ex-presidente do INSS Alessandro Stefanutto votaram na manhã deste domingo (4), em Brasília. Os dois estão presos provisoriamente e, por isso, mantêm o direito de participar das eleiç…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/04/vorcaro-e-stefanutto-votam-na-papuda-bolsonaro-nao-pode-votar.ghtml",
+    "time": "2026-10-04T17:59:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "MP Eleitoral pede retirada de conteúdos falsos sobre urnas e associação do fechamento de embaixadas a risco de golpe",
+    "d": "O Ministério Público Eleitoral apresentou duas ações no Tribunal Superior Eleitoral (TSE) com o objetivo de conter a disseminação de informações falsas e descontextualizadas sobre o processo eleitoral. Além da remoção…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/mp-eleitoral-pede-retirada-de-conteudos-falsos-sobre-urnas-e-associacao-do-fechamento-de-embaixadas-a-risco-de-golpe.ghtml",
+    "time": "2026-10-04T17:54:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleição no exterior: veja países em que Lula ou Flávio Bolsonaro ganharam",
+    "d": "Boletins de urna da Nova Zelândia. Lucas Salviano O g1 realiza um levantamento de boletins de urna em diferentes partes do mundo, apresentando alguns desses resultados com antecedência e checando os dados com o TSE. O…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/04/eleicao-no-exterior-veja-paises-em-que-lula-ou-flavio-bolsonaro-ganharam.ghtml",
+    "time": "2026-10-04T17:46:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Nunes Marques diz que não há risco de interferência estrangeira nas eleições",
+    "d": "Nunes Marques diz que votação 'ocorre normalmente'; 1.121 urnas foram substituídas ( O presidente do Tribunal Superior Eleitoral (TSE), Nunes Marques, afirmou neste domingo (4) que as investigações de inteligência \"nã…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/presidente-do-tse-nunes-marques-diz-que-nao-ha-risco-de-interferencia-estrangeira-nas-eleicoes.ghtml",
+    "time": "2026-10-04T17:44:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Apuração Eleições 2026: tudo que você precisa saber",
+    "d": "Apuração Eleições 2026: tudo que você precisa saber Reprodução/TV Globo Neste domingo, os votam nas eleições 2026. Nesta matéria, o g1 separou tudo que você precisa saber para votar neste domingo, 4 de outubro. Ao tod…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/apuracao-eleicoes-2026-tudo-que-voce-precisa-saber.ghtml",
+    "time": "2026-10-04T17:39:19.000Z"
   },
   {
     "cat": "internacional",
@@ -40,116 +232,12 @@
     "time": "2026-10-04T16:51:30.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo do Iêmen anuncia ofensiva contra rebeldes houthis no Mar Vermelho",
-    "d": "Operação busca recuperar territórios sob controle do grupo apoiado pelo Irã; escalada pode afetar navegação no Mar Vermelho e agravar crise humanitária",
-    "link": "https://www.cnnbrasil.com.br/internacional/governo-do-iemen-anuncia-ofensiva-contra-rebeldes-houthis-no-mar-vermelho/",
-    "time": "2026-10-04T16:48:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pesquisadora morre após possível vazamento em laboratório russo",
-    "d": "Mulher de 28 anos morreu após ser diagnosticada com pneumonia de causa desconhecida; autoridades investigam possível exposição a uma infecção perigosa",
-    "link": "https://www.cnnbrasil.com.br/internacional/pesquisador-morre-apos-possivel-vazamento-em-laboratorio-russo/",
-    "time": "2026-10-04T16:40:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eleições 2026: Abstenções podem definir resultado da votação",
-    "d": "O analista de Política da CNN Teo Cury explica que a taxa de não comparecimento ultrapassou 20% em 2022 e avalia que o número pode influenciar resultado com disputa acirrada entre Lula e Flávio Bolsonaro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-abstencoes-podem-definir-resultado-da-votacao/",
-    "time": "2026-10-04T16:36:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Avião de transporte médico nos EUA desaparece no mar perto das Bermudas",
-    "d": "Guarda Costeira mantém buscas pelas seis pessoas a bordo da aeronave que fazia rota das Bermudas para Boston; avião perdeu aproximadamente 4 mil metros em apenas dois minutos",
-    "link": "https://www.cnnbrasil.com.br/internacional/aviao-de-transporte-medico-nos-eua-desaparece-no-mar-perto-das-bermudas/",
-    "time": "2026-10-04T16:33:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mais de 110 urnas são substituídas no Paraná",
-    "d": "Mais de 110 urnas são substituídas no Paraná Paranaenses vão votar para escolher deputado federal, deputado estadual, duas vagas para o Senado, governador e presidente. O primeiro turno das Eleições 2026 acontece nest…",
-    "link": "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml",
-    "time": "2026-10-04T16:29:09.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
     "d": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
     "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-04T16:24:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bruno Gagliasso resgata fotos antigas com o pai após morte; veja",
-    "d": "Paulo César Marques faleceu no dia 28 de setembro, no Rio de Janeiro, e foi lembrado pelo filho em publicação nas redes sociais",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/bruno-gagliasso-resgata-fotos-antigas-com-o-pai-apos-morte-veja/",
-    "time": "2026-10-04T16:22:28.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "“Ainda não li nada”, diz ator que vai viver Charles Xavier em novo “X-Men”",
-    "d": "Christopher Abbott vai interpretar o mutante mais importante do universo, e afirmou que não ainda não leu o roteiro da produção",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/ainda-nao-li-nada-diz-ator-que-vai-viver-charles-xavier-em-novo-x-men/",
-    "time": "2026-10-04T16:22:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eleições 2026: Candidatos ao governo do ES votam neste domingo",
-    "d": "No total, cinco candidatos disputam o Palácio Anchieta nas eleições 2026; acompanhe o voto dos postulantes ao governo do Espírito Santo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-candidatos-ao-governo-do-es-votam-neste-domingo/",
-    "time": "2026-10-04T16:17:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Republicanos marca reunião para definir apoio a Flávio em eventual 2º turno",
-    "d": "Governador de São Paulo, Tarcísio de Freitas atua pelo apoio do partido ao aliado; legenda deve reunir cúpula entre terça (6) e quarta-feira (7) para reavaliar neutralidade adotada na primeira etapa da eleição",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/republicanos-marca-reuniao-para-definir-apoio-a-flavio-em-eventual-2o-turno/",
-    "time": "2026-10-04T16:17:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ataque israelense em Gaza mata cinco, incluindo mãe e filha cristãs",
-    "d": "Israel afirma que ataque tinha como alvo um integrante do Hamas; autoridades palestinas dizem que quatro mulheres morreram no bombardeio",
-    "link": "https://www.cnnbrasil.com.br/internacional/ataque-israelense-em-gaza-mata-cinco-incluindo-mae-e-filha-cristas/",
-    "time": "2026-10-04T16:11:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Alcaraz bate Shapovalov e garante vaga nas semifinais do ATP 500 do Japão",
-    "d": "Espanhol enfrentará o compatriota Jaume Munar nas semifinais da competição na Ásia",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-bate-shapovalov-e-garante-vaga-nas-semifinais-do-atp-500-do-japao/",
-    "time": "2026-10-04T16:10:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eleições 2026: Candidatos ao governo do Amazonas votam neste domingo (4)",
-    "d": "Em todo o país, mais de 158 milhões de eleitores vão escolher o presidente da República, governadores, senadores, deputados federais e deputados estaduais ou distritais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-candidatos-ao-governo-do-amazonas-votam-neste-domingo-4/",
-    "time": "2026-10-04T16:09:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Eleições 2026: Candidatos ao governo do Acre votam neste domingo (4)",
-    "d": "Estado acreano tem 614.631 pessoas aptas a votar e 9 zonas eleitorais, que abrangem 2.118 seções eleitorais distribuídas em 660 locais de votação de 22 municípios",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-candidatos-ao-governo-do-acre-votam-neste-domingo-4/",
-    "time": "2026-10-04T16:07:40.000Z"
   },
   {
     "cat": "internacional",
@@ -162,18 +250,10 @@
   {
     "cat": "comercio",
     "src": "BBC News Brasil",
-    "h": "'Eleição decisiva para futuro da América Latina': como imprensa internacional noticia disputa presidencial no Brasil",
+    "h": "'Eleição decisiva para futuro da América Latina': como imprensa internacional noticia disputa presidencial",
     "d": "Jornais como o New York Times, Financial Times e El País destacam importância da eleição para futuro da América Latina — após anos em que a direita vem vencendo disputas na região, em países como Argentina, Bolívia, C…",
     "link": "https://www.bbc.com/portuguese/articles/cred30n2v4edo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-04T14:55:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Diretor da PF diz que medidas judiciais foram cumpridas e que não há risco para embaixadas e consulados",
-    "d": "Diretor-geral da PF faz balanço sobre a segurança nas eleições O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou neste domingo (4) que investigações não identificaram possibilidade de risco ou indício…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/04/diretor-da-pf-diz-que-nao-ha-riscos-para-embaixadas-em-brasilia-nao-encontramos-elementos.ghtml",
-    "time": "2026-10-04T14:52:12.000Z"
   },
   {
     "cat": "internacional",
@@ -184,30 +264,6 @@
     "time": "2026-10-04T14:36:57.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições no RJ: principais candidatos ao governo do estado já votaram",
-    "d": "Eleições no RJ: principais candidatos ao governo do estado já votaram Fluminenses vão escolher candidatos a deputado federal, deputado estadual, duas vagas para o Senado, governador e presidente. O primeiro turno das…",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-rj.ghtml",
-    "time": "2026-10-04T14:27:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin vota em Brasília: 'Eleições íntegras e auditáveis são o motor da democracia'",
-    "d": "Fachin vota em Brasília O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), Luiz Edson Fachin, votou em Brasília na manhã deste domingo (4). Ele chegou ao Centro de Ensino Fundament…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/fachin-vota-em-brasilia.ghtml",
-    "time": "2026-10-04T14:27:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ronaldo Mansur (Psol) vota em Salvador",
-    "d": "Ronaldo Mansur (Psol) vota em Salvador Redes sociais O candidato ao governo da Bahia, Ronaldo Mansur (Psol), votou na manhã deste domingo (4), no Paf 3 da Universidade Federal da Bahia (Ufba), em Salvador. Mansur, que…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/ronaldo-mansur-psol-vota-em-salvador.ghtml",
-    "time": "2026-10-04T14:26:12.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Watch: What we know about Russian strikes on Kyiv bridges",
@@ -216,28 +272,12 @@
     "time": "2026-10-04T14:25:32.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: acompanhe a apuração em todo o Brasil pelo g1",
-    "d": "Eleições 2026: apuração em tempo real Reprodução/TV Globo Acompanhe a apuração das eleições 2026 no domingo, 4 de outubro, ao vivo, pelo g1. Ao todo, os 26 estados e o Distrito Federal elegerão governadores, senadores…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-acompanhe-a-apuracao-em-todo-o-brasil-pelo-g1.ghtml",
-    "time": "2026-10-04T14:14:55.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
     "d": "Annual population growth for the North American nation has slowed to just 0.5% – and the economy is ‘adjusting’ Get our breaking news email, free app or daily news podcast Would slashing net overseas migration “trash…",
     "link": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
     "time": "2026-10-04T14:00:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Que horas começa a sair o resultado do primeiro turno das eleições?",
-    "d": "Votação no 1º turno das eleições gerais de 2026 em Campinas Thomaz Marostegan/g1 Os primeiros resultados do 1º turno das Eleições 2026 começam a ser contabilizados a partir das 17h deste domingo (4), no horário de Bra…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/que-horas-comeca-a-sair-o-resultado-do-primeiro-turno-das-eleicoes.ghtml",
-    "time": "2026-10-04T14:00:21.000Z"
   },
   {
     "cat": "internacional",
@@ -264,38 +304,6 @@
     "time": "2026-10-04T13:33:05.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Famosos votam no 1º turno das eleições de 2026; FOTOS",
-    "d": "Brasileiros vão às urnas neste domingo (4) para o primeiro turno das Eleições de 2026, escolhendo presidente, governadores, senadores e deputados. Entre os eleitores, famosos também foram vistos em seus colégios eleit…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/famosos-votam-no-1o-turno-das-eleicoes-de-2026-fotos.ghtml",
-    "time": "2026-10-04T13:30:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Os grandes doadores que apostam nos dois lados da eleição",
-    "d": "De Ciro e Elmano no Ceará a Lula e Flávio Bolsonaro na Presidência, financiadores bilionários distribuem dinheiro entre adversários.",
-    "link": "https://www.bbc.com/portuguese/articles/cm62449jp7j4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-04T13:07:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Clique aqui",
-    "d": "Acompanhe a apuração para presidente e governador em seu Estado e município com o mapa interativo da BBC News Brasil",
-    "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-04T12:51:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Dia do voto: eleitores de São Paulo vão às urnas neste domingo",
-    "d": "Dia do voto: eleitores de São Paulo vão às urnas neste domingo Paulistas vão escolher candidatos a deputado federal, deputado estadual, duas vagas para o Senado, governador e presidente. O primeiro turno das Eleições…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-sp.ghtml",
-    "time": "2026-10-04T12:34:44.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -306,7 +314,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Lula e Flávio Bolsonaro chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC News Brasil",
+    "h": "Lula e Flávio chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC",
     "d": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-04T12:01:19.000Z"
@@ -320,12 +328,12 @@
     "time": "2026-10-04T11:53:50.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-    "d": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-04T11:03:20.000Z"
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quando o resultado da eleição será divulgado e onde acompanhar a apuração do TSE em tempo real",
+    "d": "A BBC News Brasil vai acompanhar a apuração do primeiro turno das Eleições 2026, em 4 de outubro, com um programa ao vivo trazendo os resultados e análise em tempo real conforme os votos forem contados",
+    "link": "https://www.bbc.com/portuguese/articles/cme3reppxv7zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-04T11:52:30.000Z"
   },
   {
     "cat": "economia",
@@ -344,12 +352,52 @@
     "time": "2026-10-04T10:00:26.000Z"
   },
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Como os candidatos pretendem mexer na economia? Compare propostas para 5 temas",
+    "d": "Montagem com fotos dos candidatos à Presidência: Lula (PT), Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Augusto Cury (Avante) e Romeu Zema (Novo) Globo A poucos dias do primeiro turno das eleições de 2026, os princip…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/04/como-os-candidatos-pretendem-mexer-na-economia-compare-propostas-para-5-temas.ghtml",
+    "time": "2026-10-04T08:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "R$ 9 a cada R$ 10 das despesas já têm destino: o que sobra do Orçamento de 2027 para o próximo presidente?",
+    "d": "Candidatos à Presidência Fotos: Reprodução Quem assumir a Presidência da República em 2027 terá pouco espaço no Orçamento para tirar novas promessas do papel no próximo ano. Dos R$ 2,826 trilhões previstos em despesas…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/04/o-que-sobra-do-orcamento-de-2027-para-o-proximo-presidente.ghtml",
+    "time": "2026-10-04T08:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Do endividamento à imagem ruim: os problemas que o agro quer ver resolvidos pelo próximo presidente",
+    "d": "Agronegócios puxou alta do pib no 1º trimestre YASUYOSHI CHIBA/AFP O próximo presidente vai herdar problemas do agronegócio que não cabem em um mandato de quatro anos, segundo os especialistas entrevistados pelo g1. A…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/04/do-endividamento-a-imagem-ruim-os-problemas-que-o-agro-quer-ver-resolvidos-pelo-proximo-presidente.ghtml",
+    "time": "2026-10-04T07:00:00.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Australia investigating Flydubai co-pilot's links to country",
     "d": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
     "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-04T06:19:17.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Eleição é feriado nacional? O que muda para quem trabalha na data? Veja direitos",
+    "d": "Título de eleitor Foto: Agência Brasil/Divulgação Mais de 150 milhões de brasileiros voltarão às urnas neste domingo (4) para escolher presidente da República, governadores, senadores, deputados federais, estaduais e…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/04/eleicao-e-feriado-nacional-o-que-muda-para-quem-trabalha-na-data-veja-direitos.ghtml",
+    "time": "2026-10-04T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vai trabalhar no dia da eleição? Veja se a empresa pode descontar o tempo para votar",
+    "d": "Urnas eletrônicas 2024 do Paraná Giuliano Gomes/PR Press Para milhões de brasileiros, o primeiro turno das eleições, neste domingo (4), também será dia de expediente. Profissionais da saúde, da segurança, da hotelaria…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/04/vai-trabalhar-no-dia-da-eleicao-veja-se-a-empresa-pode-descontar-o-tempo-para-votar.ghtml",
+    "time": "2026-10-04T06:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -384,6 +432,14 @@
     "time": "2026-10-04T03:38:48.000Z"
   },
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Presidente eleito terá obstáculos na economia; juro alto é o principal desafio, entenda",
+    "d": "Miriam Leitão: BC ainda tem juros altos para esfriar economia O presidente eleito em outubro deste ano para governar o país no próximo mandato, de 2027 a 2030, encontrará o país com o desemprego no menor nível da séri…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/04/presidente-eleito-tera-obstaculos-na-economia-juro-alto-e-o-principal-desafio-entenda.ghtml",
+    "time": "2026-10-04T03:00:00.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Pesquisas para presidente: o que elas dizem na véspera da eleição – e o que mostravam em 2022 e 2018",
@@ -400,20 +456,52 @@
     "time": "2026-10-04T00:11:25.000Z"
   },
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena, concurso 3066: confira os números sorteados; prêmio acumulou",
+    "d": "Concurso 3066 da Mega-Sena - veja sorteio O sorteio do concurso 3066 da Mega-Sena foi realizado, excepcionalmente, na noite deste sábado (3), em São Paulo. A mudança aconteceu por conta das eleições que serão realizad…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/03/mega-sena-concurso-3066-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-10-04T00:04:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
+    "d": "Milhares foram às ruas de Madri neste sábado EPA Nos últimos dias, o nome da aposentada Maricarmen Abascal, de 87 anos, esteve presente em muitas rodas de conversa na Espanha. As imagens da idosa sendo retirada de mac…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/03/por-que-a-espanha-que-construia-casas-demais-vive-hoje-uma-grave-crise-de-moradia.ghtml",
+    "time": "2026-10-03T19:36:31.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ex-funcionário da OpenAI diz que empresas de IA não são 'nem de perto cuidadosas o suficiente'",
+    "d": "OpenAI Reuters/Dado Ruvic Um ex-funcionário da área de segurança da OpenAI, empresa que criou o ChatGPT, criticou a forma como a companhia lida com a segurança da inteligência artificial (IA). Segundo David Robinson,…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/03/ex-funcionario-da-openai-critica-empresas-de-ia.ghtml",
+    "time": "2026-10-03T19:24:15.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Ceará, Pernambuco, Rio e outras disputas de governo estadual que você precisa ficar de olho",
+    "h": "Ceará, Pernambuco, Rio e outras disputas de governo estadual que você precisa ficar de olho hoje",
     "d": "Entenda por que as disputas em SP, MG, RJ, BA, PR, PE, CE, DF, AP merecem atenção nestas eleições.",
     "link": "https://www.bbc.com/portuguese/articles/cqx28ygpe56yo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-03T17:53:07.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Eleições 2026: quem são os principais candidatos a governador em cada Estado",
-    "d": "A BBC News Brasil reuniu os principais nomes na disputa pelos governos dos 26 Estados e do Distrito Federal, com a trajetória política de cada um",
-    "link": "https://www.bbc.com/portuguese/articles/c69v9z2wydv1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-03T11:04:04.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "'O gado está morrendo de sede e fome': o impacto devastador do El Niño no Corredor Seco da América Central",
+    "d": "'Nunca vi uma seca como esta', afirma o agricultor Juan Estanislao Muñoz, que mora no sul de Honduras. Gentileza WFP via BBC Juan Estanislao Muñoz está acostumado com secas intensas. Mas ele garante que a seca atual n…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/03/o-gado-esta-morrendo-de-sede-e-fome-o-impacto-devastador-do-el-nino-no-corredor-seco-da-america-central.ghtml",
+    "time": "2026-10-03T17:09:51.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Países já liberaram 325 milhões de barris de petróleo para conter alta dos preços, diz IEA",
+    "d": "As reservas estratégicas são estoques de petróleo mantidos pelos países para serem usados em situações de emergência, como interrupções no fornecimento de energia. REUTERS/Dado Ruvic/Ilustração Os países-membros da Ag…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/03/paises-ja-liberaram-325-milhoes-de-barris-de-petroleo-para-conter-alta-dos-precos-diz-iea.ghtml",
+    "time": "2026-10-03T12:00:27.000Z"
   },
   {
     "cat": "internacional",
@@ -432,6 +520,14 @@
     "time": "2026-10-03T09:00:54.000Z"
   },
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "O que deu errado para a Nike? Como gigante mundial de artigos esportivos perdeu 'brilho'",
+    "d": "A maior marca de roupas esportivas do planeta, batizada em homenagem à antiga deusa grega da vitória, vem sofrendo perdas ultimamente. Getty Images via BBC Os últimos anos têm sido difíceis para a Nike. A maior marca…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/03/o-que-deu-errado-para-a-nike-como-gigante-mundial-de-artigos-esportivos-perdeu-brilho.ghtml",
+    "time": "2026-10-03T08:00:00.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
@@ -446,14 +542,6 @@
     "d": "Lula e Flávio Bolsonaro dizem que vão vencer no domingo; a maioria dos analistas ainda vê o segundo turno como o cenário mais provável, mas admite que a definição no próximo domingo deixou de ser hipótese apenas teórica.",
     "link": "https://www.bbc.com/portuguese/articles/cv0lrly138rko?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-02T23:13:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-    "d": "President leads huge rally in Rio before election on Sunday seen as most important for decades The Brazilian president, Luiz Inácio Lula da Silva, has claimed he is the only thing standing in the way of far-right “fas…",
-    "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-    "time": "2026-10-02T21:12:29.000Z"
   },
   {
     "cat": "economia",
@@ -482,8 +570,8 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "BBC News Brasil fará transmissão AO VIVO às 16h30 para você acompanhar apuração e resultados do primeiro turno",
-    "d": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — começa cedo, às 7h30, no horário de Brasília, acompanhando a abertura das urnas, o clima da votação e os principais acontecimentos…",
+    "h": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 1º turno",
+    "d": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — acompanha a abertura das urnas, o clima da votação e os principais acontecimentos do dia.",
     "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-02T09:03:53.000Z"
   },
