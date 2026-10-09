@@ -1,131 +1,259 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+    "d": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-09T01:25:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "A faísca invisível que consumiu o colossal dirigível Hindenburg e mudou a história da aviação em 1937",
+    "d": "Uma descarga de eletricidade estática no ar destruiu o gigante dos céus em meio minuto após 77 horas de viagem",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/a-faisca-invisivel-que-consumiu-o-colossal-dirigivel-hindenburg-e-mudou-a-historia-da-aviacao-em-1937/",
+    "time": "2026-10-09T01:22:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sabesp nega contaminação da água após aumento de virose no interior de SP",
+    "d": "Análises foram realizadas após o município registrar surto de gastroenterite e a prefeitura de Itapeva investigar as causas das infecções",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sabesp-nega-contaminacao-da-agua-apos-aumento-de-virose-no-interior-de-sp/",
+    "time": "2026-10-09T01:18:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlético-MG: volante é expulso após 5 minutos em campo contra Athletico-PR",
+    "d": "Estão entregues ao departamento médico: goleiro Everson, o zagueiro Ruan Tressoldi, o meia Gustavo Scarpa e o atacante Mateo Cassierra",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-volante-e-expulso-apos-5-minutos-em-campo-contra-athletico-pr/",
+    "time": "2026-10-09T01:18:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Santos 2 x 2 Flamengo: veja os melhores momentos do jogo do Brasileirão",
+    "d": "Rubro-Negro largou em vantagem no primeiro tempo, mas Santos reagiu com a força de Neymar e a expulsão de Jorginho",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-2-x-2-flamengo-veja-os-melhores-momentos-do-jogo-do-brasileirao/",
+    "time": "2026-10-09T01:15:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Família de Michael Jackon tem gasto anual de quase R$ 100 milhões por ano",
+    "d": "O TMZ apurou os gastos anuais dos filhos Prince, Paris e Bigi, e da mãe, Katherine, para manter a vida luxuosa da família",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/familia-de-michael-jackon-tem-gasto-anual-de-quase-r-100-milhoes-por-ano/",
+    "time": "2026-10-09T01:12:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Neymar exalta Santos e Flamengo: “No Brasil, são os dois melhores times”",
+    "d": "Decisivo no empate na Vila Belmiro nesta quinta-feira (8), craque santista elogiou as equipes e explicou o uso do pé esquerdo por estar voltando de lesão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-exalta-santos-e-flamengo-no-brasil-sao-os-dois-melhores-times/",
+    "time": "2026-10-09T01:11:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasileirão: Cuello toma 3º amarelo e desfalca Atlético-MG contra Santos",
+    "d": "Estão entregues ao departamento médico: goleiro Everson, o zagueiro Ruan Tressoldi, o meia Gustavo Scarpa e o atacante Mateo Cassierra",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/brasileirao-cuello-toma-3o-amarelo-e-desfalca-atletico-mg-contra-santos/",
+    "time": "2026-10-09T01:06:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Waack: Pesquisas mostram inércia favorável a Flávio Bolsonaro",
+    "d": "A campanha de Flávio joga parada, como se diz, pois sendo ele no momento o claro favorito, é ele também quem tem mais a perder com eventuais erros beneficiando o adversário",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/waack-pesquisas-mostram-inercia-favoravel-a-flavio-bolsonaro/",
+    "time": "2026-10-09T01:04:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após encontro, Lula diz que Hugo Motta o “ajudará a ganhar eleição”",
+    "d": "Mandatário respondeu a questionamentos sobre encontro que teve nesta quinta (8) com o parlamentar no Palácio da Alvorada",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apos-encontro-lula-diz-que-hugo-motta-o-ajudara-a-ganhar-eleicao/",
+    "time": "2026-10-09T01:02:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Com final eletrizante, Athletico-PR e Atlético-MG empatam pelo Brasileirão",
+    "d": "A partida mudou após a expulsão de Tomás Pérez, que abriu espaço para o Furacão buscar a vitória. No entanto, nos minutos finais, Lyanco marcou e garantiu o empate para o Galo",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-final-eletrizante-athletico-pr-e-atletico-mg-empatam-pelo-brasileirao/",
+    "time": "2026-10-09T01:01:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil e Índia assinam acordo para desenvolver foguete",
+    "d": "Acordo de dois anos visa combinar tecnologias dos dois países para ampliar a capacidade de transporte em missões orbitais e satélites na órbita baixa da Terra",
+    "link": "https://www.cnnbrasil.com.br/ciencia/brasil-e-india-assinam-acordo-para-desenvolver-foguete/",
+    "time": "2026-10-09T00:58:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "MRV eleva geração de caixa e volume de vendas no 3º trimestre",
+    "d": "Geração de caixa do grupo encerrou o terceiro trimestre em R$ 456 milhões, impulsionada por venda de ativos nos EUA",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/mrv-eleva-geracao-de-caixa-e-volume-de-vendas-no-3o-trimestre/",
+    "time": "2026-10-09T00:49:22.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
-    "h": "Tropa de Flávio Bolsonaro x Exército de Lula: aliados de candidatos mobilizam eleitores nas redes para atrair votos",
-    "d": "A 17 dias do segundo turno das eleições, aliados de Flávio Bolsonaro (PL) e Lula (PT) apostam em uma força-tarefa nas redes sociais para tentar reduzir a abstenção e virar votos. As estratégias incluem \"missões\" para…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-lula-campanha-redes-sociais.ghtml",
-    "time": "2026-10-08T21:26:35.000Z"
+    "h": "Augusto Cury diz que apoio a Flávio Bolsonaro não é 'cheque em branco': 'Iremos cobrar'",
+    "d": "Cury diz que apoio a Flavio Bolsonaro não é 'cheque em branco': 'Iremos cobrar' O ex-candidato à Presidência da República Augusto Cury (Avante) afirmou nesta quinta-feira (8) nas redes sociais que o apoio a Flávio Bol…",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/08/cury-diz-que-apoio-a-flavio-bolsonaro-nao-e-cheque-em-branco-eu-e-todo-o-povo-brasileiro-iremos-cobrar.ghtml",
+    "time": "2026-10-09T00:35:57.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cristiano Ronaldo provoca após críticas recebidas: “Deixa de usar botox”",
-    "d": "Português ironizou a aparência do ex-dirigente do Crystal Palace após críticas sobre sua postura e os recentes episódios envolvendo abandono da seleção portuguesa",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cristiano-ronaldo-provoca-apos-criticas-recebidas-deixa-de-usar-botox/",
-    "time": "2026-10-08T21:20:58.000Z"
+    "src": "BBC News Brasil",
+    "h": "Grupo de dança de crianças africanas que fez vídeo pró-Flávio Bolsonaro promete devolver criptomoedas recebidas por apoio",
+    "d": "Grupo de Uganda diz que não quer se envolver em política; tokens, avaliados pelo grupo em US$ 20 mil, seriam usados para construir uma casa. Especialista vê possíveis ilegalidades na campanha",
+    "link": "https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-09T00:06:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena 3068 acumula e prêmio vai a R$ 112 milhões; confira os números sorteados",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.068 da Mega-Sena foi realizado na noite desta quinta-feira (8), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 100 milhões. No entant…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/08/mega-sena-concurso-3068-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-10-09T00:03:17.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo marca primeiro leilão de contêineres em dez anos",
-    "d": "Disputa pelo terminal MUC04, no Porto de Fortaleza, está marcada para 9 de dezembro; outros dois terminais de fertilizantes também serão leiloados",
-    "link": "https://www.cnnbrasil.com.br/infra/governo-marca-primeiro-leilao-de-conteineres-em-dez-anos/",
-    "time": "2026-10-08T21:19:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Senado encerra 3ª sessão sobre 6×1 e debate será retomado na próxima semana",
-    "d": "Expectativa do governo é conseguir votar os dois turnos da proposta já na semana que vem; oposição, por outro lado, tenta atrasar tramitação para depois do segundo turno",
-    "link": "https://www.cnnbrasil.com.br/politica/senado-encerra-3a-sessao-sobre-6x1-e-debate-sera-retomado-na-proxima-semana/",
-    "time": "2026-10-08T21:17:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pikachu completou cerca de 1.040 órbitas ao redor da Terra durante estadia de 67 dias e presenciou até 16 nasceres do sol por dia; entenda",
-    "d": "Ação colaborativa entre a Agência Espacial Europeia e a The Pokémon Company levou uma pelúcia do personagem ao espaço para promover a ciência e celebrar a Semana Mundial do Espaço",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/pikachu-completou-cerca-de-1-040-orbitas-ao-redor-da-terra-durante-estadia-de-67-dias-e-presenciou-ate-16-nasceres-do-sol-por-dia-entenda/",
-    "time": "2026-10-08T21:15:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Estados Unidos deram a ordem para aumentar prisões do ICE?",
-    "d": "Liderança do ICE orienta agentes a elevar para 3 mil o número diário de detenções às vésperas das eleições de meio de mandato; a analista de Internacional da CNN Fernanda Magnotta comenta o tema ao CNN 360°",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-estados-unidos-deram-a-ordem-para-aumentar-prisoes-do-ice/",
-    "time": "2026-10-08T21:14:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ruas: Lamentável levar ao Judiciário o que deve ser decidido na política",
-    "d": "Candidato do PL (Partido Liberal) criticou recurso de Paes ao STF (Supremo Tribunal Federal) após decisão que anulou votos de Garotinho; retotalização está marcada para sábado (10)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/ruas-lamentavel-levar-ao-judiciario-o-que-deve-ser-decidido-na-politica/",
-    "time": "2026-10-08T21:13:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo avalia definir imposto seletivo por emenda constitucional",
-    "d": "Equipe do presidente Lula também não descarta a possibilidade de estabelecer as alíquotas via medida provisória; definição fica para depois do segundo turno",
-    "link": "https://www.cnnbrasil.com.br/economia/governo-avalia-definir-imposto-seletivo-por-emenda-constitucional/",
-    "time": "2026-10-08T21:12:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Aliados de Moraes e Dino foram decisivos no caso Garotinho",
-    "d": "Após decisão do TSE, Douglas Ruas deve ser eleito governador do Rio de Janeiro no primeiro turno; análise é de Matheus Teixeira no CNN 360°",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/analise-aliados-de-moraes-e-dino-foram-decisivos-no-caso-garotinho/",
-    "time": "2026-10-08T21:12:00.000Z"
+    "src": "BBC News Brasil",
+    "h": "Por que Douglas Ruas pode ganhar eleição para governador do Rio quatro dias depois do 1º turno",
+    "d": "TSE formou maioria para declarar nulos os votos de Anthony Garotinho, o que daria ao candidato do PL mais de 50% dos votos válidos.",
+    "link": "https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-08T23:47:36.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Datafolha no DF: 32% avaliam gestão Celina Leão como positiva e 29%, como negativa",
-    "d": "Celina Leão (PP) em evento de campanha TV Globo Pesquisa Datafolha divulgada nesta quinta-feira (1º) mostra como está a avaliação do governo Celina Leão (PP). ➡️ A atual governadora assumiu o cargo em março deste ano…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-avaliacao-governo-celina-8-outubro.ghtml",
-    "time": "2026-10-08T21:09:59.000Z"
+    "h": "TSE aciona PF para investigar ataques e ameaças a servidores da Justiça Eleitoral",
+    "d": "O Tribunal Superior Eleitoral (TSE) informou nesta quinta-feira (8) que acionou a Polícia Federal e o Ministério Público após identificar ataques contra servidores da Justiça Eleitoral nas redes sociais. Em nota, o TS…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/tse-aciona-pf-para-invetsigar-ataques-e-ameacas-a-servidores-da-justica-eleitoral.ghtml",
+    "time": "2026-10-08T23:38:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Fuzilamento de ex-militar condenado à morte será transmitido ao vivo nos EUA, anuncia Pentágono",
+    "d": "Prevista para dezembro, execução de Nidal Hasan deve ocorrer por fuzilamento.",
+    "link": "https://www.bbc.com/portuguese/articles/c6wydpqexn5do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-08T23:29:10.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Datafolha no DF, 2º turno: Celina Leão, 55%; Leandro Grass, 37%",
-    "d": "Celina Leão (PP) e Leandro Grass (PT) TV Globo Pesquisa Datafolha divulgada nesta quinta-feira (8) mostra como está a disputa para o governo do Distrito Federal para o segundo turno nas eleições de outubro. Esta é a p…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-governador-segundo-turno-8-outubro.ghtml",
-    "time": "2026-10-08T21:09:45.000Z"
+    "h": "Em live, Flávio Bolsonaro mostra vídeos feitos com deepfake de seu rosto e ataca o PT",
+    "d": "Em Live, Flávio Bolsonaro mostra vídeo com deep fake de seu rosto e gravação original Arte/g1 Candidato à Presidência pelo PL, Flávio Bolsonaro atacou o PT durante uma live na noite desta quinta-feira (8) ao atribuir…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/em-live-flavio-bolsonaro-mostra-videos-feitos-com-deepfake-de-seu-rosto-e-ataca-o-pt.ghtml",
+    "time": "2026-10-08T23:24:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+    "d": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-08T23:11:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Imposto do pecado': discussão sobre alíquotas ficará para depois das eleições, diz ministro da Fazenda",
+    "d": "Cigarro aumenta vulnerabilidade a infecções Getty Images via BBC O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (8) que as alíquotas do Imposto Seletivo, conhecido como \"imposto do pecado\", só começa…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/08/imposto-do-pecado-discussao-sobre-aliquotas-ficara-para-depois-das-eleicoes-diz-ministro-da-fazenda.ghtml",
+    "time": "2026-10-08T23:07:49.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Unidade Popular declara apoio a Lula no segundo turno",
-    "d": "O Unidade Popular (UP), partido da ex-candidata à Presidência Samara Martins, declarou nesta quinta-feira (8) apoio ao presidente Luiz Inácio Lula da Silva (PT) no segundo turno da eleição presidencial contra Flávio B…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/unidade-popular-declara-apoio-a-lula-no-segundo-turno.ghtml",
-    "time": "2026-10-08T21:05:00.000Z"
+    "h": "Flávio Bolsonaro visita arcebispo de Brasília e recebe imagem de Nossa Senhora",
+    "d": "Flávio Bolsonaro visita arcebispo de Brasília e recebe imagem de Nossa Senhora O candidato à Presidência da República Flávio Bolsonaro (PL) e o candidato a vice-presidente na chapa, Alfredo Gaspar (PL), fizeram uma \"v…",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-visita-arcebispo-de-brasilia-e-recebe-imagem-de-nossa-senhora.ghtml",
+    "time": "2026-10-08T23:00:37.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fórmula 1: horário e onde assistir ao Grande Prêmio de Singapura",
-    "d": "Kimi Antonelli pode ficar muito próximo do título mundial caso conquiste um bom resultado; GP foi mantido apesar de fumaça e má qualidade do ar",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-horario-e-onde-assistir-ao-grande-premio-de-singapura-2/",
-    "time": "2026-10-08T21:04:50.000Z"
+    "src": "G1",
+    "h": "União aponta impacto de R$255 bi e pede suspensão de precatórios de usinas até julgamento do STF",
+    "d": "O governo apontou ao Supremo Tribunal Federal (STF) que o pagamento de precatórios sem perícias deve alcançar R$ 255,3 bilhões em 2026 e pediu a suspensão de ações indenizatórias que tratam de preços do setor sucroalc…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/08/uniao-aponta-impacto-de-r255-bi-e-pede-suspensao-de-precatorios-de-usinas-ate-julgamento-do-stf.ghtml",
+    "time": "2026-10-08T22:51:40.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Suho, do grupo de k-pop EXO, anuncia show no Brasil em dezembro",
-    "d": "Artista sul-coreano se apresenta em São Paulo com a turnê “2026 K-pop Chronicle Live Suho Fan-Con”",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/suho-do-grupo-de-k-pop-exo-anuncia-show-no-brasil-em-dezembro/",
-    "time": "2026-10-08T21:02:19.000Z"
+    "src": "G1",
+    "h": "Senado diz a Fux que fornecer dados sobre visitação viola ‘sigilo parlamentar’ e afeta independência dos senadores",
+    "d": "Fux cobra Senado registro de visitas de Vorcaro, Viviane Barci, Fábio Luís e outros O Senado Federal enviou nesta quarta-feira (7) ao ministro do Supremo Tribunal Federal (STF) Luiz Fux uma manifestação em que pede a…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/08/senado-diz-a-fux-que-fornecer-dados-sobre-visitacao-viola-sigilo-parlamentar-e-afeta-independencia-dos-senadores.ghtml",
+    "time": "2026-10-08T22:42:33.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem é Zack Polanski, o “ecopopulista” que desafia o poder britânico?",
-    "d": "Político de 43 anos ganhou projeção nacional no outono passado, quando conquistou uma vitória surpreendente na eleição para a liderança do partido Verde",
-    "link": "https://www.cnnbrasil.com.br/internacional/quem-e-zack-polanski-o-ecopopulista-que-desafia-o-poder-britanico/",
-    "time": "2026-10-08T21:02:19.000Z"
+    "src": "G1",
+    "h": "Datafolha: Flávio comemora mais pontos obtidos do que Lula, que aponta para eleição indefinida",
+    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 49%; Lula, 45% O resultado da primeira pesquisa Datafolha do 2º turno divulgado nesta quinta-feira (8) foi bem recebido pelas duas campanhas presidenciais. A de Flávio Bolsonaro…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/08/datafolha-flavio-bolsonaro-comemora-mais-pontos-obtidos-do-que-lula-que-aponta-para-eleicao-indefinida.ghtml",
+    "time": "2026-10-08T22:37:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Gol lança ‘check-in’ pelo ChatGPT; veja como fazer e quando começa",
+    "d": "Chat GPT: Veja profissões que podem despontar com chegada da ferramenta A Gol Linhas Aéreas anunciou nesta quinta-feira (8) uma integração com o ChatGPT que permitirá aos passageiros fazer o check-in e gerar o cartão…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/08/gol-lanca-check-in-pelo-chatgpt-veja-como-fazer-e-quando-comeca.ghtml",
+    "time": "2026-10-08T22:20:45.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Juiz prorroga acesso à Casa Branca para CNN e outros veículos",
-    "d": "Ordem estende até terça-feira (13) obrigação para que governo de Donald Trump permita que as organizações de notícias entrem nas dependências do edifício",
-    "link": "https://www.cnnbrasil.com.br/internacional/juiz-prorroga-acesso-a-casa-branca-para-cnn-e-outros-veiculos/",
-    "time": "2026-10-08T21:02:07.000Z"
+    "src": "G1",
+    "h": "'Split payment': mecanismo não prejudica caixa das empresas e garante redução da sonegação, diz Durigan",
+    "d": "Dario Durigan Washington Costa/MF O ministro da Fazenda, Dario Durigan, defendeu nesta quinta-feira (8) o chamado split payment, mecanismo criado pela reforma tributária que separa automaticamente, no momento da compr…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/08/split-payment-mecanismo-nao-prejudica-caixa-das-empresas-e-garante-reducao-da-sonegacao-diz-durigan.ghtml",
+    "time": "2026-10-08T22:02:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula diz que PL e Flávio não querem assumir compromisso com fim da escala 6x1 e defende votação",
+    "d": "Lula critica 'tesouraço' de Flávio Bolsonaro e cobra posição sobre escala 6x1 O presidente Luiz Inácio Lula da Silva (PT) afirmou que o Partido Liberal (PL) e o senador Flávio Bolsonaro (PL-RJ) não querem assumir o co…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/lula-diz-que-pl-e-flavio-nao-querem-assumir-compromisso-com-fim-da-escala-6x1-e-defende-votacao.ghtml",
+    "time": "2026-10-08T21:57:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fim da 6x1: Senado faz 3ª sessão de discussão; governistas dizem ter votos para aprovar PEC enquanto oposição tenta adiar",
+    "d": "Plenário do Senado Federal durante sessão debate do fim da PEC da escala 6x1 - Alcolumbre na cadeira da presidência Carlos Moura/Agência Senado O Senado realizou nesta quinta-feira (8) a terceira sessão de discussão d…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/08/fim-da-6x1-senado-faz-3a-sessao-de-discussao-governistas-dizem-ter-votos-para-aprovar-pec-enquanto-oposicao-tenta-adiar.ghtml",
+    "time": "2026-10-08T21:55:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: 49% desaprovam e 48% aprovam governo Lula",
+    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 49%; Lula, 45% A primeira pesquisa Datafolha do 2º turno mostra que 49% dos eleitores desaprovam o governo do presidente Lula (PT), candidato à reeleição, e 48% aprovam. O levant…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-avaliacao-governo-8-outubro.ghtml",
+    "time": "2026-10-08T21:41:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: Flávio Bolsonaro, 49%; Lula, 45%",
+    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 49%; Lula, 45% A primeira pesquisa Datafolha do 2º turno mostra que Flávio Bolsonaro (PL) tem 49% das intenções de voto, contra 45% de Lula (PT). O Datafolha diz que a distância…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidente-8-outubro.ghtml",
+    "time": "2026-10-08T21:41:33.000Z"
   },
   {
     "cat": "economia",
@@ -134,14 +262,6 @@
     "d": "Volkswagen Tera 200 TSI divulgação/Volkswagen A Volkswagen passa a oferecer o Tera com o motor 200 TSI nas versões automáticas Comfort e Highline. O SUV compacto passa a ter motor 1.0 turbo de três cilindros com 128 c…",
     "link": "https://g1.globo.com/carros/noticia/2026/10/08/volkswagen-tera-2027.ghtml",
     "time": "2026-10-08T20:45:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Após apelo por 'mais Alckmin', campanha de Lula planeja mais participações de vice-presidente em entrevistas regionais",
-    "d": "O presidente brasileiro e candidato à reeleição pelo Partido dos Trabalhadores (PT), Luiz Inácio Lula da Silva, segura a bandeira nacional ao lado do vice-presidente Geraldo Alckmin, ao chegar para votar nas eleições…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/apos-apelo-por-mais-alckmin-campanha-de-lula-planeja-mais-participacoes-de-vice-presidente-em-entrevistas-regionais.ghtml",
-    "time": "2026-10-08T20:44:42.000Z"
   },
   {
     "cat": "economia",
@@ -155,33 +275,17 @@
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
-    "d": "Martin and Debra Robinson, the brothers’ parents, will address the court before a Mexican judge hands down the verdict A Mexican judge is expected to hand down his verdict on Thursday in the high-profile murder trial…",
+    "d": "The brothers’ parents, Martin and Debra Robinson, to address court before a Mexican judge hands down verdict A Mexican judge is expected to hand down his verdict in the high-profile murder trial of three men accused o…",
     "link": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
     "time": "2026-10-08T20:40:55.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Douglas Ruas pode ganhar eleição para governador do Rio quatro dias depois do 1º turno",
-    "d": "TSE tem maioria para declarar nulos os votos de Anthony Garotinho, o que daria ao candidato do PL mais de 50% dos votos válidos.",
-    "link": "https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-08T20:29:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Senado encerra terceira sessão de discussão da PEC do fim da escala 6x1",
-    "d": "Senado encerra terceira sessão de discussão da PEC do fim da escala 6x1 Senado encerrou nesta quinta-feira (8) a terceira sessão de discussão da proposta, que já passou pela Câmara. PEC voltará à pauta para continuida…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/ao-vivo/senado-pec-fim-escalada-6x1.ghtml",
-    "time": "2026-10-08T20:25:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ruas critica judicialização, diz que aguarda retotalização e já faz promessas como governador: 'Declarar guerra ao crime'",
-    "d": "Ruas critica judicialização, diz que aguarda retotalização e já faz promessas como governador Em entrevista coletiva nesta quinta-feira (8), Douglas Ruas (PL) criticou a judicialização das eleições, disse que vai agua…",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/douglas-ruas-diz-que-adversarios-tentaram-impedir-sua-vitoria.ghtml",
-    "time": "2026-10-08T20:24:53.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+    "d": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+    "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-08T20:38:11.000Z"
   },
   {
     "cat": "internacional",
@@ -190,54 +294,6 @@
     "d": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once enda…",
     "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
     "time": "2026-10-08T20:20:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "MDB planeja ato para declarar apoio de  16 diretórios estaduais a Flávio Bolsonaro",
-    "d": "O candidato à Presidência Flávio Bolsonaro (PL) participou de uma reunião virtual nesta quinta-feira (8) com o presidente nacional do MDB, Baleia Rossi, para selar o apoio de 16 diretórios estaduais da sigla no segund…",
-    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/08/mdb-planeja-ato-para-declarar-apoio-de-diretorios-estaduais-a-flavio-bolsonaro.ghtml",
-    "time": "2026-10-08T20:17:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fux determina que área técnica do STF libere acesso aos inquéritos das fake news, da milícia digital e trama golpista",
-    "d": "Agora no g1 O ministro Luiz Fux, do Supremo Tribunal Federal (STF), determinou nesta quinta-feira (8) que a área técnica do tribunal libere o acesso de seu gabinete a investigações que tramitam sob sigilo na Suprema C…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/08/fux-determina-que-area-tecnica-do-stf-libere-acesso-aos-inqueritos-das-fake-news-da-milicia-digital-e-trama-golpista.ghtml",
-    "time": "2026-10-08T20:09:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que se sabe sobre os três incêndios que aconteceram na UFPE em oito dias e que serão investigados pela PF",
-    "d": "Fogo atingiu laboratórios do Departamento de Física e do Centro de Biociências antes de danificar prédio que concentrava pesquisas em diferentes áreas",
-    "link": "https://www.bbc.com/portuguese/articles/cje36lx0qz5qo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-08T20:01:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "É #FAKE SMS que manda regularizar título antes do 2º turno e indica site que cobra PIX de R$ 13,54",
-    "d": "É #FAKE SMS que manda regularizar título antes do 2º turno e indica site falso que cobra pix de R$ 13,54 Reprodução Uma mensagem enviada por SMS em nome do governo federal alega que o usuário tem de regularizar o títu…",
-    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/08/e-fake-sms-que-manda-regularizar-titulo-antes-do-2o-turno-e-indica-site-que-cobra-pix-de-r-1354.ghtml",
-    "time": "2026-10-08T19:53:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre",
-    "d": "O deputado Eduardo Bolsonaro, que está nos EUA Wilton Junior/Estadão Conteúdo O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou o início do cumprimento da pena do ex-deputado Eduardo Bolson…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/08/eduardo-bolsonaro-teve-green-card-concedido-pelo-governo-trump-relembre.ghtml",
-    "time": "2026-10-08T19:41:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Retomada da propaganda eleitoral terá Flávio Bolsonaro propondo 'mudanças' aos insatisfeitos e Lula defendendo programas sociais",
-    "d": "Flávio Bolsonaro (PL) e Lula (PT), que disputam o segundo turno presidencial no dia 25 de outubro. Wilton Junior/Estadão Conteúdo e Diego Herculano/Reuters Na disputa pelos votos do 2º turno, os candidatos à Presidênc…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/volta-da-propaganda-eleitoral-flavio-bolsonaro-e-lula.ghtml",
-    "time": "2026-10-08T19:40:13.000Z"
   },
   {
     "cat": "internacional",
@@ -360,22 +416,6 @@
     "time": "2026-10-08T16:31:29.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Zambia signs US health deal after disputes over data-sharing",
-    "d": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
-    "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-08T16:24:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-    "d": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-    "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-08T16:23:09.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "EUA acusam Maduro de comandar tortura na Venezuela: entenda processo",
@@ -416,14 +456,6 @@
     "time": "2026-10-08T15:17:56.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Endividamento das famílias cai pela 1ª vez no ano; inadimplência recua nas menores rendas e cresce nas maiores",
-    "d": "Advogado orienta sobre tipo de crédito consignado que pode levar ao endividamento O endividamento das famílias brasileiras caiu pela primeira vez desde dezembro de 2025. A parcela de famílias com dívidas teve um recuo…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/08/inadimplencia-pesquisa-renda-cnc.ghtml",
-    "time": "2026-10-08T15:16:46.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Christa Pike now walking after failed US execution, lawyer tells BBC",
@@ -432,20 +464,12 @@
     "time": "2026-10-08T15:02:32.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Latam recebe 1º avião E195-E2 da Embraer, em São José dos Campos",
-    "d": "Latam recebe 1º avião E195-E2 da Embraer, em São José dos Campos Reprodução/TV Vanguarda A companhia aérea Latam recebeu, na manhã desta quinta-feira (8), o primeiro avião da Embraer que vai integrar a frota da compan…",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/08/latam-recebe-1o-aviao-e195-e2-da-embraer-em-sao-jose-dos-campos.ghtml",
-    "time": "2026-10-08T15:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Executiva da BYD afirma que maior desafio para expansão é a geopolítica",
-    "d": "Stella Li, responsável pelo negócio internacional da BYD, apresenta o caminhão elétrico ETT 44 durante feira em Hanover, na Alemanha. REUTERS/Ilona Wissenbach O principal desafio à expansão da BYD é a geopolítica, afi…",
-    "link": "https://g1.globo.com/carros/noticia/2026/10/08/executiva-da-byd-afirma-que-maior-desafio-para-expansao-e-a-geopolitica.ghtml",
-    "time": "2026-10-08T14:50:37.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+    "d": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-08T14:33:23.000Z"
   },
   {
     "cat": "internacional",
@@ -454,14 +478,6 @@
     "d": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne…",
     "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
     "time": "2026-10-08T14:03:29.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Amazon lança tablets com Android pela 1ª vez e aumenta preços",
-    "d": "Logo da Alexa+ é exibido em uma tela durante evento de lançamento de dispositivos da Amazon, em Nova York, nos Estados Unidos, em 26 de fevereiro de 2025. REUTERS/Brendan McDermid/Arquivo A Amazon apresentou nesta qui…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/08/amazon-lanca-tablets-com-android-pela-1a-vez-e-aumenta-precos.ghtml",
-    "time": "2026-10-08T13:26:17.000Z"
   },
   {
     "cat": "brasil",
@@ -482,32 +498,16 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-    "d": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-08T12:11:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
     "d": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
     "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-08T12:04:25.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Residents airlifted to safety after flooding in central Chile",
-    "d": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-08T11:31:22.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-    "d": "Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran Business live – latest updates Oil prices have risen sharply amid fears about escal…",
+    "d": "Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran Oil prices have risen sharply amid fears about escalating tensions in the Middle Ea…",
     "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
     "time": "2026-10-08T11:11:47.000Z"
   },
@@ -526,14 +526,6 @@
     "d": "Lula e Flávio Bolsonaro disputam eleição para presidente no segundo turno e apresentam propostas diferentes para o Bolsa Família.",
     "link": "https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-08T08:52:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Bolsonarismo se fortaleceu tanto que não precisa mais dos militares, diz especialista em Forças Armadas",
-    "d": "Em entrevista à BBC News Brasil, cientista político João Roberto Martins Filho diz que governo Lula fez militares voltarem aos quartéis e que grupo não deve ter protagonismo em eventual gestão de Flávio Bolsonaro.",
-    "link": "https://www.bbc.com/portuguese/articles/cmqxn8w7l3ryo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-08T07:29:12.000Z"
   },
   {
     "cat": "internacional",
