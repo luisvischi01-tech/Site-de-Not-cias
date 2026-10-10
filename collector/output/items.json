@@ -1,67 +1,147 @@
 [
   {
-    "cat": "brasil",
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+    "d": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T20:51:12.000Z"
+  },
+  {
+    "cat": "economia",
     "src": "CNN Brasil",
-    "h": "Pedido de cliente para loja esperar três horas após o expediente surpreende vendedora e mobiliza a internet",
-    "d": "Mensagem enviada por consumidora solicitando que equipe mantivesse estabelecimento aberto na noite provoca debate acalorado sobre limites no atendimento",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/pedido-de-cliente-para-loja-esperar-tres-horas-apos-o-expediente-surpreende-vendedora-e-mobiliza-a-internet/",
-    "time": "2026-10-10T17:18:30.000Z"
+    "h": "El Niño forte deve pressionar inflação até fevereiro, diz economista",
+    "d": "IPCA sobe 0,82% em setembro; alimentos e bebidas puxam alta e fenômeno climático preocupa especialistas",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/el-nino-forte-deve-pressionar-inflacao-ate-fevereiro-diz-economista/",
+    "time": "2026-10-10T20:47:00.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Trump comprou US$ 5 milhões em títulos da SpaceX antes de cortar regulações",
-    "d": "Negociações ocorreram dois dias antes de Trump lançar esforço para reduzir burocracia no transporte espacial comercial",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/trump-comprou-us-5-milhoes-em-titulos-da-spacex-antes-de-cortar-regulacoes/",
-    "time": "2026-10-10T17:16:11.000Z"
+    "h": "Em meio a rumores de término, Vini Jr. começa no banco, faz gol e é expulso",
+    "d": "Atacante recebeu cartão vermelho contra o Villarreal enquanto Virginia Fonseca embarcou para Miami sem aliança atacante",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/em-meio-a-rumores-de-termino-vini-jr-comeca-no-banco-faz-gol-e-e-expulso/",
+    "time": "2026-10-10T20:46:16.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Homem que atacou voo da Flydubai planejava atingir Tel Aviv, diz apuração",
-    "d": "Investigação preliminar aponta que suspeito queria fazer ataque semelhante ao 11 de setembro no aeroporto da cidade israelense",
-    "link": "https://www.cnnbrasil.com.br/internacional/homem-que-atacou-voo-da-flydubai-planejava-atingir-tel-aviv-diz-apuracao/",
-    "time": "2026-10-10T17:06:21.000Z"
+    "h": "Vini Jr. puxa cabelo de rival em meio a rumores de término com Virginia",
+    "d": "Brasileiro chegou a balançar as redes após cruzamento de Bellingham, mas lance foi revisado pelo VAR e terminou com cartão vermelho por agressão a Saliba",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/vini-jr-puxa-cabelo-de-rival-em-meio-a-rumores-de-termino-com-virginia/",
+    "time": "2026-10-10T20:45:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Meta de inflação de 3% é inatingível, diz CEO da Hedge Investments",
+    "d": "Para André Freitas, indexação, memória inflacionária e custos globais tornam meta incompatível com cenário atual",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/meta-de-inflacao-de-3-e-inatingivel-diz-ceo-da-hedge-investments/",
+    "time": "2026-10-10T20:42:22.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "F1: Piloto pedala 420 km até GP, é perseguido e ouve alerta sobre tigres",
-    "d": "Piloto da Cadillac saiu da Malásia de bicicleta após sugestão da namorada, Tiffany Cromwell, e levou três dias para chegar ao destino da F1; aventura incluiu estradas na selva, calor intenso e encontro com animais",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-piloto-pedala-420-km-ate-gp-e-perseguido-e-ouve-alerta-sobre-tigres/",
-    "time": "2026-10-10T17:04:42.000Z"
+    "h": "Militares resgatam vítimas de caminhonete submersa na Flórida",
+    "d": "Ciclone pós-tropical Isaias atingiu a costa dos Estados Unidos no início deste sábado, matou ao menos quatro pessoas e deixou centenas de milhares sem luz",
+    "link": "https://www.cnnbrasil.com.br/internacional/militares-resgatam-vitimas-de-caminhonete-submersa-na-florida/",
+    "time": "2026-10-10T20:40:47.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "“Feito Pipa” no Oscar? Veja apostas para Melhor Filme Internacional",
-    "d": "Longa protagonizado por Lázaro Ramos foi escolhido pela Academia Brasileira de Cinema para representar o Brasil no maior prêmio do cinema",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/feito-pipa-no-oscar-veja-apostas-para-melhor-filme-internacional/",
-    "time": "2026-10-10T17:01:11.000Z"
+    "h": "Veja os técnicos que já recusaram o Corinthians após a saída de Diniz",
+    "d": "Quatro nomes disseram \"não\" ao Timão, que segue no mercado em busca de um treinador",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/veja-os-tecnicos-que-ja-recusaram-o-corinthians-apos-a-saida-de-diniz/",
+    "time": "2026-10-10T20:39:29.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Justiça decreta prisão preventiva de DJ que atropelou e matou homem em SP",
-    "d": "Daniel Santana de Jesus, conhecido como DJ Dani Brasil, testou positivo no teste do bafômetro; artista tentou fugir de abordagem policial pulando em piscina",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-decreta-prisao-preventiva-de-dj-que-atropelou-e-matou-homem-em-sp/",
-    "time": "2026-10-10T17:00:54.000Z"
+    "h": "Foragido russo suspeito de tentar vender armas no Brasil é preso na Bahia",
+    "d": "Segundo a Secretaria da Segurança Pública do estado, homem era ex-militar procurado pela Interpol e tentava estruturar uma rede para vender armas, munições e drogas para facções brasileiras",
+    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/foragido-russo-suspeito-de-tentar-vender-armas-no-brasil-e-preso-na-bahia/",
+    "time": "2026-10-10T20:33:54.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Quatro cuidados para ter no carro durante período da primavera; confira",
-    "d": "A estação do ano exige atenção nos carros, principalmente com velas, cabos e bobinas, além dos filtros de ar e de cabine e dos drenos do veículo",
-    "link": "https://www.cnnbrasil.com.br/auto/quatro-cuidados-para-ter-no-carro-durante-periodo-da-primavera-confira/",
-    "time": "2026-10-10T17:00:08.000Z"
+    "h": "Pátria planeja ampliar atuação no saneamento básico do Brasil",
+    "d": "Thiago Bronzi detalha planos da gestora para crescer no setor e avalia desafios para novos operadores no Brasil",
+    "link": "https://www.cnnbrasil.com.br/infra/patria-planeja-ampliar-atuacao-no-saneamento-basico-do-brasil/",
+    "time": "2026-10-10T20:33:42.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "“Por Você”: personagem reaparece e confessa recaída",
-    "d": "Lucas percebe que há algo errado com funcionário da escola e descobrirá o que aconteceu nos capítulos que irão ao ar nos próximos dias",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/por-voce-personagem-reaparece-e-confessa-recaida/",
-    "time": "2026-10-10T16:58:33.000Z"
+    "h": "Cauã Reymond diz que foi fotografado nu dentro de casa; entenda",
+    "d": "Ator contou que drone registrou imagens íntimas sem consentimento e que fotos foram enviadas a veículos de imprensa, mas não chegaram a ser publicadas",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/caua-reymond-diz-que-foi-fotografado-nu-dentro-de-casa-entenda/",
+    "time": "2026-10-10T20:33:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que o México está desmilitarizando suas escolas",
+    "d": "A morte de uma estudante em uma escola militarizada do México levou o governo do país a proibir este tipo de instituição baseada na ética militar. A BBC visitou uma dessas escolas, atualmente em processo de transição.",
+    "link": "https://www.bbc.com/portuguese/articles/cv0ldp76jy51o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T20:30:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Morre o produtor cultural Jerry Burgos, e famosos lamentam",
+    "d": "Produtor de Ana Carolina teve o falecimento comunicado pela Global Music; velório ocorre neste sábado (10)",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-produtor-cultural-jerry-burgos-e-famosos-lamentam/",
+    "time": "2026-10-10T20:30:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE dá 48h para Meta provar que tratou Lula e Flávio de forma igual",
+    "d": "Determinação atende pedido da coligação do presidente após denúncias de seletividade algorítmica nas redes sociais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-da-48h-para-meta-provar-que-tratou-lula-e-flavio-de-forma-igual/",
+    "time": "2026-10-10T20:29:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ladrões mascarados roubam vinhos avaliados em US$ 5 milhões na Itália",
+    "d": "Cerca de 30 mil garrafas da prestigiada vinícola Marchesi Antinori foram furtadas; empresa diz que este pode ser um dos maiores roubos do produto já registrados",
+    "link": "https://www.cnnbrasil.com.br/internacional/ladroes-mascarados-roubam-vinhos-avaliados-em-us-5-milhoes-na-italia/",
+    "time": "2026-10-10T20:24:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Ganhadora do Nobel da Paz reage contra sanções dos EUA ao Tribunal Penal Internacional: 'Inaceitáveis'",
+    "d": "Navi Pillay também disse que medidas \"anunciadas por um país contra os juízes simplesmente por causa das ordens judiciais que eles emitem\" são \"inéditas\".",
+    "link": "https://www.bbc.com/portuguese/articles/cqpvgme9pmpko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T19:47:16.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "d": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T19:28:28.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "d": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+    "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T19:08:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Douglas Ruas é eleito governador do Rio em 1º turno após TRE retotalizar votos",
+    "d": "Disputa no estado sofreu reviravolta com anulação dos votos do ex-governador Anthony Garotinho, que terminou a disputa do primeiro turno em terceiro lugar.",
+    "link": "https://www.bbc.com/portuguese/articles/cmzxlkzdk592o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T18:52:37.000Z"
   },
   {
     "cat": "internacional",
@@ -69,39 +149,31 @@
     "h": "Several injured in attack on airport in Saudi capital Riyadh",
     "d": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
     "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T16:56:32.000Z"
+    "time": "2026-10-10T18:37:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+    "d": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T18:22:29.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Funcionária é demitida após trocar mensagens sexuais com colegas pelo Teams; empresa monitorava conversas",
+    "d": "Funcionária é demitida por justa causa após trocar mensagens sexuais com colegas pelo Teams Pexels Uma funcionária que usava o Microsoft Teams da empresa para manter conversas pessoais e de teor sexual com colegas de…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/10/funcionaria-demitida-justa-causa-teams.ghtml",
+    "time": "2026-10-10T18:14:01.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com brilho de João Pedro, Chelsea goleia Bournemouth e fica perto do G4",
-    "d": "Equipe de Xabi Alonso aplica 5 a 1 no adversário em Stamford Bridge, com dois gols do atacante brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/com-brilho-de-joao-pedro-chelsea-goleia-bournemouth-e-fica-perto-do-g4/",
-    "time": "2026-10-10T16:54:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Neymar: craque desfalca Santos em jogo contra Atlético-MG",
-    "d": "Peixe vai a Belo Horizonte enfrentar o Galo neste domingo (11) pela 30ª rodada do Campeonato Brasileiro; clube sonha com vaga na Libertadores do ano que vem",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-craque-desfalca-santos-em-jogo-contra-atletico-mg/",
-    "time": "2026-10-10T16:52:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Daniel pedala mais de 300 km para chegar a Aparecida",
-    "d": "Cantor fez o Caminho da Fé de bicicleta, entre cidades paulistas e mineiras, até chegar ao templo no interior de São Paulo",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/daniel-pedala-mais-de-300-km-para-chegar-a-aparecida/",
-    "time": "2026-10-10T16:49:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Luisa Stefani avança à final do WTA 1000 de Pequim",
-    "d": "Brasileira e canadense eliminaram Elise Mertens e Diane Shnaider no tie-break; dupla vem fazendo ano brilhante no circuito do WTA em 2026",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-avanca-a-final-do-wta-1000-de-pequim/",
-    "time": "2026-10-10T16:47:21.000Z"
+    "src": "G1",
+    "h": "Candidatos não podem ser presos a partir deste sábado; 2º turno da eleição acontece daqui a 15 dias",
+    "d": "A partir deste sábado (10), faltando 15 dias para o segundo turno das Eleições 2026, candidatas e candidatos não podem ser presos ou detidos. A determinação faz parte das normas previstas no Código Eleitoral brasileir…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/candidatos-nao-podem-ser-presos-a-partir-deste-sabado-2o-turno-da-eleicao-acontece-daqui-a-15-dias.ghtml",
+    "time": "2026-10-10T17:45:49.000Z"
   },
   {
     "cat": "internacional",
@@ -109,13 +181,21 @@
     "h": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
     "d": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
     "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T16:30:21.000Z"
+    "time": "2026-10-10T17:44:26.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que a China considera uma ameaça a IA que imita as relações humanas",
+    "d": "'Terceirizar' a vida para a IA pode ser um problema? Importante: esta reportagem contém descrições de tentativas de suicídio. No início de 2024, um jovem da cidade de Huangshi, no sudeste da China, publicou uma mensag…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/10/por-que-a-china-considera-uma-ameaca-a-ia-que-imita-as-relacoes-humanas.ghtml",
+    "time": "2026-10-10T17:44:06.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
     "h": "Campanha de Lula acusa Meta de tentar interferir nas eleições e diz que acionará TSE e ANPD",
-    "d": "A campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT) divulgou uma nota neste sábado (10) na qual acusa a Meta, empresa que controla o Instagram e o Facebook, de tentar interferir no processo eleitoral b…",
+    "d": "Campanha de Lula acusa Meta de interferência e diz que acionará o TSE A campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT) divulgou uma nota neste sábado (10) na qual acusa a Meta, empresa que controla…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/campanha-de-lula-acusa-meta-de-tentar-interferir-nas-eleicoes-e-diz-que-acionara-tse-e-anpd.ghtml",
     "time": "2026-10-10T16:10:19.000Z"
   },
@@ -152,14 +232,6 @@
     "time": "2026-10-10T15:23:33.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que a China considera uma ameaça a IA que imita as relações humanas",
-    "d": "Pequim estabeleceu restrições contra os chatbots de IA que podem reproduzir relacionamentos humanos. Especialistas questionam se esta seria a medida correta.",
-    "link": "https://www.bbc.com/portuguese/articles/c6kg07ggd9y2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T15:04:40.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Woman injures three people in third Poland school knife attack in a week",
@@ -184,36 +256,12 @@
     "time": "2026-10-10T14:49:32.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "d": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T14:24:14.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-    "d": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T14:16:50.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "United Auto Workers president Shawn Fain easily wins re-election",
     "d": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily won his re-election bid after an campaig…",
     "link": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
     "time": "2026-10-10T13:46:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "IA da Anthropic envia denúncia falsa sobre homicídio à polícia dos EUA",
-    "d": "A polícia da Filadélfia afirmou que a denúncia foi \"sinalizada como spam\", mas criticou a empresa de tecnologia por levar mais de dois meses para detectar e relatar a violação.",
-    "link": "https://www.bbc.com/portuguese/articles/cmy83p22le0yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T13:40:51.000Z"
   },
   {
     "cat": "brasil",
@@ -368,14 +416,6 @@
     "time": "2026-10-10T05:00:48.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-    "d": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-    "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T04:34:55.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Dança das cadeiras: quais partidos ganharam e quais perderam espaço no Congresso Nacional",
@@ -398,22 +438,6 @@
     "d": "Abstenção nas eleições de 2026 é a segunda maior desde a redemocratização O primeiro turno das eleições terminou com 33 milhões de brasileiros deixando de exercer o direito ao voto. Em uma eleição acirrada como a pres…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/de-desilusao-com-a-politica-a-viagens-abstencao-nas-eleicoes-de-2026-e-a-maior-desde-1998.ghtml",
     "time": "2026-10-10T03:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US country music star Ella Langley cancels show due to 'security threat'",
-    "d": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T02:02:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Camilo Santana diz que estratégia de campanha é comparar biografias e lembrar população sobre como foi governo Bolsonaro",
-    "d": "O senador e coordenador político da campanha de reeleição de Lula (PT), Camilo Santana, disse em entrevista ao GloboNews Mais nesta sexta-feira (9) que a estratégia para recuperar votos na disputa com Flávio Bolsonaro…",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/09/camilo-santana-campanha-lula-2-turno-comparar-biografias-flavio-bolsonaro.ghtml",
-    "time": "2026-10-10T01:01:10.000Z"
   },
   {
     "cat": "brasil",
@@ -512,22 +536,6 @@
     "time": "2026-10-09T14:13:38.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Embrapa tem cartilha gratuita sobre retorno econômico de touros nelore melhorados",
-    "d": "Vaca nelore Isis Valverde estará disponível para arremate de 50% Divulgação/Fazenda Terra Prometida A Empresa Brasileira de Pesquisa Agropecuária (Embrapa) tem uma cartilha sobre o potencial de retorno econômico do us…",
-    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/09/embrapa-tem-cartilha-gratuita-sobre-retorno-economico-de-touros-nelore-melhorados.ghtml",
-    "time": "2026-10-09T14:01:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Grosseria tem limite até para a IA: Anthropic quer barrar abusos e autoriza Claude a encerrar conversas",
-    "d": "Claude, rival do ChatGPT, vai revelar quem criou texto com IA; veja como vai funcionar Tem gente que agradece ao chatbot pelas respostas e não dispensa um “por favor”. Outros preferem ir direto ao ponto. Já alguns per…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/09/grosseria-tem-limite-ate-para-a-ia-anthropic-quer-barrar-abusos-e-autoriza-claude-a-encerrar-conversas.ghtml",
-    "time": "2026-10-09T13:43:41.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026? Veja Lula x Flávio Bolsonaro no agregador da BBC",
@@ -598,14 +606,6 @@
     "d": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species o…",
     "link": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
     "time": "2026-10-09T04:00:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Douglas Ruas deve se tornar governador do Rio dias depois do 1º turno",
-    "d": "TSE formou maioria para declarar nulos os votos de Anthony Garotinho, o que daria ao candidato do PL mais de 50% dos votos válidos. Horas depois, Eduardo Paes reconheceu sua derrota após a decisão judicial.",
-    "link": "https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T02:09:11.000Z"
   },
   {
     "cat": "internacional",
