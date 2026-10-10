@@ -2,42 +2,218 @@
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Startup de chips Nuvacore capta recursos com valor de US$ 2,5 bi, dizem fon",
-    "d": "CPUs desempenham funções vitais como controladores de tráfego para os chips de IA da Nvidia e executam softwares autônomos de IA conhecidos como agentes",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/startup-de-chips-nuvacore-capta-recursos-com-valor-de-us-25-bi-dizem-fon/",
-    "time": "2026-10-09T23:58:37.000Z"
+    "h": "Manchester United x Tottenham: horário e onde assistir à Premier League",
+    "d": "Equipes entram em campo neste sábado (10), às 13h30, em partida válida pela sexta rodada do Campeonato Inglês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-united-x-tottenham-horario-e-onde-assistir-a-premier-league-2/",
+    "time": "2026-10-10T06:00:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Napoli x Frosinone: horário e onde assistir ao jogo do Campeonato Italiano",
+    "d": "Equipes se enfrentam neste sábado, às 15h45, em partida válida pela sexta rodada da Serie A",
+    "link": "https://www.cnnbrasil.com.br/esportes/napoli-x-frosinone-horario-e-onde-assistir-ao-jogo-do-campeonato-italiano/",
+    "time": "2026-10-10T06:00:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PSG x Le Mans: horário e onde assistir ao jogo da Ligue 1",
+    "d": "Equipes se enfrentam neste sábado, às 15h45, em partida válida pela sexta rodada do Campeonato Francês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-x-le-mans-horario-e-onde-assistir-ao-jogo-da-ligue-1/",
+    "time": "2026-10-10T06:00:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Inter de Milão x Parma: horário e onde assistir ao Campeonato Italiano",
+    "d": "Equipes se enfrentam neste sábado, às 13h, em partida válida pela sexta rodada da Serie A",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/inter-de-milao-x-parma-horario-e-onde-assistir-ao-campeonato-italiano/",
+    "time": "2026-10-10T06:00:07.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+    "d": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T05:25:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+    "d": "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible? And has…",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+    "time": "2026-10-10T05:00:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "d": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T04:38:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+    "d": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T04:34:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TRE retotaliza votos para cargo de governador no Rio de Janeiro hoje",
+    "d": "Medida vem após decisão do TSE (Tribunal Superior Eleitoral) de anular nesta quinta-feira (8) os votos de Anthony Garotinho (Republicanos) e abrir espaço para a eleição de Douglas Ruas (PL) em primeiro turno",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tre-retotaliza-votos-para-cargo-de-governador-no-rio-de-janeiro-hoje/",
+    "time": "2026-10-10T04:18:42.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+    "d": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T04:07:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Barcelona x Getafe: horário e onde assistir ao jogo de La Liga",
+    "d": "Equipes vão a campo neste sábado, às 13h30, pela 8ª rodada do Campeonato Espanhol",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/barcelona-x-getafe-horario-e-onde-assistir-ao-jogo-de-la-liga/",
+    "time": "2026-10-10T04:05:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chelsea x Bournemouth: horário e onde assistir ao jogo da Premier League",
+    "d": "Equipes entram em campo neste sábado (10), em partida válida pela sexta rodada do Campeonato Inglês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/chelsea-x-bournemouth-horario-e-onde-assistir-ao-jogo-da-premier-league-3/",
+    "time": "2026-10-10T04:00:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alavés x Atlético de Madrid: horário e onde assistir ao jogo de La Liga",
+    "d": "Equipes vão a campo neste sábado, às 11h15, pela 8ª rodada do Campeonato Espanhol",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/alaves-x-atletico-de-madrid-horario-e-onde-assistir-ao-jogo-de-la-liga/",
+    "time": "2026-10-10T04:00:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça aceita notícia-crime de Flávio contra site que oferecia criptomoeda",
+    "d": "Decisão prevê análise da necessidade de investigação formal; plataforma distribuía tokens a usuários que publicassem mensagens favoráveis ao candidato",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/justica-aceita-noticia-crime-de-flavio-contra-site-que-oferecia-criptomoeda/",
+    "time": "2026-10-10T03:02:39.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "PF e PGR negam que Vorcaro tenha afirmado em delação que financiou documentário sobre Lula",
+    "h": "Dança das cadeiras: quais partidos ganharam e quais perderam espaço no Congresso Nacional",
+    "d": "As eleições de 2026 redistribuíram as cadeiras na Câmara dos Deputados e no Senado, com avanço do PL e perdas para partidos tradicionais. Enquanto o PL ampliou as bancadas nas duas Casas e se consolidou como a maior f…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/eleicoes-2026-partidos-espaco-congresso-nacional.ghtml",
+    "time": "2026-10-10T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "BRB: decisão de comprar Master foi tomada em reunião na Suíça com Ibaneis, Paulo Henrique e Vorcaro, aponta Polícia Federal",
+    "d": "Governador do DF, Ibaneis Rocha (MDB) (esquerda), e dono do Banco Master, Daniel Vorcaro (direita) Renato Alves/Agência Brasília e Banco Master/Divulgação A tentativa de compra do Banco Master pelo Banco de Brasília (…",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/brb-decisao-de-comprar-master-foi-tomada-em-reuniao-na-suica-com-ibaneis-paulo-henrique-e-vorcaro-aponta-policia-federal.ghtml",
+    "time": "2026-10-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "De desilusão com a política a viagens: abstenção nas eleições de 2026 é a maior desde 1998",
+    "d": "O primeiro turno das eleições terminou com 33 milhões de brasileiros deixando de exercer o direito ao voto. Em uma eleição acirrada como a presidencial, a abstenção impacta diretamente nos resultados: foram 21,08% dos…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/de-desilusao-com-a-politica-a-viagens-abstencao-nas-eleicoes-de-2026-e-a-maior-desde-1998.ghtml",
+    "time": "2026-10-10T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EUA não legitimam TPI para evitar acusações a soldados, diz especialista",
+    "d": "Ao WW, o pesquisador de Harvard e professor da UFF Vitelio Brustolin afirma que postura americana busca impedir que militares sejam julgados por crimes de guerra em jurisdição internacional",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-nao-legitimam-tpi-para-evitar-acusacoes-a-soldados-diz-especialista/",
+    "time": "2026-10-10T02:31:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump diz que Noruega está “manchada” por não lhe conceder Nobel da Paz",
+    "d": "Presidente americano criticou a organização da premiação, classificando-a como vergonhosa e embaraçosa; em comício, republicano afirmou que ninguém \"nunca ouviu falar\" da vencedora, Navi Pillay",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-noruega-esta-manchada-por-nao-lhe-conceder-nobel-da-paz/",
+    "time": "2026-10-10T02:04:53.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US country music star Ella Langley cancels show due to 'security threat'",
+    "d": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T02:02:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Augsburg x Bayern de Munique: horário e onde assistir ao jogo da Bundesliga",
+    "d": "Equipes vão a campo neste sábado (10), às 10h30, em partida válida pela 5ª rodada do Campeonato Alemão",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/augsburg-x-bayern-de-munique-horario-e-onde-assistir-ao-jogo-da-bundesliga-2/",
+    "time": "2026-10-10T02:00:34.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Life-threatening Hurricane Isaias makes landfall in Florida",
+    "d": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T01:58:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Camilo Santana diz que estratégia de campanha é comparar biografias e lembrar população sobre como foi governo Bolsonaro",
+    "d": "O senador e coordenador político da campanha de reeleição de Lula (PT), Camilo Santana, disse em entrevista ao GloboNews Mais nesta sexta-feira (9) que a estratégia para recuperar votos na disputa com Flávio Bolsonaro…",
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/09/camilo-santana-campanha-lula-2-turno-comparar-biografias-flavio-bolsonaro.ghtml",
+    "time": "2026-10-10T01:01:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Grupo de dança de crianças africanas que recebeu por vídeo pró-Flávio Bolsonaro apaga material e pede desculpas",
+    "d": "Grupo de Uganda diz que não quer se envolver em política; tokens, avaliados pelo grupo em US$ 20 mil, seriam usados para construir uma casa. Nesta sexta-feira, o TSE determinou a derrubada de site que distribuiu as cr…",
+    "link": "https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-10T00:53:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+    "d": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email, free app or daily news podcast The parents of Australian surfing…",
+    "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+    "time": "2026-10-10T00:50:52.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+    "d": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousand…",
+    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+    "time": "2026-10-10T00:13:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PF e PGR negam que Vorcaro tenha afirmado que financiou documentário sobre Lula",
     "d": "A Polícia Federal (PF) e a Procuradoria-Geral da República (PGR) negaram nesta sexta-feira (9) que Daniel Vorcaro, ex-dono do Banco Master, tenha afirmado em depoimento ou apresentado documentos sobre um suposto finan…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/09/pf-e-pgr-negam-que-vorcaro-tenha-afirmado-em-delacao-que-financiou-documentario-sobre-lula.ghtml",
     "time": "2026-10-09T23:56:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fachin aciona PF após relatório apontar ameaças contra Dino nas redes",
-    "d": "Avaliação de segurança do STF identificou mensagens com referências a fuzilamento, enforcamento e esquartejamentoolh",
-    "link": "https://www.cnnbrasil.com.br/politica/fachin-aciona-pf-apos-relatorio-apontar-ameacas-contra-dino-nas-redes/",
-    "time": "2026-10-09T23:51:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "ANP: etanol supera gasolina em competitividade em 10 Estados e no DF",
-    "d": "Executivos do setor observam que o etanol pode ser competitivo mesmo com paridade superior a 70%, a depender do veículo em que o biocombustível é utilizado",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/anp-etanol-supera-gasolina-em-competitividade-em-10-estados-e-no-df/",
-    "time": "2026-10-09T23:49:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-Corinthians, Pedrinho brilha na Europa e marca em goleada do Shakhtar",
-    "d": "Meia-atacante, que também vestiu a camisa do Galo, chegou a 11 participações em gol nas últimas nove partidas",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ex-corinthians-pedrinho-brilha-na-europa-e-marca-em-goleada-do-shakhtar/",
-    "time": "2026-10-09T23:49:13.000Z"
   },
   {
     "cat": "brasil",
@@ -57,70 +233,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Justiça suspende liminar que autorizava operação de site de apostas",
-    "d": "TRF-3 acatou um pedido da AGU para suspender determinação da 9ª Vara Cível Federal de São Paulo que emitiu uma decisão que autorizava a empresa a operar até 25 de outubro de 2026",
-    "link": "https://www.cnnbrasil.com.br/politica/justica-suspende-liminar-que-autorizava-operacao-de-site-de-apostas/",
-    "time": "2026-10-09T23:46:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Exposição com itens pessoais de Marília Mendonça inaugura no MIS SP",
-    "d": "Mostra reúne objetos e memórias da cantora que revolucionou a música; ao visitar o espaço pela primeira vez, mãe da Rainha da Sofrência se emocionou",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/exposicao-com-itens-pessoais-de-marilia-mendonca-no-mis-sp/",
-    "time": "2026-10-09T23:46:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Plantio de soja em Mato Grosso atinge 33,3% da área estimada",
-    "d": "O estado registrou salto de mais de 20 pontos percentuais na semeadura impulsionado pelas precipitações recentes",
-    "link": "https://www.cnnbrasil.com.br/agro/plantio-de-soja-no-3/",
-    "time": "2026-10-09T23:46:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem que se passava por policial para cometer roubos é preso em São Paulo",
-    "d": "Suspeito usava farda falsa e simulacro de arma para cometer roubos na região do Bom Retiro no centro da capital paulista",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-que-se-passava-por-policial-para-cometer-roubos-e-preso-em-sao-paulo/",
-    "time": "2026-10-09T23:45:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Veja imagens do 2º acidente de avião em MG no mesmo dia; três morreram",
-    "d": "Queda ocorreu na tarde desta sexta-feira (9), próximo a cidade de Ipatinga; vítimas são militares",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/veja-imagens-do-2o-acidente-de-aviao-em-mg-no-mesmo-dia-tres-morreram/",
-    "time": "2026-10-09T23:44:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Preso por ameaças em SP, Gabriel Spalone tem prisão preventiva decretada",
-    "d": "Empresário é investigado por ameaçar sócios e alegar ligação com o PCC para exigir pagamentos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/preso-por-ameacas-em-sp-gabriel-spalone-tem-prisao-preventiva-decretada/",
-    "time": "2026-10-09T23:44:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vorcaro cita R$ 30 milhões a filme de Lula: o que sabemos até agora",
-    "d": "PT chama relato de “farsa com objetivos eleitorais”; PGR, PF e os próprios advogados de Vorcaro negam depoimento oral do ex-banqueiro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/",
-    "time": "2026-10-09T23:41:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Datafolha: eleitores faltaram ao 1º turno por viagem, doença e desinteresse",
-    "d": "Levantamento ouviu 2.520 eleitores de 153 munícipios brasileiros após o 1º turno das eleições; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-eleitores-faltaram-ao-1o-turno-por-viagem-doenca-e-desinteresse/",
-    "time": "2026-10-09T23:34:43.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Fachin aciona PF após STF identificar ameaças contra Flávio Dino nas redes sociais",
     "d": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, acionou nesta sexta-feira (9) a Polícia Federal após relatos de ameaças ao ministro Flávio Dino. \"Foi encaminhada à Polícia Federal avaliação técnica de se…",
@@ -136,14 +248,6 @@
     "time": "2026-10-09T22:59:50.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-    "d": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of…",
-    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-    "time": "2026-10-09T22:48:01.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "É #FAKE que Lula disse 'mulher é que nem milho'",
@@ -154,10 +258,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Commentator Katie Zacharia picked as new White House press secretary",
-    "d": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-    "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T22:41:21.000Z"
+    "h": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    "d": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-09T22:30:22.000Z"
   },
   {
     "cat": "brasil",
@@ -170,18 +274,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-    "d": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+    "h": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+    "d": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
     "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-09T21:55:51.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-    "d": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T21:54:28.000Z"
   },
   {
     "cat": "brasil",
@@ -192,28 +288,12 @@
     "time": "2026-10-09T21:53:30.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Alcolumbre pauta votação da PEC que prevê fim da escala 6x1 para a próxima quarta-feira",
-    "d": "O presidente do Senado, Davi Alcolumbre (União-AP), incluiu na pauta da próxima quarta-feira (14) a votação da proposta de emenda à Constituição (PEC) que prevê o fim da escala 6x1. A pauta prevê a última sessão para…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/09/alcolumbre-pauta-votacao-de-pec-que-preve-fim-da-escala-6-x-1-para-a-proxima-quarta-feira.ghtml",
-    "time": "2026-10-09T21:51:16.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "JD Vance casts doubt on firing squad execution and says he will not watch it",
     "d": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
     "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-09T21:50:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ibaneis agiu de forma direta para expandir BRB e validar tentativa de compra do Master, diz PF",
-    "d": "Governador do DF, Ibaneis Rocha (MDB) (esquerda), e dono do Banco Master, Daniel Vorcaro (direita) Renato Alves/Agência Brasília e Banco Master/Divulgação Novos relatórios enviados pela Polícia Federal ao Supremo Trib…",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/09/ibaneis-agiu-de-forma-direta-para-expandir-brb-e-validar-tentativa-de-compra-do-master-diz-pf.ghtml",
-    "time": "2026-10-09T21:42:32.000Z"
   },
   {
     "cat": "internacional",
@@ -225,35 +305,11 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-    "d": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email, free app or daily news podcast A Mexican judge has convicted thr…",
-    "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-    "time": "2026-10-09T21:30:22.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
     "d": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
     "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-09T21:26:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha no DF, 2º turno: Flávio Bolsonaro, 49%; Lula, 43%",
-    "d": "Flávio Bolsonaro e Lula REUTERS/Diego Herculano e REUTERS/Adriano Machado Pesquisa Datafolha divulgada nesta sexta-feira (9) mostra como está a disputa presidencial no Distrito Federal para o segundo turno nas eleiçõe…",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/datafolha-df-presidente-segundo-turno-8-outubro.ghtml",
-    "time": "2026-10-09T21:23:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin nega acesso imediato de Fux a inquérito das fake news e diz que caso segue para arquivamento definitivo",
-    "d": "Ministro Edson Fachin Alejandro Zambrana/STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, rejeitou a determinação do ministro Luiz Fux que garantia a ele acesso integral e imediato ao conteúdo do inqu…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/09/fachin-fux-fake-news.ghtml",
-    "time": "2026-10-09T20:51:19.000Z"
   },
   {
     "cat": "economia",
@@ -288,14 +344,6 @@
     "time": "2026-10-09T18:29:51.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Grupo de dança de crianças africanas que recebeu por vídeo pró-Flávio Bolsonaro apaga material e pede desculpas",
-    "d": "Grupo de Uganda diz que não quer se envolver em política; tokens, avaliados pelo grupo em US$ 20 mil, seriam usados para construir uma casa; Especialista vê possíveis ilegalidades na campanha.",
-    "link": "https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T18:06:54.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Trump establishes committee to investigate Fed governor Lisa Cook",
@@ -314,30 +362,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-    "d": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T17:37:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US immigration officials defend ICE agents who shot man in same car as child",
-    "d": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T17:36:09.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-    "d": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T17:14:44.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Man named Hitler Mussolini elected mayor in Peru",
     "d": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
     "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
@@ -350,14 +374,6 @@
     "d": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights…",
     "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
     "time": "2026-10-09T16:30:09.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-    "d": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-    "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T15:24:43.000Z"
   },
   {
     "cat": "economia",
@@ -497,14 +513,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-    "d": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-09T09:09:03.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
     "d": "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hears Get our breaking news email, free app or daily news podcast A Sydney currency trader who was sacked for work…",
@@ -566,14 +574,6 @@
     "d": "Eye-watering sum, to be split between 20 bankers, is one of the biggest payouts in the bank’s history Top bosses at Goldman Sachs are in line to share a bonus pot worth up to $500m (£378m) this year, marking one of th…",
     "link": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
     "time": "2026-10-08T18:09:14.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
-    "d": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for alleged conspiracy to c…",
-    "link": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
-    "time": "2026-10-08T18:04:16.000Z"
   },
   {
     "cat": "economia",
