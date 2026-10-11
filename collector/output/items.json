@@ -1,19 +1,219 @@
 [
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Twelve killed in attack on airport in Saudi capital Riyadh",
-    "d": "Another 309 people were injured in an attack a Saudi-led military coalition called a \"war crime\".",
-    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-11T03:57:22.000Z"
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Papa Leão XIV revela nódulo no pulmão e diz que passará por cirurgia",
+    "d": "Anúncio foi feito pelo pontífice neste domingo (11), durante oração semanal na Praça de São Pedro, no Vaticano; procedimento para remoção do tumor deve acontecer nesta semana",
+    "link": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-revela-ter-nodulo-no-pulmao-e-diz-que-passara-por-cirurgia/",
+    "time": "2026-10-11T10:40:45.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Secretário-geral da ONU condena ataque dos Houthis a aeroporto saudita",
-    "d": "António Guterres disse estar em choque profundo e afirmou que “os ataques contra civis e infraestruturas civis são uma violação do direito internacional” e que devem cessar imediatamente.",
-    "link": "https://www.cnnbrasil.com.br/internacional/secretario-geral-da-onu-condena-ataque-dos-houthis-a-aeroporto-saudita/",
-    "time": "2026-10-11T03:51:03.000Z"
+    "h": "SP tem alerta laranja de perigo para tempestades neste domingo (11)",
+    "d": "Aviso aponta para possibilidade de chuva entre 30 e 60 mm/h ou 50 e 100 mm/dia, ventos intensos entre 60 e 100 km/h, além de queda de granizo; outros seis estados também estão em alerta",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-tem-alerta-laranja-de-perigo-para-tempestades-neste-domingo-11/",
+    "time": "2026-10-11T10:39:41.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Crianças de Tupã trocam telas pela rotina no campo e se aproximam do agro",
+    "d": "Crianças de Tupã trocam telas pela rotina no campo e se aproximam do agro Reprodução / TV TEM Filhas de uma família de trabalhadores rurais de Tupã (SP), três irmãs trocam parte do tempo de tela pelas atividades no ca…",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/11/criancas-de-tupa-trocam-telas-pela-rotina-no-campo-e-se-aproximam-do-agro.ghtml",
+    "time": "2026-10-11T10:30:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Produtores de lichia ampliam mercado e apostam em novos produtos para reduzir perdas",
+    "d": "Produtores de lichia ampliam mercado e apostam em novos produtos para reduzir perdas Reprodução / TV TEM A cidade de Itaí (SP), principal polo produtor de lichia da região, tem cerca de 170 hectares cultivados e aprov…",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/11/produtores-de-lichia-ampliam-mercado-e-apostam-em-novos-produtos-para-reduzir-perdas.ghtml",
+    "time": "2026-10-11T10:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Naufrágio na costa da África deixa 109 mortos e mais de 116 desaparecidos",
+    "d": "Tragédia ocorreu durante travessia para o Iêmen; entre as vítimas estão 15 crianças, segundo a Organização Internacional para as Migrações",
+    "link": "https://www.cnnbrasil.com.br/internacional/naufragio-costa-africa-iemen-emigrantes/",
+    "time": "2026-10-11T10:20:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que se sabe sobre ataque a aeroporto na Arábia Saudita que matou 12 e feriu mais de 300",
+    "d": "O ataque de sábado foi o mais mortal na Arábia Saudita desde maio de 2015. Autoridades americanas e sauditas culpam os houthis do Iêmen, que ainda não se pronunciaram sobre o ataque.",
+    "link": "https://www.bbc.com/portuguese/articles/cqx29xxyl8zro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-11T10:10:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "ICE investigou milhões nos EUA buscando eleitores ilegais, diz documento",
+    "d": "Investigação faz parte de uma campanha recente do governo Trump, em que o líder questionou a integridade do sistema nacional de votação devido à suposta presença de não-cidadãos em listas eleitorais",
+    "link": "https://www.cnnbrasil.com.br/internacional/ice-investigou-milhoes-nos-eua-buscando-eleitores-ilegais-diz-documento/",
+    "time": "2026-10-11T10:00:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“A Escrava Isaura” faz 50 anos: veja por onde anda elenco original",
+    "d": "Exibida originalmente entre 1976 e 1977, a trama de Gilberto Braga alçou a atriz Lucélia Santos ao estrelato como uma escrava branca em busca de liberdade",
+    "link": "https://www.cnnbrasil.com.br/pop/tv/a-escrava-isaura-faz-50-anos-veja-por-onde-anda-elenco-original/",
+    "time": "2026-10-11T10:00:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Houthis renovam alerta sobre aeroportos sauditas após ataque com 12 mortos",
+    "d": "Grupo apoiado pelo Irã adverte companhias aéreas, especialistas, funcionários, trabalhadores e viajantes contra o uso dos aeroportos e do espaço aéreo saudita",
+    "link": "https://www.cnnbrasil.com.br/internacional/houthis-renovam-alerta-sobre-aeroportos-sauditas-apos-ataque-com-12-mortos/",
+    "time": "2026-10-11T09:46:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os milionários de origem cubana que se preparam em Miami para a possível queda do governo da ilha",
+    "d": "Os exilados cubanos na Flórida vivem expectativa cada vez maior de mudanças no regime de Cuba no futuro próximo.",
+    "link": "https://www.bbc.com/portuguese/articles/cmvg6wxndn5zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-11T09:24:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Fazer centenas de abdominais todos os dias pode não ser o melhor caminho para a sua coluna — e a ciência explica o motivo",
+    "d": "Especialista alerta que repetições exaustivas não garantem estabilidade corporal e indica focar no fortalecimento do core e da lombar",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/fazer-centenas-de-abdominais-todos-os-dias-pode-nao-ser-o-melhor-caminho-para-a-sua-coluna-e-a-ciencia-explica-o-motivo/",
+    "time": "2026-10-11T09:01:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Intestino Irritável: médicos explicam ao Dr. Kalil o papel da saúde mental",
+    "d": "Especialistas destacam ao CNN Sinais Vitais que fatores emocionais, sono e atividade física são fundamentais no manejo da síndrome do intestino irritável",
+    "link": "https://www.cnnbrasil.com.br/saude/intestino-irritavel-medicos-explicam-ao-dr-kalil-o-papel-da-saude-mental/",
+    "time": "2026-10-11T09:00:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Morte de Renato Russo completa 30 anos; relembre últimos momentos do cantor",
+    "d": "Esposa de Dado Villa-Lobos, também integrante do Legião Urbana, contou que o vocalista estava \"definhando\", sem comer, andar ou falar",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/morte-de-renato-russo-completa-30-anos-relembre-ultimos-momentos-do-cantor/",
+    "time": "2026-10-11T09:00:42.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Delhi sees more protests as 'cockroach' group's leaders released",
+    "d": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-11T08:50:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mega-Sena: quanto rendem R$ 112 milhões na poupança, Tesouro Direto ou CDB",
+    "d": "Sorteio deste domingo (11) será realizado às 11h; apostas poderiam ter sido feitas até 22h de sábado (10)",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-112-milhoes-na-poupanca-tesouro-direto-ou-cdb-2/",
+    "time": "2026-10-11T08:05:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Falha na divulgação distancia público do cinema nacional, aponta pesquisa",
+    "d": "Pesquisa mostra que 36% dos espectadores só descobrem os lançamentos nacionais quando os filmes já estão em cartaz ou perto de sair da programação",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/falha-na-divulgacao-distancia-publico-do-cinema-nacional-aponta-pesquisa/",
+    "time": "2026-10-11T08:00:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo e Fluminense duelam pelo Brasileiro de olho na Libertadores",
+    "d": "Clássico deste domingo (11) acontece antes dos jogos de ida da semifinal da competição continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-e-fluminense-duelam-pelo-brasileiro-de-olho-na-libertadores/",
+    "time": "2026-10-11T08:00:40.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "FMI alerta: disparadas e choques de preços podem ser mais frequentes e afetar inflação por anos",
+    "d": "Custo de vida na capital preocupa moradores Altas bruscas nos preços dos alimentos e da energia devem se tornar mais frequentes, segundo o Fundo Monetário Internacional (FMI). A instituição alerta que essas crises pod…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/11/fmi-alerta-disparadas-e-choques-de-precos-podem-ser-mais-frequentes-e-afetar-inflacao-por-anos.ghtml",
+    "time": "2026-10-11T08:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Justiça mantém justa causa de homem que entregou 88 atestados em um ano, mas atuava como pastor na licença",
+    "d": "Leitura da Bíblia Cristina Medeiros/CMBH Um operador de produção que apresentou 88 atestados médicos em um único ano teve a sua demissão por justa causa mantida pela Justiça do Trabalho após a empresa apresentar regis…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/11/justica-mantem-justa-causa-de-homem-que-entregou-88-atestados-em-um-ano-mas-atuava-como-pastor-na-licenca.ghtml",
+    "time": "2026-10-11T08:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império",
+    "d": "Aliko Dangote afirma que os planos de expansão de sua empresa ajudarão os países africanos a se tornarem autossuficientes em energia. Reprodução/Reuters O homem mais rico da África, Aliko Dangote, lançou a maior ofert…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/11/quem-e-o-homem-mais-rico-da-africa-e-por-que-ele-quer-vender-parte-de-seu-imperio.ghtml",
+    "time": "2026-10-11T08:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+    "d": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Get our breaking news email, free app or daily news podcast An Australian trekker who was last seen on a…",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+    "time": "2026-10-11T07:45:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Ala do STF vê Lei da Dosimetria como alternativa à revisão criminal  de Bolsonaro",
+    "d": "Jair Bolsonaro EPA via BBC Uma ala do Supremo Tribunal Federal (STF) defende julgar após as eleições as ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas para condenados por atentados golp…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/11/ala-do-stf-ve-lei-da-dosimetria-como-alternativa-a-revisao-criminal-de-bolsonaro.ghtml",
+    "time": "2026-10-11T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "S10 Trail Boss: Chevrolet deixa picape mais 'raiz', na contramão da divisão de luxo; vale a pena?",
+    "d": "Chevrolet S10 Trail Boss 2027 Divulgação / GM A Chevrolet lançou a nova versão Trail Boss com o argumento de que ela foi preparada e afinada para encarar trilhas. Esta S10 tem uma suspensão mais alta e mais forte para…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/11/s10-trail-boss-chevrolet-deixa-picape-mais-raiz-na-contramao-da-divisao-de-luxo-vale-a-pena.ghtml",
+    "time": "2026-10-11T07:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+    "d": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations Panama’s government has declared a state of emergency on Saturday as the aftershocks of two power…",
+    "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+    "time": "2026-10-11T06:56:08.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Árvore gigante de até 500 anos cai em SC, e cientistas tentam cloná-la para preservar seu DNA",
+    "d": "Gigantes pré-históricas A queda de uma das maiores árvores do país mobilizou equipes de pesquisadores em uma verdadeira operação de resgate científico. Conhecida carinhosamente como Pinheirão, a araucária de mais de 4…",
+    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/11/arvore-gigante-de-ate-500-anos-cai-em-sc-e-cientistas-tentam-clona-la-para-preservar-seu-dna.ghtml",
+    "time": "2026-10-11T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "IA ameaça aumentar desigualdades de gênero no mercado de trabalho, diz relatório",
+    "d": "IA está criando grandes novas oportunidades, mas também pode aumentar a desigualdade, afirma ONU Kirill KUDRYAVTSEV / AFP O boom da inteligência artificial (IA) poderia acentuar as desigualdades de gênero no mercado d…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/11/ia-ameaca-aumentar-desigualdades-de-genero-no-mercado-de-trabalho-diz-relatorio.ghtml",
+    "time": "2026-10-11T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US justice department investigates TV networks over Trump pool coverage",
+    "d": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-11T05:05:43.000Z"
   },
   {
     "cat": "brasil",
@@ -40,116 +240,12 @@
     "time": "2026-10-11T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Calleri decide, São Paulo vence o Vitória e respira no Brasileirão",
-    "d": "Atacante argentino marcou duas vezes e garantiu tranquilidade ao Tricolor Paulista, que se afasta da zona de rebaixamento",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/calleri-decide-sao-paulo-vence-o-vitoria-e-respira-no-brasileirao/",
-    "time": "2026-10-11T02:01:47.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
     "d": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
     "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-11T01:41:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Gingeróis, fenólicos e aroma picante: a alquimia do café com especiarias",
-    "d": "A adição de gengibre e canela modifica o perfil aromático da bebida e introduz compostos bioativos na rotina, mas exige moderação no consumo.",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/gingerois-fenolicos-e-aroma-picante-a-alquimia-do-cafe-com-especiarias/",
-    "time": "2026-10-11T01:17:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Viúva de Lito fala sobre futuro após morte do marido: “Preciso sair”",
-    "d": "Mila Seidl deve viajar aos Estados Unidos com o filho para tentar processar a perda do influenciador",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/viuva-de-lito-fala-sobre-futuro-apos-morte-do-marido-preciso-sair/",
-    "time": "2026-10-11T00:56:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TSE suspende propaganda de Lula que liga Flávio e Gaspar a “escândalos”",
-    "d": "Medida cautelar interrompe veiculação de peças publicitárias sobre investigações do Banco Master e acusação de estupro de vulnerável contra o vice da chapa",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-suspende-propaganda-de-lula-que-liga-flavio-e-gaspar-a-escandalos/",
-    "time": "2026-10-11T00:49:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que ataque houthi à Arábia Saudita é “terrível”; Rubio faz alerta",
-    "d": "Ofensiva do grupo rebelde do Iêmen atingiu aeroporto internacional na capital Riade, matando ao menos 12 pessoas e ferindo outras 300",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-ataque-houthi-a-arabia-saudita-e-terrivel-rubio-faz-alerta/",
-    "time": "2026-10-11T00:46:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Círio em Belém: Imagem gigante de Nazaré desaba após fortes chuvas",
-    "d": "Estrutura montada no Portal da Amazônia caiu após rajadas de vento neste sábado (10); no mesmo dia, uma van pegou fogo ao lado da Catedral Metropolitana, a menos de 24 horas do Círio de Nazaré",
-    "link": "https://www.cnnbrasil.com.br/nacional/norte/pa/cirio-em-belem-imagem-gigante-de-nazare-desaba-apos-fortes-chuvas/",
-    "time": "2026-10-11T00:45:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Jonas I, o autoproclamado rei da Suíça que criou um 'império' polêmico ao se apropriar de terrenos sem dono",
-    "d": "Jonas Lauwiner se autoproclamou rei da Suíça em 2019, embora reconheça que seu título é puramente simbólico. Desde então, acumulou 149 lotes de terra e agora tem planos de levar seu projeto peculiar também para a polí…",
-    "link": "https://www.bbc.com/portuguese/articles/cm4g13gjndpzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-11T00:39:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Zayn Malik usa camisa do Flamengo em show no estádio do Palmeiras; veja",
-    "d": "Ex-One Direction, cantor cometeu gafe inusitada em sua única apresentação na cidade de São Paulo",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/zayn-malik-usa-camisa-do-flamengo-em-show-no-estadio-do-palmeiras-veja/",
-    "time": "2026-10-11T00:33:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Curitiba reforça segurança em creche após crianças serem feitas de reféns",
-    "d": "Além de patrulhamento, administração da cidade também estuda novas medidas para ampliar segurança nas unidades da rede municipal de ensino",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/curitiba-reforca-seguranca-em-creche-apos-criancas-serem-feitas-de-refens/",
-    "time": "2026-10-11T00:32:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Círio Fluvial leva milhares de fiéis às águas de Belém",
-    "d": "Romaria percorreu mais de 18 quilômetros pela Baía do Guajará e imagem peregrina foi conduzida em barco da Marinha do Brasil",
-    "link": "https://www.cnnbrasil.com.br/pop/cirio-fluvial-leva-milhares-de-fieis-as-aguas-de-belem/",
-    "time": "2026-10-11T00:29:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Coalizão saudita promete resposta decisiva ao ataque houthi à capital Riade",
-    "d": "Porta-voz militar afirmou que ofensiva do grupo armado rebelde do Iêmen é um crime de guerra e fere o direito internacional humanitário",
-    "link": "https://www.cnnbrasil.com.br/internacional/coalizao-saudita-promete-resposta-decisiva-ao-ataque-houthi-a-capital-riade/",
-    "time": "2026-10-11T00:25:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Piqué explica troca de carreira e não sabe se voltará ao futebol",
-    "d": "Em entrevista ao CNN Esportes S/A deste domingo (11), o empresário detalha sobre a mudança de carreira e se pretende retornar aos gramados em outra função",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/pique-explica-troca-de-carreira-e-nao-sabe-se-voltara-ao-futebol/",
-    "time": "2026-10-11T00:15:19.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "Mais rápido que a F1: a categoria extrema do automobilismo em que as mulheres são as maiores vencedoras",
-    "d": "A categoria de arrancada Top Fuel é atualmente a única do automobilismo de elite em que as mulheres vencem os homens com frequência em competições importantes.",
-    "link": "https://www.bbc.com/portuguese/articles/cmz98gxe4gv0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-11T00:02:27.000Z"
   },
   {
     "cat": "internacional",
@@ -338,26 +434,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-    "d": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-10T12:29:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
     "d": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
     "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-10T12:28:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trump anuncia acordo com Putin para liberar diesel russo para mercado mundial",
-    "d": "Donald Trump e Vladimir Putin se encontraram no Alasca no ano passado. ANDREW HARNIK/GETTY IMAGES O presidente dos Estados Unidos, Donald Trump, anunciou que Vladimir Putin concordou em liberar imediatamente 300 mil t…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/10/trump-anuncia-acordo-com-putin-para-liberar-diesel-russo-para-mercado-mundial.ghtml",
-    "time": "2026-10-10T12:21:48.000Z"
   },
   {
     "cat": "internacional",
@@ -400,60 +480,12 @@
     "time": "2026-10-10T09:00:00.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Tarifaço dos EUA já afeta empresas; entenda quando os efeitos podem chegar ao seu bolso",
-    "d": "Um funcionário inspeciona um sapato em uma linha de produção da fabricante brasileira de calçados Kissol, em meio à imposição de novas tarifas americanas sobre diversos produtos brasileiros, incluindo a indústria calç…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/10/tarifaco-dos-eua-entenda-quando-os-efeitos-podem-chegar-ao-seu-bolso.ghtml",
-    "time": "2026-10-10T08:00:00.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Fachin deve receber relatórios da PF com menções a ministros do STF no caso Master",
     "d": "Ministro Edson Fachin do STF Rosinei Coutinho/STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, deve receber na próxima terça-feira (13) relatórios da Polícia Federal (PF) com menções a integrantes da…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/10/fachin-deve-receber-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.ghtml",
     "time": "2026-10-10T07:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Justiça Eleitoral registra 30 processos por omissão de informações e multa candidatos em SP",
-    "d": "Dias Toffoli suspende parte da campanha nas redes sociais de Renan Santos (Missão) O Tribunal Regional Eleitoral de São Paulo (TRE-SP) informou ao g1 que, atualmente, tramitam 30 processos relacionados à falta de info…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/10/justica-eleitoral-registra-30-processos-por-omissao-de-informacoes-e-multa-candidatos-em-sp.ghtml",
-    "time": "2026-10-10T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'O Menino da Porteira' faz 71 anos: como a música virou filme, monumento e chegou ao Grammy",
-    "d": "As conquistas de O Menino da Porteira que já foi premiado até com Grammy Latino A música \"O menino da porteira\" completou 71 anos consagrada como uma das clássicas da cultura brasileira. A canção composta por Ted Viei…",
-    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/post/2026/10/10/o-menino-da-porteira-faz-71-anos-como-a-musica-virou-filme-monumento-e-chegou-ao-grammy.ghtml",
-    "time": "2026-10-10T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Da oração à rede: tradição do pescado conecta rio, mar e tanques e movimenta a economia no ES",
-    "d": "Da oração à rede: tradição do pescado conecta rio, mar e tanques e movimenta a economia Antes de falar de peixe, o cacique Kara'í Perú e a mãe, Keretxu Emdey, de 86 anos, que é pajé da Aldeia Piraquê-Açu, em Aracruz,…",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/10/da-oracao-a-rede-tradicao-do-pescado-conecta-rio-mar-e-tanques-e-movimenta-a-economia-no-es.ghtml",
-    "time": "2026-10-10T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Faculdade sem diploma? Gigante do Vale do Silício cria escola para desafiar universidades tradicionais",
-    "d": "Empresa cria escola privada como alternativa à universidade. Freepik A Andreessen Horowitz (a16z), uma das principais gestoras de capital de risco do Vale do Silício, lançou uma escola privada que pretende oferecer um…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/10/faculdade-sem-diploma-gigante-do-vale-do-silicio-cria-escola-para-desafiar-universidades-tradicionais.ghtml",
-    "time": "2026-10-10T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Brasil tem 11 empresas entre os melhores empregadores do mundo; veja a lista",
-    "d": "Agora no g1 O Brasil emplacou 11 empresas na edição de 2026 do ranking World's Best Employers (\"Melhores Empregadores do Mundo\", em português), elaborado pela revista Forbes em parceria com a consultoria Statista. A P…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/10/brasil-tem-11-empresas-entre-os-melhores-empregadores-do-mundo-veja-a-lista.ghtml",
-    "time": "2026-10-10T06:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -474,26 +506,10 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-    "d": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousand…",
-    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-    "time": "2026-10-10T00:13:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
     "h": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
     "d": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given app…",
     "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
     "time": "2026-10-09T21:36:18.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Exportações brasileiras de carne bovina para os EUA sobem 524%",
-    "d": "Exportadores brasileiros de carne bovina não podem mais vender para a União Europeia As exportações brasileiras de carne bovina para os Estados Unidos dispararam 524,3% em setembro, na comparação com o mesmo mês de 20…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/09/carne-bovina-dispara-524percent-nos-eua-mas-exportacoes-brasileiras-ao-pais-tem-pior-resultado-desde-2023.ghtml",
-    "time": "2026-10-09T20:47:39.000Z"
   },
   {
     "cat": "economia",
@@ -510,14 +526,6 @@
     "d": "Em 2026, Flávio lidera as intenções de voto. Em 2022, preferência do eleitorado era de Lula. Já em 2018, maioria dizia que votaria em Jair Bolsonaro. Veja os gráficos na reportagem.",
     "link": "https://www.bbc.com/portuguese/articles/c64g1zvx4e1do?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-09T19:46:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "87% dos brasileiros consideram comprar carro elétrico; preço da gasolina pesa na decisão",
-    "d": "O que motivou a mudança de carro 100% elétrico para híbrido O preço dos combustíveis é um dos principais fatores que levam motoristas brasileiros a considerar a compra de um carro elétrico. Segundo pesquisa do Institu…",
-    "link": "https://g1.globo.com/carros/noticia/2026/10/09/gasolina-pesa-no-bolso-e-faz-78percent-dos-brasileiros-considerar-carro-eletrico-diz-pesquisa.ghtml",
-    "time": "2026-10-09T18:29:51.000Z"
   },
   {
     "cat": "economia",
@@ -598,14 +606,6 @@
     "d": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were char…",
     "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
     "time": "2026-10-09T04:00:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
-    "d": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species o…",
-    "link": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
-    "time": "2026-10-09T04:00:37.000Z"
   },
   {
     "cat": "internacional",
