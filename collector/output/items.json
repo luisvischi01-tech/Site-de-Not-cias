@@ -1,83 +1,123 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "Nem todo eleitor que deixa de votar é desinteressado pela política, diz pesquisador",
+    "d": "Abstenção nas eleições de 2026 é a segunda maior desde a redemocratização Mais de 33 milhões de brasileiros deixaram de ir às urnas no primeiro turno das eleições de 2026. No entanto, esse número não pode ser interpre…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/nem-todo-eleitor-que-deixa-de-votar-e-desinteressado-pela-politica-diz-pesquisador.ghtml",
+    "time": "2026-10-12T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 150 milhões nesta terça (13); veja os 10 maiores prêmios da loteria",
+    "d": "Concurso 3069 da Mega-Sena: veja os números sorteados O próximo sorteio da Mega-Sena, que acontece nesta terça-feira (13), pode pagar mais de R$ 150 milhões para a aposta vencedora. Até o momento, o sorteio 2.525, de…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/12/mega-sena-pode-pagar-150-milhoes-de-reais-terca-13-veja-10-maiores-premios.ghtml",
+    "time": "2026-10-12T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "China impõe sanções a ministros de Paraguai e Belize por laços com Taiwan",
+    "d": "Ministério das Relações Exteriores citou a soberania e a segurança nacionais como razões para as medidas",
+    "link": "https://www.cnnbrasil.com.br/internacional/china-impoe-sancoes-a-ministros-de-paraguai-e-belize-por-lacos-com-taiwan/",
+    "time": "2026-10-12T02:55:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Furacão Simon perde força e passa para categoria 3",
+    "d": "Está previsto um enfraquecimento adicional, mas espera-se que Simon continue sendo um furacão forte ao passar perto da costa centro-oeste do México",
+    "link": "https://www.cnnbrasil.com.br/internacional/furacao-simon-perde-forca-e-passa-para-categoria-3/",
+    "time": "2026-10-12T02:31:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ceuta: Espanha tira último acampamento de imigrantes antes de visita do rei",
+    "d": "Viaturas policiais chegaram por volta das 7h da manhã, horário local, e os agentes orientaram os imigrantes a deixarem suas barracas e se sentarem em grupos",
+    "link": "https://www.cnnbrasil.com.br/internacional/ceuta-espanha-tira-ultimo-acampamento-de-imigrantes-antes-de-visita-do-rei/",
+    "time": "2026-10-12T01:34:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "À CNN, Piqué diz qual o segredo do sucesso da Espanha no futebol",
+    "d": "Em entrevista ao CNN Esportes S/A deste domingo (11), o empresário detalha sobre os fatores que levaram o crescimento da seleção espanhola",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/a-cnn-pique-diz-qual-o-segredo-do-sucesso-da-espanha-no-futebol/",
+    "time": "2026-10-12T01:30:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Danilo, do Flamengo, é encaminhado ao hospital após choque no Fla-Flu",
+    "d": "Zagueiro rubro-negro sofreu forte impacto na face durante o clássico contra o Fluminense e fará exames detalhados na mandíbula e crânio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/danilo-do-flamengo-e-encaminhado-ao-hospital-apos-choque-no-fla-flu/",
+    "time": "2026-10-12T01:13:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O músculo escondido na canela que evita tropeços ao caminhar — e o exercício simples de 1 minuto para fortalecê-lo",
+    "d": "Entenda como a redução de força no tibial anterior facilita quedas no dia a dia e saiba como treinar a dorsiflexão em casa",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/o-musculo-escondido-na-canela-que-evita-tropecos-ao-caminhar-e-o-exercicio-simples-de-1-minuto-para-fortalece-lo/",
+    "time": "2026-10-12T01:04:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Furacão Simon inunda casas na costa do México",
+    "d": "Na cidade portuária de Manzanillo, no estado de Colima, a Marinha ajudou a retirar a água da chuva de residências que foram atingidas pelas enchentes",
+    "link": "https://www.cnnbrasil.com.br/internacional/furacao-simon-inunda-casas-na-costa-do-mexico/",
+    "time": "2026-10-12T00:51:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Minas Gerais registrou 140 acidentes aéreos nos últimos 10 anos, diz Cenipa",
+    "d": "Na última semana, duas aeronaves caíram; até o momento, estado contabilizou neste ano nove acidentes, além de dois classificados como fatais, com quatro mortes",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/minas-gerais-registrou-140-acidentes-aereos-nos-ultimos-10-anos-diz-cenipa/",
+    "time": "2026-10-12T00:45:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Estrelas do rock” e regras “loucas”: Piqué explica sucesso da Kings League",
+    "d": "Ao CNN Esportes S/A deste domingo (11), ex-zagueiro e criador da Kings League conta os motivos para a inovação ser tão bem-sucedida",
+    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/estrelas-do-rock-e-regras-loucas-pique-explica-sucesso-da-kings-league/",
+    "time": "2026-10-12T00:45:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "México pede que população fique em casa devido ao furacão Simon",
+    "d": "Fenômeno natural ameaça levar ventos destrutivos, marés de tempestade perigosas e inundações potencialmente fatais; população precisou deixar algumas áreas",
+    "link": "https://www.cnnbrasil.com.br/internacional/mexico-pede-que-populacao-fique-em-casa-devido-ao-furacao-simon/",
+    "time": "2026-10-12T00:44:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gabriel Paulista desabafa: “Não vejo a diretoria proteger os atletas”",
+    "d": "Zagueiro afirmou que \"há pessoas dentro do clube que não sabem o que significa o Corinthians\"",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/gabriel-paulista-desabafa-nao-vejo-a-diretoria-proteger-os-atletas/",
+    "time": "2026-10-12T00:41:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bahia vence o Mirassol na Fonte Nova e se aproxima do G4 do Brasileirão",
+    "d": "Equipe comandada por Rogério Ceni dominou o jogo e poderia ter feito mais; visitantes perdem pênalti no fim e seguem na luta contra o rebaixamento",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-vence-o-mirassol-na-fonte-nova-e-se-aproxima-do-g4-do-brasileirao/",
+    "time": "2026-10-12T00:35:44.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O que se sabe sobre o vaivém de decisões da Justiça Eleitoral sobre o canal de WhatsApp 'Exército de Lula'",
     "d": "Comunidade administrada pelo deputado reeleito André Janones (Rede-MG) conta com mais de 3 milhões de apoiadores do presidente Luiz Inácio Lula da Silva.",
     "link": "https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-11T23:37:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Os 20 SUVs mais vendidos do Brasil em setembro; confira o ranking",
-    "d": "Ao longo do semestre, o Volkswagen T-Cross já acumula 71.269 unidades e também é o SUV mais vendido do Brasil durante o ano de 2026",
-    "link": "https://www.cnnbrasil.com.br/auto/os-20-suvs-mais-vendidos-do-brasil-em-setembro-confira-o-ranking/",
-    "time": "2026-10-11T23:18:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Grêmio 1 x 1 Internacional: veja os melhores momentos pelo Brasileirão",
-    "d": "Clássico de número 455 foi marcado pela disputa para escapar do Z4. Grêmio e Internacional seguem ameaçados pelo rebaixamento no Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-1-x-1-internacional-veja-os-melhores-momentos-pelo-brasileirao/",
-    "time": "2026-10-11T23:17:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Exército do Lula”: advogado analisa decisões de corregedor e Nunes Marques",
-    "d": "José Paes Neto, especialista em Direito Eleitoral, questiona autoridade do corregedor do TSE para suspender decisão da presidência da Corte sobre canal pró-Lula",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/exercito-do-lula-advogado-analisa-decisoes-de-corregedor-e-kassio-nunes/",
-    "time": "2026-10-11T23:17:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Casal de ex-BBBs é cobrado em mais de R$ 1,4 milhão na Justiça",
-    "d": "Decisão judicial determina bloqueio de valores em contas de Rodrigão, do BBB 11, processado por quebra de contrato com produtora, e da mulher, Adriana Sant'Anna",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/casal-de-ex-bbbs-e-cobrado-em-mais-de-r-14-milhao-na-justica/",
-    "time": "2026-10-11T23:16:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Samuel Xavier diz que Flamengo e Palmeiras são beneficiados pela arbitragem",
-    "d": "Lateral do Fluminense fez forte desabafo após a derrota por 1 a 0 para o Rubro-Negro, neste domingo, no Maracanã",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/samuel-xavier-diz-que-flamengo-e-palmeiras-sao-beneficiados-pela-arbitragem/",
-    "time": "2026-10-11T23:11:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras 4 x 1 Corinthians: veja os melhores momentos pelo Brasileirão",
-    "d": "Verdão goleou o rival e continua a caça ao líder Flamengo no Brasileirão; Corinthians chegou a oito derrotas consecutivas e ainda está fora da zona do rebaixamento",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-4-x-1-corinthians-veja-os-melhores-momentos-pelo-brasileirao/",
-    "time": "2026-10-11T23:08:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras perde titulares para jogo contra o Athletico Paranaense",
-    "d": "Giay e Gustavo Gómez receberam terceiro cartão amarelo na goleada sobre o Corinthians, neste domingo (11), e cumprirão suspensão automática",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-perde-titulares-para-jogo-contra-o-athletico-paranaense/",
-    "time": "2026-10-11T22:56:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PoderData: Flávio sobe nove pontos em expectativa de vitória; Lula cai 11",
-    "d": "Pesquisa da última quinta-feira aponta crescimente de candidato do PL após 1º turno",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/poderdata-flavio-sobe-nove-pontos-em-expectativa-de-vitoria-lula-cai-11/",
-    "time": "2026-10-11T22:56:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Capital paulista entra em estado de atenção para alagamentos neste domingo",
-    "d": "Durante a véspera de feriado, Defesa Civil estadual emitiu 29 avisos para chuva intensa, ventania e possibilidade de granizo; diversas cidades já foram afetadas por temporal",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/capital-paulista-entra-em-estado-de-atencao-para-alagamentos-neste-domingo/",
-    "time": "2026-10-11T22:52:13.000Z"
   },
   {
     "cat": "internacional",
@@ -88,34 +128,10 @@
     "time": "2026-10-11T22:45:58.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Defesa de Bolsonaro comunica Moraes sobre retomada de visitas de Flávio",
-    "d": "Advogados apontam que as visitas de Flávio Bolsonaro ao pai serão retomadas \"nos moldes anteriormente fixados, mediante comunicação e agendamento\"",
-    "link": "https://www.cnnbrasil.com.br/politica/defesa-de-bolsonaro-comunica-moraes-sobre-retomada-das-visitas-de-flavio/",
-    "time": "2026-10-11T22:45:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras: invencibilidade em clássicos segue após goleada",
-    "d": "Verdão alcança 11 partidas sem derrota diante dos maiores rivais, com oito vitórias e três empates na temporada 2026",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-invencibilidade-em-classicos-segue-apos-goleada/",
-    "time": "2026-10-11T22:43:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hugo Souza lamenta goleada sofrida para o Palmeiras: “Pedir perdão”",
-    "d": "Goleiro evitou vexame ainda maior ao defender o pênalti batido por Paulinho; Verdão goleou o Corinthians por 4 a 1",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/hugo-souza-lamenta-goleada-sofrida-para-o-palmeiras-pedir-perdao/",
-    "time": "2026-10-11T22:35:48.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-    "d": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+    "d": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
     "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-11T21:36:40.000Z"
   },
@@ -211,7 +227,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Flávio Bolsonaro se reúne com prefeitos de SP e pede mobilização a aliados: 'Não podemos baixar a guarda'",
-    "d": "Flávio Bolsonaro participa de almoço com prefeitos em SP O senador e candidato à Presidência da República, Flávio Bolsonaro (PL), afirmou neste domingo (11) que o cenário para sua vitória nas eleições de 2026 \"está fa…",
+    "d": "Flávio Bolsonaro, candidato do PL, se reuniu com prefeitos e vereadores em SP O senador e candidato à Presidência da República, Flávio Bolsonaro (PL), afirmou neste domingo (11) que o cenário para sua vitória nas elei…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml",
     "time": "2026-10-11T16:56:56.000Z"
   },
@@ -446,22 +462,6 @@
     "d": "Como funciona a Mega-Sena? O concurso 3.069 da Mega-Sena pode pagar um prêmio de R$ 112 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (11), em São Paulo. 📱Favorite o…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/11/mega-sena-3069-pode-pagar-r-112-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
     "time": "2026-10-11T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Café: poder de compra de fertilizantes pelo produtor recua no início da abubação da safra; entenda",
-    "d": "Café robusta Globo Rural/Tv Globo Em setembro, as principais regiões produtoras de café no Brasil, como o interior paulista e o Sul de Minas, enfrentaram cenário de menor poder de compra de fertilizantes no período in…",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/10/cafe-poder-de-compra-de-fertilizantes-pelo-produtor-recua-no-inicio-da-abubacao-da-safra-entenda.ghtml",
-    "time": "2026-10-10T21:04:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ministro da Secom, Sidônio deve tirar férias para participar da campanha de Lula à Presidência",
-    "d": "O publicitário Sidônio Palmeira, ministro da Secretaria de Comunicação Social (Secom), durante cerimônia de assinatura do termo de posse, no Palácio do Planalto, em Brasília, nesta terça-feira, 14. MATEUS MELLO/ENQUAD…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/ministro-da-secom-sidonio-deve-tirar-ferias-para-participar-da-campanha-de-lula-a-presidencia.ghtml",
-    "time": "2026-10-10T20:54:48.000Z"
   },
   {
     "cat": "brasil",
