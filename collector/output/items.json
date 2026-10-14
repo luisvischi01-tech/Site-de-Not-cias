@@ -1,5 +1,269 @@
 [
   {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Trump anuncia exploração de petróleo, gás e minerais na Groenlândia",
+    "d": "Presidente dos EUA destaca potencial energético da ilha e importância estratégica do território ártico para a defesa americana e europeia",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-anuncia-exploracao-de-petroleo-gas-e-minerais-na-groenlandia/",
+    "time": "2026-10-14T05:13:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que eleições mexem com a bolsa, o dólar e os juros? Entenda o que move o mercado",
+    "d": "Como as eleições mexem com a Bolsa e o dólar A divulgação do resultado do primeiro turno das eleições foi seguida por uma alta da bolsa de valores e uma queda dos juros futuros. Isso não significa que a economia tenha…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/10/14/por-que-eleicoes-mexem-com-a-bolsa-o-dolar-e-os-juros-entenda-o-que-move-o-mercado.ghtml",
+    "time": "2026-10-14T05:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Abóbora gigante de quase 1.500 kg é colhida nos EUA e pode bater recorde mundial",
+    "d": "Abóbora gigante de 1.432 quilos colhida nos EUA pode bater recorde mundial Uma abóbora de 1.432 kg foi colhida nos Estados Unidos e pode ser reconhecida pelo Guinness, o Livro dos Recordes, como a mais pesada do mundo…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/14/abobora-gigante-de-quase-1500-kg-e-colhida-nos-eua-e-pode-bater-recorde-mundial.ghtml",
+    "time": "2026-10-14T05:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "d": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T04:36:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Time de Flávio conseguiu superar militarismo da direita, diz especialista",
+    "d": "Rafael Favetti, da Fatto Inteligência Política, avalia durante o WW que a campanha do candidato do PL representa uma ruptura com característica que marcou o bolsonarismo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/time-de-flavio-conseguiu-superar-militarismo-da-direita-diz-especialista/",
+    "time": "2026-10-14T04:31:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "d": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T04:20:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russia arrests Japanese journalist on alleged espionage",
+    "d": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T04:10:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Juiz prorroga decisão sobre acesso da CNN, MS NOW e Politico à Casa Branca",
+    "d": "Ordem impede governo Trump de revogar credenciais dos jornalistas enquanto tramita ação judicial contra restrição à imprensa",
+    "link": "https://www.cnnbrasil.com.br/internacional/juiz-prorroga-decisao-sobre-acesso-da-cnn-ms-now-e-politico-a-casa-branca/",
+    "time": "2026-10-14T03:40:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE manda Nikolas Ferreira apagar vídeo de crianças criticando Lula",
+    "d": "Decisão determina a retirada do conteúdo em até 24 horas; publicação também foi compartilhada pelo senador e candidato à Presidência Flávio Bolsonaro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-nikolas-ferreira-apagar-video-de-criancas-criticando-lula/",
+    "time": "2026-10-14T03:32:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Andrés Gomez é expulso após empurrar o árbitro e desfalcará o Vasco; veja",
+    "d": "Com advertência, ele não poderá jogar a partida de volta das semifinais da Copa Sul-Americana, na terça-feira (20), contra o Boca Juniors-ARG",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/andres-gomez-e-expulso-apos-empurrar-o-arbitro-e-desfalcara-vasco-na-volta/",
+    "time": "2026-10-14T03:30:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "A abstenção e o poder do voto de quem não votou - O Assunto #1824",
+    "d": "Eleição após eleição, cresce o índice de eleitores que não comparecem às urnas. Neste ano, foi registrado o recorde de abstenção para uma eleição presidencial: cerca de 33,5 milhões de eleitores, o equivalente a um a…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/14/a-abstencao-e-o-poder-do-voto-de-quem-nao-votou-o-assunto-1824.ghtml",
+    "time": "2026-10-14T03:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Público relata calor de 40 ºC e falta de ar em show que terminou com morte",
+    "d": "Pedro Higa tinha 28 anos e passou mal no local, que registrou relatos de calor e lotação na Zona Oeste de SP; OUTRO LADO: produtora afirma que colabora integralmente com as autoridades responsáveis pela apuração dos f…",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/publico-relata-calor-de-40-oc-e-falta-de-ar-em-show-que-terminou-com-morte/",
+    "time": "2026-10-14T03:28:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Libertadores: Fluminense tem uma dúvida para encarar Palmeiras",
+    "d": "Hércules e Nonato disputam a última vaga no meio-campo tricolor para o duelo da noite desta quarta-feira (14), no Maracanã, no Rio de Janeiro (RJ)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/libertadores-fluminense-tem-uma-duvida-para-encarar-palmeiras/",
+    "time": "2026-10-14T03:13:25.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Vasco quebra tabu de 75 anos ao vencer Boca Juniors pela Sul-Americana",
+    "d": "Clube carioca conseguiu importante triunfo na Argentina nesta terça-feira (13) para abrir vantagem nas semifinais da competição continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-quebra-tabu-de-75-anos-ao-vencer-boca-juniors-pela-sul-americana/",
+    "time": "2026-10-14T03:13:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "MPF pede prisão preventiva de PM réu por matar estudante de medicina em SP",
+    "d": "Órgão alega que a gravidade da conduta e a periculosidade do réu justificam a medida após o crime ocorrido em 2024",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mpf-pede-prisao-preventiva-de-pm-reu-por-matar-estudante-de-medicina-em-sp/",
+    "time": "2026-10-14T03:06:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vasco entra para seleto grupo de brasileiros que venceram Boca na Bombonera",
+    "d": "Cruzmaltino se tornou o oitavo clube brasileiro a vencer o gigante argentino no mítico estádio sul-americano",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-entra-para-seleto-grupo-de-brasileiros-que-venceram-boca-na-bombonera/",
+    "time": "2026-10-14T03:03:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Primeira pesquisa Quaest do 2º turno será divulgada nesta quarta-feira (14)",
+    "d": "Flávio Bolsonaro (PL) e Lula (PT) disputam o 2º turno Diego Herculano/Reuters e Adriano Machado/Reuters A Quaest divulga no final da tarde desta quarta-feira (14) sua primeira pesquisa de intenção de voto para o segun…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/primeira-pesquisa-quaest-do-2o-turno-sera-divulgada-nesta-quarta-feira-14.ghtml",
+    "time": "2026-10-14T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: qual a diferença entre o primeiro e o segundo turno? Entenda e veja como votar",
+    "d": "Urna eletrônica Giuliano Gomes/PR Press No dia 25 de outubro, os mais de 158 milhões de eleitores habilitados no Brasil voltarão às urnas eletrônicas para o segundo turno das eleições. Enquanto o primeiro turno abrang…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/eleicoes-2026-qual-a-diferenca-entre-o-primeiro-e-o-segundo-turno-entenda-e-veja-como-votar.ghtml",
+    "time": "2026-10-14T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Aliados de Motta fazem contas para mantê-lo na presidência da Câmara e Centrão fala em ‘autopreservação’",
+    "d": "O presidente da Câmara, Hugo Motta (Republicanos-PB), durante reunião de líderes na Câmara Kayo Magalhães/Câmara dos Deputados Aliados do presidente da Câmara, Hugo Motta (Republicanos-PB), avaliam que a disputa pela…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/14/aliados-de-motta-fazem-contas-para-mante-lo-na-presidencia-da-camara-e-centrao-fala-em-autopreservacao.ghtml",
+    "time": "2026-10-14T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Senado deve votar nesta quarta PEC que acaba com a escala 6x1",
+    "d": "Plenário do Senado Federal discute a PEC do fim da escala 6x1 Jonas Pereira/Agência Senado Após a quinta e última sessão de discussão, prevista para esta quarta-feira (14), o Senado deve votar, em primeiro e segundo t…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/14/senado-deve-votar-nesta-quarta-pec-que-acaba-com-a-escala-6x1.ghtml",
+    "time": "2026-10-14T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "CCJ do Senado pode concluir nesta quarta votação da PEC da Segurança",
+    "d": "A Comissão de Constituição e Justiça (CCJ) do Senado pode concluir nesta quarta-feira (14) a análise da Proposta de Emenda à Constituição (PEC) da Segurança Pública. Os senadores ainda precisam votar três destaques ao…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/14/ccj-do-senado-pode-concluir-nesta-quarta-votacao-da-pec-da-seguranca.ghtml",
+    "time": "2026-10-14T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 150 milhões nesta quarta-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.070 da Mega-Sena pode pagar um prêmio de R$ 150 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre exepcionalmente às 21h desta quarta-feira (14), em Sã…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/14/mega-sena-pode-pagar-r-150-milhoes-nesta-quarta-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-10-14T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Perdão de dívidas, PIX de R$ 5 mil e teto maior para MEI: entenda o plano do governo para o empreendedor",
+    "d": "Desenrola Brasil Luis Lima Jr./Fotoarena/Estadão Conteúdo O governo federal anunciou nesta terça-feira (13) um pacote de benefícios para microempreendedores individuais (MEIs) e pequenos negócios. 🔎 As propostas incl…",
+    "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/14/perdao-de-dividas-pix-de-r-5-mil-e-teto-maior-para-mei-entenda-o-plano-do-governo-para-o-empreendedor.ghtml",
+    "time": "2026-10-14T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fim da escala 6x1 passa por votação no Senado; veja o que acontece se proposta for aprovada ou rejeitada",
+    "d": "Sessão de Debates - Fim da escala 6x1 no Brasil. Edilson Rodrigues/Agência Senado A Proposta de Emenda à Constituição (PEC) que prevê o fim da escala 6x1 enfrenta nesta quarta-feira (14) uma das votações mais importan…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/14/fim-da-escala-6x1-votacao-senado.ghtml",
+    "time": "2026-10-14T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Boca Juniors 0 x 1 Vasco: veja os melhores momentos pela Sul-Americana",
+    "d": "Adson marcou o único gol da partida disputada em Buenos Aires, na Argentina, na noite desta terça-feira (13), pela partida de ida da semifinal",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/boca-juniors-0-x-1-vasco-veja-os-melhores-momentos-pela-sul-americana/",
+    "time": "2026-10-14T02:54:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Exército do Lula” fica indisponível; Kassio deu prazo de 48h para volta",
+    "d": "Canal foi desativo por volta das 23h desta terça-feira (13); ministro condicionou retomada da plataforma à comunicação do endereço eletrônico à Justiça Eleitoral",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/exercito-do-lula-fica-indisponivel-kassio-deu-prazo-de-48h-para-volta/",
+    "time": "2026-10-14T02:54:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Após decisão de Nunes Marques, canal 'Exército de Lula' sai do ar e poderá ser retomado após 48 horas",
+    "d": "Após decisão de Nunes Marques, canal 'Exército do Lula' sai do ar Após decisão do presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, o canal de WhatsApp \"Exército do Lula\" saiu do ar na no…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/apos-decisao-de-nunes-marques-canal-exercito-de-lula-sai-do-ar-canal-pode-ser-retomado-apos-prazo-de-48-horas.ghtml",
+    "time": "2026-10-14T02:38:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Lena Dunham's Girls to return for limited HBO run",
+    "d": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+    "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T02:09:30.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Bank of America hit with $1.2bn fine for money laundering failings",
+    "d": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T02:05:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Russia arrests Japanese journalist on allegations of spying",
+    "d": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island of Sakhalin and acc…",
+    "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+    "time": "2026-10-14T01:05:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Manifestantes realizam protestos pró-Lula em 11 capitais nesta terça-feira (13)",
+    "d": "Manifestantes realizam protestos pró-Lula em 11 capitais nesta terça-feira (13) Manifestantes realizaram protestos a favor do presidente Lula (PT) em 11 capitais pelo país ao longo desta terça-feira (13). O presidente…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/manifestantes-realizam-protestos-pro-lula-em-11-capitais-nesta-terca-feira-13.ghtml",
+    "time": "2026-10-14T00:59:35.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+    "d": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea o…",
+    "link": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
+    "time": "2026-10-14T00:53:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE determina reexibição de propaganda de Flávio Bolsonaro após programa ser veiculado sem áudio",
+    "d": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, determinou nesta terça-feira (13) a reexibição da propaganda eleitoral obrigatária do candidato do PL à Presidência, Flávio Bolsonaro,…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/tse-determina-reexibicao-de-propaganda-de-flavio-bolsonaro-apos-programa-ser-veiculado-sem-audio.ghtml",
+    "time": "2026-10-14T00:48:29.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
     "h": "TSE derruba propagandas que associam Lula e Flávio Bolsonaro ao crime organizado de forma genérica e fixa limites",
@@ -8,60 +272,12 @@
     "time": "2026-10-14T00:40:36.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pesquisa científica sugere que animais podem ter surgido 200 milhões de anos antes do previsto",
-    "d": "Análise de microfósseis na Mongólia questiona teorias científicas anteriores sobre a origem da vida",
-    "link": "https://www.cnnbrasil.com.br/ciencia/pesquisa-cientifica-sugere-que-animais-podem-ter-surgido-200-milhoes-de-anos-antes-do-previsto/",
-    "time": "2026-10-14T00:36:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "SP: PM prende suspeito de matar ex-companheira a tiros em Taboão da Serra",
-    "d": "Jovem de 22 anos é acusado de atirar na ex-companheira de 19 anos dentro de uma casa na Grande São Paulo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-pm-prende-suspeito-de-matar-ex-companheira-a-tiros-em-taboao-da-serra/",
-    "time": "2026-10-14T00:33:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Goleiro é vítima de assalto à mão armada e vira desfalque na Champions",
-    "d": "Jogador estava na residência com familiares no momento do ocorrido e foi cortado da partida desta terça-feira (13), pela competição continental",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/goleiro-e-vitima-de-assalto-a-mao-armada-e-vira-desfalque-na-champions/",
-    "time": "2026-10-14T00:32:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com Vini Jr. e Endrick, CBF lança campanha contra a violência às mulheres",
-    "d": "Parceria da entidade com Ministérios do Esporte e das Mulheres traz mensagem de jogadores da Seleção Brasileira",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/com-vini-jr-e-endrick-cbf-lanca-campanha-contra-a-violencia-as-mulheres/",
-    "time": "2026-10-14T00:31:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise WW: Intensidade de fake news aumenta e vira mote de campanha",
-    "d": "Âncora e analista de Economia da CNN Brasil, Thais Herédia participou da sexta edição do WW Talks, nesta terça-feira (13); tema foi o que deve decidir o segundo turno da eleição presidencial",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/analise-ww-intensidade-de-fake-news-aumenta-e-vira-mote-de-campanha/",
-    "time": "2026-10-14T00:30:26.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Emissoras de rádio e TV se reúnem na República Dominicana para discutir futuro da produção audiovisual nas Américas",
-    "d": "AIR celebra 80 anos com encontro para discutir desafios do audiovisual nas Américas Um encontro em Santo Domingo, capital da República Dominicana, reúne representantes de emissoras de rádio e televisão, produtores de…",
+    "d": "Evento debate papel da comunicação na democracia Um encontro em Santo Domingo, capital da República Dominicana, reúne representantes de emissoras de rádio e televisão, produtores de conteúdo e operadoras de TV paga pa…",
     "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/13/encontro-air-republica-dominicana.ghtml",
     "time": "2026-10-14T00:28:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cientistas intrigados? Um animal de menos de 1 milímetro sobreviveu exposto ao vácuo do espaço por 10 dias e voltou à vida depois de ser reidratado",
-    "d": "Conheça os segredos do tardígrado, o pequenino \"urso-d’água\" capaz de desligar o próprio metabolismo para encarar os ambientes mais hostis do universo",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/cientistas-intrigados-um-animal-de-menos-de-1-milimetro-sobreviveu-exposto-ao-vacuo-do-espaco-por-10-dias-e-voltou-a-vida-depois-de-ser-reidratado/",
-    "time": "2026-10-14T00:21:20.000Z"
   },
   {
     "cat": "internacional",
@@ -73,59 +289,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Petrobras confirma recebimento de R$ 16 bi em subvenções a combustíveis",
-    "d": "Valor inclui parcelas ​recebidas nesta terça-feira relativas à ⁠comercialização entre 1 e ⁠15 de julho",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/petrobras-confirma-recebimento-de-r-16-bi-em-subvencoes-a-combustiveis/",
-    "time": "2026-10-14T00:09:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Consórcio Fla-Flu entra com ação no STJ contra jogo do Vasco no Maracanã",
-    "d": "Administradora do estádio ainda tenta embargar o duelo do Cruzmaltino contra o Boca Juniors no local, pelas semifinais da Copa Sul-Americana",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/consorcio-fla-flu-entra-com-acao-no-stj-contra-jogo-do-vasco-no-maracana/",
-    "time": "2026-10-14T00:00:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Morte de Netinho: além de “Mila”, veja quais são suas músicas mais tocadas",
-    "d": "Artista que morreu nesta terça-feira (13), aos 60 anos, durante um tratamento de câncer, consagrou hits na história do gênero musical Axé Music",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/morte-de-netinho-alem-de-mila-veja-quais-sao-suas-musicas-mais-tocadas/",
-    "time": "2026-10-13T23:59:11.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "TSE julga processos envolvendo publicações de propaganda eleitoral de Flávio Bolsonaro e Lula",
     "d": "TSE julga processos envolvendo publicações de propaganda eleitoral de Flávio Bolsonaro e Lula Os ministros vão analisar propagandas consideradas negativas aos dois candidatos na disputa ao Planalto. O Tribunal Superio…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/tse-julga-processos-propaganda-eleitoral.ghtml",
     "time": "2026-10-13T23:58:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jetour S08 tem preço agressivo e muitos itens de carros de luxo; confira",
-    "d": "A potência total instalada é de 339 cv, enquanto o torque total instalado chega 52 kgfm, contudo a marca não divulgou os dados reais de potência e torque combinados",
-    "link": "https://www.cnnbrasil.com.br/auto/jetour-s08-tem-preco-agressivo-e-muitos-itens-de-carros-de-luxo-confira/",
-    "time": "2026-10-13T23:56:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câmara aprova urgência do PL que faz rateio de custos de baterias elétricas",
-    "d": "Projeto ainda precisa passar pelo plenário, o que deve ficar para o período pós-eleitoral; setores argumentam que proposta traria maior segurança jurídica e previsibilidade para o setor elétrico",
-    "link": "https://www.cnnbrasil.com.br/politica/camara-aprova-urgencia-do-pl-que-faz-rateio-de-custos-de-baterias-eletricas/",
-    "time": "2026-10-13T23:54:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "AT&T vende operação no México a Televisa e fintech por US$ 2 bilhões",
-    "d": "Conclusão da transação está prevista para o primeiro trimestre de 2027, sujeita às condições habituais de fechamento",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/att-vende-operacao-no-mexico-a-televisa-e-fintech-por-us-2-bilhoes/",
-    "time": "2026-10-13T23:53:30.000Z"
   },
   {
     "cat": "internacional",
@@ -153,30 +321,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Líder do MDB no Senado sai em defesa de diretórios estaduais que apoiam Lula no segundo turno",
-    "d": "O líder do MDB no Senado Federal, Eduardo Braga (AM), declarou nesta terça-feira (13) apoio à reeleição de Luiz Inácio Lula da Silva (PT), em nome dos senadores do partido, e saiu em defesa dos diretórios estaduais qu…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/13/lider-do-mdb-no-senado-sai-em-defesa-de-diretorios-estaduais-que-apoiam-lula-no-segundo-turno.ghtml",
-    "time": "2026-10-13T23:29:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Corregedor eleitoral insiste que discussão sobre 'Exército do Lula' ocorra no plenário do TSE",
-    "d": "Canal 'Exército do Lula' no WhatsApp: veja a cronologia da disputa no TSE O corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, defendeu nesta terça-feira (13) que a discussão sobre o funcionamento do ca…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/13/corregedor-eleitoral-insiste-que-discussao-sobre-exercito-do-lula-ocorra-no-plenario-do-tse.ghtml",
-    "time": "2026-10-13T22:59:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PGR se manifesta contra afastamento de diretor-geral da PF",
-    "d": "A Procuradoria-Geral da República (PGR) se manifestou contra o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de Inteligência Policial da corporação. Em parecer enviado ao Supremo Trib…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/13/pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf.ghtml",
-    "time": "2026-10-13T22:46:24.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Papa Leão 14 diagnosticado com câncer: o que é adenocarcinoma pulmonar? Cinco perguntas respondidas",
     "d": "O pontífice foi diagnosticado com câncer de pulmão após se submeter a uma cirurgia para remover o lobo inferior do pulmão direito, informou o Vaticano.",
@@ -184,15 +328,7 @@
     "time": "2026-10-13T22:44:11.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Sob chuva, apoiadores de Lula fazem ato no Largo da Batata, em SP, para mobilizar votos no 2º turno",
-    "d": "Manifestação em apoio ao candidato à reeleição Lula (PT) no Largo da Batata, em São Paulo. Reprodução/TV Globo Apoiadores do presidente Luiz Inácio Lula da Silva (PT) se reuniram na noite desta terça-feira (13) no Lar…",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/13/sob-chuva-apoiadores-de-lula-fazem-ato-no-largo-da-batata-em-sp-para-mobilizar-votos-no-2o-turno.ghtml",
-    "time": "2026-10-13T22:38:18.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Governo consegue apoio para acelerar votação da PEC que acaba com a escala 6x1 e aprovar texto nesta quarta",
     "d": "Senadora Teresa Leitão (PT-PE), líder do governo no Senado Ton Molina/Agência Senado A líder do governo no Senado, Teresa Leitão (PT-PE), conseguiu nesta terça-feira (13) as 54 assinaturas necessárias para ingressar c…",
@@ -200,20 +336,12 @@
     "time": "2026-10-13T22:38:00.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Governo estima que projeto que prevê perdão a dívidas de MEIs terá impacto de R$ 3 bilhões em três anos",
     "d": "A equipe econômica do governo do presidente Luiz Inácio Lula da Silva (PT) estima que o Projeto de Lei Complementar (PLP) que prevê o perdão de dívidas de Microempreendedores Individuais (MEIs) inscritas na Dívida Ati…",
     "link": "https://g1.globo.com/economia/noticia/2026/10/13/governo-estima-que-projeto-que-preve-perdao-a-dividas-de-meis-tera-impacto-de-r-3-bilhoes-em-tres-anos.ghtml",
     "time": "2026-10-13T22:35:56.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "d": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T22:29:55.000Z"
   },
   {
     "cat": "brasil",
@@ -222,38 +350,6 @@
     "d": "Especialistas dizem que atos de rua podem mobilizar a base e reduzir a abstenção, mas veem pouca chance de mudar votos.",
     "link": "https://www.bbc.com/portuguese/articles/c9gkvg235r0vo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-13T22:22:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no AC, 2º turno: Flávio Bolsonaro, 60%; Lula, 28%",
-    "d": "Flávio Bolsonaro (PL) e Lula (PT) disputam o segundo turno presidencial no dia 25 de outubro Vittor Sales e Ricardo Stuckert Pesquisa Quaest divulgada nesta terça-feira (13) mostra como está a disputa presidencial no…",
-    "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-presidente-segundo-turno-13-outubro.ghtml",
-    "time": "2026-10-13T22:17:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "MDB racha no 2º turno: 16 diretórios apoiam Flávio Bolsonaro e 10 ficam com Lula",
-    "d": "Flávio Bolsonaro (PL) e Lula (PT) disputam o 2º turno Diego Herculano/Reuters e Adriano Machado/Reuters O MDB está dividido no segundo turno da eleição presidencial. Dos 27 diretórios estaduais do partido, 17 declarar…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/mdb-racha-no-2o-turno.ghtml",
-    "time": "2026-10-13T22:17:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest no AC: 48% avaliam gestão Mailza Assis como positiva e 10%, como negativa",
-    "d": "Mailza Assis é a atual governadora e candidata ao cargo no Acre Reprodução/Facebook Pesquisa Quaest divulgada nesta terça-feira (13) mostra como está a avaliação do governo Mailza Assis (PP). ➡️ A atual governadora as…",
-    "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-avaliacao-governo-mailza-assis-13-outubro.ghtml",
-    "time": "2026-10-13T22:16:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-    "d": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T22:14:33.000Z"
   },
   {
     "cat": "internacional",
@@ -336,14 +432,6 @@
     "time": "2026-10-13T18:33:12.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Cornell bans all fraternity parties over gang sex assault allegations",
-    "d": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T18:25:28.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Vou sentir sua falta, filho': a mensagem de Bryan Cranston após a morte de RJ Mitte, de 'Breaking Bad'",
@@ -360,44 +448,12 @@
     "time": "2026-10-13T17:42:03.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Argentina targets UK in legal claim over Falklands oil exploration",
-    "d": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T17:36:43.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Com volta ao presencial e empresas em expansão, preço do aluguel de escritórios bate recorde em SP",
-    "d": "Avenida Brigadeiro Faria Lima é o principal centro financeiro do país Reprodução/TV Globo O preço médio do aluguel de escritórios de alto padrão atingiu o recorde de R$ 144,49 por metro quadrado no terceiro trimestre…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/13/preco-aluguel-escritorios-sp.ghtml",
-    "time": "2026-10-13T17:17:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-    "d": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T17:10:50.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "​FTC and seven states seek contempt ruling against Shkreli over pharma ban",
     "d": "Martin Shkreli’s 2022 release conditions bar him from participating in the pharmaceutical industry, including ownership stakes or business decisions The Federal Trade Commission (FTC) and seven US states have alleged…",
     "link": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
     "time": "2026-10-13T16:54:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-    "d": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, fo…",
-    "link": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-    "time": "2026-10-13T16:34:13.000Z"
   },
   {
     "cat": "brasil",
@@ -414,46 +470,6 @@
     "d": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
     "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-13T15:52:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Dinheiro esquecido': BC diz que R$ 5,8 bilhões podem ser resgatados; quase 24 milhões de pessoas têm direito",
-    "d": "O Banco Central (BC) atualizou os dados e informou nesta terça-feira (13) que ainda existem, nas instituições financeiras, R$ 5,79 bilhões em \"recursos esquecidos\" pelos clientes. O balanço considera valores contabili…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/13/dinheiro-esquecido-bc-diz-que-r-58-bilhoes-podem-ser-resgatados-quase-24-milhoes-de-pessoas-tem-direito.ghtml",
-    "time": "2026-10-13T14:19:04.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Na reta final antes do 2º turno, governo envia ao Congresso projeto de lei que prevê perdão a dívidas de MEIs",
-    "d": "Presidente Luiz Inácio Lula da Silva Ricardo Stuckert O governo federal anunciou nesta terça-feira (13), um pacote de medidas voltadas para microempreendedores individuais (MEIs) e a empresas enquadradas no Simples Na…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/13/na-reta-final-do-segundo-turno-lula-anuncia-credito-e-medidas-para-pequenos-negocios.ghtml",
-    "time": "2026-10-13T14:18:10.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Governo edita medida provisória para combater ligações abusivas de telemarketing",
-    "d": "Homem com celular na mão na região central de São Paulo Celso Tavares/g1 O governo federal editou uma medida provisória (MP) para combater ligações abusivas de telemarketing. O texto, publicado nesta terça (13) no Diá…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/13/governo-edita-medida-provisoria-para-combater-ligacoes-abusivas-de-telemarketing.ghtml",
-    "time": "2026-10-13T14:00:06.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Apple lança HomeView, dispositivo com IA para controlar aparelhos da casa",
-    "d": "Apple HomeView reúne tecnologia Apple Intelligence e a inteligência artificial Siri. Divulgação/Apple A Apple apresentou nesta terça-feira (13) o HomeView, um novo dispositivo com tela e inteligência artificial para c…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/13/apple-homeview.ghtml",
-    "time": "2026-10-13T13:46:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Cientistas pedem órgão internacional para supervisionar sistemas de IA",
-    "d": "Sigla em inglês para inteligência artificial. Aly Song/Reuters Cerca de 400 cientistas, entre eles os pioneiros da inteligência artificial (IA) Geoffrey Hinton e Yoshua Bengio, defenderam nesta terça-feira (13) a cria…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/13/cientistas-pedem-orgao-internacional-para-supervisionar-sistemas-de-ia.ghtml",
-    "time": "2026-10-13T12:35:15.000Z"
   },
   {
     "cat": "economia",
@@ -536,14 +552,6 @@
     "time": "2026-10-12T14:20:53.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
-    "d": "Brussels uses WTO rules to quickly impose quota, which will halve Chinese market share to 3% Business live – latest updates VW boss backs EU plan to bolster domestic industry The EU is to limit the number of hybrid el…",
-    "link": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
-    "time": "2026-10-12T11:23:55.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo",
@@ -622,13 +630,5 @@
     "d": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a mini…",
     "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
     "time": "2026-10-09T09:59:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Egyptian journalists plan weekend protest over detention of six colleagues",
-    "d": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were char…",
-    "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-    "time": "2026-10-09T04:00:38.000Z"
   }
 ]
