@@ -1,11 +1,235 @@
 [
   {
-    "cat": "comercio",
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Turkish police raid opposition TV station, halting live broadcasts",
+    "d": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+    "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T10:50:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Análise: STF tenta dar encaminhamento a caso Master antes da chegada do novo Senado",
+    "d": "Presidente do STF, Edson Fachin em audiência com Andrei Rodrigues, Diretor-Geral da Polícia Federal Gustavo Moreno/STF A Polícia Federal (PF) vai fazer uma triagem criteriosa das citações a ministros do Supremo Tribun…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/analise-stf-caso-master-senado.ghtml",
+    "time": "2026-10-14T10:44:38.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Trump anuncia exploração de petróleo, gás e minerais na Groenlândia",
-    "d": "Presidente dos EUA destaca potencial energético da ilha e importância estratégica do território ártico para a defesa americana e europeia",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-anuncia-exploracao-de-petroleo-gas-e-minerais-na-groenlandia/",
-    "time": "2026-10-14T05:13:20.000Z"
+    "h": "Temporais e chuva forte: veja como fica o tempo no Brasil nesta quarta (14)",
+    "d": "Pancadas de chuva mais intensas concentram-se no Paraná, em Mato Grosso do Sul e em São Paulo, acompanhadas por rajadas de vento que podem atingir até 70 km/h",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/temporais-e-chuva-forte-veja-como-fica-o-tempo-no-brasil-nesta-quarta-14/",
+    "time": "2026-10-14T10:42:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“A Fazenda 18”: Alfredo, Eduarda, Igor e Renata formam 4ª Roça",
+    "d": "Peões foram definidos em votação na terça-feira (13); Renata está fora da Prova do Fazendeiro, enquanto os demais disputam a chance de escapar da berlinda",
+    "link": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-alfredo-eduarda-igor-e-renata-formam-4a-roca/",
+    "time": "2026-10-14T10:41:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Alice Carvalho desfila pela 1ª vez no SPFW com look de couro ousado",
+    "d": "A atriz participou da apresentação da marca FORCA na noite da última segunda-feira (13), diretamente da Praça Charles Miller, parte da estrutura da Arena Pacaembu",
+    "link": "https://www.cnnbrasil.com.br/style/moda/alice-carvalho-desfila-pela-1a-vez-no-spfw-com-look-de-couro-ousado/",
+    "time": "2026-10-14T10:39:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeos: Dois incêndios atingem áreas de mata em Minas Gerais",
+    "d": "Ocorrências foram registradas no Morro do Pires, no município de Nova Lima, e na Terra Indígena Maxacali, no Vale do Mucuri; não há registro de vítimas",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/videos-dois-incendios-atingem-areas-de-mata-em-minas-gerais/",
+    "time": "2026-10-14T10:37:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saúde dos papas: lembre histórico de João Paulo II, Bento XVI e Francisco",
+    "d": "A cirurgia pulmonar de Leão XIV se soma a um histórico de intervenções médicas envolvendo outros líderes da Igreja Católica, com diferentes níveis de gravidade e transparência aos fiéis",
+    "link": "https://www.cnnbrasil.com.br/internacional/saude-dos-papas-lembre-historico-de-joao-paulo-ii-bento-xvi-e-francisco/",
+    "time": "2026-10-14T10:33:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula avalia ir ao Senado após votação da PEC do fim da escala 6×1",
+    "d": "Presidente estará em Brasília no momento da análise da proposta; Flávio Bolsonaro estará em Porto Alegre",
+    "link": "https://www.cnnbrasil.com.br/politica/lula-avalia-ir-ao-senado-apos-votacao-da-pec-do-fim-da-escala-6x1/",
+    "time": "2026-10-14T10:32:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quais fatores podem definir as eleições em Israel e o futuro de Netanyahu?",
+    "d": "Votação para o Parlamento será a primeira desde 2022 e do ataque do Hamas, de outubro de 2023; premiê enfrenta cenário delicado para reeleição",
+    "link": "https://www.cnnbrasil.com.br/internacional/quais-fatores-podem-definir-as-eleicoes-em-israel-e-o-futuro-de-netanyahu/",
+    "time": "2026-10-14T10:30:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como França foi além do combate à desinformação para aumentar cobertura vacinal",
+    "d": "País europeu tinha uma das taxas mais altas de hesitação vacinal, mas conseguiu aumentar consideravelmente a cobertura vacinal desde 2018. Mas como ele fez isso?",
+    "link": "https://www.bbc.com/portuguese/articles/cm62y6wlwkzgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T10:14:45.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+    "d": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+    "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T10:08:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+    "d": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T10:04:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Manifestações de rua podem mudar os rumos do segundo turno?",
+    "d": "Especialistas dizem que atos de rua podem mobilizar a base e reduzir a abstenção, mas veem pouca chance de mudar votos.",
+    "link": "https://www.bbc.com/portuguese/articles/c9gkvg235r0vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T10:02:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Real Time: Celina tem 60% de votos válidos ao governo do DF; Grass, 40%",
+    "d": "Levantamento ouviu 1.600 eleitores entre 9 e 13 de outubro; margem de erro é de dois pontos percentuais com 95% no nível de confiança",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-celina-tem-60-de-votos-validos-ao-governo-do-df-grass-40/",
+    "time": "2026-10-14T10:01:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Espetáculo fiel”, diz diretor sobre spin-off de “Sexta-feira 13”",
+    "d": "Série \"Crystal Lake\" estreia na quarta-feira (16) no serviço de streaming Universal+ com foco em visão inédita sobre Pamela Voorhees",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/espetaculo-fiel-diz-diretor-sobre-spin-off-de-sexta-feira-13/",
+    "time": "2026-10-14T10:00:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "ANTT abre discussão sobre normativo que trata de projetos ferroviários",
+    "d": "Em artigo, Mariana Carvalho aponta quais avanços a nova regulamentação de outorgas ferroviárias pode trazer para o setor",
+    "link": "https://www.cnnbrasil.com.br/infra/antt-abre-discussao-sobre-normativo-que-trata-de-projetos-ferroviarios/",
+    "time": "2026-10-14T10:00:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Manchester City x PSG: horário e onde assistir ao jogo da Champions League",
+    "d": "Equipes vão a campo nesta quarta-feira (14), às 16h, no Etihad Stadium, em Manchester (ING). Pela segunda rodada da fase de liga da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/manchester-city-x-psg-horario-e-onde-assistir-ao-jogo-da-champions-league/",
+    "time": "2026-10-14T10:00:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Infraestrutura tecnológica de saúde: uma resposta à escassez de médicos",
+    "d": "Em artigo à CNN Infra, Fabio Veras afirma que a concentração de médicos especialistas nas capitais penaliza o interior, eleva os gastos públicos e compromete a produtividade brasileira",
+    "link": "https://www.cnnbrasil.com.br/infra/infraestrutura-tecnologica-de-saude-uma-resposta-a-escassez-de-medicos/",
+    "time": "2026-10-14T10:00:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "d": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T09:32:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "d": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T08:53:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "IA pode acabar com a humanidade? Como as máquinas poderiam levar ao apocalipse",
+    "d": "Nos últimos meses, o tema da ameaça existencial representada pelas máquinas saiu de vez da ficção científica para a discussão do dia a dia.",
+    "link": "https://www.bbc.com/portuguese/articles/cmx23yez0915o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T08:46:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Papa com câncer: o que é adenocarcinoma pulmonar",
+    "d": "O pontífice foi diagnosticado com câncer de pulmão após se submeter a uma cirurgia para remover o lobo inferior do pulmão direito, informou o Vaticano.",
+    "link": "https://www.bbc.com/portuguese/articles/c3kgq59npk0zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T08:44:16.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+    "d": "Canada-born singer-songwriter, 82, posts footage of citizenship ceremony to Instagram Joni Mitchell has become a US citizen, after first moving to the country in the mid-1960s. The Canada-born singer-songwriter, 82, p…",
+    "link": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+    "time": "2026-10-14T08:39:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como 'Breaking Bad' e RJ Mitte mudaram a percepção sobre a paralisia cerebral",
+    "d": "Mitte sofreu lesão cerebral ao nascer e foi diagnosticado com paralisia cerebral leve aos três anos.",
+    "link": "https://www.bbc.com/portuguese/articles/cxnv054yl348o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T08:14:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russia arrests Japanese journalist on spying charges",
+    "d": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T08:00:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Ex-ministro de FHC, Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso",
+    "d": "Ex-ministro da Casa Civil de FHC e ex-presidente da Petrobras afirma que Flávio Bolsonaro não demonstrou ter um projeto de país.",
+    "link": "https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-14T07:48:30.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Concurso da Câmara dos Deputados: veja formações exigidas para disputar salários acima de R$ 32 mil",
+    "d": "Plenário da Câmara dos Deputados Bruno Spada / Câmara dos Deputados O novo concurso da Câmara dos Deputados chamou atenção não apenas pelo salário inicial de R$ 32.070,88, mas também pela variedade de formações contem…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/14/concurso-da-camara-dos-deputados-veja-formacoes-exigidas-para-disputar-salarios-acima-de-r-32-mil.ghtml",
+    "time": "2026-10-14T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Anac registra 57 casos de indisciplina no 1º mês de regra que pune má conduta de passageiros",
+    "d": "O setor aéreo brasileiro registrou 57 casos de indisciplina de passageiros no primeiro mês de vigência da regra que prevê punições para condutas inadequadas dentro dos aviões ou nos aeroportos do país. A média foi de…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/14/anac-registra-57-casos-de-indisciplina-no-1o-mes-de-regra-que-pune-ma-conduta-de-passageiros.ghtml",
+    "time": "2026-10-14T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "IA pode afetar 40% dos empregos no mundo e dificultar entrada de jovens no mercado, alerta FMI",
+    "d": "FMI reduz projeção de crescimento para o Brasil Os investimentos em inteligência artificial (IA) estão ajudando a manter o crescimento da economia mundial em torno de 3%, mas também podem provocar grandes mudanças no…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/14/ia-pode-afetar-40percent-dos-empregos-no-mundo-e-dificultar-entrada-de-jovens-no-mercado-alerta-fmi.ghtml",
+    "time": "2026-10-14T06:00:00.000Z"
   },
   {
     "cat": "economia",
@@ -26,58 +250,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-    "d": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-14T04:36:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Time de Flávio conseguiu superar militarismo da direita, diz especialista",
-    "d": "Rafael Favetti, da Fatto Inteligência Política, avalia durante o WW que a campanha do candidato do PL representa uma ruptura com característica que marcou o bolsonarismo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/time-de-flavio-conseguiu-superar-militarismo-da-direita-diz-especialista/",
-    "time": "2026-10-14T04:31:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
     "d": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
     "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-14T04:20:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia arrests Japanese journalist on alleged espionage",
-    "d": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-14T04:10:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Juiz prorroga decisão sobre acesso da CNN, MS NOW e Politico à Casa Branca",
-    "d": "Ordem impede governo Trump de revogar credenciais dos jornalistas enquanto tramita ação judicial contra restrição à imprensa",
-    "link": "https://www.cnnbrasil.com.br/internacional/juiz-prorroga-decisao-sobre-acesso-da-cnn-ms-now-e-politico-a-casa-branca/",
-    "time": "2026-10-14T03:40:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TSE manda Nikolas Ferreira apagar vídeo de crianças criticando Lula",
-    "d": "Decisão determina a retirada do conteúdo em até 24 horas; publicação também foi compartilhada pelo senador e candidato à Presidência Flávio Bolsonaro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-nikolas-ferreira-apagar-video-de-criancas-criticando-lula/",
-    "time": "2026-10-14T03:32:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Andrés Gomez é expulso após empurrar o árbitro e desfalcará o Vasco; veja",
-    "d": "Com advertência, ele não poderá jogar a partida de volta das semifinais da Copa Sul-Americana, na terça-feira (20), contra o Boca Juniors-ARG",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/andres-gomez-e-expulso-apos-empurrar-o-arbitro-e-desfalcara-vasco-na-volta/",
-    "time": "2026-10-14T03:30:49.000Z"
   },
   {
     "cat": "brasil",
@@ -86,46 +262,6 @@
     "d": "Eleição após eleição, cresce o índice de eleitores que não comparecem às urnas. Neste ano, foi registrado o recorde de abstenção para uma eleição presidencial: cerca de 33,5 milhões de eleitores, o equivalente a um a…",
     "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/14/a-abstencao-e-o-poder-do-voto-de-quem-nao-votou-o-assunto-1824.ghtml",
     "time": "2026-10-14T03:30:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Público relata calor de 40 ºC e falta de ar em show que terminou com morte",
-    "d": "Pedro Higa tinha 28 anos e passou mal no local, que registrou relatos de calor e lotação na Zona Oeste de SP; OUTRO LADO: produtora afirma que colabora integralmente com as autoridades responsáveis pela apuração dos f…",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/publico-relata-calor-de-40-oc-e-falta-de-ar-em-show-que-terminou-com-morte/",
-    "time": "2026-10-14T03:28:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Libertadores: Fluminense tem uma dúvida para encarar Palmeiras",
-    "d": "Hércules e Nonato disputam a última vaga no meio-campo tricolor para o duelo da noite desta quarta-feira (14), no Maracanã, no Rio de Janeiro (RJ)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/libertadores-fluminense-tem-uma-duvida-para-encarar-palmeiras/",
-    "time": "2026-10-14T03:13:25.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Vasco quebra tabu de 75 anos ao vencer Boca Juniors pela Sul-Americana",
-    "d": "Clube carioca conseguiu importante triunfo na Argentina nesta terça-feira (13) para abrir vantagem nas semifinais da competição continental",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-quebra-tabu-de-75-anos-ao-vencer-boca-juniors-pela-sul-americana/",
-    "time": "2026-10-14T03:13:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "MPF pede prisão preventiva de PM réu por matar estudante de medicina em SP",
-    "d": "Órgão alega que a gravidade da conduta e a periculosidade do réu justificam a medida após o crime ocorrido em 2024",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mpf-pede-prisao-preventiva-de-pm-reu-por-matar-estudante-de-medicina-em-sp/",
-    "time": "2026-10-14T03:06:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vasco entra para seleto grupo de brasileiros que venceram Boca na Bombonera",
-    "d": "Cruzmaltino se tornou o oitavo clube brasileiro a vencer o gigante argentino no mítico estádio sul-americano",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-entra-para-seleto-grupo-de-brasileiros-que-venceram-boca-na-bombonera/",
-    "time": "2026-10-14T03:03:38.000Z"
   },
   {
     "cat": "brasil",
@@ -193,22 +329,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Boca Juniors 0 x 1 Vasco: veja os melhores momentos pela Sul-Americana",
-    "d": "Adson marcou o único gol da partida disputada em Buenos Aires, na Argentina, na noite desta terça-feira (13), pela partida de ida da semifinal",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/boca-juniors-0-x-1-vasco-veja-os-melhores-momentos-pela-sul-americana/",
-    "time": "2026-10-14T02:54:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Exército do Lula” fica indisponível; Kassio deu prazo de 48h para volta",
-    "d": "Canal foi desativo por volta das 23h desta terça-feira (13); ministro condicionou retomada da plataforma à comunicação do endereço eletrônico à Justiça Eleitoral",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/exercito-do-lula-fica-indisponivel-kassio-deu-prazo-de-48h-para-volta/",
-    "time": "2026-10-14T02:54:12.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Após decisão de Nunes Marques, canal 'Exército de Lula' sai do ar e poderá ser retomado após 48 horas",
     "d": "Após decisão de Nunes Marques, canal 'Exército do Lula' sai do ar Após decisão do presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, o canal de WhatsApp \"Exército do Lula\" saiu do ar na no…",
@@ -222,14 +342,6 @@
     "d": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
     "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-14T02:09:30.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Bank of America hit with $1.2bn fine for money laundering failings",
-    "d": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-14T02:05:32.000Z"
   },
   {
     "cat": "internacional",
@@ -280,14 +392,6 @@
     "time": "2026-10-14T00:28:45.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-    "d": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-14T00:17:00.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "TSE julga processos envolvendo publicações de propaganda eleitoral de Flávio Bolsonaro e Lula",
@@ -298,34 +402,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-    "d": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T23:42:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quaest: como está a disputa presidencial no DF, AC, AM e RN",
-    "d": "Flávio Bolsonaro e Lula Divulgação Pesquisas Quaest divulgadas entre segunda-feira (12) e terça-feira (13) mostram como está a corrida presidencial em quatro das seis unidades da Federação onde haverá segundo turno pa…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/quaest-2-turno-estados-flavio-bolsonaro-lula-13-outubro.ghtml",
-    "time": "2026-10-13T23:31:42.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Zimbabwean author denies using AI to write award-winning story",
     "d": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
     "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-13T23:31:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Papa Leão 14 diagnosticado com câncer: o que é adenocarcinoma pulmonar? Cinco perguntas respondidas",
-    "d": "O pontífice foi diagnosticado com câncer de pulmão após se submeter a uma cirurgia para remover o lobo inferior do pulmão direito, informou o Vaticano.",
-    "link": "https://www.bbc.com/portuguese/articles/c3kgq59npk0zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T22:44:11.000Z"
   },
   {
     "cat": "economia",
@@ -344,17 +424,9 @@
     "time": "2026-10-13T22:35:56.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Manifestações de rua podem mudar os rumos do segundo turno?",
-    "d": "Especialistas dizem que atos de rua podem mobilizar a base e reduzir a abstenção, mas veem pouca chance de mudar votos.",
-    "link": "https://www.bbc.com/portuguese/articles/c9gkvg235r0vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T22:22:35.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+    "h": "Saudi employee charged with planting recording device in OpenAI office",
     "d": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-13T21:42:49.000Z"
@@ -376,36 +448,12 @@
     "time": "2026-10-13T20:49:53.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Acordo Mercosul-UE elevou exportações brasileiras em 30% desde maio, diz ministro",
-    "d": "O acordo entre Mercosul e União Europeia elevou em 30% as exportações brasileiras desde maio, quando entrou em vigor, afirmou nesta terça-feira (13) o ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márci…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/13/acordo-mercosul-ue-elevou-exportacoes-brasileiras-em-30percent-desde-maio-diz-ministro.ghtml",
-    "time": "2026-10-13T20:47:53.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que Flávio Bolsonaro voltou atrás sobre o fim da escala 6x1?",
     "d": "Senador e candidato à Presidência diz pela primeira vez que votará a favor da proposta, defendida pela 'maioria dos trabalhadores', segundo ele.",
     "link": "https://www.bbc.com/portuguese/articles/cjqln6grn1nyo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-13T20:22:58.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "OpenAI encontra dispositivo de gravação escondido em escritório e funcionário é preso",
-    "d": "Austrália acusa OpenAI de invadir site do governo A OpenAI informou nesta terça-feira (13), ter encontrado um dispositivo de gravação sofisticado escondido em um de seus escritórios e identificou um funcionário como r…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/13/openai-encontra-dispositivo-de-gravacao-escondido-em-escritorio-e-funcionario-e-preso.ghtml",
-    "time": "2026-10-13T20:20:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-    "d": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-    "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T19:51:14.000Z"
   },
   {
     "cat": "internacional",
@@ -416,28 +464,12 @@
     "time": "2026-10-13T19:23:28.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bumble encontra um novo par: aplicativo de namoro é vendido por R$ 6,5 bilhões",
-    "d": "Bumble é vendida por US$ 1,3 bilhão e fundadora seguirá à frente do aplicativo. Divulgação/Bumble O aplicativo de relacionamentos Bumble anunciou nesta terça-feira (13) um acordo para ser comprado pela Ithaca Holdings…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/13/bumble-encontra-um-novo-par-aplicativo-de-namoro-e-vendido-por-r-65-bilhoes.ghtml",
-    "time": "2026-10-13T19:08:05.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Exército de Lula' no WhatsApp: por que Nunes Marques suspendeu canal novamente",
     "d": "Segundo nova decisão de presidente do TSE, canal só poderá voltar a funcionar após a campanha do presidente Lula registrá-lo como um instrumento formal de campanha ao TSE; decisão veio após analise preliminar do TSE n…",
     "link": "https://www.bbc.com/portuguese/articles/c9vgrpmn26lpo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-13T18:33:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Vou sentir sua falta, filho': a mensagem de Bryan Cranston após a morte de RJ Mitte, de 'Breaking Bad'",
-    "d": "Mitte, que tinha paralisia cerebral, interpretou Walter White Jr. na série vencedora do prêmio Emmy.",
-    "link": "https://www.bbc.com/portuguese/articles/cmp3g4d1q0epo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T17:50:34.000Z"
   },
   {
     "cat": "internacional",
@@ -458,7 +490,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro aparece 3 pontos à frente de Lula na disputa do 2º turno no agregador da BBC",
+    "h": "Quem está à frente nas pesquisas? Veja Lula x Flávio Bolsonaro no agregador da BBC",
     "d": "Acompanhe as intenções de voto para Lula e Flávio Bolsonaro no segundo turno da eleição presidencial de 2026, segundo o Agregador de Pesquisas da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-13T16:10:09.000Z"
@@ -520,44 +552,12 @@
     "time": "2026-10-13T07:00:18.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-    "d": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexi…",
-    "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-    "time": "2026-10-13T04:29:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que TSE mandou Flávio Bolsonaro apagar vídeo enganoso que associa uso de drogas a ato pró-Lula na Paulista",
-    "d": "Senador e candidato à Presidência compartilhou vídeo que mostra uma mulher supostamente usando drogas como se cena tivesse sido registrada em manifestação a favor de Lula; gravação foi feita em outro país e circulava…",
-    "link": "https://www.bbc.com/portuguese/articles/c95yngxzd73no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-13T01:52:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Exército de Lula' no WhatsApp: TSE não encontra notícias falsas apontadas por campanha de Flavio Bolsonaro",
-    "d": "Tribunal tomou sequência de decisões banindo e, posteriormente, liberando comunidade pró-Lula administrada pelo deputado André Janones (Rede-MG). Após liberação do canal, Kássio Nunes Marques ordenou investigação.",
-    "link": "https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-12T19:08:47.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
     "d": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work devel…",
     "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
     "time": "2026-10-12T14:20:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo",
-    "d": "Filho do ex-presidente Jair Bolsonaro defende enxugar a máquina e fazer cortes em ministérios, enquanto Lula fala de valorização de servidores.",
-    "link": "https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-12T08:16:33.000Z"
   },
   {
     "cat": "economia",
@@ -622,13 +622,5 @@
     "d": "Skits and parodies making fun of the trillion-dollar industry have taken over social media, racking up millions of views Johnny Hilbrant Partridge kept getting stuck next to the same kind of finance guy at weddings –…",
     "link": "https://www.theguardian.com/us-news/2026/oct/09/anti-private-equity-comedy-influencers",
     "time": "2026-10-09T11:00:26.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-    "d": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a mini…",
-    "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-    "time": "2026-10-09T09:59:06.000Z"
   }
 ]
