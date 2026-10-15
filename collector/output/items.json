@@ -1,43 +1,259 @@
 [
   {
-    "cat": "economia",
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+    "d": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-15T22:37:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mendonça segue Plenário e proíbe vídeo de Lula que liga Flávio a milícias",
+    "d": "Relator diz que antes defendia visão mais \"ampla da crítica política\", mas que agora aplicará entendimento restritivo do TSE; campanha do petista não pode reimpulsionar nem republicar a peça",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/mendonca-segue-plenario-e-proibe-video-de-lula-que-liga-flavio-a-milicias/",
+    "time": "2026-10-15T22:35:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“OAB da Medicina”: Senado aprova MP que obriga provas durante o curso",
+    "d": "Medida, que vai à sanção, passa a valer para novos ingressantes no curso de medicina; MEC também anunciou punição a instituições que apresentarem resultados insatisfatórios na avaliação",
+    "link": "https://www.cnnbrasil.com.br/politica/oab-da-medicina-senado-aprova-mp-que-obriga-provas-durante-o-curso/",
+    "time": "2026-10-15T22:33:01.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
-    "h": "Petrobras bate recorde e chega a R$ 800 bilhões em valor de mercado; ações sobem até 110% em 2026",
-    "d": "A Petrobras bateu mais um recorde de valor de mercado, ao atingir R$ 800 bilhões no encerramento do pregão na B3 nesta quarta-feira (14), a primeira vez que a companhia supera esse patamar. O novo marco dá sequência a…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
-    "time": "2026-10-15T19:31:03.000Z"
+    "h": "'OAB da Medicina': Congresso aprova lei que prevê obrigatoriedade de prova para médicos",
+    "d": "Exame Nacional vai aferir nível de qualidade do ensino das instituições do curso de medicina Assessoria O Senado aprovou nesta quinta-feira (15) uma lei que torna obrigatório o Exame Nacional de Avaliação da Formação…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-congresso-aprova-lei-que-preve-obrigatoriedade-de-prova-para-medicos.ghtml",
+    "time": "2026-10-15T22:29:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enchentes deixam três mortos em Istambul após chuvas mais fortes em décadas",
+    "d": "Pelo menos 2,7 mil pessoas tiveram que fugir após fortes chuvas atingirem a cidade; moradores culpam a prefeitura pelas condições do sistema de esgoto",
+    "link": "https://www.cnnbrasil.com.br/internacional/enchentes-deixam-mortos-istambul/",
+    "time": "2026-10-15T22:29:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Caçadores da Sibéria abrem temporada de caça aos ursos após ataques fatais",
+    "d": "População relatou medo e mudança na rotina após série de encontros mortais com os animais; governo afirmou que está elaborando ações para controlar quantidade de ursos-pardos",
+    "link": "https://www.cnnbrasil.com.br/internacional/cacadores-da-siberia-abrem-temporada-de-caca-aos-ursos-apos-ataques-fatais/",
+    "time": "2026-10-15T22:26:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tenista leva suspensão até 2050 por “rede corrupta” de manipulação de jogos",
+    "d": "Sanção aplicada está entre as mais duras vistas em casos de corrupção no tênis, ficando atrás apenas das exclusões definitivas da modalidade",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/tenista-leva-suspensao-ate-2050-por-rede-corrupta-de-manipulacao-de-jogos/",
+    "time": "2026-10-15T22:25:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mussa: Projetos sustentáveis emperram em contratos, não na falta de recurso",
+    "d": "",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/mussa-projetos-sustentaveis-emperram-em-contratos-nao-na-falta-de-recurso/",
+    "time": "2026-10-15T22:22:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Marinho diz que Alcolumbre atua a serviço do governo Lula",
+    "d": "Líder do PL e coordenador da campanha de Flávio criticou adiamento da PEC da Segurança e debate sobre maioridade penal",
+    "link": "https://www.cnnbrasil.com.br/politica/marinho-diz-que-alcolumbre-atua-a-servico-do-governo-lula/",
+    "time": "2026-10-15T22:21:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Tecnicamente empatado com Lula, Flávio Bolsonaro comemora Datafolha: 'Pode ter certeza que é muito mais na frente'",
+    "d": "Flávio Bolsonaro com Guilherme Derrite (à esq) e Nikolas Ferreira (à dir.) em live no dia 15 de outubro Reprodução Candidato à Presidência pelo PL, Flávio Bolsonaro comentou durante uma live os resultados de pesquisa…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/live-flavio-bolsonaro-datafolha-empate-tecnico-lula.ghtml",
+    "time": "2026-10-15T22:20:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "De base militar a Hollywood: o diretor por trás da transformação de um terreno histórico em estúdios de cinema",
+    "d": "Tyler Perry comprou parte da antiga Fort McPherson por US$ 30 milhões e criou um espaço com 12 estúdios de gravação, edifícios históricos e uma réplica da Casa Branca",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/de-base-militar-a-hollywood-o-diretor-por-tras-da-transformacao-de-um-terreno-historico-em-estudios-de-cinema/",
+    "time": "2026-10-15T22:19:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE determina que Meta não interfira em distribuição de conteúdo político-eleitoral sobre qualquer candidato",
+    "d": "O Tribunal Superior Eleitoral (TSE) determinou, que até o fim do segundo turno das eleições, sob pena de multa diária de R$ 500 mil, a Meta não interfira na distribuição de conteúdo político-eleitoral sobre qualquer c…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/15/tse-determina-que-meta-nao-interfira-em-distribuicao-de-conteudo-politico-eleitoral-sobre-qualquer-candidato.ghtml",
+    "time": "2026-10-15T22:18:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: Violência, saúde e economia lideram preocupações dos eleitores",
+    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45% A violência é o principal problema do Brasil para 20% dos eleitores, segundo pesquisa Datafolha divulgada nesta quinta-feira (15). A saúde aparece na segunda posiç…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-violencia-saude-economia-preocupacao-eleitores.ghtml",
+    "time": "2026-10-15T22:05:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Datafolha: violência, saúde e economia são piores problemas do país",
+    "d": "Levantamento ouviu 2.520 eleitores em outubro para avaliar os principais problemas do país, com margem de erro de dois pontos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-violencia-saude-e-economia-sao-piores-problemas-do-pais/",
+    "time": "2026-10-15T22:04:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cinemark anuncia Temporada do Terror com ingressos por R$ 13",
+    "d": "Rede de cinemas exibe clássicos e novidades do gênero entre os dias 16 e 31 de outubro com preços promocionais",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/cinemark-anuncia-temporada-do-terror-com-ingressos-por-r-13/",
+    "time": "2026-10-15T22:04:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Israel alerta Irã e Hezbollah contra interferência nas eleições",
+    "d": "Embaixador do país nas Nações Unidas pontuou que qualquer ataque ou ação do tipo traria \"consequências devastadoras\" aos perpetradores",
+    "link": "https://www.cnnbrasil.com.br/internacional/israel-alerta-ira-e-hezbollah-contra-interferencia-nas-eleicoes/",
+    "time": "2026-10-15T22:04:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: Lula é rejeitado por 46%, e Flávio Bolsonaro, por 44%",
+    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45% Pesquisa Datafolha divulgada nesta quinta-feira (15) mostra que 46% dos eleitores entrevistados dizem rejeitar Lula (PT), e 44% rejeitam Flávio Bolsonaro (PL). Dat…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-rejeicao-15-outubro.ghtml",
+    "time": "2026-10-15T22:02:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Perícia em eletrônicos motivou prorrogação de prisão de Milton Leite em SP",
+    "d": "Equipamentos foram enviados à Unidade de Inteligência Policial do DEMACRO para quebra técnica e extração de informações",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/pericia-em-eletronicos-motivou-prorrogacao-de-prisao-de-milton-leite-em-sp/",
+    "time": "2026-10-15T21:57:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: 50% desaprovam Lula, e 48% aprovam",
+    "d": "O presidente brasileiro Luiz Inácio Lula da Silva, candidato do Partido dos Trabalhadores (PT) à reeleição, discursa durante cerimônia no Palácio do Planalto, em Brasília, Brasil, em 13 de outubro de 2026 REUTERS/Adri…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-lula-aprovacao.ghtml",
+    "time": "2026-10-15T21:51:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Senado aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes",
+    "d": "Senado aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes O Senado Federal aprovou nesta quinta-feira (15) projeto de lei que amplia o limite de faturamento para enquadramento de Microempreended…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
+    "time": "2026-10-15T21:51:06.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Letters with 'suspicious substances' sent to US election offices",
+    "h": "Letters with 'suspicious substances' sent to US senators and election offices",
     "d": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
     "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-15T19:13:09.000Z"
+    "time": "2026-10-15T21:42:26.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mendonça manda remover vídeo com IA em que Flávio aparece em “Corrup-Samba”",
-    "d": "Em decisão liminar, relator no TSE vê indício de deepfake em cenas realistas e dá três horas para a retirada do conteúdo no Instagram",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/mendonca-manda-remover-video-com-ia-em-que-flavio-aparece-em-corrup-samba/",
-    "time": "2026-10-15T19:11:10.000Z"
+    "src": "G1",
+    "h": "Senado tira da pauta discussão de PEC da Segurança Pública",
+    "d": "Senado tira da pauta discussão de PEC da Segurança Pública Tema é considerado prioritário para governo Lula, que pretende, após aprovação, criar o Ministério da Segurança Pública. O presidente do Senado, Davi Alcolumb…",
+    "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
+    "time": "2026-10-15T21:39:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45%",
+    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45% Pesquisa Datafolha divulgada nesta quinta-feira (15) mostra que, a dez dias do 2º turno, Flávio Bolsonaro (PL) tem 47% das intenções de voto, e Lula (PT) tem 45%.…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml",
+    "time": "2026-10-15T21:32:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Sem acordo sobre maioridade penal, Alcolumbre tira de pauta a PEC da Segurança",
+    "d": "Alcolumbre tira de pauta a PEC do Segurança O presidente do Senado, Davi Alcolumbre (União-AP), retirou de pauta da sessão desta quinta-feira (15) a votação da PEC da Segurança. A votação estava prevista para esta ses…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/15/alcolumbre-tira-de-pauta-a-pec-do-seguranca.ghtml",
+    "time": "2026-10-15T21:31:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Alcolumbre diz que vai promulgar fim da 6x1 e aposentadoria especial para agentes de saúde na sexta",
+    "d": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), que também o presidente do Congresso Nacional, afirmou que vai promulgar na sexta-feira (16) a Proposta de Emenda à Constituição (PEC) do fim da 6x1 e a PEC…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/15/alcolumbre-diz-que-vai-promulgar-fim-da-6x1-e-aposentadoria-especial-para-agentes-comunitarios-de-saude.ghtml",
+    "time": "2026-10-15T21:29:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Transporte coletivo: Lula diz que vai enviar ao Congresso PEC para garantir tarifa zero aos finais de semana com dinheiro de emendas",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) afirmou que vai enviar ao Congresso Nacional uma Proposta de Emenda a Constituição (PEC) que prevê tarifa zero para ônibus aos finais de semana em todo o país. Em uma public…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/transporte-coletivo-lula-diz-que-vai-enviar-ao-congresso-pec-para-garantir-tarifa-zero-aos-finais-de-semana-com-dinheiro-de-emendas.ghtml",
+    "time": "2026-10-15T21:10:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Vorcaro disse 'te amo' para Gusttavo Lima e tratava cantor como 'sócio' em bet",
+    "d": "Defesa do cantor diz que seu nome nunca constou do contrato social da VaiDeBet",
+    "link": "https://www.bbc.com/portuguese/articles/c6m2d4x73dz9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-15T20:59:27.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Seguro contra inadimplência bate recorde com temor de crédito ligado à IA",
-    "d": "Dados de inflação nos EUA mais elevados do que o esperado estão aumentando as preocupações sobre a rapidez com que o investimento maciço em inteligência artificial se traduzirá em lucros",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/seguro-contra-inadimplencia-bate-recorde-com-temor-de-credito-ligado-a-ia/",
-    "time": "2026-10-15T19:10:24.000Z"
+    "src": "G1",
+    "h": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI",
+    "d": "FMI diz que inteligência artificial e geopolítica estão moldando a economia global O Brasil deve voltar ao posto de oitava maior economia do mundo em 2027, ultrapassando a Itália e a Rússia, segundo as projeções do Fu…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/15/brasil-deve-voltar-ao-top-8-das-maiores-economias-do-mundo-em-2027-preve-fmi.ghtml",
+    "time": "2026-10-15T20:41:29.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Casas Bahia fecha acordo que prevê mais de R$ 33 milhões para trabalhadores demitidos",
+    "d": "Loja das Casas Bahia em shopping de São José dos Campos é fechada. Sarah Brito/g1 O Grupo Casas Bahia fechou um acordo com a Confederação Nacional dos Trabalhadores no Comércio (CNTC) que prevê o pagamento de indeniza…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/casas-bahia-acordo-demissao-massa.ghtml",
+    "time": "2026-10-15T20:33:18.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Redução da maioridade penal expõe contradição do PT",
-    "d": "Bancada petista resiste à redução da maioridade para 16 anos; Pedro Venceslau aponta movimento de Camilo Santana como estratégia eleitoral",
-    "link": "https://www.cnnbrasil.com.br/politica/analise-reducao-da-maioridade-penal-expoe-contradicao-do-pt/",
-    "time": "2026-10-15T19:09:52.000Z"
+    "src": "BBC News Brasil",
+    "h": "Por que Kassio Nunes Marques virou alvo de críticas por suas decisões à frente do TSE",
+    "d": "Críticos acusam Nunes Marques de agir para favorecer campo bolsonarista contra Lula; para especialistas eleitorais, Moraes teve conduta questionável, mas mirava conter ataques à Corte Eleitoral, não impactar candidaturas",
+    "link": "https://www.bbc.com/portuguese/articles/ckz7x0j4lx1do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-15T20:11:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Petrobras bate recorde e chega a R$ 800 bilhões em valor de mercado; ações sobem até 110% em 2026",
+    "d": "Petrobras faz nova descoberta de petróleo em poço na costa do Amapá A Petrobras bateu recorde no valor de mercado ao atingir R$ 800 bilhões no encerramento do pregão na B3 nesta quarta-feira (14), a primeira vez que a…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
+    "time": "2026-10-15T19:31:03.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "BBC News Brasil",
+    "h": "Impacto do fim da escala 6x1 na economia: o que mostram exemplos de redução de jornada em países europeus",
+    "d": "Experiências no exterior apontam um crescimento 'relativamente robusto' do PIB em países que reduziram jornada de trabalho.",
+    "link": "https://www.bbc.com/portuguese/articles/c6x2v01kke3zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-15T19:29:45.000Z"
   },
   {
     "cat": "economia",
@@ -49,99 +265,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após prisões em massa, Bukele avalia soltar 50% de presos ligados a gangues",
-    "d": "Presidente de El Salvador afirmou que esta medida estaria sujeita a uma supervisão e dependeria de uma avaliação individual de cada caso",
-    "link": "https://www.cnnbrasil.com.br/internacional/apos-prisoes-em-massa-bukele-avalia-soltar-50-de-presos-ligados-a-gangues/",
-    "time": "2026-10-15T19:08:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Schick brilha, e Leverkusen goleia Lech Poznan na Europa League",
-    "d": "Com dois gols de pênalti de Patrick Schick, Leverkusen faz 4 a 0 no Lech Poznan e assume liderança da fase de liga da competição europeia",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/schick-brilha-e-leverkusen-goleia-lech-poznan-na-europa-league/",
-    "time": "2026-10-15T19:07:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Com show de Cisse, Milan goleia Salzburg por 4 a 0 na Liga Europa",
-    "d": "Jovem italiano de 19 anos marca três vezes na Áustria, e Gonçalo Ramos completa a vitória dos visitantes pela segunda rodada da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/com-show-de-cisse-milan-goleia-salzburg-por-4-a-0-na-liga-europa/",
-    "time": "2026-10-15T19:06:27.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Ouro sobe com expectativas de manutenção dos juros pelo Fed",
-    "d": "Na Comex, metal para dezembro encerrou em alta de 1,51%, a US$ 4.170,10 por onça-troy",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-sobe-com-expectativas-de-manutencao-dos-juros-pelo-fed/",
-    "time": "2026-10-15T19:05:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "MEIs, bancários e salários mais altos: Quem “fica de fora” do fim da 6×1",
-    "d": "Proposta reduz a carga horária total semanal para 40 horas semanais; trabalhadores serão submetidos à cinco dias de trabalho e dois dias de descanso",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/meis-bancarios-e-salarios-mais-altos-quem-fica-de-fora-do-fim-da-6x1/",
-    "time": "2026-10-15T19:05:26.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fim da escala 6x1 foi aprovado no Senado, o que acontece agora?",
     "d": "Mudanças para o trabalhador devem começar gradualmente em dezembro, com redução efetiva para 40 horas semanais prevista para o segundo semestre de 2027",
     "link": "https://www.bbc.com/portuguese/articles/cmp3gnwvlwv1o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-15T19:05:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "França apresentará plano agrícola de até 700 milhões de euros para 2027",
-    "d": "Plano com valor ainda provisório será adicional a um pacote de ajuda emergencial de 1,3 bilhão de euros, anunciado no mês passado",
-    "link": "https://www.cnnbrasil.com.br/agro/franca-apresentara-plano-agricola-de-ate-700-milhoes-de-euros-para-2027/",
-    "time": "2026-10-15T19:04:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câmara aprova MP que obriga aprovação em exame para exercer a medicina",
-    "d": "Medida Provisória do governo determina que médicos formados precisam prestar o Enamed para exercerem a profissão. MEC havia anunciado punição para cursos",
-    "link": "https://www.cnnbrasil.com.br/politica/camara-aprova-mp-que-obriga-aprovacao-em-exame-para-exercer-a-medicina/",
-    "time": "2026-10-15T19:04:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Safra de grãos deve bater recorde em 2026, estima IBGE",
-    "d": "Produção cresce 2,4% em relação a 2025, impulsionada pela soja; arroz e trigo devem registrar queda no ano",
-    "link": "https://www.cnnbrasil.com.br/agro/safra-de-graos-deve-bater-recorde-em-2026-estima-ibge/",
-    "time": "2026-10-15T19:04:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Australiana avança em projeto de terras raras na Amazônia com aval do Incra",
-    "d": "Brazilian Critical Minerals recebeu autorização regional para acesso de terras no Amazonas; aprovação definitiva ainda depende de Brasília",
-    "link": "https://www.cnnbrasil.com.br/infra/australiana-avanca-em-projeto-de-terras-raras-na-amazonia-com-aval-do-incra/",
-    "time": "2026-10-15T19:02:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "As decisões de Kassio Nunes Marques à frente do TSE - e por que elas viraram motivo de críticas ao ministro",
-    "d": "Críticos acusam Nunes Marques de agir para favorecer campo bolsonarista contra Lula; para especialistas eleitorais, Moraes teve conduta questionável, mas mirava conter ataques à Corte Eleitoral, não impactar candidaturas",
-    "link": "https://www.bbc.com/portuguese/articles/ckz7x0j4lx1do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-15T18:35:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'OAB da Medicina': Câmara aprova medida que prevê obrigatoriedade de três provas durante o curso",
-    "d": "A Câmara dos Deputados aprovou nesta quinta-feira (15) a proposta que estabelece novas diretrizes para a aplicação do Exame Nacional de Avaliação da Formação Médica (Enamed). Entre as novas regras, estão a exigência d…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-camara-aprova-medida-que-preve-obrigatoriedade-de-tres-provas-durante-o-curso.ghtml",
-    "time": "2026-10-15T18:34:04.000Z"
   },
   {
     "cat": "economia",
@@ -160,14 +288,6 @@
     "time": "2026-10-15T18:02:16.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT, nesta quinta (15)",
-    "d": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT, nesta quinta (15) O presidente Lula, candidato à reeleição pelo PT, dá entrevista à jornalista Renata Lo Prete nesta quinta-feira (15).. O programa é tra…",
-    "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
-    "time": "2026-10-15T18:00:02.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -184,26 +304,10 @@
     "time": "2026-10-15T17:39:08.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Redução da maioridade penal entra na discussão da PEC da Segurança; Brasil já previu punição de crianças a partir dos 7 anos",
-    "d": "Maioridade penal: Brasil já previu punição de crianças a partir de 7 anos; veja histórico O plenário do Senado deve votar nesta quinta-feira (15) a PEC da Segurança Pública, e a oposição vai tentar usar a sessão para…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/15/reducao-da-maioridade-penal-entra-na-discussao-da-pec-da-seguranca.ghtml",
-    "time": "2026-10-15T17:34:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "No horário eleitoral, Lula questiona posição de Flávio sobre fim da escala 6x1; candidato do PL aborda Ministério da Prosperidade",
-    "d": "Flávio Bolsonaro e Lula REUTERS/Diego Vara e REUTERS/Adriano Machado A propaganda eleitoral gratuita dos candidatos à Presidência da República desta quinta-feira (15) foi marcada por críticas de Luiz Inácio Lula da Si…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/horario-eleitoral-14-outubro-presidente.ghtml",
-    "time": "2026-10-15T17:30:39.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "TCU condiciona análise de contas do BC à conclusão da análise de liquidação do Banco Master",
-    "d": "A decisão foi tomada na sessão da 2ª Câmara do TCU, na última terça-feira (13), em uma análise em rea, ou seja, junto com outros processos e sem discussãoa atuação da autoridade monetária na liquidação extrajudicial d…",
+    "d": "O Tribunal de Contas da União (TCU) decidiu condicionar o julgamento das contas do Banco Central referentes a 2025 à conclusão do processo que analisa a atuação da autoridade monetária na liquidação extrajudicial do B…",
     "link": "https://g1.globo.com/economia/noticia/2026/10/15/tcu-condiciona-analise-de-contas-do-bc-a-conclusao-da-analise-de-liquidacao-do-banco-master.ghtml",
     "time": "2026-10-15T17:19:31.000Z"
   },
@@ -214,14 +318,6 @@
     "d": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
     "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-15T17:18:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Plenário do Senado discute PEC da Segurança Pública; votação pode ser ainda hoje",
-    "d": "Plenário do Senado discute PEC da Segurança Pública; votação pode ser ainda hoje Tema é considerado prioritário para governo Lula, que pretende, após aprovação, criar o Ministério da Segurança Pública. O plenário do S…",
-    "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
-    "time": "2026-10-15T17:06:55.000Z"
   },
   {
     "cat": "internacional",
@@ -257,27 +353,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "'OAB da Medicina': Comissão do Congresso aprova MP que prevê obrigatoriedade de prova para médicos",
-    "d": "Uma comissão mista do Congresso Nacional aprovou nesta quinta-feira (15) o parecer de uma medida provisória que torna obrigatório o Exame Nacional de Avaliação da Formação Médica (Enamed) para estudantes de Medicina.…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-comissao-do-congresso-aprova-obrigatoriedade-de-prova-para-medicos.ghtml",
-    "time": "2026-10-15T15:58:57.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
     "d": "Trabalhadoras sem rede de apoio relatam dificuldades que a jornada 6x1 impunha na convivência com os filhos e como isso pode mudar daqui para a frente.",
     "link": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-15T15:57:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Pesquisas a 10 dias do 2º turno — o que diziam em 2018 e 2022 e o que mostram agora",
-    "d": "Em 2026, Flávio lidera as intenções de voto. Em 2022, preferência do eleitorado era de Lula. Já em 2018, maioria dizia que votaria em Jair Bolsonaro. Veja os gráficos na reportagem.",
-    "link": "https://www.bbc.com/portuguese/articles/cmx2dqy4jw91o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-15T15:46:52.000Z"
   },
   {
     "cat": "internacional",
@@ -304,7 +384,7 @@
     "time": "2026-10-15T15:11:21.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Para proteger menores, governo pede fiscalização de seis jogos com riscos semelhantes aos das bets",
     "d": "O Ministério da Justiça pediu à Agência Nacional de Proteção de Dados (ANPD), por meio de nota técnica, uma investigação sobre seis jogos que contêm as chamadas caixas de recompensa (loot boxes) por exporem crianças e…",
@@ -328,14 +408,6 @@
     "time": "2026-10-15T15:00:05.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Redução da maioridade penal: líder do PT defende 16 anos para crimes hediondos; oposição quer 14 anos para crimes graves",
-    "d": "Às vésperas da votação da proposta de emenda à Constituição (PEC) da Segurança no Senado, PT e oposição passaram a discutir propostas diferentes para reduzir a maioridade penal. O líder do PT no Senado, Camilo Santana…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/15/reducao-da-maioridade-penal-lider-do-pt-sugere-16-anos-para-crimes-hediondos-oposicao-quer-14-anos-para-crimes-graves.ghtml",
-    "time": "2026-10-15T14:51:53.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -344,36 +416,12 @@
     "time": "2026-10-15T14:51:30.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Globo e afiliadas realizam entrevistas com candidatos ao governo do DF, AM, ES, RN e TO",
-    "d": "Os candidatos ao 2º turno serão sabatinados nos jornais da TV Globo e afiliadas. A conversa faz parte da cobertura do segundo turno das Eleições 2026. Veja abaixo como assistir no g1. Entrevista de Lula na Globo acont…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/jornais-entrevistas-com-candidatos-ao-governo-no-2o-turno-como-assistir.ghtml",
-    "time": "2026-10-15T14:46:47.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Tech market sell-off deepens amid fears over US inflation and AI debt",
     "d": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is comi…",
     "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
     "time": "2026-10-15T14:33:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Por unanimidade, TSE derruba prazo de 48 horas para uso de canais registrados de forma tardia por campanhas",
-    "d": "O Tribunal Superior Eleitoral (TSE) decidiu, por unanimidade, nesta quinta-feira (15) derrubar o prazo, que estava previsto em uma resolução da própria Corte, de 48 horas para uso de canais eletrônicos registrados de…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/por-unanimidade-tse-derruba-prazo-de-48-horas-para-uso-de-canais-registrados-de-forma-tardia-por-campanhas.ghtml",
-    "time": "2026-10-15T14:12:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fim da escala 6x1: como reclamação de balconista de farmácia nas redes virou pauta aprovada no Congresso; ouça 'O Assunto'",
-    "d": "O desabafo de um balconista de farmácia nas redes sociais ajudou a transformar o fim da escala 6x1 em uma pautas importante do debate político brasileiro. A Proposta de Emenda à Constituição (PEC) foi aprovada no Cong…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/15/fim-da-escala-6x1-como-reclamacao-de-balconista-de-farmacia-nas-redes-virou-pauta-aprovada-no-congresso-ouca-o-assunto.ghtml",
-    "time": "2026-10-15T14:08:01.000Z"
   },
   {
     "cat": "brasil",
@@ -392,14 +440,6 @@
     "time": "2026-10-15T13:30:11.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "Fim da escala 6x1 é fruto de luta dos trabalhadores, não do governo, diz sociólogo",
-    "d": "Professor da Unicamp diz que conquista é importante para trabalhadores, e que governo Lula poderia ter pautado redução da jornada mais cedo.",
-    "link": "https://www.bbc.com/portuguese/articles/ck1wv3z8epx9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-15T13:06:21.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'As gangues, as armas e a batalha pelo Brasil': jornal britânico destaca protagonismo da violência de facções criminosas na eleição",
@@ -416,30 +456,6 @@
     "time": "2026-10-15T12:22:12.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
-    "d": "Como funcionam as principais escalas de trabalho no Brasil? A Proposta de Emenda à Constituição (PEC) que prevê o fim da escala 6x1, com dois dias de descanso remunerado por semana, foi aprovada pelo Senado nesta quar…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
-    "time": "2026-10-15T12:18:57.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Correios oferece descarte gratuito de eletrônicos em 6 mil agências",
-    "d": "Correios Marcelo Camargo Os Correios passam a receber, a partir deste mês, equipamentos eletroeletrônicos para descarte em mais de 6 mil agências que oferecem o serviço Balcão do Cidadão. A iniciativa, realizada em pa…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/correios-oferecem-descarte-gratuito-de-eletronicos-em-6-mil-agencias.ghtml",
-    "time": "2026-10-15T12:04:03.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar opera em alta e vai a R$ 5,07, com foco em inflação americana e pesquisas eleitorais; Ibovespa cai",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quinta-feira (15), com um avanço de 0,99% perto das 16h, cotado a R$ 5,0781. Já o Ibovespa, principal índice da bolsa brasileira, tinha qued…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/15/dolar-ibovespa.ghtml",
-    "time": "2026-10-15T12:00:20.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fim da escala 6x1 é 'vitória' e dá 'impulso eleitoral' para Lula, destaca imprensa internacional",
@@ -451,17 +467,9 @@
     "cat": "economia",
     "src": "The Guardian",
     "h": "Gen Z wrestle with shame from ordering delivery food: ‘This economy is not for the weak’",
-    "d": "As Americans use apps like DoorDash and Uber Eats more habitually, they confront the guilt of paying extra fees for convenience When it comes to food, Caroline Bauldree does not like to “deprive” herself of anything.…",
+    "d": "As Americans use apps like DoorDash and Uber Eats more habitually, they confront the guilt of paying extra fees for convenience Tell us: what is your personal ‘recession indicator’? When it comes to food, Caroline Bau…",
     "link": "https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy",
     "time": "2026-10-15T11:00:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Obama says drift towards extremism 'not inevitable'",
-    "d": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
-    "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-15T10:51:53.000Z"
   },
   {
     "cat": "brasil",
@@ -483,7 +491,7 @@
     "cat": "economia",
     "src": "The Guardian",
     "h": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
-    "d": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll Our reporters answer your questions about the US economy and the midterm elections What is your per…",
+    "d": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll Tell us: what is your personal ‘recession indicator’? With the midterm elections less than three we…",
     "link": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
     "time": "2026-10-15T09:00:13.000Z"
   },
