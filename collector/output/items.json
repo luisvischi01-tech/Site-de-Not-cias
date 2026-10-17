@@ -1,107 +1,187 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+    "d": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+    "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-16T23:54:35.000Z"
+  },
+  {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Estela Aranha manda Flávio apagar post que sugere que Lula fecharia igrejas",
-    "d": "Ministra do TSE diz que publicação insinua ameaça à liberdade religiosa sem apresentar fatos e reproduz narrativa já tida como falsa pela Corte em 2022",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/estela-aranha-manda-flavio-apagar-post-que-sugere-que-lula-fecharia-igrejas/",
-    "time": "2026-10-16T21:35:29.000Z"
+    "src": "G1",
+    "h": "DAQUI A POUCO: Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL",
+    "d": "DAQUI A POUCO: Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL O candidato à Presidência pelo PL, Flávio Bolsonaro, dá entrevista à jornalista Renata Lo Prete nesta sexta-feira (16).. O pr…",
+    "link": "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml",
+    "time": "2026-10-16T23:23:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Pope pictured for first time since surgery and cancer diagnosis",
+    "d": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-16T23:20:37.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "À CNN, Zucco fala sobre articulação de estados para criar fundo Sul-Sudeste",
-    "d": "Governador eleito do Rio Grande do Sul defendeu a união de estados comandados pela direita conservadora a favor de interesses comuns, como a renegociação de dívidas e a criação do fundo Sul-Sudeste",
-    "link": "https://www.cnnbrasil.com.br/politica/a-cnn-zucco-fala-sobre-articulacao-de-estados-para-criar-fundo-sul-sudeste/",
-    "time": "2026-10-16T21:34:07.000Z"
+    "h": "O livro que ninguém consegue ler: manuscrito medieval desafia até a inteligência artificial",
+    "d": "Documento do século XVI de autoria e língua desconhecidas, representa um desafio que ainda intriga estudiosos até os dias de hoje",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/o-livro-que-ninguem-consegue-ler-manuscrito-medieval-desafia-ate-a-inteligencia-artificial/",
+    "time": "2026-10-16T23:20:35.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Premiê da Albânia diz que há “mãos estrangeiras” por trás de protestos",
-    "d": "Manifestantes acusam autoridades de corrupção e de negligência com a educação; agitação tem gerado violência nas ruas da capital Tirana",
-    "link": "https://www.cnnbrasil.com.br/internacional/premie-da-albania-diz-que-ha-maos-estrangeiras-por-tras-de-protestos/",
-    "time": "2026-10-16T21:30:47.000Z"
+    "h": "Incêndio florestal no sul da Califórnia cresce e atinge residências",
+    "d": "Apelidado de \"Norte Fire\", fenômeno teve início por volta de meio-dia desta sexta-feira (horário local) e se expandiu rapidamente; região recebeu ordens de retirada",
+    "link": "https://www.cnnbrasil.com.br/internacional/incendio-florestal-no-sul-da-california-cresce-e-atinge-residencias/",
+    "time": "2026-10-16T23:19:42.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Flávio faz visita e almoça com cúpula da Globo antes de sabatina",
-    "d": "Emissora diz que campanha de Lula não fez pedido, e por isso não houve encontro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-faz-visita-e-almoca-com-cupula-da-globo-antes-de-sabatina/",
-    "time": "2026-10-16T21:26:54.000Z"
+    "h": "Sem nome no BID, Seedorf fica fora do banco do Corinthians contra o Vitória",
+    "d": "Novo treinador do clube alvinegro ainda não foi registrado no Boletim Informativo Diário (BID) da Confederação Brasileira de Futebol (CBF)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/sem-nome-no-bid-seedorf-fica-fora-do-banco-do-corinthians-contra-o-vitoria/",
+    "time": "2026-10-16T23:18:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Número de estudantes que não tinham lido nenhum livro caiu 25% em 2026",
+    "d": "Estudo com 264 escolas brasileiras mostrou que, em comparação com 2022, alunos passaram a fazer leituras mais complexas e finalizar mais obras",
+    "link": "https://www.cnnbrasil.com.br/educacao/numero-de-estudantes-que-nao-tinham-lido-nenhum-livro-caiu-25-em-2026/",
+    "time": "2026-10-16T23:17:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Globo “não merece confiança”, diz Lula após almoço de Flávio na emissora",
+    "d": "Presidente e candidato à reeleição disse a apoiadores que a emissora \"certamente\" está com raiva dele, durante caminhada em Ipatinga (MG)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/globo-nao-merece-confianca-diz-lula-apos-almoco-de-flavio-na-emissora/",
+    "time": "2026-10-16T23:17:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tiffany consegue liminar para jogar torneios da CBV; entenda",
+    "d": "Entidade pode ser punida por multa caso proíba a participação da atleta de acordo com decisão da Justiça do Rio",
+    "link": "https://www.cnnbrasil.com.br/esportes/volei/tiffany-consegue-liminar-para-jogar-torneios-da-cbv-entenda/",
+    "time": "2026-10-16T23:14:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça torna 12 ex-executivos da Americanas réus por fraude bilionária",
+    "d": "Denúncia havia sido apresentada em 2025 e foi aceita agora pela 6ª Vara Federal Criminal do Rio de Janeiro; processo é desdobramento das investigações sobre inconsistências contábeis que vieram à tona em janeiro de 2023",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria/",
+    "time": "2026-10-16T23:13:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+    "d": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-16T23:07:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+    "d": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-16T23:07:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Queda de avião particular deixa dois mortos em SP",
+    "d": "Acidente aconteceu na pista de um aeroporto particular na cidade de Orlândia e a ocorrência é atendida pela Polícia Militar e pelos Bombeiros",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/queda-de-aviao-particular-deixa-dois-mortos-em-sp/",
+    "time": "2026-10-16T23:05:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vorcaro pede ao STF que investigue vazamento de dados de seu celular",
+    "d": "Defesa do ex-banqueiro diz que áudios, mensagens e conversas com advogados foram divulgados ilegalmente e que o material não pode embasar novas apurações",
+    "link": "https://www.cnnbrasil.com.br/politica/vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular/",
+    "time": "2026-10-16T23:05:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polônia pede a big techs ação contra posts violentos após ataques a escolas",
+    "d": "Varsóvia convocou empresas como Google, Meta, TikTok, Discord e Telegram para conter a disseminação de conteúdos em meio à onda de ameaças online; X, de Elon Musk, não compareceu ao encontro",
+    "link": "https://www.cnnbrasil.com.br/internacional/polonia-pede-acao-contra-posts-violentos-a-big-techs-apos-ataques-a-escolas/",
+    "time": "2026-10-16T23:00:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula deve aceitar indicação de Daniel Perez para embaixada dos EUA",
+    "d": "Parlamentar foi indicado por Trump para a embaixada no Brasil; análise prévia do Itamaraty não vê indícios que desaprove o aval diplomático",
+    "link": "https://www.cnnbrasil.com.br/politica/lula-deve-aceitar-indicacao-de-daniel-perez-para-embaixada-dos-eua/",
+    "time": "2026-10-16T22:55:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro visita sede da Globo no Rio",
+    "d": "O candidato à Presidência Flávio Bolsonaro (PL) visitou a sede da Globo, no Rio de janeiro, nesta sexta-feira (16) e foi recebido pelo presidente do Grupo Globo, João Roberto Marinho, e pelo vice-presidente de Relaçõe…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/16/flavio-bolsonaro-visita-sede-da-globo-no-rio.ghtml",
+    "time": "2026-10-16T22:52:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "MP pede prisão do vice-presidente do Corinthians por escândalo de uniformes",
+    "d": "Pedido contra Armando Mendonça ocorre após a demissão de ex-diretor que atuava como testemunha em investigação sobre desvio de materiais esportivos",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mp-pede-prisao-do-vice-presidente-do-corinthians-por-escandalo-de-uniformes/",
+    "time": "2026-10-16T22:51:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Corregedor do TSE nega pedido de Flávio Bolsonaro para proibir gravações eleitorais no Planalto e no Alvorada",
+    "d": "O corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, negou nesta sexta-feira (16) um pedido do candidato à Presidência Flávio Bolsonaro (PL) para proibir, de forma genérica, a realização de liv…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/corregedor-do-tse-nega-pedido-de-flavio-bolsonaro-para-proibir-gravacoes-eleitorais-no-planalto-e-no-alvorada.ghtml",
+    "time": "2026-10-16T22:46:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro",
+    "d": "Este será o primeiro confronto direto entre Lula e Flávio Bolsonaro, já não houve debate entre os candidatos à frente na pesquisa no primeiro turno.",
+    "link": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-16T22:03:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha: 96% pretendem ir votar no 2º turno; 1% diz que não vai",
+    "d": "Urna eletrônica EPTV/Reprodução Pesquisa Datafolha divulgada nesta sexta-feira (16) indica que 96% dos eleitores brasileiros pretendem ir votar no 2º turno, em 25 de outubro. Outro 1% diz que não tem a intenção de com…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/16/datafolha-intencao-ir-votar-2-turno.ghtml",
+    "time": "2026-10-16T21:52:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE mantém decisão que determinou que Meta não interfira em distribuição de conteúdo político-eleitoral",
+    "d": "Flávio Bolsonaro (PL) e Lula (PT) disputam o 2º turno Diego Herculano/Reuters e Adriano Machado/Reuters O Tribunal Superior Eleitoral (TSE) manteve, por unanimidade, a decisão do ministro Marco Aurélio Bellizze que de…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/16/tse-que-meta-nao-interfira-em-distribuicao-de-conteudo-politico-eleitoral.ghtml",
+    "time": "2026-10-16T21:51:22.000Z"
   },
   {
     "cat": "brasil",
     "src": "G1",
     "h": "Zanin será relator de ação do PSD que tenta restabelecer segundo turno entre Paes e Ruas no RJ",
-    "d": "Eduardo Paes e Douglas Ruas Montagem g1 O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), será o relator da ação do PSD que tenta restabelecer o segundo turno da eleição para governador do Rio de Janeiro…",
+    "d": "Cristiano Zanin em sessão plenária no STF Victor Piemonte/STF O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), será o relator da ação do PSD que tenta restabelecer o segundo turno da eleição para governa…",
     "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/16/zanin-sera-relator-de-acao-do-psd-que-tenta-restabelecer-segundo-turno-entre-paes-e-ruas-no-rj.ghtml",
     "time": "2026-10-16T21:25:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Macron critica acordo de Trump sobre diesel da Rússia: “Não é útil”",
-    "d": "Presidente da França reafirmou o apoio europeu à Ucrânia, declarando que a Europa não abandonará Kiev em sua resistência contra a guerra de agressão movida pela Rússia",
-    "link": "https://www.cnnbrasil.com.br/internacional/macron-critica-acordo-de-trump-sobre-diesel-da-russia-nao-e-util/",
-    "time": "2026-10-16T21:23:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Como o empresariado se prepara para aplicar o fim da escala 6×1",
-    "d": "Nova jornada de trabalho entra em vigor em 15 de dezembro de 2026, com redução gradual de quatro horas semanais em duas etapas; as analistas de Política da CNN Larissa Rodrigues e Edilene Lopes avaliam o tema ao CNN 360°",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-como-o-empresariado-se-prepara-para-aplicar-o-fim-da-escala-6x1/",
-    "time": "2026-10-16T21:22:00.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Exportação do agronegócio do RS cresce 10% em setembro, para US$ 1,86 bi",
-    "d": "Segundo Farsul, receita do setor atingiu US$ 1,86 bilhão no mês com impulso das vendas de soja, celulose, frango e arroz",
-    "link": "https://www.cnnbrasil.com.br/agro/exportacao-do-agronegocio-do-rs-cresce-10-em-setembro-para-us-186-bi-aponta-farsul-2/",
-    "time": "2026-10-16T21:21:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "OMS vai incluir feminicídios na Classificação Internacional de Doenças",
-    "d": "Medida proposta pelo Ministério da Saúde busca dar visibilidade às agressões e mortes motivadas por discriminação ou ódio contra mulheres",
-    "link": "https://www.cnnbrasil.com.br/saude/oms-vai-incluir-feminicidios-na-classificacao-internacional-de-doencas/",
-    "time": "2026-10-16T21:21:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "A história real da ‘maldição’ do faraó Tutancâmon que inspirou ‘A Múmia’",
-    "d": "Franquia de filmes com Brendan Fraser que ganhará continuação em 2027 é baseada em mitologia criada em torno da abertura da tumba de um faraó egípcio",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/a-historia-real-da-maldicao-do-farao-tutancamon-que-inspirou-a-mumia/",
-    "time": "2026-10-16T21:18:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mãe de RJ Mitte, de “Breaking Bad”, diz que encontrou ator morto em casa",
-    "d": "Dyna Mitte abordou o ultimato na relação do artista com a noiva, Kennedy Suarez, mas evitou detalhar os motivos das brigas familiares",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/mae-de-rj-mitte-de-breaking-bad-diz-que-encontrou-ator-morto-em-casa/",
-    "time": "2026-10-16T21:17:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vídeo: “Cachoeira” de nuvens gigante cai sobre cidade no leste da China",
-    "d": "Correntes de nuvem passaram sobre os cumes da Monte Lushan, na província de Jiangxi, antes de preencherem vilarejos na região com névoa",
-    "link": "https://www.cnnbrasil.com.br/internacional/video-cachoeira-de-nuvens-gigante-cai-sobre-cidade-no-leste-da-china/",
-    "time": "2026-10-16T21:15:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TSE veta propaganda de Flávio que usa fala de Lula sobre “toque” e mulheres",
-    "d": "Ministra Estela Aranha, do Tribunal Superior Eleitoral, afirmou que publicação não se trata de \"mera interpretação alternativa de um fato incontroverso\", mas que pode induzir o eleitor ao erro",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-veta-propaganda-de-flavio-que-usa-fala-de-lula-sobre-toque-e-mulheres/",
-    "time": "2026-10-16T21:15:01.000Z"
   },
   {
     "cat": "brasil",
@@ -110,6 +190,14 @@
     "d": "A Polícia Federal (PF) pediu ao ministro André Mendonça, do Supremo Tribunal Federal (STF), a prorrogação do inquérito que investiga o financiamento do filme Dark Horse, que trata da história do ex-presidente Jair Bol…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/16/caso-dark-horse-pf-pede-a-andre-mendonca-prorrogacao-do-inquerito-por-90-dias.ghtml",
     "time": "2026-10-16T21:12:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Katie Zacharia leaving her White House role less than five days on the job",
+    "d": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+    "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-16T21:05:05.000Z"
   },
   {
     "cat": "economia",
@@ -224,36 +312,12 @@
     "time": "2026-10-16T17:36:44.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TSE aprova novas regras para vincular canais de WhatsApp a campanhas eleitorais",
-    "d": "O Tribunal Superior Eleitoral (TSE) aprovou por unanimidade nesta sexta-feira (16) novas regras para definir se um canal em grupo de mensagens instantâneas está ou não vinculado a uma campanha eleitoral. A nova resolu…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tse-nova-regras-para-vincular-canais-de-whatsapp-a-campanhas-eleitorais.ghtml",
-    "time": "2026-10-16T17:36:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PF ouve Augusto Lima, ex-sócio de Vorcaro, sobre negócios entre Master e BRB",
-    "d": "A Polícia Federal ouve nesta sexta-feira (16) o banqueiro Augusto Ferreira Lima, ex-sócio de Vorcaro, sobre os negócios entre o extinto Banco Master e o Banco de Brasília (BRB). Augusto Lima prestou depoimento pela ma…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/16/pf-ouve-augusto-lima-ex-socio-de-vorcaro-sobre-negocios-entre-master-e-brb.ghtml",
-    "time": "2026-10-16T17:06:16.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
     "d": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age…",
     "link": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
     "time": "2026-10-16T16:47:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Cueva rejeita pedido de Flávio para restringir atuação de sindicatos e estudantes",
-    "d": "O corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, deu prazo de 72 horas para que a campanha de Flávio Bolsonaro (PL) detalhe as acusações feitas contra dirigentes de sindicatos, entidades es…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/16/cueva-rejeita-pedido-de-flavio-para-restringir-atuacao-de-sindicatos-e-estudantes.ghtml",
-    "time": "2026-10-16T16:23:00.000Z"
   },
   {
     "cat": "internacional",
@@ -265,27 +329,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "De quem é o projeto que acabou com a escala 6x1? Conheça propostas",
-    "d": "O fim da escala 6x1 e a garantia de dois dias de folga para os trabalhadores tornaram-se oficiais nesta sexta-feira (16). A promulgação no Congresso encerrou uma discussão que começou antes mesmo da Constituição de 19…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/16/de-quem-e-o-projeto-que-acabou-com-a-escala-6x1-conheca-propostas.ghtml",
-    "time": "2026-10-16T15:47:07.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Fim da escala 6x 1 vira lei: os próximo passos e prazos",
     "d": "Mudanças para o trabalhador começa gradualmente em dezembro, com redução efetiva para 40 horas semanais em 14 meses.",
     "link": "https://www.bbc.com/portuguese/articles/cxvgd8qe92vlo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-16T15:40:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Pesquisas para presidente a 10 dias do 2º turno — o que diziam em 2018 e 2022 e o que mostram agora",
-    "d": "Em 2026, Flávio lidera as intenções de voto. Em 2022, preferência do eleitorado era de Lula. Já em 2018, maioria dizia que votaria em Jair Bolsonaro. Veja os gráficos na reportagem.",
-    "link": "https://www.bbc.com/portuguese/articles/cmx2dqy4jw91o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-16T15:35:25.000Z"
   },
   {
     "cat": "economia",
@@ -294,22 +342,6 @@
     "d": "Lula promete transporte gratuito nos finais de semana O presidente Luiz Inácio Lula da Silva, candidato à reeleição, anunciou nesta quinta-feira (15) que enviará ao Congresso Nacional uma Proposta de Emenda à Constitu…",
     "link": "https://g1.globo.com/economia/noticia/2026/10/16/tarifa-zero-nos-onibus-aos-fins-de-semana-pode-reduzir-inflacao-em-025-ponto-percentual-diz-economista.ghtml",
     "time": "2026-10-16T15:30:33.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-    "d": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-16T14:57:51.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Pope pictured for first time since surgery and cancer diagnosis",
-    "d": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-16T14:36:39.000Z"
   },
   {
     "cat": "internacional",
@@ -334,14 +366,6 @@
     "d": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
     "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-16T14:21:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Apesar de votos a favor, nenhum senador da oposição comparece à promulgação da PEC que acaba com a escala 6x1",
-    "d": "Alcolumbre promulga PEC do fim da escala 6x1 Apesar da oposição ter votado majoritariamente a favor da Proposta de Emenda à Constituição (PEC) que acaba com a escala 6x1 e reduz a jornada de trabalho, parlamentares de…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/16/apesar-de-votos-a-favor-apenas-um-senador-da-oposicao-comparece-a-promulgacao-da-pec-que-acaba-com-a-escala-6x1.ghtml",
-    "time": "2026-10-16T14:16:09.000Z"
   },
   {
     "cat": "brasil",
@@ -448,14 +472,6 @@
     "time": "2026-10-16T08:56:12.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-    "d": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-16T08:45:54.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Lojas viraram vitrines da internet? Entenda como os brasileiros estão mudando a forma de comprar",
@@ -496,14 +512,6 @@
     "time": "2026-10-16T02:45:31.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-    "d": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-15T17:47:22.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "People in the US: what is your personal ‘recession indicator’?",
@@ -518,14 +526,6 @@
     "d": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewri…",
     "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
     "time": "2026-10-15T16:38:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-    "d": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-15T15:26:16.000Z"
   },
   {
     "cat": "internacional",
