@@ -1,107 +1,163 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "São Paulo x Vasco: escalações e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes se enfrentam neste sábado (17), no MorumBis, em São Paulo, pela 31ª rodada da Série A do Campeonato Brasileiro; clube carioca quer se afastar da zona de rebaixamento",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-vasco-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-10-17T23:02:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Luchsinger diz à CNN que Lulinha sentou “inúmeras vezes” com ministros",
+    "d": "Empresária aponta que filho do presidente Lula (PT) se reuniu com integrantes do alto escalão do governo federal para discutir políticas públicas",
+    "link": "https://www.cnnbrasil.com.br/politica/luchsinger-diz-a-cnn-que-lulinha-sentou-inumeras-vezes-com-ministros/",
+    "time": "2026-10-17T22:59:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tiquinho decide, Botafogo vence Chapecoense e se afasta do Z4 do Brasileiro",
+    "d": "Atacante aproveitou cruzamento de Matheus Martins e garantiu os três pontos para o Glorioso no Rio de Janeiro; Chape tem rebaixamento quase decretado",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/tiquinho-decide-botafogo-vence-chapecoense-e-se-afasta-do-z4-do-brasileiro/",
+    "time": "2026-10-17T22:57:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Maria do Carmo faz caminhada no Centro de Manaus e apresenta propostas para infraestrutura",
+    "d": "Maria do Carmo faz caminhada no Centro de Manaus e apresenta propostas para infraestrutura. Reprodução/Rede Amazônica A candidata ao governo do Amazonas, Professora Maria do Carmo (PL), fez uma caminhada pela Avenida…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml",
+    "time": "2026-10-17T22:50:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
+    "d": "A campanha do candidato a presidente Flávio Bolsonaro (PL) acionou o Tribunal Superior Eleitoral (TSE) nesta sexta (16) sustentando que tem sido prejudicada pela Meta, big tech responsável por Facebook, Instagram e Wh…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
+    "time": "2026-10-17T22:42:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Prédio incendiado, mais de mil presos: o que está por trás de dia de protestos na França",
+    "d": "Neste sábado (17/10), diversas cidades francesas foram tomadas por milhares de manifestantes que pedem melhorias nos serviços públicos e se queixam do aumento no custo de vida",
+    "link": "https://www.bbc.com/portuguese/articles/ck0546rzg0gvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-17T22:41:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Doenças do sangue: Dr. Kalil e hematologistas detalham sinais precoces",
+    "d": "Ao CNN Sinais Vitais, especialistas explicam como hemograma e mielograma ajudam a identificar leucemias e outras doenças malignas do sangue",
+    "link": "https://www.cnnbrasil.com.br/saude/doencas-do-sangue-dr-kalil-e-hematologistas-detalham-sinais-precoces/",
+    "time": "2026-10-17T22:30:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Antonio Banderas e Nicolas Cage estrelarão 5ª temporada de ‘True Detective’",
+    "d": "Atores se unem ao elenco do novo ano da série da HBO, com gravações previstas para 2027 na baía de Jamaica, em Nova York",
+    "link": "https://www.cnnbrasil.com.br/noticias/antonio-banderas-e-nicolas-cage-estrelarao-5a-temporada-de-true-detective/",
+    "time": "2026-10-17T22:14:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Senadora Republicana diverge de Trump sobre sanções contra a Rússia",
+    "d": "Darline Graham, irmã que assumiu a vaga após o falecimento de Lindsey Graham, defensor da medida, afirmou que preferiria manter a pressão sobre Moscou, acrescentando que não confia em Putin",
+    "link": "https://www.cnnbrasil.com.br/internacional/senadora-republicana-diverge-de-trump-sobre-sancoes-contra-a-russia/",
+    "time": "2026-10-17T22:10:45.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+    "d": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-17T22:09:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vídeo: Estudantes na Albânia usam coquetéis Molotov em 5º dia de protestos",
+    "d": "Atos fazem parte de onda de manifestações espalhadas pela Europa; grupo de manifestantes pede a renúncia do atual primeiro-ministro, Edi Rama",
+    "link": "https://www.cnnbrasil.com.br/internacional/video-estudantes-na-albania-usam-coqueteis-molotov-em-5o-dia-de-protestos/",
+    "time": "2026-10-17T21:54:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tumulto em festival deixa ao menos 17 mortos na Índia, diz mídia local",
+    "d": "Dezenas de pessoas ficaram feridas; Durga Puja, evento hindu anual, estava sendo realizado na cidade de Calcutá, no estado de Bengala Ocidental, no leste do país",
+    "link": "https://www.cnnbrasil.com.br/internacional/tumulto-em-festival-deixa-mortos-na-india/",
+    "time": "2026-10-17T21:51:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como a relação estratégica entre Cuba e Venezuela enfraqueceu após a captura de Maduro",
+    "d": "Nove meses após a captura de Maduro, a aliança estratégica construída ao longo de mais de 25 anos entre os dois governos dá sinais de enfraquecimento",
+    "link": "https://www.bbc.com/portuguese/articles/c5ev3g2rmm42o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-17T21:50:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sandra Bullock celebra 28 anos de ‘Da Magia à Sedução’: “História de amor”",
+    "d": "Atriz relembrou o lançamento da comédia romântica nas redes sociais destacando a superação das críticas da época e a chegada de uma sequência do longa",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/sandra-bullock-celebra-28-anos-de-da-magia-a-seducao-historia-de-amor/",
+    "time": "2026-10-17T21:42:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Pacote de bondades” exige ajuste no orçamento de 2027, diz especialista",
+    "d": "Alexandre Andrade, diretor da Instituição Fiscal Independente (IFI), alerta que novas despesas não constam da proposta orçamentária já enviada ao Congresso",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-bondades-exige-ajuste-no-orcamento-de-2027-diz-especialista/",
+    "time": "2026-10-17T21:36:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Athletico-PR x Palmeiras: escalações e onde assistir ao jogo do Brasileirão",
+    "d": "Equipes se enfrentam neste sábado (17), na Arena da Baixada, em Curitiba, pela 31ª rodada da Série A do Campeonato Brasileiro; Palmeiras busca liderança",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-pr-x-palmeiras-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "time": "2026-10-17T21:34:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como sobreviver ao fim do mundo? Do plantio urbano aos primeiros socorros, confira o guia essencial de sobrevivência",
+    "d": "Conhecimentos que a humanidade vem deixando de lado tornam-se cruciais em um cenário sem tecnologia e com escassez de alimentos disponíveis",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/como-sobreviver-ao-fim-do-mundo-do-plantio-urbano-aos-primeiros-socorros-confira-o-guia-essencial-de-sobrevivencia/",
+    "time": "2026-10-17T21:32:18.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Anti-government protesters battle with police in Albania",
+    "d": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+    "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-17T20:53:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "d": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-17T20:52:17.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que os EUA estão retomando o pelotão de fuzilamento como método de execução",
     "d": "A execução de Nidal Hasan, autor do ataque a tiros em Fort Hood, seria a primeira vez desde 1945 que o Exército dos Estados Unidos usaria um pelotão de fuzilamento",
     "link": "https://www.bbc.com/portuguese/articles/c9e8l387mn57o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-17T20:38:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cachorro invade campo e quase faz gol pelo Vasco; veja lance",
-    "d": "Jogada inusitada aconteceu no segundo tempo da vitória vascaína por 1 a 0 sobre o Madureira pela Copa Rio Sub-15",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/cachorro-invade-campo-e-quase-faz-gol-pelo-vasco-veja-lance/",
-    "time": "2026-10-17T20:35:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlético-MG x Coritiba: escalações e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes se enfrentam neste sábado (17), na Arena MRV, em Belo Horizonte, pela 31ª rodada da Série A do Campeonato Brasileiro; Galo vem de virada surpreendente contra o Santos, enquanto o Coxa empatou com o Botafogo",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-x-coritiba-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "time": "2026-10-17T20:31:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ator Michael Forest, de “Jornada nas Estrelas”, morre aos 97 anos",
-    "d": "Artista faleceu em 14 de outubro em uma casa de repouso em Nevada, nos Estados Unidos, deixando um legado marcado por papéis em 'Star Trek' e produções cult",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ator-michael-forest-de-jornada-nas-estrelas-morre-aos-97-anos/",
-    "time": "2026-10-17T20:26:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump promete US$100 milhões a fábrica em Kentucky se republicanos vencerem",
-    "d": "Presidente já tinha prometido dar US$ 5.000 a todos os adultos norte-americanos se o Partido Republicano mantiver o controle do Congresso",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-promete-us100-milhoes-a-fabrica-em-kentucky-se-republicanos-vencerem/",
-    "time": "2026-10-17T20:14:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Diretor de “Carrie” destaca escolha de elenco pouco conhecido: “Raro”",
-    "d": "À CNN Brasil, Mike Flanagan e atores da série comentaram sobre o processo criativo por trás da nova produção do Prime Video",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/diretor-de-carrie-destaca-escolha-de-elenco-pouco-conhecido-raro/",
-    "time": "2026-10-17T20:14:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Datafolha: eleitores de Flávio votam por mudança; de Lula, proteção social",
-    "d": "Pesquisa ouviu 2.520 eleitores entre os dias 13 e 14 de outubro; margem de erro é de 2 pontos percentuais, com um nível de confiança de 95%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-eleitores-de-flavio-votam-por-mudanca-de-lula-protecao-social/",
-    "time": "2026-10-17T20:12:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-ladrão de arte que já roubou Museu Van Gogh, em Amsterdã, se aposentou da vida do crime e hoje ajuda a recuperar obras",
-    "d": "Octave Durham conta que já assaltou \"tudo o que você pode imaginar\", mas que atualmente usa seus contatos no submundo para localizar peças raras",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/ex-ladrao-de-arte-que-ja-roubou-museu-van-gogh-em-amsterda-se-aposentou-da-vida-do-crime-e-hoje-ajuda-a-recuperar-obras/",
-    "time": "2026-10-17T20:06:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem é preso após enviar canetas emagrecedoras ilegais pelos Correios",
-    "d": "Polícia Civil apreendeu medicamentos avaliados em R$ 2 milhões em sala comercial no Recreio dos Bandeirantes; suspeito é investigado por distribuição clandestina dos produtos para diferentes cidades do país",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/homem-e-preso-apos-enviar-canetas-emagrecedoras-ilegais-pelos-correios/",
-    "time": "2026-10-17T20:05:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bruna Marquezine admite que só agora tem relação equilibrada com trabalho",
-    "d": "Em entrevista ao podcast \"É Noia Minha?\", de Camila Fremder, atriz revelou que passou anos de sua vida relacionando sua profissão com sua identidade",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-marquezine-admite-que-so-agora-tem-relacao-equilibrada-com-trabalho/",
-    "time": "2026-10-17T20:04:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-tenista sobre pausa de João Fonseca: “Não posso fingir que acho normal”",
-    "d": "Ex-tenista questiona \"hype\" e pressão sobre jovem atleta, que encerrou temporada 2026 por \"não estar em condições ideais\"",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/ex-tenista-sobre-pausa-de-joao-fonseca-nao-posso-fingir-que-acho-normal/",
-    "time": "2026-10-17T20:03:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Botafogo x Chapecoense: escalações e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes se enfrentam neste sábado (17), no Estádio Nilton Santos, no Rio de Janeiro, pela 31ª rodada da Série A do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-x-chapecoense-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "time": "2026-10-17T20:01:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Reitor da PUC-PR morre após acidente em viagem no Arizona, nos EUA",
-    "d": "Irmão Rogério Renato Mateucci visitava um complexo arquitetônico e cultural quando ocorreu o acidente",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/reitor-da-pucpr-morre-apos-acidente-em-viagem-no-arizona-nos-eua/",
-    "time": "2026-10-17T19:56:31.000Z"
   },
   {
     "cat": "internacional",
@@ -112,9 +168,17 @@
     "time": "2026-10-17T19:19:19.000Z"
   },
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "At least 17 dead in crush at Hindu festival event in India",
+    "d": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+    "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-17T19:19:16.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "O que as imagens de uma elefanta carregando um filhote morto nos dizem sobre o luto dos animais",
+    "h": "O que as imagens de uma elefanta carregando um filhote morto revelam sobre o luto dos animais",
     "d": "A foto vencedora do concurso Fotógrafo da Vida Selvagem do Ano de 2026 captura um comportamento raramente observado dos elefantes. A imagem revela a complexidade da vida emocional dos animais.",
     "link": "https://www.bbc.com/portuguese/articles/c63r583p3pw4o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-17T19:13:41.000Z"
@@ -126,6 +190,14 @@
     "d": "Fachada do Superior Tribunal de Justiça (STJ) TV Gazeta O Superior Tribunal de Justiça (STJ) abriu uma investigação e exonerou, nesta sexta-feira (16), um servidor da área de tecnologia suspeito de vazar minutas de de…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/17/stj-abre-investigacao-e-exonera-servidor-suspeito-de-vazar-minutas-a-advogado-amigo-de-flavio.ghtml",
     "time": "2026-10-17T19:02:04.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "European diplomats attacked by Israeli settlers in West Bank",
+    "d": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-17T18:38:57.000Z"
   },
   {
     "cat": "economia",
@@ -142,14 +214,6 @@
     "d": "Flávio Bolsonaro e Lula no horário eleitoral deste sábado, 17 de outubro Reprodução No horário eleitoral na televisão deste sábado (17), o candidato a presidente pelo PL, Flávio Bolsonaro, se dedicou a desmentir o que…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml",
     "time": "2026-10-17T17:58:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Prédio incendiado, 272 presos: o que está por trás de dia de protestos na França",
-    "d": "Neste sábado (17/10), diversas cidades francesas foram tomadas por milhares de manifestantes que pedem melhorias nos serviços públicos e se queixam do aumento no custo de vida",
-    "link": "https://www.bbc.com/portuguese/articles/ck0546rzg0gvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T17:41:35.000Z"
   },
   {
     "cat": "brasil",
@@ -198,14 +262,6 @@
     "d": "Ex-presidente José Sarney Divulgação/Redes sociais O ex-presidente José Sarney, de 96 anos, recebeu alta hospitalar na manhã deste sábado (17), após nove dias de internação no UDI Hospital, da Rede D'Or, em São Luís,…",
     "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/17/jose-sarney-recebe-alta-apos-cirurgia-abdominal-em-sao-luis.ghtml",
     "time": "2026-10-17T13:31:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A 'história esquecida' dos vikings que chegaram à América 500 anos antes de Cristóvão Colombo",
-    "d": "Quando Colombo chegou à América, os vikings já exploravam o continente havia quase 500 anos",
-    "link": "https://www.bbc.com/portuguese/articles/cke8r42r4d58o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T13:23:23.000Z"
   },
   {
     "cat": "internacional",
@@ -270,14 +326,6 @@
     "d": "Acompanhe as intenções de voto para Lula e Flávio Bolsonaro no segundo turno da eleição presidencial de 2026, de acordo com o Agregador de Pesquisas da BBC News Brasil.",
     "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-17T09:54:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Katie Zacharia leaving White House role less than five days into job",
-    "d": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-    "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T09:14:10.000Z"
   },
   {
     "cat": "economia",
@@ -352,22 +400,6 @@
     "time": "2026-10-17T03:00:04.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro",
-    "d": "‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro A Polícia Federal (PF) apontou a existência de \"divergência contábil severa\" no…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/17/dark-horse-pf-aponta-divergencia-severa-entre-recursos-enviados-ao-exterior-e-os-que-retornaram-ao-brasil-para-filme-sobre-bolsonaro.ghtml",
-    "time": "2026-10-17T03:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: quais estados já elegeram governador e onde haverá segundo turno?",
-    "d": "Urna no Colégio Estadual Monsenhor em São José do Rio Preto (SP) Henrique Souza/g1 As eleições de 2026 definiram os governadores de 20 unidades da federação ainda no primeiro turno. Nos demais estados e no Distrito Fe…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-quais-estados-ja-elegeram-governador-e-onde-havera-segundo-turno.ghtml",
-    "time": "2026-10-17T03:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
@@ -382,30 +414,6 @@
     "d": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
     "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-17T02:33:09.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-    "d": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T01:55:45.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-    "d": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T00:38:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-    "d": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-    "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-16T23:54:35.000Z"
   },
   {
     "cat": "economia",
@@ -486,14 +494,6 @@
     "d": "Lula promete transporte gratuito nos finais de semana O presidente Luiz Inácio Lula da Silva, candidato à reeleição, anunciou nesta quinta-feira (15) que enviará ao Congresso Nacional uma Proposta de Emenda à Constitu…",
     "link": "https://g1.globo.com/economia/noticia/2026/10/16/tarifa-zero-nos-onibus-aos-fins-de-semana-pode-reduzir-inflacao-em-025-ponto-percentual-diz-economista.ghtml",
     "time": "2026-10-16T15:30:33.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-    "d": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-    "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-16T14:31:04.000Z"
   },
   {
     "cat": "brasil",
