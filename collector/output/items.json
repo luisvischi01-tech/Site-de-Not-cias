@@ -1,27 +1,235 @@
 [
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Debate da Band: os momentos mais marcantes do confronto",
+    "d": "Primeiro debate do segundo turno expõe clima de tensão e troca de acusações de corrupção entre Lula e Flávio Bolsonaro",
+    "link": "https://www.bbc.com/portuguese/articles/cqjdvd8dk29eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T04:56:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Australian Greens senator denies claims of misconduct towards women",
+    "d": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+    "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T04:54:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem ganhou e quem perdeu no primeiro debate entre Lula e Flávio Bolsonaro",
+    "d": "Cientista políticos ouvidos pela BBC News Brasil criticam formado adotado pelo canal de TV e analisam o desempenho de Lula e Flávio a uma semana do segundo turno.",
+    "link": "https://www.bbc.com/portuguese/articles/cmd7qyplwzzpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T04:41:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "d": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T04:30:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "France's government under pressure after weekend of widespread violence",
+    "d": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+    "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T04:16:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Componente em carro enganou cães, diz comandante sobre suspeita de bomba",
+    "d": "Questão foi descartada posteriormente; substância poderia ser amônio ou perclorato",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/componente-em-carro-enganou-caes-diz-comandante-sobre-suspeita-de-bomba/",
+    "time": "2026-10-19T04:09:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+    "d": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+    "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T03:44:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "A PEC da Segurança Pública e o debate sobre a maioridade penal - O Assunto #1827",
+    "d": "Apresentada pelo governo federal, a Proposta de Emenda à Constituição que altera as atribuições da União, dos estados e dos municípios no combate ao crime foi aprovada na Câmara dos Deputados e enviada ao Senado em ma…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/19/a-pec-da-seguranca-publica-e-o-debate-sobre-a-maioridade-penal-o-assunto-1827.ghtml",
+    "time": "2026-10-19T03:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quando será o debate presidencial da Globo? Veja a data e o horário",
+    "d": "Flávio Bolsonaro e Lula durante entrevistas à TV Globo. Globo/ Manoella Mello O debate presidencial da TV Globo será realizado no dia 23 de outubro, com a participação de Luiz Inácio Lula da Silva (PT) e Flávio Bolson…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-debate-presidencial-da-globo.ghtml",
+    "time": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quando será o segundo turno das eleições 2026? Veja a data",
+    "d": "Quando será o segundo turno das eleições 2026? Reprodução/TV Globo O segundo turno das Eleições 2026 acontece no próximo domingo, dia 25 de outubro. Eleitores ao redor do mundo vão decidir quem será o o próximo Presid…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-segundo-turno-das-eleicoes-2026.ghtml",
+    "time": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Bolsa Família 2026: pagamento de outubro, o primeiro com novos valores, começa nesta segunda",
+    "d": "Bolsa Família: veja as regras e dias de pagamentos em outubro de 2026 A Caixa Econômica Federal inicia os pagamentos de outubro do Bolsa Família 2026 nesta segunda-feira (19). Os primeiros a receber serão os beneficiá…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-2026-pagamento-de-outubro-o-primeiro-com-novos-valores-comeca-nesta-segunda.ghtml",
+    "time": "2026-10-19T03:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Threat forces Israel to Austria flight into emergency landing",
+    "d": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T02:41:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "De dicção à indústria de cortes: entornos de Flávio e Lula analisam debate",
+    "d": "Senador explorará fala do petista sobre cariocas; campanha do presidente, falta de respostas sobre licença materinadade e caso Ana Clara",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/de-diccao-a-industria-de-cortes-entornos-de-flavio-e-lula-analisam-debate/",
+    "time": "2026-10-19T02:38:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Gate é acionado para checar carro de Flávio Bolsonaro após suspeita de bomba durante debate na Band",
+    "d": "Flávio Bolsonaro e Lula em debate na Band Renato Pizzutto/Band O Grupo de Ações Táticas Especiais (Gate) foi acionado na noite deste domingo (18) para verificar uma suspeita de bomba no carro do senador e candidato à…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/gate-e-acionado-para-checar-carro-de-flavio-bolsonaro-apos-suspeita-de-bomba-durante-debate-na-band.ghtml",
+    "time": "2026-10-19T02:13:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após investigação, suspeita de bomba em carro de Flávio é descartada",
+    "d": "Hipótese de bomba foi descartada pelos policiais do esquadrão anti-bombas",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/gate-cerca-estacionamento-da-band-por-suspeita-de-bomba-apos-debate/",
+    "time": "2026-10-19T02:10:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dallagnol vai com Flávio a debate e usa blusa com PowerPoint da Lava Jato",
+    "d": "Sentado na primeira fileira dos convidados do candidato do PL, camiseta do ex-procurador dizia: \"Eu prendi o Lula, o STF soltou\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/dallagnol-vai-com-flavio-a-debate-e-usa-blusa-com-powerpoint-da-lava-jato/",
+    "time": "2026-10-19T02:07:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula fala em quebra de sigilo; Flávio responde que petista não tem celular",
+    "d": "Candidatos do PL (Partido Liberal) e do PT (Partido dos Trabalhadores) se enfrentaram em debate presidencial na noite deste domingo (18)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-fala-em-quebra-de-sigilo-flavio-responde-que-petista-nao-tem-celular/",
+    "time": "2026-10-19T02:04:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Como está a economia da Argentina? Crescimento e queda da inflação contrastam com pobreza e desemprego",
+    "d": "O presidente da Argentina, Javier Milei, faz um discurso especial durante a 55ª reunião anual do Fórum Econômico Mundial em Davos, Suíça, em 23 de janeiro de 2025. Reuters A economia da Argentina virou tema do primeir…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/18/como-esta-a-economia-da-argentina.ghtml",
+    "time": "2026-10-19T01:53:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+    "d": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T01:50:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem foi Benito di Paula, cantor da MPB, que morreu aos 84 anos",
+    "d": "Nascido no interior do Rio, o pianista e compositor conquistou São Paulo nos anos 1970 e se tornou enredo da escola de samba Águia de Ouro em 2025",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/quem-foi-benito-di-paula-cantor-da-mpb-que-morreu-aos-84-anos/",
+    "time": "2026-10-19T01:33:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio x Lula: 3º bloco tem confronto sobre EUA e confusão em falas finais",
+    "d": "Candidatos ao Palácio do Planalto se enfrentaram no primeiro debate presidencial do segundo turno na noite deste domingo (18), em São Paulo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-x-lula-3o-bloco-tem-confronto-sobre-eua-e-confusao-em-falas-finais/",
+    "time": "2026-10-19T01:29:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Debate tem gritaria e interrupção nas considerações finais de Lula e Flávio",
+    "d": "Mediadora pediu silêncio à plateia e interrompeu o cronômetro durante a fala do presidente para restabelecer a ordem no estúdio",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/debate-tem-gritaria-e-interrupcao-nas-consideracoes-finais-de-lula-e-flavio/",
+    "time": "2026-10-19T01:17:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula vê subordinação dos Bolsonaro aos EUA; Flávio o acusa de defender PCC",
+    "d": "Presidente questionou se o senador pretende entregar minerais críticos e terras raras aos americanos; candidato do PL acusou Lula de estar subordinado a organizações criminosas",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-ve-subordinacao-dos-bolsonaro-aos-eua-flavio-o-acusa-de-defender-pcc/",
+    "time": "2026-10-19T01:11:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula fala em abrir sigilos; Flávio diz que não tem nada a esconder",
+    "d": "Durante debate presidencial na Band, presidente propôs que ambos divulgassem informações financeiras e telefônicas de suas famílias; Flávio respondeu com acusações sobre recursos ligados a Lula",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-fala-em-abrir-sigilos-flavio-diz-que-nao-tem-nada-a-esconder/",
+    "time": "2026-10-19T01:06:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brincadeira que saiu do controle? Mulher cria urso com inteligência artificial e provoca buscas na Rússia",
+    "d": "Imagem falsa produzida com ChatGPT assustou moradores, provocou buscas por um animal inexistente e terminou com multa de aproximadamente R$ 900",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/brincadeira-que-saiu-do-controle-mulher-cria-urso-com-inteligencia-artificial-e-provoca-buscas-na-russia/",
+    "time": "2026-10-19T01:04:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sidônio reclama de gestos de Flávio atrás de Lula durante debate na Band",
+    "d": "Um dos moderadores pediu que “os candidatos não atrapalhem as respostas um do outro\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/sidonio-reclama-de-gestos-de-flavio-atras-de-lula-durante-debate-na-band/",
+    "time": "2026-10-19T01:04:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Para quem Milei torce na eleição brasileira?",
+    "d": "Para cientista político entrevistado pela BBC News Brasil, resposta a essa pergunta não é tão óbvia quanto parece. Apesar do alinhamento de Milei com Flávio Bolsonaro, vitória do senador tiraria da Argentina benefício…",
+    "link": "https://www.bbc.com/portuguese/articles/c6zxjeyllrwpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T00:48:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo",
+    "d": "A página do Tribunal Superior Eleitoral (TSE) tem contabilizado como alterações de locais de votação casos em que, na prática, os endereços das seções no segundo turno das eleições de 2026 são os mesmos do primeiro tu…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/sistema-do-tse-aponta-mudancas-em-locais-de-votacao-mesmo-quando-endereco-permanece-o-mesmo.ghtml",
+    "time": "2026-10-19T00:19:51.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Inside the shadowy world of anti-Putin sabotage from within Russia",
     "d": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
     "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-19T00:06:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula diz querer distância de “miliciano”; Flávio que terá carteira roubada",
-    "d": "Candidatos trocaram provocações durante o debate presidencial na noite deste domingo (18)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-querer-distancia-de-miliciano-flavio-que-tera-carteira-roubada/",
-    "time": "2026-10-18T23:55:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula pede explicação sobre Vorcaro; Flávio cita condenação por corrupção",
-    "d": "Candidatos ao Planalto se enfrentam em primeiro debate presidencial do segundo turno das eleições de 2026",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-pede-explicacao-sobre-vorcaro-flavio-cita-condenacao-por-corrupcao/",
-    "time": "2026-10-18T23:53:49.000Z"
   },
   {
     "cat": "internacional",
@@ -32,60 +240,12 @@
     "time": "2026-10-18T23:53:13.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio diz que Lulinha fugiu e Lula fala que Eduardo está tramando nos EUA",
-    "d": "Durante debate presidencial na Band, candidatos trocaram acusações envolvendo familiares; Flávio questionou a atuação da Polícia Federal em relação ao filho do presidente, enquanto Lula acusou Eduardo Bolsonaro de ped…",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-lulinha-fugiu-e-lula-fala-que-eduardo-esta-tramando-nos-eua/",
-    "time": "2026-10-18T23:47:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio questiona sobre Luchsinger e Lula diz que ela é questão da PF",
-    "d": "Senador cobrou esclarecimentos sobre declarações de Roberta durante debate da Band neste domingo (18)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-questiona-sobre-luchsinger-e-lula-diz-que-ela-e-questao-da-pf/",
-    "time": "2026-10-18T23:43:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Combate às queimadas: 11 são presos por crimes ambientais no AM",
-    "d": "Estado enfrenta situação crítica com fumaça e já combateu quase 23 mil focos de incêndio desde junho; governo decretou emergência em 36 municípios",
-    "link": "https://www.cnnbrasil.com.br/nacional/norte/am/combate-as-queimadas-11-sao-presos-por-crimes-ambientais-no-am/",
-    "time": "2026-10-18T23:36:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio fala em guerra contra o tráfico; Lula, em federalizar segurança",
-    "d": "Candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) se enfrentaram em primeiro debate presidencial do segundo turno neste domingo (18)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-fala-em-guerra-contra-o-trafico-lula-em-federalizar-seguranca/",
-    "time": "2026-10-18T23:34:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo domina, vence Bahia e retoma liderança do Brasileirão",
-    "d": "Equipe carioca brilhou na segunda etapa e venceu time baiano pela 31ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-domina-vence-bahia-e-retoma-lideranca-do-brasileirao/",
-    "time": "2026-10-18T23:34:19.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "EU tariffs aimed at China hitting Ukraine, steel boss says",
     "d": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
     "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-18T23:28:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "A fascinante história do papiro e a tecnologia sagrada do Egito Antigo que valia uma fortuna",
-    "d": "Usado para combater o caos, fabricar sandálias e documentos reais, o famoso vegetal do Nilo exigia um treino rigoroso dos escribas",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/a-fascinante-historia-do-papiro-e-a-tecnologia-sagrada-do-egito-antigo-que-valia-uma-fortuna/",
-    "time": "2026-10-18T23:22:56.000Z"
   },
   {
     "cat": "internacional",
@@ -98,18 +258,10 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, participam na noite deste domingo (18) do primeiro debate do segundo turno das eleições de 2026. O…",
+    "h": "No 1º debate, Lula e Flávio Bolsonaro trocam acusações e provocações",
+    "d": "Flávio Bolsonaro e Lula em debate na Band Renato Pizzutto/Band O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, participaram na noite deste domingo…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml",
     "time": "2026-10-18T23:16:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio e Lula se enfrentam em primeiro debate do 2º turno",
-    "d": "Encontro na Band ocorre a uma semana do segundo turno, após campanha sem confronto direto na TV entre os principais candidatos ao pleito",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-1o-debate-da-eleicao-presidencial/",
-    "time": "2026-10-18T23:15:33.000Z"
   },
   {
     "cat": "internacional",
@@ -121,51 +273,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula diz que debate deve ser aula de civilidade e quer falar de Brasil",
-    "d": "Presidente conversou com jornalistas antes do primeiro confronto direto com Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais; encontro acontece neste domingo (18), a partir das 20h, em São Paulo",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-debate-deve-ser-aula-de-civilidade-e-quer-falar-de-brasil/",
-    "time": "2026-10-18T22:49:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras vence Belgrano com show de Bia Zaneratto na Libertadores Feminina",
-    "d": "Verdão superou o time argentino por 3 a 1 em Quito, Equador, e segue invicto no Grupo B da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-vence-belgrano-com-show-de-bia-zaneratto-na-libertadores-feminina/",
-    "time": "2026-10-18T22:49:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flávio e Lula chegam para primeiro debate presidencial do 2º turno",
-    "d": "Candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) chegaram aos estúdios da TV Bandeirantes, na capital paulista, para o debate presidencial deste domingo (18)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
-    "time": "2026-10-18T22:43:18.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
     "d": "O Supremo Tribunal Federal (STF) abriu inquérito para apurar suspeitas de lavagem de dinheiro envolvendo o advogado Willer Tomaz, empresas dele e o senador e candidato a presidente Flávio Bolsonaro (PL). O ministro Al…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml",
     "time": "2026-10-18T22:36:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'Very upsetting': Residents in shock after historic French town hall set alight",
-    "d": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-    "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T22:22:51.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Inside Chicago's battle against the synthetic drugs flooding the US",
-    "d": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-    "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T21:00:22.000Z"
   },
   {
     "cat": "economia",
@@ -209,27 +321,11 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Debate Lula x Flávio na Band: horário, data, regras e o que está em jogo no primeiro confronto direto",
-    "d": "Este será o primeiro confronto direto entre Lula e Flávio Bolsonaro, já não houve debate entre os candidatos à frente na pesquisa no primeiro turno.",
-    "link": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T18:51:14.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Reta final do 2º turno: Lula aposta em medidas populares para virar, e Flávio quer reforçar que manterá programas sociais",
     "d": "Flávio Bolsonaro (PL) e Lula (PT) em atos de campanha. Reuters Na última semana antes do segundo turno da eleição, marcado para o próximo domingo (25), as campanhas de Lula (PT) e Flávio Bolsonaro (PL) apostam nos deb…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml",
     "time": "2026-10-18T18:02:42.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Oil facilities hit in deadly overnight attack on St Petersburg",
-    "d": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T15:46:10.000Z"
   },
   {
     "cat": "brasil",
@@ -240,28 +336,12 @@
     "time": "2026-10-18T15:02:01.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Fim da escala 6x1: o que pensa uma mãe solo e um pequeno empresário",
-    "d": "Mãe solo, Luciana é operadora de caixa em um supermercado. Valnei era dono de um mercadinho. Veja como eles enxergam as mudanças trazidas pelo fim da escala 6x1 no Brasil. Os dois apoiavam o fim da escala 6x1, mas viv…",
-    "link": "https://www.bbc.com/portuguese/articles/cq1kdz8dweezo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T14:10:59.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados",
     "d": "Concurso 3071 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.071 da Mega-Sena foi realizado na manhã deste domingo (18), em São Paulo. Não houve ganhadores neste concurso, e próximo sorteio pode pagar…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml",
     "time": "2026-10-18T14:05:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Search for Amelia Earhart's plane resumes after stormy weather",
-    "d": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-    "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T13:47:07.000Z"
   },
   {
     "cat": "brasil",
@@ -278,14 +358,6 @@
     "d": "A BBC analisou imagens de satélite de um iate de 80 metros de comprimento, com piscina e toboáguas, que mostra que as férias do líder norte-coreano, Kim Jong Un, seguem padrões inatingíveis para a maioria dos cidadãos…",
     "link": "https://www.bbc.com/portuguese/articles/ckgelqn9y7q9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-18T12:41:50.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "European diplomats attacked by Israeli settlers in West Bank",
-    "d": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T12:16:14.000Z"
   },
   {
     "cat": "brasil",
@@ -395,57 +467,9 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Lobista diz que Lulinha se reunia com ministros e afirma querer fazer delação premiada",
-    "d": "A empresária e lobista Roberta Luchsinger rebateu neste sábado (17) as declarações do presidente Luiz Inácio Lula da Silva de que ela seria uma \"pilantra\". Ela afirmou que, desde que Lula a criticou, vem sofrendo amea…",
+    "d": "Lobista Roberta Luchsinger diz que quer fazer delação premiada A empresária e lobista Roberta Luchsinger rebateu neste sábado (17) as declarações do presidente Luiz Inácio Lula da Silva de que ela seria uma \"pilantra\"…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/17/empresaria-amiga-de-lulinha-rebate-declaracao-de-lula-diz-que-nao-e-pilantra-e-que-virou-boi-de-piranha.ghtml",
     "time": "2026-10-18T01:30:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Apoiadores de Lula realizam atos em diversas cidades e capitais",
-    "d": "Apoiadores de Lula foram às ruas neste sábado em cidades e capitais. O presidente Lula, candidato à reeleição pelo PT, não teve agenda pública de campanha neste sábado (17). Apoiadores do candidato fizeram manifestaçõ…",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/apoiadores-de-lula-foram-as-ruas-neste-sabado-em-cidades-e-capitais.ghtml",
-    "time": "2026-10-18T01:06:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras",
-    "d": "Flávio Bolsonaro, PL, fez campanha em Vitória e Salvador O Jornal Nacional mostrou como foi o dia de campanha dos candidatos à presidência da República. Flávio Bolsonaro, do PL, fez campanha no Espírito Santo e na Bah…",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml",
-    "time": "2026-10-18T01:06:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Maria do Carmo faz caminhada no Centro de Manaus e apresenta propostas para infraestrutura",
-    "d": "Maria do Carmo faz caminhada no Centro de Manaus e apresenta propostas para infraestrutura. Reprodução/Rede Amazônica A candidata ao governo do Amazonas, Professora Maria do Carmo (PL), fez uma caminhada pela Avenida…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml",
-    "time": "2026-10-17T22:50:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
-    "d": "A campanha do candidato a presidente Flávio Bolsonaro (PL) acionou o Tribunal Superior Eleitoral (TSE) nesta sexta (16) sustentando que tem sido prejudicada pela Meta, big tech responsável por Facebook, Instagram e Wh…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
-    "time": "2026-10-17T22:42:12.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Anti-government protesters battle with police in Albania",
-    "d": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-    "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T20:53:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "STJ abre investigação e exonera servidor suspeito de vazar minutas de decisões a advogado amigo de Flávio",
-    "d": "Fachada do Superior Tribunal de Justiça (STJ) TV Gazeta O Superior Tribunal de Justiça (STJ) abriu uma investigação e exonerou, nesta sexta-feira (16), um servidor da área de tecnologia suspeito de vazar minutas de de…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/17/stj-abre-investigacao-e-exonera-servidor-suspeito-de-vazar-minutas-a-advogado-amigo-de-flavio.ghtml",
-    "time": "2026-10-17T19:02:04.000Z"
   },
   {
     "cat": "economia",
@@ -464,36 +488,12 @@
     "time": "2026-10-17T11:00:31.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que a eleição da deputada mais jovem do Rio revela sobre a onda de direita",
-    "d": "A influenciadora Julia de Castro faz parte da leva de jovens de direita eleitos após construir capital político digital e serem recrutados por partidos, em uma estratégia bem-sucedida liderada pelo PL.",
-    "link": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T09:57:35.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Volkswagen Tera ganha motor mais forte e novo câmbio, mas vai ganhar dos chineses? O g1 testou",
     "d": "Volkswagen Tera na versão Comfort. divulgação / Volkswagen A Volkswagen passou a oferecer o SUV compacto Tera com o motor 200 TSI nas versões automáticas Comfort e Highline. O modelo recebeu o motor 1.0 turbo de três…",
     "link": "https://g1.globo.com/carros/noticia/2026/10/17/volkswagen-tera-ganha-motor-mais-forte-e-novo-cambio-mas-vai-ganhar-dos-chineses-o-g1-testou.ghtml",
     "time": "2026-10-17T08:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Você pagaria R$ 2.000 por um quilo de café? Grão de MG bate recorde em leilão no Japão",
-    "d": "Produtor Luiz Paulo ao lado de Nara Byun, representante da empresa compradora Snow Beans Coffe Reprodução / Redes sociais Você pagaria mais de R$ 2.000 por um quilo de café? Um café produzido em Minas Gerais bateu ess…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/17/voce-pagaria-r-2000-por-um-quilo-de-cafe-grao-de-mg-bate-recorde-em-leilao-no-japao.ghtml",
-    "time": "2026-10-17T08:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos",
-    "d": "O presidente dos EUA, Donald Trump, conversa com a imprensa antes de embarcar no helicóptero Marine One rumo a Grand Island, Nebraska REUTERS/Eric Lee O atual hiperfoco de Donald Trump é... a inteligência artificial \ud83d…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/17/superinteligencia-por-que-trump-insiste-em-tentar-mudar-o-termo-ia-usado-ha-70-anos.ghtml",
-    "time": "2026-10-17T07:00:00.000Z"
   },
   {
     "cat": "internacional",
