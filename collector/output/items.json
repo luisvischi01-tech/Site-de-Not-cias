@@ -1,107 +1,171 @@
 [
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mbappé brilha, e Real Madrid goleia Sevilla pelo Campeonato Espanhol",
-    "d": "Craque francês marcou duas vezes, Arda Güler e Yan Diomande completam placar expressivo no Santiago Bernabéu",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/mbappe-brilha-e-real-madrid-goleia-sevilla-pelo-campeonato-espanhol/",
-    "time": "2026-10-18T21:45:56.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+    "d": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-19T00:06:25.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Fluminense 1 x 2 Santos: veja os melhores momentos do Brasileirão",
-    "d": "Gabigol e Coutinho marcaram em vitória santista no Maracanã pela 31ª rodada do Campeonato Brasileiro Série A",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-1-x-2-santos-veja-os-melhores-momentos-do-brasileirao/",
-    "time": "2026-10-18T21:42:43.000Z"
+    "h": "Lula diz querer distância de “miliciano”; Flávio que terá carteira roubada",
+    "d": "Candidatos trocaram provocações durante o debate presidencial na noite deste domingo (18)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-querer-distancia-de-miliciano-flavio-que-tera-carteira-roubada/",
+    "time": "2026-10-18T23:55:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula pede explicação sobre Vorcaro; Flávio cita condenação por corrupção",
+    "d": "Candidatos ao Planalto se enfrentam em primeiro debate presidencial do segundo turno das eleições de 2026",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-pede-explicacao-sobre-vorcaro-flavio-cita-condenacao-por-corrupcao/",
+    "time": "2026-10-18T23:53:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+    "d": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fir…",
+    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+    "time": "2026-10-18T23:53:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio diz que Lulinha fugiu e Lula fala que Eduardo está tramando nos EUA",
+    "d": "Durante debate presidencial na Band, candidatos trocaram acusações envolvendo familiares; Flávio questionou a atuação da Polícia Federal em relação ao filho do presidente, enquanto Lula acusou Eduardo Bolsonaro de ped…",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-lulinha-fugiu-e-lula-fala-que-eduardo-esta-tramando-nos-eua/",
+    "time": "2026-10-18T23:47:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio questiona sobre Luchsinger e Lula diz que ela é questão da PF",
+    "d": "Senador cobrou esclarecimentos sobre declarações de Roberta durante debate da Band neste domingo (18)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-questiona-sobre-luchsinger-e-lula-diz-que-ela-e-questao-da-pf/",
+    "time": "2026-10-18T23:43:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Combate às queimadas: 11 são presos por crimes ambientais no AM",
+    "d": "Estado enfrenta situação crítica com fumaça e já combateu quase 23 mil focos de incêndio desde junho; governo decretou emergência em 36 municípios",
+    "link": "https://www.cnnbrasil.com.br/nacional/norte/am/combate-as-queimadas-11-sao-presos-por-crimes-ambientais-no-am/",
+    "time": "2026-10-18T23:36:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio fala em guerra contra o tráfico; Lula, em federalizar segurança",
+    "d": "Candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) se enfrentaram em primeiro debate presidencial do segundo turno neste domingo (18)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-fala-em-guerra-contra-o-trafico-lula-em-federalizar-seguranca/",
+    "time": "2026-10-18T23:34:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo domina, vence Bahia e retoma liderança do Brasileirão",
+    "d": "Equipe carioca brilhou na segunda etapa e venceu time baiano pela 31ª rodada do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-domina-vence-bahia-e-retoma-lideranca-do-brasileirao/",
+    "time": "2026-10-18T23:34:19.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "What we know so far about deadly fire at Canadian military base",
-    "d": "At least four people are confirmed to have died after a huge fire swept through the base.",
-    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T21:37:56.000Z"
+    "h": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+    "d": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+    "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-18T23:28:45.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Grêmio 2 x 4 Cruzeiro: veja os melhores momentos do Brasileirão",
-    "d": "Cabuloso venceu o Imortal por 4 a 2, na 31ª rodada do Campeonato Brasileiro. Com o resultado, a equipe de Renato Gaúcho se mantém na zona de rebaixamento",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-2-x-4-cruzeiro-veja-os-melhores-momentos-do-brasileirao/",
-    "time": "2026-10-18T21:33:41.000Z"
+    "h": "A fascinante história do papiro e a tecnologia sagrada do Egito Antigo que valia uma fortuna",
+    "d": "Usado para combater o caos, fabricar sandálias e documentos reais, o famoso vegetal do Nilo exigia um treino rigoroso dos escribas",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/a-fascinante-historia-do-papiro-e-a-tecnologia-sagrada-do-egito-antigo-que-valia-uma-fortuna/",
+    "time": "2026-10-18T23:22:56.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+    "d": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-18T23:20:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, participam na noite deste domingo (18) do primeiro debate do segundo turno das eleições de 2026. O…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml",
+    "time": "2026-10-18T23:16:38.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Remo x Bragantino: escalações e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes vão a campo neste domingo (18), às 19h30 (de Brasília), no Mangueirão, pela 31ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-x-bragantino-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "time": "2026-10-18T21:32:20.000Z"
+    "h": "Flávio e Lula se enfrentam em primeiro debate do 2º turno",
+    "d": "Encontro na Band ocorre a uma semana do segundo turno, após campanha sem confronto direto na TV entre os principais candidatos ao pleito",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-1o-debate-da-eleicao-presidencial/",
+    "time": "2026-10-18T23:15:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Major fire at Canada military base leaves four dead, dozens injured",
+    "d": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-18T23:06:09.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "No Egito, Luciana Gimenez visita templo e brinca com nome de faraó",
-    "d": "A apresentadora passa pelo Cairo, compartilha encontros culturais nas redes e relata encantamento com a história egípcia",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/no-egito-luciana-gimenez-visita-templo-e-brinca-com-nome-de-farao/",
-    "time": "2026-10-18T21:25:00.000Z"
+    "h": "Lula diz que debate deve ser aula de civilidade e quer falar de Brasil",
+    "d": "Presidente conversou com jornalistas antes do primeiro confronto direto com Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais; encontro acontece neste domingo (18), a partir das 20h, em São Paulo",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-debate-deve-ser-aula-de-civilidade-e-quer-falar-de-brasil/",
+    "time": "2026-10-18T22:49:39.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Trump diz que isenção de sanções à Rússia visa manter país nas negociações",
-    "d": "Presidente americano afirmou que não quer fazer nada que possa afastar Moscou da mesa de conversas com Kiev; medida foi criticada por Zelensky, que a classificou como \"equivocada\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-isencao-de-sancoes-a-russia-visa-manter-pais-nas-negociacoes/",
-    "time": "2026-10-18T21:12:34.000Z"
+    "h": "Palmeiras vence Belgrano com show de Bia Zaneratto na Libertadores Feminina",
+    "d": "Verdão superou o time argentino por 3 a 1 em Quito, Equador, e segue invicto no Grupo B da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-vence-belgrano-com-show-de-bia-zaneratto-na-libertadores-feminina/",
+    "time": "2026-10-18T22:49:25.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Santos aposta em ofensiva, vira contra Flu e vence por 2 a 1 no Maracanã",
-    "d": "Gabigol e Coutinho marcaram em vitória santista pela 31ª rodada do Campeonato Brasileiro Série A",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-aposta-em-ofensiva-vira-contra-flu-e-vence-por-2x1-no-maracana/",
-    "time": "2026-10-18T21:09:40.000Z"
+    "h": "Flávio e Lula chegam para primeiro debate presidencial do 2º turno",
+    "d": "Candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) chegaram aos estúdios da TV Bandeirantes, na capital paulista, para o debate presidencial deste domingo (18)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-chegam-para-primeiro-debate-presidencial-neste-domingo-18/",
+    "time": "2026-10-18T22:43:18.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trens no fundo do oceano? Entenda o destino surpreendente de antigos vagões de Nova York",
-    "d": "Veículos que transportaram passageiros durante décadas foram levados ao Atlântico e passaram a integrar um projeto ambiental nos Estados Unidos",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/trens-no-fundo-do-oceano-entenda-o-destino-surpreendente-de-antigos-vagoes-de-nova-york/",
-    "time": "2026-10-18T21:09:30.000Z"
+    "src": "G1",
+    "h": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
+    "d": "O Supremo Tribunal Federal (STF) abriu inquérito para apurar suspeitas de lavagem de dinheiro envolvendo o advogado Willer Tomaz, empresas dele e o senador e candidato a presidente Flávio Bolsonaro (PL). O ministro Al…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml",
+    "time": "2026-10-18T22:36:36.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Kaio Jorge marca três, e Cruzeiro vence o Grêmio de virada no Brasileirão",
-    "d": "Cabuloso venceu o Imortal por 4 a 2, na 31ª rodada do Campeonato Brasileiro. Com o resultado, a equipe de Renato Gaúcho se mantém na zona de rebaixamento",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/kaio-jorge-marca-tres-e-cruzeiro-vence-o-gremio-de-virada-no-brasileirao/",
-    "time": "2026-10-18T21:01:55.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'Very upsetting': Residents in shock after historic French town hall set alight",
+    "d": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+    "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-18T22:22:51.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Inside Chicago's battle against the synthetic drugs flooding the US",
-    "d": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are batt…",
+    "d": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
     "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-18T21:00:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Paris FC x Rennes: veja melhores momentos de jogo da Ligue 1",
-    "d": "Time parisiense venceu por 4 a 3 em jogo que marcou a estreia do Francês na tela do CNN Esportes",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/paris-fc-x-rennes-veja-melhores-momentos-de-jogo-da-ligue-1-2/",
-    "time": "2026-10-18T20:57:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda por que ICL distorce mensagens de Vorcaro sobre CNN",
-    "d": "Reportagem confunde desejo de anunciante com conduta jornalística e não apresenta prova de que qualquer entrevista tenha sido combinada",
-    "link": "https://www.cnnbrasil.com.br/politica/entenda-por-que-icl-distorce-mensagens-de-vorcaro-sobre-cnn/",
-    "time": "2026-10-18T20:57:32.000Z"
   },
   {
     "cat": "economia",
@@ -110,14 +174,6 @@
     "d": "Vladimir Putin, Donald Trump e Volodymyr Zelensky. Sputnik/Gavriil Grigorov/Pool via REUTERS, Reuters e Genya Savilov/AFP O presidente dos Estados Unidos, Donald Trump, afirmou neste domingo (18) que não quer adotar m…",
     "link": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-nao-quer-afastar-russia-de-negociacoes-e-acusa-zelensky-de-prolongar-guerra.ghtml",
     "time": "2026-10-18T20:50:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PEC 6×1 é uma medida irresponsável e eleitoreira, diz Abrasel",
-    "d": "À CNN, Paulo Solmucci, presidente da Abrasel, classificou a PEC como \"irresponsável e eleitoreira\" e alertou para aumento generalizado de preços em 60 dias",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pec-6x1-e-uma-medida-irresponsavel-e-eleitoreira-diz-abrasel/",
-    "time": "2026-10-18T20:46:50.000Z"
   },
   {
     "cat": "internacional",
@@ -166,14 +222,6 @@
     "d": "Flávio Bolsonaro (PL) e Lula (PT) em atos de campanha. Reuters Na última semana antes do segundo turno da eleição, marcado para o próximo domingo (25), as campanhas de Lula (PT) e Flávio Bolsonaro (PL) apostam nos deb…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml",
     "time": "2026-10-18T18:02:42.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-    "d": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fir…",
-    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-    "time": "2026-10-18T17:34:53.000Z"
   },
   {
     "cat": "internacional",
@@ -352,14 +400,6 @@
     "time": "2026-10-18T01:30:26.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "d": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-18T01:10:25.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Apoiadores de Lula realizam atos em diversas cidades e capitais",
@@ -400,14 +440,6 @@
     "time": "2026-10-17T20:53:00.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least 17 dead in crush at Hindu festival event in India",
-    "d": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-    "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T19:19:16.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "STJ abre investigação e exonera servidor suspeito de vazar minutas de decisões a advogado amigo de Flávio",
@@ -424,44 +456,12 @@
     "time": "2026-10-17T18:25:44.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Na TV, Flávio Bolsonaro diz ser alvo de fake news, e Lula fala às mulheres",
-    "d": "Flávio Bolsonaro e Lula no horário eleitoral deste sábado, 17 de outubro Reprodução No horário eleitoral na televisão deste sábado (17), o candidato a presidente pelo PL, Flávio Bolsonaro, se dedicou a desmentir o que…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml",
-    "time": "2026-10-17T17:58:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos de Lula",
-    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45% A redução da maioridade penal de 18 para 16 anos tem o apoio de oito em cada dez brasileiros, segundo pesquisa Datafolha divulgada neste sábado (17). O levantament…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-reducao-da-maioridade-penal-tem-apoio-de-89percent-dos-eleitores-de-flavio-e-70percent-dos-de-lula.ghtml",
-    "time": "2026-10-17T17:26:21.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nursery owner in China jailed for life after hundreds of children poisoned",
-    "d": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-    "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T12:11:58.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
     "d": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive leg…",
     "link": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
     "time": "2026-10-17T11:00:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-    "d": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-17T09:58:17.000Z"
   },
   {
     "cat": "brasil",
