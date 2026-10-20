@@ -1,99 +1,187 @@
 [
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "MPPR denuncia policiais civis por operação sem autorização em Curitiba",
-    "d": "Investigação irregular exibida na televisão visava impulsionar imagem política de deputado e outros servidores, diz o Ministério Público em denúncia",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/mppr-denuncia-policiais-civis-por-operacao-sem-autorizacao-em-curitiba/",
-    "time": "2026-10-20T00:25:09.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
+    "d": "Kathryn Vaughn tem três empregos para poder sustentar a casa Kathryn Vaughn via BBC Neste segundo semestre, Kathryn Vaughn voltou ao trabalho em uma escola do ensino fundamental na zona rural do Estado americano do Te…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/20/como-americanos-enfrentam-a-alta-da-inflacao-ja-fiz-coisas-insanas-para-sobreviver.ghtml",
+    "time": "2026-10-20T05:00:00.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Luchsinger “reagiu emocionalmente” a falas de Lula, diz Marco Aurélio à CNN",
-    "d": "Advogado disse acreditar que empresária não fez nada de errado e que recomendou à defesa dela que pedisse segurança após entrevista à CNN no último sábado (17)",
-    "link": "https://www.cnnbrasil.com.br/politica/luchsinger-reagiu-emocionalmente-a-falas-de-lula-diz-marco-aurelio-a-cnn/",
-    "time": "2026-10-20T00:24:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Seedorf abdica de camarote e vê Corinthians x Vitória na arquibancada",
-    "d": "Burocracia no visto de trabalho impediu regularização do novo técnico, que acompanhou a partida do setor popular da Neo Química Arena",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/seedorf-abdica-de-camarote-e-ve-corinthians-x-vitoria-na-arquibancada/",
-    "time": "2026-10-20T00:22:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cientistas recrutam voluntários para caçar e identificar novos buracos negros na Via Láctea",
-    "d": "Estudo internacional tenta comprovar se existem milhões desses corpos celestes usando registros da Nasa e do SuperWASP; o projeto já conta com mais de 23 mil voluntários",
-    "link": "https://www.cnnbrasil.com.br/ciencia/cientistas-recrutam-voluntarios-para-cacar-e-identificar-novos-buracos-negros-na-via-lactea/",
-    "time": "2026-10-20T00:21:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Inspirada nas tumbas do Egito, Estátua da Liberdade foi concebida como mulher muçulmana; veja a história do monumento financiado por arrecadações",
-    "d": "Viagem ao Abu Simbel em 1855 convenceu Frédéric-Auguste Bartholdi a projetar uma estátua colossal; obra só foi instalada em Manhattan só depois de negativa do Egito e anos pedindo doações a franceses e americanos",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/estatua-liberdade-mulher-muculmana-egito/",
-    "time": "2026-10-20T00:21:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mariah Carey vence irmão que a acusava de difamação na Justiça; entenda",
-    "d": "Litígio envolvia acusações sobre menções polêmicas na obra The Meaning of Mariah Carey; defesa do acusador, Morgan Carey, promete recurso",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/mariah-carey-vence-irmao-que-a-acusava-de-difamacao-na-justica-entenda/",
-    "time": "2026-10-20T00:20:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Carlyle compra carteira de crédito de US$ 7,7 bilhões da Truist",
-    "d": "Anúncio da venda da carteira ocorre em meio à reestruturação dos negócios da Truist",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/carlyle-compra-carteira-de-credito-de-us-77-bilhoes-da-truist/",
-    "time": "2026-10-20T00:18:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dia da Osteoporose: passageiros têm acesso à exame gratuito em metrô de SP",
-    "d": "Ação da ABRASSO disponibiliza testes de calcâneo e orientações médicas das 9h às 16h na estação Barra Funda",
-    "link": "https://www.cnnbrasil.com.br/saude/dia-da-osteoporose-passageiros-tem-acesso-a-exame-gratuito-em-metro-de-sp/",
-    "time": "2026-10-20T00:14:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Western Alliance lucra US$ 227 milhões no 3° trimestre de 2026",
-    "d": "Holding bancária regional com sede em Phoenix teve receita de US$ 1,01 bilhão",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/western-alliance-lucra-us-227-milhoes-no-3-trimestre-de-2026/",
-    "time": "2026-10-20T00:13:07.000Z"
+    "h": "Felca revela dependência de álcool para lidar com fobia social",
+    "d": "Após afastamento da internet, youtuber publica vídeo na madrugada desta terça-feira (20) e relata experiência com o transtorno",
+    "link": "https://www.cnnbrasil.com.br/saude/felca-revela-dependencia-de-alcool-para-lidar-com-fobia-social/",
+    "time": "2026-10-20T04:53:26.000Z"
   },
   {
     "cat": "economia",
+    "src": "G1",
+    "h": "Doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC",
+    "d": "Presidente da Cidasc, Celles de Matos, comenta foco de doença de Newcastle em SC O Ministério da Agricultura e Pecuária (Mapa) informou que 133 granjas em quatro municípios do Oeste de Santa Catarina serão monitoradas…",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml",
+    "time": "2026-10-20T04:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Marco Aurélio nega irregularidades em empréstimo de Luchsinger a Marcola",
-    "d": "Coordenador da campanha do presidente Lula afirmou à CNN que a dívida foi quitada com juros e correção monetária e negou que tenha havido contrapartida",
-    "link": "https://www.cnnbrasil.com.br/politica/marco-aurelio-nega-irregularidades-em-emprestimo-de-luchsinger-a-marcola/",
-    "time": "2026-10-20T00:11:26.000Z"
+    "h": "Risco de rebaixamento do Corinthians chega a 43%; veja as probabilidades",
+    "d": "Time alvinegro empatou em casa com o Vitória nesta segunda-feira (19) e está na décima sexta posição na tabela, um ponto na frente do Internacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/risco-de-rebaixamento-do-corinthians-chega-a-43-veja-as-probabilidades/",
+    "time": "2026-10-20T03:49:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "O controle e o rastreamento de armas e munições - O Assunto #1828",
+    "d": "Uma pesquisa Quaest publicada no mês passado mostrou que sete em cada dez brasileiros acreditam que a violência aumentou muito e que dois em cada três acham que os criminosos estão sendo menos punidos. São dados que e…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/20/o-controle-e-o-rastreamento-de-armas-e-municoes-o-assunto-1828.ghtml",
+    "time": "2026-10-20T03:30:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+    "d": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+    "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-20T03:10:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cidadania italiana: país discute regras mais rígidas para crimes e idioma",
+    "d": "Proposta tramita na Câmara dos Deputados da Itália e propõe mudanças para obter ou perder a nacionalidade",
+    "link": "https://www.cnnbrasil.com.br/internacional/cidadania-italiana-pais-discute-regras-mais-rigidas-para-crimes-e-idioma/",
+    "time": "2026-10-20T03:10:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Galvão reage após empate do Corinthians: “Situação continua preocupante”",
+    "d": "Clube alvinegro tem 33 pontos, um a mais que o Internacional (32), que abre a zona de rebaixamento do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/galvao-reage-apos-empate-do-corinthians-situacao-continua-preocupante/",
+    "time": "2026-10-20T03:08:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: acompanhe a apuração em todo o Brasil",
+    "d": "Eleições 2026: apuração em tempo real Reprodução/TV Globo Acompanhe a apuração das eleições 2026 ao vivo pelo g1 neste domingo (25). Além da disputa pela Presidência da República, cinco estados e o Distrito Federal te…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-acompanhe-a-apuracao-em-todo-o-brasil.ghtml",
+    "time": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: campanhas já declararam quase R$ 290 milhões em gastos com a Meta, mais que o dobro de 2022",
+    "d": "Em 2026, a empresa que mais recebeu recursos das campanhas eleitorais foi a Meta. Segundo levantamento do g1, os candidatos gastaram pelo menos R$ 288,7 milhões para contratar os serviços diretamente com a plataforma.…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-declaracao-gastos-meta.ghtml",
+    "time": "2026-10-20T03:00:00.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Como um hacker usou IA e alguns milhares de dólares para invadir sites",
-    "d": "Relatório da NorForge indica aceleração no uso de ferramentas autônomas para invasões no submundo do cibercrime",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/como-um-hacker-usou-ia-e-alguns-milhares-de-dolares-para-invadir-sites/",
-    "time": "2026-10-20T00:00:14.000Z"
+    "src": "G1",
+    "h": "Profissões em alta para 2027: veja cargos com salários de até R$ 93,5 mil",
+    "d": "Profissões em alta para 2027 WOCInTech/Nappy Uma pesquisa da empresa de recrutamento e seleção Robert Half, divulgada nesta terça-feira (20) com exclusividade ao g1, apresenta as projeções salariais para mais de 450 c…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/20/profissoes-em-alta-para-2027-guia-salarial.ghtml",
+    "time": "2026-10-20T03:00:00.000Z"
   },
   {
     "cat": "economia",
+    "src": "G1",
+    "h": "Bolsa Família: pagamentos de outubro terminam amanhã; veja quem recebe, valor e como consultar",
+    "d": "Bolsa Familia Reprodução Os pagamentos do Bolsa Família de outubro vão até quarta-feira (21), quando serão liberados os valores para beneficiários com Número de Identificação Social (NIS) terminado em 3, 4, 5, 6, 7, 8…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/20/bolsa-familia-pagamentos-de-outubro-terminam-amanha-veja-quem-recebe-valor-e-como-consultar.ghtml",
+    "time": "2026-10-20T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "México suspende importação de frango do Brasil após foco da doença de Newcastle em SC",
+    "d": "O México suspendeu nesta segunda-feira (19) a importação de carne de frango e de outros produtos avícolas brasileiros após a confirmação de um foco da doença de Newcastle em uma granja comercial de perus em Santa Cata…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/mexico-suspende-importacao-de-frango-do-brasil-apos-foco-da-doenca-de-newcastle-em-sc.ghtml",
+    "time": "2026-10-20T02:57:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Seventh day of violent clashes between Albanian protesters and police",
+    "d": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-20T02:45:05.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Orçamento “não é bomba que vai estourar”, diz Lula",
-    "d": "Petista defende responsabilidade fiscal de sua gestão e critica pressões do mercado financeiro sobre gastos públicos",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/orcamento-nao-e-bomba-que-vai-estourar-diz-lula/",
-    "time": "2026-10-19T23:57:49.000Z"
+    "h": "NASA confirma funcionamento de escudo térmico da cápsula da Artemis II que levou astronautas para Lua",
+    "d": "Durante a reentrada na atmosfera, a Orion atingiu velocidade 39 vezes superior à do som e enfrentou temperaturas externas acima de 2.200 °C, enquanto os astronautas permaneceram a cerca de 23 °C",
+    "link": "https://www.cnnbrasil.com.br/ciencia/nasa-confirma-funcionamento-de-escudo-termico-da-capsula-da-artemis-ii-que-levou-astronautas-para-lua/",
+    "time": "2026-10-20T02:42:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ouça áudio de mulher fingindo pedir pizza ao chamar PM; bebê é resgatado",
+    "d": "Vítima de violência doméstica conseguiu fugir de casa e resgatar o filho de três meses com a ajuda dos policiais militares na Região do ABC",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ouca-audio-de-mulher-fingindo-pedir-pizza-ao-chamar-pm-bebe-e-resgatado/",
+    "time": "2026-10-20T02:31:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em Manaus, Flávio diz que vai “transformar as riquezas” da Amazônia",
+    "d": "Durante ato na capital amazonense, candidato à Presidência voltou a defender a castração química e afirmou que vai \"tomar conta da floresta\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/em-manaus-flavio-diz-que-vai-transformar-as-riquezas-da-amazonia/",
+    "time": "2026-10-20T02:28:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Corinthians 1 x 1 Vitória: veja os melhores momentos pelo Brasileirão",
+    "d": "Time baiano saiu na frente na reta final do primeiro tempo; equipe da casa buscou a igualdade na segunda etapa, em cobrança de pênalti",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-1-x-1-vitoria-veja-os-melhores-momentos-pelo-brasileirao/",
+    "time": "2026-10-20T02:09:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia prende quatro suspeitos de golpe do falso leilão em SP",
+    "d": "Investigados criavam páginas na internet para simular a venda de veículos e outros produtos para enganar as vítimas",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/policia-prende-quatro-suspeitos-de-golpe-do-falso-leilao-em-sp/",
+    "time": "2026-10-20T01:52:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Yuri Alberto manda recado à torcida do Corinthians: “Vamos sair dessa”",
+    "d": "Time paulista empatou com o Vitória e ocupa a primeira posição fora da zona de rebaixamento na tabela de classificação do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/yuri-alberto-manda-recado-a-torcida-do-corinthians-vamos-sair-dessa/",
+    "time": "2026-10-20T01:43:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia devolve cerca de 100 celulares a vítimas de roubo em SP",
+    "d": "Aparelhos foram recuperados durante a Operação Frank Mobile que já apreendeu 60 toneladas de peças e equipamentos",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-devolve-cerca-de-100-celulares-a-vitimas-de-roubo-em-sp/",
+    "time": "2026-10-20T01:42:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda visita de autoridade dos EUA ao Paraguai em meio a presença militar",
+    "d": "Número 2 do Departamento de Estado dos EUA reforça foco da administração Trump nas Américas durante passagem pela América do Sul; a correspondente internacional da CNN na Argentina, Luciana Taddeo, explica o momento a…",
+    "link": "https://www.cnnbrasil.com.br/internacional/entenda-visita-de-autoridade-dos-eua-ao-paraguai-em-meio-a-presenca-militar/",
+    "time": "2026-10-20T01:34:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Perguntamos a 10 jovens como eles decidem o voto",
+    "d": "A repórter Stephanie Rodrigues conversou com dez jovens de 18 a 29 anos, de sete estados e com posições políticas diferentes.",
+    "link": "https://www.bbc.com/portuguese/articles/cr4g197e8l52o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-20T00:39:07.000Z"
   },
   {
     "cat": "brasil",
@@ -110,14 +198,6 @@
     "d": "Clientes fizeram fila na frente das Lojas Americanas, no Salvador Shopping Divulgação A Americanas anunciou nesta segunda-feira (19) que a Justiça do Rio de Janeiro decretou o fim de sua recuperação judicial, aberta e…",
     "link": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml",
     "time": "2026-10-19T23:24:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five ways El Niño is affecting the weather around the world",
-    "d": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-    "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-19T23:08:25.000Z"
   },
   {
     "cat": "brasil",
@@ -171,7 +251,7 @@
     "cat": "internacional",
     "src": "BBC News",
     "h": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-    "d": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+    "d": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
     "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-19T21:14:53.000Z"
   },
@@ -217,14 +297,6 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Debate da Band: o que aconteceu no primeiro confronto entre Lula e Flávio Bolsonaro",
-    "d": "Confronto foi marcado por troca de acusações, provocações e poucas propostas.",
-    "link": "https://www.bbc.com/portuguese/articles/crgqw4y4e07vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-19T20:14:47.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Na TV, Flávio Bolsonaro pede 'mobilização total' e Lula aborda o assassinato de Ana Clara, de 5 anos",
     "d": "A seis dias do segundo turno da eleição presidencial, Flávio Bolsonaro (PL) deu destaque à mobilização de eleitores e Lula(PT) à segurança pública no horário eleitoral desta segunda-feira (19). Lula e Flávio Bolsonaro…",
@@ -256,7 +328,7 @@
     "time": "2026-10-19T19:41:06.000Z"
   },
   {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
     "h": "Quase 500 mil brasileiros na malha fina receberão carta da Receita Federal",
     "d": "Imposto de renda: prazo começa dia 23 de março de 2026. Joédson Alves/Agência Brasil A Receita Federal está enviando cartas a 498.487 contribuintes de todo o país que tiveram a declaração do Imposto de Renda de 2026 r…",
@@ -281,27 +353,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "GloboNews Debate recebe coordenadores das campanhas de Lula e Flávio Bolsonaro nesta segunda-feira",
-    "d": "GloboNews Debate recebe Edinho Silva e Rogério Marinho. Reprodução/GloboNews O GloboNews Debate recebe nesta segunda-feira (19), às 18h20, Edinho Silva, coordenador da campanha do presidente Lula (PT), e Rogério Marin…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-recebe-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro.ghtml",
-    "time": "2026-10-19T18:34:16.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Quem ganhou e quem perdeu no primeiro debate entre Lula e Flávio Bolsonaro",
     "d": "Cientista políticos ouvidos pela BBC News Brasil criticam formado adotado pelo canal de TV e analisam o desempenho de Lula e Flávio a uma semana do 2º turno.",
     "link": "https://www.bbc.com/portuguese/articles/cmd7qyplwzzpo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-19T18:32:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-    "d": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-    "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-19T18:22:48.000Z"
   },
   {
     "cat": "economia",
@@ -352,14 +408,6 @@
     "time": "2026-10-19T16:33:20.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula expôs Flávio em casos de corrupção, e senador acertou ao deixar petista 'visivelmente irritado', avaliam aliados",
-    "d": "Debate da Band entre Flávio Bolsonaro e Lula Reuters/Jean Carniel Integrantes das campanhas do presidente Luiz Inácio Lula da Silva (PT) e do senador Flávio Bolsonaro (PL) avaliaram, nesta segunda-feira (19), que eles…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/19/lula-expos-flavio-em-casos-de-corrupcao-e-senador-acertou-ao-deixar-petista-visivelmente-irritado-avaliam-aliados.ghtml",
-    "time": "2026-10-19T16:24:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
@@ -368,17 +416,9 @@
     "time": "2026-10-19T16:20:51.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC",
-    "d": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC O Ministério da Agricultura (MAPA) registrou um foco da doença de Newcastle (DNC) em uma criação comercial de perus em Nova Itabe…",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
-    "time": "2026-10-19T16:20:43.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+    "h": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
     "d": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
     "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-19T16:16:51.000Z"
@@ -392,28 +432,12 @@
     "time": "2026-10-19T16:08:14.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "ANPD dá cinco dias para Meta explicar suspensão de contas e remoção de posts",
-    "d": "Logo da Meta. Daniel Cole/Reuters A Agência Nacional de Proteção de Dados (ANPD) deu cinco dias úteis para que a Meta, dona do Instagram, do WhatsApp e do Facebook, esclareça denúncias de possíveis violações aos direi…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/19/anpd-da-cinco-dias-para-meta-explicar-suspensao-de-contas-e-remocao-de-posts.ghtml",
-    "time": "2026-10-19T15:14:46.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Drone attack near market kills 80 in Sudan",
     "d": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching ride…",
     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
     "time": "2026-10-19T14:45:53.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Governo antecipa calendário do Bolsa Família a seis dias do 2º turno; veja as datas",
-    "d": "Bolsa Familia Reprodução O governo federal antecipou os pagamentos do Bolsa Família de outubro e concentrou os depósitos em três datas. A parcela deste mês será a primeira com o piso de R$ 691, anunciado pelo governo…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-pagamentos-calendario.ghtml",
-    "time": "2026-10-19T14:21:25.000Z"
   },
   {
     "cat": "brasil",
@@ -430,22 +454,6 @@
     "d": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
     "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-19T14:13:18.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ri Happy pede recuperação extrajudicial para renegociar R$ 827 milhões em dívidas",
-    "d": "Loja da Ri Happy Divulgação A Ri Happy e outras cinco empresas do grupo pediram recuperação extrajudicial à Justiça de São Paulo, no domingo (18), para renegociar R$ 827,4 milhões em dívidas. Credores que representam…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/19/ri-happy-pede-recuperacao-extrajudicial.ghtml",
-    "time": "2026-10-19T14:12:20.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Lindt troca CEO após queda nas vendas e alta no preço do cacau",
-    "d": "Placa da Lindt é vista em sua loja no Woodbury Common Premium Outlets, em Central Valley, Nova York, Estados Unidos, em 15 de fevereiro de 2022 Reuters/Andrew Kelly A Lindt & Sprüngli anunciou nesta segunda-feira (19)…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/cacau-chocolate-ceo.ghtml",
-    "time": "2026-10-19T14:11:40.000Z"
   },
   {
     "cat": "internacional",
