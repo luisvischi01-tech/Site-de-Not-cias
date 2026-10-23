@@ -1,131 +1,251 @@
 [
   {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições 2026: veja como as urnas no exterior são preparadas para o segundo turno de votação",
+    "d": "2º turno: veja como funciona preparação das urnas para exterior Apenas 21 dias separam o primeiro e o segundo turno das eleições de 2026. O tempo pode parecer longo para eleitores engajados nas campanhas, mas é bem cu…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/eleicoes-2026-veja-como-as-urnas-no-exterior-sao-preparadas-para-o-segundo-turno-de-votacao.ghtml",
+    "time": "2026-10-23T05:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Pobreza de luxo': por que tanta gente consegue viajar e consumir, mas não comprar uma casa?",
+    "d": "Pobreza de luxo: por que o presente vale mais que o futuro? A expressão \"pobreza de luxo\" ganhou espaço nas redes sociais para definir um comportamento marcado pelo consumo de itens e experiências acessíveis por meio…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/10/23/pobreza-de-luxo-por-que-tanta-gente-consegue-viajar-e-consumir-mas-nao-comprar-uma-casa.ghtml",
+    "time": "2026-10-23T05:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+    "d": "Officials say they both travelled through Entebbe International Airport on 3 October.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T04:54:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jardim aponta “pecados” do Flamengo e explica a demora nas alterações",
+    "d": "Time rubro-negro não teve bom desempenho nos dois jogos da semifinal do torneio continental e acabou sendo eliminado nos pênaltis diante do Estudiantes-ARG",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/jardim-aponta-pecados-do-flamengo-e-explica-a-demora-nas-alteracoes/",
+    "time": "2026-10-23T04:16:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+    "d": "Search and rescue efforts under way after quake strikes region’s north, officials say, while at least seven aftershocks recorded A magnitude-7 earthquake has hit China’s Tibet region, killing at least 16 people, injur…",
+    "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+    "time": "2026-10-23T04:04:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estudiantes x Palmeiras: times já decidiram a Libertadores no Centenario",
+    "d": "Rivais se encontraram oficialmente apenas em uma ocasião na história: nas finais da competição de 1968 que, coincidentemente, terminaram no Uruguai",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/estudiantes-x-palmeiras-times-ja-decidiram-a-libertadores-no-centenario/",
+    "time": "2026-10-23T03:51:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo 0 (2) x (3) 0 Estudiantes: veja os melhores momentos e pênaltis",
+    "d": "Rubro-Negro foi eliminado da Libertadores 2026 em pleno Maracanã após ter ficado com um a mais desde os 5 minutos do segundo tempo",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-0-2-x-3-0-estudiantes-veja-os-melhores-momentos-e-penaltis/",
+    "time": "2026-10-23T03:46:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Veja quanto o Flamengo ganhou em premiação na Copa Libertadores 2026",
+    "d": "Sem alcançar a final, o clube carioca deixou de embolsar pelo menos 7 milhões de dólares (R$ 35,5 milhões), concedido pela Conmebol ao vice-campeão da competição continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/veja-quanto-o-flamengo-ganhou-em-premiacao-na-copa-libertadores-2026/",
+    "time": "2026-10-23T03:39:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula x Flávio Bolsonaro: o que vai decidir a eleição mais acirrada da história - O Assunto #1831",
+    "d": "O resultado do 1º turno deu a Flávio Bolsonaro (PL) uma vantagem de 2,2 milhões de votos em relação a Lula (PT). Desde então, a média das pesquisas eleitorais aponta empate técnico com vantagem numérica para o candida…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/23/lula-x-flavio-bolsonaro-o-que-vai-decidir-a-eleicao-mais-acirrada-da-historia-o-assunto-1831.ghtml",
+    "time": "2026-10-23T03:30:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bruno Henrique mostra abatimento após queda do Flamengo: “Difícil falar”",
+    "d": "Mesmo com um jogador a mais, time carioca não conseguiu superar a defesa do Estudiantes e deu adeus à chance de conquistar o quinto título da competição internacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/bruno-henrique-mostra-abatimento-apos-queda-do-flamengo-dificil-falar/",
+    "time": "2026-10-23T03:24:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PM acha 17º corpo em SP com mesmo modus operandi; autoridades negam relação",
+    "d": "Vítima ainda não identificada apresentava indícios de tortura e estava com as mãos amarradas e foi encontrada na rua coberta por saco plástico",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/pm-acha-17-corpo-em-sp-com-mesmo-modus-operandi-autoridades-negam-relacao/",
+    "time": "2026-10-23T03:14:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Palmeiras x Estudiantes na final da Libertadores: veja data e local",
+    "d": "Time alviverde passou pelo Fluminense na semifinal na quarta-feira; equipe argentina ganhou do Flamengo nesta quinta-feira, no Maracanã",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-x-estudiantes-na-final-da-libertadores-veja-data-e-local/",
+    "time": "2026-10-23T03:07:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vox: 48,1% desaprovam governo Lula; 46,9% aprovam",
+    "d": "Levantamento do instituto Vox Brasil entrevistou 2.100 eleitores presencialmente entre os dias 20 e 22 de outubro",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-481-desaprovam-governo-lula-469-aprovam/",
+    "time": "2026-10-23T03:03:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vox: 47,1% rejeitam voto em Flávio; 44,8%, em Lula",
+    "d": "Levantamento entrevistou 2.100 eleitores entre os dias 20 e 22 de outubro; margem de erro é de 2,15 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-471-rejeitam-voto-em-flavio-448-em-lula/",
+    "time": "2026-10-23T03:02:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Datafolha, 2º turno: veja intenção de voto por região, gênero, idade, identificação política, renda, cor e religião",
+    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 46% Pesquisa Datafolha divulgada nesta quinta-feira (22) mostra que Flávio Bolsonaro (PL) tem 47% das intenções de voto, contra 46% de Lula (PT). Os dois estão em empa…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-presidente-segundo-turno-22-outubro-recortes.ghtml",
+    "time": "2026-10-23T03:01:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vox: Lula tem 50,6% dos votos válidos no 2º turno; Flávio, 49,4%",
+    "d": "Pesquisa ouviu 2.100 eleitores de todo o Brasil entre os dias 20 e 22 de outubro, com uma margem de erro de 2,15 pontos percentuais, para mais ou para menos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/vox-lula-tem-506-dos-votos-validos-no-2o-turno-flavio-494/",
+    "time": "2026-10-23T03:00:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dia do Servidor Público é feriado nacional ou ponto facultativo? Veja quem folga",
+    "d": "Dia do Servidor Público é feriado ou ponto facultativo? Veja quem folga Jornal Nacional/ Reprodução Na próxima quarta-feira (28), é celebrado o Dia do Servidor Público. A data não é feriado nacional, mas é considerada…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/dia-do-servidor-publico-veja-quem-folga.ghtml",
+    "time": "2026-10-23T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Entre o PIX de R$ 1 e as grandes doações: o que mudou no financiamento das campanhas presidenciais de 2022 a 2026",
+    "d": "Dados do Tribunal Superior Eleitoral (TSE) mostram dois modelos de financiamento por pessoas físicas nas campanhas de Lula (PT) e Flávio Bolsonaro (PL) à Presidência. O candidato do PL concentra sua arrecadação em pou…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/o-perfil-das-doacoes-a-lula-e-flavio-bolsonaro.ghtml",
+    "time": "2026-10-23T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "34% dos doadores da campanha de Flávio Bolsonaro financiaram também Jair em 2022; Lula teve 1,4% de recorrência nas duas eleições",
+    "d": "Flávio Bolsonaro e Lula em entrevista com Renata Lo Prete Globo/ Manoella Mello Mais de um terço dos doadores de campanha do candidato a presidente de Flávio Bolsonaro (PL) financiaram também a candidatura do pai dele…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/doadores-recorrentes-campanhas-2022-2026-flavio-bolsonaro-lula.ghtml",
+    "time": "2026-10-23T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Com apoio do Centrão e da esquerda, Motta pode isolar PL na escolha por comissões em 2027",
+    "d": "PSB e PDT e PV declaram apoio à reeleição de Motta e se juntam à bloco majoritário da Câmara Com apoio de 10 partidos do Centrão, três da esquerda (PDT, PSB e PV) e o indicativo de que o PT irá apoiá-lo, o presidente…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/23/com-apoio-do-centrao-e-da-esquerda-motta-pode-isolar-pl-na-escolha-por-comissoes-em-2027.ghtml",
+    "time": "2026-10-23T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro é orientado a baixar o tom, e Lula, a evitar provocações no debate da Globo",
+    "d": "Flávio Bolsonaro (PL) e Lula (PT) em agenda de campanha na quarta-feira (21/10) Montagem/g1 Os candidatos à Presidência da República Lula (PT) e Flávio Bolsonaro (PL) dedicaram a quinta-feira (22) à preparação para o…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-estrategias-flavio-bolsonaro-e-lula.ghtml",
+    "time": "2026-10-23T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Como será o debate presidencial da Globo? Entenda as regras",
+    "d": "Flávio Bolsonaro e Lula durante entrevistas à TV Globo. Globo/ Manoella Mello O debate presidencial da TV Globo entre Flávio Bolsonaro (PL) e Lula (PT) será realizado nesta sexta, dia 23 de outubro, com início program…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/como-sera-o-debate-presidencial-da-globo-entenda-as-regras.ghtml",
+    "time": "2026-10-23T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Debate presidencial da Globo: quando será e onde assistir",
+    "d": "Flávio Bolsonaro e Lula durante entrevistas à TV Globo. Globo/ Manoella Mello O debate presidencial da TV Globo será realizado nesta sexta-feira (23), com a participação de Luiz Inácio Lula da Silva (PT) e Flávio Bols…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-presidencial-da-globo-quando-e-onde-assistir.ghtml",
+    "time": "2026-10-23T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "EUA já registraram 20 milhões de votos para as eleições de Meio de Mandato",
+    "d": "Califórnia lidera como estado com maior número de votos, com cerca de 2,3 milhões; número equivale a 18% do total computado em 2022",
+    "link": "https://www.cnnbrasil.com.br/internacional/eua-ja-registraram-20-milhoes-de-votos-para-as-eleicoes-de-meio-de-mandato/",
+    "time": "2026-10-23T02:51:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Libertadores: Flamengo x Estudiantes bate recorde de público no Brasil",
+    "d": "Torcida rubro-negra veio em peso para o confronto por uma vaga na decisão continental; apenas público da NFL foi maior que desta quinta-feira (22)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/libertadores-flamengo-x-estudiantes-bate-recorde-de-publico-no-brasil/",
+    "time": "2026-10-23T02:49:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Brazil’s election and the battle for the Amazon – podcast",
+    "d": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and que…",
+    "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+    "time": "2026-10-23T02:00:56.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Trump ordered to answer questions under oath in BBC lawsuit",
     "d": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
     "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T00:10:46.000Z"
+    "time": "2026-10-23T01:38:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fato ou Fake: entenda como funcionam as checagens e o trabalho da equipe",
+    "d": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate da Globo Lançado em 2018, O Fato ou Fake, serviço de checagem do Grupo Globo, reúne profissionais das sete Redações: TV Globo, g1, GloboNews, \"O G…",
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/22/fato-ou-fake-entenda-como-funcionam-as-checagens-e-o-trabalho-da-equipe.ghtml",
+    "time": "2026-10-23T00:35:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: fim da escala 6x1 e Caso Master tiveram maior impacto no voto para presidente no 1º turno",
+    "d": "Lula (à esq) e Flávio Bolsonaro (à dir) participaram de sabatinas na TV Globo Divulgação Pesquisa Quaest divulgada nesta quinta-feira (22) aponta que os eleitores consideraram notícias sobre o fim da escala 6 por 1 e…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-noticia-impacto-escolha-voto-presidente-1-turno.ghtml",
+    "time": "2026-10-23T00:33:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: maioria diz que Flávio Bolsonaro tem maior chance de reduzir impostos, e Lula, de manter programas sociais",
+    "d": "Flávio Bolsonaro (PL) e Lula (PT) em agenda de campanha na última quarta-feira (21) Montagem/g1 Pesquisa Quaest divulgada nesta quinta-feira (22) mostra que, para a maioria dos eleitores entrevistados, Flávio Bolsonar…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-candidatos-potencial.ghtml",
+    "time": "2026-10-23T00:33:11.000Z"
   },
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Mega-Sena, concurso 3073: confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.073 da Mega-Sena foi realizado na noite desta quinta-feira (22), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 206,4 milhões. 📱Favorit…",
+    "h": "Mega-Sena 3073 acumula e prêmio vai a R$ 230 milhões; confira os números sorteados",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.073 da Mega-Sena foi realizado na noite desta quinta-feira (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 206,4 milhões.No enta…",
     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-concurso-3073-confira-os-numeros-sorteados.ghtml",
     "time": "2026-10-23T00:04:39.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Powerful earthquake hits Tibet killing 16 people, reports say",
-    "d": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T00:00:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Veja quem Renan Santos apoia no 2º turno entre Flávio e Lula",
-    "d": "Com críticas à candidatura de Flávio Bolsonaro, líder do Missão declara que não apoia nenhum dos candidatos na disputa do segundo turno",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/veja-quem-renan-santos-apoia-no-2o-turno-entre-flavio-e-lula/",
-    "time": "2026-10-22T23:58:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tesouro dos EUA suspende restrições a investimentos ligados à Venezuela",
-    "d": "Órgão também incluiu China na proposta de regulamentação para análise de investimentos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/tesouro-dos-eua-suspende-restricoes-a-investimentos-ligados-a-venezuela/",
-    "time": "2026-10-22T23:52:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA elogiam avanço nas negociações para reconciliação política na Venezuela",
-    "d": "Em comunicado, porta-voz do Departamento de Estado dos Estados Unidos afirmou que o processo \"continua a fortalecer as instituições democráticas\" e defendeu a libertação imediata de presos políticos no país",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-elogiam-avanco-nas-negociacoes-para-reconciliacao-politica-na-venezuela/",
-    "time": "2026-10-22T23:52:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leonardo falta a aniversário de Maria Flor e Poliana esclarece motivo",
-    "d": "Cantor sertanejo se ausentou pela 3ª vez em aniversário de netos e levantou novamente suspeitas de um possível climão com Virginia após divórcio com Zé Felipe",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/leonardo-falta-a-aniversario-de-maria-flor-e-poliana-esclarece-motivo/",
-    "time": "2026-10-22T23:46:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "KPGM: Presença de mulheres nos conselhos chega a 17%",
-    "d": "Pesquisa da KPMG aponta maior índice em 13 anos de participação feminina em conselhos de administração no Brasil",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/kpgm-presenca-de-mulheres-nos-conselhos-chega-a-17/",
-    "time": "2026-10-22T23:45:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "‘Caixa-preta’ de helicóptero que matou Rick não salvou conversas do voo",
-    "d": "Relatório do Cenipa aponta que áudios do gravador eram sobre manutenção antiga e apura falta de teste antes da decolagem",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/caixa-preta-de-helicoptero-que-matou-rick-nao-salvou-conversas-do-voo/",
-    "time": "2026-10-22T23:35:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Polícias do Rio recebem primeiros fuzis antidrones contra o crime",
-    "d": "Equipamento não dispara munições ou projéteis, apenas lança ondas de radiofrequência para neutralizar aeronaves usadas por facções no transporte de armas e drogas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policias-do-rio-recebem-primeiros-fuzis-antidrones-contra-o-crime/",
-    "time": "2026-10-22T23:35:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nova York proíbe passeios com carruagens puxadas por cavalos",
-    "d": "Medida começa a valer a partir de junho de 2028 e encerra uma atração turística histórica da cidade; projeto teve apoio do prefeito Zohran Mamdani",
-    "link": "https://www.cnnbrasil.com.br/internacional/nova-york-proibe-passeios-com-carruagens-puxadas-por-cavalos/",
-    "time": "2026-10-22T23:29:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula diz que Meta vai ter que ser reinventada e que empresa 'não pode enganar a humanidade todo tempo'",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) disse nesta quinta-feira (22) que a empresa Meta (dona do Facebook, WhatsApp e Instagram) terá que ser reinventada e que não pode achar que pode enganar a humanidade \"todo t…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/lula-diz-que-meta-vai-ter-que-ser-reinventada-e-que-empresa-nao-pode-enganar-a-humanidade-todo-tempo.ghtml",
-    "time": "2026-10-22T23:25:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Título antecipado da F1? Antonelli diz que quer se divertir no GP dos EUA",
-    "d": "Probabilidade é pequena, mas o italiano pode ficar com o troféu da principal categoria do automobilismo mundial já no próximo domingo (25)",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/titulo-antecipado-da-f1-antonelli-diz-que-quer-se-divertir-no-gp-dos-eua/",
-    "time": "2026-10-22T23:24:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Setor imobiliário investe em IA para captar clientes e otimizar vendas",
-    "d": "Inteligência artificial é destaque em evento em São Paulo como ferramenta para reduzir o tempo médio de compra de imóveis no Brasil",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/setor-imobiliario-investe-em-ia-para-captar-clientes-e-otimizar-vendas/",
-    "time": "2026-10-22T23:21:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula pede ao TSE retirada do “Exército do Lula” de registro da campanha",
-    "d": "Defesa afirma que canal administrado pelo deputado André Janones não atende aos critérios do TSE para ser considerado vinculado à candidatura",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-pede-ao-tse-retirada-do-exercito-do-lula-de-registro-da-campanha/",
-    "time": "2026-10-22T23:21:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Você confere o celular várias vezes antes de sair de casa? Entenda o que a psicologia explica sobre esse hábito",
-    "d": "Hábito de verificar objetos antes de sair pode estar ligado à busca por segurança e à confiança na memória, mas nem sempre indica ansiedade",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/voce-confere-o-celular-varias-vezes-antes-de-sair-de-casa-entenda-o-que-a-psicologia-explica-sobre-esse-habito/",
-    "time": "2026-10-22T23:20:13.000Z"
   },
   {
     "cat": "internacional",
@@ -153,27 +273,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "PGR defende que STF rejeite pedido de acesso a dados de visitas de esposa de Moraes e Vorcaro ao Senado",
-    "d": "A Procuradoria-Geral da República (PGR) defendeu nesta quinta-feira (22) que o Supremo Tribunal Federal (STF) rejeite o pedido de um vereador de Curitiba (PR) para ter acesso a registros de entrada e saída no Senado F…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/pgr-defende-que-stf-rejeite-pedido-de-acesso-a-dados-de-visitas-de-esposa-de-moraes-e-vorcaro-ao-senado.ghtml",
-    "time": "2026-10-22T22:58:49.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O que devemos comer para ter a pele mais jovem",
     "d": "Plantas, gorduras e alimentos fermentados podem reduzir as rugas, promover o colágeno e melhorar a textura da nossa pele.",
     "link": "https://www.bbc.com/portuguese/articles/cjvgxqerp95ro?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-22T22:56:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "#FATO, #FAKE e #NÃOÉBEMASSIM: Entenda selos usados pelo Fato ou Fake nas checagens de debates e entrevistas em eleições",
-    "d": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate da Globo O Fato ou Fake, serviço de checagens do Grupo Globo, preparou uma cobertura especial para verificar as declarações feitas pelos candidato…",
-    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/22/fato-fake-e-naoebemassim-entenda-selos-usados-pelo-fato-ou-fake-nas-checagens-de-debates-e-entrevistas-em-eleicoes.ghtml",
-    "time": "2026-10-22T22:32:37.000Z"
   },
   {
     "cat": "internacional",
@@ -184,44 +288,12 @@
     "time": "2026-10-22T22:27:53.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha: 49% aprovam governo Lula, e 48% desaprovam",
-    "d": "Datafolha: 49% aprovam governo Lula, e 48% desaprovam Pesquisa Datafolha divulgada nesta quinta-feira (22), a três dias do segundo turno, mostra que 49% dos eleitores entrevistados aprovam o governo do presidente Lula…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-aprova-desaprova-governo-22-outubro.ghtml",
-    "time": "2026-10-22T22:06:40.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Trabalhadora grávida impedida de pausar atendimento para vomitar receberá R$ 30 mil",
     "d": "Gravidez, mulher grávida. Reprodução/DPESP A Sétima Turma do Tribunal Superior do Trabalho (TST) aumentou de R$ 5 mil para R$ 30 mil a indenização por danos morais que a Telefônica do Brasil (Vivo) e a Vikstar Contact…",
     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/22/gravida-funcionaria-sera-indenizada-em-r-30-mil-apos-ser-obrigada-a-vomitar-em-lixeira-no-trabalho.ghtml",
     "time": "2026-10-22T22:06:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 2º turno: Flávio Bolsonaro tem rejeição de 46%, e Lula, de 45%",
-    "d": "Pesquisa Datafolha divulgada nesta quinta-feira (22), a três dias do segundo turno, mostra que 46% dos eleitores entrevistados rejeitam Flávio Bolsonaro (PL) como opção de voto, e 45% rejeitam Lula (PT). Outros 3% dos…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-rejeicao-22-outubro.ghtml",
-    "time": "2026-10-22T22:05:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 46%",
-    "d": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 46% Pesquisa Datafolha divulgada nesta quinta-feira (22), a três dias do segundo turno, mostra Flávio Bolsonaro (PL) com 47% das intenções de voto, e Lula tem 46%, em…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-presidente-segundo-turno-22-outubro.ghtml",
-    "time": "2026-10-22T22:04:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TV Globo realiza debate com os candidatos à Presidência da República",
-    "d": "TV Globo realiza debate com os candidatos à Presidência da República A TV Globo realiza, nesta sexta-feira (23), o debate entre os candidatos à Presidência da República que disputam o segundo turno: Flávio Bolsonaro (…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml",
-    "time": "2026-10-22T21:57:23.000Z"
   },
   {
     "cat": "internacional",
@@ -248,52 +320,12 @@
     "time": "2026-10-22T21:42:39.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mendonça diz que Lula e Flávio podem disponibilizar sigilos por conta própria e não cabe ao TSE definir divulgação",
-    "d": "Mendonça diz que Flávio e Lula podem abrir sigilo sem precisar de aval do TSE O ministro André Mendonça, vice-presidente do Tribunal Superior Eleitoral (TSE), afirmou que não cabe ao tribunal definir ou não o que os c…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/desafio-dos-sigilos-mendonca-diz-que-nao-cabe-ao-tse-definir-o-que-cada-candidato-quer-ou-nao-divulgar.ghtml",
-    "time": "2026-10-22T21:40:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Guerra das campanhas: lei eleitoral não prevê regras para a abertura de sigilo por candidatos",
-    "d": "Flávio Bolsonaro e Lula REUTERS/Diego Herculano e REUTERS/Adriano Machado O desafio lançado pelo presidente e candidato do PT à reeleição, Luiz Inácio Lula da Silva (PL), a seu adversário, o senador Flávio Bolsonaro (…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/22/guerra-das-campanhas-lei-eleitoral-nao-preve-regras-para-a-abertura-de-sigilo-por-candidatos.ghtml",
-    "time": "2026-10-22T21:39:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro x Lula: veja quem Augusto Cury, Renan Santos e outros candidatos a presidente derrotados no 1º turno apoiam",
-    "d": "Candidatos Flávio Bolsonaro e Lula participam de debate da Band antes do 2º turno das eleições. REUTERS/Jean Carniel Os candidatos à Presidência da República que perderam a eleição no 1º turno se dividem quanto aos ap…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/flavio-bolsonaro-x-lula-augusto-cury-renan-santos-candidatos-presidente-derrotados-apoio.ghtml",
-    "time": "2026-10-22T21:23:53.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
     "d": "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros Discovery Elon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison.…",
     "link": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
     "time": "2026-10-22T21:23:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Parlamentares dos EUA cobram explicações de Zuckerberg sobre ações da Meta na eleição brasileira",
-    "d": "Conselho de Supervisão da Meta critica atuação da empresa durante as eleições no Brasil Um grupo de 13 parlamentares dos Estados Unidos enviaram uma carta nesta quinta-feira (22) ao CEO da Meta, Mark Zuckerberg, cobra…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/22/parlamentares-dos-eua-cobram-explicacoes-de-zuckerberg-sobre-acoes-da-meta-na-eleicao-brasileira.ghtml",
-    "time": "2026-10-22T20:44:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Defesa pede ao TSE desvinculação do canal 'Exército do Lula' da campanha de Lula",
-    "d": "A defesa do presidente Luiz Inácio Lula da Silva (PT) apresentou uma petição no Tribunal Superior Eleitoral (TSE) solicitando o \"cancelamento da anotação\" do endereço do canal de mensagens do WhatsApp \"Exército do Lul…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/defesa-pede-ao-tse-desvinculacao-do-canal-exercito-do-lula-da-campanha-de-lula.ghtml",
-    "time": "2026-10-22T20:14:01.000Z"
   },
   {
     "cat": "internacional",
@@ -473,14 +505,6 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
-    "d": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar Getty Images via BBC Durante mais de uma década, falhas graves passaram despercebidas em uma tecnologia usada por grande parte da interne…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/22/o-que-e-php-e-a-falha-grave-de-seguranca-detectada-por-ia-que-tirou-sites-do-ar.ghtml",
-    "time": "2026-10-22T11:14:54.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
     "d": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer y…",
@@ -494,14 +518,6 @@
     "d": "Influente revista britânica afirma que segundo turno da eleição brasileira será provavelmente o mais acirrado desde a redemocratização.",
     "link": "https://www.bbc.com/portuguese/articles/cq98znj6rgk8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-22T09:59:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "CLT, aposentado, estudante ou MEI? Veja as propostas de Lula e Flávio para o seu bolso",
-    "d": "Lula (à esq) e Flávio Bolsonaro (à dir) participaram de sabatinas na TV Globo Divulgação Os planos de governo de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) para a Presidência da República trazem diferentes…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/22/propostas-de-lula-e-flavio-para-o-seu-bolso.ghtml",
-    "time": "2026-10-22T08:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -518,14 +534,6 @@
     "d": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, t…",
     "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
     "time": "2026-10-21T17:18:56.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
-    "d": "Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors say Taiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Comm…",
-    "link": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
-    "time": "2026-10-21T16:13:53.000Z"
   },
   {
     "cat": "internacional",
@@ -614,14 +622,6 @@
     "d": "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday. Ann Altman accused the…",
     "link": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
     "time": "2026-10-20T15:34:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
-    "d": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unc…",
-    "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
-    "time": "2026-10-20T12:00:36.000Z"
   },
   {
     "cat": "brasil",
