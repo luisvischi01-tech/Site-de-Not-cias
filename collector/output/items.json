@@ -1,75 +1,243 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "d": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T19:20:41.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Ele adormeceu abraçado com uma guepardo selvagem e a reação carinhosa do animal fez fotógrafo sangrar no rosto",
-    "d": "Zoólogo Dolph Volker usou visita a santuário de grandes felinos para \"criar laços\" com guepardos e incentivar a proteção da espécie",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/ele-adormeceu-abracado-com-uma-guepardo-selvagem-e-a-reacao-carinhosa-do-animal-fez-fotografo-sangrar-no-rosto/",
-    "time": "2026-10-23T15:13:15.000Z"
+    "h": "Onde foi tirada a primeira foto de um ser humano? Descoberta em Paris revela o ponto exato da imagem de 1838",
+    "d": "Foto foi tirada em 1838 pelo pintor e gravurista Louis Daguerre, que inventou o processo fotográfico do daguerreótipo, em que uma imagem única é formada em uma placa de metal polido",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/onde-foi-tirada-a-primeira-foto-de-um-ser-humano-descoberta-em-paris-revela-o-ponto-exato-da-imagem-de-1838/",
+    "time": "2026-10-23T19:07:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grupo Geely anuncia parceria com Google para melhorar integração digital",
+    "d": "Google Automotive Services estará presente nas marcas de veículos de passeio do grupo globalmente a partir do segundo semestre de 2027",
+    "link": "https://www.cnnbrasil.com.br/auto/grupo-geely-anuncia-parceria-com-google-para-melhorar-integracao-digital/",
+    "time": "2026-10-23T19:07:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE monitora clima para evitar problemas durante o segundo turno",
+    "d": "Sala de situação climática no TSE acompanhará chuvas intensas no Sul e Sudeste e queimadas no Norte e Nordeste no domingo de eleições",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-monitora-clima-para-evitar-problemas-durante-o-segundo-turno/",
+    "time": "2026-10-23T19:05:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça veta Tifanny por unanimidade, e atleta não pode jogar na Superliga",
+    "d": "Justiça Desportiva revoga liminar por unanimidade nesta sexta-feira (23) e impede atleta de defender o Osasco na Superliga Feminina de Vôlei",
+    "link": "https://www.cnnbrasil.com.br/esportes/volei/justica-veta-tifanny-por-unanimidade-e-atleta-nao-pode-jogar-na-superliga/",
+    "time": "2026-10-23T19:01:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Roupa branca encardida: o que melhora a lavagem de verdade?",
+    "d": "Suor, gordura e minerais da água encardem o branco; pré-lavagem, temperatura adequada e produtos à base de oxigênio ajudam a reverter",
+    "link": "https://www.cnnbrasil.com.br/comportamento/casa-e-decoracao/roupa-branca-encardida-o-que-melhora-a-lavagem-de-verdade/",
+    "time": "2026-10-23T19:00:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Los Angeles Lakers x Los Angeles Clippers: horário e onde assistir à NBA",
+    "d": "Los Angeles Lakers e Los Angeles Clippers se enfrentam nesta sexta-feira (23), às 23h (horário de Brasília), na Crypto.com Arena",
+    "link": "https://www.cnnbrasil.com.br/esportes/basquete/los-angeles-lakers-x-los-angeles-clippers-horario-e-onde-assistir-a-nba/",
+    "time": "2026-10-23T19:00:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Golden State Warriors x Memphis Grizzlies: horário e onde assistir à NBA",
+    "d": "Golden State Warriors e Memphis Grizzlies se enfrentam nesta sexta-feira (23), às 23h00 (horário de Brasília), no Chase Center.",
+    "link": "https://www.cnnbrasil.com.br/esportes/basquete/golden-state-warriors-x-memphis-grizzlies-horario-e-onde-assistir-a-nba/",
+    "time": "2026-10-23T19:00:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Yudi Tamashiro detalha reforma com ajuda de IA em nova casa no Japão",
+    "d": "Ex-apresentador do SBT se mudou no início do mês com a esposa, Mila, e o filho do casal, Davi Yudi",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/yudi-tamashiro-detalha-reforma-com-ajuda-de-ia-em-nova-casa-no-japao/",
+    "time": "2026-10-23T19:00:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Café arábica cai 1,6% em Nova York com expectativa de alta nos estoques",
+    "d": "Relatos de aumento no volume de café à espera de classificação na ICE pressionam as cotações, enquanto os estoques certificados seguem próximos da mínima de 27 anos",
+    "link": "https://www.cnnbrasil.com.br/agro/cafe-arabica-cai-16-em-nova-york-com-expectativa-de-alta-nos-estoques/",
+    "time": "2026-10-23T18:59:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Monfils defende Svitolina após ataques por divórcio do casal; entenda",
+    "d": "Tenista francês antecipou a aposentadoria das quadras por conta dos problemas pessoais",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/monfils-defende-svitolina-apos-ataques-por-divorcio-do-casal-entenda/",
+    "time": "2026-10-23T18:59:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia Civil investiga morte de seis crianças em hospital de SP",
+    "d": "Casos no Hospital Salvalus ocorreram ao longo do ano e agentes analisam prontuários médicos além de ouvir testemunhas",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-civil-investiga-morte-de-seis-criancas-em-hospital-de-sp/",
+    "time": "2026-10-23T18:59:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Golpe desvia 2,3 mil cabeças de gado de pecuarista no RS",
+    "d": "Investigação aponta prejuízo superior a R$ 11 milhões; operação apreendeu 400 bovinos e bloqueou bens e ativos de suspeitos.",
+    "link": "https://www.cnnbrasil.com.br/agro/golpe-desvia-23-mil-cabecas-de-gado-de-pecuarista-no-rs/",
+    "time": "2026-10-23T18:58:31.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ukraine says Starlink still restricted after Trump says limits lifted",
+    "d": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T18:52:17.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
+    "d": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar O Japão anunciou nesta sexta-feira (23) que criará uma equipe para simular ataques cibernéticos com inteligência artificial (IA) e identi…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
+    "time": "2026-10-23T18:45:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio",
+    "d": "Candidatos à Presidência se enfrentam hoje pela última vez antes do segundo turno, marcado para domingo (25/10).",
+    "link": "https://www.bbc.com/portuguese/articles/cx8dzrn1j54po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T18:13:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "d": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T18:10:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Após Flávio citar volta do Perse, governo fala em projeto para perdoar dívidas de bares, restaurantes e empresas de eventos do Simples",
+    "d": "A campanha do presidente Luiz Inácio Lula da Silva (PT) afirmou que o governo do petista vai enviar ao Congresso Nacional um projeto de lei para anistiar dívida ativa da União de empresas do Simples Nacional do setor…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
+    "time": "2026-10-23T18:02:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
+    "d": "Presidente eleito terá que lidar com a insatisfação do brasileiro com o custo de vida e cobrança do mercado por um ajuste nas contas públicas, em meio a uma economia em desaceleração.",
+    "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T17:40:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
+    "d": "Para cientista político, abstenção e brancos e nulos têm pouca margem; Nordeste, Sudeste e conversão de eleitores adversários serão os números a observar na apuração do segundo turno.",
+    "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T17:32:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+    "d": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against he…",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+    "time": "2026-10-23T17:14:16.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
     "h": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-    "d": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "d": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T15:06:27.000Z"
+    "time": "2026-10-23T16:59:51.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Contra abstenção, governadores eleitos mobilizam bases para Flávio e Lula",
-    "d": "Nomes já eleitos em primeiro turno intensificam agendas ao lado de prefeitos aliados e lideranças regionais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/contra-abstencao-governadores-eleitos-mobilizam-bases-para-flavio-e-lula/",
-    "time": "2026-10-23T15:04:51.000Z"
-  },
-  {
-    "cat": "brasil",
+    "cat": "economia",
     "src": "G1",
-    "h": "Aliados de Flávio criticam erros de Nikolas em vídeos sobre Nordeste e temem reflexos negativos",
-    "d": "A campanha do candidato do PL à Presidência, Flávio Bolsonaro, classificou como um \"erro\" o que, à primeira vista, parecia um acerto: os vídeos do deputado Nikolas Ferreira (PL-MG) com eleitores do Nordeste reclamando…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/23/aliados-de-flavio-criticam-erros-de-nikolas-em-videos-sobre-nordeste-e-temem-reflexos-negativos-na-regiao.ghtml",
-    "time": "2026-10-23T15:01:06.000Z"
+    "h": "Mercado de canetas emagrecedoras pode triplicar até 2035 e chegar a US$ 22 bilhões",
+    "d": "Anvisa alerta para riscos de canetas emagrecedoras caseiras com tirzepatida em pó O mercado de medicamentos para emagrecer, como as canetas de GLP-1, no Brasil, na China e na Índia pode crescer dos atuais US$ 6,6 bilh…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/23/mercado-de-canetas-emagrecedoras-pode-triplicar-ate-2035-e-chegar-a-us-22-bilhoes.ghtml",
+    "time": "2026-10-23T16:51:25.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+    "d": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict gri…",
+    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+    "time": "2026-10-23T16:48:28.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic",
+    "d": "Por que tanta gente está falando do Claude? Conheça a IA mais perigosa do mundo A Anthropic afirmou nesta sexta-feira (23) que o modelo de inteligência artificial Claude Mythos 5 tentou inserir um código malicioso em…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
+    "time": "2026-10-23T16:16:21.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ministro da Fazenda fala em ajuste das contas públicas sem 'dar cavalo de pau' ou 'fazer loucuras'; Flávio tem prometido 'tesouraço'",
+    "d": "Agora no g1 O ministro da Fazenda, Dario Durigan, afirmou nesta sexta-feira (23) que o programa de governo do presidente Luiz Inácio Lula da Silva, candidato do PT à reeleição, contempla um ajuste das contas públicas…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml",
+    "time": "2026-10-23T16:09:12.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-    "d": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
-    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T15:00:27.000Z"
+    "h": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "d": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T15:37:07.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "US Justice Department investigating Corey Lewandowski over DHS role",
+    "h": "Oil spill washes up on UAE beaches after tanker strike",
+    "d": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-23T15:30:47.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Governo vai estudar recarga de carros elétricos para expandir a infraestrutura de carregadores",
+    "d": "Chevrolet Captiva EV pronto para ser recarregado. Divulgação / GM O Ministério de Minas e Energia abriu nesta sexta-feira uma consulta pública para subsidiar um diagnóstico sobre a expansão da infraestrutura nacional…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/23/governo-vai-estudar-recarga-de-carros-eletricos-para-expandir-a-infraestrutura.ghtml",
+    "time": "2026-10-23T15:25:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US justice department investigating Corey Lewandowski over DHS role",
     "d": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
     "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-23T14:58:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Avenida Brasil 2”: influenciadora diz que recebeu convite para teste; veja",
-    "d": "Em seu perfil no TikTok, Lelê Burnier abriu o jogo sobre como funcionou a leitura de texto e deu detalhes sobre o papel na trama de João Emanuel Carneiro",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/avenida-brasil-2-influenciadora-diz-que-recebeu-convite-para-teste-veja/",
-    "time": "2026-10-23T14:57:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rio de Janeiro mobiliza mais de 20 mil policiais no segundo turno",
-    "d": "Estrutura especial começa a funcionar na véspera do pleito e atende mais de 12,8 milhões de eleitores no estado; operação abrangerá os 5.040 locais de votação, distribuídos nas 165 zonas eleitorais",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/rio-de-janeiro-mobiliza-mais-de-20-mil-policiais-no-segundo-turno/",
-    "time": "2026-10-23T14:54:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Veja provocações do Palmeiras após eliminação do Flamengo na Libertadores",
-    "d": "Verdão vai à final contra o Estudiantes no dia 28 de novembro, sábado, no Estádio Centenário, no Uruguai",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/veja-provocacoes-do-palmeiras-apos-eliminacao-do-flamengo-na-libertadores/",
-    "time": "2026-10-23T14:53:58.000Z"
   },
   {
     "cat": "economia",
@@ -80,18 +248,10 @@
     "time": "2026-10-23T14:52:43.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Deyverson revela por que não comemorou queda do Flamengo na Libertadores",
-    "d": "Jogador da LDU falou sobre a derrota do Rubro-Negro na semifinal da competição continental, ocorrida nessa quinta-feira (22), no Maracanã, no Rio de Janeiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/deyverson-revela-por-que-nao-comemorou-queda-do-flamengo-na-libertadores/",
-    "time": "2026-10-23T14:47:58.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Frango pode ficar mais barato, principalmente no Sul, após caso de Newcastle em SC, diz Itaú",
-    "d": "Imagem de frango. Claudio Schwarz/Unplash O frango pode ficar mais barato nos próximos meses, principalmente na Região Sul do Brasil, após a confirmação de um foco da doença de Newcastle em Nova Itaberaba, em Santa Ca…",
+    "d": "Frango pode ficar mais barato, principalmente no Sul, após caso de Newcastle em SC, diz Itaú Claudio Schwarz/Unplash O frango pode ficar mais barato nos próximos meses, principalmente na Região Sul do Brasil, após a c…",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/23/frango-pode-ficar-mais-barato-principalmente-no-sul-apos-caso-de-newcastle-em-sc-diz-itau.ghtml",
     "time": "2026-10-23T14:46:35.000Z"
   },
@@ -102,70 +262,6 @@
     "d": "Criança mexendo no celular com as redes sociais visíveis no aparelho Unsplash/Sanket Mishra O Parlamento da Grécia aprovou nesta sexta-feira (23) um projeto de lei que proíbe o uso de redes sociais por menores de 15 a…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/10/23/grecia-aprova-proibicao-de-redes-sociais-para-menores-de-15-anos.ghtml",
     "time": "2026-10-23T14:46:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-    "d": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-    "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T14:45:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Múmia de cão de 1.200 anos é encontrada após 15 anos de escavação e revela lado duplo do amor por pets no passado",
-    "d": "Descoberta rara traz pistas inéditas sobre a convivência, o afeto e os costumes entre humanos e caninos no Império Wari; descobertas foram publicadas pelo periódico científico Journal of Anthropological Archaeology",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/mumia-de-cao-de-1-200-anos-e-encontrada-apos-15-anos-de-escavacao-e-revela-lado-duplo-do-amor-por-pets-no-passado/",
-    "time": "2026-10-23T14:45:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Soldados israelenses são mortos em ataque de supostos atiradores palestinos na Cisjordânia",
-    "d": "Ataque em posto de controle de fronteira veio a poucos dias de eleições gerais no país; Netanyahu ordena fechamento da Cisjordânia.",
-    "link": "https://www.bbc.com/portuguese/articles/cq4g1p2k3gx1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T14:43:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA emitem alerta de segurança para cidadãos na França antes de protestos",
-    "d": "Comunicado sugere cuidado no fim de semana e alerta para risco de violência, vandalismo e restrições de circulação em Paris",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-emitem-alerta-de-seguranca-para-cidadaos-na-franca-antes-de-protestos/",
-    "time": "2026-10-23T14:41:32.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Pedágio free flow na Dutra fica mais caro a partir desta sexta; entenda",
-    "d": "Correção aplicada no trecho da Grande São Paulo, que conecta São Paulo, Guarulhos e Arujá, considera a inflação e regras do contrato de concessão da RioSP",
-    "link": "https://www.cnnbrasil.com.br/auto/pedagio-free-flow-na-dutra-fica-mais-caro-a-partir-desta-sexta-entenda/",
-    "time": "2026-10-23T14:39:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Electrolux registra lucro operacional de US$ 61,2 milhões no 3º trimestre",
-    "d": "Fabricante sueca de eletrodomésticos, no entanto, passou a registrar prejuízo líquido no terceiro trimestre e piorou sua projeção de lucro para o ano",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/electrolux-registra-lucro-operacional-de-us-612-milhoes-no-3o-trimestre/",
-    "time": "2026-10-23T14:37:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bruna Marquezine em Hollywood: atriz é anunciada em série internacional",
-    "d": "Brasileira se junta ao elenco da terceira temporada de \"Magnatas do Crime\", ao lado de Elijah Wood, Orlando Bloom e Theo James",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/bruna-marquezine-em-hollywood-atriz-e-anunciada-em-serie-internacional/",
-    "time": "2026-10-23T14:35:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após Flávio prometer retomar Perse, Lula acena perdão ao setor de eventos",
-    "d": "A dois dias das eleições, ministro do Empreendedorismo, Paulo Pereira, afirma que governo deve enviar um projeto de lei ao Congresso para ajudar empresas de pequeno porte do setor de eventos",
-    "link": "https://www.cnnbrasil.com.br/politica/apos-flavio-prometer-retomar-perse-lula-acena-perdao-ao-setor-de-eventos/",
-    "time": "2026-10-23T14:30:39.000Z"
   },
   {
     "cat": "brasil",
@@ -193,30 +289,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-    "d": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T14:15:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "STJ determina prisão no Brasil de torturador uruguaio condenado por crimes durante a ditadura militar",
-    "d": "Pedro Antonio Mato Narbondo foi visto em Maceió, no Alagoas, em 2013 Reprodução/Facebook O Superior Tribunal de Justiça (STJ) determinou a expedição de mandado de prisão para que o ex-agente das forças de repressão ur…",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/23/stj-prisao-brasil-uruguai-ditadura-militar-el-burro.ghtml",
-    "time": "2026-10-23T14:07:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Brasil dividido', 'batalha pela Amazônia' e vídeos de IA: imprensa mundial repercute disputa entre Flávio e Lula",
-    "d": "Flávio Bolsonaro (PL) e Lula (PT) disputam o 2º turno Diego Herculano/Reuters e Adriano Machado/Reuters A disputa acirrada entre o senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) no segundo…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/23/repercussao-internacional-2o-turno-flavio-bolsonaro-lula.ghtml",
-    "time": "2026-10-23T14:04:33.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
     "d": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more tha…",
@@ -241,59 +313,11 @@
   },
   {
     "cat": "economia",
-    "src": "The Guardian",
-    "h": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
-    "d": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation…",
-    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-    "time": "2026-10-23T13:27:04.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "G1",
     "h": "Conheça duas variedades de mirtilo indicadas para o Cerrado",
     "d": "Variedades de mirtilo Biloxi e Emerald. Reprodução/Embrapa Produtores interessados no cultivo de mirtilo no Cerrado podem conhecer melhor duas variedades indicadas para a região: Biloxi e Emerald. Uma publicação suger…",
     "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/23/conheca-duas-variedades-de-mirtilo-indicadas-para-o-cerrado.ghtml",
     "time": "2026-10-23T13:25:09.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "China pede a órgãos governamentais que reduzam perdas de empregos causadas pela IA",
-    "d": "ChatGPT, DeepSeek, Claude, Mistral AI, Gemini, Copilot e Poe Solen Feyissa/Unsplash O Conselho de Estado da China pediu que os órgãos governamentais adotem medidas para reduzir a perda de empregos causada pelo uso de…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/23/china-pede-a-orgaos-governamentais-que-reduzam-perdas-de-empregos-causadas-pela-ia.ghtml",
-    "time": "2026-10-23T13:22:14.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Carteira de pedidos da Embraer chega a US$ 35,7 bilhões e bate recorde pelo 7º trimestre seguido",
-    "d": "Vista da sede da Embraer, em São José dos Campos, interior de SP Luis Lima Jr./Futura Press/Estadão Conteúdo A Embraer, fabricante de aeronaves com sede em São José dos Campos (SP), bateu recorde na carteira de pedido…",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/23/carteira-de-pedidos-da-embraer-chega-a-us-357-bilhoes-e-bate-recorde-pelo-7o-trimestre-seguido.ghtml",
-    "time": "2026-10-23T13:14:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-    "d": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against he…",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-    "time": "2026-10-23T12:59:38.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Funcionários da Volkswagen na Alemanha ameaçam greve se empresa não cumprir acordos salariais",
-    "d": "Volkswagen Tiguan na linha de produção de Wolfsburg, Alemanha. Divulgação / VW Os funcionários da Volkswagen na Alemanha ameaçaram entrar em greve a partir de janeiro se a montadora não reverter o cancelamento de acor…",
-    "link": "https://g1.globo.com/carros/noticia/2026/10/23/funcionarios-da-volkswagen-ameacam-greve-alemanha.ghtml",
-    "time": "2026-10-23T12:35:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Brecha no PHP que tirou sites do ar foi descoberta há dois anos; responsável cita falta de recursos para corrigi-la",
-    "d": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar A Fundação PHP, responsável pela linguagem de programação de mesmo nome, confirmou que os primeiros sinais da falha de segurança que levo…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/brecha-no-php-que-tirou-sites-do-ar-foi-descoberta-ha-dois-anos-responsavel-cita-falta-de-recursos-para-corrigi-la.ghtml",
-    "time": "2026-10-23T12:25:57.000Z"
   },
   {
     "cat": "internacional",
@@ -305,91 +329,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Preço dos alimentos: o que ficou mais caro e o que barateou na prévia da inflação de outubro",
-    "d": "Tomate e batata tiveram alta de preço em outubro, enquanto café registrou queda. Lars Blankers/Josephine Baran/Mona Jain/Unplash O Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial d…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/23/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-outubro.ghtml",
-    "time": "2026-10-23T12:02:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos",
-    "d": "Feira de Alimentos Agroecológicos e Artesanatos Divulgação O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), considerado a prévia da inflação oficial do país, subiu 0,32% em outubro. Os dados foram divulga…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/23/ipca-15-previa-da-inflacao-outubro.ghtml",
-    "time": "2026-10-23T12:00:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ministro do TSE manda Meta revisar retirada de vídeo de MC Cabelinho contra Flávio Bolsonaro",
-    "d": "Print da publicação de MC Cabelinho com o portal Revelando. No canto superior direito é possível ver o rótulo que classifica a publicação como IA. Reprodução/Instagram O ministro Ricardo Villas Boas Cueva, do Tribunal…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/ministro-do-tse-manda-meta-revisar-retirada-de-video-de-mc-cabelinho-contra-flavio-bolsonaro.ghtml",
-    "time": "2026-10-23T11:54:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Do segundo turno ao dia seguinte: as estratégias das campanhas e os desafios de quem vencer",
-    "d": "Lula (PT) e Flávio Bolsonaro (PL) durante atos de campanha na Avenida Paulista, em São Paulo. Ricardo Stuckert e Vittor Sales As campanhas de Lula (PT) e Flávio Bolsonaro (PL) entraram no segundo turno como dois times…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/23/estrategias-campanhas-segundo-turno-desafios-proximo-presidente.ghtml",
-    "time": "2026-10-23T11:33:44.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
-    "d": "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loans Jack Price joined the Marines in fall 2021 knowing he would need a car to get a…",
+    "d": "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loans Jack Price joined the marines in fall 2021 knowing he would need a car to get a…",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
     "time": "2026-10-23T11:30:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio",
-    "d": "Candidatos à Presidência se enfrentam hoje pela última vez antes do segundo turno, marcado para domingo (25/10).",
-    "link": "https://www.bbc.com/portuguese/articles/cx8dzrn1j54po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T11:25:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Sem citar Flávio Bolsonaro, 47 bispos católicos divulgam carta sobre 2º turno e criticam 'políticas de devastação que caracterizaram o Governo de seu pai'",
-    "d": "Bispos católicos divulgam carta sobre 2º turno e alertam para 'política de devastação' Um grupo de 47 bispos católicos de 19 estados brasileiros divulgou, nesta quinta-feira (22), uma carta sobre o segundo turno das e…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/bispos-catolicos-carta-segundo-turno-eleicoes-2026.ghtml",
-    "time": "2026-10-23T11:23:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Reforma tributária: MEI fica dispensado de emitir nota fiscal para pessoa física; nano também não precisa entrar no CNPJ",
-    "d": "O Comitê Gestor do Simples Nacional (CGSN), formado pelo governo federal, estados e municípios, informou que os microempreendedores individuais não precisarão mais emitir a nota fiscal eletrônica para pessoas físicas…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/23/reforma-tributaria-em-meio-ao-debate-eleitoral-governo-e-estados-dispensam-nanoempreendedor-e-mei-de-emitir-nota-fiscal-eletronica.ghtml",
-    "time": "2026-10-23T11:17:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "TSE dá 24h para Meta e X explicarem regras para uso de IA e distribuição de conteúdos políticos",
-    "d": "TSE dá 24 horas para Meta explicar regras para IA O corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, determinou nesta sexta-feira (23) que a Meta (dona do WhatsApp, Facebook e Instagram) e o X apresen…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/tse-da-24h-para-meta-e-x-explicarem-regras-para-uso-de-ia-e-distribuicao-de-conteudos-politicos.ghtml",
-    "time": "2026-10-23T11:09:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Diplomatas estrangeiros no Brasil avaliam reconhecer rapidamente ganhador das eleições e temem reação de Trump",
-    "d": "Flávio Bolsonaro, Donald Trump e Lula Montagem - Wilton Junior/Estadão Conteúdo; REUTERS/Nathan Howard; REUTERS/Adriano Machado Diplomatas estrangeiros em Brasília estão avaliando reconhecer rapidamente o vencedor do…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/23/diplomatas-estrangeiros-no-brasil-avaliam-reconhecer-rapidamente-ganhador-eleicoes-temem-reacao-trump.ghtml",
-    "time": "2026-10-23T11:05:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ukraine says Starlink still restricted after Trump says limits lifted",
-    "d": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T11:01:08.000Z"
   },
   {
     "cat": "internacional",
@@ -424,44 +368,12 @@
     "time": "2026-10-23T08:45:58.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
-    "d": "Presidente eleito terá que lidar com a insatisfação do brasileiro com o custo de vida e cobrança do mercado por um ajuste nas contas públicas, em meio a uma economia em desaceleração.",
-    "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T08:07:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Da 'motosserra' ao custo social: como o modelo econômico de Milei virou tema da eleição brasileira",
-    "d": "Montagem com Flávio Bolsonaro, Javier Milei e Luiz Inácio Lula da Silva. Reuters O presidente da Argentina, Javier Milei, virou assunto ao longo da eleição brasileira. O ultraliberal assumiu o governo do país vizinho…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/23/da-motosserra-ao-custo-social-como-o-modelo-economico-de-milei-virou-tema-da-eleicao-brasileira.ghtml",
-    "time": "2026-10-23T08:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
     "d": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds…",
     "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
     "time": "2026-10-23T07:53:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Negociar com patrão, mudar jornadas e regular apps: o que Lula e Flávio propõem aos trabalhadores",
-    "d": "Fim da escala 6x1: como empresas antecipam mudanças na jornada de trabalho na região de Campinas Reprodução/EPTV O debate sobre emprego e modelos de trabalho ganhou espaço nos programas de governo, nas declarações púb…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/negociar-com-patrao-mudar-jornadas-e-regular-apps-o-que-lula-e-flavio-propoem-aos-trabalhadores.ghtml",
-    "time": "2026-10-23T06:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Powerful earthquake hits Tibet killing 16 people, reports say",
-    "d": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-23T05:16:37.000Z"
   },
   {
     "cat": "internacional",
@@ -474,7 +386,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição para presidente",
+    "h": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição",
     "d": "Em segundo turno disputado voto a voto, eleitores mais velhos são grupo estratégico para virada de Lula ou Flávio selar sua vitória, dizem analistas. Mas abstenção acima da média é obstáculo para as ambições dos dois…",
     "link": "https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-22T23:06:54.000Z"
@@ -523,7 +435,7 @@
     "cat": "economia",
     "src": "The Guardian",
     "h": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
-    "d": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spill Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has…",
+    "d": "New study reveals dramatic population drops in fish, cephalopods and more after Deepwater Horizon disaster Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has s…",
     "link": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
     "time": "2026-10-22T12:00:44.000Z"
   },
@@ -538,7 +450,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio Bolsonaro?",
+    "h": "Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio?",
     "d": "Senador é alvo de novo inquérito no STF para apurar suposto crime de lavagem de dinheiro com advogado.",
     "link": "https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-22T11:46:56.000Z"
