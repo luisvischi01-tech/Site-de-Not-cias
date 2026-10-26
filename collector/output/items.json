@@ -2,18 +2,306 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
-    "d": "Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president ov…",
+    "h": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+    "d": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuel…",
+    "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+    "time": "2026-10-26T05:27:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Venezuelan opposition leader María Machado returns after months in exile",
+    "d": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T05:20:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+    "d": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bol…",
     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "time": "2026-10-26T00:44:10.000Z"
+    "time": "2026-10-26T05:10:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Regulação das big techs, segurança, educação e Congresso: o que Lula falou no primeiro discurso após ser reeleito",
+    "d": "Veja a íntegra do discurso de Lula após reeleição Em seu primeiro discurso após ser reeleito com 51,79% dos votos no domingo (25), Luiz Inácio Lula da Silva (PT) agradeceu a mobilização que resultou na virada inédita…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/regulacao-das-big-techs-seguranca-educacao-e-congresso-o-que-lula-falou-no-primeiro-discurso-apos-ser-reeleito.ghtml",
+    "time": "2026-10-26T05:07:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
+    "d": "Official forecast indicates shortfall below 0.3% of national income in promised official development assistance The UK is on course to miss its target of spending 0.3% of national income on international aid by an est…",
+    "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+    "time": "2026-10-26T05:00:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula venceu nas duas cidades em que empatou com Flávio no 1º turno",
+    "d": "Veja análise de Renata Lo Prete sobre o resultado da corrida presidencial em MG O presidente reeleito Luiz Inácio Lula da Silva (PT) acabou ganhando nas duas cidades que no primeiro turno colocou ele e o candidato der…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-venceu-nas-duas-cidades-em-que-empatou-com-flavio-no-1o-turno.ghtml",
+    "time": "2026-10-26T04:53:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Derrotado, Flávio Bolsonaro ficará sem cargo e sem foro privilegiado em 2027",
+    "d": "Depois da derrota para Luiz Inácio Lula da Silva (PT), Flávio Bolsonaro (PL) ficará sem um cargo público e sem foro privilegiado a partir de 2027. Será a primeira vez em 24 anos, desde 2002, que o político bolsonarist…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/26/derrotado-flavio-bolsonaro-ficara-sem-cargo-e-sem-foro-privilegiado-em-2027.ghtml",
+    "time": "2026-10-26T04:53:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Demora de Kassio e decisão de Zanin \nprovocam críticas nos tribunais e reunião de emergência no TSE",
+    "d": "A decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de prorrogar por duas horas o horário de votação do segundo turno provocou críticas no Tribunal Superior Eleitoral (TSE). Ministros alinhados a…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/demora-de-kassio-e-decisao-de-zanin-provocam-criticas-nos-tribunais-e-reuniao-de-emergencia-no-tse.ghtml",
+    "time": "2026-10-26T04:52:06.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Lula conquista virada inédita e terá quarto mandato como presidente do Brasil",
+    "h": "Chances de anulação ou 'terceiro turno' a pedido de Flávio são remotas, veem especialistas",
+    "d": "Flávio Bolsonaro disse ser 'impossível reconhecer' vitória de Lula; extensão do horário de votação causou confusão no domingo do 2º turno, mas especialistas entendem que margem de vitória mais ampla reduz chances de q…",
+    "link": "https://www.bbc.com/portuguese/articles/cqdjvnppkdnyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T04:51:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Resultado das eleições 2026: como foi a votação na sua cidade no 2º turno; consulte por estado",
+    "d": "O g1 publicou reportagens com a votação para presidente em cada cidade do país, no 2º turno das Eleições 2026. Nos estados que tiveram 2º turno para o governo, os textos trazem também a votação para governador. Os dad…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/resultado-das-eleicoes-2026-como-foi-a-votacao-na-sua-cidade-no-2o-turno-consulte-por-estado.ghtml",
+    "time": "2026-10-26T04:33:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "De onde vieram os votos de Lula e Flávio neste 2º turno? Veja o peso de cada região na votação",
+    "d": "Acompanhado por apoiadores, Lula segue de carro para Avenida Paulista Os votos recebidos por Lula (PT) e Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais de 2026 tiveram distribuições diferentes pelo…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/de-onde-vieram-os-votos-de-lula-e-flavio-neste-2o-turno-veja-o-peso-de-cada-regiao-na-votacao.ghtml",
+    "time": "2026-10-26T04:29:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Veja os estados onde Lula e Flávio Bolsonaro abriram as maiores vantagens",
+    "d": "Lula (PT) é reeleito presidente do Brasil Piauí e Roraima foram os estados onde Lula (PT) e Flávio Bolsonaro (PL), respectivamente, abriram as maiores vantagens no segundo turno da eleição presidencial deste domingo (…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-os-estados-onde-lula-e-flavio-bolsonaro-abriram-as-maiores-vantagens.ghtml",
+    "time": "2026-10-26T04:28:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas",
+    "d": "Advogados de Flávio teriam de provar que a quantidade de votos depositada após prorrogação faria diferença no resultado final",
+    "link": "https://www.bbc.com/portuguese/articles/crkg7ywjj8l0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T04:22:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro venceu em 13 estados e no DF, e Lula, em 13; veja o mapa",
+    "d": "Lula (PT) é reeleito presidente do Brasil Lula (PT), reeleito presidente neste domingo (25), foi o mais votado em 13 estados no segundo turno. Flávio Bolsonaro (PL) venceu em outros 13 estados e no Distrito Federal, s…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-estados-vitoria-lula-flavio-bolsonaro-segundo-turno.ghtml",
+    "time": "2026-10-26T04:19:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TSE informa que 1.551 urnas precisaram ser substituídas no segundo turno",
+    "d": "Trocas normalmente ocorrem em razão de falhas técnicas ou de danos externos aos equipamentos, como teclas danificadas propositalmente por eleitores; substituição dos equipamentos não compromete a integridade dos votos",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tse-informa-que-1-551-urnas-precisaram-ser-substituidas-no-segundo-turno/",
+    "time": "2026-10-26T04:16:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Lula conquista a 1ª vitória da esquerda na América Latina desde que Trump voltou ao poder; veja mapa",
+    "d": "A vitória de Lula é primeira eleição presidencial vencida pela esquerda na região desde que Trump voltou à Casa Branca em 2025: na Colômbia, no Peru, na Costa Rica, em Honduras, no Chile, na Bolívia e no Equador, triu…",
+    "link": "https://www.bbc.com/portuguese/articles/ck5ynlp6qq57o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T04:13:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "TSE desmente Flávio Bolsonaro e diz que fiscais do PL não foram retirados de 'sala-cofre' do tribunal",
+    "d": "Agora no g1 O Tribunal Superior Eleitoral (TSE) afirmou na noite deste domingo (25) que é falsa a declaração do candidato derrotado Flávio Bolsonaro (PL) de que fiscais do PL foram retirados da sala-cofre da Corte dur…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/tse-desmente-flavio-bolsonaro-e-diz-que-fiscais-do-pl-nao-foram-retirados-de-sala-cofre-do-tribunal.ghtml",
+    "time": "2026-10-26T04:02:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PSG x Lyon: horário e onde assistir ao jogo da Ligue 1",
+    "d": "Equipes se enfrentam nesta segunda-feira, às 16h30, em partida válida pela oitava rodada do Campeonato Francês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-x-lyon-horario-e-onde-assistir-ao-jogo-da-ligue-1/",
+    "time": "2026-10-26T04:00:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Lula conquista virada inédita e terá quarto mandato como presidente do Brasil: 'Vamos ter que regular as plataformas digitais'",
     "d": "Campanha renasceu após a derrota no primeiro turno, com manifestações nas ruas e ação nas redes sob comando de André Janones (Rede-MG). Petista está diante da conjuntura mais difícil desde 2003, com Congresso mais à d…",
     "link": "https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-26T00:42:04.000Z"
+    "time": "2026-10-26T03:54:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Nas 10 cidades onde a abstenção mais caiu entre os turnos, veja como foi a votação para presidente",
+    "d": "'É uma vitória de homens e mulheres', diz Lula em discurso na Avenida Paulista A abstenção caiu em diferentes municípios brasileiros entre o primeiro e o segundo turno das eleições presidenciais de 2026. Um levantamen…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/nas-10-cidades-onde-a-abstencao-mais-caiu-entre-os-turnos-veja-como-foi-a-votacao-para-presidente.ghtml",
+    "time": "2026-10-26T03:53:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "MAPAS: veja como os estados votaram para presidente no 2º turno",
+    "d": "Lula (PT) é reeleito presidente do Brasil Reeleito presidente neste domingo (25), Lula (PT) foi o mais votado em 13 estados, enquanto Flávio Bolsonaro (PL) venceu em outros 13 e no Distrito Federal. Os mapas mostram o…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapas-votacao-presidente-estados-segundo-turno.ghtml",
+    "time": "2026-10-26T03:52:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula diz para Janones: “Nosso Exército tem que continuar”",
+    "d": "Durante comemoração na Avenida Paulista, presidente destacou atuação do deputado na campanha e pediu que apoiadores mantenham mobilização após a vitória nas urnas",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-para-janones-nosso-exercito-tem-que-continuar/",
+    "time": "2026-10-26T03:50:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula é reeleito após virada histórica",
+    "d": "Lula é reeleito após virada histórica Reeleito presidente da República após virar a disputa contra Flávio Bolsonaro (PL), Luiz Inácio Lula da Silva (PT) fala a apoiadores em São Paulo. O g1 acompanhou a apuração do se…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml",
+    "time": "2026-10-26T03:46:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "213 cidades que escolheram Flávio no 1º turno deram vitória a Lula no 2º",
+    "d": "Minas Gerais, estado decisivo no pleito, concentra o maior número de municípios \"virados\" pelo petista; Rio de Janeiro e Macapá estão entre as capitas que mudaram de vencedor",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/213-cidades-que-escolheram-flavio-no-1o-turno-deram-vitoria-a-lula-no-2o/",
+    "time": "2026-10-26T03:43:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: PL quer manter militância energizada e nas ruas",
+    "d": "Após a derrota de Flávio para Lula no segundo turno, partido do ex-presidente Jair Bolsonaro busca preservar engajamento de apoiadores e levar para as ruas mobilização construída durante campanha",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/analise-pl-quer-manter-militancia-energizada-e-nas-ruas/",
+    "time": "2026-10-26T03:36:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que o STF ordenou prorrogar votação por duas horas - e o que dizem os juristas sobre medida",
+    "d": "O ministro Cristiano Zanin atendeu a um pedido da campanha de Lula, que apontou falhas no transporte público de cidades na Bahia; a campanha de Flávio Bolsonaro também pediu prorrogação da votação em alguns Estados po…",
+    "link": "https://www.bbc.com/portuguese/articles/c64g13y5k303o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T03:18:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após apoio a Flávio, presidente do Republicanos parabeniza Lula",
+    "d": "Marcos Pereira, que declarou apoio ao candidato do PL no segundo turno, defendeu o diálogo com o Congresso e afirmou esperar que o petista governe para todos os brasileiros",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/apos-apoio-a-flavio-presidente-do-republicanos-parabeniza-lula/",
+    "time": "2026-10-26T03:10:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Davi Alcolumbre pede humildade a Lula e diz que é preciso “unir o país”",
+    "d": "Presidente do Senado Federal discursou ao lado de Hugo Motta e pregou união entre as casas para \"pacificar o país\"",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/davi-alcolumbre-pede-humildade-a-lula-e-diz-que-e-preciso-unir-o-pais/",
+    "time": "2026-10-26T03:06:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio Bolsonaro ficará sem mandato pela primeira vez em 24 anos",
+    "d": "Derrotado por Lula na disputa presidencial, senador encerrará mandato em janeiro de 2027; trajetória no Legislativo começou em 2003",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-ficara-sem-mandato-pela-primeira-vez-em-24-anos/",
+    "time": "2026-10-26T03:02:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "2º turno teve menos votos brancos e nulos do que o 1º",
+    "d": "Ao todo, cerca de 1,4 milhão e 2,7 milhões de eleitores votaram respectivamente em branco e nulo neste domingo (25)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/2o-turno-teve-menos-votos-brancos-e-nulos-do-que-o-1o/",
+    "time": "2026-10-26T03:00:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Campanha de Lula confere virada e mobilização “orgânica” nas ruas e redes",
+    "d": "Integrantes admitem que principais motores da virada nas urnas estão fora de sua campanha",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-confere-virada-e-mobilizacao-organica-nas-ruas-e-redes/",
+    "time": "2026-10-26T02:52:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula bate o próprio recorde e é o presidente mais votado da história",
+    "d": "Presidente foi reeleito na noite deste domingo (25) em segundo turno contra o senador Flávio Bolsonaro (PL)",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-bate-o-proprio-recorde-e-e-o-presidente-mais-votado-da-historia/",
+    "time": "2026-10-26T02:47:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flávio acena à base e usará jurídico para questionar eleição, diz advogado",
+    "d": "Alberto Rollo, especialista em direito eleitoral, avalia que Flávio Bolsonaro deve contestar resultado decretado pelo TSE e prolongar disputas judiciais",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-acena-a-base-e-usara-juridico-para-questionar-eleicao-diz-advogado/",
+    "time": "2026-10-26T02:40:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os números que mostram de onde vieram os 10 milhões de votos que deram virada histórica a Lula",
+    "d": "Vitória do petista combinou uma virada em Minas Gerais, a redução de desvantagens em grandes colégios eleitorais do Sudeste e o reforço da liderança no Nordeste.",
+    "link": "https://www.bbc.com/portuguese/articles/cqe8rekpg9lxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T02:12:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Derrota de Flávio enfraquece os Bolsonaro, mas não ofusca nova força da direita com eleições",
+    "d": "No segundo embate direto entre Lula e o bolsonarismo, o petista levou a melhor e ganhou uma eleição em que Flávio aparecia como favorito.",
+    "link": "https://www.bbc.com/portuguese/articles/cm93zvwkgd1zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T01:58:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+    "d": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T01:07:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Abstenção tem a maior queda entre turnos desde a redemocratização",
+    "d": "Em termos percentuais, a abstenção deste segundo turno era a menor desde 2006, quando foi de 18,99%, com 99,91% das urnas apuradas.",
+    "link": "https://www.bbc.com/portuguese/articles/cmq8n4pn08p4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-26T01:01:52.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+    "d": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyalty When Xi Jinping came to power in 2012, he pledged to stamp out corrupt…",
+    "link": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+    "time": "2026-10-26T00:58:25.000Z"
   },
   {
     "cat": "brasil",
@@ -24,194 +312,10 @@
     "time": "2026-10-26T00:41:48.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Acre, Amapá e Roraima têm maiores taxas de abstenção no 2º turno; veja ranking e comparação com 2022",
-    "d": "Gabriella Braz/G1 Acre, Amapá e Roraima registram as maiores taxas de abstenção no segundo turno das eleições de 2026, realizado neste domingo (25), segundo dados parciais do Tribunal Superior Eleitoral (TSE). Acre: 2…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/acre-amapa-e-roraima-tem-maiores-taxas-de-abstencao-no-2o-turno-veja-ranking-e-comparacao-com-2022.ghtml",
-    "time": "2026-10-26T00:39:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula é reeleito após virada histórica",
-    "d": "Lula é reeleito após virada histórica Reeleito presidente da República após virar a disputa contra Flávio Bolsonaro (PL), Luiz Inácio Lula da Silva (PT) fala a apoiadores em São Paulo. O g1 acompanhou a apuração do se…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml",
-    "time": "2026-10-26T00:37:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Só consegui votar com carona': eleitores esperam horas por transporte público e recorrem a redes sociais e até 40 km de bicicleta para chegar às urnas",
-    "d": "Taynan Carvalho de Sá, de Salvador, só conseguiu carona no final do dia, mas encontrou sua seção eleitoral fechada, apesar da prorrogação nacional.",
-    "link": "https://www.bbc.com/portuguese/articles/cmly0zplj298o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-26T00:37:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Celina é reeleita governadora do DF e Aziz vence no Amazonas; quem são os governadores eleitos no 2º turno",
-    "d": "Neste domingo (25/10), eleitores de cinco Estados e do Distrito Federal elegeram seus governadores no segundo turno das eleições.",
-    "link": "https://www.bbc.com/portuguese/articles/c9m2641r5rezo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-26T00:36:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: acompanhe a cobertura ao vivo da votação do 2º turno no Paraná",
-    "d": "Eleições 2026: acompanhe a cobertura ao vivo da votação do 2º turno no Paraná O g1 acompanha os principais acontecimentos da eleição neste domingo (25), que define o presidente da República. O segundo turno das Eleiçõ…",
-    "link": "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-pr.ghtml",
-    "time": "2026-10-26T00:33:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Lula aos 80 anos: a 'última dança' do presidente com virada histórica e vitória para quarto mandato",
-    "d": "Ex-metalúrgico e presidente por três mandatos, Lula conquista virada histórica para mais quatro anos no Palácio do Planalto.",
-    "link": "https://www.bbc.com/portuguese/articles/cx240l916lneo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-26T00:30:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quem ganhou a eleição para presidente em 2026?",
-    "d": "Quem ganhou a eleição para presidente em 2026? Fotos: Ricardo Stuckert | Vittor Sales Luiz Inácio Lula da Silva (PT) ganhou a eleição presidencial de 2026 e foi reeleito presidente da República neste domingo (25), apó…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/quem-ganhou-a-eleicao-para-presidente-em-2026.ghtml",
-    "time": "2026-10-26T00:30:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Líderes mundiais parabenizam Lula pela reeleição; veja repercussão",
-    "d": "Lula é reeleito presidente do Brasil Líderes mundiais parabenizaram neste domingo (25) o presidente Luiz Inácio Lula da Silva (PT) pela sua reeleição. Em uma eleição acirrada e marcada por uma virada inédita, Lula con…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/25/lideres-mundiais-parabenizam-lula-pela-reeleicao-veja-repercussao.ghtml",
-    "time": "2026-10-26T00:30:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Celina diz ter recebido telefonema de Grass: “Me cumprimentou pela vitória”",
-    "d": "Celina foi decretada eleita com 57,22% (889.908) dos votos válidos, contra 42,78% (680.125) do petista; ela também agradeceu a campanha feita pela senadora eleita Michelle Bolsonaro (PL)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/celina-diz-ter-recebido-telefonema-de-grass-me-cumprimentou-pela-vitoria/",
-    "time": "2026-10-26T00:28:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "No Uruguai, Lula é o mais votado no 2º turno, com 52,42% dos votos válidos",
-    "d": "Flavio Bolsonaro (PL) ficou com 47,58%; no 1º turno, candidato do PT tinha 48,27% no Uruguai",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/no-uruguai-lula-e-o-mais-votado-no-2o-turno-com-5242-dos-votos-validos/",
-    "time": "2026-10-26T00:28:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Na Argentina, Lula é o mais votado no 2º turno, com 68,77% dos votos válidos",
-    "d": "Flavio Bolsonaro (PL) ficou com 31,23%; no 1º turno, candidato do PT tinha 64,44% na Argentina",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/na-argentina-lula-e-o-mais-votado-no-2o-turno-com-6877-dos-votos-validos/",
-    "time": "2026-10-26T00:28:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flavio Bolsonaro fica à frente de Lula em Belo Horizonte no 2º turno",
-    "d": "Candidato do PL teve 50,80% dos votos válidos na capital, contra 49,20% de Lula (PT)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-fica-a-frente-de-lula-em-belo-horizonte-no-2o-turno/",
-    "time": "2026-10-26T00:28:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Eleições 2026: de Nossa Senhora aos 'soldados' digitais, veja temas que marcaram a campanha",
-    "d": "Uma das disputas presidenciais mais acirradas da história chegou ao fim neste domingo (25), depois de uma campanha marcada por intensa mobilização nas ruas, embates nas redes envolvendo “soldados” digitais e uma enxur…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-de-nossa-senhora-aos-soldados-digitais-veja-temas-que-marcaram-a-campanha.ghtml",
-    "time": "2026-10-26T00:27:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula tem 75,88% dos votos válidos no Piauí no 2º turno",
-    "d": "Candidato do PT teve 1.653.989 votos, 1.128.130 a mais que Flavio Bolsonaro (PL)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-tem-7588-dos-votos-validos-no-piaui-no-2o-turno/",
-    "time": "2026-10-26T00:26:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula vira e fica à frente de Flavio Bolsonaro na cidade do Rio de Janeiro no 2º turno",
-    "d": "Candidato do PT teve 51,54% dos votos válidos na capital; no 1º turno, Flavio Bolsonaro (PL) ficou à frente, com 47,88%",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-vira-e-fica-a-frente-de-flavio-bolsonaro-na-cidade-do-rio-de-janeiro-no-2o-turno/",
-    "time": "2026-10-26T00:26:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula comemora vitória nas eleições; veja vídeo",
-    "d": "André Janones grava vídeo de comemoração de Lula após confirmação da reeleição Em uma eleição acirrada marcada por uma virada inédita, Luiz Inácio Lula da Silva (PT) foi reeleito neste domingo (25) presidente da Repúb…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-comemora-vitoria-nas-eleicoes-veja-video.ghtml",
-    "time": "2026-10-26T00:25:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flavio Bolsonaro tem 86,60% dos votos válidos no Paraguai no 2º turno",
-    "d": "Candidato do PL teve 4.542 votos, 3.839 a mais que Lula (PT)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-tem-8660-dos-votos-validos-no-paraguai-no-2o-turno/",
-    "time": "2026-10-26T00:24:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flavio Bolsonaro fica à frente de Lula em Brasília no 2º turno",
-    "d": "Candidato do PL teve 54,28% dos votos válidos na capital federal, contra 45,72% de Lula (PT)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-fica-a-frente-de-lula-em-brasilia-no-2o-turno/",
-    "time": "2026-10-26T00:24:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula tem 65,72% dos votos válidos no Rio Grande do Norte no 2º turno",
-    "d": "Candidato do PT teve 1.413.596 votos, 676.187 a mais que Flavio Bolsonaro (PL)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-tem-6572-dos-votos-validos-no-rio-grande-do-norte-no-2o-turno/",
-    "time": "2026-10-26T00:22:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flavio Bolsonaro tem 62,58% dos votos válidos no Paraná no 2º turno",
-    "d": "Candidato do PL teve 4.291.444 votos, 1.724.940 a mais que Lula (PT)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-tem-6258-dos-votos-validos-no-parana-no-2o-turno/",
-    "time": "2026-10-26T00:22:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula fica à frente de Flavio Bolsonaro em Porto Alegre no 2º turno",
-    "d": "Candidato do PT teve 55,84% dos votos válidos na capital, contra 44,16% de Flavio Bolsonaro (PL)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/lula-fica-a-frente-de-flavio-bolsonaro-em-porto-alegre-no-2o-turno/",
-    "time": "2026-10-26T00:22:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flavio Bolsonaro fica à frente de Lula em Goiânia no 2º turno",
-    "d": "Candidato do PL teve 62,64% dos votos válidos na capital, contra 37,36% de Lula (PT)",
-    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-fica-a-frente-de-lula-em-goiania-no-2o-turno/",
-    "time": "2026-10-26T00:22:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula é o mais votado em 1.957 cidades, e Flávio Bolsonaro, em 2.247",
-    "d": "Em virada histórica, Lula vence Flávio Bolsonaro e será presidente pela 4ª vez Reeleito presidente neste domingo (25), Lula (PT) foi o mais votado em 1.957 cidades com apuração concluída, enquanto Flávio Bolsonaro (PL…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-votacao-lula-flavio-bolsonaro-segundo-turno.ghtml",
-    "time": "2026-10-26T00:22:20.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-    "d": "Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva, the Brazilian pre…",
+    "d": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva, the Braz…",
     "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
     "time": "2026-10-26T00:19:05.000Z"
   },
@@ -225,64 +329,8 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Reeleito para quarto mandato, Lula terá Congresso com maioria da oposição e precisará negociar para aprovar projetos",
-    "d": "Em virada histórica, Lula vence Flávio Bolsonaro e será presidente pela 4ª vez Presidente pela quarta vez, Luiz Inácio Lula da Silva (PT) encontrará um Congresso muito mais desafiador a partir de 2027. O crescimento d…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/reeleito-para-quarto-mandato-lula-tera-congresso-com-maioria-da-oposicao-e-precisara-negociar-para-aprovar-projetos.ghtml",
-    "time": "2026-10-26T00:12:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quantos anos Lula terá quando terminar o quarto mandato em 2031?",
-    "d": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) acena para eleitores no entorno da Escola Estadual Dr. João Firmino Correia de Araújo, em São Bernardo do Campo, na Grande São Paulo ROBERTO SUNGI/AT…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/quantos-anos-lula-tera-quando-terminar-o-quarto-mandato-em-2031.ghtml",
-    "time": "2026-10-26T00:10:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Articulador de Lula com empresários e negociador no tarifaço, Alckmin é reeleito vice-presidente",
-    "d": "Reeleito neste domingo (25) na chapa de Luiz Inácio Lula da Silva (PT), o médico Geraldo Alckmin (PSB) ficará mais quatro anos como vice-presidente da República. Aos 73 anos, o ex-governador de São Paulo chega ao segu…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/articulador-de-lula-com-empresarios-e-negociador-no-tarifaco-alckmin-e-reeleito-vice-presidente.ghtml",
-    "time": "2026-10-26T00:10:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula é reeleito: quando será a posse presidencial em 2027? Veja a nova data",
-    "d": "Presidente e governadores tomam posse em nova data Luiz Inácio Lula da Silva (PT) venceu o segundo turno das Eleições 2026 neste domingo (25) e foi reeleito presidente da República, derrotando Flávio Bolsonaro (PL). C…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-e-reeleito-quando-sera-a-posse-presidencial-em-2027-veja-a-nova-data.ghtml",
-    "time": "2026-10-26T00:10:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Venezuelan opposition leader María Machado returns after months in exile",
-    "d": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-25T23:33:14.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "'O STF passou por cima do TSE; mas o TSE demorou', diz especialista em Direito Eleitoral",
-    "d": "Para analista Alberto Rollo, o ministro Cristiano Zanin, do STF, 'passou por cima' do TSE",
-    "link": "https://www.bbc.com/portuguese/articles/cqe9lypmxlpno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-25T23:15:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-    "d": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-25T22:54:57.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
+    "h": "Transporte na eleição 2026: O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
     "d": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) pediu ao Tribunal Superior Eleitoral (TSE) a prorrogação do horário de votação nas cidades que registraram irregularidades.",
     "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-25T22:34:34.000Z"
@@ -297,27 +345,11 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Exiled opposition leader María Corina Machado returns to Venezuela",
-    "d": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuel…",
-    "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-    "time": "2026-10-25T19:56:56.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
     "d": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
     "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-25T19:14:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Voto no exterior: veja os resultados por país e a apuração de Lula x Flávio no 2º turno das eleições 2026",
-    "d": "Flávio Bolsonaro venceu Lula no Japão, nos Emirados Árabes Unidos e em Hong Kong, entre outros. Já o petista saiu na frente em países como China, Austrália e Nova Zelândia.",
-    "link": "https://www.bbc.com/portuguese/articles/cw5yn34exenno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-25T18:17:50.000Z"
   },
   {
     "cat": "internacional",
@@ -406,22 +438,6 @@
     "d": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
     "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-24T19:12:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "3 motivos pelos quais duelo entre Lula e Flávio Bolsonaro é crucial para a América Latina — e para Trump",
-    "d": "Especialistas dizem que resultado do segundo turno da eleição pode trazer consequências para toda a geopolítica, a segurança e o meio ambiente da região.",
-    "link": "https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-24T15:59:34.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Kim Jong-un crosses newly opened bridge into China",
-    "d": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperati…",
-    "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-    "time": "2026-10-24T13:34:56.000Z"
   },
   {
     "cat": "economia",
@@ -518,14 +534,6 @@
     "d": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Flo…",
     "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
     "time": "2026-10-21T13:40:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
-    "d": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — acompanha a abertura das urnas, o clima da votação e os principais acontecimentos do dia.",
-    "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-21T12:58:14.000Z"
   },
   {
     "cat": "economia",
