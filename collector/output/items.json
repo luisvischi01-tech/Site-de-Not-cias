@@ -1,75 +1,379 @@
 [
   {
+    "cat": "economia",
+    "src": "G1",
+    "h": "TCU propõe alíquota de 11,3% para o futuro imposto sobre consumo do governo federal em 2027; Senado tem que aprovar valor",
+    "d": "O plenário do Tribunal de Contas da União (TCU) aprovou nesta quarta-feira (28) uma proposta para que a alíquota da Contribuição sobre Bens e Serviços (CBS), novo tributo aprovado no âmbito da reforma tributária sobre…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/28/tcu-propoe-aliquota-de-113percent-para-o-futuro-imposto-sobre-consumo-do-governo-federal-em-2027-senado-tem-que-aprovar-valor.ghtml",
+    "time": "2026-10-28T14:39:45.000Z"
+  },
+  {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Echoenergia mira hidrelétricas para diversificar negócios e defende leilões",
-    "d": "Liu Aquino afirma que companhia analisará oportunidades caso concessões sejam relicitadas e aponta concentração de mercado como argumento para novas disputas",
-    "link": "https://www.cnnbrasil.com.br/infra/echoenergia-mira-hidreletricas-para-diversificar-portfolio-e-defende-leiloe/",
-    "time": "2026-10-28T07:30:02.000Z"
+    "src": "BBC News Brasil",
+    "h": "O que se sabe sobre saída de Flávio Bolsonaro do Brasil",
+    "d": "Derrotado nas eleições, senador saiu do Brasil após decisão do STF que o proibia de deixar o país.",
+    "link": "https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T14:37:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro chega aos EUA; ACOMPANHE",
+    "d": "Flávio Bolsonaro chega aos EUA; ACOMPANHE Senador deixou o Brasil após descumprir uma ordem do STF para entregar seus passaportes. Flávio foi derrotado por Lula no 2º turno da eleição presidencial. O senador Flávio Bo…",
+    "link": "https://g1.globo.com/mundo/ao-vivo/voo-flavio-bolsonaro-eua.ghtml",
+    "time": "2026-10-28T14:32:45.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Krilltech capta R$ 22,5 milhões da Finep para desenvolver nanodefensivos",
-    "d": "Projeto prevê a construção de uma planta piloto para produção experimental de nanoherbicidas, nanofungicidas e nanoinseticidas nacionais",
-    "link": "https://www.cnnbrasil.com.br/agro/krilltech-capta-r-225-milhoes-da-finep-para-desenvolver-nanodefensivos/",
-    "time": "2026-10-28T07:15:04.000Z"
+    "h": "Enem: é melhor chutar ou deixar questões em branco? Entenda",
+    "d": "Candidatos que se prepararam para o exame podem enfrentar dificuldades enquanto respondem às questões; especialistas dão dicas do que fazer nesses casos",
+    "link": "https://www.cnnbrasil.com.br/educacao/enem-e-melhor-chutar-ou-deixar-questoes-em-branco-entenda/",
+    "time": "2026-10-28T14:29:28.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Israel's election result is messy - here's why",
+    "d": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+    "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T14:26:24.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Quem controla a IA? A Anthropic tem um plano a longo prazo",
-    "d": "Desenvolvedora de inteligência artificial busca equilibrar interesses de investidores com impacto positivo para a humanidade",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/quem-controla-a-ia-a-anthropic-tem-um-plano-a-longo-prazo/",
-    "time": "2026-10-28T07:10:03.000Z"
+    "h": "Mediadores do Catar apresentam nova proposta ao Irã para encerrar guerra",
+    "d": "Autoridade iraniana diz que país apresentou ideias \"inaceitáveis\", sem nova proposta de paz",
+    "link": "https://www.cnnbrasil.com.br/internacional/mediadores-do-catar-apresentam-nova-proposta-ao-ira-para-encerrar-guerra/",
+    "time": "2026-10-28T14:23:22.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Padre coloca clube do interior de SP a venda por “apenas” R$ 1,5 milhão",
-    "d": "Padre Osvaldo contou que já recebeu seis propostas pelo Catanduva, clube da cidade na qual é prefeito",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/padre-coloca-clube-do-interior-de-sp-a-venda-por-apenas-r-15-milhao/",
-    "time": "2026-10-28T07:01:17.000Z"
+    "h": "Ter um carro voador na garagem ainda é um sonho distante; entenda por quê",
+    "d": "Aeronaves elétricas eVTOLs avançam rapidamente e prometem transformar segmento de transporte pessoal, mas ainda estão longe do carro voador dos sonhos",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/ter-um-carro-voador-na-garagem-ainda-e-um-sonho-distante-entenda-por-que/",
+    "time": "2026-10-28T14:22:25.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Santos x Palmeiras: horário e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes vão a campo nesta quarta-feira (28), às 19h30 (de Brasília), na Vila Belmiro, em Santos, pela 33ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-x-palmeiras-horario-e-onde-assistir-ao-jogo-do-brasileirao-2/",
-    "time": "2026-10-28T07:00:42.000Z"
+    "h": "Anvisa suspende lotes de medicamentos contra câncer e soro; veja quais",
+    "d": "Simbeva e Abevmy tiveram recolhimento voluntário após falhas em testes de endotoxinas bacterianas; solução de Ringer com Lactato apresentou partículas escuras",
+    "link": "https://www.cnnbrasil.com.br/saude/anvisa-suspende-lotes-de-medicamentos-contra-cancer-e-soro-veja-quais/",
+    "time": "2026-10-28T14:22:04.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Remo x Botafogo: horário e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes vão a campo nesta quarta-feira (28), às 21h30 (de Brasília), pela 33ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-x-botafogo-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "time": "2026-10-28T07:00:27.000Z"
+    "h": "Reforma tributária: TCU propõe alíquota de 11,3% para CBS em 2027",
+    "d": "Proposta será enviada ao Senado Federal, que terá até o dia 15 de dezembro para fixar a alíquota do novo imposto; processo foi relatado pelo ministro Vital do Rêgo",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/reforma-tributaria-tcu-propoe-aliquota-de-113-para-cbs-em-2027/",
+    "time": "2026-10-28T14:21:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "É #FAKE que reportagem mostrou plano de Lula para encerrar Bolsa Família após 2º turno; vídeo de 2025 citou mudanças no programa",
+    "d": "É #FAKE que reportagem citou plano de Lula para acabar com Bolsa Família após 2º turno; vídeo de 2025 relatou mudanças no programa Reprodução Circulam nas redes sociais publicações com um vídeo de uma reportagem supos…",
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/28/e-fake-que-reportagem-mostrou-plano-de-lula-para-encerrar-bolsa-familia-apos-2o-turno-video-de-2025-citou-mudancas-no-programa.ghtml",
+    "time": "2026-10-28T14:20:59.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Matthew Perry: relembre condenações dos envolvidos na morte do ator",
-    "d": "Morte do ator de \"Friends\" completa três anos nesta quarta-feira; ele foi encontrado sem vida em uma banheira de hidromassagem em casa",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/matthew-perry-relembre-condenacoes-dos-envolvidos-na-morte-do-ator/",
-    "time": "2026-10-28T07:00:25.000Z"
+    "h": "Basf vê receita do segmento agrícola cair 19,7% no terceiro trimestre",
+    "d": "Vendas somaram 1,4 bilhão de euros, pressionadas por menores volumes e preços; Ebitda ficou negativo em 78 milhões de euros",
+    "link": "https://www.cnnbrasil.com.br/agro/basf-ve-receita-do-segmento-agricola-cair-197-no-terceiro-trimestre/",
+    "time": "2026-10-28T14:20:28.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Do passaporte ao asilo de Trump, a cronologia da fuga de Flávio aos EUA",
-    "d": "Dia começou com especulação sobre ida do candidato derrotado à Argentina e terminou com confirmação da viagem aos EUA; petistas pedem prisão preventiva e dirigentes do PL dizem ter sido surpreendidos",
-    "link": "https://www.cnnbrasil.com.br/politica/do-passaporte-ao-asilo-de-trump-a-cronologia-da-fuga-de-flavio-aos-eua/",
-    "time": "2026-10-28T07:00:12.000Z"
+    "h": "Lesões no joelho de quem joga tênis: entenda o que cada movimento causa",
+    "d": "Ortopedista explica como paradas bruscas e agachamentos exigem cuidado constante para evitar complicações",
+    "link": "https://www.cnnbrasil.com.br/saude/lesoes-no-joelho-de-quem-joga-tenis-entenda-o-que-cada-movimento-causa/",
+    "time": "2026-10-28T14:20:09.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "STF retoma julgamento sobre acordo de poupadores dos planos econômicos",
-    "d": "Ministros decidem se quem tem direito pode receber sem aderir ao acordo coletivo; Febrapo diz que mais de 250 mil poupadores elegíveis ainda não foram localizados",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/stf-retoma-julgamento-sobre-acordo-de-poupadores-dos-planos-economicos/",
-    "time": "2026-10-28T07:00:00.000Z"
+    "h": "Buscas por Enem sobem com chegada da prova: tire as dúvidas mais procuradas",
+    "d": "Relatório do Google Trends mostra aumento de mais de 60% das pesquisas sobre o tema após divulgação dos locais de prova",
+    "link": "https://www.cnnbrasil.com.br/educacao/buscas-por-enem-sobem-com-chegada-da-prova-tire-as-duvidas-mais-procuradas/",
+    "time": "2026-10-28T14:19:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Flávio Bolsonaro desembarca na Flórida",
+    "d": "Senador chegou ao Aeroporto Executivo de Opa-locka, perto de Miami, um dia após seu passaporte ter sido cancelado pelas autoridades brasileiras.",
+    "link": "https://www.bbc.com/portuguese/articles/c98rz4k7kzvno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T14:18:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+    "d": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada…",
+    "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+    "time": "2026-10-28T14:16:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Polícia prende grupo que usava deepfake de Gusttavo Lima em golpe de doação",
+    "d": "Em apenas 45 dias, uma única empresa vinculada à organização criminosa recebeu 215 mil transações, totalizando quase R$ 10 milhões em fraudes; até o momento, cinco investigados foram presos",
+    "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/policia-prende-grupo-que-usava-deepfake-de-gusttavo-lima-em-golpe-de-doacao/",
+    "time": "2026-10-28T14:12:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Demi Lovato é hospitalizada e preocupa fãs: “Reação alérgica”",
+    "d": "Cantora usou as redes sociais para mostrar um momento recente em que precisou correr ao hospital",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/demi-lovato-e-hospitalizada-e-preocupa-fas-reacao-alergica/",
+    "time": "2026-10-28T14:11:08.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Projeto de lei quer deixar que candidato leve instrutor de sua escolha para exame da CNH",
+    "d": "Carro de autoescola Lia de Paula/Agência Senado Projeto de lei aprovado nesta quarta-feira (28) na Comissão de Viação e Transportes da Câmara dos Deputados quer permitir que o candidato leve um instrutor de sua própri…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/28/projeto-de-lei-quer-deixar-que-candidato-leve-instrutor-de-sua-escolha-para-exame-da-cnh.ghtml",
+    "time": "2026-10-28T14:08:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CNM: Super El Niño já afetou 6,9 milhões de pessoas no Brasil desde julho",
+    "d": "Prejuízos somam mais de R$ 12 bilhões e atingiram mais de mil cidades; alerta é que fenômeno sem precedentes chegue a seu pico ainda no final deste ano e se estenda até fevereiro",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/cnm-super-el-nino-ja-afetou-69-milhoes-de-pessoas-no-brasil-desde-julho/",
+    "time": "2026-10-28T14:08:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eleição de Israel é sobre responsabilização do 7 de outubro, diz professor",
+    "d": "Vitelio Brustolin, pesquisador de Harvard e professor da Universidade Federal Fluminense, analisa os temas centrais das eleições israelenses",
+    "link": "https://www.cnnbrasil.com.br/internacional/eleicao-de-israel-e-sobre-responsabilizacao-do-7-de-outubro-diz-professor/",
+    "time": "2026-10-28T14:03:44.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Snapchat é julgado nos EUA pela primeira vez em caso de dependência em redes sociais",
+    "d": "Snapchat é julgado nos EUA pela primeira vez Richard Drew/AP Foto A plataforma de mensagens Snapchat terá que se defender, pela primeira vez, diante de um júri contra acusações de vício em redes sociais entre os joven…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/28/snapchat-e-julgado-nos-eua-pela-primeira-vez-em-caso-de-dependencia-em-redes-sociais.ghtml",
+    "time": "2026-10-28T13:47:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Itamaraty se solidariza com vítimas de acidente na Espanha; ainda não há informações sobre brasilieros",
+    "d": "O Ministério das Relações Exteriores (Itamaraty) divulgou um comunicado nesta quarta-feira (28) lamentando o acidente ferroviário que deixou centenas de pessoas mortas na Espanha. A causa do acidente e o número de fer…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/28/itamaraty-presta-solidariedade-a-familias-de-vitimas-de-acidente-com-trens-na-espanha.ghtml",
+    "time": "2026-10-28T13:46:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "VÍDEO mostra momento em que Flávio Bolsonaro e família desembarcam nos EUA",
+    "d": "Flávio Bolsonaro e família desembarcam nos EUA O senador Flávio Bolsonaro (PL) chegou com sua família aos Estados Unidos na manhã desta quarta-feira (28). O avião que o senador utilizou para fugir do Brasil aterrissou…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/28/video-mostra-momento-flavio-bolsonaro-desembarca-eua.ghtml",
+    "time": "2026-10-28T13:45:44.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Flávio Bolsonaro lands in Miami after Brazil election loss",
+    "d": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the los…",
+    "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+    "time": "2026-10-28T13:39:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro chega aos Estados Unidos",
+    "d": "Flávio Bolsonaro e família desembarcam nos EUA O senador Flávio Bolsonaro (PL), sua esposa e as filhas do casal chegaram aos Estados Unidos nesta quarta-feira (28). O avião utilizado pela família pousou em um aeroport…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/28/voo-flavio-bolsonaro-chega-aos-eua.ghtml",
+    "time": "2026-10-28T13:25:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula será aconselhado a não falar mais em Flávio e dizer que caso é problema do senador com Judiciário",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) será aconselhado por interlocutores a não falar mais em Flávio Bolsonaro (PL), focar em seu quarto mandato e deixar claro que o problema do senador é com o Judiciário. Ou se…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/lula-sera-aconselhado-a-nao-falar-mais-em-flavio-e-dizer-que-caso-e-problema-do-senador-com-judiciario.ghtml",
+    "time": "2026-10-28T13:18:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Ao menos 64 pessoas morreram e dezenas ficaram feridas em acidente com trem de alta velocidade na Espanha",
+    "d": "Colisão envolveu um trem de alta velocidade que havia partido de Madri com destino a Sevilha e uma composição de outra empresa que seguia no sentido contrário.",
+    "link": "https://www.bbc.com/portuguese/articles/cmly074jvgglo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T13:16:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Viera se reúne com Marco Rubio nesta semana, após Trump não reconhecer resultado das eleições",
+    "d": "Trump diz aprovar ida de Flávio Bolsonaro aos EUA O ministro das Relações Exteriores, Mauro Vieira, e o secretário de Estado dos Estados Unidos, Marco Rubio, vão se reunir nesta semana em meio à tensão diplomática pro…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/28/viera-se-reune-com-marco-rubio-nesta-semana-apos-trump-evitar-comentar-resultado-das-eleicoes.ghtml",
+    "time": "2026-10-28T13:05:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Ministros de Lula e do STF criticam decisões da PF e de Moraes sobre Flávio Bolsonaro",
+    "d": "Ministro Alexandre de Moraes em sessão plenária extraordinária do STF - 15/09/2026 Rosinei Coutinho/STF A decisão do ministro Alexandre de Moraes, acatando pedido da Polícia Federal (PF), de mandar cancelar os passapo…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/ministros-de-lula-e-do-stf-criticam-decisoes-da-pf-e-de-moraes-sobre-flavio-bolsonaro.ghtml",
+    "time": "2026-10-28T12:35:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Análise: Flávio Bolsonaro não é um problema de política, mas de polícia",
+    "d": "Sadi: Flávio Bolsonaro abandona direita A saída de Flávio Bolsonaro do Brasil, cerca de 48h após a derrota nas eleições, na última terça-feira (27), reforça a avaliação de que sua candidatura à Presidência também tinh…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/analise-flavio-bolsonaro-nao-e-um-problema-de-politica-mas-de-policia.ghtml",
+    "time": "2026-10-28T12:34:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Voo de Flávio Bolsonaro entra no espaço aéreo dos EUA; VEJA rota",
+    "d": "Flávio Bolsonaro e família seguem para os EUA após passagem por Argentina e Equador O senador Flávio Bolsonaro (PL), sua esposa e as filhas do casal já estão no espaço aéro norte-americano. O governo da Argentina conf…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/28/veja-rota-de-voo-flavio-bolsonaro-a-caminho-dos-eua.ghtml",
+    "time": "2026-10-28T12:32:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Relação entre Trump e Lula pode azedar mais?",
+    "d": "Segundo funcionário de alto escalão do governo Trump, Departamento de Estado vai oferecer visto a Flávio Bolsonaro e família.",
+    "link": "https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T12:05:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O mapa que revela avanço generalizado de Lula no 2º turno: petista só 'piorou' em quatro de 5.571 municípios",
+    "d": "Mapas, que comparam desempenho de candidatos em municípios e Estados, dão uma boa ideia de como ocorreu a 'virada' do 1º para o 2º turno.",
+    "link": "https://www.bbc.com/portuguese/articles/crgqwgz43ppxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T12:05:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ibovespa opera em queda e já acumula perda de 14% na semana; dólar recua à espera do Fed",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O Ibovespa, principal índice acionário da bolsa brasileira, opera mais uma vez em queda nesta quarta-feira (28), com um recuo de 1,38% perto das 10h30, aos 173.413 pont…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/28/dolar-ibovespa.ghtml",
+    "time": "2026-10-28T12:00:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Lula critica Flávio, e aliados falam em 'perseguição'",
+    "d": "Figuras políticas proeminentes manifestaram-se sobre o paradeiro do senador. Confira as reações.",
+    "link": "https://www.bbc.com/portuguese/articles/cm3vq7q59ne6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T11:56:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Senador pode ser considerado foragido?",
+    "d": "Senador descumpriu ordem de Moraes para entregar seus passaportes e deixou o Brasil.",
+    "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T11:49:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Passadas as eleições, governo concede garantia para empréstimo de R$ 7 bilhões de consórcio de bancos aos Correios",
+    "d": "O governo federal concedeu garantia de R$ 7 bilhões para empréstimo de um consórcio de bancos aos Correios, dentro do processo de reestruturação previsto para o período de 2025 a 2027. O ato foi formalizado após a con…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/28/passadas-eleicoes-governo-federal-concede-garantia-para-emprestimo-de-r-7-bilhoes-de-consorcio-de-bancos-aos-correios.ghtml",
+    "time": "2026-10-28T11:22:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "FOTOS: veja como é o jatinho particular que levou Flávio Bolsonaro e família aos EUA",
+    "d": "Jatinho particular LV-JQW, um Gulfstream G400, da companhia aérea argentina Baires Fly. Divulgação/Baires Fly O senador Flávio Bolsonaro (PL) e sua família chegaram aos Estados Unidos nesta quarta-feira (28). O avião…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/28/veja-fotos-jatinho-particular-fuga-flavio-bolsonaro-eua.ghtml",
+    "time": "2026-10-28T10:52:43.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Número de super-ricos na China atinge maior nível com ascensão de empresários de tecnologia",
+    "d": "Número de super-ricos na China atinge maior nível com ascensão de empresários de tecnologia Getty Images O número de super-ricos na China atingiu o maior nível já registrado neste ano, impulsionado pela entrada de emp…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/28/numero-de-super-ricos-na-china-atinge-maior-nivel-com-ascensao-de-empresarios-de-tecnologia.ghtml",
+    "time": "2026-10-28T10:47:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    "d": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+    "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T10:31:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Tanzania celebrates first natural gas discovery in more than 10 years",
+    "d": "The energy minister described it as a \"major milestone\" for the East African nation.",
+    "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T10:18:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+    "d": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T10:17:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
+    "d": "Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan’s family Arizona authorities say their Mexican counterparts were resoundingly mistaken when they publicly claimed rec…",
+    "link": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
+    "time": "2026-10-28T10:00:05.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Fed set to hold interest rates steady in last decision before midterms",
+    "d": "US central bank last month raised rates for first time since 2023, in move that infuriated Donald Trump The US Federal Reserve is expected to leave interest rates unchanged on Wednesday during its last rate-setting me…",
+    "link": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+    "time": "2026-10-28T10:00:03.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+    "d": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could…",
+    "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+    "time": "2026-10-28T09:37:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+    "d": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
+    "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T08:28:39.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Governo renova subsídio ao diesel; por que o agro é tão vulnerável à alta do combustível?",
+    "d": "Governo prorroga subvenção de R$ 2,12 por litro de diesel O governo federal prorrogou nesta terça-feira (27), por mais 30 dias, o subsídio ao diesel, mantendo o benefício em R$ 2,12 por litro. A medida busca conter os…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/28/por-que-o-agro-e-tao-vulneravel-a-alta-do-diesel.ghtml",
+    "time": "2026-10-28T08:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -80,28 +384,12 @@
     "time": "2026-10-28T06:55:35.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fuga de Flávio Bolsonaro abre disputa por liderança da direita no Brasil",
-    "d": "Tarcísio de Freitas é o mais forte para assumir a função, segundo aliados, que veem sinalização de projeto presidencial para 2030",
-    "link": "https://www.cnnbrasil.com.br/politica/fuga-de-flavio-bolsonaro-abre-disputa-por-lideranca-da-direita-no-brasil/",
-    "time": "2026-10-28T06:50:22.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
     "d": "Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirms The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way…",
     "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
     "time": "2026-10-28T06:36:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arko: Flávio é problema de Trump até surgir novo líder de direita no Brasil",
-    "d": "Ao WW, o CEO da Arko Advice Internacional, Thiago de Aragão, afirma que presença de Flávio nos EUA dificulta acesso americano a minerais raros e abre espaço para a China no Brasil",
-    "link": "https://www.cnnbrasil.com.br/politica/arko-flavio-e-problema-de-trump-ate-surgir-novo-lider-de-direita-no-brasil/",
-    "time": "2026-10-28T06:12:50.000Z"
   },
   {
     "cat": "economia",
@@ -128,20 +416,20 @@
     "time": "2026-10-28T06:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fluminense x Internacional: horário e onde assistir ao jogo do Brasileirão",
-    "d": "Equipes vão a campo nesta quarta-feira (28), às 19h30 (de Brasília), pela 33ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-x-internacional-horario-e-onde-assistir-ao-jogo-do-brasileirao-2/",
-    "time": "2026-10-28T06:00:00.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Terras raras: o que o Brasil tem a ganhar ou perder na disputa bilionária entre China e EUA?",
     "d": "Terras raras: a disputa global por uma riqueza brasileira O Brasil tem a segunda maior reserva de terras raras do mundo. Esse grupo reúne 17 elementos químicos utilizados na fabricação de carros elétricos, turbinas eó…",
     "link": "https://g1.globo.com/g1-explica/noticia/2026/10/28/terras-raras-o-que-o-brasil-tem-a-ganhar-ou-perder-na-disputa-bilionaria-entre-china-e-eua.ghtml",
     "time": "2026-10-28T05:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+    "d": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-28T04:32:36.000Z"
   },
   {
     "cat": "economia",
@@ -153,67 +441,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena pode pagar R$ 320 milhões nesta quarta-feira; g1 transmite ao vivo",
-    "d": "Como funciona a Mega-Sena? O concurso 3.077 da Mega-Sena pode pagar um prêmio de R$ 320 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quarta-feira (28), em São Paulo. Está se…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/28/mega-sena-pode-pagar-r-320-milhoes-nesta-quarta-feira-g1-transmite-ao-vivo.ghtml",
-    "time": "2026-10-28T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Lula critica Flávio, e aliados falam em 'perseguição'",
-    "d": "Aliados e opositores de Flávio Bolsonaro, incluindo o presidente Lula, manifestaram-se publicamente sobre a falta de paradeiro do senador. Confira as reações do mundo político.",
-    "link": "https://www.bbc.com/portuguese/articles/cm3vq7q59ne6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-28T02:44:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Israel vai às urnas, e legado do 7 de outubro pode definir se Netanyahu terá seu sétimo mandato",
-    "d": "Muitos temem que nenhum dos principais blocos políticos consiga cadeiras suficientes para formar maioria, o que significa que semanas ou meses de disputas políticas podem estar por vir.",
-    "link": "https://www.bbc.com/portuguese/articles/cm4g1qpnkv11o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-28T02:20:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-    "d": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-    "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-28T02:20:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Senador pode ser considerado foragido?",
-    "d": "Senador descumpriu ordem de Moraes para entregar seus passaportes e viajou para os EUA",
-    "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-28T00:29:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Relação entre Trump e Lula pode azedar mais?",
-    "d": "Segundo alto-funcionário do governo Trump, Departamento de Estado vai oferecer visto a Flávio Bolsonaro e família",
-    "link": "https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-28T00:25:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Flávio Bolsonaro vai para os EUA após derrota nas eleições: o que acontece agora?",
-    "d": "Derrotado nas eleições, senador saiu do Brasil após decisão do STF que o proibia de deixar o país.",
-    "link": "https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-28T00:08:38.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3076 acumula e prêmio vai a R$ 320 milhões; confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.076 da Mega-Sena foi realizado na noite desta terça-feira (27), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 309,9 milhões. No enta…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-concurso-3076-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-10-28T00:04:26.000Z"
+    "src": "The Guardian",
+    "h": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+    "d": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas compan…",
+    "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+    "time": "2026-10-28T01:45:27.000Z"
   },
   {
     "cat": "internacional",
@@ -240,17 +472,9 @@
     "time": "2026-10-27T22:11:08.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "FMI fecha acordo com a Argentina e pode liberar mais US$ 900 milhões ao país",
-    "d": "O presidente da Argentina, Javier Milei, em 2 de abril de 2026 REUTERS/Agustin Marcarian O Fundo Monetário Internacional (FMI) e a Argentina chegaram nesta terça-feira (27) a um acordo que pode liberar cerca de US$ 90…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/27/acordo-fmi-argentina.ghtml",
-    "time": "2026-10-27T21:29:51.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Observadores internacionais elogiam eleições brasileiras, e Carter Center pede respeito ao resultado",
+    "h": "Observadores internacionais elogiam organização das eleições brasileiras e Carter Center pede respeito ao resultado",
     "d": "Missões internacionais elogiam a urna e a apuração; OEA pede regras para decisões monocráticas e para plataformas.",
     "link": "https://www.bbc.com/portuguese/articles/cxzd68mp8nmno?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-27T21:23:08.000Z"
@@ -266,10 +490,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-    "d": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-    "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T20:44:40.000Z"
+    "h": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+    "d": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-27T20:42:38.000Z"
   },
   {
     "cat": "brasil",
@@ -280,12 +504,12 @@
     "time": "2026-10-27T20:31:53.000Z"
   },
   {
-    "cat": "internacional",
+    "cat": "economia",
     "src": "The Guardian",
-    "h": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
-    "d": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent tran…",
-    "link": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
-    "time": "2026-10-27T20:23:46.000Z"
+    "h": "San Francisco estate sells for record $10m above listing price as AI boom drives up costs",
+    "d": "Eight-bedroom mansion listed at $18.5m sold for $28.5m and has a private garden and three-car garage A San Francisco estate sold for $10m above its listing price this month in a new record for the city as the artifici…",
+    "link": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
+    "time": "2026-10-27T20:23:03.000Z"
   },
   {
     "cat": "internacional",
@@ -294,14 +518,6 @@
     "d": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
     "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-27T19:30:37.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-    "d": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
-    "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T19:01:16.000Z"
   },
   {
     "cat": "brasil",
@@ -314,90 +530,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-    "d": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T18:43:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Controversial Islamic cleric shot dead in northern Nigeria",
-    "d": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
-    "link": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T18:35:02.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Norway and Finland leaders hold rare call with Putin",
     "d": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
     "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-27T18:28:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
-    "d": "US military says it carried out an airstrike on an alleged drug-trafficking boat in latest attack in region The US ⁠military ⁠said on ​Tuesday ⁠it killed ⁠five ​people ‌after ‌an airstrike on a ‌suspected drug-traffic…",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-    "time": "2026-10-27T17:35:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Flávio Bolsonaro foi intimado a entregar os passaportes?",
-    "d": "Decisão foi dada em processo envolvendo o advogado Willer Tomaz e suspeitas de lavagem de dinheiro. Senador afirmou nunca ter pensado em deixar o país.",
-    "link": "https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T16:37:04.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "El Niño pode provocar perdas de R$ 33 bilhões na safra de soja do Brasil; entenda os riscos",
-    "d": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A safra brasileira de soja 2026/27 pode ter uma queda de cerca de 10% caso o El Niño seja forte, reduzindo a produção de 181,2 milhões…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
-    "time": "2026-10-27T15:57:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-    "d": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T14:29:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Esportivo usado por Tony Stark no filme 'Os Vingadores' vai a leilão; lances já passam de R$ 520 mil",
-    "d": "Acura NSX do filme Vingadores de 2012 foi construído a partir de um NSX de 1991. Divulgação Um esportivo usado no filme \"Os Vingadores\" vai a leilão. O modelo exclusivo, um Acura NSX Roadster customizado para o person…",
-    "link": "https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml",
-    "time": "2026-10-27T14:18:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Imposto do pecado': governo deve enviar regras ao Congresso nesta semana, diz Durigan",
-    "d": "Ministro da Fazenda fala sobre reação do mercado Passadas as eleições, a equipe econômica se prepara para enviar ao Congresso Nacional a proposta de regulamentação do Imposto Seletivo, conhecido como \"imposto do pecad…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml",
-    "time": "2026-10-27T13:29:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-    "d": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-    "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T13:25:54.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Durigan anuncia projeto para cumprir centro da meta fiscal e pede 'racionalidade' do mercado",
-    "d": "Ministro da Fazenda fala sobre reação do mercado O ministro da Fazenda, Dario Durigan, anunciou nesta terça-feira (27) que o governo federal enviará ao Congresso Nacional um projeto de lei para estabelecer expressamen…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml",
-    "time": "2026-10-27T13:03:39.000Z"
   },
   {
     "cat": "economia",
@@ -406,14 +542,6 @@
     "d": "It is essential not just to fund the public goods the nation needs, it is indispensable to restore a sense of fairness Money doesn’t buy happiness, we’re told. Even some economists agree. The Nobel prize-winning econo…",
     "link": "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires",
     "time": "2026-10-27T11:00:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Ian Bremmer: 'Se Lula não agir rápido na economia, o mercado vai castigá-lo duramente'",
-    "d": "Em entrevista à BBC News Brasil, fundador e presidente do grupo Eurasia analisa os desafios do novo mandato de Lula, critica a contestação do resultado por Flávio Bolsonaro e diz que vitória do petista não muda tendên…",
-    "link": "https://www.bbc.com/portuguese/articles/cvglw5x8760ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-27T08:50:44.000Z"
   },
   {
     "cat": "economia",
@@ -496,14 +624,6 @@
     "time": "2026-10-26T09:59:27.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "UK poised to miss reduced aid spending target of 0.3% of national income",
-    "d": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated The UK is on course to miss its target of spending 0.3% of national income on international aid by…",
-    "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-    "time": "2026-10-26T06:59:36.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
@@ -526,21 +646,5 @@
     "d": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict gri…",
     "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
     "time": "2026-10-23T16:48:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-    "d": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more tha…",
-    "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-    "time": "2026-10-23T13:57:11.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
-    "d": "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loans Jack Price joined the marines in fall 2021 knowing he would need a car to get a…",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
-    "time": "2026-10-23T11:30:24.000Z"
   }
 ]
