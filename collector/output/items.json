@@ -1,123 +1,331 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Soja encerra semana em Chicago pressionada por safra dos EUA",
+    "d": "Mercado acompanha o avanço da colheita recorde nos Estados Unidos, a concorrência sul-americana e as incertezas sobre a demanda chinesa",
+    "link": "https://www.cnnbrasil.com.br/agro/soja-encerra-semana-em-chicago-pressionada-por-safra-dos-eua/",
+    "time": "2026-10-30T19:16:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CJ Selecta fecha crédito verde de R$ 155 mi para compra de soja certificada",
+    "d": "Recursos serão usados na aquisição de grãos com origem rastreada e certificação socioambiental; em 2025, 99,63% da soja comprada pela empresa foi rastreada até as fazendas",
+    "link": "https://www.cnnbrasil.com.br/agro/cj-selecta-fecha-credito-verde-de-r-155-mi-para-compra-de-soja-certificada/",
+    "time": "2026-10-30T19:05:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Técnico do Barcelona fala sobre Raphinha na Seleção: “Não é o ideal”",
+    "d": "Atacante brasileiro é o capitão do clube catalão e se lesionou na última vez que esteve com a Canarinho, no fim de setembro desta temporada, em Brisbane, na Austrália",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/tecnico-do-barcelona-fala-sobre-raphinha-na-selecao-nao-e-o-ideal/",
+    "time": "2026-10-30T19:04:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Estado sólido vs. LFP: a corrida pelas baterias de 1.000 km de autonomia",
+    "d": "Avanço de novas químicas e densidades energéticas promete resolver a ansiedade de alcance e redefinir a disputa tecnológica na mobilidade elétrica global",
+    "link": "https://www.cnnbrasil.com.br/auto/estado-solido-vs-lfp-a-corrida-pelas-baterias-de-1-000-km-de-autonomia/",
+    "time": "2026-10-30T19:03:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem chega, quem fica e quem sai: quais são os nomes cotados para o governo Lula 4",
+    "d": "Presidente terá que acomodar aliados e o Centrão para tentar governar com o Congresso, além de ajudar a esquerda a formar novos quadros para 2030.",
+    "link": "https://www.bbc.com/portuguese/articles/cmde858pg81zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T19:03:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Governo diz que CNU 2027 pode ofertar até 3 mil vagas; realização de provas depende da aprovação do Orçamento de 2027",
+    "d": "O Ministério da Gestão e da Inovação (MGI) informou que uma eventual edição do Concurso Público Nacional Unificado (CPNU) em 2027 poderá ofertar entre 2 mil e 3 mil vagas. A realização do concurso, no entanto, depende…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/30/governo-diz-que-cnu-2027-pode-ofertar-ate-3-mil-vagas-realizacao-do-de-provas-depende-da-aprovacao-do-orcamento-de-2027.ghtml",
+    "time": "2026-10-30T19:01:26.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Açúcar fecha em queda em Nova York e acumula perda de 4% na semana",
+    "d": "Preços recuaram 0,56% nesta sexta-feira, pressionados por preocupações com as exportações brasileiras e atrasos na moagem da cana",
+    "link": "https://www.cnnbrasil.com.br/agro/acucar-fecha-em-queda-em-nova-york-e-acumula-perda-de-4-na-semana/",
+    "time": "2026-10-30T19:00:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Meta faz acordo com adolescente que acusava redes sociais de causar vício",
+    "d": "Processo encerra ação de adolescentes contra a Meta sobre impactos na saúde mental de jovens; julgamento contra a Snap continua",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/meta-faz-acordo-com-adolescente-que-acusava-redes-sociais-de-causar-vicio/",
+    "time": "2026-10-30T18:58:03.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "‘Deepest possible partnership’: Canada and EU announce new alliance",
+    "d": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “p…",
+    "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+    "time": "2026-10-30T18:54:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sabores do campo revelam um Brasil artesanal",
+    "d": "Prêmio da CNA reúne cachaça de alambique, azeite e doce de leite e reconhece a qualidade e as histórias de produtores de diferentes regiões",
+    "link": "https://www.cnnbrasil.com.br/branded-content/nacional/sabores-do-campo-revelam-um-brasil-artesanal/",
+    "time": "2026-10-30T18:51:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Plano de estado dos anos 90 transformou a Coreia do Sul em uma superpotência pop com a regra de “apoiar sem interferir”",
+    "d": "Do K-pop ao K-beauty, o fenómeno Hallyu domina o entretenimento global com criatividade, apoio estatal inteligente e uma receita de sucesso económico",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/plano-de-estado-dos-anos-90-transformou-a-coreia-do-sul-em-uma-superpotencia-pop-com-a-regra-de-apoiar-sem-interferir/",
+    "time": "2026-10-30T18:49:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bater a cabeça pode causar hemorragias detectadas meses depois, diz Kalil",
+    "d": "Tema será debatido no episódio inédito do \"CNN Sinais Vitais - Dr. Kalil Entrevista\", que será exibido neste sábado, às 19h30, na CNN Brasil",
+    "link": "https://www.cnnbrasil.com.br/saude/bater-a-cabeca-pode-causar-hemorragias-detectadas-meses-depois-diz-kalil/",
+    "time": "2026-10-30T18:45:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vestido de Mari Gonzalez e Gio Ewbank é de grife usada por Margot Robbie",
+    "d": "Modelo da coleção de primavera 2026 da marca Zimmermann foi escolhido pelas famosas para o casamento da ex-BBB Juliette, que aconteceu na quinta-feira (29)",
+    "link": "https://www.cnnbrasil.com.br/style/moda/vestido-de-mari-gonzalez-e-gio-ewbank-e-de-grife-usada-por-margot-robbie/",
+    "time": "2026-10-30T18:41:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Após críticas de aliados, Michelle diz que Bolsonaro pediu para direita se unir e não buscar culpados",
+    "d": "Michelle e Flávio Bolsonaro em encontro em Brasília em 11 de agosto de 2026 Vittor Sales/Divulgação Após críticas de aliados, a senadora eleita Michelle Bolsonaro (PL) disse que Bolsonaro pediu união da direita e orie…",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/apos-criticas-michelle-bolsonaro-faz-agradecimento-a-politicos-que-atuaram-na-campanha-de-flavio.ghtml",
+    "time": "2026-10-30T18:40:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nicole Scherzinger mostra cliques no Brasil antes de show do Pussycat Dolls",
+    "d": "A cantora mostrou preparativos e treinos nas redes sociais antes da apresentação em São Paulo",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/nicole-scherzinger-mostra-cliques-no-brasil-antes-de-show-do-pussycat-dolls/",
+    "time": "2026-10-30T18:37:55.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
+    "d": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo O roubo de US$ 6,3 bilhões em criptomoedas da Binance, um dos maiores ataques da história do setor, reacendeu o debate sobre como as…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml",
+    "time": "2026-10-30T18:31:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+    "d": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnin…",
+    "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+    "time": "2026-10-30T18:27:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Xuxa revela quando bebê de Sasha e João Lucas nascerá; saiba previsão",
+    "d": "Empresária dona da marca Mondepars está à espera do 1º filho fruto de sua relação com o cantor João Lucas; casal de celebridades está casado desde 2021",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/xuxa-revela-quando-bebe-de-sasha-e-joao-lucas-nascera-saiba-previsao/",
+    "time": "2026-10-30T18:22:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa",
+    "d": "Robô H2-X da Unitree divulgação/Unitree Até agora, os robôs humanoides da empresa chinesa Unitree haviam chamado atenção, principalmente por suas exibições de artes marciais. Mas a companhia de Hangzhou quer dar um pa…",
+    "link": "https://g1.globo.com/inovacao/noticia/2026/10/30/robo-guarda-costas-enfrenta-homem-com-faca-e-ergue-ate-carro-para-socorrer-pessoa.ghtml",
+    "time": "2026-10-30T18:21:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Cacau abre mercados para o Brasil, mas chocolate pode voltar a ser artigo de luxo devido à crise climática",
+    "d": "Semente de cacau dá origem ao chocolate. Reprodução/Redes sociais Do pé de cacau à barra de chocolate, o Brasil hoje domina toda a cadeia de produção e aposta cada vez mais na qualidade para conquistar mercados intern…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/cacau-abre-mercados-para-o-brasil-mas-chocolate-pode-voltar-a-ser-artigo-de-luxo-devido-a-crise-climatica.ghtml",
+    "time": "2026-10-30T18:20:46.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "OpenAI vai limitar acesso de adolescentes a informações sobre armas no ChatGPT",
+    "d": "ChatGPT ANDREJ IVANOV / AFP via Getty Images A OpenAI anunciou nesta sexta-feira (30) que vai restringir ainda mais as informações sobre armas fornecidas pelo ChatGPT a adolescentes, mesmo quando as perguntas parecere…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/openai-chatgpt-informacoes-armas.ghtml",
+    "time": "2026-10-30T18:08:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA",
+    "d": "O Ministério das Relações Exteriores (Itamaraty) convocou a encarregada de Negócios da Embaixada da Argentina no Brasil, María Emilia Cortés, a prestar esclarecimentos sobre o contexto da fuga do senador Flávio Bolson…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/30/itamaraty-convoca-representante-da-embaixada-da-argentina-apos-flavio-cruzar-fronteira-do-brasil-com-o-pais-vizinho-e-fugir-para-eua.ghtml",
+    "time": "2026-10-30T17:54:14.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US tech stocks see sharp falls as AI spending nears $1tn",
+    "d": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T17:47:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    "d": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T17:39:43.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "How crypto hacking funds isolated North Korea’s nuclear programme",
+    "d": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s econom…",
+    "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+    "time": "2026-10-30T17:37:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "G20 'family photo' cancelled after protests over presence of Russian minister",
+    "d": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T17:25:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "É crime fazer listas de negócios 'petistas' para promover boicote?",
+    "d": "Advogados esclarecem se listas que circulam nas redes sociais e no WhatsApp são liberdade de expressão ou podem ser enquadrados como crimes.",
+    "link": "https://www.bbc.com/portuguese/articles/cw78pr842gk5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T17:25:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Detenta americana Christa Pike afirma ter acordado 'confusa e com dores' após tentativa fracassada de execução",
+    "d": "Esta é a primeira declaração pública de Pike desde que sobreviveu a uma tentativa de execução por injeção letal em setembro.",
+    "link": "https://www.bbc.com/portuguese/articles/cqwy728wwky3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T17:16:39.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
     "d": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
     "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T14:19:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Família e amigos lamentam morte de Matheus Sabbá aos 30 anos",
-    "d": "Ator e diretor morreu na última quarta-feira (28), em Manaus; homenagens foram publicadas nas redes sociais",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/familia-e-amigos-lamentam-morte-de-matheus-sabba-aos-30-anos/",
-    "time": "2026-10-30T14:04:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leilão: Cymi oferece R$ 78,7 milhões e vence a disputa pelo lote 3",
-    "d": "Empresa deu um desconto de 57,08% em relação à receita máxima. Projeto de R$ 1,07 bilhão prevê 45 km de linhas e uma subestação em Mogi das Cruzes para reforçar o atendimento à região central da capital paulista",
-    "link": "https://www.cnnbrasil.com.br/infra/leilao-cymi-oferece-r-787-milhoes-e-vence-a-disputa-pelo-lote-3/",
-    "time": "2026-10-30T14:02:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ian McKellen, Magneto em “X-Men”, faz texto emocionado para Patrick Stewart",
-    "d": "Ator relembrou momentos marcantes da amizade entre os dois, mais conhecidos pelos papéis na Marvel, e destacou a trajetória do colega dentro e fora das telas",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ian-mckellen-magneto-em-x-men-faz-texto-emocionado-para-patrick-stewart/",
-    "time": "2026-10-30T14:01:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Binance Brasil diz que fundos estão seguros após ataque hacker bilionário",
-    "d": "Corretora afirma que saques dos ativos virtuais estão temporariamente suspensos enquanto é feita uma verificação de segurança",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/binance-brasil-diz-que-fundos-estao-seguros-apos-ataque-hacker-bilionario/",
-    "time": "2026-10-30T14:01:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Incerteza leva investidores a diversificar aplicações fora do Brasil",
-    "d": "Wilson Barcellos, da Azimut Brasil, cita países que atraem investidores em busca de diversificação e mudança de domicílio fiscal",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/incerteza-leva-investidores-a-diversificar-aplicacoes-fora-do-brasil/",
-    "time": "2026-10-30T14:00:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Indicador de incerteza medido pela FGV cai 1,8 ponto em outubro",
-    "d": "Resultado evidencia que, apesar de uma redução na percepção de incerteza no ambiente político, persistem dúvidas relevantes sobre a trajetória da economia brasileira",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/indicador-de-incerteza-medido-pela-fgv-cai-18-ponto-em-outubro/",
-    "time": "2026-10-30T14:00:34.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "Binance sofre ataque hacker de US$ 6,3 bilhões: quem pode estar por trás do possível maior roubo da história das criptomoedas",
-    "d": "Duas empresas de análise de dados sugeriram que o crime teria sido cometido por hackers de um grupo norte-coreano chamado TraderTraitor.",
-    "link": "https://www.bbc.com/portuguese/articles/c820v2x0zvqko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T13:59:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vorcaro nega fraude no BRB e diz que rombo foi causado pelas investigações",
-    "d": "Em depoimento à PF no dia 15 de setembro, banqueiro também afirma que foi criada uma \"fantasia\" sobre as supostas fraudes do Master e disse ser vítima de perseguição e prisão injusta",
-    "link": "https://www.cnnbrasil.com.br/politica/vorcaro-nega-fraude-no-brb-e-diz-que-rombo-foi-causado-pelas-investigacoes/",
-    "time": "2026-10-30T13:56:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Secretaria de Florianópolis dá milho cru como lembrança no Dia do Servidor",
-    "d": "Item foi dado pela Secretaria de Assistência Social no Dia do Servidor Público; sindicato questionou a escolha do presente e apontou problemas nas condições de trabalho",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/secretaria-de-florianopolis-da-milho-cru-como-lembranca-no-dia-do-servidor/",
-    "time": "2026-10-30T13:55:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "De pedrinha em pedrinha, coreano construiu mais de 80 pilhas de até 15 metros de altura; trabalho de 30 anos foi inspirado por “revelação divina”",
-    "d": "Um dos mais belos templos da Coreia do Sul está coberto por picos de pedras equilibradas uma a uma pelo eremita Lee Gap-yong; sem argamassa, as pilhas sobreviveram a mais de um século de ventos e tempestades",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/coreano-pilhas-pedrinha-revelacao-divina/",
-    "time": "2026-10-30T13:52:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Resumo de “Quem Ama Cuida”: leia os capítulos de 2 a 7 de novembro",
-    "d": "Nos próximos capítulos da novela de Walcyr Carrasco e Claudia Souto, Brigitte vai confrontar Pilar ao descobrir que teve sua herança roubada",
-    "link": "https://www.cnnbrasil.com.br/pop/tv/resumo-de-quem-ama-cuida-leia-os-capitulos-de-2-a-7-de-novembro/",
-    "time": "2026-10-30T13:51:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leilão: Celeo Redes arremata o lote 4 de transmissão com deságio de 50,55%",
-    "d": "Maior projeto do leilão prevê R$ 4,11 bilhões em investimentos e 1.167 km de linhas, com obras para reforçar o abastecimento de Mato Grosso do Sul",
-    "link": "https://www.cnnbrasil.com.br/infra/leilao-celeo-redes-arremata-o-lote-4-de-transmissao-com-desagio-de-5055/",
-    "time": "2026-10-30T13:49:21.000Z"
+    "time": "2026-10-30T17:07:19.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-    "d": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T13:46:16.000Z"
+    "h": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+    "d": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+    "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T17:00:32.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Banco do Japão alcança meta de inflação, mas sinaliza aumento de juros",
-    "d": "Presidente Kazuo Ueda afirma que a instituição analisará novos aumentos na taxa de juros a cada reunião, incluindo a de dezembro deste ano",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/banco-do-japao-alcanca-meta-de-inflacao-e-sinaliza-aumento-de-juros/",
-    "time": "2026-10-30T13:41:39.000Z"
+    "src": "G1",
+    "h": "Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
+    "d": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo A corretora de criptomoedas Binance afirmou nesta sexta-feira (30) que os investimentos de seus clientes brasileiros permanecem segur…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/apos-ataque-hacker-bilionario-binance-diz-que-investimentos-de-brasileiros-estao-seguros.ghtml",
+    "time": "2026-10-30T16:50:12.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "União Europeia quer flexibilizar regras para agrotóxicos; especialistas alertam para riscos",
+    "d": "Drones auxiliam na pulverização de defensores nas lavouras do Espírito Santo. Reprodução/TV Gazeta Como parte de sua estratégia para \"simplificar e racionalizar\" a legislação da União Europeia (UE), a Comissão Europei…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/uniao-europeia-quer-flexibilizar-regras-para-agrotoxicos-especialistas-alertam-para-riscos.ghtml",
+    "time": "2026-10-30T16:43:47.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+    "d": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Bina…",
+    "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+    "time": "2026-10-30T16:35:44.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+    "d": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T16:26:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Meta faz acordo com adolescente em processo que alega que redes sociais causaram depressão e transtornos alimentares",
+    "d": "MPT processa Meta em R$ 50 milhões A Meta, dona do Instagram e do Facebook, fez um acordo com uma jovem que acusava as plataformas de serem projetadas para causar dependência e prejudicar a saúde mental dos usuários.…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/meta-faz-acordo-com-adolescente-em-processo-que-alega-que-redes-sociais-causaram-depressao-e-transtornos-alimentares.ghtml",
+    "time": "2026-10-30T16:20:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Júri dos EUA decide a favor da Bayer em ação sobre câncer ligado a agrotóxico",
+    "d": "Herbicida Roundup a venda em Encinitas, Califórnia, EUA Reuters / Mike Blake Um júri dos Estados Unidos decidiu a favor da gigante multinacional Bayer em um processo movido por três mulheres que alegavam ter desenvolv…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/juri-dos-eua-decide-a-favor-da-bayer-em-acao-sobre-cancer-ligado-a-agrotoxico.ghtml",
+    "time": "2026-10-30T16:15:41.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Baú do Globo Rural: relembre a história das filhas de seu Zé Izá, família da Serra da Canastra que marcou história do programa",
+    "d": "As filhas de seu Zé Izá Uma pequena casa aos pés da Serra da Canastra, em Minas Gerais, guardava uma rotina que parecia resistir à passagem do tempo. Foi lá que o Globo Rural conheceu, em 1998, as sete filhas de seu Z…",
+    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/30/bau-do-globo-rural-relembre-a-historia-das-filhas-de-seu-ze-iza-familia-que-vivia-isolada-na-serra-da-canastra.ghtml",
+    "time": "2026-10-30T16:04:29.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Binance sofre ataque de US$ 6,3 bilhões: o que se sabe sobre o possível maior roubo da história das criptomoedas",
+    "d": "Hackers roubam US$ 6 bilhões em criptomoedas A gigante das criptomoedas Binance afirmou na quinta-feira (29/10) que US$ 6,3 bilhões (R$ 33 bilhões) em ativos digitais foram afetados pelo que se acredita ser o maior at…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/binance-sofre-ataque-de-us-63-bilhoes-o-que-se-sabe-sobre-o-possivel-maior-roubo-da-historia-das-criptomoedas.ghtml",
+    "time": "2026-10-30T15:36:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Estouro da bolha de IA? Por que ações da Alphabet, dona da Google, tiveram maior queda da história",
+    "d": "Queda de 12,64% registrada na quinta-feira foi a maior desvalorização diária das ações da companhia desde a abertura de capital do Google, em 2004.",
+    "link": "https://www.bbc.com/portuguese/articles/cmy0r2wrwwxlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T15:17:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Democratic senator blames Egypt press crackdown on US military aid decision",
+    "d": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+    "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T15:17:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?",
+    "d": "The incident at Binance could be the biggest theft of any kind in history. We answer some key questions North Korean group blamed for $6.3bn crypto heist Tell us: have you been affected? The world’s largest cryptocurr…",
+    "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
+    "time": "2026-10-30T15:17:01.000Z"
   },
   {
     "cat": "internacional",
@@ -125,71 +333,39 @@
     "h": "Spain transport minister says he won't resign over high-speed rail disaster",
     "d": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
     "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T13:03:34.000Z"
+    "time": "2026-10-30T15:03:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Pope Leo XIV becomes first pontiff to vote in a US election",
+    "d": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+    "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T14:48:22.000Z"
   },
   {
     "cat": "economia",
+    "src": "G1",
+    "h": "TVs de 98 polegadas, cadeiras de alto padrão e mais: veja itens do Banco Master que vão a leilão",
+    "d": "vVja itens do Banco Master que vão a leilão. Divulgação/Kwara Televisores de 98 polegadas, cadeiras de escritório e sofás de marcas de alto padrão e uma série de computadores, notebooks e artigos de decoração, estão e…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/30/tvs-de-98-polegadas-cadeiras-de-alto-padrao-e-mais-veja-itens-do-banco-master-que-vao-a-leilao.ghtml",
+    "time": "2026-10-30T14:46:16.000Z"
+  },
+  {
+    "cat": "internacional",
     "src": "The Guardian",
-    "h": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
-    "d": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance…",
-    "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-    "time": "2026-10-30T12:48:40.000Z"
+    "h": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+    "d": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of…",
+    "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+    "time": "2026-10-30T14:08:41.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-    "d": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T12:36:55.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-    "d": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T12:25:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "China denies allegations of spy operation targeting Nvidia CEO",
-    "d": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T12:20:04.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Google value plunges by $500bn as its own AI search hits ad sales",
-    "d": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T12:04:02.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Desemprego cai no Brasil e atinge menor taxa para o terceiro trimestre em 14 anos",
-    "d": "Agora no g1 A taxa de desemprego ficou em 5,2% no terceiro trimestre de 2026, o menor nível para o período desde 2012. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua, divulgada nesta sexta…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/30/desocupacao-fica-em-52percent-a-menor-para-um-terceiro-trimestre-desde-2012.ghtml",
-    "time": "2026-10-30T12:00:33.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ibovespa opera em queda e chega aos 167 mil pontos; dólar opera em alta, de olho em novos dados econômicos",
-    "d": "Entenda o que faz o preço do dólar subir ou cair O Ibovespa, principal índice da bolsa brasileira, opera em queda nesta sexta-feira (30), com um recuo de 0,73% perto das 10h40, aos 167.965 pontos. Já o dólar tinha alt…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml",
-    "time": "2026-10-30T12:00:21.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Após roubo bilionário na Binance, entenda o que são criptomoedas e os riscos de investir",
-    "d": "O que são as criptomoedas? A Binance, maior corretora de criptomoedas do mundo, foi alvo de um ataque hacker que resultou no roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões). Segundo especialistas, foi o maior roubo…",
-    "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/apos-roubo-bilionario-na-binance-entenda-o-que-sao-criptomoedas-e-os-riscos-de-investir.ghtml",
-    "time": "2026-10-30T11:59:54.000Z"
+    "cat": "comercio",
+    "src": "BBC News Brasil",
+    "h": "Binance sofre ataque hacker de US$ 6,3 bilhões: por que Coreia do Norte pode estar por trás do possível maior roubo da história das criptomoedas",
+    "d": "Duas empresas de análise de dados sugeriram que o crime teria sido cometido por hackers de um grupo norte-coreano chamado TraderTraitor.",
+    "link": "https://www.bbc.com/portuguese/articles/c820v2x0zvqko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-30T13:59:12.000Z"
   },
   {
     "cat": "brasil",
@@ -198,30 +374,6 @@
     "d": "Presidente da Câmara quer votar sistema distrital misto ainda neste ano Parte dos parlamentares da Câmara dos Deputados quer aproveitar a atual composição da Casa para aprovar mudanças nas regras eleitorais ainda nest…",
     "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/hugo-motta-quer-votar-sistema-distrital-misto-ainda-neste-ano.ghtml",
     "time": "2026-10-30T11:43:35.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Binance: notebook invadido pode ter aberto caminho para roubo de US$ 6,3 bilhões",
-    "d": "Hackers roubam US$ 6 bilhões em criptomoedas Um notebook invadido de um dos engenheiros da Binance pode ter aberto caminho para o roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões) da corretora, a maior de criptomoedas…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/binance-notebook-invadido-pode-ter-aberto-caminho-para-roubo-de-us-63-bilhoes.ghtml",
-    "time": "2026-10-30T11:33:56.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Hackers roubam R$ 34 bilhões em criptomoedas da Binance; veja os maiores ataques já registrados",
-    "d": "Hackers roubam US$ 6 bilhões em criptomoedas O ataque hacker à Binance, maior corretora de criptomoedas do mundo, resultou no desvio de US$ 6,3 bilhões (cerca de R$ 34 bilhões) e estabeleceu um novo recorde de perdas…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/30/hackers-roubam-r-34-bilhoes-em-criptomoedas-da-binance-veja-os-maiores-ataques-ja-registrados.ghtml",
-    "time": "2026-10-30T11:32:32.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Faturamento das 10 maiores empresas do agro cresce 11% e chega a R$ 1,24 trilhão; veja ranking",
-    "d": "Série especial do JN mostra como o agronegócio brasileiro está enfrentando as mudanças climáticas Jornal Nacional/ Reprodução As 10 maiores empresas do agronegócio brasileiro somaram R$ 1,24 trilhão em receita líquida…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/10-maiores-empresas-agro.ghtml",
-    "time": "2026-10-30T11:29:51.000Z"
   },
   {
     "cat": "internacional",
@@ -249,35 +401,11 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "É crime fazer listas de negócios 'petistas' para promover boicote? 'Virei o pior cabeleireiro do mundo por ser de esquerda'",
-    "d": "Advogados esclarecem se listas que circulam nas redes sociais e no WhatsApp são liberdade de expressão ou podem ser enquadrados como crimes.",
-    "link": "https://www.bbc.com/portuguese/articles/cw78pr842gk5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T11:00:34.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Ao se radicalizar, Flávio Bolsonaro se isola e perde apoio até de aliados",
     "d": "Ao se radicalizar, Flávio Bolsonaro se isola e perde apoio até de aliados O senador Flávio Bolsonaro (PL), derrotado na disputa pela Presidência, deixou as urnas com quase 60 milhões de votos. Mas o expressivo desempe…",
     "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/flavio-bolsonaro-se-isola-e-perde-apoio-ate-de-aliados.ghtml",
     "time": "2026-10-30T10:55:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Atleta que teve incontinência fecal em prova de Hyrox fala sobre trauma e pede desculpas: 'Coloquei outras pessoas em risco'",
-    "d": "Em sua primeira entrevista desde incidente, Joanna Wietrzyk disse à BBC que assume a responsabilidade pelo ocorrido, mas que não merecia uma reação tão severa.",
-    "link": "https://www.bbc.com/portuguese/articles/cr89z3g79q1xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T10:48:39.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Helicopter carrying six people crashes in northern Indian state",
-    "d": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-    "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T10:07:58.000Z"
   },
   {
     "cat": "internacional",
@@ -304,38 +432,6 @@
     "time": "2026-10-30T09:58:05.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Fora do Mapa da Fome, Brasil ainda tem 44,8 milhões de pessoas sem renda suficiente para manter alimentação saudável",
-    "d": "Fora do Mapa da Fome, Brasil ainda tem 44,8 milhões que não conseguem pagar por alimentação saudável. Getty Images O presidente Luiz Inácio Lula da Silva (PT) assumiu o terceiro mandato com o “compromisso número 1” de…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/fora-do-mapa-da-fome-brasil-ainda-tem-448-milhoes-sem-acesso-a-alimentacao-saudavel.ghtml",
-    "time": "2026-10-30T08:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Financiamento imobiliário mais caro? Bradesco, Itaú e Santander elevam taxas; Caixa não se manifesta",
-    "d": "Bradesco, Itaú e Santander Montagem com imagens de divulgação e da Reuters Quem planeja financiar a compra de um imóvel vai encontrar juros mais altos em alguns dos maiores bancos privados do país. Nos últimos dias, B…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml",
-    "time": "2026-10-30T08:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-    "d": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
-    "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T07:53:38.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Não tinha como sobreviver': seca mata animais e deixa famílias sem renda em Sergipe",
-    "d": "'Não tinha como sobreviver': seca mata animais e deixa famílias sem renda em Sergipe A seca levou 11 municípios de Sergipe à situação de emergência. Sem pasto e água, muitos animais estão morrendo. Para os produtores…",
-    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/30/nao-tinha-como-sobreviver-seca-mata-animais-e-deixa-familias-sem-renda-em-sergipe.ghtml",
-    "time": "2026-10-30T07:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
@@ -349,22 +445,6 @@
     "h": "Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump",
     "d": "Flávio Bolsonaro e Donald Trump Pablo Porciuncula/AFP; Jonathan Ernst/Reuters O senador Flávio Bolsonaro (PL), que fugiu para os Estados Unidos na quarta-feira (29), apresenta afinidades políticas e ideológicas com o…",
     "link": "https://g1.globo.com/mundo/noticia/2026/10/30/flavio-bolsonaro-nos-eua-relembre-a-relacao-de-afinidade-e-distancia-entre-o-senador-e-trump.ghtml",
-    "time": "2026-10-30T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Governo questionou Meta sobre perfis derrubados no Instagram antes das eleições",
-    "d": "Facebook e Instagram AP Photo/Richard Drew A Secretaria Nacional do Consumidor (Senacon), ligada ao Ministério da Justiça e Segurança, notificou a Meta em busca de informações sobre contas e publicações derrubadas no…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/governo-questiona-meta-sobre-perfis-derrubados-no-instagram-antes-das-eleicoes.ghtml",
-    "time": "2026-10-30T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Free flow: prazo para pagar pedágios atrasados sem multa está acabando; veja como regularizar",
-    "d": "Pórtico do Free Flow no Rio Grande do Sul Gustavo Mansur/Palácio Piratini Os motoristas que passaram por pedágios eletrônicos, conhecidos como \"free flow\", até 17 de outubro têm até 16 de novembro para pagar as tarifa…",
-    "link": "https://g1.globo.com/carros/noticia/2026/10/30/free-flow-pedagio-atrasado-sem-multa.ghtml",
     "time": "2026-10-30T06:00:00.000Z"
   },
   {
@@ -382,14 +462,6 @@
     "d": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature…",
     "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
     "time": "2026-10-30T05:00:45.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo",
-    "d": "Hackers roubam US$ 6 bilhões em criptomoedas A Binance, maior corretora de criptomoedas do mundo, foi alvo de um ataque hacker que resultou no roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões). Segundo especialistas,…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/maior-plataforma-de-criptomoedas-do-mundo-suspende-saques-e-depositos-apos-possivel-ataque-hacker.ghtml",
-    "time": "2026-10-30T03:41:10.000Z"
   },
   {
     "cat": "brasil",
@@ -433,35 +505,11 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
-    "d": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Commun…",
-    "link": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
-    "time": "2026-10-30T02:56:46.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Mushroom murderer fails to overturn convictions in Australian court challenge",
     "d": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
     "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-30T01:35:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Defesa diz que arquivos de celular de Vorcaro foram modificados após apreensão e questiona provas de investigação",
-    "d": "A defesa de Daniel Vorcaro, ex-dono do Banco Master, protocolou nesta quinta-feira (29) no Supremo Tribunal Federal (STF) um parecer preliminar, encomendado pelos advogados, que aponta supostas alterações no celular d…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/29/defesa-diz-que-arquivos-de-celular-de-vorcaro-foram-modificados-apos-apreensao-e-questiona-provas-de-investigacao.ghtml",
-    "time": "2026-10-29T23:58:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin decide devolver investigação do INSS a Mendonça; presidente do STF mantém sob sua responsabilidade caso Master",
-    "d": "Ministro Edson Fachin do STF Rosinei Coutinho/STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, decidiu nesta quinta-feira (29) devolver as investigações no âmbito da Operação Sem Desconto, que apura u…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/29/fachin-decide-devolver-investigacao-do-inss-a-mendonca-presidente-do-stf-mantem-sob-sua-responsabilidade-caso-master.ghtml",
-    "time": "2026-10-29T23:56:55.000Z"
   },
   {
     "cat": "brasil",
@@ -473,27 +521,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Rui Costa questiona articulação a favor de Alcolumbre que prevê anistia ou indulto a Jair Bolsonaro",
-    "d": "Rui Costa, ministro-chefe da Casa Civil, ao lado do Presidente da República, Luiz Inácio Lula da Silva (PT), participa da cerimônia de assinatura do contrato de concessão da BR-381/MG, no Palácio do Planalto, em Brasí…",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/29/rui-costa-articulacao-alcolumbre-senado-anistia-indulto-jair-bolsonaro.ghtml",
-    "time": "2026-10-29T21:34:08.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Brasil não quebra com Lula, mas fica condenado a um crescimento medíocre', diz ex-banqueiro conselheiro da Natura",
     "d": "Fábio Coletti Barbosa se diz a favor das políticas sociais do governo, mas vê a necessidade de um 'pente-fino' para identificar quem recebe os benefícios indevidamente.",
     "link": "https://www.bbc.com/portuguese/articles/c6d93v3jy8qwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-29T21:05:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?",
-    "d": "Em declarações informais, Trump tem demonstrado ambivalência; analistas dizem que secretário de Estado, Marco Rubio, parece mais inclinado a se envolver.",
-    "link": "https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-29T20:01:00.000Z"
   },
   {
     "cat": "brasil",
@@ -568,36 +600,12 @@
     "time": "2026-10-29T10:00:28.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "As propostas do presidente Lula para o seu quarto mandato em 8 áreas",
-    "d": "Presidente inicia novo mandato em 5 de janeiro de 2027 com propostas para economia, saúde, educação e segurança pública, mas terá de negociar com um Congresso de oposição fortalecido para avançar em sua agenda.",
-    "link": "https://www.bbc.com/portuguese/articles/cm2ke83x1785o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-29T08:58:41.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Embattled CBS leader Bari Weiss downplays concerns about weak 60 Minutes ratings",
     "d": "CBS News editor-in-chief sidesteps viewership concerns and says flagship show doing ‘tremendously well’ CBS News’ editor-in-chief, Bari Weiss, has spoken publicly for the first time about the ratings challenges the ne…",
     "link": "https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes",
     "time": "2026-10-28T22:22:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-    "d": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential el…",
-    "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-    "time": "2026-10-28T22:06:46.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "EU backs away from offer to Canada to start ‘associate member’ talks",
-    "d": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after…",
-    "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-    "time": "2026-10-28T21:27:33.000Z"
   },
   {
     "cat": "economia",
@@ -624,14 +632,6 @@
     "time": "2026-10-28T09:37:49.000Z"
   },
   {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "The survival of American democracy depends on taxing billionaires",
-    "d": "It is essential not just to fund the public goods the nation needs, it is indispensable to restore a sense of fairness Money doesn’t buy happiness, we’re told. Even some economists agree. The Nobel prize-winning econo…",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires",
-    "time": "2026-10-27T11:00:36.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
@@ -646,13 +646,5 @@
     "d": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under Trump With the midterm elections fast approaching, many Americans have the economy on their minds. US voters a…",
     "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
     "time": "2026-10-26T11:00:42.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Should we tip on takeout? We weighed all angles and the answer is …",
-    "d": "Adding gratuity doesn’t always make sense, but the obligation to has been entrenched as a societal norm You arrive at a pizza place to pick up your order. The credit-card screen asks if you would like to tip and gives…",
-    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/26/tipping-etiquette-takeout-food-delivery",
-    "time": "2026-10-26T11:00:41.000Z"
   }
 ]
