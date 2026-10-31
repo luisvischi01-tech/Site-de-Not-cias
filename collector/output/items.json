@@ -1,5 +1,229 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+    "d": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-31T08:49:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quase metade dos policiais federais relata sofrimento psíquico, diz estudo",
+    "d": "Levantamento da Universidade Federal do Paraná ouviu 146 servidores da PF em Curitiba; 47,26% relataram dormir mal e 43,15% disseram sentir tensão e nervosismo constantes",
+    "link": "https://www.cnnbrasil.com.br/saude/quase-metade-dos-policiais-federais-relata-sofrimento-psiquico-diz-estudo/",
+    "time": "2026-10-31T08:00:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mega-Sena 3080: sorteio deste domingo (1°) pode pagar R$ 42 milhões",
+    "d": "Para concorrer, apostadores devem registrar seus jogos até as 20h deste sábado (31)",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3080/",
+    "time": "2026-10-31T08:00:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Livros de terror para todos os gostos para começar neste Halloween",
+    "d": "Lista reúne opções recém-lançadas que vão do terror infantil a tramas adultas para leitores que buscam tomar um susto neste sábado (31)",
+    "link": "https://www.cnnbrasil.com.br/pop/livros-de-terror-para-todos-os-gostos-para-comecar-neste-halloween/",
+    "time": "2026-10-31T08:00:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enem 2026: o segredo do algoritmo e a armadilha das perguntas complexas",
+    "d": "Entenda a lógica de correção do exame nacional e descubra como a coerência dos seus acertos define a nota final na disputa por uma vaga",
+    "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-o-segredo-do-algoritmo-e-a-armadilha-das-perguntas-complexas/",
+    "time": "2026-10-31T07:40:08.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Após euforia, bolsas em NY vivem semana de ressaca com pressão de IA",
+    "d": "Nasdaq acumula queda de 7,8% em relação à sua máxima histórica registrada no início deste mês e sofreu seu pior declínio mensal desde março de 2025",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/apos-euforia-bolsas-em-ny-vivem-semana-de-ressaca-com-pressao-de-ia/",
+    "time": "2026-10-31T07:35:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Do susto ao riso: por que gostamos de sentir medo no Halloween?",
+    "d": "Especialista afirma que a mente reage ao susto de forma diferente quando há um ambiente controlado e seguro",
+    "link": "https://www.cnnbrasil.com.br/saude/do-susto-ao-riso-por-que-gostamos-de-sentir-medo-no-halloween/",
+    "time": "2026-10-31T07:33:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tottenham x Crystal Palace: horário e onde assistir à Premier League",
+    "d": "Em partida válida pela nona rodada do Campeonato Inglês, a Premier League, equipes entram em campo neste sábado (31)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/tottenham-x-crystal-palace-horario-e-onde-assistir-a-premier-league-2/",
+    "time": "2026-10-31T07:30:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Botafogo-SP x Sport: horário e onde assistir ao jogo da Série B",
+    "d": "Equipes entram em campo neste sábado (31), às 16h, no Estádio Santa Cruz (SP). O confronto é válido pela 36ª rodada da competição nacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-sp-x-sport-horario-e-onde-assistir-ao-jogo-da-serie-b-2/",
+    "time": "2026-10-31T07:26:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "IA não traz retorno financeiro para a maioria das empresas, diz economista",
+    "d": "Análise de economista renomado aponta que os lucros com IA ainda são limitados fora do setor de tecnologia e podem demorar a aparecer",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/ia-nao-traz-retorno-financeiro-para-a-maioria-das-empresas-diz-economista/",
+    "time": "2026-10-31T07:10:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lula avalia convidar opositores de Milei para posse",
+    "d": "Peronista Axel Kicillof é o favorito para disputar presidência",
+    "link": "https://www.cnnbrasil.com.br/politica/lula-avalia-convidar-opositores-de-milei-para-posse/",
+    "time": "2026-10-31T07:05:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
+    "d": "Bolsa brasileira passa por reprecificação de ativos após reeleição de Lula; mercado aguarda novos sinais para comando da Fazenda e política fiscal",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-reavalia-riscos-fiscais-apos-queda-de-18-do-ibovespa/",
+    "time": "2026-10-31T07:05:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Coritiba x Vitória: horário e onde assistir o Campeonato Brasileiro Série A",
+    "d": "Equipes entram em campo neste sábado (31), às 16h, no Couto Pereira (PR). O confronto é válido pela 33ª rodada da competição nacional",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-x-vitoria-horario-e-onde-assistir-o-campeonato-brasileiro-serie-a/",
+    "time": "2026-10-31T07:03:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Free flow: 724 mil motoristas têm até dia 16 para pagar pedágio atrasado e evitar multa; veja como",
+    "d": "Pórtico do Free Flow no Rio Grande do Sul Gustavo Mansur/Palácio Piratini Segundo dados do Ministério dos Transportes obtidos pelo g1, até 29 de outubro, 724.414 motoristas ainda não pagaram as tarifas de pedágios ele…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/31/free-flow-724-mil-motoristas-tem-ate-dia-16-para-pagar-pedagio-atrasado-e-evitar-multa-veja-como.ghtml",
+    "time": "2026-10-31T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
+    "d": "Ibovespa acumulou 18% de queda em uma semana O resultado do segundo turno das eleições, com a reeleição do presidente Lula (PT), sacudiu o mercado financeiro. O dólar disparou, enquanto o Ibovespa, principal índice da…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/31/ibovespa-o-que-esperar-apos-o-tombo.ghtml",
+    "time": "2026-10-31T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Café gigante e raríssimo é encontrado na Amazônia; espécie representa 0,01% da produção mundial",
+    "d": "Você conhece o café libérica? Uma espécie rara de café, com frutos grandes e casca grossa, tem chamado a atenção de pesquisadores no Nordeste do Pará. As árvores podem alcançar 11 metros de altura, com troncos de até…",
+    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/31/cafe-gigante-e-rarissimo-e-encontrado-na-amazonia-especie-representa-001percent-da-producao-mundial.ghtml",
+    "time": "2026-10-31T07:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
+    "d": "Protestos do movimento No Kings pedem que eleitores votem em antecipado nas eleições de meio de mandato nos EUA Jose Luis Magana/AP Com a aproximação das eleições de meio de mandato nos Estados Unidos, marcadas para 3…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/31/slopaganda-como-a-ia-virou-arma-eleitoral-nos-eua-e-movimentou-mais-de-us-137-milhoes.ghtml",
+    "time": "2026-10-31T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vale-refeição e alimentação: novas regras começam a valer amanhã; veja perguntas e respostas",
+    "d": "Novas regras do vale‑refeição e alimentação: o que muda nos cartões a partir de novembro As novas regras do vale-refeição (VR) e do vale-alimentação (VA) entram em sua etapa final em novembro e prometem facilitar o us…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/vale-refeicao-e-alimentacao-novas-regras-comecam-a-valer-amanha-veja-perguntas-e-respostas.ghtml",
+    "time": "2026-10-31T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quando é a Black Friday em 2026? Veja data e dicas para não cair em ciladas",
+    "d": "Black Friday: o que fazer para não cair em falsas promoções A Black Friday 2026 vai acontecer na semana do dia 27 de novembro. Mas todo mundo já sabe que nem todo desconto é real, o que já levou o período a ser apelid…",
+    "link": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-e-a-black-friday-em-2026-veja-data-e-dicas-para-nao-cair-em-ciladas-1.ghtml",
+    "time": "2026-10-31T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Spain train disaster clouds Sánchez chances of re-election",
+    "d": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+    "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-31T05:44:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "MAPA: Como votaram os municípios com maior presença evangélica no Brasil",
+    "d": "Presidente reeleito Lula e o candidato derrotado Flávio Bolsonaro Paulo Pinto e Joédson Alves/Agencia Brasil Derrotado por Lula (PT) no segundo turno das eleições presidenciais, o senador Flávio Bolsonaro (PL) teve se…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/31/mapa-eleicoes-2026-municipios-com-maior-presenca-evangelica.ghtml",
+    "time": "2026-10-31T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Reforma tributária: novo imposto sobre consumo pode ficar acima de 30% e superar o de países ricos; veja a comparação",
+    "d": "O Tribunal de Contas da União (TCU) aprovou nesta semana uma sugestão para que a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), novo tributo aprovado na reforma tributária sobre o consumo, seja de…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/31/reforma-tributaria-novo-imposto-sobre-consumo-pode-ficar-acima-de-30percent-e-superar-o-de-paises-ricos-veja-a-comparacao.ghtml",
+    "time": "2026-10-31T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Novo segue sem reconhecer resultado das eleições; 27 partidos validam vitória de Lula",
+    "d": "Logo após o Tribunal Superior Eleitoral (TSE) proclamar Luiz Inácio Lula da Silva (PT) vencedor da disputa com o senador Flávio Bolsonaro (PL), por uma diferença de 4,4 milhões de votos, o presidente do partido Novo,…",
+    "link": "https://g1.globo.com/politica/noticia/2026/10/31/novo-segue-sem-reconhecer-resultado-das-eleicoes-27-partidos-validam-vitoria-de-lula.ghtml",
+    "time": "2026-10-31T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Carro de Senna será leiloado neste sábado e pode passar de R$ 5 milhões; veja como ele é",
+    "d": "Honda NSX: carro esportivo de Ayrton Senna vai a leilão por R$ 5 milhões Um Honda NSX de 1991, usado por Ayrton Senna, será leiloado neste sábado (31), em Londres, na Inglaterra. O esportivo, que ficou conhecido por a…",
+    "link": "https://g1.globo.com/carros/noticia/2026/10/31/carro-de-senna-sera-leiloado-neste-sabado-e-pode-passar-de-r-5-milhoes-veja-como-ele-e.ghtml",
+    "time": "2026-10-31T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "‘Agora, segurança e futuro’: conheça a regra dos economistas para quem quer começar a investir",
+    "d": "Como investir se não sobra dinheiro? Esperar sobrar dinheiro para começar a investir pode ser um erro comum. A recomendação é inverter a lógica: em vez de guardar o que resta no fim do mês, separar uma parcela da rend…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/10/31/agora-seguranca-e-futuro-conheca-a-regra-dos-economistas-para-quem-quer-comecar-a-investir.ghtml",
+    "time": "2026-10-31T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vai fazer uma dívida? Responda a estas duas perguntas antes",
+    "d": "Dívida boa e dívida ruim: qual é a diferença e por que isso importa? Nem toda dívida é ruim. A diferença entre “dívida boa” e “dívida ruim” é econômica, não moral — e saber identificar isso é essencial (entenda no víd…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/10/31/vai-fazer-uma-divida-responda-a-estas-duas-perguntas-antes.ghtml",
+    "time": "2026-10-31T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas",
+    "d": "Trump e big techs anunciam acordo para autorregulação da IA nos Estados Unidos As gigantes de tecnologia estão gastando cada vez mais dinheiro para avançar na corrida pela inteligência artificial (IA). Mas, em vez de…",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/31/ia-virou-um-problema-para-as-gigantes-de-tecnologia-entenda-o-tombo-bilionario-nas-bolsas.ghtml",
+    "time": "2026-10-31T03:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+    "d": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+    "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-10-31T02:39:25.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
@@ -16,52 +240,12 @@
     "time": "2026-10-31T02:12:19.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Caso Flávio é fardo que Trump deve lidar durante midterms, diz Arko Advice",
-    "d": "Ao Hora H, Thiago de Aragão, CEO Arko Internacional, afirma que minerais críticos são prioridade de Trump em relação ao Brasil, acima da situação de Flávio Bolsonaro",
-    "link": "https://www.cnnbrasil.com.br/internacional/caso-flavio-e-fardo-que-trump-deve-lidar-durante-midterms-diz-arko-advice/",
-    "time": "2026-10-31T01:43:16.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Bidu e Kaio César desabafam após a vitória do Corinthians: “Time merece”",
-    "d": "Após 10 jogos sem vencer no Campeonato Brasileiro, equipe alvinegra conquistou um importante triunfo diante do Mirassol, nesta sexta-feira (30), na Neo Química Arena",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/bidu-e-kaio-cesar-desabafam-apos-a-vitoria-do-corinthians-time-merece/",
-    "time": "2026-10-31T01:42:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câncer de mama: estudo aponta vantagem da reconstrução com tecido próprio",
-    "d": "Pesquisa com 113 mulheres aponta que taxas de recorrência do câncer são semelhantes entre o uso de tecido próprio e silicone",
-    "link": "https://www.cnnbrasil.com.br/saude/cancer-de-mama-estudo-aponta-vantagem-da-reconstrucao-com-tecido-proprio/",
-    "time": "2026-10-31T01:38:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians 2 x 0 Mirassol: veja os melhores momentos pelo Brasileirão",
-    "d": "Time de Clarence Seedorf venceu confronto direto nesta sexta-feira (30), na Neo Química Arena, pela 33ª rodada do Campeonato Brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-2-x-0-mirassol-veja-os-melhores-momentos-pelo-brasileirao/",
-    "time": "2026-10-31T01:30:14.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Global nature talks reach deal but money remains an issue",
     "d": "Countries have been trying to get a global agreement to halt nature decline back on track.",
     "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-31T01:27:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasileirão: Corinthians perde Matheuzinho para clássico contra São Paulo",
-    "d": "Outros jogadores do Timão, como André, Breno Bidon, Kauê, Matheus Bidu, Matheus Pereira, Rodrigo Garro e Yuri Alberto, seguem pendurados com dois cartões amarelos",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/brasileirao-corinthians-perde-matheuzinho-para-classico-contra-sao-paulo/",
-    "time": "2026-10-31T01:24:53.000Z"
   },
   {
     "cat": "internacional",
@@ -72,68 +256,12 @@
     "time": "2026-10-31T01:11:43.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians aproveita expulsão, vence Mirassol, respira, mas segue no Z4",
-    "d": "Pelo Brasileirão, Matheus Bidu e Kaio César marcaram no segundo tempo na Neo Química Arena e deram fim a um jejum de dez partidas sem vencer do time alvinegro",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-aproveita-expulsao-vence-mirassol-respira-mas-segue-no-z4/",
-    "time": "2026-10-31T01:01:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Levante x Atlético de Madrid: horário e onde assistir ao jogo de La Liga",
-    "d": "Equipes se enfrentam neste sábado (31), às 10h (de Brasília), pela 11ª rodada do Campeonato Espanhol",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/levante-x-atletico-de-madrid-horario-e-onde-assistir-ao-jogo-de-la-liga/",
-    "time": "2026-10-31T01:00:46.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "US approves sale of 500 Patriot missiles to Ukraine",
     "d": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-31T00:40:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Namorada de motorista de Porsche é multada durante julgamento em SP",
-    "d": "Giovanna Pinheiro Silva fez gestos em plenário, durante o julgamento do empresário Fernando Sastre de Andrade Filho, e terá que pagar valor equivalente a dez salários mínimos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/namorada-de-motorista-de-porsche-e-multada-durante-julgamento-em-sp/",
-    "time": "2026-10-31T00:40:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CNI aponta piora nas condições financeiras das pequenas indústrias",
-    "d": "Cálculo do índice vai de 0 a 100 pontos e leva em consideração a satisfação dos empresários com a margem de lucro operacional, a facilidade de acesso ao crédito e a condição financeira dos negócios",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/cni-aponta-piora-nas-condicoes-financeiras-das-pequenas-industrias/",
-    "time": "2026-10-31T00:35:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Jorginho Mello se distancia de Flávio e diz respeitar resultado das urnas",
-    "d": "Governador de Santa Catarina pediu pacificação após senador questionar a legitimidade da eleição e se declarar líder do Brasil",
-    "link": "https://www.cnnbrasil.com.br/politica/apos-fuga-de-flavio-jorginho-mello-se-distancia-de-aliado-e-diz-respeitar-resultado-das-urnas/",
-    "time": "2026-10-31T00:30:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Especialistas apontam cuidados com lentes de contato para Halloween",
-    "d": "Oftalmologistas alertam sobre riscos de infecções graves e reforçam a necessidade de orientação médica antes do uso de modelos fantasia",
-    "link": "https://www.cnnbrasil.com.br/saude/especialistas-apontam-cuidados-com-lentes-de-contato-para-halloween/",
-    "time": "2026-10-31T00:27:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fitch muda perspectiva do rating da França para negativa",
-    "d": "Para agência, resultado reflete uma deterioração desde sua revisão de agosto, mencionando pontos como crescimento mais fraco, custos de financiamento mais altos e déficit maior",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fitch-muda-perspectiva-do-rating-da-franca-para-negativa/",
-    "time": "2026-10-31T00:24:23.000Z"
   },
   {
     "cat": "economia",
@@ -158,14 +286,6 @@
     "d": "A Procuradoria-Geral Eleitoral (PGE) se manifestou nesta quinta-feira (29) favoravelmente a um pedido da Federação Renovação Solidária, formada por Solidariedade e PRD, para que seus votos sejam somados ao Avante, que…",
     "link": "https://g1.globo.com/politica/noticia/2026/10/30/mp-diz-que-votos-do-avante-podem-ser-considerados-para-federacao-que-o-partido-fara-parte-cumpra-clausula-de-barreira-parecer-foi-criticado.ghtml",
     "time": "2026-10-30T23:34:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Oncoclínicas obtém apoio de credores para renegociar dívida de R$ 5,7 bilhões",
-    "d": "Grupo Oncoclínicas Divulgação A Oncoclínicas atingiu o apoio de credores que representam 61,6% das dívidas incluídas em seu plano de recuperação extrajudicial, superando o mínimo exigido por lei para dar andamento ao…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/30/oncoclinicas-obtem-apoio-de-credores-para-renegociar-divida-de-r-57-bilhoes.ghtml",
-    "time": "2026-10-30T23:24:35.000Z"
   },
   {
     "cat": "brasil",
@@ -208,52 +328,12 @@
     "time": "2026-10-30T21:13:14.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Raízen aprova plano para sair de crise de R$ 65 bilhões e será dividida em duas empresas",
-    "d": "Pedido de recuperação extrajudicial da Raízen preocupa produtores de cana Os acionistas da Raízen aprovaram nesta sexta-feira (30) medidas necessárias para colocar em prática o plano de recuperação extrajudicial (RE)…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/30/raizen-aprova-plano-para-evitar-falencia-e-preve-injecao-de-ate-r-398-bilhoes.ghtml",
-    "time": "2026-10-30T20:49:18.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
     "d": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-30T20:41:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro",
-    "d": "A bandeira tarifaria de novembro será verde, anunciou a Agência Nacional de Energia Elétrica (Aneel) nesta sexta-feira (30). Isso significa que não haverá cobrança adicional na conta este mês. (entenda mais abaixo) 🔎…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/30/conta-de-luz-aneel-mantem-bandeira-tarifaria-para-verde-em-novembro.ghtml",
-    "time": "2026-10-30T20:41:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-    "d": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo O presidente americano Donald Trump afirmou nesta sexta-feira (30) que os Estados Unidos estão investigando se hackers da Coreia do N…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/trump-diz-que-eua-investigam-se-ataque-contra-a-binance-foi-feita-por-hackers-da-coreia-do-norte.ghtml",
-    "time": "2026-10-30T20:41:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US tech stocks see sharp falls as AI spending nears $1tn",
-    "d": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T20:34:46.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Supermercados vão abrir aos domingos durante o verão no ES",
-    "d": "Supermercado no Espírito Santo Reprodução Os supermercados do Espírito Santo poderão funcionar aos domingos durante a temporada de verão, entre 20 de dezembro de 2026 e 7 de fevereiro do próximo ano. A exceção às regr…",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/30/supermercados-vao-abrir-aos-domingos-durante-o-verao-no-es.ghtml",
-    "time": "2026-10-30T20:06:06.000Z"
   },
   {
     "cat": "internacional",
@@ -289,43 +369,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-    "d": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo O roubo de US$ 6,3 bilhões em criptomoedas da Binance, um dos maiores ataques da história do setor, reacendeu o debate sobre como as…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml",
-    "time": "2026-10-30T18:31:11.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
     "d": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnin…",
     "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
     "time": "2026-10-30T18:27:51.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa",
-    "d": "Robô 'guarda-costas' enfrenta homem com faca e ergue até um carro para socorrer pessoa Até agora, os robôs humanoides da empresa chinesa Unitree haviam chamado atenção, principalmente por suas exibições de artes marci…",
-    "link": "https://g1.globo.com/inovacao/noticia/2026/10/30/robo-guarda-costas-enfrenta-homem-com-faca-e-ergue-ate-carro-para-socorrer-pessoa.ghtml",
-    "time": "2026-10-30T18:21:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Cacau abre mercados para o Brasil, mas chocolate pode voltar a ser artigo de luxo devido à crise climática",
-    "d": "Semente de cacau dá origem ao chocolate. Reprodução/Redes sociais Do pé de cacau à barra de chocolate, o Brasil hoje domina toda a cadeia de produção e aposta cada vez mais na qualidade para conquistar mercados intern…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/cacau-abre-mercados-para-o-brasil-mas-chocolate-pode-voltar-a-ser-artigo-de-luxo-devido-a-crise-climatica.ghtml",
-    "time": "2026-10-30T18:20:46.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "OpenAI vai limitar acesso de adolescentes a informações sobre armas no ChatGPT",
-    "d": "ChatGPT ANDREJ IVANOV / AFP via Getty Images A OpenAI anunciou nesta sexta-feira (30) que vai restringir ainda mais as informações sobre armas fornecidas pelo ChatGPT a adolescentes, mesmo quando as perguntas parecere…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/openai-chatgpt-informacoes-armas.ghtml",
-    "time": "2026-10-30T18:08:26.000Z"
   },
   {
     "cat": "brasil",
@@ -376,28 +424,12 @@
     "time": "2026-10-30T16:35:44.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-    "d": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T16:26:11.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?",
     "d": "The incident at Binance could be the biggest theft of any kind in history. We answer some key questions North Korean group blamed for $6.3bn crypto heist Tell us: have you been affected? The world’s largest cryptocurr…",
     "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
     "time": "2026-10-30T15:17:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Spain transport minister says he won't resign over high-speed rail disaster",
-    "d": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-30T15:03:39.000Z"
   },
   {
     "cat": "internacional",
@@ -448,14 +480,6 @@
     "time": "2026-10-30T11:04:12.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ao se radicalizar, Flávio Bolsonaro se isola e perde apoio até de aliados",
-    "d": "Ao se radicalizar, Flávio Bolsonaro se isola e perde apoio até de aliados O senador Flávio Bolsonaro (PL), derrotado na disputa pela Presidência, deixou as urnas com quase 60 milhões de votos. Mas o expressivo desempe…",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/flavio-bolsonaro-se-isola-e-perde-apoio-ate-de-aliados.ghtml",
-    "time": "2026-10-30T10:55:06.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
@@ -480,14 +504,6 @@
     "time": "2026-10-30T09:58:05.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump",
-    "d": "Flávio Bolsonaro e Donald Trump Pablo Porciuncula/AFP; Jonathan Ernst/Reuters O senador Flávio Bolsonaro (PL), que fugiu para os Estados Unidos na quarta-feira (29), apresenta afinidades políticas e ideológicas com o…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/30/flavio-bolsonaro-nos-eua-relembre-a-relacao-de-afinidade-e-distancia-entre-o-senador-e-trump.ghtml",
-    "time": "2026-10-30T06:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -502,14 +518,6 @@
     "d": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature…",
     "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
     "time": "2026-10-30T05:00:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "A posição do Brasil no mundo com a reeleição de Lula - O Assunto #1836",
-    "d": "Os olhos do mundo estavam virados para o Brasil no último domingo (25). Diante de uma onda de candidatos de direita vencedores nas mais recentes eleições na América Latina e de uma possível interferência de Donald Tru…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/30/a-posicao-do-brasil-no-mundo-com-a-reeleicao-de-lula-o-assunto-1836.ghtml",
-    "time": "2026-10-30T03:30:01.000Z"
   },
   {
     "cat": "brasil",
