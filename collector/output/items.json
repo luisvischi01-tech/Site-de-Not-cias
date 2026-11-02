@@ -2,26 +2,386 @@
   {
     "cat": "internacional",
     "src": "BBC News",
+    "h": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "d": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T20:23:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ações de australiana sobem 27% após descoberta de terras raras no Tocantins",
+    "d": "Alvo Minerals ampliou área conhecida de mineralização no Tocantins; projeto ainda está em fase de pesquisa, mas perfurações confirmam presença de terras raras no solo",
+    "link": "https://www.cnnbrasil.com.br/infra/acoes-de-australiana-sobem-27-apos-descoberta-de-terras-raras-no-tocantins/",
+    "time": "2026-11-02T20:08:53.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Man guilty of stealing cash from farm owned by South African president",
+    "d": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T20:08:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bianca Comparato posta primeiras fotos ao lado da nova namorada; veja",
+    "d": "Atriz de 40 anos compartilhou foto com a companheira durante o Rock The Mountain acompanhada por amigos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/bianca-comparato-posta-primeiras-fotos-ao-lado-da-nova-namorada-veja/",
+    "time": "2026-11-02T20:08:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "OpenAI afirma: IA está ficando cada vez melhor em realizar tarefas humanas",
+    "d": "Novo teste da empresa mede a capacidade do ChatGPT em realizar atividades cotidianas como compras e planejamento financeiro",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/openai-afirma-ia-esta-ficando-cada-vez-melhor-em-realizar-tarefas-humanas/",
+    "time": "2026-11-02T20:04:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nem o trauma, nem o rancor: a escolha diária de Angelina Jolie para não deixar a dor mudar quem ela é",
+    "d": "Em declarações sobre resiliência e processos de cura pessoal, a atriz e cineasta destaca como a gestão das adversidades impede que desilusões alterem a essência individual",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/nem-o-trauma-nem-o-rancor-a-escolha-diaria-de-angelina-jolie-para-nao-deixar-a-dor-mudar-quem-ela-e/",
+    "time": "2026-11-02T20:03:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dinossauro brasileiro tem resíduo de sangue preservado em fóssil; animal viveu há 115 milhões de anos",
+    "d": "Descoberta de glóbulos vermelhos desafia conhecimento sobre sobrevivência de moléculas em tempos geológicos; cientistas poderão estudar a diferença entre a composição biológica das aves atuais",
+    "link": "https://www.cnnbrasil.com.br/ciencia/dinossauro-brasileiro-tem-residuo-de-sangue-preservado-em-fossil-animal-viveu-ha-115-milhoes-de-anos/",
+    "time": "2026-11-02T20:00:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+    "d": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining…",
+    "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+    "time": "2026-11-02T20:00:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bombardeio russo em escola de vila na Ucrânia mata 24 pessoas, diz governo",
+    "d": "Ataque ocorreu na região de Zaporizhzhia um dia após o fim de um cessar-fogo local de seis dias negociado pela primeira-dama dos Estados Unidos, Melania Trump",
+    "link": "https://www.cnnbrasil.com.br/internacional/bombardeio-da-russia-em-escola-de-vila-na-ucrania-mata-pessoas/",
+    "time": "2026-11-02T19:59:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+    "d": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T19:58:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Câmbio deve pressionar expectativa de inflação no Copom, diz Pinheiro",
+    "d": "Expectativas do mercado passaram de novo corte de 0,25 ponto para manutenção da atual taxa de 13,75%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cambio-deve-pressionar-expectativa-de-inflacao-no-copom-diz-pinheiro/",
+    "time": "2026-11-02T19:56:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
+    "d": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17.",
+    "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T19:55:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Anthropic planeja captar até US$ 3,5 bi no Japão em IPO nos EUA",
+    "d": "Termos da operação, incluindo número de ações destinadas ao mercado japonês, devem ser definidos entre novembro de 2026 e abril de 2027",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/anthropic-planeja-captar-ate-us-35-bi-no-japao-em-ipo-nos-eua/",
+    "time": "2026-11-02T19:49:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Na Argentina, Janones se reúne com ex-presidente Cristina Kirchner",
+    "d": "Peça fundamental para vitória de Lula, deputado se reuniu mais cedo com Sérgio Massa, que quer criar \"frente anti-Milei\" para eleições argentinas de 2027",
+    "link": "https://www.cnnbrasil.com.br/internacional/na-argentina-janones-se-reune-com-ex-presidente-cristina-kirchner/",
+    "time": "2026-11-02T19:45:24.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump to remove Rwanda and South Africa from US trade deal",
+    "d": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T19:33:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ouro fecha em alta com sinais de diálogo entre EUA e Irã",
+    "d": "Na COmex, metal para dezembro encerrou em alta de 1,81%, a US$ 3.969,60 por onça-troy, enquanto a prata para dezembro avançou 3,27%, a US$ 50,888 por onça-troy",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-fecha-em-alta-com-sinais-de-dialogo-entre-eua-e-ira/",
+    "time": "2026-11-02T19:32:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan",
+    "d": "O ministro da Fazenda, Dario Durigan, negou que esteja em avaliação para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT) propostas como tabelar juros da taxa Selic ou queimar reservas cambiais para compe…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/02/propostas-como-tabelar-os-juros-ou-queimar-reservas-cambiais-nao-estao-em-avaliacao-diz-durigan.ghtml",
+    "time": "2026-11-02T19:31:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Apesar de tensão, Fórmula 1 mantém corridas no Oriente Médio",
+    "d": "Organização enviou mensagens às equipes orientando para que não se manifestem publicamente sobre a situação ligada à guerra no Irã",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/apesar-de-tensao-formula-1-mantem-corridas-no-oriente-medio/",
+    "time": "2026-11-02T19:30:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bruna Biancardi compartilha fotos de dia na praia com Neymar; veja",
+    "d": "Influenciadora está grávida da terceira filha com o jogador, que se chamará Mariah; além da caçula, o casal já possui mais duas filhas, Mavie e Mel",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-biancardi-compartilha-fotos-de-dia-na-praia-com-neymar-veja/",
+    "time": "2026-11-02T19:29:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Flávio Bolsonaro recorre contra apreensão de passaportes; defesa pede que Moraes seja declarado impedido em investigação",
+    "d": "Flávio Bolsonaro desembarca nos EUA Eva Marie Uzcategui/Reuters A defesa de Flávio Bolsonaro (PL-RJ), derrotado nas eleições presidenciais, pediu a revogação da decisão do ministro Alexandre de Moraes, do Supremo Trib…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-recorre-contra-apreensao-de-passaportes-defesa-pede-tambem-que-moraes-seja-declarado-impedido-em-investigacao.ghtml",
+    "time": "2026-11-02T19:20:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os detalhes do acidente com um avião particular na Flórida",
+    "d": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
+    "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T19:20:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+    "d": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+    "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T18:34:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
+    "d": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
+    "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T17:53:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Shop freezers in seven European countries hit by cyber-attack",
+    "d": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T17:38:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+    "d": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T17:33:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Dutch police offer record €2m reward in hunt for drug lord",
+    "d": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T17:29:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
+    "d": "Italiano conquista seu primeiro título mundial após elevar a média de pontos por corrida de 6,25 para 20 em apenas uma temporada.",
+    "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T17:27:18.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Oil price falls amid hope of a breakthrough to end Iran war",
+    "d": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent…",
+    "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+    "time": "2026-11-02T17:14:23.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "ICMS sobre os combustíveis: veja quanto será o aumento na gasolina, gás de cozinha e diesel a partir de 1° de fevereiro de 2027 em SP",
+    "d": "Estados brasileiros terão reajuste do ICMS dos combustíveis a partir de 1° de fevereiro de 2027. Divulgação/GESP Os governadores que formam o Conselho Nacional de Política Fazendária (Confaz) aprovaram no último dia 2…",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml",
+    "time": "2026-11-02T17:06:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Vale-tíquete: máquinas terão de aceitar todos os cartões a partir de 7 de novembro, diz Ministério do Trabalho",
+    "d": "O Ministério do Trabalho e Emprego informou que a chamada \"interoperabilidade plena\" do Programa de Alimentação do Trabalhador (PAT) deverá estar implementada até 7 de novembro de 2026. Na prática, isso significa que…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml",
+    "time": "2026-11-02T16:32:08.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
+    "d": "Exemplo de sala de estar com pé-direito duplo SKN Incorporadora Na sala de estar, um robô aspirador percorre o ambiente, a iluminação é ajustada por meio de assistentes de voz e a televisão se conecta à internet para…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml",
+    "time": "2026-11-02T16:00:14.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
+    "d": "Representação do Bitcoin em ilustração produzida em 10 de setembro de 2025 REUTERS/Dado Ruvic/Ilustração/Foto de arquivo Criptomoedas são ativos digitais que não são emitidos por governos, como ocorre com moedas ofici…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/mercado-bitcoin-incidente-seguranca.ghtml",
+    "time": "2026-11-02T15:07:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Vídeo mostra queda de avião na Flórida",
+    "d": "O Learjet 60 decolou de Austin, no Texas, rumo às Bahamas. A queda aconteceu a cerca de 14 km de Mar-a-Lago, resort do presidente Donald Trump.",
+    "link": "https://www.bbc.com/portuguese/watch/c8p3grww23y2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T15:02:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
+    "d": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
+    "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T14:53:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que os EUA têm tantos políticos idosos e poucos jovens disputando eleições",
+    "d": "De Trump a congressistas nonagenários, ascensão da idade média dos líderes americanos reacende debate sobre por que tão poucos jovens chegam aos cargos eletivos.",
+    "link": "https://www.bbc.com/portuguese/articles/c6ly39vk8kvmo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T14:53:03.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Wizz Air flight from Luton in emergency landing after bomb threat",
+    "d": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T14:35:38.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Saiba como é o KC-390, maior avião produzido na América Latina e que será comprado pela Grécia",
+    "d": "Novo visual do KC-390 Millennium, da Embraer Claudio Capucho/Embraer O KC-390 Millennium, avião militar fabricado pela Embraer, será usado pela Força Aérea da Grécia. O país europeu fechou um acordo para comprar inici…",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/02/saiba-como-e-o-kc-390-maior-aviao-produzido-na-america-latina-e-que-sera-comprado-pela-grecia.ghtml",
+    "time": "2026-11-02T14:03:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como é a vida das crianças em Gaza que tentam sobreviver após cessar-fogo",
+    "d": "Documentário da BBC mostra a rotina de crianças em Gaza, onde a falta de água, alimentos e medicamentos agravam as condições de vida em meio aos bombardeios israelenses.",
+    "link": "https://www.bbc.com/portuguese/watch/cmd6dp3v5362o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T13:47:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Compras agrícolas da China nos EUA vão ao menor nível em 7 anos apesar de acordo comercial",
+    "d": "Mais de 60% do volume de soja exportado de MT vai para a China Reprodução/TVCA As compras chinesas de produtos agrícolas dos Estados Unidos, excluindo a soja, caminham para o menor nível em sete anos, apesar do compro…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/02/compras-agricolas-china-eua.ghtml",
+    "time": "2026-11-02T13:47:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
     "h": "Ryanair says it may freeze workers' pay and raise airfares",
     "d": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
     "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T10:04:39.000Z"
+    "time": "2026-11-02T12:22:10.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fim da isenção para debêntures machuca concessões de infraestrutura",
-    "d": "Empresas de rodovias e de energia devem levar ao governo pedido para que eventual cobrança de IOF exclua projetos com contratos já assinados",
-    "link": "https://www.cnnbrasil.com.br/infra/fim-da-isencao-para-debentures-machuca-concessoes-de-infraestrutura/",
-    "time": "2026-11-02T10:00:04.000Z"
+    "src": "BBC News Brasil",
+    "h": "Pesquisas indicam vantagem dos democratas nas eleições americanas, mas estão corretas?",
+    "d": "Pesquisas apontam para avanço dos democratas, mas indecisos e dificuldades para selecionar amostras representativas tornam o resultado incerto.",
+    "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T12:12:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C",
+    "d": "Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C Redes de supermercados de diferentes países europeus relataram nesta segunda-feira (2) problemas em sistemas de refrigeração, em uma série…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/hackers-atacam-supermercados-europeus-e-elevam-temperatura-de-freezers-a-50c.ghtml",
+    "time": "2026-11-02T11:53:51.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Granizo e vendaval causam estragos no Paraná; alerta de chuva forte segue",
-    "d": "Segundo prefeitura de Marquinho, no centro-sul paranaense, mais de 70% da população do município de foi atingida pelo temporal de domingo (1º); Inmet emitiu alerta de perigo para novas tempestades",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/granizo-e-vendaval-causam-estragos-no-parana-alerta-de-chuva-forte-segue/",
-    "time": "2026-11-02T09:53:19.000Z"
+    "src": "G1",
+    "h": "Como acesso a documentos sobre a morte do primeiro presidente eleito pós-ditadura virou batalha jurídica: 'Vitória da memória'",
+    "d": "Presidente eleito do Brasil, Tancredo Neves foi internado antes de tomar posse Agência Brasil via BBC Mais um capítulo está sendo escrito sobre a morte do então presidente eleito do Brasil Tancredo Neves (1910-1985),…",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/02/como-acesso-a-documentos-sobre-a-morte-do-primeiro-presidente-eleito-pos-ditadura-virou-batalha-juridica-vitoria-da-memoria.ghtml",
+    "time": "2026-11-02T11:17:05.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
+    "d": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
+    "time": "2026-11-02T11:00:41.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "‘The content creator election’: digital streamers and TV networks face off for midterms coverage",
+    "d": "Journalists such as Jim Acosta and Scott MacFarlane are now competing against their former employers for eyeballs On Tuesday, for the first time in more than 20 years, Jim Acosta, a former CNN stalwart, will not be wo…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage",
+    "time": "2026-11-02T11:00:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five arrested after South African farmer shot and tortured",
+    "d": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+    "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T10:48:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
+    "d": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
+    "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-02T10:36:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Empresas devem oferecer atendimento humano para o consumidor a partir desta segunda-feira",
+    "d": "A partir desta segunda-feira (2), empresas deverão oferecer atendimento humano para o consumidor Começam a valer nesta segunda-feira (2) as mudanças nas regras de funcionamento dos serviços de atendimento aos consumid…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/02/empresas-devem-oferecer-atendimento-humano-para-o-consumidor-a-partir-desta-segunda-feira.ghtml",
+    "time": "2026-11-02T10:22:23.000Z"
   },
   {
     "cat": "economia",
@@ -30,110 +390,6 @@
     "d": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da O roubo de US$ 6,3 bilhões (cerca de R$ 34,2 bilhões) em criptomoedas da Binance, maior corretora do setor no mundo, ainda não…",
     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/investidores-retiram-us-36-bilhoes-da-binance-apos-ataque-hacker.ghtml",
     "time": "2026-11-02T09:41:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "EUA: Apoio de democrata do Michigan a republicano agita disputa pelo Senado",
-    "d": "Decisão de Haley Stevens em respaldar o republicano Mike Rogers contra Abdul El-Sayed gerou insatisfação na equipe da parlamentar e críticas de eleitores",
-    "link": "https://www.cnnbrasil.com.br/internacional/eua-apoio-de-democrata-do-michigan-a-republicano-agita-disputa-pelo-senado/",
-    "time": "2026-11-02T09:24:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Enem: 4 simulados gratuitos para testar seu desempenho",
-    "d": "Ferramentas online oferecem provas completas, correção de redações e auxílio de IA para otimizarem a rotina dos estudos antes do exame",
-    "link": "https://www.cnnbrasil.com.br/educacao/enem-4-simulados-gratuitos-para-testar-seu-desempenho/",
-    "time": "2026-11-02T09:15:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nine killed as small jet crashes on Florida street",
-    "d": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T09:10:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ebola tem letalidade de 52% na República Democrática do Congo",
-    "d": "Surto em andamento, declarado em 15 de maio e causado pelo vírus Ebola Bundibugyo, tornou-se segundo maior surto de Ebola do mundo, atrás apenas da epidemia de 2014 a 2016 na África Ocidental",
-    "link": "https://www.cnnbrasil.com.br/internacional/ebola-tem-letalidade-de-52-na-republica-democratica-do-congo/",
-    "time": "2026-11-02T09:02:49.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Como diferenciar o AVC isquêmico do hemorrágico? Entenda com Dr. Kalil",
-    "d": "No CNN Sinais Vitais, especialistas detalham os dois tipos de AVC, os sinais de alerta e a importância do atendimento rápido para aumentar as chances de recuperação",
-    "link": "https://www.cnnbrasil.com.br/saude/como-diferenciar-o-avc-isquemico-do-hemorragico-entenda-com-dr-kalil/",
-    "time": "2026-11-02T09:00:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Para Mansueto, do BTG, incerteza fiscal é o maior problema de curto prazo",
-    "d": "Em entrevista ao CNN Money, economista avaliou que a turbulência pós-eleição é ajuste de posições, mas defendeu plano fiscal claro do governo",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/para-mansueto-do-btg-incerteza-fiscal-e-o-maior-problema-de-curto-prazo/",
-    "time": "2026-11-02T09:00:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rafinha Alcântara traz bastidores da base do Barcelona: “Metodologia deles”",
-    "d": "Filho de Mazinho e irmão de Thiago Alcântara, ex-meia formado na famosa academia La Masia contou detalhes ao CNN Esportes S/A do último domingo (1º)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/rafinha-alcantara-traz-bastidores-da-base-do-barcelona-so-vi-la/",
-    "time": "2026-11-02T09:00:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sucesso nacional, “Minha Melhor Amiga” chega ao streaming; onde assistir",
-    "d": "Filme se tornou a maior bilheteria do Brasil pós-pandemia, desbancando \"Ainda Estou Aqui\", \"O Agente Secreto\" e \"O Auto da Compadecida 2\"",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/sucesso-nacional-minha-melhor-amiga-chega-ao-streaming-onde-assistir/",
-    "time": "2026-11-02T09:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Xi diz que Oriente Médio não deve ser palco de disputa entre potências",
-    "d": "China tem se comprometido consistentemente com o fim da guerra e espera contribuir com “sabedoria e soluções para resolver os dilemas de segurança da região”, acrescentou o presidente Xi Jinping",
-    "link": "https://www.cnnbrasil.com.br/internacional/xi-diz-que-oriente-medio-nao-deve-ser-palco-de-disputa-entre-potencias/",
-    "time": "2026-11-02T08:57:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Estudante de 12 anos vence campeonato australiano de poesia falada com poema inspirado no uso da inteligência artificial",
-    "d": "O garoto Blake Mackenzie conquistou o título jovem no Australian Poetry Slam, na Ópera House de Sydney, após se destacar em batalha de versos",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/estudante-de-12-anos-vence-campeonato-australiano-de-poesia-falada-com-poema-inspirado-no-uso-da-inteligencia-artificial/",
-    "time": "2026-11-02T08:56:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
-    "d": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
-    "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T08:37:44.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Popular Australian children's author jailed over child exploitation offences",
-    "d": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-    "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T08:03:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Fã de Senna e rival de brasileiro na base: conheça Antonelli, campeão da F1",
-    "d": "Italiano, de apenas 20 anos, conquistou o título da principal categoria do automobilismo mundial no domingo (1), de forma antecipada",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/fa-de-senna-e-rival-de-brasileiro-na-base-conheca-antonelli-campeao-da-f1/",
-    "time": "2026-11-02T08:00:41.000Z"
   },
   {
     "cat": "internacional",
@@ -163,33 +419,9 @@
     "cat": "economia",
     "src": "G1",
     "h": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
-    "d": "Trump oferece US$ 1 milhão por denúncias que levem a condenações por fraude eleitoral REUTERS/Jonathan Ernst As eleições de meio de mandato nos Estados Unidos, marcadas para esta terça-feira (3), podem mudar os rumos…",
+    "d": "Por que Trump está preocupado com as midterms? As eleições de meio de mandato nos Estados Unidos, marcadas para esta terça-feira (3), podem mudar os rumos da política econômica do presidente Donald Trump — com possíve…",
     "link": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
     "time": "2026-11-02T05:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "How a Democrat in Michigan rocked the party days before the US midterms",
-    "d": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-    "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T04:40:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump makes final campaign push in final weekend before election",
-    "d": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-    "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T04:04:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "China state broadcaster pulls La Liga matches following Mbappé joke",
-    "d": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-    "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T03:58:38.000Z"
   },
   {
     "cat": "brasil",
@@ -201,131 +433,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "France launches attempted murder investigation after petrol bomb thrown at police",
-    "d": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T00:15:30.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
     "d": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not…",
     "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
     "time": "2026-11-01T22:26:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Protestos contra o custo de vida na Alemanha terminam em violência e lojas saqueadas",
-    "d": "Manifestações ocorreram em cidades alemãs como Berlim, Hamburgo e Frankfurt, no mesmo dia em que centenas de milhares de pessoas também protestaram na França",
-    "link": "https://www.bbc.com/portuguese/articles/cq62y113zz5po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T21:59:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Os eleitores hispânicos ajudaram a eleger Trump. Isso pode estar mudando agora no Texas?",
-    "d": "Pesquisas recentes sugerem que o presidente está enfrentando dificuldades significativas no estado às vésperas das eleições de meio de mandato.",
-    "link": "https://www.bbc.com/portuguese/articles/crz65819g97po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T21:14:51.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "'Deixei uma pasta com segredos de Estado em um trem: sou a prova de que é possível se recuperar do maior erro da sua vida'",
-    "d": "O ex-alto funcionário britânico Richard Jackson relata o dia fatídico em que esqueceu documentos importantes e ultrassecretos em uma viagem de trem e como se recuperou depois do ocorrido.",
-    "link": "https://www.bbc.com/portuguese/articles/cm9dz6wz244wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T19:54:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
-    "d": "Manifestantes buscam proteção atrás de uma barricada enquanto a tropa de choque francesa utiliza canhões de água em meio a confrontos durante uma manifestação na Place de la République, em Paris Reuters De Milão a Mar…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
-    "time": "2026-11-01T19:08:06.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro",
-    "d": "Porto com contêineres para exportação Divulgação Depois de mais de 25 anos de negociações, o acordo comercial entre o Mercosul e a União Europeia começou a produzir efeitos em maio deste ano, abrindo caminho para a re…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/01/agro-ue-acordo-exportacoes-crescem.ghtml",
-    "time": "2026-11-01T18:14:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
-    "d": "No último mês, jovens lideraram protestos por toda a Europa. O que essas manifestações têm em comum?",
-    "link": "https://www.bbc.com/portuguese/articles/ckpqgxp29vlxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T18:09:35.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Armed police start patrols in Sydney after Bondi Beach attack",
-    "d": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T17:56:47.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "d": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T17:06:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "University of Cambridge scientist among those who died in Spanish train crash",
-    "d": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T17:05:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
-    "d": "O Panamá transferiu 29 prisioneiros para uma ilha que outrora fora uma notória colônia penal, marcada por abusos e trabalhos forçados. A decisão levanta preocupações sobre o futuro desse território, hoje Patrimônio Mu…",
-    "link": "https://www.bbc.com/portuguese/articles/cwm247vgdnkro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T16:02:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Petrobras aumenta preço do querosene de aviação em novembro",
-    "d": "Petrobras Foto Divulgação A Petrobras anunciou um novo aumento no preço de venda do querosene de aviação (QAV) para as distribuidoras a partir deste domingo (1º). O reajuste será de 7,2%, o equivalente a R$ 0,45 por l…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml",
-    "time": "2026-11-01T15:18:40.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
-    "d": "O presidente dos Estados Unidos, Donald Trump, e seu antecessor, Joe Biden. Getty Images via BBC A Casa Branca enfrenta um dilema conhecido. Os indicadores econômicos não são necessariamente ruins, mas a opinião públi…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/01/por-que-trump-enfrenta-o-mesmo-problema-economico-que-derrubou-biden.ghtml",
-    "time": "2026-11-01T15:08:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
-    "d": "Donald Trump chega às eleições de meio de mandato nos Estados Unidos com um problema semelhante ao enfrentado pelo ex-presidente democrata",
-    "link": "https://www.bbc.com/portuguese/articles/cmjweg1zl87eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T14:19:30.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3080 acumula e prêmio vai a R$ 46 milhões; confira os números sorteados",
-    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.080 da Mega-Sena foi realizado na manhã deste domingo (1º), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 40,7 milhões. No entanto,…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/01/mega-sena-concurso-3080-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-11-01T14:03:40.000Z"
   },
   {
     "cat": "internacional",
@@ -345,35 +457,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Shops looted as German cost-of-living protests turn violent",
-    "d": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-01T11:57:48.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Binance resumes customer withdrawals after record $6.3bn hack",
     "d": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the…",
     "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
     "time": "2026-11-01T11:54:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-    "d": "FBI acusa Coreia do Norte de roubar criptomoedas A Binance, maior corretora de criptomoedas do mundo, retomou neste domingo (1º) os saques de bitcoin, ether e algumas stablecoins, que são criptomoedas criadas para man…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/01/binance-retoma-saques-apos-roubo-de-us-63-bilhoes.ghtml",
-    "time": "2026-11-01T09:50:10.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
-    "d": "Midterms - Eleitora preenche cédula de votação em Harrisburg, na Pensilvânia (EUA) REUTERS/Mike Segar As eleições legislativas dos Estados Unidos acontecem em um momento de expansão dos chamados mercados de previsão,…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/01/polymarket-e-kalshi-por-que-apostas-sobre-as-eleicoes-preocupam-especialistas-nos-eua.ghtml",
-    "time": "2026-11-01T08:00:01.000Z"
   },
   {
     "cat": "brasil",
@@ -392,28 +480,12 @@
     "time": "2026-11-01T07:00:00.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Por que o Honda CR-V é um sucesso nos EUA, mas quase não vende no Brasil? O g1 testou o SUV 'invisível'",
-    "d": "Honda CR-V Divulgação / Honda O Honda CR-V é um sucesso de vendas no mercado norte-americano. O modelo vendeu mais de 226 mil unidades no primeiro semestre deste ano, sendo 51% de versão com motor híbrido. No Brasil,…",
-    "link": "https://g1.globo.com/carros/noticia/2026/11/01/teste-honda-cr-v.ghtml",
-    "time": "2026-11-01T07:00:00.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Câmara quer mudar a forma de eleição dos deputados; entenda o novo modelo em discussão",
     "d": "Centrão tenta frear PL com voto distrital misto Líderes da Câmara dos Deputados e presidentes de partido articulam e pretendem retomar a tramitação de uma proposta que altera a forma de escolha dos deputados e institu…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/01/camara-quer-mudar-a-forma-de-eleicao-dos-deputados-entenda-o-novo-modelo-em-discussao.ghtml",
     "time": "2026-11-01T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
-    "d": "Os eleitores dos EUA irão às urnas em 3 de novembro em uma votação que poderá ter um grande impacto na presidência de Donald Trump.",
-    "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-31T20:33:05.000Z"
   },
   {
     "cat": "brasil",
@@ -430,14 +502,6 @@
     "d": "Para Renato Lessa, da PUC-Rio, carta de Flávio Bolsonaro após derrota para Lula foi tiro no pé, porque o desqualificou como líder mesmo após votação notável.",
     "link": "https://www.bbc.com/portuguese/articles/cwzd679v845vo?at_medium=RSS&at_campaign=rss",
     "time": "2026-10-31T17:03:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "As famílias que trocaram de parceiros e de casas após passar férias juntas: 'Isso nos destruiu'",
-    "d": "Rachel Stone conta como seus pais trocaram de parceiros, o caos que isso provocou e como ela conseguiu perdoá-los",
-    "link": "https://www.bbc.com/portuguese/articles/c60rlyw0ljkdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-31T15:20:33.000Z"
   },
   {
     "cat": "brasil",
@@ -480,46 +544,6 @@
     "time": "2026-10-31T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Reforma tributária: novo imposto sobre consumo pode ficar acima de 30% e superar o de países ricos; veja a comparação",
-    "d": "O Tribunal de Contas da União (TCU) aprovou nesta semana uma sugestão para que a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), novo tributo aprovado na reforma tributária sobre o consumo, seja de…",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/31/reforma-tributaria-novo-imposto-sobre-consumo-pode-ficar-acima-de-30percent-e-superar-o-de-paises-ricos-veja-a-comparacao.ghtml",
-    "time": "2026-10-31T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Novo não reconhece resultado das eleições e Mobiliza não se manifesta sobre vitória de Lula nas urnas",
-    "d": "Quase uma semana depois do resultado das urnas, proclamado pelo Tribunal Superior Eleitoral (TSE), o Novo não reconheceu a reeleição do presidente Luiz Inácio Lula da Silva (PT) e o Mobiliza ainda não se manifestou so…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/31/novo-segue-sem-reconhecer-resultado-das-eleicoes-27-partidos-validam-vitoria-de-lula.ghtml",
-    "time": "2026-10-31T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "MP diz que votos de partido e federação que se unirem após eleições podem ser somados para cumprir cláusula de barreira; parecer foi criticado",
-    "d": "A Procuradoria-Geral Eleitoral (PGE) se manifestou nesta quinta-feira (29) favoravelmente a um pedido da Federação Renovação Solidária, formada por Solidariedade e PRD, para que seus votos sejam somados ao Avante, que…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/30/mp-diz-que-votos-do-avante-podem-ser-considerados-para-federacao-que-o-partido-fara-parte-cumpra-clausula-de-barreira-parecer-foi-criticado.ghtml",
-    "time": "2026-10-30T23:34:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mauro Vieira e Marco Rubio se encontram nos EUA e acertam reunião antes da cúpula do G20",
-    "d": "Marco Rubio, secretário de Estado dos EUA, e Mauro Vieira, ministro das Relações Exteriores do Brasil Reprodução O ministro das Relações Exteriores, Mauro Vieira, e o secretário de Estado dos Estados Unidos, Marco Rub…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/30/mauro-vieira-e-marco-rubio-se-encontram-no-g20-e-acertam-reuniao-em-novembro.ghtml",
-    "time": "2026-10-30T23:22:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado",
-    "d": "Não houve anúncio de corte de gastos g1 Circulam nas redes sociais publicações alegando que o governo Lula (PT) anunciou um corte \"de quase R$ 6 bilhões\" na Saúde e na Educação após a vitória sobre Flávio Bolsonaro (P…",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/30/e-fake-que-lula-anunciou-corte-de-r-6-bilhoes-na-saude-e-na-educacao-apos-eleicao-de-2026-video-foi-exibido-no-ano-retrasado.ghtml",
-    "time": "2026-10-30T21:33:03.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Canada and EU announce new alliance open to like-minded countries",
@@ -542,14 +566,6 @@
     "d": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Bina…",
     "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
     "time": "2026-10-30T16:35:44.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?",
-    "d": "The incident at Binance could be the biggest theft of any kind in history. We answer some key questions North Korean group blamed for $6.3bn crypto heist Tell us: have you been affected? The world’s largest cryptocurr…",
-    "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
-    "time": "2026-10-30T15:17:01.000Z"
   },
   {
     "cat": "internacional",
@@ -592,22 +608,6 @@
     "time": "2026-10-30T05:00:45.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-    "d": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the…",
-    "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-    "time": "2026-10-29T17:49:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
-    "d": "Acquisition will supercharge DoorDash’s grocery delivery, ‘one of the hardest things to get right online’, CEO says DoorDash is gobbling up Instacart in a $17bn acquisition that will supercharge its grocery delivery b…",
-    "link": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
-    "time": "2026-10-29T13:41:43.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "US economy grows faster than expected but inflation rises to 3.7%",
@@ -616,35 +616,11 @@
     "time": "2026-10-29T13:09:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Qual o futuro do bolsonarismo após Flávio Bolsonaro ir para os EUA?",
-    "d": "Cientistas políticos ouvidos pela BBC News Brasil se dividem sobre se movimento continuará forte ou dará espaço para uma direita moderada.",
-    "link": "https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-10-29T10:05:44.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "FTC orders Delta, Uber and others to hand over data on algorithmic pricing",
-    "d": "Regulator demands companies explain how and why they charge different prices for the same product or service The Federal Trade Commission (FTC) is demanding some of the US’s biggest airlines, ride-share companies and…",
-    "link": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
-    "time": "2026-10-29T10:00:29.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Was Ralph Nader right about (almost) everything? His challenge to Democrats ahead of the midterm elections",
     "d": "The ex-presidential candidate tells Democrats to prosecute corruption and bring real change for the working class A corporate plutocracy. A broken healthcare system. Massive and widening inequality. Cash-soaked electi…",
     "link": "https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections",
     "time": "2026-10-29T10:00:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-    "d": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada…",
-    "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-    "time": "2026-10-28T14:16:24.000Z"
   }
 ]
