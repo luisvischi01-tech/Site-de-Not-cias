@@ -1,123 +1,251 @@
 [
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
-    "d": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T01:57:46.000Z"
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Midterms: dados da votação antecipada dão sinais sobre eleições nos EUA",
+    "d": "Votação antecipada superou o ritmo de 2022, com maior participação de eleitores democratas e menor proporção de eleitores brancos",
+    "link": "https://www.cnnbrasil.com.br/internacional/midterms-dados-da-votacao-antecipada-dao-sinais-sobre-eleicoes-nos-eua/",
+    "time": "2026-11-03T09:36:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
+    "d": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
+    "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T09:35:49.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "h": "Americans head to the polls for elections that could define Trump's closing chapter",
+    "d": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+    "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T09:29:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "EUA lançam ataque contra ilha no Irã na véspera de eleições",
+    "d": "Autoridades americanas descreveram os ataques à ilha de Qeshm como limitados e defensivos, segundo a CBS, parceira da BBC nos EUA.",
+    "link": "https://www.bbc.com/portuguese/articles/cwnv0n61q72vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T09:22:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
+    "d": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17. Ela acumulava 1,3 mil horas de voo quando o jato particular caiu no domingo depois que ela pediu socorro pelo rádio.",
+    "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T09:18:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tiroteio em praia na Califórnia deixa ao menos dois mortos",
+    "d": "O comandante do Gabinete do Xerife do Condado de Monterey afirmou que outras duas pessoas ficaram feridas no tiroteio",
+    "link": "https://www.cnnbrasil.com.br/internacional/tiroteio-em-praia-na-california-deixa-ao-menos-dois-mortos/",
+    "time": "2026-11-03T09:12:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após disputa entre Colômbia e EUA, nasceu o Canal do Panamá: entenda quais foram os interesses em jogo",
+    "d": "Termos de acordo financeiro para construção da via marítima não foram aceitos por Bogotá, o que levou Washington a invadir o território para garantir sua independência considerados inaceitáveis ​​por Bogotá, que",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/apos-disputa-entre-colombia-e-eua-nasceu-o-canal-do-panama-entenda-quais-foram-os-interesses-em-jogo/",
+    "time": "2026-11-03T09:12:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Ásia fecham em baixa com pressão de ações de tecnologia",
+    "d": "Mercados da Coreia do Sul e de Taiwan, com forte peso de papéis ligados a chips, recuaram aos menores níveis em três meses",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-em-baixa-com-pressao-de-acoes-de-tecnologia/",
+    "time": "2026-11-03T09:11:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Tenerife striker De Miguel dies after on-field collision",
+    "d": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T09:09:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os detalhes do acidente com um avião particular na Flórida",
+    "d": "Secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma 'tragédia horrível' o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump.",
+    "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T09:08:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Voto antecipado, por correio e no dia: como funcionam as eleições nos EUA",
+    "d": "Eleitores podem participar antecipadamente, por correio ou presencialmente no dia oficial das eleições, que acontecem em 3 de novembro",
+    "link": "https://www.cnnbrasil.com.br/internacional/como-os-americanos-votam/",
+    "time": "2026-11-03T09:00:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlético de Madrid x Bayern de Munique: horário e onde assistir à Champions",
+    "d": "Equipes se enfrentam nesta terça-feira (3), às 17h (de Brasília), na Espanha, pela quarta rodada da fase de liga da Uefa Champions League",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/atletico-de-madrid-x-bayern-de-munique-horario-e-onde-assistir-a-champions/",
+    "time": "2026-11-03T09:00:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Villarreal x PSG: horário e onde assistir ao jogo da Champions League",
+    "d": "Equipes se enfrentam nesta terça-feira (3), às 17h (de Brasília), na Espanha, pela quarta rodada da fase de liga da Uefa Champions League",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/villarreal-x-psg-horario-e-onde-assistir-ao-jogo-da-champions-league/",
+    "time": "2026-11-03T09:00:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como preencher o cartão de respostas do Enem sem errar e evitar eliminação",
+    "d": "Atenção aos detalhes burocráticos no dia da prova é tão fundamental quanto o domínio do conteúdo para garantir a vaga na universidade",
+    "link": "https://www.cnnbrasil.com.br/educacao/como-preencher-o-cartao-de-respostas-do-enem-sem-errar-e-evitar-a-eliminaca/",
+    "time": "2026-11-03T08:45:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cruzeiro x Corinthians, final do Brasileiro Sub-17: horário e onde assistir",
+    "d": "Equipes se enfrentam nesta terça-feira (3), às 21h30 (de Brasília), na Arena Independência, em Belo Horizonte, pelo jogo de volta da decisão do Brasileirão Sub-17",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-x-corinthians-final-do-brasileiro-sub-17-horario-e-onde-assistir/",
+    "time": "2026-11-03T08:30:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lepas Aura: primeiro conceito da marca antecipa próximos lançamentos",
+    "d": "Conceito apresentado na China combina carroceria de perfil esportivo, iluminação interativa e silhueta de perua. Lepas vai chegar ao Brasil em 2027",
+    "link": "https://www.cnnbrasil.com.br/auto/lepas-aura-primeiro-conceito-da-marca-antecipa-proximos-lancamentos/",
+    "time": "2026-11-03T08:30:02.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "CNN Brasil",
+    "h": "Marília Mendonça só se interessou por moda após emagrecer, diz stylist",
+    "d": "À CNN Brasil, Flavia Brunetti contou que a perda de peso fez com que a cantora passasse a dar mais importância aos looks que usava nas aparições",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/marilia-mendonca-so-se-interessou-por-moda-apos-emagrecer-diz-stylist/",
+    "time": "2026-11-03T08:15:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Talarico, candidato que pode “roubar” Texas dos republicanos?",
+    "d": "Apesar de disputar uma vaga no Senado de um estado tradicionalmente republicano nas Midterms de 2026, deputado estadual detém maior intenção de votos",
+    "link": "https://www.cnnbrasil.com.br/internacional/quem-e-talarico-candidato-que-pode-roubar-texas-dos-republicanos/",
+    "time": "2026-11-03T08:00:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Antes de ser deputado, Janones foi cobrador de ônibus e estudou Direito com bolsa",
+    "d": "Fantástico teve acesso exclusivo à rotina de André Janones Antes de se tornar deputado federal e ganhar destaque na campanha presidencial de Luiz Inácio Lula da Silva (PT), André Janones (Rede-MG) trabalhou como cobra…",
+    "link": "https://g1.globo.com/fantastico/noticia/2026/11/03/antes-de-ser-deputado-janones-foi-cobrador-de-onibus-e-estudou-direito-com-bolsa.ghtml",
+    "time": "2026-11-03T08:00:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Major test for Australia's social media ban begins in High Court",
+    "d": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
+    "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T07:53:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
     "d": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T01:56:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Red Bull Bragantino 2 x 1 Santos: veja os melhores momentos do Brasileirão",
-    "d": "Equipes paulistas se enfrentaram na noite desta segunda-feira (2), no estádio Cícero de Souza Marques, em Bragança Paulista (SP), pela 34ª rodada",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/red-bull-bragantino-2-x-1-santos-veja-os-melhores-momentos-do-brasileirao/",
-    "time": "2026-11-03T01:39:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Midterms: veja horários de fechamento das urnas durante a eleição nos EUA",
-    "d": "Processo eleitoral de terça-feira (3) define os novos representantes na Câmara e no Senado americano, podendo representar um futuro desafio para Donald Trump",
-    "link": "https://www.cnnbrasil.com.br/internacional/midterms-veja-horarios-de-fechamento-das-urnas-durante-a-eleicao-nos-eua/",
-    "time": "2026-11-03T01:29:10.000Z"
+    "time": "2026-11-03T07:24:12.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "North Korea denies being behind record $6.3bn Binance hack",
-    "d": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T01:23:03.000Z"
+    "h": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+    "d": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T07:15:17.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US strikes Iranian island ahead of midterm elections",
+    "d": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T03:39:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+    "d": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T03:32:36.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CBF não vai divulgar áudio do VAR de Palmeiras x Vasco; veja o motivo",
-    "d": "Duelo de ida da semifinal da Copa do Brasil entre Verdão e Cruzmaltino ficou marcado por um possível pênalti não marcado de Alexander Barboza a favor da equipe carioca",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cbf-nao-vai-divulgar-audio-do-var-de-palmeiras-x-vasco-veja-o-motivo/",
-    "time": "2026-11-03T01:16:32.000Z"
+    "src": "G1",
+    "h": "EUA: Trump em xeque nas eleições de meio de mandato - O Assunto #1837",
+    "d": "Nesta terça-feira (3), os eleitores americanos vão às urnas para votar nas midterms, ou seja, nas eleições realizadas quando o mandato presidencial está pela metade. Esta votação é vista como uma espécie de referendo…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/03/eua-trump-em-xeque-nas-eleicoes-de-meio-de-mandato-o-assunto-1837.ghtml",
+    "time": "2026-11-03T03:30:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump to remove Rwanda and South Africa from US trade deal",
+    "d": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-03T03:00:36.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Santos faz gol contra, perde para Bragantino e se distancia da Libertadores",
-    "d": "Com primeiro tempo bem movimentado no Cicero de Souza Marques, Massa Bruta ultrapassa o Peixe na tabela; jogo abriu a 34ª rodada do Brasileirão",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-faz-gol-contra-perde-para-bragantino-e-se-distancia-da-libertadores/",
-    "time": "2026-11-03T01:00:49.000Z"
+    "src": "G1",
+    "h": "Senado deve votar nesta terça PEC da Segurança Pública",
+    "d": "Alcolumbre pauta votação da PEC da Segurança Pública para a próxima terça O plenário do Senado Federal deve votar nesta terça-feira (3) a proposta de emenda à Constituição (PEC) da Segurança Pública. O tema é consider…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-deve-votar-nesta-terca-pec-da-seguranca-publica.ghtml",
+    "time": "2026-11-03T03:00:01.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Fundada por romanos no ano 47 d.C., a ‘Milha Quadrada’ no coração de Londres tem leis e polícia próprias, mas menos de 10 mil moradores",
-    "d": "Distrito 'City of London', sede da Bolsa de Valores, é mais velho que a própria cidade, e tem administração e jurisdição próprias, com leis e impostos separados dos 32 buroughs",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/fundada-por-romanos-no-ano-47-d-c-a-milha-quadrada-no-coracao-de-londres-tem-leis-e-policia-proprias-mas-menos-de-10-mil-moradores/",
-    "time": "2026-11-03T01:00:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Márcia Goldschmidt desabafa sobre saúde após ser internada: “Por um triz”",
-    "d": "Comunicadora de 64 anos publicou desabafo sobre o peso que mulheres fortes carregam e pediu para que seguidores valorizem a vida",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/marcia-goldschmidt-desabafa-sobre-saude-apos-ser-internada-por-um-triz/",
-    "time": "2026-11-03T00:58:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Paul Bettany revela lesão no olho após exagerar na atuação em “VisionQuest”",
-    "d": "Paul Bettany vive novamente o ex-Vingador Visão no novo spin-off de \"WandaVision\", que chegou ao Disney+ no dia 13 de outubro; os últimos quatro episódios serão lançados na terça (3) e no dia 10 de novembro",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/paul-bettany-revela-lesao-no-olho-apos-exagerar-na-atuacao-em-visionquest/",
-    "time": "2026-11-03T00:56:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Democratas gastaram 15 vezes mais que republicanos em anúncios sobre Trump",
-    "d": "Com índices de aprovação em queda, presidente americano tem sido personagem central na campanha para as eleições de Meio de Mandato",
-    "link": "https://www.cnnbrasil.com.br/internacional/democratas-gastaram-15-vezes-mais-que-republicanos-em-anuncios-sobre-trump/",
-    "time": "2026-11-03T00:53:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Suprema Corte rejeita tentativa de Trump de separar votos na Califórnia",
-    "d": "Governo disse ter identificado 20 mil pessoas que \"provavelmente não são cidadãos dos Estados Unidos\" entre os eleitores; decisão representa mais uma derrota para o republicano em batalhas judiciais sobre eleições",
-    "link": "https://www.cnnbrasil.com.br/internacional/suprema-corte-rejeita-tentativa-de-trump-de-separar-votos-na-california/",
-    "time": "2026-11-03T00:34:30.000Z"
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 46 milhões nesta terça-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.081 da Mega-Sena pode pagar um prêmio de R$ 46 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (3), em São Paulo. 📱Favorite…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/03/mega-sena-pode-pagar-r-46-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-11-03T03:00:01.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Análise: Indefinição na Fazenda preocupa mercado para Lula 4",
-    "d": "A editora e analista de Economia da CNN, Lucinda Pinto, aponta, ao CNN Prime Time, que mercado vê pouca disposição do governo para ajuste fiscal e teme alta da inflação como consequência",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/analise-indefinicao-na-fazenda-preocupa-mercado-para-lula-4/",
-    "time": "2026-11-03T00:32:18.000Z"
+    "src": "G1",
+    "h": "Simples Nacional: prazo para cancelar opções de IBS e CBS começa nesta terça",
+    "d": "O MEI deve fazer a declaração Anual do Simples Nacional (DASN-SIMEI) Divulgação/Sebrae O prazo para micro e pequenas empresas optantes pelo Simples Nacional cancelarem as escolhas feitas em relação ao pagamento dos do…",
+    "link": "https://g1.globo.com/empreendedorismo/noticia/2026/11/03/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs.ghtml",
+    "time": "2026-11-03T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mônica Fonseca e Christina Rocha se estranham durante entrevista; veja",
-    "d": "Peoa expulsa de \"A Fazenda 18\" no sábado (31) foi entrevista pela apresentadora durante uma live relacionada ao reality show nesta segunda-feira (2)",
-    "link": "https://www.cnnbrasil.com.br/pop/realities/monica-fonseca-e-christina-rocha-se-estranham-durante-entrevista-veja/",
-    "time": "2026-11-03T00:26:14.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quais são os próximos feriados de 2026? Veja os três que restam",
+    "d": "Praia de Copacabana lotada em feriado no Rio Sérgio Telles/ TV Globo Após o feriado de Finados, na segunda-feira (2), que proporcionou a muitos trabalhadores três dias seguidos de descanso, já há quem esteja de olho n…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/03/quais-sao-os-proximos-feriados-de-2026.ghtml",
+    "time": "2026-11-03T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Produção de açúcar na Índia dispara 745% em outubro",
-    "d": "Antecipação da moagem de cana no estado de Maharashtra impulsionou o volume para 845 mil toneladas no período",
-    "link": "https://www.cnnbrasil.com.br/agro/producao-de-acucar-da-4/",
-    "time": "2026-11-03T00:25:55.000Z"
+    "cat": "economia",
+    "src": "G1",
+    "h": "Veja motivos que fazem conta de luz no Brasil ser mais cara do que a de outros países com o mesmo perfil de geração de energia",
+    "d": "Estudo lista motivos que fazem a conta de luz no Brasil ser mais cara Um estudo listou os motivos que fazem a conta de luz no Brasil ser mais cara do que a de outros países com o mesmo perfil de geração de energia. Um…",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/veja-motivos-que-fazem-conta-de-luz-no-brasil-ser-mais-cara-do-que-a-de-outros-paises-com-o-mesmo-perfil-de-geracao-de-energia.ghtml",
+    "time": "2026-11-03T00:44:15.000Z"
   },
   {
     "cat": "internacional",
@@ -136,14 +264,6 @@
     "time": "2026-11-03T00:07:05.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Legal challenge to Australia's social media ban to start in High Court",
-    "d": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-    "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T23:37:31.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como foi o El Niño histórico de 1877, quando passagem do fenômeno se tornou um desastre global",
@@ -153,35 +273,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Man guilty of stealing cash from farm owned by South African president",
-    "d": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-    "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T20:08:51.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
     "d": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining…",
     "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
     "time": "2026-11-02T20:00:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
-    "d": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17. Ela acumulava 1,3 mil horas de voo quando o jato particular caiu no domingo depois que ela pediu socorro pelo rádio.",
-    "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T19:55:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Trump to remove Rwanda and South Africa from US trade deal",
-    "d": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-    "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T19:33:10.000Z"
   },
   {
     "cat": "brasil",
@@ -202,23 +298,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Os detalhes do acidente com um avião particular na Flórida",
-    "d": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
-    "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T19:20:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-    "d": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-    "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T18:34:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
+    "h": "Eleições nos EUA: como fortalecimento do socialismo criou dilema para os democratas",
     "d": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
     "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-02T17:53:22.000Z"
@@ -238,22 +318,6 @@
     "d": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
     "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-02T17:33:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Dutch police offer record €2m reward in hunt for drug lord",
-    "d": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-    "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T17:29:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
-    "d": "Italiano conquista seu primeiro título mundial após elevar a média de pontos por corrida de 6,25 para 20 em apenas uma temporada.",
-    "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T17:27:18.000Z"
   },
   {
     "cat": "economia",
@@ -286,14 +350,6 @@
     "d": "Exemplo de sala de estar com pé-direito duplo SKN Incorporadora Na sala de estar, um robô aspirador percorre o ambiente, a iluminação é ajustada por meio de assistentes de voz e a televisão se conecta à internet para…",
     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml",
     "time": "2026-11-02T16:00:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
-    "d": "Após receber diagnóstico de prosopagnosia, jornalista investigou ciência por trás dessa condição.",
-    "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-02T15:12:15.000Z"
   },
   {
     "cat": "economia",
@@ -392,38 +448,6 @@
     "time": "2026-11-02T10:22:23.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
-    "d": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da O roubo de US$ 6,3 bilhões (cerca de R$ 34,2 bilhões) em criptomoedas da Binance, maior corretora do setor no mundo, ainda não…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/investidores-retiram-us-36-bilhoes-da-binance-apos-ataque-hacker.ghtml",
-    "time": "2026-11-02T09:41:52.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Vai viajar com crianças? Saiba como usar o Isofix e evitar erros na instalação da cadeirinha",
-    "d": "Pontos de ancoragem do Isofix em um Volkswagen Golf divulgação/Volkswagen A escolha e o uso adequado da cadeirinha infantil ainda despertam dúvidas entre pais e responsáveis, mesmo após a sua obrigatoriedade em veícul…",
-    "link": "https://g1.globo.com/carros/noticia/2026/11/02/vai-viajar-com-criancas-saiba-como-usar-o-isofix-e-evitar-erros-na-instalacao-da-cadeirinha.ghtml",
-    "time": "2026-11-02T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mulheres têm mais medo de errar no trabalho quando homens são maioria, aponta estudo",
-    "d": "Mulheres temem mais admitir erros quando homens são maioria na empresa Yan Krukau via Pexels Um erro no trabalho pode ter impacto na carreira profissional, mas também pode se transformar numa oportunidade de aprendiza…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/02/mulheres-tem-mais-medo-de-errar-no-trabalho-quando-homens-sao-maioria-aponta-estudo.ghtml",
-    "time": "2026-11-02T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
-    "d": "Por que Trump está preocupado com as midterms? As eleições de meio de mandato nos Estados Unidos, marcadas para esta terça-feira (3), podem mudar os rumos da política econômica do presidente Donald Trump — com possíve…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
-    "time": "2026-11-02T05:00:00.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Presidência do Senado: PL deve ter candidato próprio, mesmo com aproximação de Alcolumbre",
@@ -488,22 +512,6 @@
     "time": "2026-11-01T03:00:00.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "MTE recebe 4,3 mil denúncias de assédio eleitoral no trabalho em três dias",
-    "d": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE O Ministério do Trabalho e Emprego (MTE) recebeu 4.305 denúncias de assédio eleitoral no ambiente de trabalho entre quarta-feira (28) e sexta-feira (30).…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/mte-recebe-denuncias-de-assedio-eleitoral-no-trabalho.ghtml",
-    "time": "2026-10-31T18:09:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Advogado Willer Tomaz tem outras cinco casas em ilhas de Angra além da disputada com Richarlison",
-    "d": "Willer Tomaz tem outras cinco casas em ilhas de Angra além da que disputou com Richarlison O advogado Willer Tomaz, investigado no Supremo Tribunal Federal (STF) junto com o senador Flávio Bolsonaro (PL-RJ) por suspei…",
-    "link": "https://g1.globo.com/politica/noticia/2026/10/31/advogado-willer-tomaz-tem-outras-cinco-casas-em-ilhas-de-angra-alem-da-que-disputou-com-richarlison.ghtml",
-    "time": "2026-10-31T10:33:54.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "The Trump administration wants to give married parents money to stay at home. Will it be enough?",
@@ -518,14 +526,6 @@
     "d": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US history Elon Musk has poured so much money into US politics this midterms election cycle that…",
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
     "time": "2026-10-31T10:00:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "MAPA: Como votaram os municípios com maior presença evangélica no Brasil",
-    "d": "Presidente reeleito Lula e o candidato derrotado Flávio Bolsonaro Paulo Pinto e Joédson Alves/Agencia Brasil Derrotado por Lula (PT) no segundo turno das eleições presidenciais, o senador Flávio Bolsonaro (PL) teve se…",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/31/mapa-eleicoes-2026-municipios-com-maior-presenca-evangelica.ghtml",
-    "time": "2026-10-31T03:00:00.000Z"
   },
   {
     "cat": "internacional",
