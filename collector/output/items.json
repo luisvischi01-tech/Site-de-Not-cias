@@ -1,75 +1,459 @@
 [
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes menor que um átomo",
-    "d": "Descoberta foi feita por equipe liderada por cientistas de Cambridge, no Reino Unido, a partir de experimento realizado no Grande Colisor de Hádrons.",
-    "link": "https://www.bbc.com/portuguese/articles/c6lye81l3ezro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T09:30:45.000Z"
+    "src": "G1",
+    "h": "CNJ determina que certidões de óbito deverão trazer contexto da causa da morte em ação policial",
+    "d": "O Conselho Nacional de Justiça (CNJ) determinou que as certidões de óbito de pessoas mortas em ações policiais terão que registrar expressamente que a ocorrência foi motivada ou que a morte foi fruto de intervenção de…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/04/cnj-determina-que-certidoes-de-obito-deverao-trazer-contexto-da-causa-da-morte-em-acao-policial.ghtml",
+    "time": "2026-11-04T17:32:54.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Bolsas da Ásia fecham mistas após vitória democrata nas eleições dos EUA",
-    "d": "Em geral, mercados veem com bons olhos um Washington dividido entre republicanos e democratas; setor de tecnologia segue em foco com temor sobre o retorno de investimentos em IA",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-mistas-apos-vitoria-democrata-nas-eleicoes-dos-eua/",
-    "time": "2026-11-04T09:21:55.000Z"
+    "src": "G1",
+    "h": "Brasil cria 121,3 mil empregos formais em setembro, queda de 43% na comparação com mesmo mês de 2025",
+    "d": "A economia brasileira gerou 121,3 mil empregos formais em setembro deste ano, informou nesta quarta-feira (4) o Ministério do Trabalho e do Emprego. Ao todo, segundo o governo federal, foram registradas em setembro: ➡…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/04/brasil-cria-1213-mil-empregos-formais-em-setembro-queda-de-43percent-na-comparacao-com-mesmo-mes-de-2025.ghtml",
+    "time": "2026-11-04T17:30:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador a prisão, para o bandido a proteção'; áudio foi editado",
+    "d": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador, a prisão; para o bandido, a proteção' Reprodução Circula nas redes sociais um vídeo que supostamente mostra o presidente Lula (PT) dizendo \"para o povo trabalhad…",
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/04/e-fake-video-de-lula-dizendo-para-o-povo-trabalhador-a-prisao-para-o-bandido-a-protecao-audio-foi-editado.ghtml",
+    "time": "2026-11-04T17:27:06.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "“Parabéns aos democratas”: como Trump reagiu às derrotas nas Midterms",
-    "d": "Trump parabenizou os democratas pela vitória, afirmou que não considera as derrotas republicanas uma reprovação ao seu governo e reconheceu que a guerra no Irã influenciou o resultado das eleições",
-    "link": "https://www.cnnbrasil.com.br/internacional/parabens-aos-democratas-como-trump-reagiu-as-derrotas-nas-midterms/",
-    "time": "2026-11-04T09:20:56.000Z"
+    "h": "Vitória de Talarico pode fortalecer democratas para 2028, avalia professor",
+    "d": "Lucas de Souza Martins avalia que democrata consegue agregar diferentes grupos do eleitorado e pode fortalecer o partido para a disputa presidencial",
+    "link": "https://www.cnnbrasil.com.br/internacional/vitoria-de-talarico-pode-fortalecer-democratas-para-2028-avalia-professor/",
+    "time": "2026-11-04T17:12:24.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Governo de SP cria câmara de solução consensual para concessões estaduais",
-    "d": "Coordenado pela Secretaria de Parcerias em Investimentos, novo órgão reunirá agências reguladoras e PGE; atual concessionária não poderá entrar em leilão de contrato renegociado",
-    "link": "https://www.cnnbrasil.com.br/infra/governo-de-sp-cria-camara-de-solucao-consensual-para-concessoes-estaduais/",
-    "time": "2026-11-04T09:00:58.000Z"
+    "h": "Causa da morte de Janaína Barbosa é revelada por amiga; saiba mais",
+    "d": "Jornalista faleceu aos 48; ela apresentou o programa \"TV Fama\", da Rede TV!, entre 2001 e 2002",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/causa-da-morte-de-janaina-barbosa-e-revelada-por-amiga-saiba-mais/",
+    "time": "2026-11-04T17:11:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça determina prisão de homem suspeito de matar advogada e filho em SP",
+    "d": "Anna Gabriela Faria Lima e a criança, de 6 anos, foram achados sem vida em um condomínio em Cotia; testemunhas relataram relacionamento conturbado entre casal",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-determina-prisao-de-homem-suspeito-de-matar-advogada-e-filho-em-sp/",
+    "time": "2026-11-04T17:11:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Goleiro que se chocou com De Miguel fala pela 1ª vez após morte de espanhol",
+    "d": "Jesús Owono diz que \"estes são os dias mais difíceis\" de sua vida; tragédia aconteceu após lance envolvendo o goleiro e o atacante durante o duelo entre Tenerife e Andorra",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/goleiro-que-se-chocou-com-de-miguel-fala-pela-primeira-vez-apos-morte-de-espanhol/",
+    "time": "2026-11-04T17:06:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Zverev perde na estreia como número 1 do mundo no Masters de Paris",
+    "d": "Alemão é derrotado pelo italiano Lorenzo Musetti por 2 sets a 0 e dá adeus ao torneio na segunda rodada; novo líder do ranking havia assumido o posto na segunda-feira",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/zverev-perde-na-estreia-como-numero-1-do-mundo-no-masters-de-paris/",
+    "time": "2026-11-04T17:03:36.000Z"
   },
   {
     "cat": "comercio",
     "src": "CNN Brasil",
-    "h": "Transparência nas tarifas do Inter favorece melhor planejamento financeiro",
-    "d": "Conhecer os custos de serviços bancários, as operações gratuitas e as cobranças de produtos específicos permite organizar o orçamento e tomar decisões financeiras mais conscientes",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/transparencia-nas-tarifas-do-inter-favorece-melhor-planejamento-financeiro/",
-    "time": "2026-11-04T09:00:14.000Z"
+    "h": "Ventos de 126 km/h: Tornado atinge Chapecó e SC cancela aulas no estado",
+    "d": "Pelo menos 19 municípios de Santa Catarina registram estragos por causa de temporais na Região Sul; governador afirma que \"manter o maior número de catarinenses em casa é o mais importante agora\"",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/ventos-de-126-km-h-tornado-atinge-chapeco-e-sc-cancela-aulas-no-estado/",
+    "time": "2026-11-04T17:03:18.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+    "d": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T17:02:44.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Comprar com a obra em andamento: diferença do lançamento e do imóvel pronto",
+    "d": "Compreender as fases de construção, a estrutura de pagamento sem juros durante a obra, as exigências de documentação e a verificação do cronograma é fundamental para manter a aquisição como um investimento seguro e re…",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/comprar-com-a-obra-em-andamento-diferenca-do-lancamento-e-do-imovel-pronto/",
+    "time": "2026-11-04T17:00:42.000Z"
   },
   {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Bayer anuncia parceria inédita com empresa brasileira de biotecnologia",
-    "d": "Produto desenvolvido com a IdeeLab, de Piracicaba (SP), focará no combate a doenças foliares da soja e deve chegar ao mercado em quatro anos",
-    "link": "https://www.cnnbrasil.com.br/agro/bayer-anuncia-parceria-inedita-com-empresa-brasileira-de-biotecnologia/",
-    "time": "2026-11-04T09:00:03.000Z"
+    "h": "Talarico diz que democratas devem evitar “retaliação política” contra Trump",
+    "d": "Senador eleito pelo Texas afirmou que partido deve concentrar esforços na redução de custos, no combate à corrupção e na recuperação da economia",
+    "link": "https://www.cnnbrasil.com.br/internacional/talarico-diz-que-democratas-devem-evitar-retaliacao-politica-contra-trump/",
+    "time": "2026-11-04T16:59:27.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iran's chief negotiator says Americans voted 'no to war'",
+    "d": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T16:59:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tomorrowland Brasil 2027 anuncia line-up completo com Alok e Chainsmokers",
+    "d": "No próximo ano, festival de música eletrônica está previsto para acontecer no final de semana dos dias 30 de abril, 1 e 2 de maio, no Parque Maeda, interior do estado de São Paulo",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/tomorrowland-brasil-2027-anuncia-line-up-completo-com-alok-e-chainsmokers/",
+    "time": "2026-11-04T16:56:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Onda azul”: o que a vitória dos democratas muda no Congresso dos EUA",
+    "d": "Partido conquistou a maioria na Câmara e no Senado e poderá ampliar investigações sobre o governo Trump, dificultar a aprovação de indicações e barrar projetos do presidente",
+    "link": "https://www.cnnbrasil.com.br/internacional/onda-azul-o-que-a-vitoria-dos-democratas-muda-no-congresso-dos-eua/",
+    "time": "2026-11-04T16:53:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Aos 17 anos, Liz Macedo desabafa sobre depressão e preocupa seguidores",
+    "d": "Influenciadora usou as redes sociais para contar que enfrenta uma fase difícil, relatou mudanças no tratamento e explicou por que tem publicado menos vídeos",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/aos-17-anos-liz-macedo-desabafa-sobre-depressao-e-preocupa-seguidores/",
+    "time": "2026-11-04T16:52:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TREs devem enviar relatórios de auditoria das urnas até esta quarta-feira",
+    "d": "Pareceres regionais reunidos pelo TSE serão disponibilizados posteriormente no site oficial da Justiça Eleitoral",
+    "link": "https://www.cnnbrasil.com.br/eleicoes/tres-devem-enviar-relatorios-de-auditoria-das-urnas-ate-esta-quarta-feira/",
+    "time": "2026-11-04T16:49:26.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Republicana moderada é derrotada e perde cadeira no Senado após quase 30 anos",
-    "d": "Susan Collins tentou se distanciar do presidente Donald Trump durante sua campanha em disputa marcada por controvérsias.",
-    "link": "https://www.bbc.com/portuguese/articles/cq70pdkx8wnpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T08:45:04.000Z"
+    "h": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
+    "d": "De eleitores revoltados a um presidente impopular, americanos em áreas tradicionalmente republicanas se voltaram para os democratas.",
+    "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T16:48:14.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'Most difficult days of my life' for keeper Owono",
+    "d": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T16:40:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+    "d": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T16:26:15.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chery prepara chegada de Freelander e Luxeed ao Brasil em 2028",
-    "d": "Freelander terá SUVs desenvolvidos com participação da Land Rover, enquanto Luxeed aposta no luxo e tecnologia da Huawei de olho na Denza",
-    "link": "https://www.cnnbrasil.com.br/auto/chery-prepara-chegada-de-freelander-e-luxeed-ao-brasil-em-2028/",
-    "time": "2026-11-04T08:30:48.000Z"
+    "src": "G1",
+    "h": "Rogério Marinho, do PL, lança candidatura à presidência do Senado",
+    "d": "Presidência do Senado: PL anuncia Rogério Marinho hoje O senador Rogério Marinho (PL-RN), atual líder da Oposição no Senado, anunciou nesta quarta-feira (4) candidatura à presidência da Casa para o biênio 2027–2028. O…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/04/rogerio-marinho-do-pl-lanca-candidatura-a-presidencia-do-senado.ghtml",
+    "time": "2026-11-04T16:18:42.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Israel's president begins consultations with parties after election deadlock",
+    "d": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+    "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T16:18:21.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress – as it happened",
+    "d": "European shares also power ahead as markets react to blue wave in US midterm elections And Chris Turner, global head of markets at ING, says: Investors will be parsing what this all means. For example, Gina Hinojosa w…",
+    "link": "https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates",
+    "time": "2026-11-04T16:11:26.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Porto x Napoli: horário e onde assistir ao jogo da Champions League",
-    "d": "Equipes entram em campo nesta quarta-feira (4), às 17 horas (de Brasília), pela quarta rodada da primeira fase da competição continental",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/porto-x-napoli-horario-e-onde-assistir-ao-jogo-da-champions-league/",
-    "time": "2026-11-04T08:30:19.000Z"
+    "src": "BBC News Brasil",
+    "h": "Quem são os grandes vencedores das eleições americanas",
+    "d": "Conheça alguns dos principais nomes da chamada onda azul democrata, que conquistou uma vitória esmagadora nesta terça-feira, em um duro revés para as políticas de Donald Trump.",
+    "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T15:41:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "CEO da OpenAI muda nome para ‘Ram Altman’ no X após polêmica sobre memória de computadores",
+    "d": "Crise da memória RAM pode deixar celulares, notebooks e até carros mais caros no Brasil O CEO da OpenAI, Sam Altman, mudou seu nome para \"Ram Altman\" na rede social X após ser criticado por declarações sobre o uso de…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/04/ceo-da-openai-muda-nome-para-ram-altman-no-x-apos-polemica-sobre-memoria-de-computadores.ghtml",
+    "time": "2026-11-04T15:35:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Paes pede investigação de Douglas Ruas por suspeitas de compra de votos e irregularidades eleitorais",
+    "d": "A campanha de Eduardo Paes (PSD), candidato derrotado na eleição para o governo do Rio de Janeiro, acionou a Justiça Eleitoral para pedir a investigação de supostas irregularidades atribuídas ao governador eleito, Dou…",
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/04/paes-pede-investigacao-de-douglas-ruas-por-suspeitas-de-compra-de-votos-e-irregularidades-eleitorais.ghtml",
+    "time": "2026-11-04T15:30:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Secret police files released in Hungary, 37 years after fall of communism",
+    "d": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+    "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T15:28:18.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+    "d": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+    "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T15:01:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Trump diz que vai reconhecer resultado da eleição, elogia democratas e critica republicanos",
+    "d": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
+    "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T14:59:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Operação Faroeste: STJ condena desembargadora do TJ-BA e outros três réus por corrupção e lavagem de dinheiro",
+    "d": "Desembargadora da Bahia, Sandra Inês Moraes, investigada na Operação Faroeste, contra esquema de venda de decisões por juízes Reprodução/TV Bahia A desembargadora Sandra Inês Moraes Rusciolelli Azevedo e outros quatro…",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/04/operacao-faroeste-mpf-pede-condenacao-dos-reus-e-defende-perdao-judicial-do-delator.ghtml",
+    "time": "2026-11-04T14:58:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula deve fazer pronunciamento no domingo, garantir que não haverá estelionato eleitoral e que fará ajuste fiscal",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) deve fazer um pronunciamento à nação no próximo domingo (8), no qual pretende prometer trabalhar pela pacificação do país, garantir que não haverá estelionato eleitoral e an…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/lula-deve-fazer-pronunciamento-no-domingo-garantir-que-nao-havera-estelionato-eleitoral-e-que-fara-ajuste-fiscal.ghtml",
+    "time": "2026-11-04T14:54:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "ANC faces anger over poor services as South Africans vote in local elections",
+    "d": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as…",
+    "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+    "time": "2026-11-04T14:50:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
+    "d": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
+    "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T14:44:23.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "De guerra no Irã a regras para IA: o que a vitória democrata pode mudar na economia dos EUA",
+    "d": "Democratas conquistam controle do Congresso nos Estados Unidos A vitória dos democratas nas eleições de meio de mandato dos Estados Unidos colocou mais um fator de incerteza no radar dos investidores. O resultado ocor…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-nos-eua-ameaca-planos-de-trump-para-economia-e-ia-entenda.ghtml",
+    "time": "2026-11-04T14:00:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+    "d": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T13:33:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Eleições nos EUA: políticos brasileiros repercutem resultado que deu aos democratas maioria no Congresso",
+    "d": "Políticos brasileiros, em especial lideranças ligadas ao governo de Luiz Inácio Lula da Silva (PT), se manifestaram nesta quarta-feira (4) sobre o desfecho das eleições de meio de mandato, as \"midterms\", nos Estados U…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/04/eleicoes-nos-eua-politicos-brasileiros-repercutem-resultado-que-deu-aos-democratas-maioria-no-congresso.ghtml",
+    "time": "2026-11-04T13:32:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Nadal set to join Real Madrid board of directors",
+    "d": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+    "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T13:21:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Carro voador da Embraer: Eve fecha acordo para vender até 12 aeronaves para empresa que vai operar no Sul do Brasil",
+    "d": "Carros voadores da Embraer: Eve fecha acordo para vender até 12 aeronaves para empresa do Sul do Brasil Divulgação A Eve Air Mobility, empresa ligada à Embraer, fechou um acordo para fornecer até 12 carros voadores el…",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/04/carro-voador-da-embraer-eve-fecha-acordo-para-vender-ate-12-aeronaves-para-empresa-que-vai-operar-no-sul-do-brasil.ghtml",
+    "time": "2026-11-04T13:04:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Governo publica novas regras para combater golpes por SMS; veja o que muda",
+    "d": "Homem com celular na mão na região central de São Paulo Celso Tavares/g1 O governo federal publicou novas regras para combater golpes e fraudes por SMS. As medidas incluem a criação de um cadastro público para identif…",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/04/governo-publica-novas-regras-para-combater-golpes-por-sms-veja-o-que-muda.ghtml",
+    "time": "2026-11-04T12:39:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Sharp objects found in Halloween sweets in three European nations",
+    "d": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+    "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T12:34:33.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
+    "d": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blame US midterms 2026 live – latest updates Track live results from all 50 states Tell us: what do you want t…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
+    "time": "2026-11-04T12:30:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Alcolumbre faz acenos ao governo com PEC da Segurança e mira reeleição no Senado",
+    "d": "Alcolumbre faz acenos ao governo com PEC da Segurança e mira reeleição no Senado A aprovação da PEC da Segurança Pública foi uma vitória do governo Lula (PT), sem dúvida. Mas também foi uma vitória de Davi Alcolumbre…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/04/alcolumbre-governo-presidencia-senado.ghtml",
+    "time": "2026-11-04T12:25:30.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Vitória democrata pode enfraquecer tarifaço de Trump? Entenda os impactos para Brasil e outros países",
+    "d": "Trump minimiza resultados das eleições nos EUA: 'Eu não estava na cédula' A vitória do Partido Democrata nas eleições de meio de mandato dos Estados Unidos, realizadas na terça-feira (3), pode dificultar a política de…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-impactos-tarifaco-trump.ghtml",
+    "time": "2026-11-04T12:23:18.000Z"
+  },
+  {
+    "cat": "comercio",
+    "src": "BBC News Brasil",
+    "h": "Economia e democracia foram os temas mais importantes para americanos nas eleições, indica pesquisa",
+    "d": "Ampla pesquisa perguntou a dezenas de milhares de eleitores americanos suas opiniões e motivações, fornecendo uma análise por idade, sexo, escolaridade e outros dados demográficos.",
+    "link": "https://www.bbc.com/portuguese/articles/cmg4795366kdo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T12:21:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Republicanos da Flórida derrotam democratas e Estado elege primeiro governador negro",
+    "d": "O republicano Byron Donalds, apoiado pelo presidente Donald Trump, será o primeiro governador negro da Flórida.",
+    "link": "https://www.bbc.com/portuguese/articles/cm75p0lp5g1ro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T12:12:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Aeris Energy pede recuperação extrajudicial para renegociar R$ 1,5 bilhão em dívidas",
+    "d": "Aeris, empresa brasileira fabricante de pás eólicas Divulgação A Aeris, fabricante brasileira de pás utilizadas em turbinas eólicas, entrou com um pedido de recuperação extrajudicial para renegociar cerca de R$ 1,52 b…",
+    "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/04/aeris-energy-recuperacao-extrajudicial.ghtml",
+    "time": "2026-11-04T12:10:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Deb Haaland é eleita primeira mulher indígena governadora nos EUA",
+    "d": "Democrata venceu disputa pelo governo do Novo México; ela já havia feito história ao se tornar a primeira pessoa indígena a integrar o gabinete presidencial americano.",
+    "link": "https://www.bbc.com/portuguese/articles/c8vgxypwnpezo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T12:04:05.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar oscila, de olho em vitória democrata no Congresso americano; Ibovespa sobe",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar opera com volatilidade nesta quarta-feira (4), e marcava uma leve alta de 0,03% perto das 13h, cotado a R$ 5,4885. Já o Ibovespa, principal índice da bolsa bras…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
+    "time": "2026-11-04T12:01:09.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "ANC under pressure to reverse South Africa decline",
+    "d": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T11:47:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
+    "d": "Deputada estadual derrotou Greg Abbott nas eleições de meio mandato, um dos governadores republicanos mais proeminentes do país e aliado fiel do presidente Donald Trump.",
+    "link": "https://www.bbc.com/portuguese/articles/ckm23qjvm888o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T11:35:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Alcolumbre quer votar nesta quarta PEC da redução da maioridade penal em busca de apoio da direita para reeleição",
+    "d": "Em um acordo fechado de última hora no plenário, após a aprovação da proposta de emenda à Constituição (PEC) da Segurança Pública, o presidente do Senado, Davi Alcolumbre (União-AP), acertou a tentativa de votação nes…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/noticia/2026/11/04/alcolumbre-quer-votar-ainda-nesta-quarta-pec-da-reducao-da-maioridade-penal-em-busca-de-apoio-da-direita-para-reeleicao.ghtml",
+    "time": "2026-11-04T11:27:18.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Canva anuncia demissão de 1,2 mil funcionários e corta 22% da equipe",
+    "d": "Logo do Canva Divulgação O Canva, plataforma australiana de criação de designs, anunciou nesta terça-feira (3) uma reestruturação que afetará 1.271 funcionários, o equivalente a 22% de sua equipe. A empresa atribuiu a…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/04/canva-anuncia-demissao-de-12-mil-funcionarios-em-reestruturacao.ghtml",
+    "time": "2026-11-04T11:20:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Cadu de Lula diz que PEC da Segurança vai facilitar integração entre forças federais, estaduais e municipais",
+    "d": "Governador eleito do Rio Grande do Norte, Cadu de Lula (PT), em entrevista ao jornal Em Ponto, da GloboNews Reprodução O governador eleito do Rio Grande do Norte, Cadu de Lula (PT), afirmou nesta quarta-feira (4) que…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/04/cadu-de-lula-governador-rn-seguranca-economia-governo.ghtml",
+    "time": "2026-11-04T11:15:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Derrota de Trump e vitória de Lula enfraquecem direita nas Américas e vira oportunidade para presidente brasileiro pacificar país",
+    "d": "A derrota política sofrida pelo presidente dos Estados Unidos, Donald Trump, nas eleições de meio de mandato e a reeleição do presidente Luiz Inácio Lula da Silva (PT) no Brasil enfraquecem a direita nas Américas e ab…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/derrota-de-trump-e-vitoria-de-lula-enfraquecem-direita-nas-americas-e-vira-oportunidade-para-presidente-brasileiro-pacificar-o-pais.ghtml",
+    "time": "2026-11-04T11:15:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil",
+    "d": "Democratas conquistam controle do Congresso nos Estados Unidos A vitória do Partido Democrata nas eleições de meio de mandato dos Estados Unidos, realizadas na terça-feira (3), pode mudar os rumos da política econômic…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/04/midterms-nos-eua-vitoria-democrata-ameaca-planos-de-trump-e-pode-afetar-dolar-e-juros-no-brasil.ghtml",
+    "time": "2026-11-04T11:02:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Análise: 'Onda azul' que expõe perda de força de Trump pode levar a pedido de impeachment?",
+    "d": "Algumas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
+    "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T10:54:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
+    "d": "Presidente Trump fez vários ataques durante a campanha contra El-Sayed, filho de imigrantes egípcios, e acusou-o de estar 'do lado dos terroristas'.",
+    "link": "https://www.bbc.com/portuguese/articles/c933xk7el2ggo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-04T10:02:45.000Z"
   },
   {
     "cat": "economia",
@@ -81,56 +465,8 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Democrata Abdul El-Sayed será o primeiro senador muçulmano dos EUA",
-    "d": "Médico defende a regulamentação do capitalismo, taxação de grandes fortunas e sistema de saúde pública gratuito para a população",
-    "link": "https://www.cnnbrasil.com.br/internacional/democrata-abdul-el-sayed-senador-muculmano-eua/",
-    "time": "2026-11-04T08:17:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena: quanto rendem R$ 46 milhões na poupança, Tesouro Direto ou CDB",
-    "d": "Sorteio desta quarta-feira (4) será realizado às 21h; apostas podem ser feitas até 20h",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-46-milhoes-na-poupanca-tesouro-direto-ou-cdb-2/",
-    "time": "2026-11-04T08:05:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“O povo enviou uma mensagem clara”, diz Obama após onda democrata nos EUA",
-    "d": "Ele incentivou os membros do partido a aproveitarem seus avanços começando a \"fazer mudanças onde tivermos poder para isso, evitar danos e preparar o terreno para o futuro\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/o-povo-enviou-uma-mensagem-clara-diz-obama-apos-onda-democrata-nos-eua/",
-    "time": "2026-11-04T08:01:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mega-Sena 3081: sorteio desta quarta-feira (4) pode pagar R$ 46 milhões",
-    "d": "Para concorrer, apostadores devem registrar seus jogos até às 20h",
-    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3081/",
-    "time": "2026-11-04T08:00:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "10 anos de “The Crown”: rainha Elizabeth morre no final da série? Relembre",
-    "d": "Estreia da produção aconteceu em 4 de novembro de 2016 e chegou ao fim no dia 14 de dezembro de 2023, após seis temporadas da série",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/10-anos-de-the-crown-rainha-elizabeth-morre-no-final-da-serie-relembre/",
-    "time": "2026-11-04T08:00:36.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "‘Eu votei’: eleitores nos EUA homenageiam pessoas mortas pelo ICE",
-    "d": "Eles deixaram adesivos com os dizeres 'Eu votei' em memoriais dedicados a Renee Good, Alex Pretti e Lorenzo Salgado Araujo, que foram mortos a tiros por agentes do ICE.",
-    "link": "https://www.bbc.com/portuguese/watch/cmdx35eerw9xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T08:00:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "As viradas democratas que definiram a disputa pelo Senado nos EUA",
+    "h": "As viradas democratas que mudaram a disputa pelo Senado nos EUA",
     "d": "Em cinco dos sete Estados em que as disputadas eram consideradas indefinidas e acirradas, as projeções já indicam vitória dos democratas.",
     "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-04T07:58:57.000Z"
@@ -144,252 +480,12 @@
     "time": "2026-11-04T07:39:38.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "South Carolina elects Democratic senator for first time in almost three decades",
-    "d": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-    "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T07:32:02.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "RAM 2500 tem recall no Brasil por falha que pode afetar os freios e os controles de estabilidade e tração",
     "d": "RAM 2500 modelo 2018. Divulgação / RAM A Stellantis convocou no Brasil um recall da Ram 2500, modelo 2018, por uma falha que pode comprometer o funcionamento do sistema de freios ABS e dos controles de estabilidade e…",
     "link": "https://g1.globo.com/carros/noticia/2026/11/04/ram-2500-tem-recall-no-brasil-por-falha-que-pode-afetar-os-freios-e-os-controles-de-estabilidade-e-tracao.ghtml",
     "time": "2026-11-04T07:27:42.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Florida Republicans fend off Democrats as state elects first black governor",
-    "d": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-    "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T07:12:21.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Paraguai: entenda a crise que colocou banco sob suspeita e levou à renúncia do presidente do BC",
-    "d": "Vista aérea mostra a sede do Ueno Bank, em Assunção, no Paraguai. Reuters Uma crise envolvendo o banco digital Ueno, que tem cerca de 3 milhões de clientes no Paraguai, levou à renúncia de Carlos Carvallo, presidente…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/04/paraguai-crise-banco-renuncia-presidente-do-bc.ghtml",
-    "time": "2026-11-04T07:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Cidade do ES tem 327 galinhas e perus para cada morador; média do estado é de cinco; veja todos os municípios",
-    "d": "Galinhas em granja de Santa Maria de Jetibá, no Espírito Santo Reprodução/TV Gazeta Conhecida nacionalmente como capital do ovo, Santa Maria de Jetibá, na Região Serrana do Espírito Santo, também lidera o ranking de p…",
-    "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/11/04/cidade-do-es-tem-327-galinhas-e-perus-para-cada-morador-media-do-estado-e-de-cinco-veja-todos-os-municipios.ghtml",
-    "time": "2026-11-04T07:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-    "d": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T06:07:24.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Midterms: apostas para as eleições já movimentam mais de R$ 8 bilhões nos EUA; dá para confiar nas previsões?",
-    "d": "Por que Trump está preocupado com as midterms? As eleições de meio de mandato dos Estados Unidos (midterms) serão um grande teste para os mercados de previsão. Kalshi e Polymarket, que já somam mais de US$ 1,48 bilhão…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/04/midterms-mercados-de-previsao.ghtml",
-    "time": "2026-11-04T06:00:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-    "d": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T05:39:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Amy Acton vence a eleição para governadora de Ohio após disputa acirrada com o bilionário Ramaswamy",
-    "d": "A disputa eleitoral esquentou nas últimas semanas depois que o candidato republicano lançou um anúncio com a mãe de Acton.",
-    "link": "https://www.bbc.com/portuguese/articles/cm62y492gxd8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T05:30:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Republicanos da Flórida derrotam democratas e Estado elege primeiro governador negro",
-    "d": "O republicano Byron Donalds, apoiado pelo presidente Donald Trump, será o primeiro governador negro da Flórida.",
-    "link": "https://www.bbc.com/portuguese/articles/cm75p0lp5g1ro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T05:23:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Democrata Roy Cooper conquista vaga no Senado da Carolina do Norte, antes ocupada por republicano",
-    "d": "É a primeira vez que o estado elege um senador democrata desde 2008.",
-    "link": "https://www.bbc.com/portuguese/articles/cw7vp434v462o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T05:19:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Carolina do Sul elege democrata para o Senado pela primeira vez em quase três décadas",
-    "d": "Annie Andrews derrota Darline Graham, que foi escolhida a dedo pelo Presidente Trump para ocupar o lugar do seu irmão após a sua morte.",
-    "link": "https://www.bbc.com/portuguese/articles/cmkgq8l44g02o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T05:14:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Análise: Partido Democrata toma territórios republicanos com vitórias históricas",
-    "d": "Duas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
-    "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T04:48:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "James Talarico se torna o primeiro democrata a conquistar uma cadeira no Senado pelo Texas desde 1988",
-    "d": "Em uma das disputas mais observadas dessa eleição nos EUA, candidato democrata derrotou Ken Paxton",
-    "link": "https://www.bbc.com/portuguese/articles/cjx23k27vdxzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T04:34:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "ANC faces anger over poor services as South Africans vote in local elections",
-    "d": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as…",
-    "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-    "time": "2026-11-04T04:00:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-    "d": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T03:46:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "A onda de protestos pela Europa e a crise do custo de vida - O Assunto #1838",
-    "d": "Quando a espanhola Maricarmen Abascal, de 87 anos, foi despejada da casa onde vivia há mais de sete décadas por não ter condições de arcar com o aluguel, milhares de pessoas começaram a ir às ruas na Espanha. Na mesma…",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/04/a-onda-de-protestos-pela-europa-e-a-crise-do-custo-de-vida-o-assunto-1838.ghtml",
-    "time": "2026-11-04T03:30:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Calendário de novembro 2026: veja datas de pagamento do INSS, Bolsa Família, pé-de-meia e mais",
-    "d": "Calendário de novembro 2026 Governo Federal O mês de novembro de 2026 já começou, e com ele chegam os pagamentos de programas e benefícios como INSS, Pé-de-Meia e Bolsa Família, entre outros. Alguns dos depósitos come…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/04/calendario-de-novembro-2026.ghtml",
-    "time": "2026-11-04T03:00:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Com mercado dividido após reeleição de Lula, BC decide nesta quarta entre novo corte ou manutenção da taxa de juros",
-    "d": "O Comitê de Política Monetária (Copom) do Banco Central se reúne nesta quarta-feira (16) para definir o patamar da taxa básica de juros da economia brasileira, atualmente em 13,75% após cinco cortes seguidos. 🕝A deci…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/04/com-mercado-dividido-apos-reeleicao-de-lula-bc-decide-nesta-quarta-entre-novo-corte-ou-manutencao-da-taxa-de-juros.ghtml",
-    "time": "2026-11-04T03:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em acordo, Senado tentará votar redução da maioridade penal ainda nesta semana",
-    "d": "Líderes do Senado fecharam um acordo nesta terça-feira (3) para que a redução da maioridade penal tenha sua votação acelerada. A expectativa de parte dos líderes é de votar o texto no plenário já nesta quarta-feira (4…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/04/em-acordo-senado-tentara-votar-reducao-da-maioridade-penal-ainda-nesta-semana.ghtml",
-    "time": "2026-11-04T03:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega da Virada 2026: sorteio acontece no dia 1º de janeiro novamente; apostas estão abertas",
-    "d": "Imagens de lotérica e cartões de apostas da Mega Sena da Virada, loteria com prêmio previsto de R$ 600 milhões. Caxias do Sul, RS (27). 27/12/2024 - Foto: Antonio Machado/FOTOARENA/Estadão Conteúdo O sorteio da Mega d…",
-    "link": "https://g1.globo.com/loterias/noticia/2026/11/04/mega-da-virada-2026-sorteio-acontece-no-dia-1o-de-janeiro.ghtml",
-    "time": "2026-11-04T03:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Selic: por que o Banco Central pode parar de cortar juros após a reeleição de Lula?",
-    "d": "Copom reduz taxa de juros, e o FED mantém Jornal Nacional/ Reprodução O Banco Central chega à reunião do Comitê de Política Monetária (Copom) nesta quarta-feira (4) diante de um cenário mais complicado para decidir o…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/04/selic-por-que-o-banco-central-pode-parar-de-cortar-juros-apos-a-reeleicao-de-lula.ghtml",
-    "time": "2026-11-04T03:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Concurso da CGU com 60 vagas e salário de R$ 20 mil encerra inscrições nesta quarta",
-    "d": "Fachada da Controladoria-Geral da União (CGU) Kenzo Suzuki ASCOM/CGU d As inscrições para o novo concurso público da Controladoria-Geral da União (CGU) terminam nesta quarta-feira (4), às 18h (horário de Brasília). Ao…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/04/concurso-da-cgu-com-60-vagas-e-salario-de-r-20-mil.ghtml",
-    "time": "2026-11-04T03:00:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Killer who escaped Tennessee prison captured after week-long manhunt",
-    "d": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T02:11:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação",
-    "d": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação Por 75 votos a 0, PEC é aprovada. Governistas aprovaram que as emendas sobre a redução da maioridade penal tramitem de forma…",
-    "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
-    "time": "2026-11-04T00:09:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "ANC under pressure to reverse South Africa decline",
-    "d": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T00:03:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Presidente do BC paraguaio renuncia após crise financeira no Ueno Bank",
-    "d": "Vista aérea mostra a sede do Ueno Bank, em Assunção, no Paraguai. Reuters Uma crise envolvendo o banco digital Ueno, que tem cerca de 3 milhões de clientes no Paraguai, levou à renúncia de Carlos Carvallo, presidente…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/03/paraguai-crise-banco-renuncia-presidente-do-bc.ghtml",
-    "time": "2026-11-03T23:50:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula comemora aprovação da PEC da Segurança Pública e reforça criação de ministério",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) comemorou nesta terça-feira (3) a aprovação da Proposta de Emenda à Constituição (PEC) da Segurança Pública. A proposta, que agora segue para promulgação, dá mais poder ao g…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/03/lula-comemora-aprovacao-da-pec-da-seguranca-publica.ghtml",
-    "time": "2026-11-03T23:39:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Senado conclui votação da PEC da Segurança; veja como ficou texto",
-    "d": "Senado aprova PEC da Segurança Pública; texto vai a promulgação O Senado aprovou nesta terça-feira (3) a proposta de emenda à Constituição (PEC) da Segurança Pública. O texto insere na Constituição Federal o Sistema Ú…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-conclui-votacao-da-pec-da-seguranca-veja-como-ficou-texto.ghtml",
-    "time": "2026-11-03T23:02:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fórum Brasileiro de Segurança Pública celebra aprovação da PEC da Segurança, mas diz que texto não resolve problemas estruturais",
-    "d": "PEC da Segurança Pública Jornal Nacional/ Reprodução O Fórum Brasileiro de Segurança Pública (FBSP) celebrou a aprovação da Proposta de Emenda à Constituição (PEC) da Segurança Pública pelo Senado Federal nesta terça-…",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/03/forum-brasileiro-de-seguranca-publica-celebra-aprovacao-da-pec-da-seguranca-mas-diz-que-texto-nao-resolve-problemas-estruturais.ghtml",
-    "time": "2026-11-03T22:48:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Spanish transport minister resigns days after deadly train crash",
-    "d": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T22:45:59.000Z"
   },
   {
     "cat": "economia",
@@ -408,78 +504,6 @@
     "time": "2026-11-03T22:08:50.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PEC da Segurança Pública: como votaram senadores e partidos nos dois turnos",
-    "d": "Senado aprova PEC da Segurança Pública; texto vai a promulgação O Senado aprovou em dois turnos o texto-base da proposta de emenda à Constituição (PEC) da Segurança Pública nesta terça-feira (3). O texto agora vai par…",
-    "link": "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/03/pec-seguranca-publica-como-votaram-senadores-partidos.ghtml",
-    "time": "2026-11-03T22:06:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto vai a promulgação",
-    "d": "Senado aprova PEC da Segurança Pública; texto vai a promulgação O Senado aprovou em dois turnos a proposta de emenda à Constituição (PEC) da Segurança Pública nesta terça-feira (3). O texto segue para promulgação. Vej…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-aprova-pec-da-seguranca-publica.ghtml",
-    "time": "2026-11-03T22:06:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "NTSB says crucial plane parts found three miles from Florida crash site",
-    "d": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-    "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T21:53:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Senado Federal decide votar PEC da Segurança sem discutir redução da maioridade penal",
-    "d": "Senado decide votar PEC da Segurança sem discutir redução da maioridade penal O Senado Federal vai votar a proposta de emenda à Constituição (PEC) da Segurança Pública sem apreciar os destaques, do PL e do PT, que tra…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-federal-decide-votar-pec-da-seguranca-sem-discutir-reducao-da-maioridade-penal.ghtml",
-    "time": "2026-11-03T21:52:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Quem eram as 9 vítimas fatais da queda de avião na Flórida",
-    "d": "Além de Nathalia Filgueiras, copilota e filha de brasileiros, estavam a bordo da aeronave duas famílias de americanos e o piloto.",
-    "link": "https://www.bbc.com/portuguese/articles/cmvg7l75y321o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T21:18:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Nos EUA, Flávio Bolsonaro registra presença em sessão do Senado que discute a PEC da Segurança Pública",
-    "d": "Nos Estados Unidos desde a semana passada, o candidato derrotado e senador Flávio Bolsonaro (PL-RJ) registrou presença na sessão do Plenário do Senado desta terça-feira (3), que discute a Proposta de Emenda à Constitu…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/03/nos-eua-flavio-bolsonaro-registra-presenca-em-sessao-do-senado.ghtml",
-    "time": "2026-11-03T21:00:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Seven flights across Europe targeted by suspected bomb threats",
-    "d": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T20:42:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Tarifaço: Brasil deve receber proposta dos EUA entre esta semana e a próxima, diz ministro",
-    "d": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), Márcio Elias Rosa, afirmou que o Brasil deve receber entre esta semana e o início da próxima uma oferta de eventual acordo por parte dos Estados Un…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/03/tarifaco-brasil-deve-receber-proposta-dos-eua-entre-esta-semana-e-a-proxima-diz-ministro.ghtml",
-    "time": "2026-11-03T19:33:24.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "d": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-03T16:19:29.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Trump’s troubles with Iran could open the door to China",
@@ -494,14 +518,6 @@
     "d": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing All countries can start to break their dependence on fossil fuels now without needing to wait fo…",
     "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
     "time": "2026-11-03T13:00:07.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-    "d": "Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district US midterms 2026 live – latest updates Track live results from all 50 states After 18 years in busines…",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
-    "time": "2026-11-03T11:00:57.000Z"
   },
   {
     "cat": "economia",
@@ -590,13 +606,5 @@
     "d": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “p…",
     "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
     "time": "2026-10-30T19:42:15.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
-    "d": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Bina…",
-    "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-    "time": "2026-10-30T16:35:44.000Z"
   }
 ]
