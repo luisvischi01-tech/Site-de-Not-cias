@@ -1,59 +1,211 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Arco do Triunfo” de Trump recebe aprovação para construção",
+    "d": "Comissão Nacional de Planejamento votou pela aprovação do projeto; juízes que identificarem desafios legais ainda podem bloquear o início das obras",
+    "link": "https://www.cnnbrasil.com.br/internacional/arco-do-triunfo-de-trump-recebe-aprovacao-para-construcao/",
+    "time": "2026-11-06T03:47:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump signs order preventing future presidents from changing Oval Office",
+    "d": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-06T03:33:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Kaio Jorge supera Ronaldo em artilharia histórica do Cruzeiro; veja números",
+    "d": "Atacante marca duas vezes contra o Bahia, chega a 58 gols com a camisa celeste e ultrapassa o Fenômeno na lista histórica do clube",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/kaio-jorge-supera-ronaldo-em-artilharia-historica-do-cruzeiro-veja-numeros/",
+    "time": "2026-11-06T03:13:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Crise no Paraguai afetará correntistas, aposentados e saúde, diz professora",
+    "d": "Em entrevista ao Hora H, Regiane Bressan, professora de Relações Internacionais da UNIFESP, alertou que a crise afeta diretamente correntistas do Ueno Bank",
+    "link": "https://www.cnnbrasil.com.br/internacional/crise-no-paraguai-afetara-correntistas-aposentados-e-saude-diz-professora/",
+    "time": "2026-11-06T03:05:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula faz reunião nesta sexta para discutir recriação do Ministério da Segurança Pública; pasta existiu no governo Temer",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) faz uma reunião nesta sexta-feira (6) para discutir a recriação do Ministério da Segurança Pública. A criação de uma pasta específica para a área é uma promessa de Lula e fo…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/06/lula-faz-reuniao-nesta-sexta-para-discutir-recriacao-do-ministerio-da-seguranca-publica-pasta-existiu-no-governo-temer.ghtml",
+    "time": "2026-11-06T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "IBGE abre inscrições para concurso com mais de 27 mil vagas e salários que podem superar R$ 4 mil",
+    "d": "IBGE Tocantins Helena Pontes/Agência IBGE Notícias As inscrições para o concurso temporário do IBGE para atuar no 12º Censo Agropecuário, Florestal e Aquícola de 2027 começam nesta sexta-feira (6). Os interessados pod…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/06/ibge-abre-inscricoes-para-concurso-com-mais-de-27-mil-vagas-e-salarios-que-podem-superar-r-4-mil.ghtml",
+    "time": "2026-11-06T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 55 milhões nesta sexta-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.082 da Mega-Sena pode pagar um prêmio de R$ 55 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta sexta-feira (6), em São Paulo. 📱Favorite…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/06/mega-sena-pode-pagar-r-55-milhoes-nesta-sexta-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-11-06T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
+    "d": "Renata tem uma lanchonete no Paraguai Acervo pessoal A brasileira Renata de Brito, de 44 anos, tomou um susto quando abriu o aplicativo do Ueno Bank, no Paraguai, e não conseguiu mais acessar sua conta, na terça-feira…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/06/brasileiros-que-foram-para-o-paraguai-sao-afetados-pela-crise-no-pais.ghtml",
+    "time": "2026-11-06T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Leverkusen 0 x 1 Marseille: veja os melhores momentos pela Europa League",
+    "d": "Time francês tinha sofrido três derrotas na competição, mas superou a equipe alemã nesta quinta-feira (5), na BayArena, pela quarta rodada do torneio",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/leverkusen-0-x-1-marseille-veja-os-melhores-momentos-pela-europa-league/",
+    "time": "2026-11-06T02:57:46.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "d": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-06T02:57:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça de SP mantém prisão de homem suspeito de matar advogada e filho",
+    "d": "Decisão foi tomada após audiência de custódia realizada nesta quinta (5); Anna Gabriela e o filho, de 6 anos, foram encontrados mortos em apartamento em Cotia",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-de-sp-mantem-prisao-de-homem-suspeito-de-matar-advogada-e-filho/",
+    "time": "2026-11-06T02:52:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Abel Ferreira critica não convocação de jogadores do Flamengo pela Seleção",
+    "d": "Treinador questiona tratamento diferenciado da CBF entre Palmeiras e o atual líder do Brasileirão e elogia desempenho na goleada sobre o Remo",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-ferreira-critica-nao-convocacao-de-jogadores-do-flamengo-pela-selecao/",
+    "time": "2026-11-06T02:41:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tornados e enchentes: SC corre para fazer obras contra efeitos do El Niño",
+    "d": "Iniciativa privada tenta impulsionar construção de 'parque inundável' contra enchentes no Balneário Camboriú; empresários doam R$ 400 mil, mas valor total da construção pode chegar a quase R$ 100 milhões",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/tornados-e-enchentes-sc-corre-para-fazer-obras-contra-efeitos-do-el-nino/",
+    "time": "2026-11-06T02:36:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em noite de golaços, Cruzeiro vence o Bahia com brilho de Kaio Jorge",
+    "d": "Com direito a golaço, VAR e reviravolta, equipes protagonizam partida eletrizante no Mineirão em partida válida pela 34ª rodada do Brasileirão",
+    "link": "https://www.cnnbrasil.com.br/esportes/em-noite-de-golacos-cruzeiro-vence-o-bahia-com-brilho-de-kaio-jorge/",
+    "time": "2026-11-06T02:30:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Abel cita “fator chave” para domínio de Flamengo e Palmeiras no Brasileiro",
+    "d": "Apenas as duas equipes seguem com chances de conquistar o título do Campeonato Brasileiro desta temporada; time paulista está três pontos atrás da equipe carioca",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-cita-fator-chave-para-dominio-de-flamengo-e-palmeiras-no-brasileiro/",
+    "time": "2026-11-06T02:19:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Candidata socialista do Partido Democrata é eleita prefeita de Los Angeles",
+    "d": "Nithya Raman venceu a disputa contra a atual chefe do Executivo municipal, Karen Bass, do mesmo partido; vereadora nascida na Índia pautou a população em situação de rua como tema central da campanha",
+    "link": "https://www.cnnbrasil.com.br/internacional/candidata-socialista-do-partido-democrata-e-eleita-prefeita-de-los-angeles/",
+    "time": "2026-11-06T02:19:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Caso Master do Paraguai': entenda a crise de banco que pode derrubar o presidente Santiago Peña",
+    "d": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
+    "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-06T02:16:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+    "d": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-06T02:08:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após sediar a COP30, Brasil chega à COP31 com desafio de manter liderança",
+    "d": "Em debate no CNN Talks, especialistas afirmam que país tem potencial para liderar a agenda ambiental global, mas precisa avançar na implementação de compromissos e políticas climáticas",
+    "link": "https://www.cnnbrasil.com.br/infra/apos-sediar-a-cop30-brasil-chega-a-cop31-com-desafio-de-manter-lideranca/",
+    "time": "2026-11-06T01:58:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grande mancha de lixo do Pacífico pode conter tanto plástico que está mudando a cor do oceano",
+    "d": "Simulações em laboratório e dados de satélite mostram que partículas visíveis do espaço podem ajudar a monitorar a degradação ambiental",
+    "link": "https://www.cnnbrasil.com.br/ciencia/grande-mancha-de-lixo-do-pacifico-pode-conter-tanto-plastico-que-esta-mudando-a-cor-do-oceano/",
+    "time": "2026-11-06T01:58:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
+    "d": "Com a facilidade para abertura de contas, Ueno Bank atraiu brasileiros que se mudaram para a Paraguai para estudar ou abrir negócios.",
+    "link": "https://www.bbc.com/portuguese/articles/c804064l5ppyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-06T01:56:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Bolsa do Japão cai mais de 6% após tombo de ações de IA nos EUA",
+    "d": "A tela exibe o Índice Composto de Preços das Ações da Coreia (KOSPI) em uma sala de negociação do Hana Bank em Seul, Coreia do Sul, na quinta-feira, 5 de novembro de 2026. Lee Jin-man/AP O principal índice de ações do…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/05/bolsa-do-japao-cai-mais-de-6percent-apos-tombo-de-acoes-de-ia-nos-eua.ghtml",
+    "time": "2026-11-06T01:42:45.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+    "d": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-06T01:28:03.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+    "d": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities…",
+    "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+    "time": "2026-11-06T01:22:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+    "d": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+    "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-06T00:02:57.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "Tereza Cristina diz que pretende discutir disputa pela presidência do Senado com Jair Bolsonaro: 'explicar o que está acontecendo'",
     "d": "Senadora Tereza Cristina (PP-MS) em pronunciamento à bancada Carlos Moura/Agência Senado A senadora Tereza Cristina (PP-MS) afirmou nesta quinta-feira (5) que pretende discutir com o ex-presidente Jair Bolsonaro (PL)…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/05/tereza-cristina-disputa-presidencia-senado-jair-bolsonaro.ghtml",
     "time": "2026-11-05T23:41:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Temporal faz córrego transbordar e virar ‘cachoeira’ em BH",
-    "d": "Município está em alerta para temporais e rajadas de vento de até 50km/h; ainda não há informações de óbitos ou feridos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/temporal-faz-corrego-transbordar-e-virar-cachoeira-em-bh/",
-    "time": "2026-11-05T23:24:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Parcial “A Fazenda”: enquete mostra participantes disputando voto a voto",
-    "d": "Participante acumula 72% dos votos, enquanto concorrentes disputam apertado a segunda vaga do reality da Record TV",
-    "link": "https://www.cnnbrasil.com.br/pop/realities/parcial-a-fazenda-enquete-mostra-participantes-disputando-voto-a-voto/",
-    "time": "2026-11-05T23:24:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-    "d": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-05T23:21:34.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Renúncia de Peña coloca agro paraguaio em alerta sobre crédito e câmbio",
-    "d": "Sucessão presidencial, crise no sistema financeiro e possíveis reflexos sobre o crédito e o câmbio entram no radar de produtores e investidores brasileiros; lideranças do agronegócio apostam na continuidade da polític…",
-    "link": "https://www.cnnbrasil.com.br/agro/renuncia-de-pena-coloca-agro-paraguaio-em-alerta-sobre-credito-e-cambio/",
-    "time": "2026-11-05T23:21:04.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Rir de verdade ou apenas por educação? Pesquisas revelam o que muda no corpo quando uma risada é espontânea ou forçada",
-    "d": "O cérebro e os movimentos da língua e da garganta ajudam a explicar como o riso é produzido e sua importância nas interações sociais",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/rir-de-verdade-ou-apenas-por-educacao-estudo-revela-o-que-muda-no-corpo-quando-uma-risada-e-espontanea-ou-forcada/",
-    "time": "2026-11-05T23:20:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que Irã “não está fazendo nada” na área nuclear sem aval dos EUA",
-    "d": "País do Oriente Médio enviou proposta sobre a questão nuclear por meio do Catar, mas só aceita discutí-la se governo americano atender a sete exigências",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-ira-nao-esta-fazendo-nada-na-area-nuclear-sem-aval-dos-eua/",
-    "time": "2026-11-05T23:19:43.000Z"
   },
   {
     "cat": "economia",
@@ -64,60 +216,12 @@
     "time": "2026-11-05T23:19:37.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pimenta lança 2º relatório da MP das dívidas rurais, mas FPA mantém impasse",
-    "d": "O relator da comissão da MP (Medida Provisória) 1376, Paulo Pimenta, apresentou uma segunda versão do relatório sem acordo com a FPA (Frente Parlamentar da Agropecuária); a medida caduca na próxima quarta-feira (11)",
-    "link": "https://www.cnnbrasil.com.br/agro/pimenta-lanca-2o-relatorio-da-mp-das-dividas-rurais-mas-fpa-mantem-impasse/",
-    "time": "2026-11-05T23:19:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidente de Israel revela surpresa e preocupação com fim de ajuda dos EUA",
-    "d": "Trump disse que repasse anual de US$ 3,8 bilhões para compra de armas termina neste ano, dois anos antes do previsto; primeiro-ministro israelense, Benjamin Netanyahu, não comentou",
-    "link": "https://www.cnnbrasil.com.br/internacional/presidente-de-israel-revela-surpresa-e-preocupacao-com-fim-de-ajuda-dos-eua/",
-    "time": "2026-11-05T23:14:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arrascaeta admite sacrifício pelo Flamengo: “Ainda um pouco de risco”",
-    "d": "No último período de parada para compromissos de seleções, Arrascaeta sofreu uma fratura no punho esquerdo, quando vestia a camisa do Uruguai",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/arrascaeta-admite-sacrificio-pelo-flamengo-ainda-um-pouco-de-risco/",
-    "time": "2026-11-05T23:13:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mileide Mihaile aposta em look de palha para ensaio da Tijuca; veja",
-    "d": "À CNN Brasil, a rainha de bateria da amarela e azul do Borel conta que tem buscado criadores nordestinos para suas produções de Carnaval",
-    "link": "https://www.cnnbrasil.com.br/pop/carnaval/mileide-mihaile-aposta-em-look-de-palha-para-ensaio-da-tijuca-veja/",
-    "time": "2026-11-05T23:13:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cenário macro e recuperação explicam queda nas vendas, diz CEO do GPA",
-    "d": "Companhia atribui recuo à perda de ritmo do consumo e a dificuldades com fornecedores durante o processo de reestruturação da dívida",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/cenario-macro-e-recuperacao-explicam-queda-nas-vendas-diz-ceo-do-gpa/",
-    "time": "2026-11-05T23:12:53.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "California governor commutes sentences for state's 548 death row inmates",
     "d": "California has historically had the largest population of people on death row in the US.",
     "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-05T23:09:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Califórnia anuncia que irá comutar pena de morte de 548 presos no estado",
-    "d": "Decisão converte as penas em prisão perpétua sem liberdade condicional; governador Gavin Newsom avalia disputar a Presidência dos Estados Unidos em 2028",
-    "link": "https://www.cnnbrasil.com.br/internacional/california-anuncia-que-ira-comutar-pena-de-morte-de-548-presos-no-estado/",
-    "time": "2026-11-05T23:06:44.000Z"
   },
   {
     "cat": "brasil",
@@ -130,18 +234,10 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Lula chama Flávio Bolsonaro de ‘pé-frio’ e diz que senador foi aos EUA buscar proteção",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) disse nesta quinta-feira (5) que o candidato derrotado Flávio Bolsonaro (PL) fugiu para os Estados Unidos para \"pegar proteção\" e o chamou de pé-frio: \"chegou nos Estados Un…",
+    "h": "'Vitória para o mundo', diz Lula sobre resultados nas eleições no Brasil, em Israel e nos EUA",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) disse nesta quinta-feira (5) que a reeleição no segundo turno das eleições presidenciais \"foi uma vitória para o mundo\" e que na mesma semana, Benjamin Netanyahu, primeiro-m…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/05/vitoria-para-o-mundo-diz-lula-sobre-resultados-nas-eleicoes-no-brasil-em-israel-e-nos-eua.ghtml",
     "time": "2026-11-05T23:04:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula cita “perdas” de Netanyahu e Trump e diz que sua vitória foi “mundial”",
-    "d": "Durante live realizada na noite desta quinta-feira (5) junto com André Janones (Rede-MG), o petista ressaltou as derrotas para os segmentos políticos de Benjamin Netanyahu e Donald Trump nas eleições de Israel e Estad…",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-cita-perdas-de-netanyahu-e-trump-e-diz-que-sua-vitoria-foi-mundial/",
-    "time": "2026-11-05T23:02:13.000Z"
   },
   {
     "cat": "brasil",
@@ -280,22 +376,6 @@
     "time": "2026-11-05T18:48:07.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
-    "d": "Com a facilidade para abertura de contas, Ueno Bank atraiu brasileiros que se mudaram para a Paraguai para estudar ou abrir negócios.",
-    "link": "https://www.bbc.com/portuguese/articles/c804064l5ppyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-05T18:24:40.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-    "d": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-    "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-05T18:22:46.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "French protests see numbers surge as unions join strikes over high cost of living",
@@ -376,28 +456,12 @@
     "time": "2026-11-05T16:01:11.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador",
-    "d": "Banco digital que quebrou no Paraguai movimentava mais de 800 milhões de dólares em dinheiro público A quebra do Ueno Bank, um dos principais bancos do Paraguai e o maior banco digital do país em número de clientes, p…",
-    "link": "https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml",
-    "time": "2026-11-05T15:14:50.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Cristiano Ronaldo se aposenta da seleção de Portugal: veja os momentos mais icônicos do jogador",
     "d": "A BBC selecionou alguns dos momentos mais marcantes da carreira de Cristiano Ronaldo, que está se aposentando da seleção portuguesa.",
     "link": "https://www.bbc.com/portuguese/articles/cq5ynjjjnxk9o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-05T15:14:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "‘Imposto do pecado’: o que entra? Produtos vão ficar mais caros? Veja perguntas e respostas",
-    "d": "O que é o 'imposto do pecado' e como ele vai funcionar? O governo federal enviou ao Congresso, na quarta-feira (4), a medida provisória (MP) que define as regras de cobrança do Imposto Seletivo, também conhecido como…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/05/perguntas-e-respostas-imposto-seletivo.ghtml",
-    "time": "2026-11-05T15:13:41.000Z"
   },
   {
     "cat": "brasil",
@@ -409,30 +473,6 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Bolsonaro pede a Moraes autorização para receber Marinho e Tereza, pré-candidatos à presidência do Senado",
-    "d": "A defesa do ex-presidente Jair Bolsonaro pediu ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para receber visitas dos senadores Rogério Marinho (PL-RN) e Tereza Cristina (PP-MS) na re…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/05/bolsonaro-pede-a-moraes-autorizacao-para-receber-marinho-e-tereza-que-devem-disputar-presidencia-do-senado.ghtml",
-    "time": "2026-11-05T14:33:54.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Da quebra de banco à renúncia do presidente: entenda o escândalo financeiro que abalou o Paraguai",
-    "d": "Santiago Peña, economista e presidente do Paraguai, foi ministro da Fazenda durante o governo de Horacio Cartes. Eleito pelo Partido Colorado, Peña assumiu a Presidência em 2023. REUTERS A crise do banco digital Ueno…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/05/paraguai-oposicao-tenta-abrir-processo-de-impeachment-contra-pena-apos-crise-bancaria.ghtml",
-    "time": "2026-11-05T14:33:20.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "IBGE anuncia concurso com 27 mil vagas temporárias em todo o Brasil; veja salários",
-    "d": "IBGE Tocantins Helena Pontes/Agência IBGE Notícias O IBGE publicou nesta quinta-feira (5) o edital de um novo concurso nacional com 27.279 vagas para recenseadores que vão atuar no 12º Censo Agropecuário, Florestal e…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/05/ibge-anuncia-concurso-com-27-mil-vagas-temporarias-em-todo-o-brasil-veja-salarios.ghtml",
-    "time": "2026-11-05T14:26:01.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Ameaças de bomba obrigam voos na Europa a fazer pousos de emergência; o que se sabe",
     "d": "Os episódios ocorrem poucos dias depois de oito voos europeus terem sido alvo de supostas ameaças de bomba. Nenhum explosivo foi encontrado nos aviões após as buscas.",
@@ -440,18 +480,10 @@
     "time": "2026-11-05T13:45:26.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-    "d": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-    "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-05T11:21:35.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Rural voters were feeling left behind before the midterms, poll shows",
-    "d": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were a…",
+    "d": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Q&A: Ask your questions about Democrats’ win in the midterms Polling conducted by the Harris Poll for the Gu…",
     "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
     "time": "2026-11-05T11:00:22.000Z"
   },
@@ -480,36 +512,12 @@
     "time": "2026-11-05T09:00:02.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Pope Leo hosts Bob Dylan at official residence in Rome",
-    "d": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-05T02:09:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Australia's oldest department store David Jones folds after 188 years",
-    "d": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-    "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-05T00:59:22.000Z"
-  },
-  {
     "cat": "comercio",
     "src": "BBC News Brasil",
     "h": "Quem são os grandes vencedores e perdedores das eleições americanas",
     "d": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
     "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-04T23:24:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
-    "d": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discri…",
-    "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-04T20:52:50.000Z"
   },
   {
     "cat": "internacional",
@@ -574,14 +582,6 @@
     "d": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the…",
     "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
     "time": "2026-11-03T22:08:50.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-    "d": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing All countries can start to break their dependence on fossil fuels now without needing to wait fo…",
-    "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-    "time": "2026-11-03T13:00:07.000Z"
   },
   {
     "cat": "economia",
