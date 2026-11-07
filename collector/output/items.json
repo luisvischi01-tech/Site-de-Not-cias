@@ -1,35 +1,211 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Casas Bahia adia divulgação do balanço do 3º trimestre para dezembro",
+    "d": "Extensão do cronograma está relacionada aos processos operacionais decorrentes da recuperação judicial em curso",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-dezembro/",
+    "time": "2026-11-07T16:28:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Adam Driver explica por que finalmente aceitou estrelar um filme da Marvel",
+    "d": "Kevin Feige já havia compartilhado ter feito diversas ofertas de papéis no MCU ao ator, que sempre as recusava; ele viverá Sr. Sinistro no novo \"X-Men\"",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/adam-driver-explica-por-que-finalmente-aceitou-estrelar-um-filme-da-marvel/",
+    "time": "2026-11-07T16:27:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe",
+    "d": "O agressor foi baleado pela polícia e está sendo levado para o hospital, segundo as autoridades.",
+    "link": "https://www.bbc.com/portuguese/articles/cm5yn1gyv07no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T16:21:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Famosos se despedem do diretor Nilton Travesso em São Paulo",
+    "d": "Cerimônia de despedida do produtor, que faleceu na sexta (6), reuniu nomes como Astrid Fontenelle, Silvia Poppovic e Ronnie Von",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-se-despedem-do-diretor-nilton-travesso-em-sao-paulo/",
+    "time": "2026-11-07T16:20:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mari Maria revela que já quis mudar o rosto por causa de filtro das redes",
+    "d": "Influenciadora contou que chegou a pedir procedimento estético inspirado em filtro de rede social e refletiu sobre pressão da IA na autoimagem",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/mari-maria-revela-que-ja-quis-mudar-o-rosto-por-causa-de-filtro-das-redes/",
+    "time": "2026-11-07T16:07:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ânima tem melhor trimestre dos últimos tempos, avalia presidente",
+    "d": "Lucro líquido da empresa cresceu 142,7% no terceiro trimestre, chegando a R$ 88,7 milhões, superando expectativas do mercado",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/anima-tem-melhor-trimestre-dos-ultimos-tempos-avalia-presidente/",
+    "time": "2026-11-07T16:04:58.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como tirar crosta preta da grelha do fogão sem usar palha de aço",
+    "d": "Mistura de bicarbonato de sódio e detergente amolece crostas de gordura queimada sem danificar o revestimento das peças",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/como-tirar-crosta-preta-da-grelha-do-fogao-sem-usar-palha-de-aco/",
+    "time": "2026-11-07T16:01:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Verstappen, Hamilton e Leclerc perdem posições no grid do GP de São Paulo",
+    "d": "Pilotos foram penalizados por trocas de componentes do motor acima do limite permitido pelo regulamento",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/verstappen-hamilton-e-leclerc-perdem-posicoes-no-grid-do-gp-de-sao-paulo/",
+    "time": "2026-11-07T15:57:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "No clear winner after tight New Zealand general election",
+    "d": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T15:56:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Verstappen lidera último treino livre em SP; veja posições dos brasileiros",
+    "d": "Gabriel Bortoleto terminou na décima posição, enquanto Rafael Câmara, estreante pela Haas, ficou em 15º; classificação será neste sábado (7), às 15h",
+    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/verstappen-lidera-ultimo-treino-livre-em-sp-veja-posicoes-dos-brasileiros/",
+    "time": "2026-11-07T15:50:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ataque a tiros deixa ao menos cinco mortos e mais de dez feridos na Polônia",
+    "d": "Nas redes sociais, o primeiro-ministro polonês, Donald Tusk, informou que a polícia está investigando o caso",
+    "link": "https://www.cnnbrasil.com.br/internacional/tiroteio-cracovia-polonia/",
+    "time": "2026-11-07T15:20:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas",
+    "d": "O que é o 'imposto do pecado' e como ele vai funcionar? O anúncio de que o imposto seletivo – conhecido como \"imposto do pecado\" – passará a ser cobrado a partir de fevereiro do ano que vem gerou forte repercussão no…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml",
+    "time": "2026-11-07T15:13:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grande e forte frente fria avança sobre o país até segunda, diz Climatempo",
+    "d": "Climatempo lista três principais características que tornam a frente fria pouco comum para novembro, com impactos diferentes em cada região do país",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/grande-e-forte-frente-fria-avanca-sobre-o-pais-ate-segunda-diz-climatempo/",
+    "time": "2026-11-07T15:09:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Leão XIV pede união na América do Sul em missa na fronteira do Uruguai",
+    "d": "Papa instou povos do continente a superarem as divisões entre seus países durante oração na cidade de Paysandú, na fronteira do país com a Argentina",
+    "link": "https://www.cnnbrasil.com.br/internacional/leao-xiv-pede-uniao-na-america-do-sul-em-missa-na-fronteira-do-uruguai/",
+    "time": "2026-11-07T15:06:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Petróleo em alta impactou produção da Suzano, diz CFO",
+    "d": "Marcos Assumpção aponta commodity como principal fator de pressão nos custos e prevê geração de caixa forte no 4º trimestre",
+    "link": "https://www.cnnbrasil.com.br/agro/petroleo-em-alta-impactou-producao-da-suzano-diz-cfo/",
+    "time": "2026-11-07T15:01:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A escritora brasileira que virou sensação com romance sobre os neandertais: 'Já tive empregos horríveis, estar no meu quarto escrevendo é libertador'",
+    "d": "Escritora de Brasília (DF) lançou neste ano \"Os Imortais\", livro sobre um grupo de neandertais e seu encontro com os homo sapiens e a luta pela sobrevivência que se tornou um dos destaques de 2026 e tem traduções prev…",
+    "link": "https://www.bbc.com/portuguese/articles/cwm24k534kr4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T14:52:29.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+    "d": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’ “One of you needs to be on the lookout for cops, while…",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+    "time": "2026-11-07T14:00:12.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "BC paraguaio diz que devolveu dinheiro de 1,2 milhão de correntistas do banco Ueno",
+    "d": "Crise financeira no Paraguai afeta milhares de brasileiros que vivem no país e que trabalham em regiões de fronteira O Banco Central do Paraguai (BCP) declarou neste sábado (7) que 1.196.000 correntistas do Banco Ueno…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/07/bc-paraguaio-diz-que-devolveu-dinheiro-de-12-milhao-de-correntistas-do-banco-ueno.ghtml",
+    "time": "2026-11-07T14:00:04.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
-    "d": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellw…",
+    "h": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+    "d": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-…",
+    "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+    "time": "2026-11-07T13:48:18.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
+    "d": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master? Bloomberg via Getty Images, via BBC A liquidação do banco Ueno desencadeou uma forte crise política no Paraguai,…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/07/ueno-bank-escandalo-que-levou-a-queda-do-presidente-do-paraguai-pode-ser-comparado-ao-do-banco-master.ghtml",
+    "time": "2026-11-07T13:40:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
+    "d": "Crescimento rápido, exposição relevante de recursos públicos e relações próximas com o mundo político estão entre as semelhanças dos dois casos. Mas analistas apontam diferenças relevantes",
+    "link": "https://www.bbc.com/portuguese/articles/c6eq33z529jwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T13:26:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "New Zealand election coalition talks will likely take weeks – as it happened",
+    "d": "This blog is closed, you can read our report on the New Zealand election here Another update here with 8% of the vote counted. National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5…",
     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-    "time": "2026-11-07T10:34:30.000Z"
+    "time": "2026-11-07T13:12:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "d": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T12:49:36.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Piloto da Fórmula 1 visita Red Bull Bragantino: “Eu seria um meia ofensivo”",
-    "d": "Yuki Tsunoda participou de desafios com jogadores, arriscou dribles e tentou marcar um gol olímpico durante visita ao clube",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/piloto-da-formula-1-visita-red-bull-bragantino-eu-seria-um-meia-ofensivo/",
-    "time": "2026-11-07T10:30:50.000Z"
+    "src": "G1",
+    "h": "Gonet pede ao STF suspensão de ações contra MP do fim das bets até Corte decidir sobre proibição",
+    "d": "O procurador-geral da República, Paulo Gonet, pediu ao Supremo Tribunal Federal (STF) a suspensão, em todo o país, de processos judiciais que discutem a constitucionalidade da medida provisória (MP) que proibiu o func…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/07/gonet-pede-ao-stf-suspensao-de-acoes-contra-mp-do-fim-das-bets-ate-corte-decidir-sobre-proibicao.ghtml",
+    "time": "2026-11-07T12:20:24.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula 4 precisará se envolver mais com o Centrão, diz especialista",
-    "d": "Ao WW, o vice-presidente da Arko Advice, Cristiano Noronha, avalia desafios de Lula no Congresso, onde a direita conquistou maioria na Câmara e no Senado nas eleições de 2026",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-4-precisara-se-envolver-mais-com-o-centrao-diz-especialista/",
-    "time": "2026-11-07T10:30:33.000Z"
+    "src": "BBC News Brasil",
+    "h": "A nomeação de assessor para cargo na Casa Branca que indica endurecimento de Trump após eleição",
+    "d": "A promoção de Jason Miller, um partidário leal e influente, para o cargo de chefe de gabinete pelo presidente dos EUA, provavelmente criará conflitos com o Congresso.",
+    "link": "https://www.bbc.com/portuguese/articles/cqrmyymgjexvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T11:50:19.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arsenal x Hull City: horário e onde assistir ao jogo da Premier League",
-    "d": "Equipes vão a campo neste sábado (7), no Arsenal Stadium, em Londres, às 12h (de Brasília), em partida válida pela décima rodada da competição inglesa",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/arsenal-x-hull-city-horario-e-onde-assistir-ao-jogo-da-premier-league/",
-    "time": "2026-11-07T10:30:16.000Z"
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Trump may have lost but don’t bet Democrats can fix the economy",
+    "d": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost…",
+    "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+    "time": "2026-11-07T11:00:08.000Z"
   },
   {
     "cat": "brasil",
@@ -40,70 +216,6 @@
     "time": "2026-11-07T10:26:56.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Veja o que o Atlético-MG precisa fazer para ir à final da Copa do Brasil",
-    "d": "Galo perdeu por por 2 a 0 para o Grêmio e busca reverter o resultado na Arena MRV, em Belo Horizonte (MG)",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/veja-o-que-o-atletico-mg-precisa-fazer-para-ir-a-final-da-copa-do-brasil/",
-    "time": "2026-11-07T10:00:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo x Bahia: horário e onde assistir o jogo da Copa do Brasil Feminina",
-    "d": "Equipes vão a campo neste sábado (7), às 21h30, no Luso Brasileiro, no Rio de Janeiro. O confronto é valido pela decisão das semifinais da competição nacional",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/flamengo-x-bahia-horario-e-onde-assistir-o-jogo-da-copa-do-brasil-feminina/",
-    "time": "2026-11-07T10:00:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "O que faz um bom atendimento em uma seguradora? Loovi explica o que avaliar",
-    "d": "Clareza na venda, assistência 24h que funciona e regulação do sinistro dentro do prazo legal definem um bom atendimento em seguradora; veja o que a lei garante ao segurado, como avaliar a empresa antes de contratar e…",
-    "link": "https://www.cnnbrasil.com.br/economia/o-que-faz-um-bom-atendimento-em-uma-seguradora-loovi-explica-o-que-avaliar/",
-    "time": "2026-11-07T10:00:30.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Estratégia de hedge pode proteger patrimônio contra variações do mercado",
-    "d": "Ferramenta atua como um seguro para investimentos e ajuda a minimizar o impacto de oscilações em taxas e ativos",
-    "link": "https://www.cnnbrasil.com.br/economia/investimentos/estrategia-de-hedge-pode-proteger-patrimonio-contra-variacoes-do-mercado/",
-    "time": "2026-11-07T10:00:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Não temos nada”: No Iêmen, mulheres coletam plástico para sobreviver",
-    "d": "Agências de ajuda humanitária alertam que nova onda de violência no Iêmen está agravando rapidamente as condições em um país que já enfrenta uma das piores crises humanitárias do mundo",
-    "link": "https://www.cnnbrasil.com.br/internacional/nao-temos-nada-no-iemen-mulheres-coletam-plastico-para-sobreviver/",
-    "time": "2026-11-07T10:00:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Custo de produção do hidrogênio sobe 26,9% no país em um ano, aponta Cela",
-    "d": "Alta teve pressão decorrente do custo da energia elétrica, responsável por quase 80% da alta",
-    "link": "https://www.cnnbrasil.com.br/infra/custo-de-producao-do-hidrogenio-sobe-269-no-pais-em-um-ano-aponta-cela/",
-    "time": "2026-11-07T10:00:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Proposta de Salabert: “Não existe almoço grátis”, diz Instituto",
-    "d": "Entidade aponta aumento do custo da hora trabalhada e possíveis impactos sobre pequenos negócios e empregos formais",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/proposta-de-salabert-nao-existe-almoco-gratis-diz-instituto/",
-    "time": "2026-11-07T09:42:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rodada da Série B pode definir campeão, acessos e rebaixamento; entenda",
-    "d": "Novorizontino pode garantir título antecipado, Juventude busca acesso à elite e Avaí luta contra o rebaixamento na penúltima rodada",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/rodada-da-serie-b-pode-definir-campeao-acessos-e-rebaixamento-entenda/",
-    "time": "2026-11-07T09:30:09.000Z"
-  },
-  {
     "cat": "economia",
     "src": "BBC News Brasil",
     "h": "Debate sobre juros tem tudo a ver com mobilização juvenil e popular que levou Lula à vitória, diz André Singer",
@@ -112,12 +224,12 @@
     "time": "2026-11-07T09:29:22.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Queda de Santiago Peña foi um golpe político “palaciano”, diz especialista",
-    "d": "No WW, economista e cientista político Víctor Raúl Benítez afirma que Horacio Cartes e Pedro Alliana foram os articuladores da queda de Santiago Peña no Paraguai",
-    "link": "https://www.cnnbrasil.com.br/internacional/queda-de-santiago-pena-foi-um-golpe-politico-palaciano-diz-especialista/",
-    "time": "2026-11-07T09:26:31.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Texas mayor instructs police to limit co-operation with ICE",
+    "d": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+    "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T08:15:55.000Z"
   },
   {
     "cat": "economia",
@@ -134,6 +246,14 @@
     "d": "Canavial na região de Ribeirão Preto (SP). Luciano Tolentino/EPTV O preço internacional do açúcar subiu 28,8% em outubro na comparação com o mesmo mês do ano passado, enquanto os preços globais dos alimentos recuaram.…",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/07/acucar-acumula-alta-de-quase-30percent-em-um-ano-enquanto-alimentos-ficam-mais-baratos-aponta-fao.ghtml",
     "time": "2026-11-07T08:00:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+    "d": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-07T07:27:44.000Z"
   },
   {
     "cat": "internacional",
@@ -195,7 +315,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro",
-    "d": "A divulgação da estimativa de alíquota da Contribuição Sobre Bens e Serviços (CBS) – o futuro imposto sobre consumo do governo federal no âmbito da reforma tributária – gerou uma onda de críticas de representantes do…",
+    "d": "O que é o 'imposto do pecado' e como ele vai funcionar? A divulgação da estimativa de alíquota da Contribuição Sobre Bens e Serviços (CBS) – o futuro imposto sobre consumo do governo federal no âmbito da reforma tribu…",
     "link": "https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml",
     "time": "2026-11-07T03:00:00.000Z"
   },
@@ -224,28 +344,12 @@
     "time": "2026-11-07T01:55:11.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3082 acumula e prêmio vai a R$ 60 milhões; confira os números sorteados",
-    "d": "Mega-Sena, concurso 3082: confira os números sorteados O sorteio do concurso 3.082 da Mega-Sena foi realizado na noite desta sexta-feira (6), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era d…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/06/mega-sena-concurso-3082-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-11-07T00:26:25.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Santiago Peña é preso em casa após sofrer impeachment no Paraguai",
     "d": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
     "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-07T00:10:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-    "d": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-    "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-06T23:46:08.000Z"
   },
   {
     "cat": "brasil",
@@ -264,22 +368,6 @@
     "time": "2026-11-06T23:24:15.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "PIX fora do ar? Usuários reclamam de instabilidade; Banco Central diz que problema foi resolvido",
-    "d": "Polícia mapeou valor do prejuízo após analisar transferências via PIX do suspeito Bruno Peres/Agência Brasil/Arquivo Usuários tiveram dificuldades para fazer transferências por PIX no início da noite desta sexta-feira…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/06/pix-fora-do-ar-quase-10-mil-usuarios-relatam-dificuldades-em-bancos.ghtml",
-    "time": "2026-11-06T22:51:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Papa no Uruguai, Argentina e Peru: como a Igreja Católica tem se posicionado na América Latina?",
-    "d": "O papa Leão 14º volta a pisar em solo latino-americano nesta sexta-feira (6/11), três anos depois de deixar o Peru e se transferir para Roma. E ele encontrará uma região bastante diferente, do ponta de vista político.",
-    "link": "https://www.bbc.com/portuguese/articles/cv0ldd4dj27po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-06T22:44:20.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "É #FAKE que votos de Lula nas eleições superaram total de habitantes em cidades do Brasil; vídeo foi fabricado com IA",
@@ -296,36 +384,12 @@
     "time": "2026-11-06T22:01:56.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Paraguai começa a devolver dinheiro a clientes do Ueno Bank",
-    "d": "Crise financeira no Paraguai afeta milhares de brasileiros que vivem no país e que trabalham em regiões de fronteira O Banco Central do Paraguai começou a pagar na tarde de quinta-feira (5) os primeiros valores a clie…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/06/paraguai-comeca-a-devolver-dinheiro-a-clientes-de-banco-em-crise.ghtml",
-    "time": "2026-11-06T21:24:47.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-    "d": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms…",
-    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-    "time": "2026-11-06T21:23:54.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "AI stocks climb after trillions wiped from market values",
     "d": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-06T21:06:25.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como cultura machista dos anos 2000 que 'embalou' Russell Brand, agora condenado por estupro",
-    "d": "O comportamento que serviu de pano de fundo para o processo contra Brand também ajudou a projetá-lo, escreve Katie Razzall, editora de mídia da BBC.",
-    "link": "https://www.bbc.com/portuguese/articles/c63ell03l5wgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-06T20:40:46.000Z"
   },
   {
     "cat": "brasil",
@@ -384,28 +448,12 @@
     "time": "2026-11-06T17:44:02.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Pai de Meghan Markle é preso sob suspeita de posse de material de abuso sexual infantil",
-    "d": "Ele foi detido na Flórida, nos Estados Unidos. Ainda não está claro se a duquesa de Sussex foi informada sobre a prisão.",
-    "link": "https://www.bbc.com/portuguese/articles/c34g11eerrpno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-06T17:12:08.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
     "d": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a sing…",
     "link": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
     "time": "2026-11-06T17:04:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-    "d": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-06T16:51:01.000Z"
   },
   {
     "cat": "brasil",
@@ -430,14 +478,6 @@
     "d": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
     "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-06T15:33:52.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Judge blocks construction of Trump's massive arch after federal agency approval",
-    "d": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-    "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-06T15:30:42.000Z"
   },
   {
     "cat": "internacional",
@@ -472,28 +512,12 @@
     "time": "2026-11-06T13:42:26.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula faz primeiros acenos concretos na direção de ajuste fiscal e alinha discurso com propostas de Durigan",
-    "d": "Lula alinha discurso com propostas de Durigan sobre ajuste fiscal Após relutar em seguir o tempo do mercado, o presidente Lula fez os primeiros acenos concretos na direção de adotar um ajuste fiscal, comprometendo-se…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/06/lula-faz-primeiros-acenos-concretos-na-direcao-de-ajuste-fiscal-e-alinha-discurso-com-propostas-de-durigan.ghtml",
-    "time": "2026-11-06T13:19:14.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
     "d": "Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last mon…",
     "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
     "time": "2026-11-06T13:03:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian extremist group denies sending hoax bomb threats",
-    "d": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-06T12:51:38.000Z"
   },
   {
     "cat": "internacional",
@@ -510,14 +534,6 @@
     "d": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort…",
     "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
     "time": "2026-11-06T12:38:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fazenda: ajuste fiscal sem estelionato eleitoral",
-    "d": "Fazenda: ajuste fiscal sem estelionato eleitoral A avaliação entre interlocutores de Luiz Inácio Lula da Silva (PT) é que o início do quarto mandato exigirá um ajuste fiscal, com ênfase na contenção e revisão de despe…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/06/fazenda-ajuste-fiscal-sem-estelionato-eleitoral.ghtml",
-    "time": "2026-11-06T12:15:59.000Z"
   },
   {
     "cat": "economia",
@@ -542,14 +558,6 @@
     "d": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial cr…",
     "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
     "time": "2026-11-06T06:16:22.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "BBC News Brasil",
-    "h": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
-    "d": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
-    "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-05T23:19:37.000Z"
   },
   {
     "cat": "economia",
@@ -630,21 +638,5 @@
     "d": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesda…",
     "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
     "time": "2026-11-03T22:18:45.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Apple warns of ‘unprecedented’ rise in memory chip prices",
-    "d": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it batt…",
-    "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
-    "time": "2026-11-03T09:01:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "‘The content creator election’: digital streamers and TV networks face off for midterms coverage",
-    "d": "Journalists such as Jim Acosta and Scott MacFarlane are now competing against their former employers for eyeballs On Tuesday, for the first time in more than 20 years, Jim Acosta, a former CNN stalwart, will not be wo…",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage",
-    "time": "2026-11-02T11:00:41.000Z"
   }
 ]
