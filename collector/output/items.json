@@ -1,43 +1,331 @@
 [
   {
     "cat": "brasil",
+    "src": "G1",
+    "h": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje",
+    "d": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje O governo defende que o projeto vai estabilizar a dívida pública e preservar os compromissos assumidos pelo presidente Lula durante…",
+    "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+    "time": "2026-11-12T22:46:22.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Caixa sofre ataque hacker que afeta 7,6 milhões de clientes",
-    "d": "Comunicado informa que incidente atingiu a base cadastral da Caixa Vida e Previdência, que inclui clientes e ex-clientes",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/caixa-sofre-ataque-hacker-que-afeta-76-milhoes-de-clientes/",
-    "time": "2026-11-12T17:09:05.000Z"
+    "h": "Abaixo-assinado contra medalha a Eduarda Campopiano tem 300 mil assinaturas",
+    "d": "Mobilização contesta a concessão de homenagem da Câmara do Rio para deputada estadual do PL, eleita por São Paulo",
+    "link": "https://www.cnnbrasil.com.br/politica/abaixo-assinado-contra-medalha-a-eduarda-campopiano-tem-300-mil-assinaturas/",
+    "time": "2026-11-12T22:29:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sessão do Senado para debater ajuste fiscal tem bate-boca entre senadores",
+    "d": "Argumento do senador Magno Malta é de que não seria possível votar o projeto imediatamente após a aprovação da urgência; Alcolumbre negou os pedidos de adiamento e foi chamado de \"ditador\"",
+    "link": "https://www.cnnbrasil.com.br/politica/sessao-do-senado-para-debater-ajuste-fiscal-tem-bate-boca-entre-senadores/",
+    "time": "2026-11-12T22:28:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Hackers norte-coreanos roubaram US$ 400 milhões em criptomoedas, diz FBI",
+    "d": "Criminosos utilizaram imagens de pessoas que foram captadas secretamente para, em seguida, atacar os contatos desses mesmos indivíduos – prática que as autoridades americanas chamaram de “FaceStealer”.",
+    "link": "https://www.cnnbrasil.com.br/internacional/hackers-norte-coreanos-roubaram-us-400-milhoes-em-criptomoedas-diz-fbi/",
+    "time": "2026-11-12T22:27:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pedro Sánchez, primeiro-ministro da Espanha, lança campanha eleitoral",
+    "d": "Evento contou com discurso da primeira-dama Begoña Gómez; primeiro-ministro convocou votação antecipada em tentativa de fortalecer mandato, após Parlamento ter rejeitado os principais decretos habitacionais do governo",
+    "link": "https://www.cnnbrasil.com.br/internacional/pedro-sanchez-primeiro-ministro-da-espanha-lanca-campanha-eleitoral/",
+    "time": "2026-11-12T22:25:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como casal de atores da Globo deixou a cidade para morar em sítio com cabana de 72 m² nas montanhas de Minas Gerais",
+    "d": "Yanna Lavigne decidiu viver no interior de Minas Gerais com a família e transformou parte da propriedade em um projeto de hospedagem cercado pela natureza",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/como-casal-de-atores-da-globo-deixou-a-cidade-para-morar-em-sitio-com-cabana-de-72-m2-nas-montanhas-de-minas-gerais/",
+    "time": "2026-11-12T22:19:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump diz que é “cedo demais” para dizer se apoiará sucessor em 2028",
+    "d": "Presidente dos Estados Unidos disse que os debates presidenciais republicanos sobre quem o substituirá deveriam começar daqui a um ano",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-e-cedo-demais-para-dizer-se-apoiara-sucessor-em-2028/",
+    "time": "2026-11-12T22:17:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Parcial Enquete “A Fazenda”: após reviravolta, peão perde força e deve sair",
+    "d": "Daniel Erthal, Murilo Dias e Tina Calamba disputam a preferência do público; vote na enquete da CNN Brasil quem você quer que continue no reality",
+    "link": "https://www.cnnbrasil.com.br/pop/realities/parcial-enquete-a-fazenda-apos-reviravolta-peao-perde-forca-e-deve-sair/",
+    "time": "2026-11-12T22:17:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nunes Marques mantém afastamento de Buzzi, mas permite pagamento de salário",
+    "d": "Ministro autorizou preenchimento de vaga aberta no STJ; salário foi mantido até STF dar palavra final sobre perda do cargo",
+    "link": "https://www.cnnbrasil.com.br/politica/nunes-marques-mantem-afastamento-de-buzzi-mas-permite-pagamento-de-salario/",
+    "time": "2026-11-12T22:13:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vendas de materiais de construção devem recuar mais em 2026, diz Abramat",
+    "d": "Este foi terceiro corte nas expectativas para este ano; previsão inicial da associação era de alta de 1,9% nas vendas da indústria",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/vendas-de-materiais-de-construcao-devem-recuar-mais-em-2026-diz-abramat/",
+    "time": "2026-11-12T22:11:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cyrela registra lucro de R$ 481 milhões no 3° trimestre, queda de 21%",
+    "d": "Despesas comerciais atingiram R$ 308 milhões, expansão de 30%, movimento atribuído ao crescimento do item estande de vendas, enquanto as despesas gerais e administrativas foram de R$ 138 milhões, alta de 5%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/cyrela-registra-lucro-de-r-481-milhoes-no-3-trimestre-queda-de-21/",
+    "time": "2026-11-12T22:07:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Lucro da Copel cresce 79,7% no 3º trimestre, para R$ 688,4 milhões",
+    "d": "Distribuição impulsionou o resultado operacional; Ebitda recorrente avançou 35%, para R$ 1,81 bilhão",
+    "link": "https://www.cnnbrasil.com.br/infra/lucro-da-copel-cresce-797-no-3o-trimestre-para-r-6884-milhoes/",
+    "time": "2026-11-12T22:07:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tereza Cristina e Farsul criticam Banco do Brasil sobre inadimplência",
+    "d": "Entidades e a senadora contestam que a alta de dívidas no campo seja culpa da falta de disposição de pagamento dos produtores rurais",
+    "link": "https://www.cnnbrasil.com.br/agro/tereza-cristina-e-farsul-criticam-banco-do-brasil-sobre-inadimplencia/",
+    "time": "2026-11-12T22:06:37.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "China rules out hosting Cop33 climate summit in 2028",
+    "d": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field op…",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+    "time": "2026-11-12T22:00:15.000Z"
   },
   {
     "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Congresso libera 149,4 bi para governo custear Previdência e Bolsa Família",
-    "d": "Em sessão conjunta, parlamentares da Câmara e do Senado também aprovaram créditos para ministérios, órgãos federais e recursos para Angra 3",
-    "link": "https://www.cnnbrasil.com.br/politica/congresso-libera-1494-bi-para-governo-custear-previdencia-e-bolsa-familia/",
-    "time": "2026-11-12T17:04:16.000Z"
+    "src": "The Guardian",
+    "h": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+    "d": "This live blog is now closed. Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged vot…",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "time": "2026-11-12T21:33:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Search for British woman missing from Tui cruise in Atlantic called off",
+    "d": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T21:27:21.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PR: CEO de franquia odontológica vira réu por assassinar diretor da empresa",
-    "d": "De acordo com a denúncia do Ministério Público, oferecida em junho deste ano, e aceita pela Justiça do Paraná nesta terça (10), Oseias foi o mandante e o financiador do homicídio qualificado",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/pr-ceo-de-franquia-odontologica-vira-reu-por-assassinar-diretor-da-empresa/",
-    "time": "2026-11-12T17:02:56.000Z"
+    "src": "BBC News Brasil",
+    "h": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC",
+    "d": "Relatório interno do governo obtido pela reportagem já apontava publicidade irregular nas plataformas da empresa; BBC identificou novas peças após a proibição.",
+    "link": "https://www.bbc.com/portuguese/articles/cw4gnvzzdjr7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T21:18:29.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Militar russo morre após explosão de carro em São Petersburgo",
-    "d": "Autoridades investigam caso como homicídio e apuram suspeita de envolvimento de um artefato instalado sob o veículo",
-    "link": "https://www.cnnbrasil.com.br/internacional/militar-russo-morre-apos-explosao-de-carro-em-sao-petersburgo/",
-    "time": "2026-11-12T17:00:44.000Z"
+    "src": "BBC News Brasil",
+    "h": "O que se sabe de falha na Microsoft que deixou fora do ar Outlook e afetou Teams, Microsoft 365 e outras plataformas",
+    "d": "Empresa informou que registra falhas em seus servidores, após relatos de perda de conexão com serviços como Outlook, Microsoft 365 e Teams em nível mundial.",
+    "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T21:11:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+    "d": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T21:00:42.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "El Niño mantém influência no Oceano Pacífico e deve continuar com intensidade “muito forte” até março de 2027, diz agência climática dos EUA",
-    "d": "Previsão da NOAA indica mais de 73% de chance de o fenômeno ser o mais intenso; evento pode superar os efeitos de 1950",
-    "link": "https://www.cnnbrasil.com.br/ciencia/el-nino-mantem-influencia-no-oceano-pacifico-e-deve-continuar-com-intensidade-muito-forte-ate-marco-de-2027-diz-agencia-climatica-dos-eua/",
-    "time": "2026-11-12T16:56:22.000Z"
+    "src": "BBC News Brasil",
+    "h": "Mãe de menino brasileiro que teve dedo mutilado em Portugal contesta resultado de investigação: 'É como se a vida do meu filho não valesse de nada'",
+    "d": "Família contesta conclusão de investigação oficial que descartou bullying e classificou o caso como acidente e aguarda desfecho de processos judiciais.",
+    "link": "https://www.bbc.com/portuguese/articles/ck0jxpxl6q24o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T20:55:16.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ministério da Saúde abre processo seletivo com centenas de vagas e salários de até R$ 10,3 mil",
+    "d": "Sede do Ministério da Saúde em Brasília Rodrigo Coutinho/MS O Ministério da Saúde publicou nesta quinta-feira (12) o edital de um processo seletivo simplificado para contratar profissionais de nível superior em seis á…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/ministerio-da-saude-processo-seletivo.ghtml",
+    "time": "2026-11-12T20:42:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "‘Produtor rural não é caloteiro’: setor de soja rebate Banco do Brasil sobre dívidas do agro",
+    "d": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja (Aprosoja) divulgou uma nota nesta quinta-feira (12) criticando declarações da direção…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
+    "time": "2026-11-12T20:40:36.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "d": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T20:09:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "STF decide que norma que absolve crime patrimonial contra mulher é incompatível com a Constituição",
+    "d": "O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (11), por unanimidade, que é incompatível com a Constituição dispositivo do Código Penal que isentava de pena quem cometia crime patrimonial contra a mulher…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-decide-que-norma-que-absolve-crime-patrimonial-contra-mulher-e-incompativel-com-a-constituicao.ghtml",
+    "time": "2026-11-12T19:53:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
+    "d": "Novela 'Lá na Minha Terra' tem sido criticada por associar Nordeste ao sertão seco e pobre. Autor diz que o folhetim reforça estereótipos e argumenta que os efeitos dessa representação são práticos na vida dos nordest…",
+    "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T19:35:47.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz agência",
+    "d": "Ex-CEO da Nvidia teria mantido terceiro relacionamento extraconjugal, diz imprensa O ex-presidente-executivo da Nvidia, Jensen Huang, teria mantido mais um relacionamento íntimo com outra funcionária da empresa, segun…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/ceo-nvidia-caso.ghtml",
+    "time": "2026-11-12T19:34:08.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "d": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T19:23:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia",
+    "d": "Os desafios de suceder Huang na Nvidia A polêmica que levou à renúncia do CEO da Nvidia, Jensen Huang, nesta quinta-feira (12) envolve um pequeno componente: o chip H200, um dos mais avançados da empresa americana e s…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml",
+    "time": "2026-11-12T19:15:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "d": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T18:47:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Outlook fora do ar? Serviço de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
+    "d": "Microsoft Outlook é um sistema de software de gerenciamento de informações pessoais da Microsoft Gonzalo Fuentes/ Reuters Usuários relataram dificuldades para acessar alguns serviços da Microsoft, como o Outlook, na t…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml",
+    "time": "2026-11-12T18:40:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula embarca para Filipinas para participar de cúpula e ampliar mercado brasileiro na Ásia",
+    "d": "COP 31: Lula fica de fora do segundo dia da cúpula de lideranças mundiais O presidente Luiz Inácio Lula da Silva (PT) embarcou nesta quinta-feira (12) para as Filipinas para participar da cúpula da Associação de Naçõe…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-embarca-para-filipinas-para-participar-de-cupula-e-ampliar-mercado-brasileiro-na-asia.ghtml",
+    "time": "2026-11-12T18:37:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "STF mantém afastamento de Marco Buzzi do STJ após acusação de assédio, mas mantém salário",
+    "d": "O ministro Nunes Marques, do Supremo Tribunal Federal (STF), manteve o afastamento do ministro Marco Buzzi determinado pelo Superior Tribunal de Justiça (STJ), mas negou a suspensão do pagamento do salário. Em outra f…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-mantem-afastamento-de-marco-buzzi-do-stj-apos-acusacao-de-assedio-mas-mantem-salario.ghtml",
+    "time": "2026-11-12T18:35:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "As acusações de 'festas sexuais em troca de contratos' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
+    "d": "Uma mulher acusa o ex-presidente Gustavo Petro de ter fornecido contratos com o Estado colombiano em troca de favores sexuais.",
+    "link": "https://www.bbc.com/portuguese/articles/cm174ll0nvj9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T18:18:24.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Crise na Nvidia: fortuna de Jensen Huang encolhe quase US$ 33 bilhões em novembro",
+    "d": "Como uma traição envolveu o CEO da Nvidia em investigação de espionagem O ex-presidente-executivo da Nvidia, Jensen Huang, perdeu US$ 32,9 bilhões (cerca de R$ 181 bilhões) de sua fortuna desde 1º de novembro, segundo…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/crise-na-nvidia-fortuna-de-jensen-huang-encolhe-em-novembro.ghtml",
+    "time": "2026-11-12T17:57:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil",
+    "d": "Logo da Uber é visto nesta ilustração tirada em 5 de agosto de 2025. REUTERS/Dado Ruvic/Ilustração/Foto de arquivo A Justiça do Trabalho determinou a suspensão, em todo o Brasil, da cobrança do “Passe para Motoristas”…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/12/justica-suspende-cobranca-de-taxa-da-uber-para-motoristas.ghtml",
+    "time": "2026-11-12T17:54:07.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+    "d": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s…",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+    "time": "2026-11-12T17:50:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "CNU: governo prevê convocar 1,3 mil aprovados na primeira edição ainda em 2026",
+    "d": "Ministra afirmou que governo avalia possíveis convocações adicionais de outros certames ainda em 2026. Diego Campos/Secom O governo federal prevê convocar mais candidatos aprovados em concursos públicos ainda em 2026.…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/concurso-governo-cnpu.ghtml",
+    "time": "2026-11-12T17:43:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'É um escárnio', diz Cleitinho sobre licitação de R$ 6 milhões para celulares no Senado",
+    "d": "Senador Cleitinho Azevedo (Republicanos-MG) critica licitação de R$6 mi para celulares no Senado O senador e governador eleito de Minas Gerais, Cleitinho (Republicanos), classificou como um \"escárnio\" a licitação do S…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/12/cleitinho-celulares-senado.ghtml",
+    "time": "2026-11-12T17:39:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Dino mantém início da escala 5x2 para 16 de dezembro e ajusta transição para permitir 42 horas semanais em 5 dias de trabalho",
+    "d": "Flávio Dino autoriza jornada de 42 horas em cinco dias na transição da escala 6x1 O ministro Flávio Dino, do Supremo Tribunal Federal (STF), concedeu uma decisão liminar nesta quinta-feira (12) autorizando que emprega…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/fim-da-escala-6x1-dino-autoriza-distribuicao-de-42-horas-semanais-em-5-dias-de-trabalho.ghtml",
+    "time": "2026-11-12T17:32:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Home sales hit 16-year low in October amid record-high mortgage rates",
+    "d": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high m…",
+    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+    "time": "2026-11-12T17:26:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fachin marca reunião com STJ e do TSE para discutir a proposta de reforma do sistema de Justiça",
+    "d": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, deve se reunir na próxima semana com ministros da Corte, além de representantes do Superior Tribunal de Justiça (STJ) e do Tribunal Superior Eleitoral (TSE…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
+    "time": "2026-11-12T17:17:07.000Z"
   },
   {
     "cat": "internacional",
@@ -46,78 +334,6 @@
     "d": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
     "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-12T16:54:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Facção que expulsava moradores de Trancoso, na Bahia, é alvo de operação",
-    "d": "Polícia Civil investiga grupo armado suspeito de retirar mais de 40 pessoas de suas casas em aldeia de Porto Seguro, no Sul do estado",
-    "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/faccao-que-expulsava-moradores-de-trancoso-na-bahia-e-alvo-de-operacao/",
-    "time": "2026-11-12T16:54:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-    "d": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T16:52:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chiclete consegue reduzir presença do HPV e bactérias ligadas ao câncer",
-    "d": "Pesquisa publicada na revista Scientific Reports identificou que uma goma feita com proteína extraída de feijão agregou até 93% dos vírus em amostras de pacientes com câncer de cabeça e pescoço",
-    "link": "https://www.cnnbrasil.com.br/saude/chiclete-consegue-reduzir-presenca-do-hpv-e-bacterias-ligadas-ao-cancer/",
-    "time": "2026-11-12T16:52:34.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-    "d": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang d…",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-    "time": "2026-11-12T16:52:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Super animado”: Enzo Fittipaldi é anunciado como piloto da Fórmula E",
-    "d": "Neto de Emerson Fittipaldi, piloto defenderá a equipe Lola na próxima temporada da categoria elétrica",
-    "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/super-animado-enzo-fittipaldi-e-anunciado-como-piloto-da-formula-e/",
-    "time": "2026-11-12T16:50:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Temporais no Brasil: entenda como El Niño influencia eventos meteorológicos",
-    "d": "Fenômeno modifica a circulação atmosférica e pode contribuir para períodos de chuva intensa e tempestades severas; ocorrência de tornados, porém, depende de condições específicas",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/temporais-no-brasil-entenda-como-el-nino-influencia-eventos-meteorologicos/",
-    "time": "2026-11-12T16:48:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Homem é preso com celular roubado de ex-marido de Ivete Sangalo em SP",
-    "d": "Empresário relatou à polícia que teve aparelho levado por um motociclista e que criminosos fizeram transferências de cerca de R$ 200 mil após o roubo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-e-preso-com-celular-roubado-de-ex-marido-de-ivete-sangalo-em-sp/",
-    "time": "2026-11-12T16:46:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Congresso aprova exceção no Orçamento para a Copa Feminina de 2027",
-    "d": "Projeto foi analisado em sessão conjunta da Câmara com Senado; governo afirma que medida não cria novas despesas, só tira travas fiscais",
-    "link": "https://www.cnnbrasil.com.br/politica/congresso-aprova-excecao-no-orcamento-para-a-copa-feminina-de-2027/",
-    "time": "2026-11-12T16:43:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Após proibição, prefeitura do Rio recolhe patinetes elétricos na cidade",
-    "d": "Apreensão começou após o fim da fase experimental do serviço, que operava na cidade desde junho de 2024; circulação dos veículos foi proibida nesta quarta-feira (11)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/apos-proibicao-prefeitura-do-rio-recolhe-patinetes-eletricos-na-cidade/",
-    "time": "2026-11-12T16:43:49.000Z"
   },
   {
     "cat": "brasil",
@@ -139,17 +355,9 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Na COP31, Lula diz que 'nenhum país' tem mais autoridade do que o Brasil para tratar de clima",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (12), durante encontro com representantes da sociedade civil na COP31, que nenhum país ou autoridade tem, segundo ele, mais autoridade que o Brasi…",
+    "d": "Lula e o ministro do Meio Ambiente, João Paulo Capobianco, em evento da COP31 Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (12), durante encontro com…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-diz-que-nenhum-pais-tem-mais-autoridade-do-que-o-brasil-para-tratar-de-clima.ghtml",
     "time": "2026-11-12T16:33:05.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-    "d": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T16:31:12.000Z"
   },
   {
     "cat": "brasil",
@@ -162,8 +370,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "Ataque hacker expõe CPFs de 7,6 milhões de clientes da Caixa; veja quais dados vazaram",
-    "d": "Agência da Caixa Econômica Federal no Centro de Mogi das Cruzes Reprodução Um ataque cibernético à Caixa Vida e Previdência, empresa investida pela Caixa Seguridade, expôs dados pessoais de clientes e ex-clientes, inc…",
+    "h": "Ataque hacker expõe CPFs de 7,6 milhões de clientes de subsidiária da Caixa; veja quais dados vazaram",
+    "d": "Caixa Vida e Previdência Reprodução/Instagram Um ataque cibernético à Caixa Vida e Previdência, empresa que tem a Caixa Seguridade entre seus acionistas, expôs dados pessoais de clientes e ex-clientes, incluindo nomes…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/caixa-ataque-dados-pix.ghtml",
     "time": "2026-11-12T16:20:29.000Z"
   },
@@ -192,22 +400,6 @@
     "time": "2026-11-12T15:40:46.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Banco do Brasil diz que parte do agro deu calote à espera de novas medidas de renegociação",
-    "d": "Banco do Brasil Divulgação A presidente do Banco do Brasil, Tarciana Medeiros, afirmou nesta quinta-feira (12) que parte dos médios e grandes produtores rurais inadimplentes decidiu não quitar nem renegociar suas dívi…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-dividas-do-agro.ghtml",
-    "time": "2026-11-12T15:33:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Crise na Nvidia: veja como o caso começou e levou à renúncia de Jensen Huang, fundador da empresa",
-    "d": "CEO da Nvidia renuncia após escândalo Uma suspeita de espionagem, casos extraconjugais e segurança nacional dos Estados Unidos colocaram a Nvidia no centro de uma crise que levou à renúncia de seu fundador, Jensen Hua…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/crise-na-nvidia-jensen-huang.ghtml",
-    "time": "2026-11-12T15:19:04.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
@@ -216,60 +408,12 @@
     "time": "2026-11-12T15:18:20.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'É o pior momento em quase 5 anos': por que as ações do Banco do Brasil derretem quase 10% na Bolsa",
-    "d": "Banco do Brasil registra lucro de R$ 1,3 bilhão, no 3º trimestre As ações do Banco do Brasil (BBAS3) lideravam as perdas do Ibovespa nesta quinta-feira (12), após a divulgação de um balanço do terceiro trimestre consi…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-ibovespa.ghtml",
-    "time": "2026-11-12T15:05:45.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Veja o que Lula disse sobre contas públicas antes de proposta de ajuste fiscal de R$ 60 bilhões",
     "d": "As falas do presidente Lula (PT) mudaram de tom ao longo dos últimos meses para responder à cobrança por ajuste fiscal. A modulação do discurso culminou com a apresentação, nessa quarta-feira (11), de proposta de um p…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-falas-ajuste-fiscal.ghtml",
     "time": "2026-11-12T14:58:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História?",
-    "d": "Fatos do passado até hoje geram polêmica pela forma como são chamados, como mostra episódio recente envolvendo um livro alterado por deputados federais.",
-    "link": "https://www.bbc.com/portuguese/articles/cqkgxd2xxe9po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T14:47:53.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Mudar a proteína ou o senador?': como anúncio eleitoral debochado turbinou virada histórica nos EUA",
-    "d": "'Escolher outra proteína?': cena do anúncio com ator que viralizou na campanha de Scott Colom Divulgação Perguntada em fevereiro de 2026 sobre o preço alto da carne bovina, a senadora republicana Cindy Hyde-Smith, do…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/mudar-a-proteina-ou-o-senador-como-anuncio-eleitoral-debochado-turbinou-virada-historica-nos-eua.ghtml",
-    "time": "2026-11-12T14:37:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Quem é Kimberly Powell, executiva da Nvidia que teria caso extraconjugal com ex-CEO a quem era subordinada",
-    "d": "Kimberly Powell, vice-presidente da área de saúde da Nvidia, que teria se relacionado com CEO da empresa. Kimberly Powell/Reprodução O ex-presidente-executivo da Nvidia, Jensen Huang, também teria mantido um relaciona…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/quem-e-kimberly-powell-executiva-da-nvidia-acusada-de-ter-um-caso-extraconjugal-com-ex-ceo-da-empresa.ghtml",
-    "time": "2026-11-12T14:30:39.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Escândalo na Nvidia: quem é Colette Kress, que assume presidência no lugar de Jensen Huang",
-    "d": "Colette Kress, nova CEO da Nvidia Reprodução/Nvidia Após a renúncia de Jensen Huang, a atual vice-presidente executiva e diretora financeira, Colette Kress, assumirá o comando interinamente da Nvidia, segundo anunciou…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/escandalo-na-nvidia-quem-e-colette-kress-que-assume-presidencia-no-lugar-de-jensen-huang.ghtml",
-    "time": "2026-11-12T14:21:54.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ações da Nvidia despencam após renúncia de Jensen Huang em meio a suspeitas de espionagem chinesa",
-    "d": "CEO da Nvidia renuncia após escândalo As ações da Nvidia, gigante americana do setor de chips, abriram o pregão desta quinta-feira (12) em forte queda na Nasdaq, bolsa de Nova York que concentra grandes empresas de te…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/acoes-nvidia-queda-bolsa-eua.ghtml",
-    "time": "2026-11-12T14:19:29.000Z"
   },
   {
     "cat": "brasil",
@@ -288,44 +432,12 @@
     "time": "2026-11-12T13:58:49.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Mais de 400 políticos e personalidades assinam carta de repúdio contra vídeo que expõe FHC",
-    "d": "Wesley Oliveira fez vídeo de visita à residência de Fernando Henrique Cardoso Reprodução/TikTok Mais de 400 pessoas assinaram uma nota de repúdio à exposição pública do ex-presidente Fernando Henrique Cardoso (FHC) em…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/mais-de-400-pessoas-assinam-carta-de-repudio-apos-influenciador-expor-intimidade-do-ex-presidente-fernando-henrique-cardoso-nas-redes-sociais.ghtml",
-    "time": "2026-11-12T13:27:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula não pode carregar crise da PF para futuro Ministério da Segurança Pública, avaliam aliados",
-    "d": "A crise na Polícia Federal virou um problema para o presidente Lula na montagem do seu futuro ministério. Assessores presidenciais avaliam que o presidente não pode \"carregar\" a crise atual da PF para dentro do Minist…",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/12/lula-nao-pode-carregar-crise-da-pf-para-futuro-ministerio-da-seguranca-publica-avaliam-assessores.ghtml",
-    "time": "2026-11-12T13:21:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
     "d": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI…",
     "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
     "time": "2026-11-12T13:14:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula discute guerra e Estreito de Ormuz com presidente do Irã; veja balanço das reuniões na COP31",
-    "d": "Lula se reúne com o presidente do Irã, Masoud Pezeshkian. Ricardo Stuckert/PR O presidente Luiz Inácio Lula da Silva (PT) teve uma reunião nesta quinta-feira (12) com o presidente do Irã, Masoud Pezeshkian. O encontro…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-discute-guerra-e-estreito-de-ormuz-com-presidente-do-ira-veja-balanco-das-reunioes-na-cop31.ghtml",
-    "time": "2026-11-12T13:11:15.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-    "d": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-    "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T13:02:46.000Z"
   },
   {
     "cat": "internacional",
@@ -336,60 +448,12 @@
     "time": "2026-11-12T12:56:55.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "d": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T12:39:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Defesa de Daniel Vorcaro critica parecer da PGR e volta a pedir soltura do ex-banqueiro",
-    "d": "A defesa do ex-dono do Banco Master Daniel Vorcaro divulgou nesta quinta-feira (12) uma nota na qual critica a manifestação da Procuradoria-Geral da República (PGR) favorável à manutenção da prisão preventiva do empre…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/defesa-de-daniel-vorcaro-critica-parecer-da-pgr-e-volta-a-pedir-soltura-do-ex-banqueiro.ghtml",
-    "time": "2026-11-12T12:33:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "ANÁLISE: O impasse é na PF, mas a solução está no STF",
-    "d": "Análise: O impasse é na PF, mas a solução está no STF Setores da Polícia Federal (PF) avaliam que a saída para a crise na corporação em torno da investigação do Banco Master depende do Supremo Tribunal Federal (STF).…",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/12/analise-pf-stf-caso-master.ghtml",
-    "time": "2026-11-12T12:22:57.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
     "d": "O jornalista Santiago Roncagliolo descreve o papa Leão 14 como um religioso preocupado com seus fiéis, mas também como um investigador perspicaz e implacável de abusos.",
     "link": "https://www.bbc.com/portuguese/articles/cvkg5jklzxr5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-12T12:21:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Malévola, Léo Neiff e ex-BBB: veja influencers que divulgavam bets e tiveram perfis derrubados",
-    "d": "Malévola, Paulo Augusto e Leo Naiff estão entre os influenciadores que tiveram seus perfis bloqueados. Reprodução/Redes Sociais Perfis de influenciadores que divulgavam plataformas de apostas ilegais foram retirados d…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/malevola-leo-neiff-e-ex-bbb-veja-influencers-que-divulgavam-bets-e-tiveram-perfis-derrubados.ghtml",
-    "time": "2026-11-12T11:50:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fachin e Gilmar Mendes pressionam Fux e Nunes Marques para destravar proposta que veta delegados em gabinetes do STF",
-    "d": "Em meio à crise instalada na Polícia Federal (PF) com o afastamento de delegados que atuaram no caso Master, o presidente do Supremo Tribunal Federal (STF), Edson Fachin, e o ministro Gilmar Mendes tentam avançar com…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/fachin-e-gilmar-mendes-pressionam-fux-e-nunes-marques-para-destravar-proposta-que-veta-policiais-em-gabinetes-do-stf.ghtml",
-    "time": "2026-11-12T11:40:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi'",
-    "d": "Cherise Gordon-Doyley estava em trabalho de parto havia nove horas em um hospital na Flórida quando, de repente, foi obrigada a participar de uma audiência online com um juiz sobre como daria à luz sua filha. Ela foi…",
-    "link": "https://www.bbc.com/portuguese/articles/c8qlq3pe62xpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T11:28:24.000Z"
   },
   {
     "cat": "internacional",
@@ -403,17 +467,9 @@
     "cat": "economia",
     "src": "The Guardian",
     "h": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
-    "d": "Rallies take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are holding rallies at over 40 college campuse…",
+    "d": "Rallies will take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are planning rallies at over 40 college c…",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
     "time": "2026-11-12T11:00:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "British woman missing from cruise ship in Atlantic",
-    "d": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T10:13:35.000Z"
   },
   {
     "cat": "brasil",
@@ -456,14 +512,6 @@
     "time": "2026-11-11T22:07:37.000Z"
   },
   {
-    "cat": "comercio",
-    "src": "BBC News Brasil",
-    "h": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
-    "d": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
-    "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-11T20:53:39.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "As 'armadilhas' que Lula terá de desarmar na política externa já a partir do ano que vem",
@@ -478,22 +526,6 @@
     "d": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina,…",
     "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
     "time": "2026-11-11T19:00:33.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A bolha de IA vai estourar? O que pensa um Nobel de Economia",
-    "d": "Daron Acemoglu, do MIT, acredita que uma possível correção da rota do liberalismo passa pela construção de uma IA 'pró-trabalhadores'",
-    "link": "https://www.bbc.com/portuguese/watch/cr9d71xnwv83o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-11T17:10:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O 'teste de gentileza' que CEO de Duolingo aplica para contratar altos executivos",
-    "d": "Diretor da Duolingo revelou pagar motoristas para avaliar candidatos a cargos de liderança. Especialistas em recrutamento avaliam o que esse tipo de sinal informal realmente diz — e o que não diz — sobre caráter no tr…",
-    "link": "https://www.bbc.com/portuguese/articles/c23x8zn0vzro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-11T16:26:05.000Z"
   },
   {
     "cat": "internacional",
@@ -544,14 +576,6 @@
     "time": "2026-11-11T08:31:43.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-    "d": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, a…",
-    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-    "time": "2026-11-11T05:33:27.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
@@ -574,14 +598,6 @@
     "d": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of it…",
     "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
     "time": "2026-11-10T19:01:33.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-    "d": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation, short…",
-    "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-    "time": "2026-11-10T16:13:13.000Z"
   },
   {
     "cat": "internacional",
