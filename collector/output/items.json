@@ -1,107 +1,203 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "d": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T02:39:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Australian footballers will not be charged after hotel incident, police say",
+    "d": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T02:33:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Anitta escolhe look branco com transparências para Grammy Latino; veja",
+    "d": "Cantora brasileira está indicada em uma das categorias principais do prêmio, Álbum do Ano, com \"Equilibrivm\", ao lado de nomes como Karol G e Rosalía",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/anitta-escolhe-look-branco-com-transparencias-para-grammy-latino-veja/",
+    "time": "2026-11-13T02:18:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que se sabe de falha na Microsoft que deixou fora do ar Outlook e afetou Teams, Microsoft 365 e outras plataformas",
+    "d": "Empresa informou que registra falhas em seus servidores, após relatos de perda de conexão com serviços como Outlook, Microsoft 365 e Teams em nível mundial.",
+    "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T02:12:59.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "d": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T02:01:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Casos graves de Covid-19 dão sinal de crescimento no Brasil, aponta Fiocruz",
+    "d": "Apesar do crescimento de hospitalizações em sete estados, ocorrência de casos graves da doença permanece em níveis baixos no Brasil",
+    "link": "https://www.cnnbrasil.com.br/saude/casos-graves-de-covid-19-dao-sinal-de-crescimento-no-brasil-aponta-fiocruz/",
+    "time": "2026-11-13T01:50:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trump se “decepciona” com quem votou contra republicanos devido à guerra",
+    "d": "Presidente dos Estados Unidos alegou que os custos mais elevados que a população teve de suportar por causa do conflito são um preço pequeno a pagar para impedir que o Irã obtenha uma arma nuclear",
+    "link": "https://www.cnnbrasil.com.br/internacional/trump-se-decepciona-com-quem-votou-contra-republicanos-devido-a-guerra/",
+    "time": "2026-11-13T01:43:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Empresário do México pré-candidato a prefeito é assassinado a tiros",
+    "d": "Eduardo Valdovinos Padilla foi morto durante \"cavalgada\", evento em que várias pessoas percorrem a via pública a cavalo, em veículos e até mesmo a pé",
+    "link": "https://www.cnnbrasil.com.br/internacional/empresario-do-mexico-pre-candidato-a-prefeito-e-assassinado-a-tiros/",
+    "time": "2026-11-13T01:35:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Como votaram os senadores na análise do texto-base do PLP do ajuste fiscal",
+    "d": "Proposta enviada pelo Executivo altera regras do arcabouço fiscal para dar ao governo novas ferramentas de controle das contas públicas sob uma previsão de superavit primário de R$ 45,1 a R$ 56,1 bilhões em 2027; plac…",
+    "link": "https://www.cnnbrasil.com.br/politica/como-votaram-os-senadores-na-analise-do-texto-base-do-plp-do-ajuste-fiscal/",
+    "time": "2026-11-13T01:33:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "PSB aprova federação com PDT e autoriza entrada de outros partidos",
+    "d": "Decisão foi tomada por unanimidade pelo diretório nacional; sigla afirma que aliança busca dar sustentação política ao governo Lula",
+    "link": "https://www.cnnbrasil.com.br/politica/psb-aprova-federacao-com-pdt-e-autoriza-entrada-de-outros-partidos/",
+    "time": "2026-11-13T01:25:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça barra modelo bem-sucedido de escola pública que seria usado em SP",
+    "d": "Escola pública gerida por entidade salesiana no centro de São Paulo tem notas acima da média, mas projeto de expansão foi suspenso judicialmente",
+    "link": "https://www.cnnbrasil.com.br/educacao/justica-barra-modelo-bem-sucedido-de-escola-publica-que-seria-usado-em-sp/",
+    "time": "2026-11-13T01:22:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Entenda o ajuste fiscal de até R$ 56 bi; Senado conclui votação na terça",
+    "d": "Casa Alta aprovou texto-base na noite desta quinta-feira (12), e ainda precisa analisar sugestões de mudanças à proposta",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/entenda-ajuste-fiscal-de-ate-r-56-bi-senado-conclui-votacao-na-terca-17/",
+    "time": "2026-11-13T01:10:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Midtems: Trump culpa candidatos fracos e temor do custo de vida por derrota",
+    "d": "Partido Republicano teve desempenho ruim nas Eleições de Meio de Mandato e viu o Partido Democrata reconquistar controle do Senado e da Câmara",
+    "link": "https://www.cnnbrasil.com.br/internacional/midtems-trump-culpa-candidatos-fracos-e-temor-do-custo-de-vida-por-derrota/",
+    "time": "2026-11-13T01:10:23.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Waack: Dólar sobe, e conta da demora de Lula fica mais cara",
+    "d": "Não se sabe se Lula considera o que fez o máximo que é capaz de ceder aos \"mercados\", como se estivesse em queda de braço com um ser de carne e osso",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/waack-dolar-sobe-e-conta-da-demora-de-lula-fica-mais-cara/",
+    "time": "2026-11-13T01:03:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "IRB (Re) tem prejuízo de R$ 456 milhões no 3° trimestre",
+    "d": "Prejuízo refletiu uma baixa de ativo diferido de PIS/COFINS de R$ 41 milhões e efeito não recorrente de R$ 506 milhões",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/irb-re-tem-prejuizo-de-r-456-milhoes-no-3-trimestre/",
+    "time": "2026-11-13T01:02:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O buraco na camada de ozono atinge o seu máximo em 2026",
+    "d": "Nasa alerta que a recuperação total da camada danificada por ações humanas e não naturais deve ocorrer apenas em 2070",
+    "link": "https://www.cnnbrasil.com.br/ciencia/o-buraco-na-camada-de-ozono-atinge-o-seu-maximo-em-2026/",
+    "time": "2026-11-13T01:01:16.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "G1",
-    "h": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje",
-    "d": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje O governo defende que o projeto vai estabilizar a dívida pública e preservar os compromissos assumidos pelo presidente Lula durante…",
+    "h": "Senado aprova texto-base do projeto de ajuste fiscal",
+    "d": "Senado aprova texto-base do projeto de ajuste fiscal Proposta do governo promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto foi aprovado por 45 votos a 31. O Senado aprovou o t…",
     "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-    "time": "2026-11-12T22:46:22.000Z"
+    "time": "2026-11-13T00:35:23.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "d": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T00:20:24.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Abaixo-assinado contra medalha a Eduarda Campopiano tem 300 mil assinaturas",
-    "d": "Mobilização contesta a concessão de homenagem da Câmara do Rio para deputada estadual do PL, eleita por São Paulo",
-    "link": "https://www.cnnbrasil.com.br/politica/abaixo-assinado-contra-medalha-a-eduarda-campopiano-tem-300-mil-assinaturas/",
-    "time": "2026-11-12T22:29:39.000Z"
+    "src": "G1",
+    "h": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal: como votaram os senadores e partidos",
+    "d": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Lula (PT) para um ajuste fiscal. As m…",
+    "link": "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/12/senado-federal-aprova-texto-base-projeto-ajuste-fiscal-como-votaram-senadores-partidos.ghtml",
+    "time": "2026-11-13T00:16:01.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sessão do Senado para debater ajuste fiscal tem bate-boca entre senadores",
-    "d": "Argumento do senador Magno Malta é de que não seria possível votar o projeto imediatamente após a aprovação da urgência; Alcolumbre negou os pedidos de adiamento e foi chamado de \"ditador\"",
-    "link": "https://www.cnnbrasil.com.br/politica/sessao-do-senado-para-debater-ajuste-fiscal-tem-bate-boca-entre-senadores/",
-    "time": "2026-11-12T22:28:16.000Z"
+    "src": "G1",
+    "h": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões",
+    "d": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado Federal aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Luiz Inácio Lula da Silva (PT…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
+    "time": "2026-11-13T00:05:04.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena 3085 acumula e prêmio vai a R$ 27 milhões; confira os números sorteados",
+    "d": "Concurso 3.085 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.085 da Mega-Sena foi realizado na noite desta quinta-feira (12), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-11-13T00:03:17.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hackers norte-coreanos roubaram US$ 400 milhões em criptomoedas, diz FBI",
-    "d": "Criminosos utilizaram imagens de pessoas que foram captadas secretamente para, em seguida, atacar os contatos desses mesmos indivíduos – prática que as autoridades americanas chamaram de “FaceStealer”.",
-    "link": "https://www.cnnbrasil.com.br/internacional/hackers-norte-coreanos-roubaram-us-400-milhoes-em-criptomoedas-diz-fbi/",
-    "time": "2026-11-12T22:27:46.000Z"
+    "src": "BBC News Brasil",
+    "h": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
+    "d": "Novela 'Lá na Minha Terra' tem sido criticada por associar Nordeste ao sertão seco e pobre. Autor diz que o folhetim reforça estereótipos e argumenta que os efeitos dessa representação são práticos na vida dos nordest…",
+    "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-12T23:45:42.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ataque hacker ao Tesouro Nacional expõe dados de 30 mil cadastros e 4 mil chaves PIX",
+    "d": "Tesouro Nacional Ministério da Fazenda/Reprodução Um ataque hacker identificado pelo Tesouro Nacional atingiu cerca de 30 mil cadastros de usuários do portal e-Serviços e 4 mil chaves PIX de beneficiários de pagamento…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/12/tesouro-nacional-incidente-seguranca.ghtml",
+    "time": "2026-11-12T23:13:57.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pedro Sánchez, primeiro-ministro da Espanha, lança campanha eleitoral",
-    "d": "Evento contou com discurso da primeira-dama Begoña Gómez; primeiro-ministro convocou votação antecipada em tentativa de fortalecer mandato, após Parlamento ter rejeitado os principais decretos habitacionais do governo",
-    "link": "https://www.cnnbrasil.com.br/internacional/pedro-sanchez-primeiro-ministro-da-espanha-lanca-campanha-eleitoral/",
-    "time": "2026-11-12T22:25:44.000Z"
+    "src": "G1",
+    "h": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara",
+    "d": "= Reprodução/Canva Pro A Comissão de Assuntos Sociais (CAS) do Senado confirmou, na quarta-feira (11), a aprovação de um projeto de lei que prevê a inclusão da vacina contra herpes-zóster, doença popularmente conhecid…",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/12/senado-aprova-inclusao-de-vacina-contra-herpes-zoster-no-sus-projeto-segue-para-a-camara.ghtml",
+    "time": "2026-11-12T23:07:42.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como casal de atores da Globo deixou a cidade para morar em sítio com cabana de 72 m² nas montanhas de Minas Gerais",
-    "d": "Yanna Lavigne decidiu viver no interior de Minas Gerais com a família e transformou parte da propriedade em um projeto de hospedagem cercado pela natureza",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/como-casal-de-atores-da-globo-deixou-a-cidade-para-morar-em-sitio-com-cabana-de-72-m2-nas-montanhas-de-minas-gerais/",
-    "time": "2026-11-12T22:19:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump diz que é “cedo demais” para dizer se apoiará sucessor em 2028",
-    "d": "Presidente dos Estados Unidos disse que os debates presidenciais republicanos sobre quem o substituirá deveriam começar daqui a um ano",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-e-cedo-demais-para-dizer-se-apoiara-sucessor-em-2028/",
-    "time": "2026-11-12T22:17:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Parcial Enquete “A Fazenda”: após reviravolta, peão perde força e deve sair",
-    "d": "Daniel Erthal, Murilo Dias e Tina Calamba disputam a preferência do público; vote na enquete da CNN Brasil quem você quer que continue no reality",
-    "link": "https://www.cnnbrasil.com.br/pop/realities/parcial-enquete-a-fazenda-apos-reviravolta-peao-perde-forca-e-deve-sair/",
-    "time": "2026-11-12T22:17:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Nunes Marques mantém afastamento de Buzzi, mas permite pagamento de salário",
-    "d": "Ministro autorizou preenchimento de vaga aberta no STJ; salário foi mantido até STF dar palavra final sobre perda do cargo",
-    "link": "https://www.cnnbrasil.com.br/politica/nunes-marques-mantem-afastamento-de-buzzi-mas-permite-pagamento-de-salario/",
-    "time": "2026-11-12T22:13:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Vendas de materiais de construção devem recuar mais em 2026, diz Abramat",
-    "d": "Este foi terceiro corte nas expectativas para este ano; previsão inicial da associação era de alta de 1,9% nas vendas da indústria",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/vendas-de-materiais-de-construcao-devem-recuar-mais-em-2026-diz-abramat/",
-    "time": "2026-11-12T22:11:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cyrela registra lucro de R$ 481 milhões no 3° trimestre, queda de 21%",
-    "d": "Despesas comerciais atingiram R$ 308 milhões, expansão de 30%, movimento atribuído ao crescimento do item estande de vendas, enquanto as despesas gerais e administrativas foram de R$ 138 milhões, alta de 5%",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/cyrela-registra-lucro-de-r-481-milhoes-no-3-trimestre-queda-de-21/",
-    "time": "2026-11-12T22:07:44.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lucro da Copel cresce 79,7% no 3º trimestre, para R$ 688,4 milhões",
-    "d": "Distribuição impulsionou o resultado operacional; Ebitda recorrente avançou 35%, para R$ 1,81 bilhão",
-    "link": "https://www.cnnbrasil.com.br/infra/lucro-da-copel-cresce-797-no-3o-trimestre-para-r-6884-milhoes/",
-    "time": "2026-11-12T22:07:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Tereza Cristina e Farsul criticam Banco do Brasil sobre inadimplência",
-    "d": "Entidades e a senadora contestam que a alta de dívidas no campo seja culpa da falta de disposição de pagamento dos produtores rurais",
-    "link": "https://www.cnnbrasil.com.br/agro/tereza-cristina-e-farsul-criticam-banco-do-brasil-sobre-inadimplencia/",
-    "time": "2026-11-12T22:06:37.000Z"
+    "src": "G1",
+    "h": "PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro",
+    "d": "O ex-presidente da República, Jair Messias Bolsonaro (PL), fez uma aparição de cerca de 20 minutos no quintal da casa onde ele cumpria prisão domiciliar em 9 de setembro de 2025 Wilton Junior/Estadão Conteúdo O procur…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml",
+    "time": "2026-11-12T23:04:53.000Z"
   },
   {
     "cat": "internacional",
@@ -120,36 +216,12 @@
     "time": "2026-11-12T21:33:08.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Search for British woman missing from Tui cruise in Atlantic called off",
-    "d": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T21:27:21.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC",
     "d": "Relatório interno do governo obtido pela reportagem já apontava publicidade irregular nas plataformas da empresa; BBC identificou novas peças após a proibição.",
     "link": "https://www.bbc.com/portuguese/articles/cw4gnvzzdjr7o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-12T21:18:29.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que se sabe de falha na Microsoft que deixou fora do ar Outlook e afetou Teams, Microsoft 365 e outras plataformas",
-    "d": "Empresa informou que registra falhas em seus servidores, após relatos de perda de conexão com serviços como Outlook, Microsoft 365 e Teams em nível mundial.",
-    "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T21:11:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-    "d": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T21:00:42.000Z"
   },
   {
     "cat": "brasil",
@@ -170,8 +242,8 @@
   {
     "cat": "economia",
     "src": "G1",
-    "h": "‘Produtor rural não é caloteiro’: setor de soja rebate Banco do Brasil sobre dívidas do agro",
-    "d": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja (Aprosoja) divulgou uma nota nesta quinta-feira (12) criticando declarações da direção…",
+    "h": "Produtores de soja rebatem Banco do Brasil sobre dívidas do agro; estatal nega ter culpado todo o setor",
+    "d": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja (Aprosoja Brasil) rebateu nesta quinta-feira (12) a declaração da presidente do Banco d…",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
     "time": "2026-11-12T20:40:36.000Z"
   },
@@ -190,14 +262,6 @@
     "d": "O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (11), por unanimidade, que é incompatível com a Constituição dispositivo do Código Penal que isentava de pena quem cometia crime patrimonial contra a mulher…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-decide-que-norma-que-absolve-crime-patrimonial-contra-mulher-e-incompativel-com-a-constituicao.ghtml",
     "time": "2026-11-12T19:53:22.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
-    "d": "Novela 'Lá na Minha Terra' tem sido criticada por associar Nordeste ao sertão seco e pobre. Autor diz que o folhetim reforça estereótipos e argumenta que os efeitos dessa representação são práticos na vida dos nordest…",
-    "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T19:35:47.000Z"
   },
   {
     "cat": "economia",
@@ -235,7 +299,7 @@
     "cat": "economia",
     "src": "G1",
     "h": "Outlook fora do ar? Serviço de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
-    "d": "Microsoft Outlook é um sistema de software de gerenciamento de informações pessoais da Microsoft Gonzalo Fuentes/ Reuters Usuários relataram dificuldades para acessar alguns serviços da Microsoft, como o Outlook, na t…",
+    "d": "Outlook fora do ar: serviços da Microsoft apresentam instabilidade nesta quinta Usuários relataram dificuldades para acessar alguns serviços da Microsoft, como o Outlook, na tarde desta quinta-feira (12). As reclamaçõ…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml",
     "time": "2026-11-12T18:40:04.000Z"
   },
@@ -352,22 +416,6 @@
     "time": "2026-11-12T16:33:14.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Na COP31, Lula diz que 'nenhum país' tem mais autoridade do que o Brasil para tratar de clima",
-    "d": "Lula e o ministro do Meio Ambiente, João Paulo Capobianco, em evento da COP31 Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (12), durante encontro com…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-diz-que-nenhum-pais-tem-mais-autoridade-do-que-o-brasil-para-tratar-de-clima.ghtml",
-    "time": "2026-11-12T16:33:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Influenciadora chora após ter perfil bloqueado por divulgar sites de apostas ilegais",
-    "d": "Influenciadora chora após ter conta desativada a pedido do Ministério da Justiça A influenciadora Mirely Gomes publicou, nesta quinta-feira (12), um vídeo chorando após descobrir que sua conta no Instagram tinha sido…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/influenciadora-chora-apos-ter-perfil-bloqueado-por-divulgar-sites-de-apostas-ilegais.ghtml",
-    "time": "2026-11-12T16:26:57.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Ataque hacker expõe CPFs de 7,6 milhões de clientes de subsidiária da Caixa; veja quais dados vazaram",
@@ -384,52 +432,12 @@
     "time": "2026-11-12T16:20:22.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "BB: expectativa eleitoral do agronegócio por perdão de dívidas rurais ajuda a explicar tombo no resultado",
-    "d": "O tombo no resultado do Banco do Brasil (BB) tem boa parte da sua explicação na promessa eleitoral para setores do agro de que a medida provisória (MP) da renegociação de dívidas rurais fosse trazer um perdão amplo e…",
-    "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/12/bb-inadimplencia-do-agronegocio-aumentou-com-expectativa-eleitoral-de-perdao-das-dividas-e-ajuda-a-explicar-queda-no-lucro.ghtml",
-    "time": "2026-11-12T15:53:19.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Petrobras anuncia compra de empresa de transporte de etanol por R$ 620 milhões",
-    "d": "Logo da Petrobras no Rio de Janeiro Ricardo Moraes/Reuters A Petrobras fechou um acordo para adquirir os 70% restantes da Logum Logística em uma transação de R$ 620 milhões, anunciou a estatal nesta quinta-feira (12).…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/12/petrobras-anuncia-compra-de-empresa-de-transporte-de-etanol-por-r-620-milhoes.ghtml",
-    "time": "2026-11-12T15:40:46.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
     "d": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
     "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-12T15:18:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Veja o que Lula disse sobre contas públicas antes de proposta de ajuste fiscal de R$ 60 bilhões",
-    "d": "As falas do presidente Lula (PT) mudaram de tom ao longo dos últimos meses para responder à cobrança por ajuste fiscal. A modulação do discurso culminou com a apresentação, nessa quarta-feira (11), de proposta de um p…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-falas-ajuste-fiscal.ghtml",
-    "time": "2026-11-12T14:58:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Caso Master: a pedido da PF, Fachin prorroga por 60 dias investigação sobre Ciro Nogueira",
-    "d": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, autorizou a prorrogação, por mais 60 dias, da investigação sobre o suposto envolvimento do senador Ciro Nogueira (PP-PI) no caso Master. A prorrog…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/caso-master-a-pedido-da-pf-fachin-prorroga-por-60-dias-inquerito-que-investiga-ciro-nogueira.ghtml",
-    "time": "2026-11-12T14:19:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-    "d": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-12T13:58:49.000Z"
   },
   {
     "cat": "internacional",
@@ -502,14 +510,6 @@
     "d": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but wh…",
     "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
     "time": "2026-11-11T22:50:37.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Clashes erupt in Barcelona after thousands join Spain general strike",
-    "d": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-11T22:07:37.000Z"
   },
   {
     "cat": "brasil",
