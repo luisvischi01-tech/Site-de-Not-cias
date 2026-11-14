@@ -2,10 +2,242 @@
   {
     "cat": "internacional",
     "src": "BBC News",
+    "h": "Setback for SpaceX Starship rocket's double-catch test",
+    "d": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-14T00:01:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Brasileiro que morreu em prisão isralense é sepultado depois de 1 ano e 8 meses; governo cobra explicação de Israel",
+    "d": "O Ministério das Relações Exteriores informou nesta sexta-feira (13) que o brasileiro-palestino Walid Khalid Abdalla Ahmad, que morreu em custódia israelense em março de 2025, foi sepultado nesta quinta-feira (12). Co…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/13/brasileiro-que-morreu-em-prisao-isralense-e-sepultado-depois-de-1-ano-e-8-meses-governo-cobra-explicacao-de-israel.ghtml",
+    "time": "2026-11-13T23:36:19.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Após salto das ações, Inter mira longo prazo com consistência, diz CEO",
+    "d": "João Vitor Menin descreve o banco digital como \"obcecado\" em utilizar o que há de melhor em tecnologia disponível, mantendo foco no cliente e oferecendo serviços convenientes, econômicos e seguros",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/apos-salto-das-acoes-inter-mira-longo-prazo-com-consistencia-diz-ceo/",
+    "time": "2026-11-13T23:33:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Transmissão ao vivo mostra explosão durante incêndio em fábrica em Salto",
+    "d": "Imagens registram momento em que funcionários fogem da empresa Pyrozzar no interior de São Paulo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/transmissao-ao-vivo-mostra-explosao-durante-incendio-em-fabrica-em-salto/",
+    "time": "2026-11-13T23:31:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Senadora dos EUA pede “investigação minuciosa” sobre voos suspensos",
+    "d": "Última suspensão de alcance nacional no setor aéreo americano havia ocorrido em janeiro de 2023",
+    "link": "https://www.cnnbrasil.com.br/internacional/senadora-dos-eua-pede-investigacao-minuciosa-sobre-voos-suspensos/",
+    "time": "2026-11-13T23:28:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atriz Neusa Borges é internada aos 84 anos com pneumonia",
+    "d": "Hospital Copa D'Or confirma que o estado da artista é estável e não há previsão de alta",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/atriz-neusa-borges-e-internada-aos-84-anos-com-pneumonia/",
+    "time": "2026-11-13T23:25:15.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Paralisação de voos nos EUA: Anac diz monitorar situação e recomenda que passageiros procurem companhias aéreas",
+    "d": "Falha na comunicação causa suspensão de decolagens em todos os aeroportos dos EUA A Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA e recomenda aos passag…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
+    "time": "2026-11-13T23:21:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ferrovia Norte-Sul tem queda de 51% no lucro líquido no 3º tri",
+    "d": "Concessionária encerrou o período com lucro de R$ 145,8 milhões, ante R$ 297,6 milhões no mesmo trimestre de 2025",
+    "link": "https://www.cnnbrasil.com.br/infra/ferrovia-norte-sul-tem-queda-de-51-no-lucro-liquido-no-3o-tri/",
+    "time": "2026-11-13T23:20:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bambolê rodou o mundo, virou febre e deixou uma história curiosa sobre quem levou a ideia aos EUA",
+    "d": "Uma ex-modelo de maiôs conheceu as argolas na Austrália, ajudou a batizá-las e acabou envolvida em uma disputa por reconhecimento",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/bambole-rodou-o-mundo-virou-febre-e-deixou-uma-historia-curiosa-sobre-quem-levou-a-ideia-aos-eua/",
+    "time": "2026-11-13T23:20:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Inter: IA vai melhorar experiência do usuário, diz CEO",
+    "d": "No balanço do 3º trimestre, João Vitor Menin detalhou planos de crescimento e uso de inteligência artificial no Inter",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/inter-ia-vai-melhorar-experiencia-do-usuario-diz-ceo/",
+    "time": "2026-11-13T23:14:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Parceira do Inter com xAI de Elon Musk é emblemática, avalia CEO",
+    "d": "IA de Elon Musk será a plataforma utilizada pelo Inter para processar grandes volumes de dados e suportar a Seven, a agente de inteligência artificial do Inter voltada diretamente ao consumidor",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/parceira-do-inter-com-xai-de-elon-musk-e-emblematica-avalia-ceo/",
+    "time": "2026-11-13T23:11:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ferrovia Centro-Atlântica tem queda de 53,9% no lucro líquido no 3º tri",
+    "d": "Concessionária teve lucro de R$ 79,39 milhões entre julho e setembro; no acumulado do ano, recuo chega a 49%",
+    "link": "https://www.cnnbrasil.com.br/infra/ferrovia-centro-atlantica-tem-queda-de-539-no-lucro-liquido-no-3o-tri/",
+    "time": "2026-11-13T23:05:08.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+    "d": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The…",
+    "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+    "time": "2026-11-13T23:01:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Série B: quem tem vantagem no playoff de acesso e como funciona o mando",
+    "d": "Times de melhor campanha decidem a vaga em casa e têm vantagem em caso de empate no placar agregado; entenda as regras do mata-mata",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/serie-b-quem-tem-vantagem-no-playoff-de-acesso-e-como-funciona-o-mando/",
+    "time": "2026-11-13T23:00:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Vinagre e detergente não desinfetam alimentos e podem trazer riscos à saúde",
+    "d": "Anvisa alerta para a prática e diz que desinfecção deve ser feita com água e solução própria para alimentos",
+    "link": "https://www.cnnbrasil.com.br/saude/vinagre-e-detergente-nao-desinfetam-alimentos-e-podem-trazer-riscos-a-saude/",
+    "time": "2026-11-13T22:58:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "SpaceX realiza 15º voo de teste do foguete Starship com manobra jamais vista durante os voos anteriores",
+    "d": "Missão busca recuperar os dois estágios reutilizáveis da nave na base de lançamento em Starbase no Texas",
+    "link": "https://www.cnnbrasil.com.br/ciencia/spacex-realiza-15o-voo-de-teste/",
+    "time": "2026-11-13T22:50:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "PGR indica que manterá pedido de R$ 324 milhões extras para bancar penduricalhos",
+    "d": "A Procuradoria-Geral da República (PGR) indicou nesta sexta-feira (13) que vai manter o pedido de um crédito adicional de R$ 324 milhões para despesas do Ministério Público da União. O procurador-geral da República, P…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/13/pgr-indica-que-mantera-pedido-de-r-324-milhoes-extras-para-bancar-penduricalhos.ghtml",
+    "time": "2026-11-13T22:38:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe",
+    "d": "Agência aérea americana informou que falha afetou todos os centros de controle de tráfego aéreo responsáveis pelos voos em rota. Mais cedo, FAA alegou razões de segurança, mas comunicado foi apagado.",
+    "link": "https://www.bbc.com/portuguese/articles/c54gnly4kzdpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T21:38:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "d": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T21:14:22.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Microsoft outage shakes up companies, schools and local governments across US",
+    "d": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local gove…",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+    "time": "2026-11-13T21:13:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "OpenAI lança carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usuário",
+    "d": "As preocupações que levaram a OpenAI, do ChatGPT, a abandonar lançamento de novo sistema de IA Andrej Ivanov/AFP via Getty Images A OpenAI anunciou nesta sexta-feira (13) a ChatGPT Wallet, uma carteira digital que per…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/chat-gpt-wallet.ghtml",
+    "time": "2026-11-13T20:28:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fachin defende indicação de uma mulher negra para o STF",
+    "d": "Fachin defende indicação de uma mulher negra para o STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher neg…",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
+    "time": "2026-11-13T20:10:44.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "d": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T19:53:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+    "d": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing…",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+    "time": "2026-11-13T19:51:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Apagão do Outlook afetou empresas e até os prazos de ações no Judiciário: dá para pedir indenização à Microsoft?",
+    "d": "Contrato da Microsoft prevê desconto na assinatura, não indenização, em caso de prejuízo; no Brasil, pequenos negócios podem contestar esse limite usando Código do Consumidor, diz especialista.",
+    "link": "https://www.bbc.com/portuguese/articles/cq62pdgrer0po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T19:49:20.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Democratic Senate leader Schumer set to face leadership challenge",
+    "d": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T19:03:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como crescimento da energia solar 'escandalosamente barata' desafia todas as projeções",
+    "d": "Com seu baixo custo, a energia solar passou a ser uma das principais fontes de energia em vários países do mundo.",
+    "link": "https://www.bbc.com/portuguese/articles/ck98z89d1073o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T18:55:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Toffoli dá 3 dias para campanha de Lula esclarecer inconsistências nas contas apontadas pelo TSE",
+    "d": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), deu prazo de três dias para a campanha à reeleição da chapa Lula-Alckmin apresentar esclarecimentos sobre inconsistências nas contas apontadas pela área t…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/13/toffoli-da-3-dias-para-campanha-de-lula-esclarecer-inconsistencias-nas-contas-apontadas-pelo-tse.ghtml",
+    "time": "2026-11-13T18:55:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
     "h": "Why is Microsoft's outage lasting so long and will emails be lost?",
     "d": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-13T18:36:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "The Peruvian city that has embraced Pope Leo as one of its own",
+    "d": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T18:34:45.000Z"
   },
   {
     "cat": "economia",
@@ -18,34 +250,18 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "OAB pede ao STF e ao CNJ prorrogação de prazos em razão da falha em plataformas da Microsoft",
-    "d": "A Ordem dos Advogados do Brasil (OAB) pediu nesta sexta-feira (13), ao Supremo Tribunal Federal (STF) e ao Conselho Nacional de Justiça (CNJ), em caráter de urgência, a suspensão e a prorrogação de prazos processuais…",
+    "h": "Fachin atende a pedido da OAB e suspende prazos processuais em razão de falhas nos sistemas da Microsoft",
+    "d": "Pane na Microsoft afeta empresas e governos O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, determinou nesta sexta-feira (13) a suspensão da contagem dos prazos processuais em todo o país no…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml",
     "time": "2026-11-13T18:25:04.000Z"
   },
   {
     "cat": "economia",
-    "src": "The Guardian",
-    "h": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
-    "d": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook…",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-    "time": "2026-11-13T18:12:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quilos Mortais: Veja como está Irene, que chegou aos 273 quilos",
-    "d": "História da mulher de 39 anos é marcada por consequências em decorrência de uma compulsão alimentar que enfrenta desde a infância e adolescência",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/quilos-mortais-veja-como-esta-irene-que-chegou-aos-273-quilos/",
-    "time": "2026-11-13T18:11:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Conheça Aria Vega, vencedora do Grammy Latino de Artista Revelação",
-    "d": "Cantora colombiana ganhou projeção internacional com “Chévere”, parceria com Ryan Castro, e se destaca pela mistura de música urbana, ritmos caribenhos e referências culturais de Barranquilla",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/conheca-aria-vega-vencedora-do-grammy-latino-de-artista-revelacao/",
-    "time": "2026-11-13T18:08:23.000Z"
+    "src": "G1",
+    "h": "Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
+    "d": "Jensen Huang e Rene Haas Reuters/Carlos Barria; Reuters/Hasnoor Hussain OHuang renunciou ao cargo na quinta-feira (12) após revelações de casos extraconjugais, incluindo um envolvendo uma suposta espiã chinesa, mergul…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
+    "time": "2026-11-13T18:10:29.000Z"
   },
   {
     "cat": "brasil",
@@ -54,86 +270,6 @@
     "d": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), afirmou, em decisão desta sexta-feira (13), que o ex-presidente Jair Bolsonaro feriu a garantia constitucional da liberdade de imprensa e ofendeu o direito d…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml",
     "time": "2026-11-13T18:02:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Multiplan detalha expansão do Morumbi Shopping e estratégia de capital",
-    "d": "Retorno de 11,9% na operação inaugurada em março e vendas 25% maiores impulsionam os resultados da empresa no trimestre",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/multiplan-detalha-expansao-do-morumbi-shopping-e-estrategia-de-capital/",
-    "time": "2026-11-13T17:57:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula 4 terá que dialogar com oposição no Senado, diz líder do governo à CNN",
-    "d": "PL (Partido Liberal) comandará mais de um terço da Casa a partir de 2027; Planalto está sob alerta e tenta adiantar pautas de seu interesse para 2026",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-4-tera-que-dialogar-com-oposicao-no-senado-diz-lider-do-governo-a-cnn/",
-    "time": "2026-11-13T17:53:55.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hailey encanta ao mostrar filho com Justin Bieber tocando teclado",
-    "d": "Influenciadora publicou vídeo de Jack Blues, de 2 anos, e afirmou que ele ama tocar o instrumento",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/hailey-encanta-ao-mostrar-filho-com-justin-bieber-tocando-teclado/",
-    "time": "2026-11-13T17:48:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PPI dos EUA avança 0,3% em outubro e acumula alta anual de 6,5%",
-    "d": "Núcleo do índice, que exclui itens voláteis, subiu 0,3% em outubro ante setembro. Na comparação anual, o núcleo do PPI avançou 5,0% em outubro",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ppi-dos-eua-avanca-03-em-outubro-e-acumula-alta-anual-de-65/",
-    "time": "2026-11-13T17:48:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Zurich anuncia R$ 1,7 bi em investimentos no Aeroporto de Vitória",
-    "d": "Montante servirá para a construção de quatro novos empreendimentos que integrarão o projeto de desenvolvimento imobiliário do aeroporto",
-    "link": "https://www.cnnbrasil.com.br/infra/zurich-anuncia-r-17-bi-em-investimentos-no-aeroporto-de-vitoria/",
-    "time": "2026-11-13T17:46:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "CNI: Confiança da indústria cai para menor nível desde maio de 2020",
-    "d": "Com resultado de novembro, empresários industriais chegam 23 meses consecutivos de pessimismo, quando índice se encontra abaixo da linha de corte de 50 pontos",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cni-confianca-da-industria-cai-para-menor-nivel-desde-maio-de-2020/",
-    "time": "2026-11-13T17:44:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "AGU se opõe a pedido do PSD para realizar 2º turno no Rio de Janeiro",
-    "d": "Órgão defende manutenção de decisão de Cristiano Zanin que negou pedido para reverter vitória de Douglas Ruas (PL) no primeiro turno",
-    "link": "https://www.cnnbrasil.com.br/politica/agu-se-opoe-a-pedido-do-psd-para-realizar-2o-turno-no-rio-de-janeiro/",
-    "time": "2026-11-13T17:39:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entre joias e cicatrizes: o que as tumbas do Egito Antigo revelam sobre o sofrimento dos gatos sagrados",
-    "d": "Estudo feito em necrópole apontou que diversos felinos apresentavam ferimentos e sinais de doença",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/entre-joias-e-cicatrizes-o-que-as-tumbas-do-egito-antigo-revelam-sobre-o-sofrimento-dos-gatos-sagrados/",
-    "time": "2026-11-13T17:36:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Enem 2026: conheça assuntos de matemática e física que mais caem no 2º dia",
-    "d": "Segunda e última etapa do vestibular anual será aplicada ao redor do país neste domingo (15); a prova contará com 90 questões e cinco horas de duração",
-    "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-conheca-assuntos-de-matematica-e-fisica-que-mais-caem-no-2o-dia/",
-    "time": "2026-11-13T17:30:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "M. Dias Branco tem lucro de R$ 157,7 milhões no 3° trimestre, queda de 27%",
-    "d": "Receita líquida totalizou R$ 2,738 bilhões no período, retração de 1,7% ante o terceiro trimestre de 2025",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/m-dias-branco-tem-lucro-de-r-1577-milhoes-no-3-trimestre-queda-de-27/",
-    "time": "2026-11-13T17:28:55.000Z"
   },
   {
     "cat": "economia",
@@ -145,25 +281,9 @@
   },
   {
     "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Lesões no tornozelo são mais comuns do que você imagina — veja como proteger o seu",
-    "d": "A fisioterapeuta especializada em desempenho físico Genevieve Tawiah dá suas principais dicas para cuidar dos tornozelos",
-    "link": "https://www.bbc.com/portuguese/articles/cqgkl7nz7y2zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T17:20:16.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Microsoft outage shakes up companies, schools and local governments across US",
-    "d": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local gove…",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-    "time": "2026-11-13T17:17:00.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
-    "d": "A Câmara dos Deputados se manifestou no Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a A…",
+    "d": "A Câmara dos Deputados se manifestou ao Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a A…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml",
     "time": "2026-11-13T16:42:59.000Z"
   },
@@ -202,14 +322,6 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Democratic Senate leader Schumer set to face leadership challenge",
-    "d": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T15:48:07.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "German spies handed new powers to tackle 'hybrid threats' from abroad",
     "d": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
     "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
@@ -222,14 +334,6 @@
     "d": "Fachada do prédio do Tribunal Superior Eleitoral (TSE) em Brasília. Fabio Rodrigues Pozzebom/Agência Brasil Entre os cerca de 20 mil candidatos registrados nas eleições deste ano, 727 permanecem sem prestação de conta…",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/13/prestacao-contas-candidatos-eleicoes-2026.ghtml",
     "time": "2026-11-13T15:41:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-    "d": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T15:40:08.000Z"
   },
   {
     "cat": "brasil",
@@ -246,22 +350,6 @@
     "d": "Senado aprova texto-base do ajuste fiscal por 45 votos a 31 O governo Lula venceu a batalha de aprovação de sua proposta de ajuste fiscal no Senado. O placar, de 45 votos a 31, mostrou, porém, que o Palácio do Planalt…",
     "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml",
     "time": "2026-11-13T15:23:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Microsoft diz que fila de e-mails 'se aproxima do normal' após falha global no Outlook; o que se sabe",
-    "d": "Problema começou na quinta-feira e ainda afeta serviços como o sistema de mensagens Teams, o Microsoft 365 e a ferramenta de inteligência artificial Copilot em diversos países.",
-    "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T15:18:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "At least 24 killed after bus collides with truck in north-east India",
-    "d": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T15:16:50.000Z"
   },
   {
     "cat": "economia",
@@ -290,8 +378,8 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Moraes acompanha Dino, e STF tem 2 votos para manter início da escala 5x2 em 16 de dezembro",
-    "d": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), acompanhou nesta sexta-feira (13) o voto do relator, Flávio Dino, para confirmar as regras definidas pelo ministro para a transição da escala 6x1 para…",
+    "h": "STF tem 4 votos para manter início da escala 5x2 em 16 de dezembro",
+    "d": "Os ministros Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes do Supremo Tribunal Federal (STF), acompanharam nesta sexta-feira (13) o voto do relator, Flávio Dino, para confirmar as regras definidas pelo ministro pa…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/13/plenario-virtual-do-stf-comeca-a-analisar-regras-da-escala-5x2-placar-esta-em-2-a-0.ghtml",
     "time": "2026-11-13T14:36:19.000Z"
   },
@@ -312,14 +400,6 @@
     "time": "2026-11-13T13:56:50.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Presidente do BB explica quem são os produtores que não aderiram à renegociação do banco",
-    "d": "Presidente do BB fala sobre crise com o agro Em entrevista à GloboNews nesta sexta-feira (13), a presidente do Banco do Brasil, Tarciana Medeiros, afirmou que o banco não atribuiu, em \"nenhum instante\", o aumento da i…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/presidente-do-bb-explica-quem-sao-os-produtores-que-nao-aderiram-a-renegociacao-do-banco.ghtml",
-    "time": "2026-11-13T13:54:00.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "STJ decide que condomínio é responsável por furto se ladrões entrarem após falha na portaria",
@@ -328,36 +408,12 @@
     "time": "2026-11-13T13:52:38.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Presidente do BB diz que 31 mil produtores rurais estão inadimplentes e que 'portas' estão 'abertas' para renegociação",
-    "d": "'Banco está de portas abertas para renegociar', diz presidente do BB A presidente do Banco do Brasil, Tarciana Medeiros, afirmou nesta sexta-feira (13) que 31 mil produtores rurais estão inadimplentes com a instituiçã…",
-    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/13/presidente-do-bb-diz-que-31-mil-produtores-rurais-estao-inadimplentes-e-que-portas-do-banco-estao-abertas-para-renegociacao.ghtml",
-    "time": "2026-11-13T13:47:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Presidente do BC diz que debate sobre juro está maior que 'disputa de torcida organizada e comentário de postagem em rede social'",
-    "d": "O presidente do Banco Central (BC), Gabriel Galípolo, criticou a qualidade do debate público sobre o patamar da taxa de juros na economia brasileira, suas repercussões sobre a dívida pública e, também, sobre a inadimp…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
-    "time": "2026-11-13T13:42:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Tropa do Flávio' troca de nome, deputado do PL assume mudança e pede mobilização",
-    "d": "Flávio Bolsonaro e Gustavo Gayer. Mensagens no canal que agora se chama \"Direita Já\" Reprodução Criado durante o 2º turno da campanha presidencial para divulgar conteúdos a favor do candidato Flávio Bolsonaro (PL), o…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/13/tropa-do-flavio-troca-de-nome.ghtml",
-    "time": "2026-11-13T12:58:13.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-    "d": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-    "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T12:28:28.000Z"
+    "h": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "d": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-13T13:11:23.000Z"
   },
   {
     "cat": "internacional",
@@ -376,36 +432,12 @@
     "time": "2026-11-13T11:38:54.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nigerian university in mourning after four students die at post-exam party",
-    "d": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T11:37:08.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Alckmin na Agricultura poderia melhorar a relação do governo Lula com o agro",
-    "d": "Lula e Alckmin antes de viagem à Colômbia Ricardo Stuckert/PR Com a volta de Carlos Fávaro ao Senado, há quem aposte no nome de Geraldo Alckmin para assumir o Ministério da Agricultura. A possibilidade é mencionada em…",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/13/alckmin-agricultura-governo-lula-agro.ghtml",
-    "time": "2026-11-13T11:22:13.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Como Jensen Huang foi de 'visionário da IA' à queda em desgraça por causa de decisões amorosas",
     "d": "Repórter de tecnologia da BBC explica como o homem que construiu a Nvidia do zero perdeu tudo em poucos dias.",
     "link": "https://www.bbc.com/portuguese/articles/ckwy8vdnwwlyo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-13T10:32:39.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-    "d": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist US politics – live updates The US commerce secretary, Howard Lutni…",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-    "time": "2026-11-13T09:41:22.000Z"
   },
   {
     "cat": "brasil",
@@ -422,14 +454,6 @@
     "d": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal an…",
     "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
     "time": "2026-11-13T08:49:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Rosa e Azul':  a história sombria do quadro mais famoso do Masp — e o fim trágico de uma das meninas",
-    "d": "Livro lançado no Reino Unido traz história por trás de retrato de duas crianças feito pelo famoso pintor impressionista Pierre-Auguste Renoir em1881.",
-    "link": "https://www.bbc.com/portuguese/articles/cmy4xjed4x1ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T08:45:07.000Z"
   },
   {
     "cat": "internacional",
@@ -454,14 +478,6 @@
     "d": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to tif.questions@theguard…",
     "link": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
     "time": "2026-11-13T03:00:06.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "d": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-13T02:48:29.000Z"
   },
   {
     "cat": "brasil",
