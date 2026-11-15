@@ -1,59 +1,187 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Jensen Huang discute retorno ao cargo de CEO da Nvidia, diz FT",
+    "d": "Grupo de executivos do Vale do Silício articula apoio ao ex-chefe; conselho busca possível sucessor",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/jensen-huang-discute-retorno-ao-cargo-de-ceo-da-nvidia-diz-ft/",
+    "time": "2026-11-15T21:04:36.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Czechs rally against plan to switch funding of public media",
+    "d": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T21:03:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dica de maquiadores: lápis labial da cor natural da pele evita que batom escorra da boca",
+    "d": "Descubra como o lápis labial da cor natural, combinado com a textura ideal do batom, garante um contorno perfeito e duradouro nos seus lábios",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/dica-de-maquiadores-lapis-labial-da-cor-natural-da-pele-evita-que-batom-escorra-da-boca/",
+    "time": "2026-11-15T21:00:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "José Loreto impressiona fãs ao carregar Eliana em desafio do bambolê; veja",
+    "d": "Dinâmica foi inspirada em cena de \"Quem Ama Cuida\", na qual o personagem Iuri aparece praticando atividades físicas com o objeto entre as bancadas da cozinha",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/jose-loreto-impressiona-fas-ao-carregar-eliana-em-desafio-do-bambole-veja/",
+    "time": "2026-11-15T20:48:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Avril Lavigne atinge pico de buscas após anunciar gravidez secreta; entenda",
+    "d": "Cantora canadense confirmou a chegada da primogênita, que ainda não teve seu nome divulgado, na tarde da última sexta-feira (13)",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/avril-lavigne-atinge-pico-de-buscas-apos-anunciar-gravidez-secreta-entenda/",
+    "time": "2026-11-15T20:45:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Shakira inclui Salvador em turnê que passará pelo Brasil",
+    "d": "Anúncio foi feito pelo prefeito da capital baiana neste domingo, Bruno Reis, que também revelou que a apresentação será na Arena Fonte Nova",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/shakira-inclui-salvador-em-turne-que-passara-pelo-brasil/",
+    "time": "2026-11-15T20:35:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cientistas identificam sinal de rádio raro que se repete a cada oito minutos no espaço",
+    "d": "Equipe processou mais de 100 horas de dados no Centro de Pesquisa de Supercomputação Pawsey para analisar o objeto astronômico",
+    "link": "https://www.cnnbrasil.com.br/ciencia/cientistas-identificam-sinal-de-radio-raro-que-se-repete-a-cada-oito-minutos-no-espaco/",
+    "time": "2026-11-15T20:26:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enem 2026: 2º dia teve carga tributária, carros elétricos e sites de namoro",
+    "d": "Segunda etapa da prova acontece neste domingo (15) em todo o país; professores consultados pela CNN Brasil elencam os principais destaques do exame",
+    "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-2o-dia-teve-carga-tributaria-carros-eletricos-e-sites-de-namoro/",
+    "time": "2026-11-15T20:23:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Visitar casa dos pais pode despertar nosso lado adolescente, diz psicólogo",
+    "d": "Comportamento é mais comum do que parece e tem relação com os papéis que construímos dentro da família desde a infância; especialista explica que reencontro pode reativar padrões antigos de convivência",
+    "link": "https://www.cnnbrasil.com.br/saude/visitar-casa-dos-pais-pode-despertar-nosso-lado-adolescente-diz-psicologo/",
+    "time": "2026-11-15T20:18:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Brasil deve registrar temperaturas acima de 30°C até o fim de novembro",
+    "d": "Previsão aponta calor intenso e abafamento na segunda metade do mês em quase todo o país, principalmente nas regiões norte, nordeste e centro-oeste, mesmo com pancadas de chuva",
+    "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-deve-registrar-temperaturas-acima-de-30c-ate-o-fim-de-novembro/",
+    "time": "2026-11-15T20:16:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enem 2026: prova de biologia aborda genética, clonagem e desafio ambiental",
+    "d": "Prova de Biologia teve questões sobre desequilíbrios ecológicos, biotecnologia e produção de energia; professora avalia nível de dificuldade como moderado",
+    "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-prova-de-biologia-aborda-genetica-clonagem-e-desafio-ambiental/",
+    "time": "2026-11-15T20:13:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Pianista de cruzeiro cai no Pacífico, passa 10 horas à deriva e é salvo por pescadores que buscavam marlins",
+    "d": "O pianista foi encontrado por acaso durante uma pescaria, em mar aberto, depois de cair da embarcação; as circunstâncias do acidente ainda são investigadas pela Guarda Costeira",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/pianista-de-cruzeiro-cai-no-pacifico-passa-10-horas-a-deriva-e-e-salvo-por-pescadores-que-buscavam-marlins/",
+    "time": "2026-11-15T20:10:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique em seu aniversário",
+    "d": "Rubro-Negro completa, neste dia 15, 131 anos e dupla multicampeã pelo clube carioca foi homenageada na data comemorativa na Sede da Gávea, na Zona Sul do Rio de Janeiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-em-seu-aniversario/",
+    "time": "2026-11-15T20:04:17.000Z"
+  },
+  {
+    "cat": "economia",
     "src": "G1",
-    "h": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está controlando situação",
-    "d": "O ministro da Educação, Leonardo Barchini, apresenta os números do Enem para o presidente em exercício Geraldo Alckmin Reprodução/MEC O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional…",
+    "h": "Correios registram prejuízo de R$ 7,5 bilhões até o terceiro trimestre",
+    "d": "Ponto de Coleta dos Correios em Belém Divulgação Os Correios tiveram prejuízo de R$ 7,5 bilhões até o terceiro trimestre de 2026, segundo o balanço contábil da estatal. O resultado representa um crescimento do rombo r…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/15/correios-registram-prejuizo-de-r-75-bilhoes-no-terceiro-trimestre.ghtml",
+    "time": "2026-11-15T19:45:29.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "d": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T19:32:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Ronaldinho makes comeback in Ravenna win",
+    "d": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T19:31:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+    "d": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T19:20:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O ídolo do judô que está sacudindo a eleição presidencial da França com candidatura surpresa",
+    "d": "Com discurso contra extremismo, a pentacampeão olímpico Teddy Riner é uma das figuras mais populares da França contemporânea, e um em cada cinco eleitores afirma que poderia apoiá-lo na eleição.",
+    "link": "https://www.bbc.com/portuguese/articles/c6m2lm7g7l1jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T19:01:01.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Pope Leo rides in helicopter cockpit during Peru trip",
+    "d": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+    "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T18:38:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como China finalmente reduziu emissão de poluentes e planeja 'revolução de energias renováveis'",
+    "d": "O rápido desenvolvimento das energias renováveis fez com que as emissões de carbono da China virtualmente parassem de crescer. 5 gráficos mostram como o país conquistou esta façanha",
+    "link": "https://www.bbc.com/portuguese/articles/ckpqgqq307xlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T17:36:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como sobrevivi a uma explosão que deixou 650 mortos: 'As cortinas grudaram no teto'",
+    "d": "Virginia Martínez Tellez é uma das sobreviventes de um dos desastres industriais mais graves da história. Um vazamento de gás em um depósito da petroleira Pemex mudaria para sempre a sua vida, a de sua família e a de…",
+    "link": "https://www.bbc.com/portuguese/articles/c3x29ldq242wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T17:29:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação",
+    "d": "Alckmin visita sede do Inep no 2º dia de provas do Enem O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) na internet tem sido alvo de tenta…",
     "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
     "time": "2026-11-15T16:17:26.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Aliados de Lula já esperam permanência de Moretti no Planejamento",
-    "d": "Governistas ponderam, nos bastidores, o protagonismo do ministro na formulação do ajuste fiscal para o Lula 4",
-    "link": "https://www.cnnbrasil.com.br/politica/aliados-de-lula-ja-esperam-permanencia-de-moretti-no-planejamento/",
-    "time": "2026-11-15T16:10:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quatro economistas se movimentam para eleição presidencial na Argentina",
-    "d": "Milei, Kicillof, Melconian e Lacunza articulam projetos e equipes de olho na disputa de 2027",
-    "link": "https://www.cnnbrasil.com.br/internacional/quatro-economistas-se-movimentam-para-eleicao-presidencial-na-argentina/",
-    "time": "2026-11-15T16:06:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ronaldinho titular? Veja escalações e onde assistir à Ravenna x Forlì",
-    "d": "Bruxo começa entre os 11 titulares do time italiano",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/ronaldinho-titular-veja-escalacoes-e-onde-assistir-a-ravenna-x-forli/",
-    "time": "2026-11-15T16:05:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Paciente sem metástase após vacina russa: é cedo para cura, diz cientista",
-    "d": "Primeiro paciente a receber imunizante experimental contra o câncer apresenta estabilidade no quadro, mas pesquisadores ressaltam que ainda não há comprovação de eficácia",
-    "link": "https://www.cnnbrasil.com.br/ciencia/paciente-sem-metastase-apos-vacina-russa-e-cedo-para-cura-diz-cientista/",
-    "time": "2026-11-15T16:03:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Famosa pelo ‘rosto de coração’, uma coruja-da-igreja ‘colonizou’ espaço em uma churrasqueira doméstica e transformou em abrigo",
-    "d": "Proprietário registrou a cena inusitada nas redes sociais e cedeu o espaço para as aves por 90 dias; veja características da espécie",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/famosa-pelo-rosto-de-coracao-uma-coruja-da-igreja-colonizou-espaco-em-uma-churrasqueira-domestica-e-transformou-em-abrigo/",
-    "time": "2026-11-15T16:01:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Como as mulheres negras impulsionaram as vitórias democratas no sul dos EUA",
-    "d": "Mobilização de eleitoras garantiu resultados históricos em estados conservadores como Mississippi e Georgia",
-    "link": "https://www.cnnbrasil.com.br/internacional/como-as-mulheres-negras-impulsionaram-as-vitorias-democratas-no-sul-dos-eua/",
-    "time": "2026-11-15T16:00:24.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Clothing factories shut in Bangladesh as workers strike over pay",
+    "d": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T16:15:20.000Z"
   },
   {
     "cat": "internacional",
@@ -65,65 +193,17 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cantor gospel Jonatha Calixto sofre nova convulsão e está internado em UTI",
-    "d": "Diagnosticado com câncer, o artista paulista de 31 anos está em tratamento e recentemente passou por um procedimento para retirada de tumores",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/cantor-gospel-jonatha-calixto-sofre-nova-convulsao-e-esta-internado-em-uti/",
-    "time": "2026-11-15T15:52:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câmara aprova perda de herança para casos de fraude em pedidos de curatela",
-    "d": "Legislação prevê a interdição para proteger pessoas em casos de incapacidade civil, como afetadas por doenças degenerativas, de prejuízos patrimoniais ou administrativos",
-    "link": "https://www.cnnbrasil.com.br/politica/camara-aprova-perda-de-heranca-para-casos-de-fraude-em-pedidos-de-curatela/",
-    "time": "2026-11-15T15:40:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "SP lidera casos de Mpox no Brasil, com mais de 400 registros; RJ já tem 395",
-    "d": "Brasil já soma 1.099 casos da doença em todas as unidades federativas até novembro deste ano; casos em São Paulo correspondem a 37% do valor nacional",
-    "link": "https://www.cnnbrasil.com.br/saude/sp-lidera-casos-de-mpox-no-brasil-com-mais-de-400-registros-rj-ja-tem-395/",
-    "time": "2026-11-15T15:39:58.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "A mulher que está há anos presa em ilha paradisíaca por problema com visto: 'Viajaria até algemada, amarrada e amordaçada'",
+    "h": "A mulher que está há anos presa em ilha paradisíaca por problema com visto: 'Viajaria até algemada'",
     "d": "Ruchira Ranasingha, de 50 anos, está retida nas Ilhas Cook desde 2023 e quer voltar ao Sri Lanka.",
     "link": "https://www.bbc.com/portuguese/articles/cjy5xldlxn1do?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T15:39:41.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Papa Leão viajará pelo Peru para visitar cidade inca e na Amazônia",
-    "d": "Leão, o primeiro cidadão peruano a se tornar papa, percorrerá cerca de 2.270 quilômetros em 12 horas para participar de quatro eventos em Cusco, o centro do Império Inca, e em Pucallpa, na Amazônia das terras baixas",
-    "link": "https://www.cnnbrasil.com.br/internacional/papa-leao-viajara-pelo-peru-para-visitar-cidade-inca-e-amazonia/",
-    "time": "2026-11-15T15:36:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Forças da Arábia Saudita são obrigadas a recuar em guerra contra Houthis",
-    "d": "Exército iemenita, apoiado pelos sauditas, teve que fazer retirada em direção ao porto de Aden em meio a combates na região da costa do Mar Vermelho",
-    "link": "https://www.cnnbrasil.com.br/internacional/forcas-da-arabia-saudita-sao-obrigadas-a-recuar-em-guerra-contra-houthis/",
-    "time": "2026-11-15T15:26:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Confronto entre traficantes e PMs termina com 7 presos e 2 feridos no Rio",
-    "d": "Polícia apreendeu dois fuzis e um revólver no Morro da Caixa D’Água, na Zona Norte do Rio, neste domingo (15)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/confronto-entre-traficantes-e-pms-termina-com-7-presos-e-2-feridos-no-rio/",
-    "time": "2026-11-15T15:25:51.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
-    "d": "O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que espera que o Senado termine de votar o texto para que a p…",
+    "d": "Alckmin visita sede do Inep no 2º dia de provas do Enem O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que e…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
     "time": "2026-11-15T15:23:09.000Z"
   },
@@ -136,20 +216,20 @@
     "time": "2026-11-15T15:06:28.000Z"
   },
   {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "When the boss has an affair, the whole family business can pay the price",
+    "d": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat From Profumo to Petraeus to Gary Hart, Bill Gates and Bill Clinton, history is littered with older…",
+    "link": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
+    "time": "2026-11-15T15:00:16.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "d": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T14:56:21.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-    "d": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T14:33:59.000Z"
   },
   {
     "cat": "economia",
@@ -186,7 +266,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
+    "h": "Por que 15 de novembro é feriado e o que um 'golpe na monarquia' tem a ver com a data?",
     "d": "Quase um século e meio depois, tema ainda suscita debates sobre a Proclamação da República. Primeiras críticas apareceram meses após Marechal Deodoro da Fonseca proclamá-la.",
     "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T13:10:42.000Z"
@@ -216,36 +296,12 @@
     "time": "2026-11-15T11:06:32.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que Trump está sob pressão por escândalo sexual na Nvidia",
-    "d": "A vida amorosa do ex-diretor da Nvidia, Jensen Huang, desencadeou a crise. Mas muitas das questões que surgiram precisam ser respondidas pela Casa Branca.",
-    "link": "https://www.bbc.com/portuguese/articles/cm4gn9ly3qq6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T10:50:20.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
     "d": "A cibersegurança continua sendo uma preocupação crescente. Freepik A La Poste, equivalente aos Correios no Brasil e um dos maiores grupos de serviços da França, confirmou no sábado (14) que sua subsidiária Maileva foi…",
     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
     "time": "2026-11-15T10:21:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-    "d": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T09:57:25.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-    "d": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-    "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T09:26:37.000Z"
   },
   {
     "cat": "internacional",
@@ -272,14 +328,6 @@
     "time": "2026-11-15T08:00:00.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Copper wire upgrade behind US flight suspension, transport secretary says",
-    "d": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T07:10:31.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Palha de café e farelos viram fertilizante natural em apenas nove dias e ajudam a enriquecer o solo",
@@ -302,6 +350,14 @@
     "d": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais cr O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15) o aprofundamento das relações comerciais e d…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-defende-ampliacao-de-parceria-com-sudeste-asiatico-e-impoe-condicao-a-exploracao-de-minerais-criticos.ghtml",
     "time": "2026-11-15T06:01:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "d": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory,…",
+    "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+    "time": "2026-11-15T06:00:06.000Z"
   },
   {
     "cat": "economia",
@@ -333,14 +389,6 @@
     "h": "Lula vai regular redes sociais? Por que presidente defende mais regras e o que pode mudar",
     "d": "Lula quer regular big techs até o fim do ano O presidente Luiz Inácio Lula da Silva (PT) já mencionou algumas vezes que pretende regular as redes sociais no Brasil. As falas se intensificaram depois das eleições, que…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/lula-vai-regular-redes-sociais-por-que-presidente-defende-mais-regras-e-o-que-pode-mudar.ghtml",
-    "time": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Casamento de 40 anos e dois filhos: quem é quem na família de Jensen Huang, que deixou Nvidia após casos extraconjugais",
-    "d": "Jensen e Lori Huang têm dois filhos: Madison e Spencer Reuters/Carlos Barria; Reuters/Aaron; Divulgação/Nvidia; Divulgação/Nvidia A revelação dos casos extraconjugais do fundador e ex-CEO da Nvidia, Jensen Huang, trou…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/familia-jensen-huang.ghtml",
     "time": "2026-11-15T05:00:00.000Z"
   },
   {
@@ -384,14 +432,6 @@
     "time": "2026-11-15T03:00:00.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "d": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-14T22:37:25.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Me disseram que meu bebê havia morrido... 42 anos depois, ele me mandou um e-mail'",
@@ -406,30 +446,6 @@
     "d": "Ministro Luiz Fux durante julgamento no Supremo Luiz Silveira/STF O ministro Luiz Fux fez um destaque no julgamento sobre a transição da escala 6x1 para a 5x2 e levou o processo para o plenário físico do Supremo Tribu…",
     "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
     "time": "2026-11-14T19:55:35.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
-    "d": "O México é um dos países que menos arrecadam impostos na América Latina, mas os gastos públicos impulsionam seu consumo interno e são fundamentais no combate à pobreza. Como o governo do país pode solucionar as \"anoma…",
-    "link": "https://www.bbc.com/portuguese/articles/cmn8077z3xl6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-14T19:06:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Philippines wins first Eurovision Song Contest Asia",
-    "d": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-    "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-14T18:17:58.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
-    "d": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
-    "link": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-14T18:06:39.000Z"
   },
   {
     "cat": "brasil",
@@ -518,14 +534,6 @@
     "d": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy Jensen Huang has stepped down as CEO of Nvidia, the company at the center of the AI boom, after le…",
     "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
     "time": "2026-11-13T04:00:08.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
-    "d": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s…",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
-    "time": "2026-11-12T17:50:35.000Z"
   },
   {
     "cat": "internacional",
