@@ -1,131 +1,459 @@
 [
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em meio à Black Friday e Natal, Latam Cargo ampliará capacidade de operação",
-    "d": "Operação terá 880 toneladas adicionais por semana, além de reforço de equipes e rotas",
-    "link": "https://www.cnnbrasil.com.br/infra/em-meio-a-black-friday-e-natal-latam-cargo-ampliara-capacidade-de-operacao/",
-    "time": "2026-11-16T07:30:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "China e EUA travam corrida por desenvolvimento de IA",
-    "d": "Nvidia perdeu cerca de US$ 192 bilhões em valor de mercado após investigação envolvendo Jensen Huang e suspeita de espionagem chinesa",
-    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/china-e-eua-travam-corrida-por-desenvolvimento-de-ia/",
-    "time": "2026-11-16T07:30:38.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Área técnica da Aneel propõe alta de 22,64% na tarifa residencial da CEEE-D",
-    "d": "Aumento médio sugerido é de 20,16%, com vigência a partir de 22 de novembro; cálculo inclui recuperação de valores adiados após enchentes de 2024",
-    "link": "https://www.cnnbrasil.com.br/infra/area-tecnica-da-aneel-propoe-alta-de-2264-na-tarifa-residencial-da-ceee-d/",
-    "time": "2026-11-16T07:30:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "A um mês da nova jornada, STF ainda precisa julgar regras da escala 5×2",
-    "d": "Pedido de destaque de Luiz Fux interrompeu julgamento que tinha quatro votos favoráveis à decisão de Flávio Dino; liminar segue em vigor, e transição começa em 16 de dezembro",
-    "link": "https://www.cnnbrasil.com.br/politica/a-um-mes-da-nova-jornada-stf-ainda-precisa-julgar-regras-da-escala-5x2/",
-    "time": "2026-11-16T07:30:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-    "d": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-16T07:23:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rússia ataca infraestrutura ucraniana, e Kiev mira empresas militares",
-    "d": "Ucrânia afirma ter atingido três instalações dos setores de defesa e energia em território russo; ofensiva de Moscou também deixou mortos e feridos",
-    "link": "https://www.cnnbrasil.com.br/internacional/russia-ataca-infraestrutura-ucraniana-e-kiev-mira-empresas-militares/",
-    "time": "2026-11-16T07:02:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Relator articula apoio do centro para aprovar PL das big techs",
-    "d": "Aliel Machado (PV-PR) já se reuniu com o PP e tem encontros previstos com PSD, MDB e Republicanos antes desta terça-feira (17), para quando está prevista a votação da proposta",
-    "link": "https://www.cnnbrasil.com.br/politica/relator-articula-apoio-do-centro-para-aprovar-pl-das-big-techs-na-terca/",
-    "time": "2026-11-16T07:01:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda PL das big techs, que deve ser votado na Câmara nesta semana",
-    "d": "Proposta do governo regula mercados digitais e amplia poderes do Cade contra práticas anticoncorrenciais de gigantes da tecnologia",
-    "link": "https://www.cnnbrasil.com.br/politica/entenda-pl-das-big-techs-que-deve-ser-votado-na-camara-nesta-semana/",
-    "time": "2026-11-16T07:00:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dormir com cães e gatos faz bem ou mal? Conheça os riscos e cuidados",
-    "d": "Compartilhar a cama com animais de estimação pode trazer conforto emocional, mas também afetar a qualidade do sono e aumentar a exposição a microrganismos",
-    "link": "https://www.cnnbrasil.com.br/saude/dormir-com-caes-e-gatos-faz-bem-ou-mal-conheca-os-riscos-e-cuidados/",
-    "time": "2026-11-16T07:00:32.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ex-jogador do Real Madrid explica segredo do sucesso da seleção espanhola",
-    "d": "Galático, Míchel Salgado aponta o trabalho de base como essencial para o domínio da Espanha no futebol mundial, que também conquistou títulos contra a Argentina",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/ex-jogador-do-real-madrid-explica-segredo-do-sucesso-da-selecao-espanhola/",
-    "time": "2026-11-16T07:00:28.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "MP Militar apura seis casos de assédio a mulheres das Forças Armadas",
-    "d": "Levantamento reúne suspeitas de assédio e importunação sexual e violência psicológica; órgão criou aplicativo para proteger novas recrutas; aplicativo do MPM incentiva denúncias",
-    "link": "https://www.cnnbrasil.com.br/politica/mp-militar-apura-seis-casos-de-assedio-a-mulheres-das-forcas-armadas/",
-    "time": "2026-11-16T07:00:03.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Narcotraficante fundador do cartel de Guadalajara morre aos 80 anos",
-    "d": "Conhecido como \"chefe dos chefes\", Miguel Ángel Félix Gallardo estava preso desde 1989, após ser condenado pelo assassinato de um agente antidrogas dos EUA",
-    "link": "https://www.cnnbrasil.com.br/internacional/narcotraficante-fundador-do-cartel-de-guadalajara-morre-aos-80-anos/",
-    "time": "2026-11-16T06:08:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Lula volta ao Brasil e deve retomar negociações para novo governo",
-    "d": "Presidente retorna ao país após viagem à Turquia, Filipinas e Espanha; nomes para formação da Esplanada e indicações de cargos estão no radar para o novo mandato do petista",
-    "link": "https://www.cnnbrasil.com.br/politica/lula-volta-ao-brasil-e-deve-retomar-negociacoes-para-novo-governo/",
-    "time": "2026-11-16T06:00:57.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "G1",
-    "h": "Concurso da Câmara dos Deputados encerra inscrições nesta semana; salários chegam a R$ 32 mil",
-    "d": "Câmara dos Deputados Divulgação / Câmara dos Deputados As inscrições para o novo concurso da Câmara dos Deputados terminam na próxima terça-feira (17). A seleção reúne 184 oportunidades entre vagas imediatas e cadastr…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/16/concurso-da-camara-dos-deputados-encerra-inscricoes-nesta-semana-salarios-chegam-a-r-32-mil.ghtml",
-    "time": "2026-11-16T06:00:00.000Z"
+    "h": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
+    "d": "O presidente do STF, Edson Fachin, indicou a colegas que pretende pautar logo o julgamento da escala 5x2, que foi transferido para o plenário físico do STF na última semana a pedido do ministro Luiz Fux. O ponto centr…",
+    "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
+    "time": "2026-11-16T18:36:43.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Wife of assassinated ex-Haitian leader registers for presidential election",
-    "d": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-16T05:06:59.000Z"
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza:  'Muito além de decisões pessoais'",
+    "d": "Documentário 'El Juego de la Vida' (O Jogo da Vida) foi o mais assistido nos cinemas colombianos nos últimos cinco anos, retratando as armadilhas repetidas que atingem gerações da zona rural do país",
+    "link": "https://www.bbc.com/portuguese/articles/cm3eg8e5y0jvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T18:23:55.000Z"
   },
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-    "d": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chi…",
-    "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-    "time": "2026-11-16T04:39:20.000Z"
+    "h": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+    "d": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this…",
+    "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+    "time": "2026-11-16T18:23:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Por que Lindsay Clancy, acusada de matar os 3 filhos, será julgada novamente no ano que vem",
+    "d": "O primeiro julgamento da mulher de 36 anos, realizado neste ano, não chegou a um veredicto sobre as mortes das crianças.",
+    "link": "https://www.bbc.com/portuguese/articles/c6vg29vpwllqo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T18:16:11.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Bolsas da Europa caem com temores sobre IA antes de balanço da Nvidia",
+    "d": "FTSE 100 fechou em queda de 0,09%, DAX caiu 0,45%, CAC 40 perdeu 0,20%, FTSE MIB recuou 0,65%, Ibex 35 fechou em baixa de 0,25%; enquanto PSI 20 subiu 0,13%",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-caem-com-temores-sobre-ia-antes-de-balanco-da-nvidia/",
+    "time": "2026-11-16T18:13:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Meu nome é Pattinson, Robert Pattinson': como o astro de Crepúsculo virou o novo James Bond, o 007",
+    "d": "O ator inglês será o sétimo intérprete do espião icônico, em um momento em que sua carreira está em plena ascensão.",
+    "link": "https://www.bbc.com/portuguese/articles/c8wy53qwzn4no?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T18:09:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+    "d": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T18:06:26.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Gerente do Corinthians critica STJD por punição a Yuri Alberto: “Exagerada”",
+    "d": "Dirigente critica suspensão de dois jogos ao atacante e acusa tribunal de adotar \"dois pesos e duas medidas\"",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/gerente-do-corinthians-critica-stjd-por-punicao-a-yuri-alberto-exagerada/",
+    "time": "2026-11-16T18:04:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Operação no Porto de Santos intercepta droga com destino ao Marrocos",
+    "d": "Agentes federais recolheram 153 quilos de cocaína escondidos em contêineres refrigerados",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-no-porto-de-santos-intercepta-droga-com-destino-ao-marrocos/",
+    "time": "2026-11-16T18:02:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Procurado por morte de torcedor em confronto no Engenhão é preso em SP",
+    "d": "Suspeito, apontado como integrante da torcida organizada \"Fúria Jovem\", foi detido durante um evento no Bom Retiro",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/procurado-por-morte-de-torcedor-em-confronto-no-engenhao-e-preso-em-sp/",
+    "time": "2026-11-16T18:01:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Grammy: saiba quem é Raye, cantora que igualou recorde de Beyoncé",
+    "d": "Lista de indicados à prêmiação da música de 2027 foi anunciada nesta segunda-feira (16); a cantora britânica lidera com 11 nomeações em um mesmo ano",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/grammy-saiba-quem-e-raye-cantora-que-igualou-recorde-de-beyonce/",
+    "time": "2026-11-16T18:00:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ronaldinho recebe salário milionário no Ravenna, diz jornal; veja valores",
+    "d": "Astro brasileiro reestreou no futebol profissional após 11 anos no último domingo (15), na vitória do Ravenna sobre o Forlì pela terceira divisão italiana",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/ronaldinho-recebe-salario-milionario-no-ravenna-diz-jornal-veja-valores/",
+    "time": "2026-11-16T18:00:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Paleontólogos criam “mapa do tesouro” para auxiliar nas buscas de fósseis pré-históricos desaparecidos na Terra",
+    "d": "Pesquisadores europeus projetaram a ferramenta baseada em análises de 540 milhões de anos de esqueletos de animais marinhos.",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/paleontologos-criam-mapa-do-tesouro-para-auxiliar-nas-buscas-de-fosseis-pre-historicos-desaparecidos-na-terra/",
+    "time": "2026-11-16T18:00:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Infantino ganha concorrente de peso na disputa pela presidência da Fifa",
+    "d": "Rompida oficialmente com o suíço, Uefa lançou apoio a Philippe Diallo, presidente da Federação Francesa de Futebol (FFF), na disputa pelo pleito em março",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/infantino-ganha-concorrente-de-peso-na-disputa-pela-presidencia-da-fifa/",
+    "time": "2026-11-16T18:00:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Pacote do governo reforça arcabouço fiscal",
+    "d": "Analista de Economia da CNN Gabriel Monteiro avalia, ao Bastidores CNN, que medidas são um reforço ao arcabouço fiscal, mas mercado considera insuficientes para conter dívida pública",
+    "link": "https://www.cnnbrasil.com.br/economia/analise-pacote-do-governo-reforca-arcabouco-fiscal/",
+    "time": "2026-11-16T17:59:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Líderes do Vale do Silício apoiam retorno de Jensen Huang à Nvidia",
+    "d": "Huang renunciou ao cargo de CEO após revelação de casos extraconjugais, incluindo com uma suposta espiã chinesa",
+    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/lideres-do-vale-do-silicio-apoiam-retorno-de-jensen-huang-a-nvidia/",
+    "time": "2026-11-16T17:58:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça marca audiência sobre morte de estudante baleado por bombeiro em SP",
+    "d": "Bruno Hashimura San Juliano, de 23 anos, morreu após ser atingido por disparos durante uma discussão de trânsito em Taubaté; militar responde por homicídio",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-marca-audiencia-sobre-morte-de-estudante-baleado-por-bombeiro-em-sp/",
+    "time": "2026-11-16T17:58:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Renato Gaúcho fala sobre momento da Seleção e brinca com Ancelotti",
+    "d": "Treinador do Grêmio concedeu coletiva nesta segunda-feira (16) e desviou de perguntas sobre o trabalho do italiano à frente da Amarelinha",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/renato-gaucho-fala-sobre-momento-da-selecao-e-brinca-com-ancelotti/",
+    "time": "2026-11-16T17:53:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha",
+    "d": "Lula e primeiro-ministro da Espanha, Pedro Sánchez. Ricardo Stuckert/PR O primeiro-ministro da Espanha, Pedro Sánchez, conversou com o presidente do Brasil, Luiz Inácio Lula da Silva, sobre a defesa da democracia dian…",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/16/sanchez-e-lula-conversam-sobre-a-ameaca-da-extrema-direita-antes-das-eleicoes-na-espanha.ghtml",
+    "time": "2026-11-16T17:48:12.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias em 2026, diz Comsefaz",
+    "d": "Pessoa mexendo no celular Reprodução/ RBS TV O avanço das casas de apostas online segue consumindo uma parcela relevante dos recursos das famílias brasileiras. Nos primeiros sete meses de 2026, a saída líquida de recu…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
+    "time": "2026-11-16T17:02:30.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Five EU countries announce migrant deportation centre in Rwanda",
+    "d": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T16:27:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "4 em cada 10 eleitores que votaram no 2º turno e não votaram no 1° eram idosos",
+    "d": "Dos cerca de 2,96 milhões de eleitores que votaram no segundo turno das eleições de 2026, mas não no primeiro, 1,3 milhão tinham 70 anos ou mais. Isso equivale a 44% do aumento, ou 4 em cada 10, segundo dados do Tribu…",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/16/eleitores-idosos-2-turno.ghtml",
+    "time": "2026-11-16T16:26:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O alerta após vídeo de FHC investigado pela polícia: 'Redes estão cheias de posts feitos por quem deveria proteger os vulneráveis'",
+    "d": "Luciana Dadalto, advogada e especialista em bioética, afirma que a exposição de vulneráveis foi naturalizada, mas que precisa haver um debate sobre limites.",
+    "link": "https://www.bbc.com/portuguese/articles/c8p3v923q2y4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T16:22:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+    "d": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people wi…",
+    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+    "time": "2026-11-16T16:21:40.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – as it happened",
+    "d": "Rolling coverage of the latest economic and financial news Insurance industry workers: how is climate-related risk managed in your company? Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang…",
+    "link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+    "time": "2026-11-16T15:43:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
+    "d": "Uma carenagem de carga útil da United Launch Alliance (ULA), que transporta uma espaçonave de segurança nacional a ser acoplada a um foguete Vulcan para a missão USSF-87, é transportada por uma via no Centro Espacial…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
+    "time": "2026-11-16T15:31:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "d": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+    "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T14:58:12.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+    "d": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
+    "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T14:48:55.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Receita apreende R$ 581 milhões em operação de combate ao tráfico de drogas e ao contrabando",
+    "d": "A Receita Federal informou nesta segunda-feira (16) que foram apreendidos R$ 581 milhões em mercadorias ilegais e drogas por meio de uma mega operação. Mais de 500 servidores do Fisco e centenas de integrantes de órgã…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/16/receita-federal-apreende-r-581-milhoes-em-operacao-de-combate-ao-trafico-de-drogas-e-ao-contrabando.ghtml",
+    "time": "2026-11-16T14:24:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+    "d": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+    "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T14:22:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF",
+    "d": "Andrei Rodrigues nega crise e reforça autonomia da Polícia Federal O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou nesta segunda-feira (16) que tanto ele quanto a instituição têm sido alvo de ataques mot…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml",
+    "time": "2026-11-16T14:08:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem foi o 'chefe dos chefes', que revolucionou o narcotráfico do México e morreu aos 80 anos",
+    "d": "O ex-líder do todo-poderoso Cartel de Guadalajara morreu no domingo. Na década de 1980, ele mudou o mundo do narcotráfico, ao se aliar ao Cartel de Medellín, na Colômbia",
+    "link": "https://www.bbc.com/portuguese/articles/ck3rgq8yenj7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T14:06:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Corte de gastos, regulação da 6x1 e equipe do novo governo: o que espera Lula na volta de giro internacional",
+    "d": "Após um giro internacional, o presidente Luiz Inácio Lula da Silva (PT) retorna ao país nesta segunda-feira (16), na reta final dos trabalhos legislativos de 2026. Com poucas semanas até o recesso parlamentar, o gover…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/16/corte-de-gastos-regulacao-da-6x1-e-equipe-do-novo-governo-o-que-espera-lula-na-volta-de-giro-internacional.ghtml",
+    "time": "2026-11-16T13:58:25.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Gérard Depardieu drops appeal against sexual assault conviction",
+    "d": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
+    "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T13:40:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fachin diz que independência de juízes exige integridade e que não se pode fazer uma reforma 'contra o Judiciário'",
+    "d": "O presidente do Supremo Tribunal Federal, Edson Fachin, defendeu nesta segunda-feira (16) a independência de juízes, mas afirmou que, para serem independentes, os magistrados precisam de \"integridade\". Em meio a discu…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/16/fachin-diz-que-independencia-de-juizes-exige-integridade-e-que-nao-se-pode-fazer-uma-reforma-contra-o-judiciario.ghtml",
+    "time": "2026-11-16T13:27:57.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Feriado 20 de novembro: veja o que é comemorado na data e por que é feriado nacional",
+    "d": "Previsão do tempo orla maceió sol nuvens ensolarado praia Reprodução/TV Asa Branca Alagoas O próximo feriado nacional acontece em 20 de novembro, quando é celebrado o Dia Nacional de Zumbi e da Consciência Negra. A da…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/feriado-20-de-novembro-veja-o-que-e-comemorado-na-data-e-por-que-e-feriado-nacional.ghtml",
+    "time": "2026-11-16T13:22:33.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang à Nvidia",
+    "d": "O escândalo na Nvidia, com traições e espionagem, parece filme mas é vida real Dias depois de Jensen Huang deixar o comando da Nvidia, empresários, investidores e funcionários da fabricante de chips começaram a se mob…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
+    "time": "2026-11-16T13:18:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+    "d": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into t…",
+    "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
+    "time": "2026-11-16T13:16:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
+    "d": "Depois de aprovar o atual ajuste fiscal, a equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias no próximo ano. A avaliação é que o governo terá de dar um segundo passo na contenção…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
+    "time": "2026-11-16T12:57:38.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "PIX completa seis anos com mais de 1 bilhão de chaves registradas e mirando ligação com outros países",
+    "d": "Tesouro Nacional identifica ataque cibernético com exposição de cadastros e chaves pix O PIX, sistema de pagamentos instantâneos criado pelo Banco Central, completou seis anos nesta segunda-feira (16) com mais de 1 bi…",
+    "link": "https://g1.globo.com/economia/pix/noticia/2026/11/16/pix-completa-seis-anos-com-mais-de-1-bilhao-de-chaves-registradas-e-mirando-interligacao-com-outros-paises.ghtml",
+    "time": "2026-11-16T12:52:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Moraes nega pedido de Bolsonaro para receber Valdemar e os pré-candidatos à presidência do Senado Marinho e Tereza",
+    "d": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), negou nesta segunda-feira (16) um pedido da defesa de Jair Bolsonaro para que o ex-presidente receba visitas dos senadores Rogério Marinho (PL-RN) e T…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/16/moraes-nega-pedido-de-bolsonaro-para-receber-valdemar-e-os-pre-candidatos-a-presidencia-do-senado-marinho-e-tereza.ghtml",
+    "time": "2026-11-16T12:43:31.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dólar dispara 2% e bate R$ 5,79, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal",
+    "d": "Entenda o que faz o preço do dólar subir ou cair O dólar operava em alta nesta segunda-feira (16), com avanço de 2,30% por volta das 15h40, cotado a R$ 5,7849. Na máxima do dia, chegou a R$ 5,7939, superando todos os…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml",
+    "time": "2026-11-16T12:38:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Man sentenced over 'horrific' attempted murder of three children",
+    "d": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
+    "link": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T12:27:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quaest: 92% apoiam reduzir maioridade para 16 anos; 64% dizem ser a favor de pena de morte em casos de homicídio e estupro",
+    "d": "No Brasil, maioridade penal é de 18 anos, mas crianças podem ser responsabilizadas a partir dos 12, com internações em entidades como a Fundação Casa, em São Paulo Fundação Casa/ BBC Pesquisa Quaest divulgada nesta se…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/16/quaest-ideologia.ghtml",
+    "time": "2026-11-16T12:15:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Avião comercial 100% elétrico faz primeiro voo tripulado na China; VÍDEO",
+    "d": "Avião comercial 100% elétrico faz primeiro voo tripulado na China A China realizou no sábado (14) o primeiro voo tripulado de um avião comercial totalmente elétrico, desenvolvido para transportar até 19 passageiros em…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/16/aviao-comercial-eletrico-china-primeiro-voo-tripulado.ghtml",
+    "time": "2026-11-16T12:03:27.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "'Prévia' do PIB do BC registra tombo de 0,9% no 3º trimestre, maior queda desde a pandemia",
+    "d": "O Banco Central informou nesta segunda-feira (16) que o Índice de Atividade Econômica (IBC-Br), considerado a \"prévia\" do Produto Interno Bruto (PIB), recuou 0,9% no terceiro trimestre deste ano. O resultado foi calcu…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml",
+    "time": "2026-11-16T12:01:50.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros",
+    "d": "Os economistas do mercado financeiro elevaram novamente a estimativa de inflação em 2027 e passaram a projetar um corte menor de juros no ano que vem. As informações fazem parte do \"Boletim Focus\", divulgado nesta ter…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/16/mercado-eleva-estimativa-de-inflacao-para-5percent-em-2027-e-preve-corte-menor-nos-juros.ghtml",
+    "time": "2026-11-16T11:33:20.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+    "d": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates E…",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+    "time": "2026-11-16T11:30:35.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+    "d": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokesperson Eurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered wh…",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+    "time": "2026-11-16T11:12:44.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Yemeni forces retreat to defend port city from Houthis",
+    "d": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T11:09:38.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Americans relying on heating oil brace for harsh winter: ‘We’re often cold in our own home’",
+    "d": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those households Millions of homeowners in the US will pay hundreds of dollars more this winter to heat their homes as…",
+    "link": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
+    "time": "2026-11-16T11:00:58.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Two mass shootings in South Africa leave 17 dead",
+    "d": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+    "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T10:57:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+    "d": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has trigge…",
+    "link": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
+    "time": "2026-11-16T10:19:08.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
+    "d": "Ao vencer a corrida para o Senado no Estado americano do Mississippi, Scott Colom se tornou o primeiro senador negro do Estado desde o século 19. Por que apenas 14 senadores negros haviam sido eleitos até então, em to…",
+    "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T09:43:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Delaware hit by rare November tornado",
+    "d": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina The National Weather Service in the US has confirmed that an EF1 tornado touched down south-east of Newark in the Salem Woods neighbo…",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+    "time": "2026-11-16T09:27:06.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+    "d": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T08:56:04.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
+    "d": "Em vez de nomes próximos como Flávio Dino e Cristiano Zanin, presidente terá que buscar opções com apoio forte do Centrão, afirmam analistas.",
+    "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T08:46:29.000Z"
   },
   {
     "cat": "internacional",
@@ -146,58 +474,10 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Anac registra 211 casos de indisciplina após regra que pune má conduta de passageiros",
-    "d": "A Agência Nacional de Aviação Civil (Anac) registrou 211 ocorrências envolvendo passageiros indisciplinados desde setembro, quando entraram em vigor as novas regras para punir esse tipo de comportamento no transporte…",
+    "h": "211 passageiros foram multados por causarem confusão em voos desde setembro, aponta Anac",
+    "d": "ANAC registrou 211 atos de indisciplina de passageiros nos últimos dois meses A Agência Nacional de Aviação Civil (Anac) registrou 211 ocorrências envolvendo passageiros indisciplinados desde setembro, quando entraram…",
     "link": "https://g1.globo.com/economia/noticia/2026/11/16/anac-registra-211-casos-de-indisciplina-apos-regra-que-pune-ma-conduta-de-passageiros.ghtml",
     "time": "2026-11-16T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula se reúne nesta segunda com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição",
-    "d": "Lula volta a defender o multilateralismo como caminho para a prosperidade e a paz O presidente Luiz Inácio Lula da Silva (PT) se reúne nesta segunda-feira (16) com o primeiro-ministro espanhol, Pedro Sánchez, em Madri…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml",
-    "time": "2026-11-16T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bolsa Família 2026: pagamentos de novembro começam nesta segunda; veja calendário",
-    "d": "Governo antecipa pagamento do Bolsa Família A Caixa Econômica Federal inicia os pagamentos de novembro do Bolsa Família 2026 nesta segunda-feira (16). Os primeiros a receber serão os beneficiários com Número de Identi…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/16/bolsa-familia-2026-pagamentos-de-novembro-comecam-nesta-segunda-veja-calendario.ghtml",
-    "time": "2026-11-16T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Correios têm 16 trimestres de prejuízo; estatal atribui situação à maior concorrência e a atuar em todo o país",
-    "d": "Correios acumula trimestres de prejuízo Jornal Nacional/ Reprodução Com o prejuízo de R$ 7,5 bilhões registrado até o terceiro trimestre de 2026, os Correios chegaram a seu 16º trimestre seguido de contas no vermelho.…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/16/correios-tem-16-trimestres-de-prejuizo-estatal-atribui-situacao-a-maior-concorrencia-e-a-atuar-em-todo-o-pais.ghtml",
-    "time": "2026-11-16T03:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
-    "d": "Putin e Xi já se reuniram mais de 40 vezes; Trump e Putin, 7 vezes; e Trump e Xi, 3 vezes; mas os três nunca se encontraram juntos. Ira L. Black/Corbis/Mohd Rasfan/Kristina Solovyova/POOL/AFP/Getty Images via BBC Os p…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/16/o-que-encontro-historico-de-trump-putin-e-xi-marcado-para-esta-semana-pode-significar-para-o-mundo.ghtml",
-    "time": "2026-11-16T03:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "d": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-16T01:47:57.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
-    "d": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed Inte…",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
-    "time": "2026-11-16T01:17:04.000Z"
   },
   {
     "cat": "internacional",
@@ -210,130 +490,18 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "'Por que minha família branca nunca me disse que eu era negra?'",
-    "d": "Lacey Tezino foi criada como uma menina branca em uma cidade do interior do Texas conhecida por seu passado racista. Por isso, ficou surpresa ao descobrir que, na verdade, era negra.",
-    "link": "https://www.bbc.com/portuguese/articles/c8p3v9dw7pwpo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T23:59:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-    "d": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T22:57:27.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Canada bars Russia from Junior World Championships",
-    "d": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-    "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T22:01:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-    "d": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-    "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T22:00:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
     "h": "Como foi a volta de Ronaldinho Gaúcho aos gramados, aos 46 anos",
     "d": "Aos 46 anos, o campeão mundial pela seleção brasileira saiu da aposentadoria para defender o Ravenna, clube italiano da terceira divisão",
     "link": "https://www.bbc.com/portuguese/articles/cv5y151l9kxwo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T21:54:22.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Czechs rally against plan to switch funding of public media",
-    "d": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T21:03:40.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Correios registram prejuízo de R$ 7,5 bilhões até o terceiro trimestre",
-    "d": "Ponto de Coleta dos Correios em Belém Divulgação Os Correios tiveram prejuízo de R$ 7,5 bilhões até o terceiro trimestre de 2026, segundo o balanço contábil da estatal. O resultado representa um crescimento do rombo r…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/15/correios-registram-prejuizo-de-r-75-bilhoes-no-terceiro-trimestre.ghtml",
-    "time": "2026-11-15T19:45:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "d": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T19:32:39.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "O ídolo do judô que está sacudindo a eleição presidencial da França com candidatura surpresa",
-    "d": "Com discurso contra extremismo, o pentacampeão olímpico Teddy Riner é uma das figuras mais populares da França contemporânea, e um em cada cinco eleitores afirma que poderia apoiá-lo na eleição.",
-    "link": "https://www.bbc.com/portuguese/articles/c6m2lm7g7l1jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T19:01:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Pope Leo rides in helicopter cockpit during Peru trip",
-    "d": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-    "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T18:38:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como China finalmente reduziu emissão de poluentes e planeja 'revolução de energias renováveis'",
-    "d": "O rápido desenvolvimento das energias renováveis fez com que as emissões de carbono da China virtualmente parassem de crescer. 5 gráficos mostram como o país conquistou esta façanha",
-    "link": "https://www.bbc.com/portuguese/articles/ckpqgqq307xlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T17:36:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como sobrevivi a uma explosão que deixou 650 mortos: 'As cortinas grudaram no teto'",
-    "d": "Virginia Martínez Tellez é uma das sobreviventes de um dos desastres industriais mais graves da história. Um vazamento de gás em um depósito da petroleira Pemex mudaria para sempre a sua vida, a de sua família e a de…",
-    "link": "https://www.bbc.com/portuguese/articles/c3x29ldq242wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T17:29:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação",
-    "d": "Alckmin visita sede do Inep no 2º dia de provas do Enem O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) na internet tem sido alvo de tenta…",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
-    "time": "2026-11-15T16:17:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A mulher que está há anos presa em ilha paradisíaca por problema com visto: 'Viajaria até algemada'",
+    "h": "A mulher que está há anos presa em ilha paradisíaca por problema com visto",
     "d": "Ruchira Ranasingha, de 50 anos, está retida nas Ilhas Cook desde 2023 e quer voltar ao Sri Lanka.",
     "link": "https://www.bbc.com/portuguese/articles/cjy5xldlxn1do?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T15:39:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
-    "d": "Alckmin visita sede do Inep no 2º dia de provas do Enem O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que e…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
-    "time": "2026-11-15T15:23:09.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
-    "d": "Primeiro-ministro do Canadá, Mark Carney, agradece após discurso no Parlamento europeu em Strasburgo, na França, em 17 de setembro de 2026. REUTERS/Yves Herman O Canadá se comprometeu a contribuir com até 560 milhões…",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
-    "time": "2026-11-15T15:06:28.000Z"
   },
   {
     "cat": "economia",
@@ -345,131 +513,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
-    "d": "Concurso 3.086 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio caso houvesse o acerto das seis dezenas era de R$ R$ 26.…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-11-15T14:05:58.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "South Korea's top scorer in tax accountancy exam admits cheating",
-    "d": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T13:37:45.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
-    "d": "O quadro 'Proclamação da República', de Benedito Calixto, retrata a proclamação na imaginação do pintor. Centro Cultural São Paulo via BBC Meses após o Marechal Deodoro da Fonseca enganar a própria mulher, burlar as r…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/15-de-novembro-e-feriado-de-que-por-que-historiadores-acreditam-que-a-monarquia-sofreu-um-golpe.ghtml",
-    "time": "2026-11-15T13:24:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que 15 de novembro é feriado e o que um 'golpe na monarquia' tem a ver com a data?",
-    "d": "Quase um século e meio depois, tema ainda suscita debates sobre a Proclamação da República. Primeiras críticas apareceram meses após Marechal Deodoro da Fonseca proclamá-la.",
-    "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T13:10:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'",
-    "d": "Medicamento desenvolvido nos EUA pode atrasar o surgimento dos primeiros sinais da doença de Tate McDaid, mas acesso é um entrave difícil de superar.",
-    "link": "https://www.bbc.com/portuguese/articles/cqgklye785xko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T12:03:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "As pessoas que só precisam dormir 4 horas por dia — e como a genética explica isso",
-    "d": "A ciência tem comprovado que mutações podem levar algumas pessoas a precisarem de muito menos sono. Mas pode ser bem difícil saber se você é uma delas.",
-    "link": "https://www.bbc.com/portuguese/articles/cw99e005k17lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T11:12:20.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
-    "d": "A cibersegurança continua sendo uma preocupação crescente. Freepik A La Poste, equivalente aos Correios no Brasil e um dos maiores grupos de serviços da França, confirmou no sábado (14) que sua subsidiária Maileva foi…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
-    "time": "2026-11-15T10:21:11.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Hidratação nos chifres, 'damas de companhia' e dieta especial: o g1 acompanhou a rotina da vaca mais cara do mundo",
-    "d": "O g1 passou um dia com a vaca mais cara do mundo; veja como foi A vaca mais cara do mundo é brasileira, tem cinco donos e três clones para chamar de seus. Avaliada em R$ 54 milhões, Donna FIV CIAV nasceu no Paraná e h…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/15/o-g1-acompanhou-a-rotina-da-vaca-mais-cara-do-mundo.ghtml",
-    "time": "2026-11-15T08:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA",
-    "d": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que o Brasil buscou diversificar suas parcerias comerciais ap…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-diz-que-buscou-novos-parceiros-em-vez-de-ficar-chorando-apos-tarifaco-dos-eua.ghtml",
-    "time": "2026-11-15T06:58:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais críticos",
-    "d": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais cr O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15) o aprofundamento das relações comerciais e d…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-defende-ampliacao-de-parceria-com-sudeste-asiatico-e-impoe-condicao-a-exploracao-de-minerais-criticos.ghtml",
-    "time": "2026-11-15T06:01:34.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
     "d": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory,…",
     "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
     "time": "2026-11-15T06:00:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Governo lança guia para identificação e direcionamento de famílias em risco de fome para programas sociais",
-    "d": "Obesidade é quase 3 vezes maior entre mulheres com insegurança alimentar, aponta estudo Adobe Stock O governo federal lançou esta semana um guia para apoiar estados e municípios a organizar a identificação, o encaminh…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/15/governo-lanca-guia-para-identificacao-e-direcionamento-de-familias-em-risco-de-fome-para-programas-sociais.ghtml",
-    "time": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula terá 73 indicações para agências reguladoras e BC e ganha espaço para negociar com Centrão",
-    "d": "Em seu quarto mandato, que começa em 5 de janeiro de 2027, o presidente Luiz Inácio Lula da Silva (PT) poderá fazer 73 indicações para postos de direção em agências e órgãos reguladores e no Banco Central (BC). São 62…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-tera-73-indicacoes-para-agencias-reguladoras-e-bc-e-ganha-espaco-para-negociar-com-centrao.ghtml",
-    "time": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quem são as mulheres que vão compor a maior bancada feminina da história do Congresso",
-    "d": "Bancada feminina posa para foto na Câmara dos Deputados no dia 1º de fevereiro de 2023 Pablo Valadares/Câmara dos Deputados O Congresso Nacional terá a maior bancada feminina da história a partir de 2027, com 109 depu…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/15/bancada-feminina-congresso-perfil.ghtml",
-    "time": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "'Cashback' da reforma tributária: cerca de 70 milhões de pessoas começam a receber o benefício em janeiro; veja o que é preciso fazer",
-    "d": "O governo federal começa a operacionalizar em janeiro o chamado \"cashback\" da reforma tributária, mecanismo que prevê a devolução ou abatimento de parte do novo imposto federal sobre o consumo para famílias de baixa r…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/15/cashback-da-reforma-tributaria-cerca-de-70-milhoes-de-pessoas-comecam-a-receber-o-beneficio-em-janeiro-veja-o-que-e-preciso-fazer.ghtml",
-    "time": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
-    "d": "Ministro Luiz Fux durante julgamento no Supremo Luiz Silveira/STF O ministro Luiz Fux fez um destaque no julgamento sobre a transição da escala 6x1 para a 5x2 e levou o processo para o plenário físico do Supremo Tribu…",
-    "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
-    "time": "2026-11-14T19:55:35.000Z"
   },
   {
     "cat": "brasil",
@@ -522,7 +570,7 @@
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "Amazônia queimando afeta a saúde e o bolso do Brasil inteiro, diz bióloga dedicada a combater o fogo na floresta",
+    "h": "Amazônia queimando afeta a saúde e o bolso do Brasil inteiro, diz bióloga que combate fogo na floresta",
     "d": "Pesquisadora das universidades de Oxford e de Lancaster, a bióloga carioca Erika Berenguer fala da 'tristeza profunda' de ver a floresta amazônica queimando, mas defende continuidade dos esforços para preservação, já…",
     "link": "https://www.bbc.com/portuguese/articles/cr20v7g9jyy3o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-13T09:31:58.000Z"
@@ -566,29 +614,5 @@
     "d": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but wh…",
     "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
     "time": "2026-11-11T22:50:37.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-    "d": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina,…",
-    "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-    "time": "2026-11-11T19:00:33.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Farewell to Elon Musk’s Cybertruck. Has any car ever been more repellent? | Arwa Mahdawi",
-    "d": "Safety campaigners have condemned it and owners have complained about it. Goodbye to a steel monstrosity seemingly designed by a five-year-old Elon Musk is having a rough go of it, isn’t he? The world’s richest man sp…",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent",
-    "time": "2026-11-11T11:00:47.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-    "d": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low t…",
-    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-    "time": "2026-11-11T11:00:46.000Z"
   }
 ]
