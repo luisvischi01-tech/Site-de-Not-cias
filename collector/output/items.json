@@ -1,11 +1,163 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Clothing factories shut in Bangladesh as workers strike over pay",
+    "d": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T01:05:44.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "Jensen Huang discute retorno ao cargo de CEO da Nvidia, diz FT",
-    "d": "Grupo de executivos do Vale do Silício articula apoio ao ex-chefe; conselho busca possível sucessor",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/jensen-huang-discute-retorno-ao-cargo-de-ceo-da-nvidia-diz-ft/",
-    "time": "2026-11-15T21:04:36.000Z"
+    "h": "Do Real Madrid ao North: presidente conta bastidores da chegada de Salgado",
+    "d": "Galático foi contratado para comandar o time de Montes Claros (MG) na temporada 2027 e fortalecer o projeto de SAF do clube; Salgado foi o convidado do CNN Esportes S/A deste domingo (15)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/do-real-madrid-ao-north-presidente-conta-bastidores-da-chegada-de-salgado/",
+    "time": "2026-11-16T00:45:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Tênis: Andreeva bate Svitolina e conquista WTA Finals pela primeira vez",
+    "d": "Tenista russa conquistou vitória por 2 sets a 0 e termina temporada na segunda posição do ranking mundial; partida foi disputada em Indian Wells, nos Estados Unidos",
+    "link": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-andreeva-bate-svitolina-e-conquista-wta-finals-pela-primeira-vez/",
+    "time": "2026-11-16T00:38:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Criança de 4 anos morre após ser jogada de viaduto pela própria mãe em SP",
+    "d": "Vítima foi socorrida pelo SAMU e levada ao Hospital das Clínicas, mas não resistiu, após cair na Avenida 23 de Maio; caso segue sendo investigado no 78º DP",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/crianca-de-4-anos-morre-apos-ser-jogada-de-viaduto-pela-propria-mae-em-sp/",
+    "time": "2026-11-16T00:33:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Míchel Salgado explica por que escolheu o North: “Margem para trabalhar”",
+    "d": "Ex-jogador do Real Madrid assumiu o clube de Montes Claros, em Minas Gerais, e contou detalhes da contratação durante entrevista ao CNN Esportes S/A deste domingo (15)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/michel-salgado-explica-por-que-escolheu-o-north-margem-para-trabalhar/",
+    "time": "2026-11-16T00:15:36.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+    "d": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-16T00:03:29.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Por que minha família branca nunca me disse que eu era negra?'",
+    "d": "Lacey Tezino foi criada como uma menina branca em uma cidade do interior do Texas conhecida por seu passado racista. Por isso, ficou surpresa ao descobrir que, na verdade, era negra.",
+    "link": "https://www.bbc.com/portuguese/articles/c8p3v9dw7pwpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T23:59:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+    "d": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+    "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T23:52:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Defesa Civil emite alerta para chuvas intensas na Grande São Paulo",
+    "d": "Comunicado prevê descargas elétricas, rajadas de vento e queda de granizo na capital paulista e em municípios vizinhos",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-para-chuvas-intensas-na-grande-sao-paulo/",
+    "time": "2026-11-15T23:49:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Inep deve apresentar proposta de mudança no Enem, diz ministro da Educação",
+    "d": "Projeto deve ser discutido nas próximas semanas, segundo informação divulgada por Leonardo Barchini em coletiva de imprensa neste domingo (15)",
+    "link": "https://www.cnnbrasil.com.br/educacao/inep-deve-apresentar-proposta-de-mudanca-no-enem-diz-ministro-da-educacao/",
+    "time": "2026-11-15T23:47:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Problema na direção de navio-tanque causou colisão em Nova Orleans",
+    "d": "Leme ficou travado em uma única direção, levando a embarcação a desviar da rota e colidir com cruzeiro, afirma autoridade de segurança dos transportes",
+    "link": "https://www.cnnbrasil.com.br/internacional/problema-na-direcao-de-navio-tanque-causou-colisao-em-nova-orleans/",
+    "time": "2026-11-15T23:22:22.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Enem 2026 tem mais concluintes do ensino público, mas abstenção também sobe",
+    "d": "De acordo com o Ministério da Educação, a taxa de abstenção no segundo dia de provas do exame foi de 36%; alta já era esperada pelo órgão",
+    "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/",
+    "time": "2026-11-15T23:20:31.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cerca de 1.500 migrantes chegam às Canárias em apenas um dia",
+    "d": "Número supera o recorde diário de 2020, enquanto novas chegadas pressionam os serviços de acolhimento nas ilhas menores do arquipélago",
+    "link": "https://www.cnnbrasil.com.br/internacional/cerca-de-1-500-migrantes-chegam-as-canarias-em-apenas-um-dia/",
+    "time": "2026-11-15T23:10:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Adolescente é apreendido em tentativa de furto a joalheria em SP",
+    "d": "Polícia Militar surpreendeu o jovem dentro do Shopping Anália Franco, na zona leste da capital paulista, e impediu que as joias fossem levadas",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/adolescente-e-apreendido-em-tentativa-de-furto-a-joalheria-em-sp/",
+    "time": "2026-11-15T23:07:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ronaldinho Gaúcho quebra o silêncio após retorno aos gramados; veja",
+    "d": "Após 11 anos, Bruxo começou como titular no confronto entre Ravenna x Forlì e jogou por 47 minutos; na publicação, ele afirmou \"nos vemos em breve\"",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/ronaldinho-gaucho-quebra-o-silencio-apos-retorno-aos-gramados-veja/",
+    "time": "2026-11-15T23:02:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Homem é atropelado pelas costas e arremessado longe em São Caetano do Sul",
+    "d": "Imagens do acidente mostram o momento do impacto e a vítima segue internada na UPA da cidade no ABC paulista",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-e-atropelado-pelas-costas-e-arremessado-longe-em-sao-caetano-do-sul/",
+    "time": "2026-11-15T23:00:51.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+    "d": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+    "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T22:57:27.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Police ban protests near 10 schools and five universities in Paris",
+    "d": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+    "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T22:28:54.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "d": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T22:24:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como foi a volta de Ronaldinho Gaúcho aos gramados, aos 46 anos",
+    "d": "Aos 46 anos, o campeão mundial pela seleção brasileira saiu da aposentadoria para defender o Ravenna, clube italiano da terceira divisão",
+    "link": "https://www.bbc.com/portuguese/articles/cv5y151l9kxwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-15T21:54:22.000Z"
   },
   {
     "cat": "internacional",
@@ -14,94 +166,6 @@
     "d": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
     "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T21:03:40.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Dica de maquiadores: lápis labial da cor natural da pele evita que batom escorra da boca",
-    "d": "Descubra como o lápis labial da cor natural, combinado com a textura ideal do batom, garante um contorno perfeito e duradouro nos seus lábios",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/dica-de-maquiadores-lapis-labial-da-cor-natural-da-pele-evita-que-batom-escorra-da-boca/",
-    "time": "2026-11-15T21:00:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "José Loreto impressiona fãs ao carregar Eliana em desafio do bambolê; veja",
-    "d": "Dinâmica foi inspirada em cena de \"Quem Ama Cuida\", na qual o personagem Iuri aparece praticando atividades físicas com o objeto entre as bancadas da cozinha",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/jose-loreto-impressiona-fas-ao-carregar-eliana-em-desafio-do-bambole-veja/",
-    "time": "2026-11-15T20:48:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Avril Lavigne atinge pico de buscas após anunciar gravidez secreta; entenda",
-    "d": "Cantora canadense confirmou a chegada da primogênita, que ainda não teve seu nome divulgado, na tarde da última sexta-feira (13)",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/avril-lavigne-atinge-pico-de-buscas-apos-anunciar-gravidez-secreta-entenda/",
-    "time": "2026-11-15T20:45:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Shakira inclui Salvador em turnê que passará pelo Brasil",
-    "d": "Anúncio foi feito pelo prefeito da capital baiana neste domingo, Bruno Reis, que também revelou que a apresentação será na Arena Fonte Nova",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/shakira-inclui-salvador-em-turne-que-passara-pelo-brasil/",
-    "time": "2026-11-15T20:35:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cientistas identificam sinal de rádio raro que se repete a cada oito minutos no espaço",
-    "d": "Equipe processou mais de 100 horas de dados no Centro de Pesquisa de Supercomputação Pawsey para analisar o objeto astronômico",
-    "link": "https://www.cnnbrasil.com.br/ciencia/cientistas-identificam-sinal-de-radio-raro-que-se-repete-a-cada-oito-minutos-no-espaco/",
-    "time": "2026-11-15T20:26:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Enem 2026: 2º dia teve carga tributária, carros elétricos e sites de namoro",
-    "d": "Segunda etapa da prova acontece neste domingo (15) em todo o país; professores consultados pela CNN Brasil elencam os principais destaques do exame",
-    "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-2o-dia-teve-carga-tributaria-carros-eletricos-e-sites-de-namoro/",
-    "time": "2026-11-15T20:23:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Visitar casa dos pais pode despertar nosso lado adolescente, diz psicólogo",
-    "d": "Comportamento é mais comum do que parece e tem relação com os papéis que construímos dentro da família desde a infância; especialista explica que reencontro pode reativar padrões antigos de convivência",
-    "link": "https://www.cnnbrasil.com.br/saude/visitar-casa-dos-pais-pode-despertar-nosso-lado-adolescente-diz-psicologo/",
-    "time": "2026-11-15T20:18:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil deve registrar temperaturas acima de 30°C até o fim de novembro",
-    "d": "Previsão aponta calor intenso e abafamento na segunda metade do mês em quase todo o país, principalmente nas regiões norte, nordeste e centro-oeste, mesmo com pancadas de chuva",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-deve-registrar-temperaturas-acima-de-30c-ate-o-fim-de-novembro/",
-    "time": "2026-11-15T20:16:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Enem 2026: prova de biologia aborda genética, clonagem e desafio ambiental",
-    "d": "Prova de Biologia teve questões sobre desequilíbrios ecológicos, biotecnologia e produção de energia; professora avalia nível de dificuldade como moderado",
-    "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-prova-de-biologia-aborda-genetica-clonagem-e-desafio-ambiental/",
-    "time": "2026-11-15T20:13:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Pianista de cruzeiro cai no Pacífico, passa 10 horas à deriva e é salvo por pescadores que buscavam marlins",
-    "d": "O pianista foi encontrado por acaso durante uma pescaria, em mar aberto, depois de cair da embarcação; as circunstâncias do acidente ainda são investigadas pela Guarda Costeira",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/pianista-de-cruzeiro-cai-no-pacifico-passa-10-horas-a-deriva-e-e-salvo-por-pescadores-que-buscavam-marlins/",
-    "time": "2026-11-15T20:10:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique em seu aniversário",
-    "d": "Rubro-Negro completa, neste dia 15, 131 anos e dupla multicampeã pelo clube carioca foi homenageada na data comemorativa na Sede da Gávea, na Zona Sul do Rio de Janeiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-em-seu-aniversario/",
-    "time": "2026-11-15T20:04:17.000Z"
   },
   {
     "cat": "economia",
@@ -115,31 +179,15 @@
     "cat": "internacional",
     "src": "BBC News",
     "h": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "d": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+    "d": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
     "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T19:32:39.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Ronaldinho makes comeback in Ravenna win",
-    "d": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T19:31:48.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-    "d": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-    "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T19:20:53.000Z"
   },
   {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "O ídolo do judô que está sacudindo a eleição presidencial da França com candidatura surpresa",
-    "d": "Com discurso contra extremismo, a pentacampeão olímpico Teddy Riner é uma das figuras mais populares da França contemporânea, e um em cada cinco eleitores afirma que poderia apoiá-lo na eleição.",
+    "d": "Com discurso contra extremismo, o pentacampeão olímpico Teddy Riner é uma das figuras mais populares da França contemporânea, e um em cada cinco eleitores afirma que poderia apoiá-lo na eleição.",
     "link": "https://www.bbc.com/portuguese/articles/c6m2lm7g7l1jo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-15T19:01:01.000Z"
   },
@@ -176,22 +224,6 @@
     "time": "2026-11-15T16:17:26.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Clothing factories shut in Bangladesh as workers strike over pay",
-    "d": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T16:15:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-    "d": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T15:57:03.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "A mulher que está há anos presa em ilha paradisíaca por problema com visto: 'Viajaria até algemada'",
@@ -222,14 +254,6 @@
     "d": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat From Profumo to Petraeus to Gary Hart, Bill Gates and Bill Clinton, history is littered with older…",
     "link": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
     "time": "2026-11-15T15:00:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "d": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T14:56:21.000Z"
   },
   {
     "cat": "economia",
@@ -310,14 +334,6 @@
     "d": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this yea…",
     "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
     "time": "2026-11-15T08:56:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-    "d": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-    "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-15T08:17:41.000Z"
   },
   {
     "cat": "economia",
@@ -430,14 +446,6 @@
     "d": "O governo federal começa a operacionalizar em janeiro o chamado \"cashback\" da reforma tributária, mecanismo que prevê a devolução ou abatimento de parte do novo imposto federal sobre o consumo para famílias de baixa r…",
     "link": "https://g1.globo.com/economia/noticia/2026/11/15/cashback-da-reforma-tributaria-cerca-de-70-milhoes-de-pessoas-comecam-a-receber-o-beneficio-em-janeiro-veja-o-que-e-preciso-fazer.ghtml",
     "time": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Me disseram que meu bebê havia morrido... 42 anos depois, ele me mandou um e-mail'",
-    "d": "Diane teve seu primeiro filho em 1976. Disseram a ela que ele havia morrido durante o parto, mas não era verdade. Quatro décadas depois, ela descobriu que ele estava vivo.",
-    "link": "https://www.bbc.com/portuguese/articles/cm2kl0qy9x97o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-14T22:15:15.000Z"
   },
   {
     "cat": "brasil",
@@ -590,14 +598,6 @@
     "d": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low t…",
     "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
     "time": "2026-11-11T11:00:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Quem vai cuidar dos idosos do Brasil? Por que envelhecimento acelerado é 'desafio do século'",
-    "d": "Com menos nascimentos e uma população cada vez mais velha, o país terá de adaptar Previdência, saúde e mercado de trabalho a uma transformação demográfica sem precedentes.",
-    "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-11T08:31:43.000Z"
   },
   {
     "cat": "economia",
