@@ -1,35 +1,259 @@
 [
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Banco de dados do FBI é alvo de ataque cibernético",
-    "d": "Invasão do Centro Nacional de Informações Criminais por supostos hackers é a segunda violação desse tipo nos últimos meses",
-    "link": "https://www.cnnbrasil.com.br/internacional/banco-de-dados-do-fbi-e-alvo-de-ataque-cibernetico/",
-    "time": "2026-11-21T02:21:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chuvas no RS atingem 33 municípios e deixam mortos e feridos",
-    "d": "Boletim da Defesa Civil estadual, divulgado às 18h desta sexta-feira (20), aponta 4.022 pessoas afetadas, 60 feridos, três mortes, 74 desalojados e mais de 5 mil casas destelhadas",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/chuvas-no-rs-atingem-33-municipios-e-deixam-mortos-e-feridos/",
-    "time": "2026-11-21T02:16:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que se sabe (e o muito que não se sabe) sobre a história de Zumbi, que inspirou o Dia da Consciência Negra",
-    "d": "Segundo um documento do século 17, o último líder do Quilombo dos Palmares teria sido morto por bandeirantes em 20 de novembro de 1695. Mas há poucas certezas sobre quem foi, de fato, Zumbi dos Palmares.",
-    "link": "https://www.bbc.com/portuguese/articles/cwvg2p3zv5e4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-21T02:15:40.000Z"
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "d": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T10:26:36.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "d": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-21T02:09:46.000Z"
+    "h": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "d": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T09:52:11.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "China commits to low-carbon electrification and help for others to improve",
+    "d": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live – latest updates China is pushing for rapid electrification of its economy using low-carbon e…",
+    "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+    "time": "2026-11-21T09:47:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dois navios petroleiros sofrem ataques próximo ao Estreito de Ormuz",
+    "d": "Incidentes foram registrados quase simultaneamente pela Organização Marítima e de Transporte do Reino Unido; não houve feridos e ainda não há dimensão do impacto ambiental",
+    "link": "https://www.cnnbrasil.com.br/noticias/dois-navios-petroleiros-sofrem-ataques-proximos-ao-estreito-de-ormuz/",
+    "time": "2026-11-21T09:46:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "d": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T09:40:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "FBI reportedly investigating apparent hack of its criminal database",
+    "d": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T09:34:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Epilepsia infantil: médicos alertam Dr. Kalil sobre déficit de atenção",
+    "d": "Carlos Guerreiro, neurologista e professor colaborador do Departamento de Neurologia da Faculdade de Ciências Médicas da Unicamp, e Kette Valente, professora livre-docente em Neurologia Infantil pela FMUSP, alertam ao…",
+    "link": "https://www.cnnbrasil.com.br/saude/epilepsia-infantil-medicos-alertam-dr-kalil-sobre-deficit-de-atencao/",
+    "time": "2026-11-21T09:30:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Em 2003, a Argentina iniciou disputa diplomática ao tentar levar crédito pela invenção do doce de leite",
+    "d": "O Uruguai não reagiu bem aos 'hermanos' tomando protagonismo no mercado global do dulce de leche; a discussão chegou até a fóruns da Unesco e do Mercosul",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/em-2003-a-argentina-iniciou-disputa-diplomatica-ao-tentar-levar-credito-pela-invencao-do-doce-de-leite/",
+    "time": "2026-11-21T09:30:12.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
+    "d": "Microsoft, PHP, Java, o sistema de aviação: não existem provas de que os recentes problemas tecnológicos estejam relacionados, mas as seguidas ocorrências podem causar preocupações.",
+    "link": "https://www.bbc.com/portuguese/articles/c3grendp775qo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T09:21:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
+    "d": "De um lado, EUA querem liberação para indicado de Trump atue como embaixador no Brasil. Do outro, governo Lula quer normalização de visto de embaixadora em Washington",
+    "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T09:01:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Acrobatas argentinos são detidos pelo ICE em viagem nos EUA para funeral",
+    "d": "Agustin Baccega e Gustavo Romanello foram parados após aterrissarem no Aeroporto Internacional de Phoenix, no Arizona, dois dias após Midterms",
+    "link": "https://www.cnnbrasil.com.br/internacional/acrobatas-argentinos-sao-detidos-pelo-ice-em-viagem-nos-eua-para-funeral/",
+    "time": "2026-11-21T09:00:38.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mariah Carey no Rio: cantora realiza show natalino neste sábado (21)",
+    "d": "Cantora já realizou passagem por São Paulo com a \"Mariah Carey's Christmas Time\", que celebra os 30 anos do álbum \"Merry Christmas\", de 1994",
+    "link": "https://www.cnnbrasil.com.br/pop/musica/mariah-carey-no-rio-cantora-realiza-show-natalino-neste-sabado-21/",
+    "time": "2026-11-21T09:00:34.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Chefe de cartel procurado pelo FBI é capturado em operação no México",
+    "d": "Fausto Isidro Meza Flores, conhecido como 'El Chapo Isidro', foi detido durante operação militar; a recompensa por informações que levassem prisão era de cinco milhões de dólares",
+    "link": "https://www.cnnbrasil.com.br/internacional/chefe-de-cartel-procurado-pelo-fbi-e-capturado-em-operacao-no-mexico/",
+    "time": "2026-11-21T08:57:54.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Prima de Ted Bundy relembra momento mais chocante sobre o primo",
+    "d": "Edna Martin falou à CNN Brasil sobre produção de mais novo documentário sobre o serial killer; \"Com Amor, Ted Bundy\" estreou no Universal+",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/prima-de-ted-bundy-relembra-momento-mais-chocante-sobre-o-primo/",
+    "time": "2026-11-21T08:31:28.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "d": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T08:10:25.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Trafalgar Square Christmas tree felled in Norway",
+    "d": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T08:10:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quantos títulos Brasileiro tem o Flamengo? Entenda a polêmica de 1987",
+    "d": "Impasse jurídico sobre a conquista afeta a contagem de taças do Flamengo e a posse do troféu oficial",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/quantos-titulos-brasileiro-tem-o-flamengo-entenda-a-polemica-de-1987/",
+    "time": "2026-11-21T08:00:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Manchester City x Fulham: horário e onde assistir à Premier League",
+    "d": "Equipes se enfrentam neste sábado (21), às 09h30 (de Brasília), pela 11ª rodada da competição",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-city-x-fulham-horario-e-onde-assistir-a-premier-league/",
+    "time": "2026-11-21T08:00:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mega-Sena 3089: sorteio deste domingo (22) pode pagar R$ 45 milhões",
+    "d": "Para concorrer, apostadores devem registrar seus jogos até as 22h de sábado (21)",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3089/",
+    "time": "2026-11-21T08:00:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Calendário de Natal: veja os novos filmes natalinos que chegam em 2026",
+    "d": "Para entrar no clima de Natal, novidades repletas de luzinhas, presentes e árvores chegam para ambientar o público até dia 24 de dezembro",
+    "link": "https://www.cnnbrasil.com.br/pop/streaming/calendario-de-natal-veja-as-novos-filmes-natalinos-no-cinema-e-streaming/",
+    "time": "2026-11-21T08:00:12.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais'",
+    "d": "Andrés Ruiz é um jornalista e documentarista colombiano Andrés Ruiz/Arquivo Pessoal via BBC A Colômbia é o país mais desigual da América Latina e um dos mais desiguais do mundo, segundo o índice de Gini do Banco Mundi…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/21/o-que-aprendi-ao-passar-14-anos-acompanhando-familias-que-nao-saem-da-pobreza-muito-alem-de-decisoes-pessoais.ghtml",
+    "time": "2026-11-21T08:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Exôdo de ações tech anula ganhos do Nasdaq com temor sobre IA de volta",
+    "d": "Preocupações vão desde incerteza sobre como democratas impactarão ritmo de construção de data centers até futuro da Nvidia após renúncia do CEO Jensen Huang",
+    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/exodo-de-acoes-tech-anula-ganhos-do-nasdaq-com-temor-sobre-ia-de-volta/",
+    "time": "2026-11-21T07:37:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "'Skincare comestível': gelatina com frutas viraliza como fonte de colágeno, mas funciona?",
+    "d": "Mulher escolhendo frutas enquanto faz compras no mercado Reprodução/Freepik Uma nova tendência de cuidados com a pele viralizou nas últimas semanas: o \"skincare comestível\". Trata-se de uma receita de gelatina sem sab…",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/21/skincare-comestivel-gelatina-com-frutas-viraliza-como-fonte-de-colageno.ghtml",
+    "time": "2026-11-21T07:04:15.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
+    "d": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais) Getty Images via BBC Uma das ferramentas mais antigas da gestão pública. Seu propósito é garantir serviços de luz, águ…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/21/por-que-o-mexico-arrecada-tao-poucos-impostos-e-como-financia-seus-crescentes-beneficios-sociais.ghtml",
+    "time": "2026-11-21T07:04:03.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
+    "d": "Mulher passando perfume. Ron Lach/Pexels Pode haver um toque de bergamota nas notas de saída, seguido por uma íris adocicada, mas, segundo especialistas do setor, uma dose notável de inteligência artificial (IA) está…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
+    "time": "2026-11-21T06:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fim da escala 6x1: veja o que muda nas folgas, horas extras e jornadas após decreto de Lula",
+    "d": "Lula assina decreto com regras para o fim da escala 6x1 O fim da escala 6x1 avançou para uma nova etapa nesta semana. Depois que o Congresso promulgou a emenda constitucional, o Supremo Tribunal Federal (STF) definiu…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/21/fim-da-escala-6x1-veja-o-que-muda-nas-folgas-horas-extras-e-jornadas-apos-decreto-de-lula.ghtml",
+    "time": "2026-11-21T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
+    "d": "Jensen Huang renunciou ao cargo em 12 de novembro. Getty Images via BBC A Nvidia e seu cofundador, Jensen Huang, estão no centro da onda de investimentos em inteligência artificial (IA). Poucas empresas ou executivos…",
+    "link": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
+    "time": "2026-11-21T06:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Como uma crise do café no Brasil abalou a Alemanha Oriental e fez do Vietnã uma potência",
+    "d": "Café. Rei do Café Na segunda metade dos anos 1970, o hábito de tomar café era rotina na República Democrática da Alemanha (RDA), como era chamada a antiga Alemanha Oriental comunista. Trabalhadores, burocratas, milita…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/como-uma-crise-do-cafe-no-brasil-abalou-a-alemanha-oriental-e-fez-do-vietna-uma-potencia.ghtml",
+    "time": "2026-11-21T05:07:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos nos EUA e na Europa",
+    "d": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos A acerola ganhou uma função inesperada: ajudar a conservar a carne por mais tempo. A fruta, transformada em pó, passou a ser exportada para os…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/acerola-na-carne-veja-como-a-fruta-virou-conservante-natural-de-alimentos-nos-eua-e-na-europa.ghtml",
+    "time": "2026-11-21T05:06:59.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Comprar ou alugar? Veja o que considerar antes de decidir onde (e como) morar",
+    "d": "Vale a pena ter casa própria? Comprar ou alugar um imóvel depende da situação financeira e dos planos de cada pessoa. A casa própria traz segurança e, ao fim do financiamento, deixa um patrimônio para o proprietário.…",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/21/comprar-ou-alugar-veja-o-que-considerar-antes-de-decidir-onde-e-como-morar.ghtml",
+    "time": "2026-11-21T05:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Man convicted of starting Palisades fire in Los Angeles",
+    "d": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+    "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T04:34:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
+    "d": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, tenta avançar, a um mês do início do recesso, com pautas internas que dividem a Suprema Corte. O STF entra em recesso formalmente no dia 20 de dez…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
+    "time": "2026-11-21T03:00:00.000Z"
   },
   {
     "cat": "brasil",
@@ -38,30 +262,6 @@
     "d": "A Polícia Federal prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
     "time": "2026-11-21T01:50:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Derrubada de sigilo do caso Master pode pressionar STF",
-    "d": "André Mendonça pediu a Fachin que tornasse público relatório da PF que o menciona nas investigações sobre o Banco Master; a avaliação é do analista de Política da CNN Caio Junqueira ao CNN Prime Time",
-    "link": "https://www.cnnbrasil.com.br/politica/analise-derrubada-de-sigilo-do-caso-master-pode-pressionar-stf/",
-    "time": "2026-11-21T01:35:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ministro do TSE vota para barrar eleição de Ney Santos por ligação com PCC",
-    "d": "Julgamento ocorre no plenário virtual da Corte e ainda depende da análise dos demais magistrados do tribunal; logo após o voto de Floriano de Azevedo Marques, Dias Toffoli pediu vista, ou seja, mais tempo para analisa…",
-    "link": "https://www.cnnbrasil.com.br/politica/ministro-do-tse-vota-para-barrar-eleicao-de-ney-santos-por-ligacao-com-pcc/",
-    "time": "2026-11-21T01:18:18.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Defesa Civil monitora chuvas em SP após emitir 33 alertas preventivos",
-    "d": "Temporais já provocaram ocorrências em quatro municípios do Vale do Ribeira; previsão indica instabilidade até terça-feira (23)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-monitora-chuvas-em-sp-apos-emitir-33-alertas-preventivos/",
-    "time": "2026-11-21T01:17:57.000Z"
   },
   {
     "cat": "brasil",
@@ -80,44 +280,12 @@
     "time": "2026-11-21T01:16:11.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mulher crava faca no pescoço de homem em MG; vítima sobrevive",
-    "d": "Segundo testemunhas, ela tem esquizofrenia e, no momento do episódio, estaria em surto; homem precisou ser submetido a uma cirurgia de emergência para retirar o objeto de seu corpo",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/mulher-crava-faca-no-pescoco-de-homem-em-mg-vitima-sobrevive/",
-    "time": "2026-11-21T01:06:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chanceler iraniano diz que Irã quer diplomacia para encerrar a guerra",
-    "d": "Abbas Araqchi afirmou em entrevista a um jornal do país que mantém contato com Washington e que Teerã busca um acordo que garanta que não haja mais conflito",
-    "link": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
-    "time": "2026-11-21T01:06:16.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
     "d": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e…",
     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
     "time": "2026-11-21T01:01:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hábito de “scrollar” a tela sem parar deve ser considerado uma ameaça global à saúde, apontam especialistas",
-    "d": "Relatório surge em meio a uma crescente preocupação internacional com os efeitos das tecnologias digitais no bem-estar, principalmente entre os jovens",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/habito-de-scrollar-a-tela-sem-parar-deve-ser-considerado-uma-ameaca-global-a-saude-apontam-especialistas/",
-    "time": "2026-11-21T01:00:16.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Relembre as principais Bond Girls ao longo da franquia de 007",
-    "d": "Troca no papel principal gera especulações sobre quem interpretará a próxima parceira de cena do agente secreto",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/relembre-as-principais-bond-girls-ao-longo-da-franquia-de-007/",
-    "time": "2026-11-21T00:45:28.000Z"
   },
   {
     "cat": "brasil",
@@ -129,35 +297,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bayer pagará até US$ 7,25 bi após decisão final sobre caso Roundup",
-    "d": "Resolução prevê programa de pagamentos por até 21 anos para resolver ações atuais e futuras de pessoas que alegam ter desenvolvido linfoma não Hodgkin após exposição ao Roundup",
-    "link": "https://www.cnnbrasil.com.br/agro/bayer-pagara-ate-us-725-bi-apos-decisao-final-sobre-caso-roundup/",
-    "time": "2026-11-21T00:29:42.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Fachin retira sigilo de relatório da PF com 11 conversas que citam André Mendonça no caso Master",
     "d": "Fachin abre sigilo de relatório da PF sobre André Mendonça no caso Master O presidente do Supremo Tribunal Federal, Edson Fachin, retirou o sigilo do relatório da Polícia Federal sobre o ministro André Mendonça, no ca…",
     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/fachin-retira-sigilo-de-relatorio-da-pf-com-11-conversas-que-citam-andre-mendonca-no-caso-master.ghtml",
     "time": "2026-11-21T00:23:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Terremoto de magnitude 6,9 atinge o Peru, diz agência",
-    "d": "Tremor aconteceu a uma profundidade de 142 quilômetros, informou o USGS (Serviço Geológico dos Estados Unidos); fenômeno foi sentido na capital, onde moradores deixaram suas casas",
-    "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-69-atinge-lima-capital-do-peru/",
-    "time": "2026-11-21T00:21:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Amanhecer na Colheita” tem 2ª maior pré-estreia do ano nos EUA",
-    "d": "A sequência da franquia Jogos Vorazes ficou atrás apenas de \"Homem-Aranha: Um Novo Dia\", superando grandes estreias do ano",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/amanhecer-na-colheita-tem-2a-maior-pre-estreia-do-ano-nos-eua/",
-    "time": "2026-11-21T00:21:05.000Z"
   },
   {
     "cat": "internacional",
@@ -208,28 +352,12 @@
     "time": "2026-11-20T22:37:09.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
-    "d": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações d…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
-    "time": "2026-11-20T22:34:15.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Ficar em silêncio não é uma opção': o apelo da britânica após condenação histórica de homens que abusaram dela a convite do marido",
     "d": "O caso na Inglaterra tem semelhanças marcantes com os estupros sofridos repetidamente por Gisèle Pelicot, na França.",
     "link": "https://www.bbc.com/portuguese/articles/cmg46knk175vo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-20T22:26:38.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "d": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T21:57:07.000Z"
   },
   {
     "cat": "internacional",
@@ -240,7 +368,7 @@
     "time": "2026-11-20T21:47:41.000Z"
   },
   {
-    "cat": "internacional",
+    "cat": "economia",
     "src": "The Guardian",
     "h": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
     "d": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s st…",
@@ -254,14 +382,6 @@
     "d": "Dados do Ministério da Saúde mostram mulheres pretas têm menor proporção de gestações acompanhadas de consultas de pré-natal, enquanto seus bebês apresentam maiores proporções de prematuridade e de baixo peso ao nasce…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/20/maes-pretas-fazem-menos-consultas-de-pre-natal-e-seus-bebes-tem-mais-chance-de-nascer-com-baixo-peso-mostram-dados-do-sus.ghtml",
     "time": "2026-11-20T21:28:06.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
-    "d": "Filipinas lideram compra de carne suína, mas são 22º destino das exportações do agro O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para asse…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/cobicadas-por-trump-filipinas-lideram-compra-de-carne-suina-do-brasil-mas-sao-22o-destino-das-exportacoes-do-agro.ghtml",
-    "time": "2026-11-20T21:05:49.000Z"
   },
   {
     "cat": "internacional",
@@ -289,67 +409,11 @@
   },
   {
     "cat": "economia",
-    "src": "G1",
-    "h": "'Mosca-da-bicheira': parasita que devora animais vivos avança pelos EUA e alerta pecuaristas",
-    "d": "Duas moscas-da-bicheira do Novo Mundo no Laboratório de Pesquisa de Insetos Pecuários Knipling-Bushland, em Kerrville, Texas, EUA. REUTERS/Kaylee Greenlee Os surtos nos Estados Unidos (EUA) da chamada mosca-da-bicheir…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/mosca-da-bicheira-parasita-que-devora-animais-vivos-avanca-pelos-eua-e-alerta-pecuaristas.ghtml",
-    "time": "2026-11-20T19:58:52.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Gérard Depardieu and French author investigated over sexual allegations",
-    "d": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T19:45:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "d": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T19:27:49.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
-    "d": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferênci…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml",
-    "time": "2026-11-20T19:16:23.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
-    "d": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima seman…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
-    "time": "2026-11-20T18:47:51.000Z"
-  },
-  {
-    "cat": "economia",
     "src": "The Guardian",
     "h": "What exactly is in the deal between the UK and the EU?",
     "d": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiati…",
     "link": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
     "time": "2026-11-20T18:19:53.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Praga mortal que ameaça gado avança nos EUA, e moscas estéreis viram aposta contra parasita",
-    "d": "Imagem de uma mosca-da-bicheira (Cochliomyia hominivorax). Departamento de Agricultura dos EUA. Os surtos da mosca-da-bicheira do Novo Mundo nos Estados Unidos aumentaram devido ao clima úmido e quente no sudoeste do…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/praga-mortal-que-ameaca-gado-avanca-nos-eua-e-moscas-estereis-viram-aposta-contra-parasita.ghtml",
-    "time": "2026-11-20T18:14:28.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "d": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T17:49:48.000Z"
   },
   {
     "cat": "brasil",
@@ -360,28 +424,12 @@
     "time": "2026-11-20T17:41:18.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
-    "d": "Diretor Nacional de Cibernética dos EUA, Sean Cairncross, conversa com o presidente dos EUA, Donald Trump REUTERS/Jonathan Ernst/File Photo O diretor nacional de segurança cibernética da Casa Branca, Sean Cairncross,…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/apos-falhas-que-afetaram-microsoft-e-suspenderam-voos-trump-demite-diretor-de-seguranca-cibernetica.ghtml",
-    "time": "2026-11-20T17:36:52.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
     "d": "Caso vem à tona semanas depois de Christa Pike, de 50 anos, sobreviver a duas inejções letais no Tennessee, em setembro. Uso de pentobarbital, proibido a nível federal nos EUA, ainda é utilizado em alguns estados do país",
     "link": "https://www.bbc.com/portuguese/articles/c84gn75r49eno?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-20T16:47:33.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Nearly 600 women killed in South Africa within three months",
-    "d": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T15:55:16.000Z"
   },
   {
     "cat": "brasil",
@@ -432,30 +480,6 @@
     "time": "2026-11-20T14:00:31.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
-    "d": "Um homem está em meio aos escombros de um prédio de escritórios que pegou fogo após ser atingido durante ataques russos com mísseis e drones, em meio à ofensiva da Rússia contra a Ucrânia, em Kiev. REUTERS/Thomas Pete…",
-    "link": "https://g1.globo.com/inovacao/noticia/2026/11/20/robos-assassinos-ja-sao-usados-em-guerras-mas-paises-nao-chegam-a-acordo-sobre-limites-na-onu.ghtml",
-    "time": "2026-11-20T14:00:27.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
-    "d": "O governo dos Estados Unidos corre o risco de paralisar parte de suas atividades antes do Natal, caso republicanos e democratas não cheguem a um acordo sobre o financiamento de órgãos federais. O impasse envolve diver…",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml",
-    "time": "2026-11-20T13:34:36.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-    "d": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T13:01:16.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Caso Master: Fachin mantém prisão do ex-banqueiro Daniel Vorcaro",
@@ -504,14 +528,6 @@
     "time": "2026-11-20T09:03:20.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Por que GTA 6 não é recomendado para menores de 18 anos — e o alerta de psiquiatras",
-    "d": "Considerado o maior lançamento da história dos games, 'Grand Theft Auto VI' estreou nesta quinta-feira (19/11) e pode trazer preocupação aos pais.",
-    "link": "https://www.bbc.com/portuguese/articles/ckr5g3l3r540o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T08:38:41.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "What impact has Brexit had on the UK and EU economies?",
@@ -526,14 +542,6 @@
     "d": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security…",
     "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
     "time": "2026-11-20T05:00:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
-    "d": "Pessoas negras representaram 45% dos novos ingressos na administração pública federal nos últimos quatro anos. Entre 2023 e outubro de 2026, a administração pública federal registrou 11.543 vínculos a mais de pessoas…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
-    "time": "2026-11-20T03:00:01.000Z"
   },
   {
     "cat": "brasil",
