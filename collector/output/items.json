@@ -1,75 +1,267 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Banco de dados do FBI é alvo de ataque cibernético",
+    "d": "Invasão do Centro Nacional de Informações Criminais por supostos hackers é a segunda violação desse tipo nos últimos meses",
+    "link": "https://www.cnnbrasil.com.br/internacional/banco-de-dados-do-fbi-e-alvo-de-ataque-cibernetico/",
+    "time": "2026-11-21T02:21:06.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chuvas no RS atingem 33 municípios e deixam mortos e feridos",
+    "d": "Boletim da Defesa Civil estadual, divulgado às 18h desta sexta-feira (20), aponta 4.022 pessoas afetadas, 60 feridos, três mortes, 74 desalojados e mais de 5 mil casas destelhadas",
+    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/chuvas-no-rs-atingem-33-municipios-e-deixam-mortos-e-feridos/",
+    "time": "2026-11-21T02:16:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O que se sabe (e o muito que não se sabe) sobre a história de Zumbi, que inspirou o Dia da Consciência Negra",
+    "d": "Segundo um documento do século 17, o último líder do Quilombo dos Palmares teria sido morto por bandeirantes em 20 de novembro de 1695. Mas há poucas certezas sobre quem foi, de fato, Zumbi dos Palmares.",
+    "link": "https://www.bbc.com/portuguese/articles/cwvg2p3zv5e4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T02:15:40.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "d": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T02:09:46.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
-    "h": "Mães pretas fazem menos consultas de pré-natal e seus bebês têm mais chance de nascer com baixo peso, mostram dados do SUS",
+    "h": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
+    "d": "A Polícia Federal prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
+    "time": "2026-11-21T01:50:53.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Análise: Derrubada de sigilo do caso Master pode pressionar STF",
+    "d": "André Mendonça pediu a Fachin que tornasse público relatório da PF que o menciona nas investigações sobre o Banco Master; a avaliação é do analista de Política da CNN Caio Junqueira ao CNN Prime Time",
+    "link": "https://www.cnnbrasil.com.br/politica/analise-derrubada-de-sigilo-do-caso-master-pode-pressionar-stf/",
+    "time": "2026-11-21T01:35:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Ministro do TSE vota para barrar eleição de Ney Santos por ligação com PCC",
+    "d": "Julgamento ocorre no plenário virtual da Corte e ainda depende da análise dos demais magistrados do tribunal; logo após o voto de Floriano de Azevedo Marques, Dias Toffoli pediu vista, ou seja, mais tempo para analisa…",
+    "link": "https://www.cnnbrasil.com.br/politica/ministro-do-tse-vota-para-barrar-eleicao-de-ney-santos-por-ligacao-com-pcc/",
+    "time": "2026-11-21T01:18:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Defesa Civil monitora chuvas em SP após emitir 33 alertas preventivos",
+    "d": "Temporais já provocaram ocorrências em quatro municípios do Vale do Ribeira; previsão indica instabilidade até terça-feira (23)",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-monitora-chuvas-em-sp-apos-emitir-33-alertas-preventivos/",
+    "time": "2026-11-21T01:17:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
+    "d": "Trinta cidades no Rio Grande do Sul tiveram danos humanos ou materiais, segundo a Defesa Civil. Tupanciretã, na região central do Estado, teve três óbitos e 60 pessoas feridas.",
+    "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T01:16:58.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Quase 100 milhões de brasileiros começam a receber o 13º salário; benefício deve movimentar R$ 400 bilhões na economia",
+    "d": "100 milhões de brasileiros começaram a receber o 13º salário Cem milhões de brasileiros já começaram a receber a primeira parcela do décimo-terceiro. A prioridade de muita gente é quitar dívidas em atraso. Mas, o dinh…",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/quase-100-milhoes-de-brasileiros-comecam-a-receber-o-13o-salario-beneficio-deve-movimentar-r-400-bilhoes-na-economia.ghtml",
+    "time": "2026-11-21T01:16:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Mulher crava faca no pescoço de homem em MG; vítima sobrevive",
+    "d": "Segundo testemunhas, ela tem esquizofrenia e, no momento do episódio, estaria em surto; homem precisou ser submetido a uma cirurgia de emergência para retirar o objeto de seu corpo",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/mulher-crava-faca-no-pescoco-de-homem-em-mg-vitima-sobrevive/",
+    "time": "2026-11-21T01:06:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chanceler iraniano diz que Irã quer diplomacia para encerrar a guerra",
+    "d": "Abbas Araqchi afirmou em entrevista a um jornal do país que mantém contato com Washington e que Teerã busca um acordo que garanta que não haja mais conflito",
+    "link": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
+    "time": "2026-11-21T01:06:16.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+    "d": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e…",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+    "time": "2026-11-21T01:01:51.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Hábito de “scrollar” a tela sem parar deve ser considerado uma ameaça global à saúde, apontam especialistas",
+    "d": "Relatório surge em meio a uma crescente preocupação internacional com os efeitos das tecnologias digitais no bem-estar, principalmente entre os jovens",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/habito-de-scrollar-a-tela-sem-parar-deve-ser-considerado-uma-ameaca-global-a-saude-apontam-especialistas/",
+    "time": "2026-11-21T01:00:16.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Relembre as principais Bond Girls ao longo da franquia de 007",
+    "d": "Troca no papel principal gera especulações sobre quem interpretará a próxima parceira de cena do agente secreto",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/relembre-as-principais-bond-girls-ao-longo-da-franquia-de-007/",
+    "time": "2026-11-21T00:45:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
+    "d": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços a…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
+    "time": "2026-11-21T00:37:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bayer pagará até US$ 7,25 bi após decisão final sobre caso Roundup",
+    "d": "Resolução prevê programa de pagamentos por até 21 anos para resolver ações atuais e futuras de pessoas que alegam ter desenvolvido linfoma não Hodgkin após exposição ao Roundup",
+    "link": "https://www.cnnbrasil.com.br/agro/bayer-pagara-ate-us-725-bi-apos-decisao-final-sobre-caso-roundup/",
+    "time": "2026-11-21T00:29:42.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fachin retira sigilo de relatório da PF com 11 conversas que citam André Mendonça no caso Master",
+    "d": "Fachin abre sigilo de relatório da PF sobre André Mendonça no caso Master O presidente do Supremo Tribunal Federal, Edson Fachin, retirou o sigilo do relatório da Polícia Federal sobre o ministro André Mendonça, no ca…",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/fachin-retira-sigilo-de-relatorio-da-pf-com-11-conversas-que-citam-andre-mendonca-no-caso-master.ghtml",
+    "time": "2026-11-21T00:23:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Terremoto de magnitude 6,9 atinge o Peru, diz agência",
+    "d": "Tremor aconteceu a uma profundidade de 142 quilômetros, informou o USGS (Serviço Geológico dos Estados Unidos); fenômeno foi sentido na capital, onde moradores deixaram suas casas",
+    "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-69-atinge-lima-capital-do-peru/",
+    "time": "2026-11-21T00:21:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Amanhecer na Colheita” tem 2ª maior pré-estreia do ano nos EUA",
+    "d": "A sequência da franquia Jogos Vorazes ficou atrás apenas de \"Homem-Aranha: Um Novo Dia\", superando grandes estreias do ano",
+    "link": "https://www.cnnbrasil.com.br/pop/cinema/amanhecer-na-colheita-tem-2a-maior-pre-estreia-do-ano-nos-eua/",
+    "time": "2026-11-21T00:21:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "d": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-21T00:01:39.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Gilmar Mendes diz não ver problema em abertura de sigilo de relatório sobre ministros, mas que medida não resolve questão",
+    "d": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (20) não ver problema na abertura do sigilo do relatório da Polícia Federal sobre outros ministros do Supremo mencionados ou que t…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/20/gilmar-mendes-diz-nao-ver-problema-em-abertura-de-sigilo-de-relatorio-da-pf-sobre-outros-ministros-do-supremo.ghtml",
+    "time": "2026-11-20T23:56:40.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+    "d": "Vista aérea mostra a sede do Ueno Bank, em Assunção, no Paraguai. Reuters A Conmebol (Confederação Sul-Americana de Futebol) admitiu nesta sexta-feira (20) ter US$ 15 milhões (cerca de R$ 88 milhões) aplicados no Ueno…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/20/conmebol-recursos-banco-ueno.ghtml",
+    "time": "2026-11-20T23:29:32.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "d": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-20T23:08:57.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "d": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-20T22:42:47.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "French police officers sentenced for beating of music producer Michel Zecler",
+    "d": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-20T22:37:09.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
+    "d": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações d…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
+    "time": "2026-11-20T22:34:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Ficar em silêncio não é uma opção': o apelo da britânica após condenação histórica de homens que abusaram dela a convite do marido",
+    "d": "O caso na Inglaterra tem semelhanças marcantes com os estupros sofridos repetidamente por Gisèle Pelicot, na França.",
+    "link": "https://www.bbc.com/portuguese/articles/cmg46knk175vo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-20T22:26:38.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "d": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-20T21:57:07.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+    "d": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+    "time": "2026-11-20T21:47:41.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+    "d": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s st…",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "time": "2026-11-20T21:38:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Com menos acesso a pré-natal, mães pretas têm bebês com mais chance de nascerem prematuros e com baixo peso",
     "d": "Dados do Ministério da Saúde mostram mulheres pretas têm menor proporção de gestações acompanhadas de consultas de pré-natal, enquanto seus bebês apresentam maiores proporções de prematuridade e de baixo peso ao nasce…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/20/maes-pretas-fazem-menos-consultas-de-pre-natal-e-seus-bebes-tem-mais-chance-de-nascer-com-baixo-peso-mostram-dados-do-sus.ghtml",
     "time": "2026-11-20T21:28:06.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras encerra preparação para pegar Flamengo com desfalques confirmados",
-    "d": "Clássico nacional será disputado neste sábado (21), no Nubank Parque, a partir das 16h30 (de Brasília); time paulista tem poucas chances de ser campeão brasileiro",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-encerra-preparacao-para-pegar-flamengo-com-desfalques-confirmados/",
-    "time": "2026-11-20T21:19:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump promete vetar legislações aprovadas por democratas em 2027",
-    "d": "Presidente americano afirmou, durante coletiva de imprensa realizada na Casa Branca, que membros do partido que vai assumir o Congresso deveriam trabalhar com ele",
-    "link": "https://www.cnnbrasil.com.br/internacional/trump-promete-vetar-legislacoes-aprovadas-por-democratas-em-2027/",
-    "time": "2026-11-20T21:07:19.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Prefeito de NY, Mamdani se lesiona em jogo de futebol contra jornalistas",
-    "d": "Autoridade chamou atenção ao aparecer de muletas e bota ortopédica em uma coletiva de imprensa na prefeitura, nesta sexta-feira (20)",
-    "link": "https://www.cnnbrasil.com.br/internacional/prefeito-de-ny-mamdani-se-lesiona-em-jogo-de-futebol-contra-jornalistas/",
-    "time": "2026-11-20T21:06:54.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
-    "d": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferênci…",
+    "d": "Filipinas lideram compra de carne suína, mas são 22º destino das exportações do agro O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para asse…",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/cobicadas-por-trump-filipinas-lideram-compra-de-carne-suina-do-brasil-mas-sao-22o-destino-das-exportacoes-do-agro.ghtml",
     "time": "2026-11-20T21:05:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em sessão volátil, petróleo fecha em alta apesar de fluxo maior em Ormuz",
-    "d": "Donald Trump afirmou hoje que Irã quer encerrar a guerra no Oriente Médio, mas não busca um acordo \"aceitável\" para republicano; presidente dos EUA também esteve com Vladimir Putin e Xi Jinping em reunião trilateral h…",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/em-sessao-volatil-petroleo-fecha-em-alta-apesar-de-fluxo-maior-em-ormuz/",
-    "time": "2026-11-20T21:04:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Buscas por Robert Pattinson atingem pico após anúncio como James Bond",
-    "d": "Pesquisas pelo artista subiram 60% no Brasil e 150% globalmente de acordo com o Google Trends",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/buscas-por-robert-pattinson-atingem-pico-apos-anuncio-como-james-bond/",
-    "time": "2026-11-20T21:04:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bolsonaro é internado com quadro de dor e distensão abdominal, diz boletim",
-    "d": "Ex-presidente foi levado ao hospital na tarde desta sexta-feira (20)",
-    "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-e-internado-com-quadro-de-dor-e-distensao-abdominal-diz-boletim/",
-    "time": "2026-11-20T21:03:10.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Polvo, cobra de duas cabeças e mais: os animais exóticos que Nicolas Cage coleciona em sua mansão",
-    "d": "Ator chama a atenção em Hollywood pelo gosto peculiar por animais silvestres e perigosos em casa — que, segundo ele, servem até de inspiração para atuar",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/polvo-cobra-de-duas-cabecas-e-mais-os-animais-exoticos-que-nicolas-cage-coleciona-em-sua-mansao/",
-    "time": "2026-11-20T21:00:09.000Z"
   },
   {
     "cat": "internacional",
@@ -81,59 +273,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "“Protegendo Estrelas”: conheça novo romance natalino disponível na Netflix",
-    "d": "Filme é protagonizado por Leighton Meester, de \"Gossip Girl\" e Jared Padalecki, de \"Supernatural\"",
-    "link": "https://www.cnnbrasil.com.br/pop/streaming/protegendo-estrelas-conheca-novo-romance-natalino-disponivel-na-netflix/",
-    "time": "2026-11-20T20:53:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Presidente da COP31 relata avanço para acordo sobre várias questões",
-    "d": "Murat Kurum afirmou a repórteres que as nações avançaram para um tratado sobre eletrificação, captura de carbono e redução de metano",
-    "link": "https://www.cnnbrasil.com.br/internacional/presidente-da-cop31-relata-avanco-para-acordo-sobre-varias-questoes/",
-    "time": "2026-11-20T20:48:06.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Governo federal anuncia envio de equipes da Defesa Civil para Tupanciretã",
-    "d": "Três pessoas morreram depois de uma tempestade que provocou grande destruição na cidade gaúcha durante a madrugada desta sexta-feira (20)",
-    "link": "https://www.cnnbrasil.com.br/politica/governo-federal-anuncia-envio-de-equipes-da-defesa-civil-para-tupancireta/",
-    "time": "2026-11-20T20:46:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo “dribla” torcida em “AeroFla” antes de decisão e causa frustração",
-    "d": "Centenas de torcedores rubro-negros se reuniram no Aeroporto do Galeão, no Rio, mas não conseguiram encontrar a delegação antes do jogo contra o Palmeiras",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-dribla-torcida-em-aerofla-antes-de-decisao-e-causa-frustracao/",
-    "time": "2026-11-20T20:44:13.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Entenda por que a Geração Z realiza protestos em 25 países da Europa",
-    "d": "Manifestações lideradas por jovens em diversas nações criticam a alta no custo de vida, o aumento do preço nas instituições de ensino e o subfinanciamento dos sistemas educativos",
-    "link": "https://www.cnnbrasil.com.br/internacional/entenda-por-que-a-geracao-z-realiza-protestos-em-25-paises-da-europa/",
-    "time": "2026-11-20T20:43:31.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Bolsonaro é internado após sentir dores abdominais",
     "d": "Bolsonaro é levado a hospital por dor abdominal O ex-presidente Jair Bolsonaro foi internado na tarde desta sexta-feira (20) para realizar exames após sentir dores abdominais. A informação foi confirmada pelo médico d…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/20/bolsonaro-hospital-apos-sentir-dores-abdominais.ghtml",
     "time": "2026-11-20T20:15:13.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-    "d": "Other tech companies have also taken a hit as share markets broadly slump.",
-    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T20:00:53.000Z"
   },
   {
     "cat": "brasil",
@@ -176,28 +320,12 @@
     "time": "2026-11-20T19:16:23.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "White House removes cyber-security chief after series of tech outages",
-    "d": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T19:03:56.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
     "d": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima seman…",
     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
     "time": "2026-11-20T18:47:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
-    "d": "Fotos compartilhadas por moradores nas redes sociais mostram ruas cobertas de granizo e destroços de prédios, árvores e postes.",
-    "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T18:44:18.000Z"
   },
   {
     "cat": "economia",
@@ -240,14 +368,6 @@
     "time": "2026-11-20T17:36:52.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "d": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T16:54:29.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
@@ -257,27 +377,11 @@
   },
   {
     "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-    "d": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at…",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "time": "2026-11-20T16:26:07.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "BBC News",
     "h": "Nearly 600 women killed in South Africa within three months",
     "d": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
     "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-20T15:55:16.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-    "d": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T15:55:02.000Z"
   },
   {
     "cat": "brasil",
@@ -298,7 +402,7 @@
   {
     "cat": "brasil",
     "src": "G1",
-    "h": "Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
+    "h": "Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
     "d": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), votou pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o deputado federal Marcel Van Hattem (Novo-RS) pelos crimes d…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
     "time": "2026-11-20T14:21:48.000Z"
@@ -336,14 +440,6 @@
     "time": "2026-11-20T14:00:27.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como mulher foi dopada e oferecida a desconhecidos pelo marido durante 13 anos",
-    "d": "O caso na Inglaterra tem semelhanças marcantes com os estupros sofridos repetidamente por Gisèle Pelicot, na França.",
-    "link": "https://www.bbc.com/portuguese/articles/cmg46knk175vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T13:46:37.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
@@ -360,28 +456,12 @@
     "time": "2026-11-20T13:01:16.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Texas death-row inmate screams as execution takes more than one hour",
-    "d": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-    "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T12:42:37.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Caso Master: Fachin mantém prisão do ex-banqueiro Daniel Vorcaro",
     "d": "Fachin mantém prisão de Daniel Vorcaro O presidente do Supremo Tribunal Federal (STF), Edson Fachin, manteve nesta quinta-feira (19) a prisão do ex-banqueiro Daniel Vorcaro, do Master, alvo da Operação Compliance Zero…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/20/caso-master-fachin-mantem-prisao-do-ex-banqueiro-daniel-vorcaro.ghtml",
     "time": "2026-11-20T12:25:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que se sabe (e o muito que não se sabe) sobre a história de Zumbi, que inspirou o Dia da Consciência Negra",
-    "d": "Segundo um documento do século 17, o último líder do Quilombo dos Palmares teria sido morto por bandeirantes em 20 de novembro de 1696. Mas há poucas certezas sobre quem foi, de fato, Zumbi dos Palmares.",
-    "link": "https://www.bbc.com/portuguese/articles/cwvg2p3zv5e4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T11:55:18.000Z"
   },
   {
     "cat": "brasil",
@@ -417,22 +497,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "South Korea catches 111 students with new measures against exam cheating",
-    "d": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-20T10:16:19.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "California investigates Nvidia over whether chip exports ended up in China",
-    "d": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founde…",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-    "time": "2026-11-20T09:18:30.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "California’s coastal communities on alert as biggest waves in years hit state",
     "d": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure genera…",
@@ -456,30 +520,6 @@
     "time": "2026-11-20T07:00:26.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Produção mundial de vinho deve ficar perto do menor nível em 65 anos, com seca e calor na Europa",
-    "d": "Como harmonizar os diferentes tipos de vinho com comida A produção mundial de vinho deve cair em 2026 e se aproximar do menor nível dos últimos 65 anos, segundo estimativa divulgada na quarta-feira (18) pela Organizaç…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/producao-mundial-de-vinho-deve-ficar-perto-do-menor-nivel-em-65-anos-com-seca-e-calor-na-europa.ghtml",
-    "time": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "É #FAKE que Pix MEI de até R$ 5 mil terá de baixar para R$ 363 para 'caber' no orçamento reservado pelo governo",
-    "d": "Não é verdde que assistência a MEIs será reduzida de R$ 5 mil para R$ 363 g1 Circulam nas redes sociais publicações sugerindo que o Pix MEI, proposta de incentivo financeiro de até R$ 5 mil a microempreendedores indiv…",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml",
-    "time": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "'Não podíamos pagar uma casa para nossa família, então decidimos comprar uma junto com desconhecidos'",
-    "d": "A família Pullman, à esquerda, e a família Wilcox compraram uma casa juntas, pouco depois que se conheceram. Elizabeth Wilcox/Arquivo pessoal via BBC Elizabeth e Tom Wilcox subitamente perceberam que nunca conseguiria…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/20/nao-podiamos-pagar-uma-casa-para-nossa-familia-entao-decidimos-comprar-uma-junto-com-desconhecidos.ghtml",
-    "time": "2026-11-20T07:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Race to be next UN secretary general exposes divisions among world powers",
@@ -494,38 +534,6 @@
     "d": "Pessoas negras representaram 45% dos novos ingressos na administração pública federal nos últimos quatro anos. Entre 2023 e outubro de 2026, a administração pública federal registrou 11.543 vínculos a mais de pessoas…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
     "time": "2026-11-20T03:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Briga na esquerda menos de um mês após eleição expõe divergências sobre rumos do governo Lula 4",
-    "d": "Presidente Lula durante cerimônia no Palácio do Planalto nesta quinta-feira (19). Adriano Machado/Reuters Menos de um mês após a vitória de Lula (PT) sobre Flávio Bolsonaro (PL) no segundo turno, uma briga pública ent…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/20/briga-na-esquerda-e-governo-lula-4.ghtml",
-    "time": "2026-11-20T03:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro",
-    "d": "Galípolo diz ter alertado PF sobre possível fuga de Vorcaro O presidente do Banco Central, Gabriel Galípolo, afirmou à Polícia Federal que alertou a corporação sobre a suspeita de que Daniel Vorcaro, ex-dono do Banco…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/20/galipolo-diz-que-ligou-para-pf-para-alertar-sobre-possivel-fuga-de-vorcaro.ghtml",
-    "time": "2026-11-20T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Marina Silva, Fachin e Erika Hilton ampliam pressão sobre Lula por ministra negra no STF: 'Abismo social e estrutural'",
-    "d": "As deputadas federais Erika Hilton (PSOL-SP), Marina Silva (Rede-SP) e o presidente do STF, Edson Fachin, pedem que Lula indique uma mulher negra para o STF. STF/Reprodução Marina Silva (Rede-SP), ex-ministra do Meio…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/20/marina-silva-fachin-e-erika-hilton-lula-ministra-negra-no-stf.ghtml",
-    "time": "2026-11-20T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Ministérios, ajuste fiscal e articulações políticas: veja o que se sabe sobre o novo governo Lula",
-    "d": "Presidente da República, Luiz Inácio Lula da Silva, durante a cerimônia de assinatura do decreto que regulamenta o fim da escala de trabalho 6x1. Palácio do Planalto, Brasília-DF Ricardo Stuckert Quase um mês após ser…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/20/lula-4-ministros-o-que-se-sabe.ghtml",
-    "time": "2026-11-20T03:00:00.000Z"
   },
   {
     "cat": "brasil",
