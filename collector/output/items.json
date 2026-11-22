@@ -1,27 +1,131 @@
 [
   {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Cruzeiro bate a Chapecoense e emenda sexta vitória seguida no Brasileirão",
+    "d": "Time celeste visitou a equipe catarinense na Arena Condá, neste sábado (21), e conseguiu mais um resultado positivo pelo Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-bate-a-chapecoense-e-emenda-sexta-vitoria-seguida-no-brasileirao/",
+    "time": "2026-11-22T01:58:11.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "CNN Brasil e Itatiaia transmitem Marseille x Le Mans pela Ligue 1; confira",
+    "d": "Equipes se enfrentam neste domingo às 16h45 (de Brasília) no Velódrome, em jogo da 11ª rodada do Francês",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cnn-brasil-e-itatiaia-transmitem-marseille-x-le-mans-pela-ligue-1-confira/",
+    "time": "2026-11-22T01:53:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Michelle diz que Jair Bolsonaro está sem febre e com “cara boa”",
+    "d": "Ex-primeira dama e senadora eleita pelo PL-DF visitou o ex-presidente na noite deste sábado (21); ele está internado em UTI de Brasília com diagnóstico de abdômen agudo obstrutivo",
+    "link": "https://www.cnnbrasil.com.br/politica/michelle-diz-que-jair-bolsonaro-esta-sem-febre-e-com-cara-boa/",
+    "time": "2026-11-22T01:39:16.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
+    "d": "Estrangeiros gastam mais de R$ 45 bi no Brasil O turismo internacional está batendo recordes no Brasil esse ano. E o valor gasto por estrangeiros já é o maior registrado pelo Ministério do Turismo. 📱Favorite o g1 no…",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
+    "time": "2026-11-22T01:29:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Messi agride Tapia, ex-São Paulo, e escapa de expulsão na MLS; veja",
+    "d": "Atacante chileno emprestado pelo Tricolor foi o grande destaque da vitória do Columbus Crew sobre o Inter Miami, neste sábado (21)",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-agride-tapia-ex-sao-paulo-e-escapa-de-expulsao-na-mls-veja/",
+    "time": "2026-11-22T01:28:48.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "d": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-22T01:25:03.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Boca Juniors quebra jejum e provoca rival após título: “O que mais ganhou”",
+    "d": "Clube argentino encerra jejum de 18 anos e usa camisa especial para provocar o Independiente após vitória sobre Atlético-MG",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/boca-juniors-quebra-jejum-e-provoca-rival-apos-titulo-o-que-mais-ganhou/",
+    "time": "2026-11-22T01:16:56.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Bernard desaba no choro em campo após mais um vice com o Atlético-MG",
+    "d": "Meia-atacante foi às lágrimas após derrota do Galo para o Boca Juniors em Barranquilla, na Colômbia; time mineiro foi apático em campo",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/bernard-desaba-no-choro-em-campo-apos-mais-um-vice-com-o-atletico-mg/",
+    "time": "2026-11-22T01:12:21.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Kaio Jorge, do Cruzeiro, provoca o Atlético-MG após vice da Sul-Americana",
+    "d": "Atacante usou as redes sociais para alfinetar o Galo logo após a final da Sul-Americana, vencida pelo Boca Juniors",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/kaio-jorge-do-cruzeiro-provoca-o-atletico-mg-apos-vice-da-sul-americana/",
+    "time": "2026-11-22T01:10:37.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Atlético-MG 0 x 2 Boca: veja os melhores momentos da final da Sul-Americana",
+    "d": "Time mineiro não foi páreo para os argentinos e ficou com o vice na competição continental",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-0-x-2-boca-veja-os-melhores-momentos-da-final-da-sul-americana/",
+    "time": "2026-11-22T01:02:14.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sul-Americana: saiba quanto o Atlético-MG deixou de ganhar após a derrota",
+    "d": "Galo ficou com o vice-campeonato contra o Boca na Colômbia",
+    "link": "https://www.cnnbrasil.com.br/noticias/sul-americana-saiba-quanto-o-atletico-mg-deixou-de-ganhar-apos-a-derrota/",
+    "time": "2026-11-22T00:57:48.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Presidente do Flamengo provoca o Palmeiras após título: “Não tem fax”",
+    "d": "Equipe carioca conquistou o Campeonato Brasileiro depois de empatar em 1 a 1 com o time alviverde neste sábado (21), no Nubank Parque",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/presidente-do-flamengo-provoca-o-palmeiras-apos-titulo-nao-tem-fax/",
+    "time": "2026-11-22T00:48:17.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Seria um dado irreparável, diz integrante do Cidadania sobre fim do partido",
+    "d": "Decisão de Zanin suspendendo o congresso que decidiria a incorporação do Cidadania ao PP (Progressistas) foi publicada no mesmo dia que o evento aconteceria",
+    "link": "https://www.cnnbrasil.com.br/politica/seria-um-dado-irreparavel-diz-integrante-do-cidadania-sobre-fim-do-partido/",
+    "time": "2026-11-22T00:46:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "O que acontece quando alguém faz cócegas? Psicólogo usou máscara e transformou os filhos em cobaias de um experimento curioso",
+    "d": "Experimento iniciado em 1933 investigou se as gargalhadas dos bebês ao receber cócegas eram espontâneas ou era aprendido pela observação do comportamento dos adultos durante as brincadeiras",
+    "link": "https://www.cnnbrasil.com.br/curiosidades/o-que-acontece-quando-alguem-faz-cocegas-psicologo-usou-mascara-e-transformou-os-filhos-em-cobaias-de-um-experimento-curioso/",
+    "time": "2026-11-22T00:45:19.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "FBI reportedly investigating apparent hack of its criminal database",
+    "d": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-22T00:10:44.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
     "d": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-21T22:19:43.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Flamengo contraria CBF, leva taça de 2025 e faz festa na casa do Palmeiras",
-    "d": "Com gol de Samuel Lino, o time carioca buscou o empate diante do rival paulista, confirmando o título antecipado da Série A do Brasileirão de 2026 neste sábado (21)",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-contraria-cbf-leva-taca-de-2025-e-faz-festa-na-casa-do-palmeiras/",
-    "time": "2026-11-21T22:14:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Arrascaeta e Bruno Henrique igualam marca de Zico no Flamengo; entenda",
-    "d": "Dupla flamenguista chegou ao quarto título do Campeonato Brasileiro, igualando o feito de ídolos",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/arrascaeta-e-bruno-henrique-igualam-marca-de-zico-no-flamengo-entenda/",
-    "time": "2026-11-21T22:02:18.000Z"
   },
   {
     "cat": "internacional",
@@ -33,99 +137,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Por que a gente continua vendo uma imagem mesmo depois de desviar o olhar?",
-    "d": "Células da retina e áreas do cérebro precisam se adaptar após exposição intensa à luz ou cor, gerando cópias visuais temporárias do que acabou de observar",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-a-gente-continua-vendo-uma-imagem-mesmo-depois-de-desviar-o-olhar/",
-    "time": "2026-11-21T22:00:56.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Palmeiras 1 x 1 Flamengo: veja os melhores momentos pelo Brasileirão",
-    "d": "Time carioca assegurou o título do Campeonato Brasileiro com o empate deste sábado (21), em duelo válido pela 36ª rodada da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-1-x-1-flamengo-veja-os-melhores-momentos-pelo-brasileirao/",
-    "time": "2026-11-21T21:59:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Suposto affair de Virginia curte show em camarote com a influenciadora",
-    "d": "Jogador Kauã Elias, do time de futebol Shakhtar Donetsk, esteve no Caldas Country Festival nesta sexta-feira (21) e assistiu apresentação próximo à influenciadora",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/suposto-affair-de-virginia-curte-show-em-camarote-com-a-influenciadora/",
-    "time": "2026-11-21T21:54:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Leonardo Jardim: de contestado no Flamengo a campeão brasileiro",
-    "d": "Contratado para substituir o ídolo Filipe Luís, treinador português conquista o segundo troféu da temporada no comando do Rubro-Negro, superando pressão e eliminações",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/leonardo-jardim-de-contestado-no-flamengo-a-campeao-brasileiro/",
-    "time": "2026-11-21T21:51:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Sobe para 5 número de mortos em Tupanciretã (RS); 265 ficaram feridos",
-    "d": "Mais de 20 mil pessoas foram afetadas por ventos de até 114 km/h que provocaram o destelhamento de quase 8 mil casas; 99% dos moradores da cidade foram atingidos",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/sobe-para-5-o-numero-de-mortos-em-tupancireta-rs-265-ficaram-feridos/",
-    "time": "2026-11-21T21:50:54.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Bolsonaro tem tornozeleira retirada e fica sob custódia 24h no hospital",
-    "d": "Em ofício enviado a Moraes, a PMDF detalhou os procedimentos adotados após Bolsonaro apresentar dores abdominais na sexta-feira (20)",
-    "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-tem-tornozeleira-retirada-e-fica-sob-custodia-24h-no-hospital/",
-    "time": "2026-11-21T21:47:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Brasil disputa liderança na atração de data centers, diz The Economist",
-    "d": "País aposta em matriz elétrica renovável e mercado em expansão para atrair investimentos de gigantes globais de tecnologia",
-    "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/brasil-disputa-lideranca-da-america-latina-na-atracao-de-data-centers/",
-    "time": "2026-11-21T21:43:38.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas",
     "d": "Segundos de aplausos quando um avião aterrissa podem provocar reações fortes entre os passageiros. Psicólogos analisam o que pode estar por trás deste comportamento.",
     "link": "https://www.bbc.com/portuguese/articles/cm5y1xg8xqjqo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-21T21:41:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Atlético-MG x Boca: escalações e onde assistir à final da Sul-Americana",
-    "d": "Time mineiro enfrenta gigante argentino em Barranquilla, na Colômbia, em busca do primeiro título da competição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-x-boca-escalacoes-e-onde-assistir-a-final-da-sul-americana/",
-    "time": "2026-11-21T21:35:52.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Quem foi o craque do Flamengo na campanha do título? Vote",
-    "d": "Rubro-Negro conquistou mais uma taça e teve jogadores decisivos ao longo da trajetória; escolha quem mais se destacou na campanha vitoriosa",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/quem-foi-o-craque-do-flamengo-na-campanha-do-titulo-vote/",
-    "time": "2026-11-21T21:33:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Morre Joe Wallach, um dos fundadores da Globo, aos 103 anos",
-    "d": "Empresário americano veio para o Brasil em 1965 para a estreia da emissora ao lado de Roberto Marinho e, anos depois, se tornou diretor executivo",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-joe-wallach-um-dos-fundadores-da-globo-aos-103-anos/",
-    "time": "2026-11-21T21:30:53.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "d": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-21T21:05:29.000Z"
   },
   {
     "cat": "internacional",
@@ -155,7 +171,7 @@
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-    "d": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in th…",
+    "d": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Me…",
     "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
     "time": "2026-11-21T17:46:55.000Z"
   },
@@ -174,14 +190,6 @@
     "d": "Joe Wallach morre aos 103 anos Joe Wallach, executivo americano que participou da fundação da TV Globo e colaborou com a emissora durante décadas, morreu aos 103 anos. Ele vivia em Los Angeles, na Califórnia (EUA). Wa…",
     "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml",
     "time": "2026-11-21T16:56:54.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "FBI reportedly investigating apparent hack of its criminal database",
-    "d": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-21T16:35:15.000Z"
   },
   {
     "cat": "brasil",
@@ -360,14 +368,6 @@
     "time": "2026-11-21T05:07:02.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos nos EUA e na Europa",
-    "d": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos A acerola ganhou uma função inesperada: ajudar a conservar a carne por mais tempo. A fruta, transformada em pó, passou a ser exportada para os…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/acerola-na-carne-veja-como-a-fruta-virou-conservante-natural-de-alimentos-nos-eua-e-na-europa.ghtml",
-    "time": "2026-11-21T05:06:59.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Man convicted of starting Palisades fire in Los Angeles",
@@ -395,7 +395,7 @@
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
-    "d": "Trinta cidades no Rio Grande do Sul tiveram danos humanos ou materiais, segundo a Defesa Civil. Tupanciretã, na região central do Estado, teve três óbitos e 60 pessoas feridas.",
+    "d": "Trinta e oito cidades no Rio Grande do Sul tiveram danos humanos ou materiais, segundo a Defesa Civil. Tupanciretã, na região central do Estado, teve cinco óbitos e 265 pessoas feridas.",
     "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-21T01:16:58.000Z"
   },
@@ -536,6 +536,14 @@
     "time": "2026-11-20T14:00:31.000Z"
   },
   {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Quem são os awá, grupo indígena isolado que fez contato com outra aldeia no Maranhão",
+    "d": "O encontro de um grupo de indígenas com outra tribo no Maranhão é 'um sinal alarmante' do avanço do desmatamento na selva, segundo pesquisadora.",
+    "link": "https://www.bbc.com/portuguese/articles/c6pw4d0292plo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-20T13:54:29.000Z"
+  },
+  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
@@ -566,14 +574,6 @@
     "d": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security…",
     "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
     "time": "2026-11-20T05:00:24.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Hora extra mais cara com fim da 6x1? Veja conta com salário de R$ 3 mil e o que muda com decreto de Lula",
-    "d": "A maior mudança nas jornadas de trabalho em quase 40 anos começará a entrar em vigor no mês que vem, com um período de transição. Ainda há contestações na Justiça.",
-    "link": "https://www.bbc.com/portuguese/articles/cvlyjkw9zr5jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-19T20:39:07.000Z"
   },
   {
     "cat": "economia",
