@@ -1,147 +1,435 @@
 [
   {
-    "cat": "economia",
+    "cat": "brasil",
     "src": "CNN Brasil",
-    "h": "UBS BB rebaixa recomendação das ações da B3 para neutra",
-    "d": "Equipe de analistas da empresa afirmou que o cenário para 2027 é desafiador para a atividade do mercado de capitais, uma vez que os juros elvados por mais tempo podem limitar as alocações em ações",
-    "link": "https://www.cnnbrasil.com.br/economia/money/mercado/ubs-bb-rebaixa-recomendacao-das-acoes-da-b3-para-neutra/",
-    "time": "2026-11-23T13:34:42.000Z"
+    "h": "Jensen Huang é aplaudido por funcionários ao retornar à Nvidia; veja",
+    "d": "Conselho aprovou por unanimidade a recondução do executivo nesta segunda-feira (23)",
+    "link": "https://www.cnnbrasil.com.br/economia/jensen-huang-e-aplaudido-por-funcionarios-ao-retornar-a-nvidia-veja/",
+    "time": "2026-11-24T01:08:36.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça libera R$ 2,77 bi de ações previdenciárias a 179 mil beneficiários",
+    "d": "Conselho da Justiça Federal liberou, no total, pagamento de R$ 3,36 bilhões em Requisições de Pequeno Valor a 293.596 beneficiários que venceram ações na Justiça Federal; saiba como consultar",
+    "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/justica-libera-r-277-bi-de-acoes-previdenciarias-a-179-mil-beneficiarios/",
+    "time": "2026-11-24T00:52:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TCU deve votar na quarta relatório sobre irregularidades no crédito rural",
+    "d": "Votação ocorre após a CAPADR (Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural) aprovar, em outubro de 2025, um requerimento para que a Corte analisasse possíveis falhas na execução da PNCR (Po…",
+    "link": "https://www.cnnbrasil.com.br/agro/tcu-deve-votar-na-quarta-relatorio-sobre-irregularidades-no-credito-rural/",
+    "time": "2026-11-24T00:50:45.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Inter é goleado pelo Vitória e se complica na luta contra o rebaixamento",
+    "d": "Colorado foi derrotado por 5 a 2, seguindo na zona de rebaixamento do Campeonato Brasileiro",
+    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/inter-e-goleado-pelo-vitoria-e-se-complica-na-luta-contra-o-rebaixamento/",
+    "time": "2026-11-24T00:30:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "MBRF prevê aumento de 8% nas vendas de produtos natalinos em 2026",
+    "d": "Queda nos gastos do consumidor com apostas online favorece a compra de alimentos e proteínas na reta final do ano",
+    "link": "https://www.cnnbrasil.com.br/agro/mbrf-preve-aumento-de-8-nas-vendas-de-produtos-natalinos-em-2026/",
+    "time": "2026-11-24T00:26:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chuvas provocam o cancelamento de 20 voos no Aeroporto de Congonhas",
+    "d": "Aena orienta passageiros a consultarem as companhias aéreas sobre a situação das viagens antes de irem ao local; cidade registrou o dia mais chuvoso do mês nesta segunda-feira",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuvas-provocam-o-cancelamento-de-20-voos-no-aeroporto-de-congonhas/",
+    "time": "2026-11-24T00:18:50.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "McDonald’s terá lanche especial com Chester Perdigão no Natal",
+    "d": "Parceria entre Arcos Dorados e MBRF leva proteína comemorativa para mais de 1,2 mil restaurantes",
+    "link": "https://www.cnnbrasil.com.br/agro/mcdonalds-tera-lanche-especial-com-chester-perdigao-no-natal/",
+    "time": "2026-11-24T00:12:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chuva forte faz CET fechar o Túnel do Anhangabaú no centro de SP",
+    "d": "Fechamento nos dois sentidos ocorre para evitar novos desastres como o alagamento registrado em outubro ou como em 1999, quando o acesso não foi fechado e 160 veículos ficaram presos na inundação",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-forte-faz-cet-fechar-o-tunel-do-anhangabau-no-centro-de-sp/",
+    "time": "2026-11-24T00:11:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Coletor de lixo morre atingido por caminhão em Ipatinga",
+    "d": "Veículo perdeu força durante subida íngreme e desceu de ré prensando o funcionário contra a parede de uma residência no interior de Minas Gerais",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/coletor-de-lixo-morre-atingido-por-caminhao-em-ipatinga/",
+    "time": "2026-11-24T00:02:28.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Nvidia recupera US$ 953 bilhões em valor de mercado após volta de Huang",
+    "d": "Avaliada ao fim da segunda-feira (23) em US$ 3,978 trilhões, companhia segue abaixo dos US$ 5,149 trilhões registrados antes do início de crise",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/nvidia-recupera-us-953-bilhoes-em-valor-de-mercado-apos-volta-de-huang/",
+    "time": "2026-11-23T23:51:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Chuva forte causa alagamentos e quedas de árvores na Grande São Paulo",
+    "d": "O mês de novembro já acumulou 158,4mm, o que equivale a 19% acima da média esperada que é de 133,1mm; novas tempestades podem ocorrer na terça-feira (24)",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-forte-causa-alagamentos-e-quedas-de-arvores-na-grande-sao-paulo/",
+    "time": "2026-11-23T23:40:18.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Torcedor é preso após furtar loja oficial dentro do Maracanã; veja vídeo",
+    "d": "Homem foi identificado por câmeras de segurança e localizado na arquibancada do estádio durante a partida",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/torcedor-e-preso-apos-furtar-loja-oficial-dentro-do-maracana-veja-video/",
+    "time": "2026-11-23T23:30:16.000Z"
   },
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Flights and train services cancelled in Belgium due to strike",
+    "h": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "d": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T23:16:08.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "BRB diz que segue com atividades bancárias, mesmo com registro suspenso na CVM e bloqueio para negociar ações",
+    "d": "BRB não divulga balanço de 2025 dentro do prazo Jornal Nacional/ Reprodução O Banco de Brasília (BRB) afirmou que continua operando normalmente e prestando serviços aos clientes após a Comissão de Valores Mobiliários…",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/brb-afirma-que-segue-com-atividades-bancarias-apos-cvm-suspender-registro-de-companhia-aberta.ghtml",
+    "time": "2026-11-23T23:05:34.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+    "d": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator w…",
+    "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+    "time": "2026-11-23T22:41:48.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
+    "d": "Refinaria Alberto Pasqualini da Petrobras em Canoas Diego Vara/Reuters A Petrobras anunciou nesta segunda-feira (23) que voltará ao setor de produção de etanol após fechar um acordo para comprar 42% da Neomille, empre…",
+    "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
+    "time": "2026-11-23T22:40:42.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Petrobras prevê investir US$ 122 bilhões entre 2027 e 2031, alta de 11,9% em relação ao plano anterior",
+    "d": "Petrobras Foto Divulgação A Petrobras aprovou nesta segunda-feira (23) seu novo plano de negócios, que prevê investimentos de US$ 122 bilhões (cerca de R$ 723 bilhões) entre 2027 e 2031. O valor é 11,93% superior aos…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
+    "time": "2026-11-23T22:38:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA",
+    "d": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta n…",
+    "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
+    "time": "2026-11-23T22:30:43.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+    "d": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Tim…",
+    "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+    "time": "2026-11-23T22:23:40.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "Os testes que garantem a segurança de vacinas - e como combater desinformação sobre elas",
+    "d": "Dos testes de laboratório até o monitoramento permanente da sua segurança, as vacinas passam por diversas verificações, antes e depois de chegarem ao público.",
+    "link": "https://www.bbc.com/portuguese/articles/cjr4gzz45pk2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T22:21:28.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Nvidia recupera US$ 953 bilhões em um dia com volta de CEO, valor maior que o de toda a B3",
+    "d": "Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT A Nvidia anunciou nesta segunda-feira (23) o retorno imediato de Jensen Huang ao comando da empresa. O executivo havia renunciad…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
+    "time": "2026-11-23T21:21:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "d": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T20:48:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
+    "d": "Jensen Huang é aplaudido na Nvidia Um vídeo que circula nas redes sociais mostra o presidente-executivo da Nvidia, Jensen Huang, sendo recebido com aplausos pelos funcionários ao retornar à sede da empresa. A volta do…",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
+    "time": "2026-11-23T20:44:10.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Batmóvel de 'Batman: O Retorno' vai a leilão por até R$ 37 milhões e pode bater recorde",
+    "d": "Batman – O Retorno Herói Bruce Wayne Ian Wood/Julien's O Batmóvel usado no filme Batman: O Retorno, de 1992, será leiloado nesta segunda-feira (23), em Gardena, nos arredores de Los Angeles, nos Estados Unidos. O veíc…",
+    "link": "https://g1.globo.com/carros/noticia/2026/11/23/batmovel-de-batman-o-retorno-vai-a-leilao-por-ate-r-37-milhoes-e-pode-bater-recorde.ghtml",
+    "time": "2026-11-23T20:27:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Bolsonaro continua na UTI após ser internado por dores abdominais; ex-presidente está com pneumonia",
+    "d": "O ex-presidente Jair Bolsonaro (PL) continuará internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores e distensão abdominal e ser diagnosticado com uma obstrução intest…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml",
+    "time": "2026-11-23T20:21:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Em reunião com Lula, ministros do STF defendem diretor da PF e dizem que André Mendonça queria prendê-lo",
+    "d": "Sadi: Ala do STF defende Andrei junto a Lula A ala de ministros do Supremo Tribunal Federal (STF) mais próxima de Lula (PT) fez uma defesa enfática do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, durante j…",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/23/lula-andrei-rodrigues-andre-mendonca.ghtml",
+    "time": "2026-11-23T19:58:57.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Ações do BRB perderam quase 75% do valor em um ano; entenda",
+    "d": "Sede do Banco de Brasília (BRB) TV Globo Arrastado para o centro da crise do Banco Master e sem divulgar balanços operacionais há um ano, o Banco de Brasília (BRB) viu o valor de suas ações negociadas na B3 \"derreter\"…",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
+    "time": "2026-11-23T19:06:05.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
+    "d": "Governo publica regras da escala 5x2 O Ministério do Trabalho publicou nesta segunda-feira (23) portaria que regulamenta a duração de trabalho e o período de descanso na escala 5x2. A norma estabelece dois dias de rep…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
+    "time": "2026-11-23T18:42:53.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "BBC News Brasil",
+    "h": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
+    "d": "Valor disparou com combinação de força da moeda americana no exterior e pressão sobre ajuste fiscal no Brasil, levando à desvalorização do real acentuada entre as principais moedas emergentes.",
+    "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T18:27:19.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fazenda reduz previsão de crescimento da economia para 1,9% neste ano",
+    "d": "O Ministério da Fazenda revisou mais uma vez para baixo a projeção de crescimento da economia brasileira neste ano, de 2% para 1,9%. A informação consta no Boletim Macrofiscal, divulgado nesta segunda-feira (23). ➡️A…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
+    "time": "2026-11-23T18:08:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Queremos destruir o capitalismo': por dentro das manifestações dos 'black blocks' da esquerda radical na França",
+    "d": "A BBC ouviu os manifestantes de extrema-esquerda acusados pelo presidente francês Emmanuel Macron de tentar derrubar a República.",
+    "link": "https://www.bbc.com/portuguese/articles/cqe8700d7e8do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T18:07:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Iranian authorities flog singer who performed without hijab, lawyers say",
+    "d": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T18:04:20.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "O mais famoso problema da Matemática que funcionário da Anthropic diz ter solucionado com ajuda da IA",
+    "d": "Matemático da empresa Anthropic afirma ter usado IA para comprovar a famosa hipótese de Riemann. A verificação da sua resposta, no entanto, deve levar tempo.",
+    "link": "https://www.bbc.com/portuguese/articles/c5y4jer308n4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T17:44:13.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Durigan vê pacote fiscal como 'primeiro passo' e diz discutir ajuste nas contas diariamente com Lula",
+    "d": "Dario Durigan, ministro da Fazenda Washington Costa/MF O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (23) que o pacote fiscal em discussão no Congresso Nacional é apenas um \"primeiro passo\" para aj…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/23/durigan-evento-itau.ghtml",
+    "time": "2026-11-23T17:27:22.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "What failure of COP31 reveals about a divided world",
+    "d": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+    "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T17:24:25.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+    "d": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+    "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T17:14:50.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "d": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T17:07:25.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fiscalização encontra trabalho infantil em 113 empresas e afasta 179 adolescentes",
+    "d": "Auditoria-Fiscal do Trabalho identificou 113 empresas com adolescentes em situação de trabalho infantil em cinco estados brasileiros. Auditoria-Fiscal do Trabalho Uma operação da Auditoria-Fiscal do Trabalho, vinculad…",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/mais-de-100-empresas-sao-flagradas-com-adolescentes-em-atividades-perigosas-179-sao-afastados.ghtml",
+    "time": "2026-11-23T17:04:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula",
+    "d": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou que o senador Flávio Bolsonaro (PL-RJ) seja notificado por edi…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml",
+    "time": "2026-11-23T17:03:15.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+    "d": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with th…",
+    "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+    "time": "2026-11-23T16:53:13.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+    "d": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education,…",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+    "time": "2026-11-23T16:42:09.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fortuna de Jensen Huang cresce R$ 219 bilhões após retorno ao comando da Nvidia",
+    "d": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa A fortuna de Jensen Huang cresceu cerca de US$ 36,6 bilhões (R$ 219 bilhões) após o anúncio de seu retorno ao comando da Nvidia, segundo dados divulg…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/23/fortuna-de-jensen-huang-cresce-em-apos-volta-ao-comando-da-nvidia.ghtml",
+    "time": "2026-11-23T16:21:26.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+    "d": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T15:41:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "A reviravolta que fez Jensen Huang voltar ao comando da Nvidia após escândalo de traição e espionagem",
+    "d": "O conselho votou de forma unânime pela recondução de Jensen Huang ao cargo, segundo um comunicado divulgado no site da Nvidia nesta segunda-feira.",
+    "link": "https://www.bbc.com/portuguese/articles/c5y4je03812wo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T15:14:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
+    "d": "Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Governo do Reino da Espanha, Pedro Sanchez Ricardo Stuckert/PR Presidente da República, Luiz Inácio Lula da Silva, duran…",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/lula-se-reune-com-cupula-do-congresso-e-ministros-do-stf-para-definir-substituto-de-barroso.ghtml",
+    "time": "2026-11-23T15:07:33.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+    "d": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+    "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T14:55:14.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Mexican soldiers attacked in wake of drug lord's arrest",
+    "d": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T14:54:03.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Wild stock market swings: will I lose money, and is there anything I can do?",
+    "d": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There…",
+    "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+    "time": "2026-11-23T14:51:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Fim da escala 6X1 deve impactar mais de 100 mil trabalhadores domésticos, estima instituto",
+    "d": "O fim da escala 6x1, regulamentado pelo presidente Luiz Inácio Lula da Silva (PT), vai gerar mudanças para cerca de 102 mil trabalhadores domésticos no país, estimou nesta segunda-feira (23) o Instituto Doméstica Lega…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
+    "time": "2026-11-23T14:44:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Escala 5x2: AGU diz ao STF que decisão provisória de Dino não é mais necessária após regulamentação do governo",
+    "d": "A Advocacia Geral da União (AGU) pediu nesta segunda-feira (23) que o Supremo Tribunal Federal (STF) reconheça que não é mais necessária a decisão liminar do ministro Flávio Dino que alterou parâmetros da transição pa…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/23/escala-5x2-agu-diz-ao-stf-que-decisao-provisoria-de-dino-nao-e-mais-necessaria-apos-regulamentacao-do-governo.ghtml",
+    "time": "2026-11-23T14:35:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "COP31 termina sem acordo e escancara divisão entre países sobre combustíveis fósseis",
+    "d": "Negociações, que deveriam ter terminado na sexta-feira, se estenderam até o fim de semana, tornando essa a conferência climática da ONU mais longa da história.",
+    "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T13:58:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "India pledges $1.6bn to Nepal in reset of ties",
+    "d": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+    "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T13:39:30.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Flights cancelled in Belgium due to cost-of-living strike",
     "d": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
     "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-23T13:34:02.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "PMI: Zona do euro segue crescendo mas retração na França afeta perspectivas",
-    "d": "Resultado marca o quinto mês consecutivo de expansão da atividade econômica na região impulsionado pela indústria alemã",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pmi-zona-do-euro-segue-crescendo-mas-retracao-na-franca-afeta-perspectivas/",
-    "time": "2026-11-23T13:32:30.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Galípolo diz que há espaço para ajuste sem cortes absolutos",
-    "d": "Presidente do BC afirma que mecanismos de expansão de despesas pressionam inflação e juros e rebate críticas à condução da política monetária",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/galipolo-diz-que-ha-espaco-para-ajuste-sem-cortes-absolutos/",
-    "time": "2026-11-23T13:31:32.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Mexican soldiers attacked in wake of drug lord's arrest",
-    "d": "The eight suspects were arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T13:26:36.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
-    "h": "Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
+    "h": "Pedidos de refúgio de cubanos no Brasil disparam com série de apagões na ilha e passam de 33 mil no ano",
     "d": "Cubanos saem de Havana, em Cuba, até a Guiana. Para chegar ao Brasil, atravessam fronteiras em botes e atravessam áreas de mata Arquivo Os pedidos de refúgio de cubanos no Brasil chegaram a 4.885 em setembro de 2026,…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/23/refugio-cuba-2026-parcial.ghtml",
     "time": "2026-11-23T13:24:41.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chefe da Otan chama violação russa do espaço aéreo polonês de perigosa",
-    "d": "Rutte elogiou a Polônia por relatar e avaliar claramente incidentes de segurança. Segundo ele, essas informações ajudam a Otan a \"conectar os pontos\"",
-    "link": "https://www.cnnbrasil.com.br/internacional/chefe-da-otan-chama-violacao-russa-do-espaco-aereo-polones-de-perigosa/",
-    "time": "2026-11-23T13:24:12.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Em meio a processo de caducidade, Fitch rebaixa nota de crédito da Enel",
-    "d": "Agência afirma que eventual perda da concessão comprometeria eficiência operacional e rentabilidade do grupo",
-    "link": "https://www.cnnbrasil.com.br/infra/em-meio-a-processo-de-caducidade-fitch-rebaixa-nota-de-credito-da-enel/",
-    "time": "2026-11-23T13:22:11.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Endrick sofre lesão na coxa direita e desfalca o Real Madrid",
-    "d": "Atacante brasileiro deve ficar até três semanas afastado dos gramados e perderá sequência de partidas importantes",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/endrick-sofre-lesao-na-coxa-direita-e-desfalca-o-real-madrid/",
-    "time": "2026-11-23T13:21:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Skate: Rayssa Leal conquista ouro em Copa do Mundo no Japão",
-    "d": "A brasileira de 18 anos superou Chloe Covell e Coco Yoshizawa para garantir o lugar mais alto do pódio em Utsunomiya",
-    "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/skate-rayssa-leal-conquista-ouro-em-copa-do-mundo-no-japao/",
-    "time": "2026-11-23T13:10:48.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Falling markets: will I lose money, and is there anything I can do?",
-    "d": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets. There have been si…",
-    "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-    "time": "2026-11-23T13:08:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trump volta a defender restituição de Huang ao cargo de CEO da Nvidia",
-    "d": "Em publicação na rede Truth Social, o presidente dos EUA afirmou que es pera que o conselho de adinistração da empresa recontrate ex-diretor, afirmando que a decisão seria a \"melhor coisa para a empresa\"",
-    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/trump-volta-a-defender-restituicao-de-huang-ao-cargo-de-ceo-da-nvidia/",
-    "time": "2026-11-23T13:08:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chitãozinho e Xororó anunciam turnê de despedida ao lado de Jorge e Mateus",
-    "d": "Dupla encerra a trajetória de 56 anos na música sertaneja com shows que passam por mais de 20 cidades brasileiras em 2027",
-    "link": "https://www.cnnbrasil.com.br/pop/musica/chitaozinho-e-xororo-anunciam-turne-de-despedida-ao-lado-de-jorge-e-mateus/",
-    "time": "2026-11-23T13:05:10.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Controle da inflação é prioridade do Banco Central, diz Galípolo",
-    "d": "Presidente do BC, Gabriel Galípolo CLÁUDIO REIS/ENQUADRAR/ESTADÃO CONTEÚDO O presidente do Banco Central (BC), Gabriel Galípolo, afirmou nesta segunda-feira (23) que a prioridade para a instituição é o controle da inf…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
-    "time": "2026-11-23T13:04:33.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-    "d": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T13:02:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Ela vota em si mesma, cobra os próprios impostos e assina a licença do bar: a rotina da mulher de 92 anos que administra uma cidade de um morador só",
-    "d": "Após a morte do marido, Elsie Eiler decidiu permanecer em Monowi, no Nebraska, onde também cuida de uma biblioteca com cerca de 5 mil livros",
-    "link": "https://www.cnnbrasil.com.br/curiosidades/ela-vota-em-si-mesma-cobra-os-proprios-impostos-e-assina-a-licenca-do-bar-a-rotina-da-mulher-de-92-anos-que-administra-uma-cidade-de-um-morador-so/",
-    "time": "2026-11-23T13:00:47.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Loovi paga sinistro? Veja como funciona a indenização",
-    "d": "Os sinistros dos clientes Loovi são pagos pela LTI Seguros S.A., seguradora autorizada pela SUSEP; veja o fluxo da abertura no aplicativo ao pagamento, os prazos legais de até 30 dias por etapa, a franquia em colisão…",
-    "link": "https://www.cnnbrasil.com.br/economia/loovi-paga-sinistro-veja-como-funciona-a-indenizacao/",
-    "time": "2026-11-23T13:00:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Mosaic e Scheffer firmam parceria para desenvolver soluções biológicas",
-    "d": "Mosaic contribuirá com experiência em nutrição de plantas, já a Scheffer disponibilizará sua estrutura de produção agrícola em larga escala e seus ambientes de pesquisa para testar e avaliar as tecnologias em condiçõe…",
-    "link": "https://www.cnnbrasil.com.br/agro/mosaic-e-scheffer-firmam-parceria-para-desenvolver-solucoes-biologicas/",
-    "time": "2026-11-23T12:53:34.000Z"
   },
   {
     "cat": "brasil",
@@ -154,10 +442,10 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Presidential villa suffers water and power cuts, Nigerian leader says",
-    "d": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-    "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T12:33:44.000Z"
+    "h": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
+    "d": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+    "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-23T12:43:40.000Z"
   },
   {
     "cat": "brasil",
@@ -168,60 +456,20 @@
     "time": "2026-11-23T12:33:08.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Trump pede que Nvidia recontrate Jensen Huang em meio a novas revelações sobre suposta espionagem chinesa",
-    "d": "Jensen Huang, CEO da Nvidia, ao lado de Donald Trump, presidente dos Estados Unidos, em foto de 8 de outubro de 2026 Reuters/Evan Vucci O presidente dos Estados Unidos, Donald Trump, pediu que o conselho de administra…",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/trump-nvidia-jensen-huang-espionagem-china.ghtml",
-    "time": "2026-11-23T12:14:26.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
-    "d": "O presidente Lula já foi alertado por sua equipe que, mesmo com a possibilidade de aprovação final do ajuste fiscal na Câmara dos Deputados nesta segunda, o dólar pode seguir pressionado. Esse quadro deve se manter at…",
+    "d": "Valdo: Baixa do dólar depende de nome para Fazenda O presidente Lula já foi alertado por sua equipe que, mesmo com a possibilidade de aprovação final do ajuste fiscal na Câmara dos Deputados nesta segunda, o dólar pod…",
     "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
     "time": "2026-11-23T12:00:28.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Dólar chega a R$ 6 pela primeira vez desde abril de 2025; Ibovespa abre em queda",
-    "d": "Dólar bate R$ 6 pela 1ª vez desde abril de 2025 O dólar chegou a R$ 6 por volta das 10h desta segunda-feira (23), patamar que não atingia desde 9 de abril de 2025, quando alcançou R$ 6,0966 durante o pregão. Após atin…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
-    "time": "2026-11-23T12:00:20.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "d": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T11:57:33.000Z"
   },
   {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-    "d": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe live – latest updates Ukraine has confirmed it deployed naval drones in strikes on two Russian v…",
+    "d": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, i…",
     "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
     "time": "2026-11-23T11:42:51.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-    "d": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T11:40:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mercado financeiro eleva estimativa de inflação em 2026 e 2027 e projeta corte menor dos juros no ano que vem",
-    "d": "Os analistas do mercado financeiro elevaram a estimativa de inflação em 2026 e 2027 e passaram a projetar corte menor de juros no ano que vem. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-fei…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/23/mercado-financeiro-eleva-estimativa-de-inflacao-em-2026-e-2027-e-projeta-corte-menor-dos-juros-no-ano-que-vem.ghtml",
-    "time": "2026-11-23T11:34:45.000Z"
   },
   {
     "cat": "brasil",
@@ -235,17 +483,9 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. Assinad…",
+    "d": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. A exone…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/23/lula-exonera-ministro-da-articulacao-para-votacao-do-projeto-de-ajuste-na-camara-medida-e-temporaria.ghtml",
     "time": "2026-11-23T11:12:40.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Caos digital alimenta teorias de ataque cibernético nos Estados Unidos",
-    "d": "Cancelamento de voos, instabilidade em serviços e invasões hackers aumentam preocupações. Problema, no entanto, reflete cortes orçamentários da gestão Trump. Kevin Horvart/Unplash No último dia 12 de novembro, trabalh…",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/23/caos-digital-alimenta-teorias-de-ataque-cibernetico-nos-estados-unidos.ghtml",
-    "time": "2026-11-23T11:07:06.000Z"
   },
   {
     "cat": "internacional",
@@ -273,51 +513,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-    "d": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T08:53:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Brasil é o 4º mais feliz do mundo no trabalho; veja ranking e por que o país supera nações mais ricas",
-    "d": "Brasil é o 4º mais feliz do mundo no trabalho O Brasil ocupa a 4ª posição no ranking global de felicidade no trabalho e aparece à frente de economias como Estados Unidos, Alemanha e Japão. (veja o ranking abaixo) O re…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/brasil-e-o-4o-mais-feliz-do-mundo-no-trabalho-veja-ranking-e-por-que-o-pais-supera-nacoes-mais-ricas.ghtml",
-    "time": "2026-11-23T06:00:00.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Batatas espaciais: cientistas descobrem como cultivar alimento em solo semelhante ao da Lua",
-    "d": "Batatas cultivadas em solo que simula as condições da Lua em laboratório da Universidade Estadual do Oregon Sean Nealon/Universidade Estadual do Oregon/Divulgação via REUTERS A batata é uma das culturas mais important…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/23/batatas-espaciais-cientistas-descobrem-como-cultivar-alimento-em-solo-semelhante-ao-da-lua.ghtml",
-    "time": "2026-11-23T06:00:00.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
     "d": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures…",
     "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
     "time": "2026-11-23T05:45:12.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-    "d": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T05:33:17.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-    "d": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-23T05:15:06.000Z"
   },
   {
     "cat": "brasil",
@@ -326,22 +526,6 @@
     "d": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT). O texto já foi aprovado no…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
     "time": "2026-11-23T03:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Quais são os próximos feriados de 2026? Veja o único que resta",
-    "d": "Decoração Natal Luz em Gramado Cleiton Thiele/ SerraPress Após o feriadão da Consciência Negra, celebrado na sexta-feira (20), muitos trabalhadores já estão de olho no próximo período de descanso. A data permitiu emen…",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/quais-sao-os-proximos-feriados-de-2026.ghtml",
-    "time": "2026-11-23T03:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "O que os homens mais ricos da Rússia esperam para o futuro sem Putin",
-    "d": "Silenciados pelo temor de represálias do Kremlin, integrantes da elite empresarial começam a imaginar como será o país quando o atual presidente deixar o poder.",
-    "link": "https://www.bbc.com/portuguese/articles/cmkgdx1w0dero?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T23:32:59.000Z"
   },
   {
     "cat": "brasil",
@@ -360,92 +544,12 @@
     "time": "2026-11-22T21:33:44.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Miley Cyrus marries Maxx Morando in California ceremony",
-    "d": "The couple have been together for four years and were engaged in 2025.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T21:22:40.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-    "d": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive o…",
+    "d": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executi…",
     "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
     "time": "2026-11-22T20:23:36.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
-    "d": "Negociações, que deveriam ter terminado na sexta-feira, se estenderam até hoje, tornando essa a conferência climática da ONU mais longa da história.",
-    "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T20:14:02.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
-    "d": "O sorvete é sinônimo da Itália, mas suas origens modernas remontam a uma humilde leiteria na Toscana e a um par de refrigeradores abandonados após a Segunda Guerra Mundial.",
-    "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T19:34:31.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para que ela engravidasse",
-    "d": "Durante anos, ela acreditou viver um amor de cinema. Até que, com seis meses de gravidez, descobriu a verdade. Agora, ela luta para que sua história ajude a mudar a lei.",
-    "link": "https://www.bbc.com/portuguese/articles/cmze7178k7d2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T18:41:29.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-    "d": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T17:18:26.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
-    "d": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia inte…",
-    "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
-    "time": "2026-11-22T16:54:30.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
-    "d": "Mega-Sena, concurso 3089: confira os números sorteados O sorteio do concurso 3.089 da Mega-Sena foi realizado na manhã deste domingo (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R…",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
-    "time": "2026-11-22T14:05:01.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "South Korean minister quits after AI cheating scandal engulfs university exams",
-    "d": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupte…",
-    "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-    "time": "2026-11-22T12:12:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
-    "d": "Quando Landon Tresp, de 16 anos, conheceu uma adolescente em um jogo online, isso fez com que ele e sua mãe ajudassem o FBI a resgatá-la de um sequestro.",
-    "link": "https://www.bbc.com/portuguese/articles/cm8x08negze2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T12:00:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "A 'utopia socialista' que levou um grupo de australianos idealistas ao Paraguai há mais de 130 anos",
-    "d": "Dezenas de australianos deixaram seu país no final do século XIX em busca de um lugar melhor para viver. O país escolhido foi o Paraguai.",
-    "link": "https://www.bbc.com/portuguese/articles/cqrkgxv7xxgzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T11:21:38.000Z"
   },
   {
     "cat": "economia",
@@ -457,35 +561,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "South Korea education minister resigns over exam cheating scandal",
-    "d": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-22T09:20:45.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
     "d": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research fi…",
     "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
     "time": "2026-11-22T08:00:22.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
-    "d": "Ovelhas pastam sob painéis solares na província de Guizhou, no sudoeste da China, como parte de uma prática cada vez mais comum de combinar a pecuária com a produção de energia solar Tao Liang/Xinhua/picture alliance…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
-    "time": "2026-11-22T07:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Nova espécie de perereca é descoberta em Minas Gerais após cientista ouvir canto incomum",
-    "d": "Nova espécie de perereca é identificada em MG Em uma área preservada de Mata Atlântica, em Cataguases, na Zona da Mata mineira, o biólogo Clodoaldo Lopes ouviu uma perereca que não soava como as outras. A desconfiança…",
-    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/22/nova-especie-de-perereca-e-descoberta-em-minas-gerais-apos-cientista-ouvir-canto-incomum.ghtml",
-    "time": "2026-11-22T07:00:00.000Z"
   },
   {
     "cat": "economia",
@@ -496,30 +576,6 @@
     "time": "2026-11-22T06:00:19.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
-    "d": "Guarda Municipal de Maceió Ascom Semsc A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, permite que os prefeitos passem a contar com uma polícia municipal. A nova força pode ser cria…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
-    "time": "2026-11-22T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
-    "d": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo. O relator da proposta, deputado Mauro Benevides (União Brasil-CE), mant…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
-    "time": "2026-11-22T03:00:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Maioria das cidades terá dificuldade para criar polícia municipal, diz deputado",
-    "d": "Guarda Municipal Reprodução/Prefeitura de Porto Velho A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, abriu caminho para que municípios criem suas próprias polícias. Mas impõe uma c…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
-    "time": "2026-11-22T03:00:00.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "The Guardian",
     "h": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -528,52 +584,12 @@
     "time": "2026-11-21T17:46:55.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
-    "d": "Bolsonaro está na UTI em estado estável, diz boletim médico O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na t…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
-    "time": "2026-11-21T17:16:23.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
-    "d": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
-    "time": "2026-11-21T15:48:34.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
-    "d": "Lula critica aliados que se opuseram ao ajuste O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçament…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
-    "time": "2026-11-21T14:27:51.000Z"
-  },
-  {
     "cat": "economia",
     "src": "The Guardian",
     "h": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
     "d": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings…",
     "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
     "time": "2026-11-21T13:00:01.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Defesa de Bolsonaro pede a Moraes  autorização para visitas diárias de filhos durante internação",
-    "d": "A defesa de Jair Bolsonaro pediu neste sábado (21) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam vi…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
-    "time": "2026-11-21T12:14:12.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "Haitians excited but uneasy as El Salvador troops fight gangs",
-    "d": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the fa…",
-    "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-    "time": "2026-11-21T11:00:57.000Z"
   },
   {
     "cat": "economia",
@@ -618,14 +634,6 @@
   {
     "cat": "internacional",
     "src": "The Guardian",
-    "h": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-    "d": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcem…",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-    "time": "2026-11-20T11:00:31.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
     "h": "California’s coastal communities on alert as biggest waves in years hit state",
     "d": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure genera…",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
@@ -638,14 +646,6 @@
     "d": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop. Taki…",
     "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
     "time": "2026-11-20T07:00:26.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Labor leaders call on governments to stop awarding Amazon public contracts",
-    "d": "Union leaders from 19 countries urge reassessment of ties to Amazon, citing company’s poor record on worker rights More than 30 labor union leaders from 19 countries are calling on governments to review their public c…",
-    "link": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
-    "time": "2026-11-19T14:05:21.000Z"
   },
   {
     "cat": "internacional",
