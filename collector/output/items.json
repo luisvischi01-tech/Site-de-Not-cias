@@ -1,6 +1,222 @@
 [
   {
     "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Avião da FedEx sai da pista e provoca atrasos no aeroporto de Miami",
+    "d": "Aeronave cargueira parou em uma área gramada; ocorrência suspendeu operações temporariamente, mas não deixou feridos",
+    "link": "https://www.cnnbrasil.com.br/internacional/aviao-da-fedex-sai-da-pista-e-provoca-atrasos-em-aeroporto-de-miami/",
+    "time": "2026-11-26T04:13:58.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US announces new tariffs on host of countries including China",
+    "d": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-26T04:10:58.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Macy's postpones Thanksgiving parade due to severe weather",
+    "d": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-26T04:04:14.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+    "d": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+    "time": "2026-11-26T03:54:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Explosão de caminhão-tanque provoca incêndio e deixa 31 mortos no Egito",
+    "d": "Acidente destruiu 27 veículos nos arredores do Cairo; outras 21 pessoas ficaram feridas e foram levadas a hospitais",
+    "link": "https://www.cnnbrasil.com.br/internacional/explosao-de-caminhao-tanque-provoca-incendio-e-deixa-mortos-no-egito/",
+    "time": "2026-11-26T03:53:24.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dos EUA, Flávio Bolsonaro indica R$ 79 milhões em emendas para 2027",
+    "d": "Destinação de recursos tende a entrar na mira de Flávio Dino",
+    "link": "https://www.cnnbrasil.com.br/politica/dos-eua-flavio-bolsonaro-indica-r-79-milhoes-em-emendas-para-2027/",
+    "time": "2026-11-26T03:37:44.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "O mapa das facções e a nova dinâmica do crime no Brasil - O Assunto #1853",
+    "d": "Nesta semana, a Agência Brasileira de Inteligência (Abin) publicou o documento Cenários do Crime Organizado no Brasil, produzido em parceria com o Fórum Brasileiro de Segurança Pública. Trata-se de um levantamento iné…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml",
+    "time": "2026-11-26T03:30:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+    "d": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-26T03:27:33.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Moraes autoriza Débora do Batom a comparecer à apresentação do filho",
+    "d": "Em prisão domiciliar, cabeleireira foi autorizada a sair exclusivamente no dia 29 de novembro para participar da cantata em uma escola de Paulínia, no interior de São Paulo",
+    "link": "https://www.cnnbrasil.com.br/politica/moraes-autoriza-debora-do-batom-a-comparecer-a-apresentacao-do-filho/",
+    "time": "2026-11-26T03:06:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Prestações de contas de candidatos mostram repasses do Fundo Eleitoral acima dos valores recebidos por partidos",
+    "d": "Fachada do TSE Luiz Roberto/Secom/TSE As prestações de contas dos candidatos nas eleições de 2026 apresentam divergências entre os valores declarados como recursos do Fundo Especial de Financiamento de Campanha (FEFC)…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/26/prestacoes-de-contas-de-candidatos.ghtml",
+    "time": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Herança: Câmara aprova projeto que prevê deserdação por 'interdição abusiva' de idosos; entenda",
+    "d": "A Câmara dos Deputados aprovou nesta semana um projeti de lei que estabelece a perda do direito à herança para quem tentar interditar uma pessoa com o interesse de tomar ou desviar o patrimônio dela. De autoria do dep…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/26/heranca-deserdacao-curatela-idosos-camara.ghtml",
+    "time": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
+    "d": "Como funciona a Mega-Sena? O concurso 3.091 da Mega-Sena pode pagar um prêmio de R$ 75 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (26), em São Paulo. 📱Favori…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+    "time": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
+    "d": "Dívidas com cartão de crédito Reprodução/ EPTV A partir de 1º de julho de 2027, os bancos terão de reduzir gradualmente o limite de clientes que recorrerem frequentemente ao rotativo do cartão. 💳 O crédito rotativo é…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
+    "time": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "The Guardian",
+    "h": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+    "d": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in August The federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led…",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+    "time": "2026-11-26T02:52:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "TCU afasta multas a Dilma Rousseff por irregularidades fiscais em 2014",
+    "d": "Tribunal arquivou processo contra a ex-presidente e ex-integrantes da equipe econômica por irregularidades fiscais, sem aplicar sanções individuais; decisão não altera a rejeição das contas do governo daquele ano",
+    "link": "https://www.cnnbrasil.com.br/politica/tcu-afasta-multas-a-dilma-rousseff-por-irregularidades-fiscais-em-2014/",
+    "time": "2026-11-26T02:38:52.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Principal rival de Erdogan é impedido de disputar a Presidência na Turquia",
+    "d": "Conselho de Estado do país rejeitou, nesta quarta-feira (25), um recurso contra o cancelamento do diploma universitário de Ekrem Imamoglu, prefeito destituído de Istambul",
+    "link": "https://www.cnnbrasil.com.br/internacional/principal-rival-de-erdogan-e-impedido-de-disputar-a-presidencia-na-turquia/",
+    "time": "2026-11-26T02:34:09.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Senado aprova urgência de PL que reduz quarentena para cargos em estatais",
+    "d": "Segundo presidente Davi Alcolumbre (União-AP), plenário deve analisar mérito do projeto na próxima terça-feira (1º); texto encurta de 36 meses para apenas 30 dias o período de quarentena para indicações ao alto escalã…",
+    "link": "https://www.cnnbrasil.com.br/politica/senado-aprova-urgencia-de-pl-que-reduz-quarentena-para-cargos-em-estatais/",
+    "time": "2026-11-26T02:07:57.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Sabesp nega água contaminada; ministério registrou E. coli em 68 cidades",
+    "d": "Pasta apontou 137 amostras positivas para a bactéria entre janeiro e setembro; empresa paulista diz ser alvo de fake news nas redes e vai à Justiça",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sabesp-diz-ser-vitima-de-fake-news-ministerio-aponta-presenca-de-bacteria/",
+    "time": "2026-11-26T02:07:47.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Quem é Luiz Trabuco, executivo do Bradesco sondado para Lula 4",
+    "d": "Banqueiro construiu carreira de mais de cinco décadas na instituição financeira, já presidiu o banco e mantém interlocução com o presidente da República; executivo foi sondado para participar do próximo governo",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/quem-e-luiz-trabuco-executivo-do-bradesco-sondado-para-lula-4/",
+    "time": "2026-11-26T02:02:32.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Minoritários da Oncoclínicas conseguem vitória na Justiça sobre OPA",
+    "d": "Desembargador do TRF1 suspende sentença que havia encerrado ação de associação de investidores; recurso será analisado pela 5ª Turma do tribunal, enquanto disputa envolve oferta que pode superar R$ 14 bilhões",
+    "link": "https://www.cnnbrasil.com.br/economia/money/negocios/minoritarios-da-oncoclinicas-conseguem-vitoria-na-justica-sobre-opa/",
+    "time": "2026-11-26T01:58:46.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Saldo da megaoperação no Rio aponta para mais de 400 prisões de foragidos",
+    "d": "Ação da Polícia Civil mira suspeitos investigados por roubo, latrocínio e receptação em todo o estado; 'Operação Espoliador' teve a primeira fase deflagrada em feveiro de 2026",
+    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/saldo-da-megaoperacao-no-rio-aponta-para-mais-de-400-prisoes-de-foragidos/",
+    "time": "2026-11-26T01:47:59.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Justiça de SP autoriza apreensão de carro de produtora de “Dark Horse”",
+    "d": "Karina Ferreira da Gama acumula dívida de financiamento do veículo que custou R$ 234 mil",
+    "link": "https://www.cnnbrasil.com.br/politica/justica-de-sp-autoriza-apreensao-de-carro-de-produtora-de-dark-horse/",
+    "time": "2026-11-26T01:32:49.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "California warns of flooding as King Tides peak over Thanksgiving",
+    "d": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-26T01:22:55.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+    "d": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killi…",
+    "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+    "time": "2026-11-26T00:39:10.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "d": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-26T00:23:05.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Has global jihadism failed, or is it simply changing shape?",
+    "d": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-26T00:22:18.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+    "d": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-25T23:18:27.000Z"
+  },
+  {
+    "cat": "brasil",
     "src": "G1",
     "h": "PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara",
     "d": "A Procuradoria-Geral da República denunciou ao Supremo Tribunal Federal (STF) o deputado Gustavo Gayer (PL-GO) como líder de um esquema de desvio de verba da chamada cota parlamentar. Gayer foi eleito senador em outub…",
@@ -9,107 +225,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Comissão aprova carga mínima de filosofia e sociologia no ensino médio",
-    "d": "Projeto revoga parte da Reforma do Ensino Médio de 2017 ao fixar o mínimo de duas horas semanais para as disciplinas no currículo escolar; texto ainda precisa ser aprovado pelo plenário da Câmara",
-    "link": "https://www.cnnbrasil.com.br/politica/comissao-aprova-carga-minima-de-filosofia-e-sociologia-no-ensino-medio/",
-    "time": "2026-11-25T22:58:15.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Campeonato Paulista 2027: veja a tabela completa dos jogos da primeira fase",
-    "d": "Competição começa no dia 10 de janeiro e terá formato inédito na próxima edição",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/campeonato-paulista-2027-veja-a-tabela-completa-dos-jogos-da-primeira-fase/",
-    "time": "2026-11-25T22:52:04.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Câmara aprova regras para escolas públicas em tempo integral",
-    "d": "Proposta define jornada mínima de sete horas por dia ou 35 horas por semana durante todo o ano letivo; texto ainda precisa passar pelo Senado",
-    "link": "https://www.cnnbrasil.com.br/politica/camara-aprova-regras-para-escolas-publicas-em-tempo-integral/",
-    "time": "2026-11-25T22:42:02.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
-    "h": "A influenciadora que ficou 2 meses internada em clínica psiquiátrica por um erro: 'Fui rotulada como psicótica por ser mulher'",
+    "h": "A doença rara que levou influenciadora a clínica psiquiátrica por 2 meses: 'Fui rotulada como psicótica por ser mulher'",
     "d": "Criadora de conteúdo que faz vídeos no metrô de Londres recebeu o diagnóstico de encefalite anti-receptor NMDA.",
     "link": "https://www.bbc.com/portuguese/articles/ck879j789y1zo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-25T22:36:59.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Cosan negocia reduzir participação na Rumo, Compass e Moove, dizem fontes",
-    "d": "Iniciativa de desinvestimento ganhou força após a reeleição do presidente Luiz Inácio Lula da Silva, já que alguns investidores aguardavam clareza no cenário político do país, disse uma das fontes",
-    "link": "https://www.cnnbrasil.com.br/infra/cosan-negocia-reduzir-participacao-na-rumo-compass-e-moove-dizem-fontes/",
-    "time": "2026-11-25T22:36:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Haddad vai voltar a dar aulas na USP em 2027",
-    "d": "Universidade confirmou à CNN o retorno do ex-ministro à pós-graduação; petista sinalizou a Lula a possibilidade de ficar fora do próximo governo",
-    "link": "https://www.cnnbrasil.com.br/politica/haddad-vai-voltar-a-dar-aulas-na-usp-em-2027/",
-    "time": "2026-11-25T22:35:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Motiva reorganiza liderança e Eduardo Camargo assume plataforma de trilhos",
-    "d": "Executivo passa a acumular comando de concessões de mobilidade urbana com ativos em rodovias; André Salcedo apoiará o grupo em projetos estratégicos",
-    "link": "https://www.cnnbrasil.com.br/infra/motiva-reorganiza-lideranca-e-eduardo-camargo-assume-plataforma-de-trilhos/",
-    "time": "2026-11-25T22:30:38.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Andy Taylor, guitarrista do Duran Duran, morre aos 65 anos de câncer",
-    "d": "Músico faleceu em casa acompanhado pela família após lutar contra um câncer de próstata diagnosticado em estágio avançado",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/andy-taylor-guitarrista-do-duran-duran-morre-aos-65-anos-de-cancer/",
-    "time": "2026-11-25T22:29:07.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Análise: Durigan assume protagonismo no ajuste fiscal",
-    "d": "Ministro da Fazenda foi coadjuvante da primeira etapa do pacote de medidas, chamado de \"Plano Moretti\"; análise de Pedro Venceslau para o CNN 360º",
-    "link": "https://www.cnnbrasil.com.br/politica/analise-durigan-assume-protagonismo-no-ajuste-fiscal/",
-    "time": "2026-11-25T22:27:49.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Escola pública gerida por entidade recebe nota 9,8 em qualidade de ensino",
-    "d": "Pesquisa do Datafolha indica que 96% dos entrevistados aprovam levar o formato do Liceu Coração de Jesus para outras regiões da capital e que fortaleceria a educação pública e gratuita",
-    "link": "https://www.cnnbrasil.com.br/educacao/escola-publica-gerida-por-entidade-recebe-nota-98-em-qualidade-de-ensino/",
-    "time": "2026-11-25T22:27:28.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "TCU permite o uso de modelo que pode destravar investimentos em ferrovias",
-    "d": "Decisão permite direcionar recursos de concessões existentes a novos projetos de infraestrutura; modelo pode ajudar a viabilizar empreendimentos com menor capacidade de atrair investidores",
-    "link": "https://www.cnnbrasil.com.br/infra/tcu-permite-o-uso-de-modelo-que-pode-destravar-investimentos-em-ferrovias/",
-    "time": "2026-11-25T22:25:45.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "CNN Brasil",
-    "h": "Inflação e atividade econômica seguem resilientes nos EUA, diz Fed",
-    "d": "Livro Bege identifica pressão de custos em vários setores e indica que empresas têm dificuldade para repassar aumentos aos consumidores",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/inflacao-e-atividade-economica-seguem-resilientes-nos-eua-diz-fed/",
-    "time": "2026-11-25T22:22:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Petróleo sobe com novo impasse entre EUA e Irã",
-    "d": "WTI avança 1,99%, enquanto Brent ganha 3,51%; investidores acompanham conflitos no Oriente Médio e aguardam reunião da Opep+",
-    "link": "https://www.cnnbrasil.com.br/economia/petroleo-fecha-em-alta-com-tensoes-entre-houthis-e-arabia-saudita-e-ataques-da-ucrania/",
-    "time": "2026-11-25T22:22:14.000Z"
   },
   {
     "cat": "internacional",
@@ -128,28 +248,12 @@
     "time": "2026-11-25T22:10:34.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
-    "d": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killi…",
-    "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-    "time": "2026-11-25T22:10:12.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "G1",
     "h": "Câmara aprova criação de marco nacional da educação em tempo integral",
     "d": "A Câmara dos Deputados aprovou nesta quarta-feira (25) projeto de lei que cria o Marco Nacional da Educação em Tempo Integral, com, no mínimo, 7 horas diárias dos alunos nas escolas ou 35 horas semanais. 🏫A adoção do…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/25/camara-aprova-criacao-de-marco-nacional-da-educacao-em-tempo-integral.ghtml",
     "time": "2026-11-25T21:57:21.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "North Korea expels Swiss diplomat in sanctions row",
-    "d": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T21:51:17.000Z"
   },
   {
     "cat": "internacional",
@@ -203,7 +307,7 @@
     "cat": "brasil",
     "src": "G1",
     "h": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
-    "d": "O governo brasileiro divulgou uma nota nesta quarta-feira (25) na qual manifestou \"indignação\" com a proposta do Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês) para que sejam impostas novas t…",
+    "d": "Brasil expressa 'indignação' por 'ameaça' de tarifa dos EUA O governo brasileiro divulgou uma nota nesta quarta-feira (25) na qual manifestou \"indignação\" com a proposta do Escritório do Representante Comercial dos EU…",
     "link": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
     "time": "2026-11-25T21:10:49.000Z"
   },
@@ -264,14 +368,6 @@
     "time": "2026-11-25T19:57:49.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-    "d": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T19:54:52.000Z"
-  },
-  {
     "cat": "economia",
     "src": "G1",
     "h": "Após suspensão, JBS espera retomada das exportações de frango à UE em dezembro",
@@ -328,14 +424,6 @@
     "time": "2026-11-25T17:30:16.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Tarifaço: açúcar brasileiro pode ter nova taxa para entrar nos EUA; veja o que pode mudar",
-    "d": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) aumentar a tributação sobre o açúcar importado do Brasil e cobrar uma tarifa adicional de 10% sobre ae…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/eua-querem-mudar-taxacao-sobre-acucar-brasileiro-veja-como-pode-ficar.ghtml",
-    "time": "2026-11-25T17:25:14.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "'Pago R$ 2 mil por mês para outra pessoa cuidar das burocracias do meu dia a dia — e vale a pena'",
@@ -352,50 +440,18 @@
     "time": "2026-11-25T17:09:28.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Bolsas dos EUA despencam com novo tarifaço de Trump e temores sobre investimentos em IA",
-    "d": "EUA propõem novas tarifas contra Brasil e 14 economias As bolsas de Nova York despencaram nesta quarta-feira (25), pressionadas por uma nova rodada de tarifas anunciadas pelo governo de Donald Trump e pela forte venda…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
-    "time": "2026-11-25T16:55:37.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula reúne ex-ministros da Justiça para discutir estrutura de nova pasta da Segurança Pública",
-    "d": "O presidente Luiz Inácio Lula da Silva (PT) reuniu, na manhã desta quarta-feira (25), três ex-ministros da Justiça e atuais membros do governo para discutir a criação do Ministério da Segurança Pública. A reunião, que…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/25/lula-reune-ex-ministros-da-justica-para-discutir-nova-pasta-da-seguranca-publica.ghtml",
-    "time": "2026-11-25T16:45:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Governo diz que bloqueou quase quatro mil celulares usados por presos em menos de 50 dias",
-    "d": "Quase quatro mil celulares que estavam sendo usados por detentos já foram alvo de bloqueio administrativo em menos de dois meses, 47 dias, após a publicação do decreto do governo federal que permitiu essa medida. Os d…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/25/governo-diz-que-bloqueou-quase-quatro-mil-celulares-usados-por-presos-em-menos-de-50-dias.ghtml",
-    "time": "2026-11-25T16:31:42.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Lula sonda Haddad sobre pasta de Investimentos, mas ex-ministro diz que não quer estar no governo; Trabuco ganha força para Fazenda",
-    "d": "Lula e Haddad Evaristo Sa / AFP via Getty Images No encontro de ontem entre Lula e Haddad, o presidente mencionou o interesse em criar uma secretaria especial para Investimentos, vinculada à Presidência da República,…",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/25/lula-haddad-pasta-de-investimentos-trabuco-ganha-forca-para-fazenda.ghtml",
-    "time": "2026-11-25T16:25:18.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "US announces new tariffs on host of countries including China",
-    "d": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T16:21:34.000Z"
+    "h": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+    "d": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-25T16:42:11.000Z"
   },
   {
     "cat": "economia",
     "src": "The Guardian",
     "h": "US inflation hits highest since May after prices climb 3.8% over the last year",
-    "d": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US tech stocks continued Wednesday as investors reacted to continued concern over the…",
+    "d": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the A…",
     "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
     "time": "2026-11-25T15:46:15.000Z"
   },
@@ -417,14 +473,6 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "d": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T14:46:41.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "China sends first foreign astronaut to ISS rival as it globalises space operations",
     "d": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says w…",
@@ -433,35 +481,11 @@
   },
   {
     "cat": "internacional",
-    "src": "BBC News",
-    "h": "Israeli strike kills senior Hamas security official and family in Gaza City",
-    "d": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T14:06:13.000Z"
-  },
-  {
-    "cat": "internacional",
     "src": "The Guardian",
     "h": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
     "d": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American tourists have been injured when a gr…",
     "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
     "time": "2026-11-25T14:03:18.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-    "d": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T12:21:49.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
-    "d": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise…",
-    "link": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
-    "time": "2026-11-25T11:59:22.000Z"
   },
   {
     "cat": "internacional",
@@ -488,14 +512,6 @@
     "time": "2026-11-25T10:04:46.000Z"
   },
   {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Protesters call on Israel to free Palestinian student held without charge",
-    "d": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T10:03:42.000Z"
-  },
-  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
@@ -518,14 +534,6 @@
     "d": "Abelardo de la Espriella to take control of operation trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 2…",
     "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
     "time": "2026-11-25T03:57:11.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-    "d": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-    "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-25T00:54:13.000Z"
   },
   {
     "cat": "internacional",
@@ -638,14 +646,6 @@
     "d": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executi…",
     "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
     "time": "2026-11-22T20:23:36.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "The Guardian",
-    "h": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-    "d": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when…",
-    "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-    "time": "2026-11-22T06:00:19.000Z"
   },
   {
     "cat": "economia",
