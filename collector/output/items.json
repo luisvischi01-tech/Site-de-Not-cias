@@ -1,19 +1,283 @@
 [
   {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Millions of wives in South Asia unprotected from marital rape - study",
+    "d": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+    "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-27T08:13:43.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Azul mudou programação para próxima temporada diante da alta do QAV",
+    "d": "CEO da companhia afirma que empresa fará remanejamentos na programação dos próximos meses para compensar aumento do combustível, apesar da demanda aquecida e de recorde de passageiros",
+    "link": "https://www.cnnbrasil.com.br/infra/azul-mudou-programacao-para-proxima-temporada-diante-da-alta-do-qav/",
+    "time": "2026-11-27T08:00:34.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Eleição na Espanha: O que está em jogo e quem pode vencer a votação?",
+    "d": "Escassez de moradias, preços inacessíveis para residências, imigração e corrupção tomaram conta do debate durante a campanha no país europeu",
+    "link": "https://www.cnnbrasil.com.br/internacional/eleicao-na-espanha-o-que-esta-em-jogo-e-quem-pode-vencer-a-votacao/",
+    "time": "2026-11-27T08:00:25.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Azul fala em desacelerar investimentos diante de incertezas no mercado",
+    "d": "Aérea afirma que a companhia pretende concentrar operações em mercados estratégicos e evitar abertura de novas rotas; compra de novas aeronaves também foi descartada",
+    "link": "https://www.cnnbrasil.com.br/infra/azul-fala-em-desacelerar-investimentos-diante-de-incertezas-no-mercado/",
+    "time": "2026-11-27T08:00:13.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "JBS amplia investimentos em colágeno e vê proteínas funcionais como negócio",
+    "d": "Wesley Batista Filho destaca fábrica em Presidente Epitácio (SP) e aposta em produtos voltados à saúde, ao desempenho e à longevidade",
+    "link": "https://www.cnnbrasil.com.br/agro/jbs-amplia-investimentos-em-colageno-e-ve-proteinas-funcionais-como-negocio/",
+    "time": "2026-11-27T08:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Dorival Júnior e Rafinha anunciam saída do São Paulo após o Brasileirão",
+    "d": "Treinador e diretor executivo comunicam que não vai continuar no clube após vitória por 3 a 1 sobre o Remo, no Morumbis",
+    "link": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/dorival-junior-e-rafinha-anunciam-saida-do-sao-paulo-apos-o-brasileirao/",
+    "time": "2026-11-27T07:57:49.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Trabuco indica governo melhor que o mercado esperava, diz BR Partners",
+    "d": "Ricardo Lacerda destaca escolha de Trabuco para a Fazenda e aposta em articulação do governo com o Congresso para reformas fiscais",
+    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trabuco-indica-governo-melhor-que-o-mercado-esperava-diz-br-partners/",
+    "time": "2026-11-27T07:25:35.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Black Friday: IA pode mudar preços e forma como clientes fazem compras",
+    "d": "Tecnologia amplia a personalização de ofertas e permite que consumidores encontrem valores diferentes pelo mesmo produto",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/black-friday-ia-pode-mudar-precos-e-a-forma-como-clientes-fazem-compras/",
+    "time": "2026-11-27T07:20:30.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Black Friday 2026 vira laboratório para compras feitas por IA",
+    "d": "Pesquisas mostram que maioria dos brasileiros vai usar tecnologia para buscar ofertas, mas ainda não confiam na hora de fechar a compra",
+    "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/black-friday-2026-vira-laboratorio-para-compras-feitas-por-ia/",
+    "time": "2026-11-27T07:10:23.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Governistas elogiam escolha de Lula por Trabuco para a Fazenda",
+    "d": "Alckmin, Durigan, Wellington Dias, José Guimarães e Rafael Fonteles destacaram a experiência do executivo e manifestaram apoio à indicação para comandar a pasta em 2027",
+    "link": "https://www.cnnbrasil.com.br/politica/governistas-elogiam-escolha-de-lula-por-trabuco-para-a-fazenda/",
+    "time": "2026-11-27T07:05:35.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "CNN Brasil",
+    "h": "Trabuco na Fazenda tem aval de Brasília, mercado e setor produtivo",
+    "d": "Ministros, cúpula do Congresso, economistas e entidades da indústria e dos bancos elogiam escolha; Bolsa sobe 6% e dólar recua",
+    "link": "https://www.cnnbrasil.com.br/politica/trabuco-na-fazenda-tem-aval-de-brasilia-mercado-e-setor-produtivo/",
+    "time": "2026-11-27T07:00:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "“Avenida Brasil”: relembre o que acontece no último capítulo da novela",
+    "d": "Trama de João Emanuel Carneiro tem desfechos eletrizantes, com rumos inesperados para os personagens que foram destaque ao longo de muitos meses",
+    "link": "https://www.cnnbrasil.com.br/pop/tv/avenida-brasil-relembre-o-que-acontece-no-ultimo-capitulo-da-novela/",
+    "time": "2026-11-27T07:00:07.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Paulo Guedes, Haddad e Durigan: quem foram os últimos ministros da Fazenda do Brasil antes da escolha de Trabuco",
+    "d": "Luiz Carlos Trabuco, presidente do conselho de administração do Banco Bradesco SA, posa para foto em São Paulo, Brasil, 3 de dezembro de 2024. REUTERS/Amanda Perobelli Presidente do Conselho de Administração do Brades…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/27/paulo-guedes-haddad-e-durigan-quem-foram-os-ultimos-ministros-da-fazenda-do-brasil-antes-da-escolha-de-trabuco.ghtml",
+    "time": "2026-11-27T07:00:02.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Carne brasileira 'dopada'? Auditoria da própria União Europeia contraria declaração de Macron",
+    "d": "Imagem do presidente da França, Emmanuel Macron, durante uma reunião com representantes do setor agrícola francês no Palácio do Eliseu, em 25 de novembro d e2026. Reprodução A declaração do presidente da França, Emman…",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/27/carne-brasileira-dopada-auditoria-da-propria-uniao-europeia-contraria-declaracao-de-macron.ghtml",
+    "time": "2026-11-27T07:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "CNN Brasil",
+    "h": "Toffoli abre brecha para posse de deputado suspeito de elo com PCC",
+    "d": "Ministro suspendeu julgamento de Ney Santos logo após relator votar pela anulação dos votos que deram uma cadeira na Câmara para o ex-prefeito de Embu das Artes (SP)",
+    "link": "https://www.cnnbrasil.com.br/politica/toffoli-abre-brecha-para-posse-de-deputado-suspeito-de-elo-com-pcc/",
+    "time": "2026-11-27T07:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+    "d": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola lov…",
+    "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+    "time": "2026-11-27T06:00:56.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Nome de confiança da Faria Lima, Luiz Trabuco cultivou amizade com Lula à frente do Bradesco",
+    "d": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC Natural de Marília, no interior de São Paulo, Luiz Carlos Trabuco começou a trabalhar ainda…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
+    "time": "2026-11-27T06:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "Major Thanksgiving storm brings flooding, flight delays across US",
+    "d": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-27T05:15:26.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "No dia da Black Friday, 58% dos itens pesquisados têm descontos; 33% estão mais caros; veja lista",
+    "d": "É Black Friday ou Black Fraude? Para checar se os preços da Black Friday, nesta sexta (27), têm descontos de verdade, o Guia de Compras pesquisou na última semana como estão os preços de 74 produtos. No dia da Black F…",
+    "link": "https://g1.globo.com/guia/guia-de-compras/no-dia-da-black-friday-58percent-dos-itens-pesquisados-tem-descontos-33percent-estao-mais-caros.ghtml",
+    "time": "2026-11-27T04:46:06.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Fundo de ações brasileiras sobe mais de 9% nos EUA após confirmação de Trabuco na Fazenda",
+    "d": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC O EWZ, fundo de investimento negociado nos Estados Unidos que acompanha o desempenho de açõ…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/27/ewz-sobe-apos-confirmacao-de-trabuco-na-fazenda.ghtml",
+    "time": "2026-11-27T04:19:41.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854",
+    "d": "No início da noite desta quinta-feira (26), Luiz Carlos Trabuco disse sim ao presidente Lula e será o ministro da Fazenda no quarto mandato do petista. Presidente do Conselho de Administração do Bradesco, Trabuco é vi…",
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml",
+    "time": "2026-11-27T03:30:02.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "BBC News",
+    "h": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "d": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+    "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-27T03:28:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Relatório do Senado retira redução de prazo para dirigentes de partidos assumirem estatais",
+    "d": "A senadora Eliziane Gama (PSD-MA) publicou nesta quarta-feira (25) relatório em que retira qualquer mudança na Lei das Estatais de um projeto aprovado pela Câmara em dezembro de 2022. Os deputados propuseram, na ocasi…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml",
+    "time": "2026-11-27T03:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Após atuar como porta-voz da economia na campanha, futuro de Durigan no governo Lula 4 é incerto",
+    "d": "O ministro Dario Durigan em entrevista ao g1 Reprodução/TV Globo O anúncio de Luiz Carlos Trabuco para o Ministério da Fazenda deixou em aberto o destino de Dario Durigan no próximo governo do presidente Luiz Inácio L…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/27/apos-atuar-como-porta-voz-da-economia-na-campanha-futuro-de-durigan-no-governo-lula-4-e-incerto.ghtml",
+    "time": "2026-11-27T03:00:02.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Após EUA proporem taxar aviões brasileiros, Mauro Vieira oferece apoio à Embraer para buscar novos mercados",
+    "d": "O ministro das Relações Exteriores, Mauro Vieira, se reuniu com o presidente da Embraer, Francisco Gomes Neto, nesta quinta-feira (26) e afirmou a ele que a diplomacia brasileira poderá buscar novos mercados para as e…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
+    "time": "2026-11-27T03:00:01.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+    "d": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4 Escolhido pelo presidente Luiz Inácio Lula da Silva (PT) para comandar o Ministério da Fazenda, Luiz Carlos Trabuco assumirá o principal minist…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-tera-ajuste-fiscal-juros-e-resistencia-no-pt-entre-desafios-a-frente-da-fazenda.ghtml",
+    "time": "2026-11-27T03:00:01.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Quem é Bruno Moretti, ministro de confiança de Lula que ajudou a formular o ajuste fiscal e é cotado para seguir no Planejamento",
+    "d": "O ministro do Planejamento e Orçamento, Bruno Moretti. Fábio Rodrigues Pozzebom/Agência Brasil Com a confirmação de Luiz Carlos Trabuco como ministro da Fazenda do novo governo Lula, ganha força a permanência de Bruno…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/27/quem-e-bruno-moretti.ghtml",
+    "time": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "G1",
+    "h": "Advogados relatam demora do BRB para liberar depósitos judiciais; OAB da Paraíba cogita acionar órgãos de controle",
+    "d": "Depósitos judiciais sob responsabilidade do Banco de Brasília (BRB) têm gerado preocupação em advogados, que relatam demora do banco para liberar o dinheiro. O temor é que o BRB não tenha liquidez para honrar os compr…",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/27/advogados-relatam-demora-do-brb-para-liberar-depositos-judiciais-oab-da-paraiba-cogita-acionar-orgaos-de-controle.ghtml",
+    "time": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros",
+    "d": "Luiz Carlos Trabuco vai ser o próximo ministro da Fazenda O motivo do grande otimismo do mercado financeiro tem nome e sobrenome: Luiz Carlos Trabuco. Nesta quinta-feira (26), o presidente do conselho de administração…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/27/por-que-trabuco-provocou-euforia-no-mercado-entenda-o-que-esperar-para-dolar-bolsa-e-juros.ghtml",
+    "time": "2026-11-27T03:00:00.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "New Zealand election: final results show ruling coalition needs minor party to govern",
+    "d": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incum…",
+    "link": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+    "time": "2026-11-27T02:38:15.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Sereno', Trabuco é 'capaz de reduzir a tensão' com mercado, diz Lara Resende; veja a reação de outros economistas à escolha na Fazenda",
+    "d": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
+    "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-27T02:31:39.000Z"
+  },
+  {
+    "cat": "internacional",
+    "src": "The Guardian",
+    "h": "Threat from China looms large over Taiwan’s local elections",
+    "d": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fort…",
+    "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+    "time": "2026-11-27T01:00:49.000Z"
+  },
+  {
     "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco",
     "d": "Executivo chega à Fazenda em cenário de pressão sobre as contas públicas; mercado reagiu bem às expectativas de seu anúncio na pasta.",
     "link": "https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-26T23:59:26.000Z"
+    "time": "2026-11-27T00:18:18.000Z"
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Hugo deseja êxito a Trabuco na Fazenda e prega diálogo por agenda econômica",
-    "d": "Banqueiro aceitou nesta quinta-feira (26) o convite do presidente Lula para comandar o Ministério da Fazenda a partir de 2027; novo ministro terá carta branca para montar equipe",
-    "link": "https://www.cnnbrasil.com.br/politica/hugo-deseja-exito-a-trabuco-na-fazenda-e-prega-dialogo-por-agenda-economica/",
-    "time": "2026-11-26T23:49:27.000Z"
+    "src": "G1",
+    "h": "'Um país caminha bem quando conduzido com seriedade e ética', diz Durigan após anuncio de Trabuco na Fazenda",
+    "d": "Governo Lula confirma Trabuco como ministro da Fazenda; Alcolumbre elogia escolha Após o governo do presidente Luiz Inácio Lula da Silva (PT) confirmar Luiz Carlos Trabuco como futuro ministro da Fazenda, o atual titu…",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/26/um-pais-caminha-bem-quando-conduzido-com-seriedade-e-etica-diz-durigan-apos-anuncio-de-trabuco-na-fazenda.ghtml",
+    "time": "2026-11-27T00:09:17.000Z"
+  },
+  {
+    "cat": "economia",
+    "src": "G1",
+    "h": "Mega-Sena 3091 acumula e prêmio vai a R$ 82 milhões; confira os números sorteados",
+    "d": "Como funciona a Mega-Sena? O sorteio do concurso 3.091 da Mega-Sena foi realizado na noite desta quinta-feira (26), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 72,4 milhões. No enta…",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-concurso-3091-confira-os-numeros-sorteados.ghtml",
+    "time": "2026-11-27T00:04:53.000Z"
   },
   {
     "cat": "brasil",
@@ -25,43 +289,11 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Trabuco ouve de Lula que terá liberdade para montar equipe, dizem fontes",
-    "d": "Presidente do Conselho do Bradesco aceitou convite para ser ministro da Fazenda",
-    "link": "https://www.cnnbrasil.com.br/politica/trabuco-ouve-de-lula-que-tera-liberdade-para-montar-equipe-dizem-fontes/",
-    "time": "2026-11-26T23:41:14.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "STF decidirá sobre impasse eleitoral no Rio antes da diplomação de Ruas",
-    "d": "Ministros vão analisar, entre 4 e 15 de dezembro, o cabimento da ação do PSD, que tenta restabelecer o segundo turno entre Eduardo Paes (PSD) e Douglas Ruas (PL), e o pedido de suspensão da cerimônia marcada para o di…",
-    "link": "https://www.cnnbrasil.com.br/politica/stf-decidira-sobre-impasse-eleitoral-no-rio-antes-da-diplomacao-de-ruas/",
-    "time": "2026-11-26T23:31:51.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Alcolumbre diz receber com “muito otimismo” escolha de Trabuco para Fazenda",
-    "d": "Presidente do Conselho de Administração do Bradesco aceitou convite de Lula na noite desta quinta-feira (26) e comandará ministério a partir de 2027",
-    "link": "https://www.cnnbrasil.com.br/politica/alcolumbre-diz-receber-com-muito-otimismo-escolha-de-trabuco-para-fazenda/",
-    "time": "2026-11-26T23:22:16.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Alcolumbre elogia escolha de Trabuco para o Ministério da Fazenda; Motta fala em construção de uma agenda econômica",
     "d": "Presidente do Senado, Davi Alcolumbre (União-AP), conduz sessão de votação de destaques ao ajuste fiscal Waldemir Barreto/Agência Senado O presidente do Senado, Davi Alcolumbre (União-AP), disse nesta quinta-feira (26…",
     "link": "https://g1.globo.com/politica/noticia/2026/11/26/alcolumbre-elogia-escolha-de-trabuco-para-o-ministerio-da-fazenda-e-destaca-habilidade-de-dialogo.ghtml",
     "time": "2026-11-26T23:21:11.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Planalto confirma que Trabuco aceitou convite para comandar Fazenda",
-    "d": "Lula se reuniu com presidente do Conselho de Administração do Bradesco no Palácio do Alvorada nesta quinta-feira (26)",
-    "link": "https://www.cnnbrasil.com.br/politica/planalto-confirma-que-trabuco-aceitou-convite-para-comandar-fazenda/",
-    "time": "2026-11-26T23:11:44.000Z"
   },
   {
     "cat": "brasil",
@@ -73,22 +305,6 @@
   },
   {
     "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Srour: Trabuco transmite ao mercado autonomia para conduzir agenda",
-    "d": "Colunista avalia que nome de peso aumenta confiança do mercado, mas sucesso depende da equipe e do apoio político de Lula",
-    "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/srour-trabuco-transmite-ao-mercado-autonomia-para-conduzir-agenda/",
-    "time": "2026-11-26T23:11:10.000Z"
-  },
-  {
-    "cat": "comercio",
-    "src": "CNN Brasil",
-    "h": "Ministério da Agricultura rebate Macron por críticas à carne do Brasil",
-    "d": "Em nota conjunta, Ministérios da Agricultura e das Relações Exteriores afirmam que restrições europeias têm caráter protecionista e dizem que poderão recorrer a instrumentos para defender exportadores",
-    "link": "https://www.cnnbrasil.com.br/agro/ministerio-da-agricultura-rebate-macron-por-criticas-a-carne-do-brasil/",
-    "time": "2026-11-26T23:07:43.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "G1",
     "h": "Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda",
     "d": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Administraçã…",
@@ -96,44 +312,12 @@
     "time": "2026-11-26T23:05:51.000Z"
   },
   {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Experimento realizado no espaço pode ajudar a detectar sinais precoces do Alzheimer; pesquisa tem participação da Nasa e de pesquisadores brasileiros",
-    "d": "Cientistas enviaram minicérebros humanos para a Estação Espacial Internacional para observar alterações celulares sob gravidade zero",
-    "link": "https://www.cnnbrasil.com.br/ciencia/experimento-realizado-no-espaco-pode-ajudar-a-detectar-sinais-precoces-do-alzheimer-pesquisa-tem-participacao-da-nasa-e-de-pesquisadores-brasileiros/",
-    "time": "2026-11-26T23:03:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Chuva em SP supera em 50% o esperado para o mês de novembro",
-    "d": "Acumulado no mês atingiu 201,4 mm, superando os 133,1mm esperados; dados foram divulgados pelo CGE divulgados nesta quinta-feira (26)",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-em-sp-supera-em-50-o-esperado-para-o-mes-de-novembro/",
-    "time": "2026-11-26T23:00:21.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Corinthians anuncia ex-Palmeiras como técnico do futebol feminino",
-    "d": "Macorin assume o comando das Brabas após a saída de Emily Lima, demitida depois do vice na Libertadores",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-anuncia-ex-palmeiras-como-tecnico-do-futebol-feminino/",
-    "time": "2026-11-26T22:55:03.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-    "d": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+    "h": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "d": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-26T22:49:27.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Uerj abre 125 vagas em cursos de graduação com seleção por nota do Enem",
-    "d": "Exigência mínima é de 200 pontos nas provas objetivas e 300 na redação além de ter concluído o ensino médio; inscrições devem ser feitas pelo site do vestibular até segunda-feira (30)",
-    "link": "https://www.cnnbrasil.com.br/educacao/uerj-abre-125-vagas-em-cursos-de-graduacao-com-selecao-por-nota-do-enem/",
-    "time": "2026-11-26T22:49:14.000Z"
   },
   {
     "cat": "brasil",
@@ -144,38 +328,6 @@
     "time": "2026-11-26T22:26:34.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Brasil rebate Macron após fala sobre carne 'dopada' e acusa França de protecionismo",
-    "d": "Presidente da França, Emmanuel Macron, em coletiva de imprensa no Catar em 21 de outubro de 2026. REUTERS/Benoit Tessier/Pool O governo brasileiro criticou, nesta quinta-feira (26), as declarações do presidente da Fra…",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
-    "time": "2026-11-26T22:20:46.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "CNN Brasil",
-    "h": "Rumo e Inpasa iniciam transporte de coproduto do etanol de milho",
-    "d": "Primeira operação comercial prevê o escoamento de 30 mil toneladas de DDGS por ferrovia de Mato Grosso ao Porto de Santos, com destino ao mercado externo",
-    "link": "https://www.cnnbrasil.com.br/agro/rumo-e-inpasa-iniciam-transporte-de-coproduto-do-etanol-de-milho/",
-    "time": "2026-11-26T22:14:00.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4",
-    "d": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda Luiz Carlos Trabuco aceitou, nesta quinta-feira (26), ser o ministro da Fazenda no quarto mandato de Luiz Inácio Lula da Silva (PT). Presidente do Cons…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/26/quem-e-luiz-trabuco-escolhido-como-ministro-da-fazenda-do-governo-lula-4.ghtml",
-    "time": "2026-11-26T22:11:05.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda",
-    "d": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, aceitou o convite do presidente Luiz Inácio Lula da Silva (PT) para assumir…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/26/trabuco-aceita-convite-de-lula-para-assumir-ministerio-da-fazenda.ghtml",
-    "time": "2026-11-26T22:09:01.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
@@ -184,36 +336,12 @@
     "time": "2026-11-26T22:01:22.000Z"
   },
   {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021",
-    "d": "Ibovespa dispara 6% e dólar cai com Trabuco confirmado ministro da Fazenda O Ibovespa registrou nesta quinta-feira (26) sua segunda maior alta diária desde janeiro de 2021, com ganhos em praticamente todas as ações qu…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml",
-    "time": "2026-11-26T21:48:09.000Z"
-  },
-  {
     "cat": "internacional",
     "src": "BBC News",
     "h": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
     "d": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-26T21:17:53.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "STF decide que aplicação piso nacional de professores depende de lei aprovada em estados e municípios",
-    "d": "O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (26) que estados e municípios devem aprovar leis próprias para aplicar o piso nacional do magistério público da educação básica aos seus profissionais. Preva…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/26/stf-decide-que-aplicacao-piso-nacional-de-professores-depende-de-lei-aprovada-em-estados-e-municipios.ghtml",
-    "time": "2026-11-26T21:00:17.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Luiz Trabuco se reúne com Lula em Brasília; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
-    "d": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, um dos nomes cotados…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
-    "time": "2026-11-26T20:30:47.000Z"
   },
   {
     "cat": "brasil",
@@ -249,43 +377,11 @@
   },
   {
     "cat": "brasil",
-    "src": "G1",
-    "h": "Clubes de futebol pedem mediação do STF para preservar patrocínio de bets",
-    "d": "Clubes de futebol pedem ao ministro Luiz Fux para mediar período de transição das Bets A Liga do Futebol Brasileiro e 17 clubes de futebol acionaram o Supremo Tribunal Federal (STF) para que seja aberta mediação e dis…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
-    "time": "2026-11-26T19:09:20.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
-    "d": "Durigan fala em rever gastos e mirar supersalários O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (26) que o governo discute novas medidas para conter o crescimento das despesas públicas e melhorar a…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
-    "time": "2026-11-26T19:08:44.000Z"
-  },
-  {
-    "cat": "brasil",
     "src": "BBC News Brasil",
     "h": "Cientistas encontram dezenas de espécies potencialmente novas em montanhas da Amazônia",
     "d": "Um time de 16 cientistas passou 19 dias numa região de difícil acesso na maior floresta tropical do mundo, onde coletou milhares de seres vivos, muitos deles potencialmente novos para a Ciência.",
     "link": "https://www.bbc.com/portuguese/articles/c95y1k8z7m6ro?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-26T18:58:41.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Espanhol Pablo Hernández de Cos é escolhido para presidir o Banco Central Europeu",
-    "d": "O governador do Banco da Espanha, Pablo Hernandez de Cos, participa do início da sessão plenária do Comitê Monetário e Financeiro Internacional (IMFC) durante a reunião anual do Fundo Monetário Internacional e do Banc…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/26/espanhol-pablo-hernandez-de-cos-e-escolhido-para-presidir-o-banco-central-europeu.ghtml",
-    "time": "2026-11-26T18:42:40.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Renovação por 30 dias da subvenção de R$ 2,12 por litro de diesel deve ser publicada nesta sexta, diz Fazenda",
-    "d": "O Ministério da Fazenda informou nesta quinta-feira (26) que a renovação por mais 30 dias da subvenção econômica de R$ 2,12 por litro do óleo diesel deve ser publicada nesta sexta-feira (27) no \"Diário Oficial da Uniã…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/26/fazenda-diz-que-renovacao-por-mais-30-dias-da-subvencao-de-r-212-por-litro-de-diesel-sera-publicada-nesta-sexta.ghtml",
-    "time": "2026-11-26T18:37:06.000Z"
   },
   {
     "cat": "brasil",
@@ -294,38 +390,6 @@
     "d": "Instituto afirma que a destruição é uma medida excepcional, prevista na legislação e adotada quando não há como retirar os equipamentos do local. Senador e Defensoria Pública no Amazonas contestam ações.",
     "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-26T18:26:09.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Senado aprova projeto que proíbe fiança em caso de morte no trânsito causada por embriaguez ao volante",
-    "d": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou um projeto que acaba com a possibilidade de fiança nos casos de homicídio culposo em acidentes de trânsito provocados por embriaguez ao volante. 🔎Um crime…",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/26/senado-aprova-projeto-que-proibe-fianca-em-caso-de-morte-no-transito-causada-por-embriaguez-ao-volante.ghtml",
-    "time": "2026-11-26T18:12:48.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "G1",
-    "h": "Número de pedidos para primeira CNH cresce 193% em 2026, segundo Ministério dos Transportes",
-    "d": "Autoescola, instrutor autônomo, motorista, CNH, Carteira Nacional de Habilitação, dirigir, Detran, Detran-SP Reprodução/EPTV Até novembro deste ano, foram abertos 8,59 milhões de processos para obtenção da primeira Ca…",
-    "link": "https://g1.globo.com/carros/noticia/2026/11/26/numero-de-pedidos-para-primeira-cnh-cresce-193percent-em-2026-segundo-ministerio-dos-transportes.ghtml",
-    "time": "2026-11-26T16:56:27.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
-    "d": "A Instituição Fiscal Independente (IFI), órgão ligado ao Senado Federal, estimou que sem os benefícios concedidos a produtos e setores da sociedade durante a tramitação da reforma tributária sobre o consumo, a alíquot…",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml",
-    "time": "2026-11-26T16:00:01.000Z"
-  },
-  {
-    "cat": "economia",
-    "src": "G1",
-    "h": "Black Friday: celulares lideram descontos no PIX entre produtos monitorados pelo g1; veja lista",
-    "d": "É Black Friday ou Black Fraude? Os celulares são a categoria com a maior diferença entre o preço no PIX e no cartão de crédito entre os 74 produtos monitorados pelo g1 na semana da Black Friday. Os 16 modelos da lista…",
-    "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-celulares-lideram-descontos-no-pix-entre-produtos-monitorados-pelo-g1-veja-lista.ghtml",
-    "time": "2026-11-26T16:00:00.000Z"
   },
   {
     "cat": "internacional",
@@ -354,50 +418,18 @@
   {
     "cat": "internacional",
     "src": "BBC News",
-    "h": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-    "d": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-26T12:33:23.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
     "h": "Egyptian authorities arrest motorist over tanker crash that killed 31",
     "d": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
     "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-26T12:16:06.000Z"
   },
   {
-    "cat": "internacional",
+    "cat": "economia",
     "src": "The Guardian",
     "h": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
     "d": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right…",
     "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
     "time": "2026-11-26T12:00:22.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-    "d": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-    "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-26T11:00:39.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa",
-    "d": "Lula acabou se tornando personagem das eleições na Espanha em 29 de novembro, onde os favoritos são o atual premiê, Pedro Sánchez, do Partido Socialista Operário Espanhol, de esquerda, e Alberto Núñez Feijóo, do Parti…",
-    "link": "https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-26T10:40:41.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "BBC News",
-    "h": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-    "d": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-    "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-26T10:25:51.000Z"
   },
   {
     "cat": "brasil",
@@ -406,14 +438,6 @@
     "d": "Em 2022, agência espacial americana enviou espaçonave para colidir contra Dimorphos, uma rocha de 150 metros de diâmetro, e testar resposta contra eventual ameaça de corpo celeste de grande porte voando em direção à T…",
     "link": "https://www.bbc.com/portuguese/articles/cmx29v1ekq9qo?at_medium=RSS&at_campaign=rss",
     "time": "2026-11-26T08:44:10.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
-    "d": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east The wife of a Japanese journalist who has been detained in Russia for more t…",
-    "link": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
-    "time": "2026-11-26T05:16:17.000Z"
   },
   {
     "cat": "internacional",
@@ -446,6 +470,14 @@
     "d": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killi…",
     "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
     "time": "2026-11-26T00:39:10.000Z"
+  },
+  {
+    "cat": "brasil",
+    "src": "BBC News Brasil",
+    "h": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
+    "d": "Escritora canadense crítica do capitalismo acredita que o mundo precisa de uma economia 'que vá muito além da busca pelo lucro e que comece por atender às necessidades mais básicas das pessoas'.",
+    "link": "https://www.bbc.com/portuguese/articles/c60md8pz90pko?at_medium=RSS&at_campaign=rss",
+    "time": "2026-11-25T20:36:29.000Z"
   },
   {
     "cat": "internacional",
@@ -542,22 +574,6 @@
     "d": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO a…",
     "link": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
     "time": "2026-11-24T20:32:02.000Z"
-  },
-  {
-    "cat": "internacional",
-    "src": "The Guardian",
-    "h": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-    "d": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters we…",
-    "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-    "time": "2026-11-24T16:00:50.000Z"
-  },
-  {
-    "cat": "brasil",
-    "src": "BBC News Brasil",
-    "h": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
-    "d": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
-    "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-11-24T11:28:48.000Z"
   },
   {
     "cat": "economia",
